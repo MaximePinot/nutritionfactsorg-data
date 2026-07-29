@@ -1,0 +1,199 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://nutritionfacts.ouvaton.org/schemas/video.schema.json",
+    "title": "Video",
+    "description": "A Video article from nutritionfacts.org",
+    "type": "object",
+    "properties": {
+        "Title": {
+            "type": "string",
+            "minLength": 1
+        },
+        "Url": {
+            "type": "string",
+            "minLength": 33,
+            "format": "uri",
+            "pattern": "^https:\\/\\/nutritionfacts\\.org\\/video\\/"
+        },
+        "YouTubeVideo": {
+            "type": "object",
+            "properties": {
+                "Url": {
+                    "type": "string",
+                    "minLength": 24,
+                    "format": "uri",
+                    "pattern": "^https:\\/\\/(www\\.)?youtube\\.com\\/"
+                }
+            },
+            "required": [
+                "Url"
+            ],
+            "additionalProperties": false
+        },
+        "UpdatedAt": {
+            "type": "string",
+            "minLength": 25,
+            "maxLength": 25,
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\+\\d{2}:\\d{2}$"
+        },
+        "Author": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "minLength": 1,
+                    "enum": [
+                        "Michael Greger M.D. FACLM",
+                        "Kristine Dennis PhD, MPH"
+                    ]
+                }
+            ]
+        },
+        "Volume": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "Title": {
+                            "type": "string",
+                            "minLength": 1
+                        },
+                        "Url": {
+                            "type": "string",
+                            "minLength": 35,
+                            "format": "uri",
+                            "pattern": "^https:\\/\\/nutritionfacts\\.org\\/volumes\\/"
+                        }
+                    },
+                    "required": [
+                        "Title",
+                        "Url"
+                    ],
+                    "additionalProperties": false
+                }
+            ]
+        },
+        "License": {
+            "type": "object",
+            "properties": {
+                "Name": {
+                    "type": "string",
+                    "enum": [
+                        "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+                    ]
+                },
+                "Url": {
+                    "type": "string",
+                    "format": "uri",
+                    "enum": [
+                        "https://creativecommons.org/licenses/by-nc/4.0/"
+                    ]
+                }
+            },
+            "required": [
+                "Name",
+                "Url"
+            ],
+            "additionalProperties": false
+        },
+        "Description": {
+            "type": "string",
+            "minLength": 1
+        },
+        "Transcript": {
+            "type": "string",
+            "minLength": 1
+        },
+        "Sources": {
+            "type": "array",
+            "minItems": 0,
+            "uniqueItems": true,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "Title": {
+                        "type": "string",
+                        "minLength": 1
+                    },
+                    "Url": {
+                        "oneOf": [
+                            {
+                                "type": "null"
+                            },
+                            {
+                                "type": "string",
+                                "minLength": 1,
+                                "format": "uri"
+                            }
+                        ]
+                    }
+                },
+                "required": [
+                    "Title",
+                    "Url"
+                ],
+                "additionalProperties": false
+            }
+        },
+        "Acknowledgements": {
+            "type": "string",
+            "minLength": 0
+        },
+        "Topics": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "minItems": 0,
+                "uniqueItems": true,
+                "properties": {
+                    "Title": {
+                        "type": "string",
+                        "minLength": 1
+                    },
+                    "Url": {
+                        "type": "string",
+                        "minLength": 35,
+                        "format": "uri",
+                        "pattern": "^https:\\/\\/nutritionfacts\\.org\\/topics\\/[\\w-]+\\/$"
+                    }
+                },
+                "required": [
+                    "Title",
+                    "Url"
+                ],
+                "additionalProperties": false
+            }
+        },
+        "DoctorsNote": {
+            "type": "object",
+            "properties": {
+                "Html": {
+                    "type": "string",
+                    "minLength": 1
+                }
+            },
+            "required": [
+                "Html"
+            ],
+            "additionalProperties": false
+        }
+    },
+    "required": [
+        "Title",
+        "Url",
+        "YouTubeVideo",
+        "UpdatedAt",
+        "Author",
+        "Volume",
+        "License",
+        "Description",
+        "Transcript",
+        "Sources",
+        "Acknowledgements",
+        "Topics",
+        "DoctorsNote"
+    ],
+    "additionalProperties": false
+}
