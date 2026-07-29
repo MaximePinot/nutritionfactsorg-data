@@ -1,0 +1,123 @@
+{
+  "Title": "Are the Lower Iron Stores in Vegetarians a Risk or a Benefit?",
+  "Url": "https://nutritionfacts.org/video/are-the-lower-iron-stores-in-vegetarians-a-risk-or-a-benefit/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/y0R1dLYMMpk"
+  },
+  "UpdatedAt": "2026-03-11T11:50:27+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 72",
+    "Url": "https://nutritionfacts.org/volumes/volume-72/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Having high iron stores can increase cancer risk such that those randomized to donate blood experience a dramatic reduction in cancer death rates.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn this three-part video series, I’ll be doing a deep dive into iron. We’ll look at the ferritin blood test––what that tells us about iron stores, and why vegetarians tend to hit the sweet spot, since high levels are associated with chronic disease, like type 2 diabetes and cancer. That’s why you decrease cancer rates when you bleed people through blood donations. What’s the healthiest way to maintain optimum iron levels? Let’s dig in!\nThe ferritin blood test measures iron stores, and a typical normal value is in the 30 to 300 range. Almost universally, vegetarians have lower ferritin levels than nonvegetarians; for example, 39 versus 77. In one of the largest studies ever done, using that 30 cut-off as a sign of iron deficiency, about half of the menstruating vegetarians scored as iron deficient, compared to only about a third of the menstruating omnivores. But lower iron stores may actually be better, shooting for scoring between 15, which is the World Health Organization’s cut-off for iron deficiency, and 50, because levels above 50 are associated with disease. In that case, it could be vegetarians are right in the sweet spot, because iron is a double-edged sword, producing free radicals in the body that can cause oxidative damage to our proteins and very DNA.\nFor example, high iron intake is a risk factor for type 2 diabetes, contributing to all the cardinal features of the disease. And that’s true across the normal range of iron levels, not just for people with some kind of iron overload disease. So, the “elevated” ferritin that’s a risk factor for diabetes can just be the average typical ferritin level––increasing the odds of diabetes by 20% compared to low levels, whereas high ferritin is even worse, increasing the odds by 43%.\nWait a second, though. Might higher iron stores just be a proxy for more meat consumption? After all, based on studies encompassing nearly two million people, higher consumption of all kinds of meat—red meat, poultry, processed, unprocessed—is associated with higher rates of diabetes. Why do we think it’s the iron, and not just the saturated fat and other harmful stuff in meat? Because genetic evidence supports a causal link between increased systemic iron status and increased diabetes risk. In other words, regardless of what you eat, if you just happened to be born with genes that tend to give you higher iron stores, you tend to have more diabetes risk.\nIdeally, we’d prove it with an interventional trial. Check it out. Researchers looked at lean healthy men and women, and found out that the vegetarians were more insulin-sensitive than the meat eaters. Prediabetes and type 2 diabetes are diseases of impaired insulin sensitivity. So, the vegetarians were doing better. The vegetarians also had lower ferritin levels. To test whether their iron status might be to blame, iron levels in six male meat-eaters were lowered by phlebotomy—bloodletting, like donating blood—to levels similar to those seen in vegetarians. So, they were bled so their ferritin dropped from over 70 down closer to 30. And what happened? Their insulin sensitivity improved by about 40%. The iron-lowering trial using blood draws demonstrated that iron is indeed a key factor in the difference in insulin resistance among vegetarians and meat eaters.\nIron can also be a double-edged sword when it comes to cancer. Cancer can be viewed as a ferrotoxic disease, a disease of iron toxicity, as iron plays an important role in oxidative tissue damage and subsequent cancer development. But again, a link between high iron stores and cancer could just be a link between meat consumption and cancer. Too bad we couldn’t do some kind of blood donation study with cancer––oh, but we can. Decreased cancer risk after iron reduction. More than a thousand cancer-free individuals randomized to give blood donations or not were followed for the next four and a half years, and those who gave blood had a 60% lower risk of dying from cancer. Wait! They cut their risk of dying from cancer by more than half just because they donated blood? The accompanying editorial remarked that those results seemed almost too good to be true! Reducing one’s iron stores appeared to rapidly decrease cancer development, suggesting that just regular ambient levels of iron stores may be noxious and constitute a public health threat. So, there may be a need to redefine the normal range for blood ferritin. It should be normal based on what’s healthy, not just based on what happens to be common. Yes, when ferritin slips to less than like 12 ng/mL, that is too low, but iron toxicity diseases may start with ferritin levels greater than about 50 ng/mL.\nSo yes, vegetarians are more likely to have lower iron stores compared with non-vegetarians. However, since high iron stores are also a risk factor for certain chronic diseases, such as type 2 diabetes, it is recommended that we all need to make sure we’re not getting too much, and we can do that by improving our diet by consuming more plants and less meat.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Edgren G, Nyrén O, Melbye M. Cancer as a ferrotoxic disease: are we getting hard stainless evidence? J Natl Cancer Inst. 2008;100(14):976-977.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18612127/"
+    },
+    {
+      "Title": "Haider LM, Schwingshackl L, Hoffmann G, Ekmekcioglu C. The effect of vegetarian diets on iron status in adults: A systematic review and meta-analysis. Crit Rev Food Sci Nutr. 2018;58(8):1359-1374.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27880062/"
+    },
+    {
+      "Title": "Harrison AV, Lorenzo FR, McClain DA. Iron and the pathophysiology of diabetes. Annu Rev Physiol. 2023;85:339-362.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36137277/"
+    },
+    {
+      "Title": "Hua NW, Stoohs RA, Facchini FS. Low iron status and enhanced insulin sensitivity in lacto-ovo vegetarians. Br J Nutr. 2001;86(4):515-519.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11591239/"
+    },
+    {
+      "Title": "Jedut P, Glibowski P, Skrzypek M. Comparison of the health status of vegetarians and omnivores based on biochemical blood tests, body composition analysis and quality of nutrition. Nutrients. 2023;15(13):3038.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37447364/"
+    },
+    {
+      "Title": "Li C, Bishop TRP, Imamura F, et al. Meat consumption and incident type 2 diabetes: an individual-participant federated meta-analysis of 1·97 million adults with 100 000 incident cases from 31 cohorts in 20 countries. Lancet Diabetes Endocrinol. 2024;12(9):619-630.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/39174161/"
+    },
+    {
+      "Title": "Liu J, Li Q, Yang Y, Ma L. Iron metabolism and type 2 diabetes mellitus: A meta-analysis and systematic review. J Diabetes Investig. 2020;11(4):946-955.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31975563/"
+    },
+    {
+      "Title": "Pawlak R, Berger J, Hines I. Iron status of vegetarian adults: a review of literature. Am J Lifestyle Med. 2018;12(6):486-498.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30783404/"
+    },
+    {
+      "Title": "Slywitch E, Savalli C, Duarte ACG, Escrivão MAMS. Iron deficiency in vegetarian and omnivorous individuals: analysis of 1340 individuals. Nutrients. 2021;13(9):2964.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34578841/"
+    },
+    {
+      "Title": "Table: Typical Normal Serum Values for Iron, Iron-Binding Capacity, Ferritin, and Transferrin Saturation. MSD Manual Professional Edition.",
+      "Url": "https://www.msdmanuals.com/professional/multimedia/table/typical-normal-serum-values-for-iron-iron-binding-capacity-ferritin-and-transferrin-saturation"
+    },
+    {
+      "Title": "Thévenod F. Iron and Its Role in Cancer Defense: A Double-Edged Sword. Met Ions Life Sci. 2018;18:437-467.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29394034/"
+    },
+    {
+      "Title": "Toyokuni S. Role of iron in carcinogenesis: cancer as a ferrotoxic disease. Cancer Sci. 2009;100(1):9-16.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19018762/"
+    },
+    {
+      "Title": "Wang X, Fang X, Zheng W, et al. Genetic support of a causal relationship between iron status and type 2 diabetes: a mendelian randomization study. J Clin Endocrinol Metab. 2021;106(11):e4641-e4651.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34147035/"
+    },
+    {
+      "Title": "Youssef LA, Spitalnik SL. Iron: a double-edged sword. Transfusion. 2017;57(10):2293-2297.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28944542/"
+    },
+    {
+      "Title": "Zacharski LR, Chow BK, Howes PS, et al. Decreased cancer risk after iron reduction in patients with peripheral arterial disease: results from a randomized trial. J Natl Cancer Inst. 2008;100(14):996-1002.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18612130/"
+    },
+    {
+      "Title": "Zacharski LR, Ornstein DL, Woloshin S, Schwartz LM. Association of age, sex, and race with body iron stores in adults: analysis of NHANES III data. Am Heart J. 2000;140(1):98-104.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10874269/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "iron",
+      "Url": "https://nutritionfacts.org/topics/iron/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "red meat",
+      "Url": "https://nutritionfacts.org/topics/red-meat/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Stay tuned for </span><a href=\"https://nutritionfacts.org/video/how-to-get-the-ideal-ferritin-level-and-avoid-symptoms-of-iron-deficiency/\"><span style=\"font-weight: 400\">How to Get the Ideal Ferritin Level and Avoid Symptoms of Iron Deficiency</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/iron-deficiency-anemia-the-best-treatment-and-are-vegetarians-at-higher-risk/\"><span style=\"font-weight: 400\">Iron-Deficiency Anemia: The Best Treatment and Are Vegetarians at Higher Risk?</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

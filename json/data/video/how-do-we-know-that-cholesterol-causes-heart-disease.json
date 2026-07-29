@@ -1,0 +1,123 @@
+{
+  "Title": "How Do We Know That Cholesterol Causes Heart Disease?",
+  "Url": "https://nutritionfacts.org/video/how-do-we-know-that-cholesterol-causes-heart-disease/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/IUrP-g9TYdQ"
+  },
+  "UpdatedAt": "2017-01-13T12:00:29+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 34",
+    "Url": "https://nutritionfacts.org/volumes/volume-34/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What would happen if babies were randomized at birth to a lifetime of low cholesterol levels? We already know because Mother Nature did exactly that! In this video, I introduce the concept of Mendelian randomization.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“It is well accepted that coronary atherosclerosis is a chronic progressive disease that begins early in life and slowly progresses over several decades before [symptoms arise]. However, the average age in cholesterol-lowering drug trials is 63, and therefore, people “had already been exposed to a lifetime of circulating LDL-[cholesterol].” So, no wonder pharmaceutical “therapies…typically [reduce] cardiovascular disease risk by [only] 20% to 30%.”\nWe know LDL, so-called bad cholesterol, plays “a central role…in the initiation, development, and progression” of our #1 killer. Over a hundred prospective studies involving more than a million people have demonstrated that those with higher LDL levels are at higher risk.\n“It seems reasonable to assume…that if lowering [cholesterol] later in life” can help, then “keeping LDL[-C] levels low…earlier” in our lives might prevent our arteries from getting clogged in the first place. But, let’s not just assume.\n“It would be [considered]…unethical to set up a controlled clinical trial in which young adults with elevated serum cholesterol levels were treated or not treated over their lifetime”—just like you couldn’t ethically set up a study in which half the kids are made to start smoking, to see if smoking really does cause lung cancer. That’s where observational studies come in. You can follow people who already smoke, and compare their disease rates to those that don’t.\nIt’s like 40 years ago, when the president of the American Heart Association tried to argue that we should all stop smoking—even though there were no randomized controlled trials. Look, those who smoke have a higher risk of heart attack; the more we smoke the higher the risk; and, after we stop, our risk drops. The same can be said for high cholesterol.\nIf you look at young men, aged 18 through 39, and follow them for up to 34 years, cholesterol levels, even when you’re young, predict long-term risk of heart disease and death. Men in their 20s and 30s who have a total cholesterol even just under 200, have a “substantially longer estimated life expectancy”—around four to nine years longer—than those over 240.\n“Evidence from observational studies, however, [is] vulnerable to [so-called] confounding [factors].” Eating a diet plant-based enough to lower cholesterol below average may add years to our lives, regardless of what our cholesterol is. Ideally, we’d have “a long-term randomized controlled trial.”\nAnd, nature may have actually set one up for us. Each of us, at conception, gets a random assortment of genes from our mother and our father, and some of those genes may affect our cholesterol levels. Just like there’s rare genetic mutations that result in unusually high cholesterol, there are rare genetic mutations that lead to unusually low cholesterol—providing an ideal system “to assess the consequences of low LDL cholesterol levels independent…of” confounding diet and lifestyle factors.\nLet me show you what I mean. About 1 in 40 African Americans have a mutation that drops their LDL cholesterol from up around 130 down towards more optimal levels. Now, this group didn’t eat healthy to get there. It’s just in their genes. More than half had high blood pressure; there were lots of smokers and diabetics, yet those with genetically low LDL levels still had a “significant reduction in the incidence of [coronary heart disease]…even in the presence of [all these other] risk factors. How significant? How much less heart disease? How about 88% of heart disease gone?\nThe astounding finding was that the heart disease risk in these individuals was reduced by more than 80%; whereas, the same 20- to 40-point decrease in LDL from drugs only reduces risk like 30%. Makes sense, though, right? The folks with the mutation had low levels like that their whole lives; they didn’t just start taking some pill when they were 60 years old.\n“The magnitude of the effect of long-term exposure to lower LDL[-cholesterol] concentrations observed in each of these studies represents threefold greater reduction in the risk of [heart disease],” compared to drug treatment “started later in life.” For you fellow research nerds out there, check out that p value. You’d have to do like a quintillion studies to get that kind of result by chance.\n“Therefore, a primary prevention strategy that promotes keeping LDL[-cholesterol] levels as low as possible, beginning as early in life as possible, and sustaining those low levels of LDL[-cholesterol] throughout the whole of one’s lifetime has the potential to dramatically reduce the risk of [coronary heart disease].” And, that’s just what a healthy diet can do.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Chiuve SE, McCullough ML, Sacks FM, Rimm EB. Healthy lifestyle factors in the primary prevention of coronary heart disease among men: benefits among users and nonusers of lipid-lowering and antihypertensive medications. Circulation. 2006 Jul 11;114(2):160-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16818808"
+    },
+    {
+      "Title": "Cohen JC, Boerwinkle E, Mosley TH Jr, Hobbs HH. Sequence variations in PCSK9, low LDL, and protection against coronary heart disease. N Engl J Med. 2006 Mar 23;354(12):1264-72.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16554528"
+    },
+    {
+      "Title": "Ference BA, Mahajan N. The role of early LDL lowering to prevent the onset of atherosclerotic disease. Curr Atheroscler Rep. 2013 Apr;15(4):312.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23423521"
+    },
+    {
+      "Title": "Ference BA, Yoo W, Alesh I, Mahajan N, Mirowska KK, Mewada A, Kahn J, Afonso L, Williams KA Sr, Flack JM. Effect of long-term exposure to lower low-density lipoprotein cholesterol beginning early in life on the risk of coronary heart disease: a Mendelian randomization analysis. J Am Coll Cardiol. 2012 Dec 25;60(25):2631-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23083789"
+    },
+    {
+      "Title": "Grundy SM. Early detection of high cholesterol levels in young adults. JAMA. 2000 Jul 19;284(3):365-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10891970"
+    },
+    {
+      "Title": "Stamler J, Daviglus ML, Garside DB, Dyer AR, Greenland P, Neaton JD. Relationship of baseline serum cholesterol levels in 3 large cohorts of younger men to long-term coronary, cardiovascular, and all-cause mortality and to longevity. JAMA. 2000;284(3):311-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10891962"
+    },
+    {
+      "Title": "Steinberg D, Grundy SM. The case for treating hypercholesterolemia at an earlier age: moving toward consensus. J Am Coll Cardiol. 2012 Dec 25;60(25):2640-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23083788"
+    }
+  ],
+  "Acknowledgements": "Image credit: Marty Gabel via flickr. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "African Americans",
+      "Url": "https://nutritionfacts.org/topics/african-americans/"
+    },
+    {
+      "Title": "Black Americans",
+      "Url": "https://nutritionfacts.org/topics/black-americans/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "lifestyle medicine",
+      "Url": "https://nutritionfacts.org/topics/lifestyle-medicine/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you don’t know your cholesterol level, I encourage you to get it checked—maybe even starting in childhood. See my video <a href=\"https://nutritionfacts.org/video/should-all-children-have-their-cholesterol-checked/\">Should All Children Have Their Cholesterol Checked?</a> to learn more.</p>\n<p>What if you do get tested and your doctor tells you not to worry because your cholesterol’s “normal”? Having a “normal” cholesterol level in a society where it’s normal to drop dead of a heart attack, the number-one killer of men and women, is not necessarily a good thing. See my video <a href=\"https://nutritionfacts.org/video/when-low-risk-means-high-risk/\">When Low Risk Means High Risk.</a></p>\n<p>Check out <a href=\"https://nutritionfacts.org/video/optimal-cholesterol-level/\">Optimal Cholesterol Level</a> and <a href=\"https://nutritionfacts.org/blog/whats-the-optimal-cholesterol-level/\">What’s the Optimal Level?</a> to find out where you should be.</p>\n<p>What if your doctor tells you your LDL is large and fluffy? See my video <a href=\"https://nutritionfacts.org/video/does-cholesterol-size-matter/\">Does Cholesterol Size Matter?</a>.</p>\n<p>2022 Update: You might be interested in my new videos, <a href=\"https://nutritionfacts.org/video/cholesterol-and-heart-disease-why-has-there-been-so-much-controversy/\">Cholesterol and Heart Disease: Why Has There Been So Much Controversy?</a> and <a href=\"https://nutritionfacts.org/video/does-dietary-cholesterol-eggs-raise-blood-cholesterol/\">Does Dietary Cholesterol (Eggs) Raise Blood Cholesterol?</a>.</p>\n<p> </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "Title": "How Big Sugar Manipulated the Science for Dietary Guidelines",
+  "Url": "https://nutritionfacts.org/video/how-big-sugar-manipulated-the-science-for-dietary-guidelines/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/mtHJkzo6Ixc"
+  },
+  "UpdatedAt": "2022-06-29T11:50:49+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 58",
+    "Url": "https://nutritionfacts.org/volumes/volume-58/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How did Big Corn Syrup and other corporate sugar titans hijack the scientific process?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn 2016, a Washington-based lobby group published a scientific review which concluded that evidence in favor of guidelines recommending limits on added dietary sugar was “low quality,” and did not “meet criteria for trustworthy recommendations.” This was a group funded by multinational food and agrochemical companies from Coca-Cola to Monsanto to the captains of corn syrup, accused of “hijacking the scientific process in a disingenuous way to sow doubt and jeopardize public health.” But exactly how did they get away with it?\nHere’s their paper, questioning the scientiﬁc basis of guideline recommendations on sugar intake. Using the “GRADE” approach, they concluded that the overall quality of evidence to support such recommendations was low to very low. GRADE stands for the Grading of Recommendations Assessment, Development and Evaluation initiative, which was developed to make clinical guidelines more evidence-based, and thank heavens for that. Clinical guidelines, like which drug to give to whom, used to be developed by something like the GOBSAT method (just some Good Old Boys Sitting Around a Table).\nUnder GRADE, high-quality evidence appears to be derived exclusively from randomized trials. This is not surprising, given that the GRADE process was designed for drugs, and, of course, you want your drugs put to the test. Like, remember the Premarin story, where for a decade, organizations recommended that clinicians encourage postmenopausal women to use hormone replacement therapy, because women who were taking it appeared to have fewer heart attacks. But when put to the test, randomized controlled trials instead showed the opposite. So, we definitely want drugs put through randomized double-blind, placebo-controlled trials, where people are randomized to take the drug or unknowingly take a placebo instead, and no one knows who’s in which group until the code is broken at the end, and you see how well the two groups did compared to each other.\nEveryone agrees that randomized controlled trials are enormously valuable in many areas of medical research, such as the testing of drugs. But wait a second, how do you do that with diet? There’s no such thing as a placebo diet. How can you randomize people to different diets, but somehow hide from them which diets they’re following? People tend to notice what they put in their own mouths. And randomized controlled trials are so expensive they typically last for only weeks or months. But it takes most cancers decades to develop; so, it’s nearly impossible to see if different diets prevent or cause cancer that way. To see if smoking causes cancer, you can follow large cohorts of smokers and nonsmokers out for decades to see who gets cancer and who doesn’t. But it’s not like you can randomize people to smoke or not smoke for decades. When studying lifestyle interventions, you often just can’t do randomized controlled trials. And even if you could, it might not be ethical.\nTake crib death, for example––sudden infant death syndrome (SIDS). A pivotal study studying the habits of infants who died discovered that sleeping on their stomachs was a risk factor; so, we started educating parents “face up to wake up,” and the SIDS rates dropped. What more do we need? Would it even be ethical to randomize thousands of babies to sleep on their backs or fronts and count up the deaths at this point? You can get sufficient evidence to make lifestyle recommendations that save lives without randomized controlled trials.\nCritical questions, like “What dietary pattern produces the best health outcomes over a lifetime?” simply can’t be answered with randomized controlled trials. You can’t randomize people to different lifetime diets and expect them to stick to them; so, we need to compile an amalgamation of evidence from other study designs.\nThe lack of evidence from randomized controlled trials has become a common argumentation strategy for criticizing nutrition recommendations. Similar claims were made by the tobacco industry in its attempt to discredit evidence on the harms of tobacco. Case in point: the so-called “sound science” campaign carried out by Philip Morris. This is all straight out of the tobacco industry playbook.\nPhilip Morris used public relations firms and lawyers to develop a “sound science” program that involved recruiting other industries and issues to obscure the tobacco industry’s role. They tried to enshrine “good epidemiological practices” that would make it impossible to conclude that secondhand smoke—and thus other environmental toxins—caused diseases.\n“Public health professionals need to be aware that the ’sound science’ movement is not an indigenous effort from within the profession to improve the quality of scientific discourse, but rather reflects sophisticated public relations campaigns controlled by industry executives and lawyers whose aim is to manipulate the standards of scientific proof to serve the corporate interests of their clients.” And not just tobacco clients, but they hope to expand to the food, plastics, and chemical industries. Philip Morris went beyond just “creating doubt” and “controversy” about the scientific evidence, to attempting to change the scientific standards of proof. But randomized controlled trials aren’t the only source of good evidence. As Sir Bradford Hill himself said, who pioneered the randomized controlled trial: “Any belief that the controlled trial is the only way to go would mean not that the pendulum had swung too far but that it had come right off its hook.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Erickson J, Sadeghirad B, Lytvyn L, Slavin J, Johnston BC. The scientific basis of guideline recommendations on sugar intake. Ann Intern Med. 2016;166(4):257-67.",
+      "Url": "https://www.acpjournals.org/doi/10.7326/m16-2020"
+    },
+    {
+      "Title": "Frieden TR. Evidence for health decision making - beyond randomized, controlled trials. N Engl J Med. 2017;377(5):465-75.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28767357/"
+    },
+    {
+      "Title": "Guyatt GH, Oxman AD, Vist GE, et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ. 2008;336(7650):924-6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18436948/"
+    },
+    {
+      "Title": "Hill AB. Reflections on controlled trial. Ann Rheum Dis. 1966;25(2):107-13.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/5326437/"
+    },
+    {
+      "Title": "Jukola S. On the evidentiary standards for nutrition advice. Stud Hist Philos Biol Biomed Sci. 2019;73:1-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29866402/"
+    },
+    {
+      "Title": "Katz DL, Karlsen MC, Chung M, et al. Hierarchies of evidence applied to lifestyle Medicine (Healm): introduction of a strength-of-evidence approach based on a methodological systematic review. BMC Med Res Methodol. 2019;19(1):178.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31429718/"
+    },
+    {
+      "Title": "Mann JI. Evidence-based nutrition: Does it differ from evidence-based medicine? Ann Med. 2010;42(7):475-86.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20653461/"
+    },
+    {
+      "Title": "Michail N. Breaking away from bad science? Mars to leave ILSI in transparency bid. FoodNavigator. February 8, 2018.",
+      "Url": "https://www.foodnavigator.com/Article/2018/02/08/Breaking-away-from-bad-science-Mars-to-leave-ILSI-in-transparency-bid"
+    },
+    {
+      "Title": "Ong EK, Glantz SA. Constructing “sound science” and “good epidemiology”: tobacco, lawyers, and public relations firms. Am J Public Health. 2001;91(11):1749-57.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11684593/"
+    },
+    {
+      "Title": "O’Connor A. Study tied to food industry tries to discredit sugar guidelines. The New York Times. December 19, 2016.",
+      "Url": "https://www.nytimes.com/2016/12/19/well/eat/a-food-industry-study-tries-to-discredit-advice-about-sugar.html"
+    },
+    {
+      "Title": "Samet JM, Burke TA. Turning science into junk: the tobacco industry and passive smoking. Am J Public Health. 2001;91(11):1742-4.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11684591/"
+    },
+    {
+      "Title": "Schillinger D, Kearns C. Guidelines to limit added sugar intake: junk science or junk food? Ann Intern Med. 2016;166(4):305-6.",
+      "Url": "https://www.acpjournals.org/doi/10.7326/m16-2754"
+    },
+    {
+      "Title": "Temple NJ. How reliable are randomised controlled trials for studying the relationship between diet and disease? A narrative review. Br J Nutr. 2016;116(3):381-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27267302/"
+    },
+    {
+      "Title": "Wollersheim H. Beyond the evidence of guidelines. Neth J Med. 2009;67(2):39-40.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19299844"
+    },
+    {
+      "Title": "Wyer PC. From mars to magic: the remarkable journey through time and space of the grading of recommendations assessment, development and evaluation initiative. J Eval Clin Pract. 2018;24(5):1191-202.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30109760/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "infants",
+      "Url": "https://nutritionfacts.org/topics/infants/"
+    },
+    {
+      "Title": "lifestyle medicine",
+      "Url": "https://nutritionfacts.org/topics/lifestyle-medicine/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the second in an eight-part series on how industries impact dietary and health guidelines. If you missed the first video, see <a href=\"https://nutritionfacts.org/video/how-big-sugar-undermines-dietary-guidelines/\">How Big Sugar Undermines Dietary Guidelines</a>.</p>\n<p>Stay tuned for:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/observational-studies-show-similar-results-to-randomized-controlled-trials/\">Observational Studies Show Similar Results to Randomized Controlled Trials</a></li>\n<li><a href=\"https://nutritionfacts.org/video/failing-grade-for-annals-of-internal-medicine-meat-studies/\">Failing GRADE for <em>Annals of Internal Medicine</em> Meat Studies</a></li>\n<li><a href=\"https://nutritionfacts.org/video/conflicts-of-interest-in-the-annals-of-internal-medicine-meat-studies/\">Conflicts of Interest in the <em>Annals of Internal Medicine</em> Meat Studies</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-health-risks-vs-benefits-of-meat-consumption/\">The Health Risks vs. Benefits of Meat Consumption</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-big-meat-manipulated-the-science/\">How Big Meat Manipulated the Science</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-does-meat-affect-longevity/\">How Much Does Meat Affect Longevity?</a></li>\n</ul>\n<p>The hormone replacement video I mentioned is <a href=\"https://nutritionfacts.org/video/how-did-doctors-not-know-about-the-risks-of-hormone-therapy/\">How Did Doctors Not Know About the Risks of Hormone Therapy?</a>.</p>\n<p>For more on sugar industry hijinks, see <a href=\"https://nutritionfacts.org/video/sugar-industry-attempts-to-manipulate-the-science/\">Sugar Industry Attempts to Manipulate the Science</a>.</p>\n<p>You may also be interested in <a href=\"https://nutritionfacts.org/video/big-food-using-the-tobacco-industry-playbook/\">Big Food Using the Tobacco Industry Playbook</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

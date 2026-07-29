@@ -1,0 +1,131 @@
+{
+  "Title": "How Effective Is Chemotherapy?",
+  "Url": "https://nutritionfacts.org/video/how-effective-is-chemotherapy/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Ys0hdUi98Uw"
+  },
+  "UpdatedAt": "2022-07-25T11:50:22+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 58",
+    "Url": "https://nutritionfacts.org/volumes/volume-58/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Most chemo drugs are approved by the FDA without evidence of benefit on survival or quality of life.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: Chemotherapy is one of the most common treatments for cancer. How effective is it for improving survival and quality of life? This video, and the next, will answer those questions.\nOver the next few decades, the number of new cancer cases will continue to skyrocket. Are we winning the war on cancer? Sadly, in general, no––this despite the introduction of hundreds of new anticancer drugs.\nThe war on cancer has been likened to the war on terror. No matter how many drone strikes you do, it’s nearly impossible to kill all the bad guys, and no matter how precise the bombing, one must always consider the collateral damage. The toxicity from cancer therapy can be debilitating, and not just health-wise. There’s also the “financial toxicity.”\nPatented anticancer drugs are priced at up to nearly a thousand dollars a day. Even with health insurance, the average cost to patients for stage IV breast cancer, for example, can run $190,000. It’s bad enough to be fighting for your life without bankrupting your family at the same time; it’s a problem still common to this day.\nWho can forget the apocryphal story of Walter White, working two jobs with health insurance, and still couldn’t afford his cancer care. Now, not everyone is willing to start their own meth lab, but many are willing to go for broke. A large proportion of cancer patients reported their willingness to declare bankruptcy or sell their homes to pay for treatment. I mean, look, aren’t the high prices justified if new and innovative treatments offer significant benefits to patients? But you may be shocked to find out that many FDA-approved cancer drugs might lack clinical benefit.\nWait, then how did they become FDA-approved? “Most approvals of cancer drugs are based on flimsy or untested surrogate endpoints, and postmarketing studies rarely validate the efficacy and safety of these drugs on patient-centered endpoints.” Let me explain what that means. New chemo drugs are increasingly approved just based on so-called surrogate endpoints, which means instead of looking at what we really care about—survival or quality of life—they approve drugs based on things like “response rate” or tumor shrinkage. But who cares if the tumor shrinks, if it doesn’t actually extend your quantity or quality of life? It’s kind of counterintuitive, but just seeing a tumor shrink on a CT scan or MRI is not necessarily correlated with improvements in survival or symptoms. In fact, most studies that have actually followed people out found low correlations with survival. The most recent comprehensive analysis found 90 percent of studies of such validation trials found little correlation with overall survival.\nOf 36 new chemo drugs approved by the FDA based on these kinds of surrogate endpoints, once they were actually put to the test in the real world, only 1 in 7 was actually shown to extend life, and half explicitly flopped, and the rest remain untested, revealing “that most cancer drug approvals have not been shown to, or do not, improve clinically relevant endpoints.” “Exorbitant drug prices are bad enough for treatments that work, but charging vulnerable patients for drugs without evidence that they actually improve patients’ survival and quality of life is unconscionable.”\nWhy doesn’t the FDA require proof that chemo drugs actually benefit patients before approving them? Drug companies say that requiring randomized, controlled trials with meaningful measures would take too long, but the study time reduction using surrogate endpoints rather than overall survival is estimated at just 11 months. So, instead of it taking 7.3 years to come to market, on average, it would take 8.2 years. Yes, we want to get these drugs out as soon as possible, but only if they’re actually going to help people.\nDo cancer drugs improve survival or quality of life? “You don’t need to know, according to our broken regulatory system.” And things aren’t much better over in Europe. A systematic evaluation of chemo drug approvals showed that most entered the market without evidence of benefit on survival or quality of life. And even years later, there was still no conclusive evidence that these drugs offered any benefit, and when they did, the gains were often marginal.\nThat’s why you see editorials in the Journal of the National Cancer Institute referencing Hans Christian Andersen, the author of the tale of The Emperor’s New Clothes. “These studies all converge on a singular conclusion: only a minority of new cancer drugs approved by US and European regulatory authorities in recent years deliver clinically meaningful benefits to patients;” in fact, some cancer-related deaths may be hastened, or even caused, by the toxic effects of chemotherapy rather than the cancer itself. Based on a review of tens of thousands of cancer patients, in as many as 27 percent of cases the cancer treatment itself caused or hastened death. Okay, but it might be worth that risk if the potential benefit is large enough. And that’s the subject of my next video: How Much Does Chemotherapy Improve Survival?\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Aggarwal A. Demand cancer drugs that truly help patients. Nature. 2018;556(7700):151.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29636577"
+    },
+    {
+      "Title": "Chen EY, Joshi SK, Tran A, Prasad V. Estimation of study time reduction using surrogate end points rather than overall survival in oncology clinical trials. JAMA Intern Med. 2019;179(5):642-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30933235"
+    },
+    {
+      "Title": "Chino F, Peppercorn JM, Rushing C, et al. Going for broke: a longitudinal study of patient-reported financial sacrifice in cancer care. J Oncol Pract. 2018;14(9):e533-46.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30138052"
+    },
+    {
+      "Title": "Cleeland CS, Allen JD, Roberts SA, et al. Reducing the toxicity of cancer therapy: recognizing needs, taking action. Nat Rev Clin Oncol. 2012;9(8):471-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22751283/"
+    },
+    {
+      "Title": "Cohen D. Cancer drugs: high price, uncertain value. BMJ. 2017;359:j4543.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28978508"
+    },
+    {
+      "Title": "Collado L, Brownell I. The crippling financial toxicity of cancer in the United States. Cancer Biol Ther. 2019;20(10):1301-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31291813"
+    },
+    {
+      "Title": "Das M. Many FDA-approved cancer drugs might lack clinical benefit. Lancet Oncol. 2018;19(2):e82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29276024"
+    },
+    {
+      "Title": "Davis C, Naci H, Gurpinar E, Poplavska E, Pinto A, Aggarwal A. Availability of evidence of benefits on overall survival and quality of life of cancer drugs approved by European Medicines Agency: retrospective cohort study of drug approvals 2009-13. BMJ. 2017;359:j4530.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28978555"
+    },
+    {
+      "Title": "DiMagno SSP, Glickman A, Emanuel EJ. Accelerated Approval of Cancer Drugs—Righting the Ship of the US Food and Drug Administration. JAMA Intern Med. 2019;179(7):922.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31135826"
+    },
+    {
+      "Title": "Fojo T, Mailankody S, Lo A. Unintended consequences of expensive cancer therapeutics—the pursuit of marginal indications and a me-too mentality that stifles innovation and creativity: the John Conley Lecture. JAMA Otolaryngol Head Neck Surg. 2014;140(12):1225-36.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25068501"
+    },
+    {
+      "Title": "Gilligan T. Is There Such a Thing as a Cancer Treatment That Isn’t Worth Its Cost? Oncologist. 2012;17(1):3-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22210088"
+    },
+    {
+      "Title": "Hanahan D. Rethinking the war on cancer. Lancet. 2014;383(9916):558-63.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24351321"
+    },
+    {
+      "Title": "Himmelstein DU, Lawless RM, Thorne D, Foohey P, Woolhandler S. Medical bankruptcy: still common despite the affordable care act. Am J Public Health. 2019;109(3):431-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30726124"
+    },
+    {
+      "Title": "Hine C, Mitchell JR. Saying No to Drugs: Fasting Protects Hematopoietic Stem Cells from Chemotherapy and Aging. Cell Stem Cell. 2014;14(6):704-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24905161"
+    },
+    {
+      "Title": "Huang S. The War on Cancer: Lessons from the War on Terror. Front Oncol. 2014;4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25368844"
+    },
+    {
+      "Title": "Khoja L, Mcgurk A, O'hara C, Chow S, Hasan J. Mortality within 30 days following systemic anti-cancer therapy, a review of all cases over a 4 year period in a tertiary cancer centre. Eur J Cancer. 2015;51(2):233-40.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25500146"
+    },
+    {
+      "Title": "Kim C, Prasad V. Cancer Drugs Approved on the Basis of a Surrogate End Point and Subsequent Overall Survival: An Analysis of 5 Years of US Food and Drug Administration Approvals. JAMA Intern Med. 2015;175(12):1992-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26502403"
+    },
+    {
+      "Title": "Prasad V, Kim C, Burotto M, Vandross A. The Strength of Association Between Surrogate End Points and Survival in Oncology: A Systematic Review of Trial-Level Meta-analyses. JAMA Intern Med. 2015;175(8):1389.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26098871"
+    },
+    {
+      "Title": "Prasad V. Do cancer drugs improve survival or quality of life? BMJ. 2017;359:j4528.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28978548"
+    },
+    {
+      "Title": "Salas-Vega S, Iliopoulos O, Mossialos E. Assessment of Overall Survival, Quality of Life, and Safety Benefits Associated With New Cancer Medicines. JAMA Oncol. 2017;3(3):382.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28033447"
+    },
+    {
+      "Title": "Schilsky RL, Schnipper LE. Hans christian andersen and the value of new cancer treatments. J Natl Cancer Inst. 2018;110(5):441-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29244175"
+    },
+    {
+      "Title": "Wright JD. Financial Toxicity: A Severe But Underrecognized Side Effect for Cancer Patients. Gynecol Oncol. 2019;154(1):1-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31229193"
+    },
+    {
+      "Title": "Zettler M, Basch E, Nabhan C. Surrogate End Points and Patient-Reported Outcomes for Novel Oncology Drugs Approved Between 2011 and 2017. JAMA Oncol. 2019;5(9):1358.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31268471"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What about preventing cancer in the first place? See <a href=\"https://nutritionfacts.org/video/fighting-the-ten-hallmarks-of-cancer-with-food/\">Fighting the Ten Hallmarks of Cancer with Food</a>, <a href=\"https://nutritionfacts.org/video/how-not-to-die-from-cancer/\">How Not to Die from Cancer</a>, and <a href=\"https://nutritionfacts.org/video/diet-and-lifestyle-for-cancer-prevention-and-survival/\">Diet and Lifestyle for Cancer Prevention and Survival</a>.</p>\n<p>Coming up? <a href=\"https://nutritionfacts.org/video/how-much-does-chemotherapy-improve-survival/\">How Much Does Chemotherapy Improve Survival?</a>.</p>\n<p>This video first appeared in a webinar on Fasting and Cancer. You can now watch the <a href=\"https://nutritionfacts.org/webinar/fasting-cancer/\">recording of that webinar</a>, which includes a Q&amp;A. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

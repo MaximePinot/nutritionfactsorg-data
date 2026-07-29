@@ -1,0 +1,119 @@
+{
+  "Title": "How Useful Is Personalized Nutrition?",
+  "Url": "https://nutritionfacts.org/video/how-useful-is-personalized-nutrition/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/FvwXpZNv5y4"
+  },
+  "UpdatedAt": "2022-01-10T12:50:09+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 56",
+    "Url": "https://nutritionfacts.org/volumes/volume-56/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Perhaps it should be less about personalized nutrition and more about taking personal responsibility for your health.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nPersonalized nutrition is rooted in the concept that one size does not fit all, and who doesn’t want to think they’re special? The concept of personalized nutrition is inherently appealing to the human ego. Simple messages recognizing individuality therefore resonate deeply with consumers, explaining the popularity of such messages in sales and marketing. Even to the point of manufacturing personalized food for people uniqueness, suggesting 3D food printing as a good candidate for food customization.\nNow, there certainly are some legitimate differences between people. Some have a peanut allergy, and keel over if they eat a peanut. And others have celiac disease and have to avoid gluten, or genetically are lactose intolerant. There’s an enzyme mutation common in some parts of Asia that protects against alcoholism because you don’t metabolize alcohol as efficiently; so, toxic metabolites build up. I did a fascinating video about fast versus slow caffeine metabolizers, and the difference in health benefits that actually extends to athletic performance. Caffeine is ergogenic, performance-enhancing––but only in fast metabolizers, shaving more than a minute off a 10 kilometers of cycling, whereas slower metabolizers got no benefit, or caffeine actually slows them down, adding two minutes to their cycling time, depending on which kind of gene they have that codes the enzyme that breaks it down. But for most people, in most situations, we are more similar than different.\nWhile there is undoubtedly a speciﬁc minority of individuals who clearly require a more personalized approach to nutrition, there is presently insufﬁcient rationale for truly personalized nutrition for the majority of people. Yet there is an astonishing number of direct-to-consumer (DTC) genetic testing companies that have proliferated offering personalized nutrition advice; for example, supplement-hawking companies claiming to help consumers optimize micronutrient status on the basis of a handful of genetic variants. But the majority of the variants explain just a few percent of the difference in levels between individuals.\nPersonalized nutrition is part of a broader push towards “personalized medicine,” also known as “precision medicine,” given the ‘‘massive cultural allure’’ of personal control over prevention, diagnosis, and treatment of disease, stimulating demand and prompting intense commercialization. But unlike monogenetic diseases—which are rare genetic diseases caused by a single malfunctioning gene like hemophilia or sickle cell anemia—most diseases are caused by a complex interaction between multiple genes with environmental factors, which pose a major challenge for the realization of personalized medicine.\nTake something like adult stature, for example. We’ve found at least 40 locations on our chromosomes that have been associated with human height, which is strongly inherited. The genes from your parents account for about 80 percent of the difference in height between people, yet all those dozens of genes we’ve found explain only about five percent of height variation between people.\nResearchers find those genetic links by using what are called genome-wide association studies, where you scan through all the chromosomes and look for statistical associations between diseases and any particular stretches of DNA. Okay, that’s interesting, but what companies marketing genetic susceptibility tests are doing is reinterpreting these data as if they were predictive of individual risks. But all you’re really getting are modest genetic associations, with a slight increase in the risk of disease and with little predictive value when compared to more significant contributions of things we already know, like lifestyle behaviors. Currently, the practice of utilizing the DNA of an individual to predict disease has been judged to provide little to no useful information.\nFor example, let’s say your genetic analysis says you’re at slightly greater risk for some grave condition compared to others in your ancestral group. This person was given advice to exercise, keep their weight down, not drink too much alcohol, and eat fruits, vegetables, and whole grains. Okay, solid advice. But this is how we should live regardless of our genetic risk. And we all know (or should know) these simple, bedrock strategies to reduce the risk of common chronic diseases in general. The problem, of course, is that very few individuals live that way. Actually, to be more precise, almost nobody lives that way. That’s not just hyperbole; nationwide surveys show that nearly the entire U.S. population consumes a diet that is not on par with even the wimpy dietary guidelines recommendations.\nIn other words, almost no one in the United States is eating a healthy diet. Studies like that remind us that from the perspective of public health, worrying about personalizing our preventive strategies based on genetic risk information borders on the absurd.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Betts JA, Gonzalez JT. Personalised nutrition: What makes you so special? Nutr Bull. 2016;41(4):353-9.",
+      "Url": "https://onlinelibrary.wiley.com/doi/full/10.1111/nbu.12238"
+    },
+    {
+      "Title": "Bush CL, Blumberg JB, El-Sohemy A, et al. Toward the definition of personalized nutrition: a proposal by the american nutrition association. J Am Coll Nutr. 2020;39(1):5-15.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31855126/"
+    },
+    {
+      "Title": "Caulfield T. That personal touch. Hastings Cent Rep. 2011;41(3):4.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21678800/"
+    },
+    {
+      "Title": "Derossi A, Husain A, Caporizzi R, Severini C. Manufacturing personalized food for people uniqueness. An overview from traditional to emerging technologies. Crit Rev Food Sci Nutr. 2020;60(7):1141-59.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30668142/"
+    },
+    {
+      "Title": "Dib M-J, Elliott R, Ahmadi KR. A critical evaluation of results from genome-wide association studies of micronutrient status and their utility in the practice of precision nutrition. Br J Nutr. 2019;122(2):121-30.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31362796/"
+    },
+    {
+      "Title": "Guest N, Corey P, Vescovi J, El-Sohemy A. Caffeine, cyp1a2 genotype, and endurance performance in athletes. Med Sci Sports Exerc. 2018;50(8):1570-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29509641/"
+    },
+    {
+      "Title": "Iriart JAB. Precision medicine/personalized medicine: a critical analysis of movements in the transformation of biomedicine in the early 21st century. Cad Saude Publica. 2019;35(3):e00153118.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30916181/"
+    },
+    {
+      "Title": "James JE. Personalised medicine, disease prevention, and the inverse care law: more harm than benefit? Eur J Epidemiol. 2014;29(6):383-90.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24729105/"
+    },
+    {
+      "Title": "Krebs-Smith SM, Guenther PM, Subar AF, Kirkpatrick SI, Dodd KW. Americans do not meet federal dietary recommendations. J Nutr. 2010;140(10):1832-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20702750/"
+    },
+    {
+      "Title": "Manolio TA, Collins FS, Cox NJ, et al. Finding the missing heritability of complex diseases. Nature. 2009;461(7265):747-53.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19812666/"
+    },
+    {
+      "Title": "Moore JB. From personalised nutrition to precision medicine: the rise of consumer genomics and digital health. Proc Nutr Soc. 2020;79(3):300-10.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32468984/"
+    },
+    {
+      "Title": "Morin KH. Personalized nutrition: has its time come? MCN Am J Matern Child Nurs. 2013;38(5):319.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23958622/"
+    },
+    {
+      "Title": "Torkamani A, Wineinger NE, Topol EJ. The personal and clinical utility of polygenic risk scores. Nat Rev Genet. 2018;19(9):581-90.",
+      "Url": "https://www.nature.com/articles/s41576-018-0018-x"
+    },
+    {
+      "Title": "Zeisel SH. Precision (Personalized) nutrition: understanding metabolic heterogeneity. Annu Rev Food Sci Technol. 2020;11:71-92.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31928426/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "athletes",
+      "Url": "https://nutritionfacts.org/topics/athletes/"
+    },
+    {
+      "Title": "caffeine",
+      "Url": "https://nutritionfacts.org/topics/caffeine/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "lifestyle medicine",
+      "Url": "https://nutritionfacts.org/topics/lifestyle-medicine/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "peanuts",
+      "Url": "https://nutritionfacts.org/topics/peanuts/"
+    },
+    {
+      "Title": "standard American diet",
+      "Url": "https://nutritionfacts.org/topics/standard-american-diet/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Here’s the video I mentioned about fast versus slow caffeine metabolizers and the difference in health benefits extending to athletic performance: <a href=\"https://nutritionfacts.org/video/do-the-health-benefits-of-coffee-apply-to-everyone/\">Do the Health Benefits of Coffee Apply to Everyone?</a></p>\n<p>For more about lifestyle approaches, check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/lifestyle-medicine-treating-the-causes-of-disease/\">Lifestyle Medicine: Treating the Causes of Disease</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-diet-should-physicians-recommend/\">What Diet Should Physicians Recommend?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-prevention-is-worth-a-ton-of-cure/\">Why Prevention Is Worth a Ton of Cure</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-scientific-consensus-on-a-healthy-diet/\">The Scientific Consensus on a Healthy Diet</a></li>\n</ul>\n<p>And what about genetic testing? See <a href=\"https://nutritionfacts.org/video/should-you-get-personalized-genetic-risk-testing/\">Should You Get Personalized Genetic Risk Testing?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

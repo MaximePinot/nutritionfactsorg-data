@@ -1,0 +1,159 @@
+{
+  "Title": "Plant-Based Diets and Cellular Stress Defenses",
+  "Url": "https://nutritionfacts.org/video/plant-based-diets-and-cellular-stress-defenses/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/AEcPINdIg6c"
+  },
+  "UpdatedAt": "2012-07-19T11:22:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 9",
+    "Url": "https://nutritionfacts.org/volumes/volume-9/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Measuring the effects of a plant-based diet on the expression of hundreds of different genes at a time, a research group found that an antioxidant-rich portfolio of plant foods such as berries, pomegranates, purple grapes, red cabbage, oregano, and walnuts was able to significantly modify the regulation of genes in the blood of volunteers.",
+  "Transcript": "To recap, the traditional model of how fruits and vegetables protect against cancer is that their antioxidants prevent the buildup of free radicals (also known as reactive oxygen species, ROS) which would otherwise go on to damage our cellular DNA, membranes, etc.—which could lead to the transformation of healthy cells into damaged, diseased, or dying cells.\nBut in that landmark 2003 kiwifruit study, we learned that there’s a second pathway as well. Phytonutrients actually modulate gene expression, and can increase our cellular defenses such that even if there is some damage to our DNA, our cells may recover, instead of being irreparably lost.\nThe kiwi study looked at one of those defenses—one DNA repair enzyme—but there are many. Many ways our cells repair our DNA; we don’t mess around when it comes to protecting our genes.\nSo, question number one: what effect does kiwifruit consumption have on all these other defenses? And question number two: what if we branch out, and test multiple fruits and veggies at the same time?\nYou’ll remember that there did not seem to be a dose response with the kiwis, right? As far as this DNA repair enzyme was concerned, you were either eating kiwis or not; it didn’t really matter how many. But man cannot live on kiwis alone. What if you did a mix of fruits and veggies? Could we break through that ceiling?\nNow, studies are expensive, particularly if the kiwi people refuse funding because we have the audacity to test other fruit. So they wanted to make this study count. So when they designed their plant portfolio, they went all out. Check it out. Green tea. Rosehip juice, berries, berries, berries, berries, berries, berries, berries, berries, pomegranate, dark blue grapes, Brussels sprouts, broccoli, red cabbage, kale, blue potatoes, dark chocolate, walnuts, rosemary, oregano. This study is making me hungry.\nI don’t know if you noticed, but this is that same amazing research group that blessed the world with that study of thousands of different foods. So they knew what they were doing.\nOkay, long story short: “Plant-based diets can prevent development of several chronic age-related diseases,” blah, blah, blah. We know that. Yes, but how, and what about that plateau effect?\nThis is what they did: three groups, the antioxidants-to-the-teeth group, compared to the three-kiwi-a-day group, compared to control. They took blood from everyone, and then, for the first time ever reported, they did this microarray analysis, where you can measure the effects of a plant-based diet on the expression of hundreds of different genes at a time. The first to investigate the influences of healthy diets on gene expression in whole blood. This was the study.\nWell, the kiwi group was able to significantly regulate not just one gene, as I showed in the 2003 study, but a total of five. Meanwhile, the very berry group significantly regulated five times more; 25 genes. Conclusion: “The observed changes in the blood cell gene expression profiles suggest that the beneficial effects of a plant-based diet on human health may be mediated through optimization of defense processes.”\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring watch the above video. This is just an approximation of the audio contributed by Serena.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bøhn SK, Myhrstad MC, Thoresen M, Holden M, Karlsen A, Tunheim SH, Erlund I, Svendsen M, Seljeflot I, Moskaug JO, Duttaroy AK, Laake P, Arnesen H, Tonstad S, Collins A, Drevon CA, Blomhoff R. Blood cell gene expression associated with cellular stress defense is modulated by antioxidant-rich food in a randomised controlled clinical trial of male smokers. BMC Med. 2010 Sep 16; 8:54.",
+      "Url": "http://www.biomedcentral.com/content/pdf/1741-7015-8-54.pdf"
+    },
+    {
+      "Title": "Collins AR, Harrington V, Drew J, Melvin R. Nutritional modulation of DNA repair in a human intervention study. Carcinogenesis. 2003 Mar; 24(3):511-5.",
+      "Url": "http://carcin.oxfordjournals.org/content/24/3/511.full.pdf+html"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Biomedical Beat.",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "berries",
+      "Url": "https://nutritionfacts.org/topics/berries/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "Brussels sprouts",
+      "Url": "https://nutritionfacts.org/topics/brussels-sprouts/"
+    },
+    {
+      "Title": "cabbage",
+      "Url": "https://nutritionfacts.org/topics/cabbage/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chocolate",
+      "Url": "https://nutritionfacts.org/topics/chocolate/"
+    },
+    {
+      "Title": "cruciferous vegetables",
+      "Url": "https://nutritionfacts.org/topics/cruciferous-vegetables/"
+    },
+    {
+      "Title": "dark chocolate",
+      "Url": "https://nutritionfacts.org/topics/dark-chocolate/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "epigenetic changes",
+      "Url": "https://nutritionfacts.org/topics/epigenetic-changes/"
+    },
+    {
+      "Title": "epigenetics",
+      "Url": "https://nutritionfacts.org/topics/epigenetics/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grapes",
+      "Url": "https://nutritionfacts.org/topics/grapes/"
+    },
+    {
+      "Title": "green tea",
+      "Url": "https://nutritionfacts.org/topics/green-tea/"
+    },
+    {
+      "Title": "herbs",
+      "Url": "https://nutritionfacts.org/topics/herbs/"
+    },
+    {
+      "Title": "kale",
+      "Url": "https://nutritionfacts.org/topics/kale/"
+    },
+    {
+      "Title": "kiwifruit",
+      "Url": "https://nutritionfacts.org/topics/kiwifruit/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "oregano",
+      "Url": "https://nutritionfacts.org/topics/oregano/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pomegranates",
+      "Url": "https://nutritionfacts.org/topics/pomegranates/"
+    },
+    {
+      "Title": "potatoes",
+      "Url": "https://nutritionfacts.org/topics/potatoes/"
+    },
+    {
+      "Title": "rose hips",
+      "Url": "https://nutritionfacts.org/topics/rose-hips/"
+    },
+    {
+      "Title": "rosemary",
+      "Url": "https://nutritionfacts.org/topics/rosemary/"
+    },
+    {
+      "Title": "spices",
+      "Url": "https://nutritionfacts.org/topics/spices/"
+    },
+    {
+      "Title": "tea",
+      "Url": "https://nutritionfacts.org/topics/tea/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "walnuts",
+      "Url": "https://nutritionfacts.org/topics/walnuts/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the final video of my three-part series about the latest discoveries on kiwi fruit. See also <a href=\"https://nutritionfacts.org/video/kiwifruit-and-dna-repair/\" rel=\"nofollow\">Kiwifruit and DNA Repair</a>, and <a href=\"https://nutritionfacts.org/video/kiwifruit-for-irritable-bowel-syndrome/\" rel=\"nofollow\">Kiwifruit for Irritable Bowel Syndrome</a>. The results of this follow-up study support the previous work on the importance of dietary diversity that I profiled in <a href=\"https://nutritionfacts.org/video/apples-and-oranges-dietary-diversity/\" rel=\"nofollow\">Apples and Oranges: Dietary Diversity</a>, and <a href=\"https://nutritionfacts.org/video/garden-variety-anti-inflammation/\" rel=\"nofollow\">Garden Variety Anti-Inflammation</a>. The study of thousands of foods I mention is covered in <a href=\"https://nutritionfacts.org/video/antioxidant-content-of-3139-foods/\" rel=\"nofollow\">Antioxidant Content of 3,139 Foods</a>, and <a href=\"https://nutritionfacts.org/video/antioxidant-power-of-plant-foods-versus-animal-foods/\" rel=\"nofollow\">Antioxidant Power of Plant Foods Versus Animal Foods</a>. Note this study is measuring so-called “epigenetic” changes—meaning differential gene expression. Just because we have a certain set of genes doesn’t mean we can’t turn them on and off with changes in our diet. </p>\n<p>For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/10/18/kiwi-fruit-for-irritable-bowel-syndrome/\" rel=\"nofollow\">Kiwi Fruit for Irritable Bowel Syndrome</a>, and <a href=\"https://nutritionfacts.org/2013/05/14/how-tumors-use-meat-to-grow/\">How Tumors Use Meat to Grow</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "Title": "Does Getting Enough Sleep Help You Lose Weight?",
+  "Url": "https://nutritionfacts.org/video/does-getting-enough-sleep-help-you-lose-weight/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/4oNB4TVCpqM"
+  },
+  "UpdatedAt": "2023-02-20T12:50:41+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 60",
+    "Url": "https://nutritionfacts.org/volumes/volume-60/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Even getting just one more hour of sleep a night may help with weight control.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn my last video, Does Lack of Sleep Cause You to Gain Weight?, I featured a study that found that curtailing sleep can cut your rate body fat loss in half, while exacerbating the loss of lean mass. To get better insight into what was going on, researchers took fat and muscle biopsies from people after a night of sleep loss. In terms of genes that were bring turned on and off, molecular signatures were discovered suggesting muscle breakdown and fat buildup. That was after an all-nighter, though, and in the weight-loss study, the sleep-restricted groups ended up getting little more than five hours a night. What about a more realistic scenario, like sleeping just one hour less a night?\nOverweight adults were randomized to eight weeks of a calorie-restricted diet, or the same diet combined with just five days a week of one hour a night less sleep. The sleep-restricted group achieved the one hour a day less sleep on weekdays, but ended up sleeping an hour more on the weekend days. So overall, they just cut about three hours of sleep out of their week. Would just those few hours a week make any weight loss difference? On the scale, no. \nBut in the normal sleep group, 80 percent of the weight loss was fat; whereas in the group just missing a few hours of sleep a week, it was the opposite—80 percent of the loss was lean. This shows that a few hours of “catch up sleep” on the weekends is insufficient, and may in fact be contributing to the problem based on the “social jetlag” effect I explored in a previous video: The Metabolic Harms of Night Shifts and Irregular Meals.\nA comparable study was designed for kids, but the sleeping periods only lasted a week. Eight- to 11-year olds were randomized to either increase or decrease their time in bed by 1.5 hours per night for a week, and then switch the following week. They ate an average of 134 calories more on the days they slept less, and gained in that week about half a pound compared to the sleep-more week. The question then becomes: Would sleeping more facilitate weight loss? When it comes to body fat, can we just sleep it off?\nThe benefit of interventional studies is that you can demonstrate cause and effect, but observational studies can allow you to more easily track people and their behaviors over a longer time span. For example, researchers followed a group of mostly overweight individuals who started out to averaging less than six hours of sleep a night for more than five years. During that time, about half maintained that schedule, but the other half increased their sleep duration up to seven or eight hours a night, and ended up gaining five pounds less fat. A study entitled “Sleeping Habits Predict the Magnitude of Fat Loss in Adults Exposed to Moderate Caloric Restriction” found that every extra hour of sleep at night was associated with an extra 1.5 pounds of weight loss over a period of about three to six months. That’s not the same as randomizing people to extra sleep, though. Maybe they were sleeping more because they were exercising more, and that’s the real reason they lost more weight?\nGetting people to bump their sleep from about 5.5 hours up to seven can lead to an overall decrease in appetite within two weeks, particularly for sugary and salty foods. A four-week study getting habitually short sleepers to sleep about an extra hour a night led them to consume about two fewer spoonfuls worth of sugar a day compared to the control group. But this didn’t translate into any changes in body composition. A 12-week study, on the other hand, randomizing overweight and obese individuals to a weight-loss intervention with or without a sleep component, found that the sleep group lost weight significantly faster.\nA national cross-sectional survey suggested lower obesity rates among kids in households that regularly ate dinner together as a family, got adequate sleep, and limited screen times. So, Harvard researchers decided to try to put those behaviors to the test. A six-month randomized trial to improve household routines for obesity prevention among young children resulted in a lower BMI. Normally, it’s hard to tease out the effects of multi-component interventions, but in this case, exhortations to limit overall TV watching didn’t work, and the families were already eating together six days a week, and so that didn’t change much either. The only thing they were able to get the kids to significantly alter was their sleep, and so the improved weight outcomes may be attributed at least in part to the three-quarters of an hour average increase in nightly sleep.\nOverall, most sleep improvement interventions tended to show improved weight loss. I was intrigued to look up the one study that didn’t. The nice thing about systematic reviews (as opposed to so-called “narrative” reviews) is that they exhaustively include mention of every study that meets some prespecified criteria. This keeps reviewers from cherry-picking, but it can also lead to the inclusion of some strange studies. In this case, a randomized controlled trial of didgeridoo playing, the indigenous Australian wind instrument. Those randomized to the didgeridoo to improve their sleep quality did not lose any weight, but they also failed to improve the quality of their sleep (or, likely, that of their neighbors).\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Al Khatib HK, Hall WL, Creedon A, et al. Sleep extension is a feasible lifestyle intervention in free-living adults who are habitually short sleepers: a potential strategy for decreasing intake of free sugars? A randomized controlled pilot study [published correction appears in Am J Clin Nutr. 2018 Apr 1;107(4):676]. Am J Clin Nutr. 2018;107(1):43-53.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29381788/"
+    },
+    {
+      "Title": "Anderson SE, Whitaker RC. Household routines and obesity in US preschool-aged children. Pediatrics. 2010;125(3):420-428.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20142280/"
+    },
+    {
+      "Title": "Capers PL, Fobian AD, Kaiser KA, Borah R, Allison DB. A systematic review and meta-analysis of randomized controlled trials of the impact of sleep duration on adiposity and components of energy balance. Obes Rev. 2015;16(9):771-782.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26098388/"
+    },
+    {
+      "Title": "Cedernaes J, Schönke M, Westholm JO, et al. Acute sleep loss results in tissue-specific alterations in genome-wide DNA methylation state and metabolic fuel utilization in humans. Sci Adv. 2018;4(8):eaar8590.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30140739/"
+    },
+    {
+      "Title": "Chaput JP, Després JP, Bouchard C, Tremblay A. Longer sleep duration associates with lower adiposity gain in adult short sleepers. Int J Obes (Lond). 2012;36(5):752-756.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21654631/"
+    },
+    {
+      "Title": "Chaput JP, Tremblay A. Sleeping habits predict the magnitude of fat loss in adults exposed to moderate caloric restriction. Obes Facts. 2012;5(4):561-566.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22854682/"
+    },
+    {
+      "Title": "Haines J, McDonald J, O'Brien A, et al. Healthy Habits, Happy Homes: randomized trial to improve household routines for obesity prevention among preschool-aged children. JAMA Pediatr. 2013;167(11):1072-1079.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24019074/"
+    },
+    {
+      "Title": "Hart CN, Carskadon MA, Considine RV, et al. Changes in children's sleep duration on food intake, weight, and leptin. Pediatrics. 2013;132(6):e1473-e1480.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24190680/"
+    },
+    {
+      "Title": "Logue EE, Bourguet CC, Palmieri PA, et al. The better weight-better sleep study: a pilot intervention in primary care. Am J Health Behav. 2012;36(3):319-334.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22370434/"
+    },
+    {
+      "Title": "Nedeltcheva AV, Kilkus JM, Imperial J, Schoeller DA, Penev PD. Insufficient sleep undermines dietary efforts to reduce adiposity. Ann Intern Med. 2010;153(7):435-441.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20921542/"
+    },
+    {
+      "Title": "Puhan MA, Suarez A, Lo Cascio C, Zahn A, Heitz M, Braendli O. Didgeridoo playing as alternative treatment for obstructive sleep apnoea syndrome: randomised controlled trial. BMJ. 2006;332(7536):266-270.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16377643/"
+    },
+    {
+      "Title": "Tasali E, Chapotot F, Wroblewski K, Schoeller D. The effects of extended bedtimes on sleep duration and food desire in overweight young adults: a home-based intervention. Appetite. 2014;80:220-224.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24858836/"
+    },
+    {
+      "Title": "Wang X, Sparks JR, Bowyer KP, Youngstedt SD. Influence of sleep restriction on weight loss outcomes associated with caloric restriction. Sleep. 2018;41(5).",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29438540/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "body weight",
+      "Url": "https://nutritionfacts.org/topics/body-weight/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    },
+    {
+      "Title": "sleep",
+      "Url": "https://nutritionfacts.org/topics/sleep/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "weight gain",
+      "Url": "https://nutritionfacts.org/topics/weight-gain/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This video was based on the sleep section in my book, </span><i><span style=\"font-weight: 400\">How Not to Diet</span></i><span style=\"font-weight: 400\">, which you can learn more about </span><a href=\"https://nutritionfacts.org/book/how-not-to-diet/\"><span style=\"font-weight: 400\">here</span></a><span style=\"font-weight: 400\"> (all proceeds go to charity), or check out my presentation based on the book: </span><a href=\"https://nutritionfacts.org/video/evidence-based-weight-loss-live-presentation/\"><span style=\"font-weight: 400\">Evidence-Based Weight Loss</span></a><span style=\"font-weight: 400\">.</span></p>\n<p>If you missed the previous video, see <a href=\"https://nutritionfacts.org/video/does-lack-of-sleep-cause-you-to-gain-weight/\">Does Lack of Sleep Cause You to Gain Weight?</a>.</p>\n<p><span style=\"font-weight: 400\">The “social jetlag” information I mentioned can be found in </span><a href=\"https://nutritionfacts.org/video/the-metabolic-harms-of-night-shifts-and-irregular-meals/\"><span style=\"font-weight: 400\">The Metabolic Harms of Night Shifts and Irregular Meals</span></a><span style=\"font-weight: 400\">.</span></p>\n<p data-pm-slice=\"1 1 []\">Should you take <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/melatonin-supplements-for-sleep-and-anti-aging/\">Melatonin Supplements for Sleep and Anti-Aging?</a> Check out the video.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

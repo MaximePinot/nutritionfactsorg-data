@@ -1,0 +1,95 @@
+{
+  "Title": "Best Temperature, Timing, and Duration for Cold Plunges for Athletic Performance Recovery",
+  "Url": "https://nutritionfacts.org/video/best-temperature-timing-and-duration-for-cold-plunges-for-athletic-performance-recovery/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/L6M67MlTuZE"
+  },
+  "UpdatedAt": "2025-12-22T12:50:33+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 71",
+    "Url": "https://nutritionfacts.org/volumes/volume-71/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the effects of cold water immersion on the recovery of physical performance compared to active recovery and doing nothing?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn the last decade, cold-water immersion has emerged as one of the most popular post-exercise recovery strategies utilized among athletes during training and competition. This primarily stems from the belief that cold-water immersion facilitates aspects of recovery and regeneration, thereby conferring a potential training and performance advantage. But is it a friend, foe, or just futile?\nThe cold truth…is that local cryotherapy, meaning like an ice pack, does not appear to diminish soreness or accelerate the recovery strength. Local cryotherapy does not seem to contribute to the improvement of delayed onset muscle soreness or muscle weakness associated with exercise-induced muscle damage. But what about cold plunges?\nIf you look at the largest systematic review and meta-analysis of the effects of cold plunges on the recovery of physical performance, compiling the results of more than five dozen randomized, controlled, or crossover studies, after cold-water immersion, people felt less sore after a workout, at one hour later, six hours later, one day, two days, and three days later––but not after four days. They also felt less fatigued—particularly in the hour or hours immediately afterwards. And, after three days, they reported feeling more recovered than those who hadn’t done the cold plunges. But were they actually more recovered using objective measures?\nEndurance was significantly improved an hour later, but not after that. Jump performance was impaired six hours after the cold plunge, but was significantly improved 24 hours later. Allow me a quick tangent on heterogeneity. See this i squared column? This is something I don’t talk about enough. i squared is a number between 0 and 100, and represents the amount of variation between studies that’s due to true differences in effect, rather than just due to chance. So, it’s a measure of inconsistency. The 0 percent here means that there was perfect consistency; so, any difference in the results was due just to random chance. A low value like that gives us more confidence that we’re dealing with a real effect. But the 44 percent here suggests more variability. Check out the individual studies.\nHere are the results of 29 studies on the recovery of muscular power performance after high intensity exercise. If we put all the studies together, there may be a small benefit favoring cold plunges. But only about one in five found statistically significant benefit, one found harm, and the vast majority found no significant effect. Still, enough of the studies leaned in the direction of benefit to tip the scale.\nIn terms of sprint performance, there was an initial deterioration in performance, but then none after that, and a significant increase in strength recovery the next day. This coincides with a lessening of muscular damage indicators the next day, lasting through days two and three.\nWhat are the best parameters of cold plunges in terms of timing, temperature, and duration? There really isn’t a “gold standard,” but the first systematic review concluded that cold-water immersion at a temperature between 11 and 15 °C for 11–15 minutes was best. That’s like in the 50s Fahrenheit. However, since that first review, there’s been a bunch more studies, and the updated review found that the water temperature didn’t seem to matter, whether severely cold at 5 to 9 degrees Celsius (in the Fahrenheit 40s), or moderately cold at 10 to 15 degrees °C. But the immersion duration did seem to matter. Immersions lasting less than 10 minutes presented better results, and plunging for more than 16 minutes didn’t seem to help at all. And it’s better to immerse immediately following exercise rather than waiting.\nNow in most of these studies, researchers used passive recovery in the control groups––meaning people were randomized to cold plunges, or to just like sit in a chair for 20 minutes. But who exercises intensely and then just sits in a chair? Many athletes use active recovery in the form of a low-intensity “warm down” to recover after exercise––like walking around a bit to keep the blood flowing, getting rid of some of that lactic acid buildup. So instead, what about randomizing people to cold-water immersion versus normal active recovery? That might be a fairer comparison. And in that case, the cold plunge didn’t work. It was no more effective than active recovery. Okay, but that’s just one study.\nLet’s look at a meta-analysis of all such studies comparing the effects of cold‐water immersion with other recovery modalities. In terms of muscle soreness, cold-water immersion didn’t seem to work any better than active recovery, or any of the other recovery methods, including warm-water immersion. Same for the recovery of muscular power. No significant difference between cold plunging and active recovery, contrast water therapy (which is like alternating hot and cold), warm-water immersion, air cryotherapy, (like in a cryochamber), massage, or electrical stimulation. If it’s all the same, I think I might prefer the massage to the plunge. Same for the recovery of muscle strength—no difference. Immersing in cold water did seem to beat out warm water on perceived recovery, though, but nothing else. And it was the same with flexibility––no difference. And the same with measures of muscle damage, though electrifying your legs did seem to work better than the cold water.\nThe bottom line is that all the recovery methods seem to achieve about the same. So a cold plunge may be better than just sitting down after intense exercise, but there’s a wide range of other practices that appear to be just as effective. But any time doing something beats out doing nothing; you always have to ask if it might just be a placebo effect. You don’t know if the perceived benefits of cold plunges are all in your head until you put it to the test with a placebo-controlled trial. But how do you even do that? We’ll find out, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Allan R, Malone J, Alexander J, et al. Cold for centuries: a brief history of cryotherapies to improve health, injury and post-exercise recovery. Eur J Appl Physiol. 2022;122(5):1153-1162.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35195747/"
+    },
+    {
+      "Title": "Batista NP, de Carvalho FA, Machado AF, Micheletti JK, Pastre CM. What parameters influence the effect of cold-water immersion on muscle soreness? An updated systematic review and meta-analysis. Clin J Sport Med. 2023;33(1):13-25.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36399666/"
+    },
+    {
+      "Title": "Choo HC, Lee M, Yeo V, Poon W, Ihsan M. The effect of cold water immersion on the recovery of physical performance revisited: A systematic review with meta-analysis. J Sports Sci. 2022;40(23):2608-2638.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36862831/"
+    },
+    {
+      "Title": "Ihsan M, Abbiss CR, Allan R. Adaptations to post-exercise cold water immersion: friend, foe, or futile? Front Sports Act Living. 2021;3:714148.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34337408/"
+    },
+    {
+      "Title": "Kwiecien SY, McHugh MP. The cold truth: the role of cryotherapy in the treatment of injury and recovery from exercise. Eur J Appl Physiol. 2021;121(8):2125-2142.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33877402/"
+    },
+    {
+      "Title": "Machado AF, Ferreira PH, Micheletti JK, et al. Can water temperature and immersion time influence the effect of cold water immersion on muscle soreness? A systematic review and meta-analysis. Sports Med. 2016;46(4):503-514.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26581833/"
+    },
+    {
+      "Title": "Moore E, Fuller JT, Bellenger CR, et al. Effects of cold-water immersion compared with other recovery modalities on athletic performance following acute strenuous exercise in physically active participants: a systematic review, meta-analysis, and meta-regression. Sports Med. 2023;53(3):687-705.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36527593/"
+    },
+    {
+      "Title": "Moore E, Fuller JT, Buckley JD, et al. Impact of cold-water immersion compared with passive recovery following a single bout of strenuous exercise on athletic performance in physically active participants: a systematic review with meta-analysis and meta-regression. Sports Med. 2022;52(7):1667-1688.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35157264/"
+    },
+    {
+      "Title": "Nogueira NM, Felappi CJ, Lima CS, Medeiros DM. Effects of local cryotherapy for recovery of delayed onset muscle soreness and strength following exercise-induced muscle damage: systematic review and meta-analysis. Sport Sci Health. 2020;16(1):1-11.",
+      "Url": "https://link.springer.com/article/10.1007/s11332-019-00571-z"
+    },
+    {
+      "Title": "Peake JM, Roberts LA, Figueiredo VC, et al. The effects of cold water immersion and active recovery on inflammation and cell stress responses in human skeletal muscle after resistance exercise. J Physiol. 2017;595(3):695-711.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27704555/"
+    },
+    {
+      "Title": "Stephens JM, Halson S, Miller J, Slater GJ, Askew CD. Cold-water immersion for athletic recovery: one size does not fit all. Int J Sports Physiol Perform. 2017;12(1):2-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27294485/"
+    },
+    {
+      "Title": "Tipton MJ, Collier N, Massey H, Corbett J, Harper M. Cold water immersion: kill or cure? Exp Physiol. 2017;102(11):1335-1355.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28833689/"
+    },
+    {
+      "Title": "Xiao F, Kabachkova AV, Jiao L, Zhao H, Kapilevich LV. Effects of cold water immersion after exercise on fatigue recovery and exercise performance--meta analysis. Front Physiol. 2023;14:1006512.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36744038/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "athletes",
+      "Url": "https://nutritionfacts.org/topics/athletes/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "muscle health",
+      "Url": "https://nutritionfacts.org/topics/muscle-health/"
+    },
+    {
+      "Title": "muscle strength",
+      "Url": "https://nutritionfacts.org/topics/muscle-strength/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the first video in a series on cold plunges. I knew next to nothing about this topic when I started researching, and it turned out to be much more interesting than I thought. The next two videos in the series are </span><a href=\"https://nutritionfacts.org/video/are-the-benefits-of-cold-plunges-and-cryotherapy-just-a-placebo-effect/\"><span style=\"font-weight: 400\">Are the Benefits of Cold Plunges and Cryotherapy Just a Placebo Effect?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/the-negative-effects-of-cold-plunges-for-building-muscle/\"><span style=\"font-weight: 400\">The Negative Effects of Cold Plunges for Building Muscle</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">Stay tuned for the rest of the series coming out in a couple months.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

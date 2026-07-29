@@ -1,0 +1,123 @@
+{
+  "Title": "The Role of Pesticides and Pollution in Autism",
+  "Url": "https://nutritionfacts.org/video/the-role-of-pesticides-and-pollution-in-autism/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/w8g4QaZZEzs"
+  },
+  "UpdatedAt": "2018-01-29T12:50:41+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 40",
+    "Url": "https://nutritionfacts.org/volumes/volume-40/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the effects of smoking, pesticides, vaccine mercury, and air pollution on autistic spectrum disorder risk?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“The prevalence of [autism] has increased dramatically in the US…” We’re not exactly sure how prevalent it used to be, but these days, about “1 in 68” kids born in the United States will have it. Despite a massive influx of research funding, we still don’t know: what’s the cause? This “sharp increase in prevalence remains unresolved.” Yes, “[c]hanges in awareness [and diagnosis] can account for some of the increase,” but it also might be something we’re exposed to in the environment.\nFor example, all the new chemicals we’re now exposed to. Out of 80,000 agents the chemical industries now put out, we have evidence that at least a thousand may have neurotoxic properties, yet “only a small fraction have been studied in humans during critical windows of development.” “The current chemical risk assessment approach is typically based on the toxicity caused by a single chemical…without acknowledging” the effects of different chemical mixtures. There are hundreds of chemicals currently “allowed in food that may have potential harmful effects on the developing brain.” “Each individual chemical may or may not have a harmful effect [on its own], but we know next to nothing about their cumulative biological effects on the brain.”\n“If we really want to protect children’s brains from chemicals…, we first need to recognize and deal with the massive dearth of basic hazard and exposure information [about any] risks posed by environmental chemicals.” A lot of the data we do have is from “preclinical studies”—meaning like test tubes and lab animals. Well, yeah, it’s not like you can expose people on purpose. That’s where epidemiological research can step in: studying exposures within populations. That’s how we found out about other well-known hazards, like benzene and asbestos. You can’t ethically force people to smoke for a study, but you can note how many people exposed to cigarette smoke day in and day out get lung cancer, compared to nonsmokers.\nIndustries spewing poison like to patronize the public that we shouldn’t worry our pretty little heads, but what does the science show? What does the epidemiological evidence have to say about exposures to environmental chemicals and autism?\nFor example, there’s a bunch of studies on the effects of smoking during pregnancy on autism rates. I’ve talked about these so-called forest plots before, where values greater than one suggest at least a tendency towards an increased risk, whereas the values less than one suggest more of a protective association. And should the whiskers here cross the line, then that means that particular finding did not reach statistical significance. This allows you with a quick glance to interpret a huge amount of data from multiple studies.\nSo, regarding this figure here, does it look like smoking during pregnancy has any effect on autism rates? No; about half skewed to one side, half to the other, and hardly any of the results reached statistical significance—meaning they may have just been largely chance findings.\nSame thing with thimerosal exposure, the mercury-containing preservative used in vaccines. Yeah, one study found significantly increased risk of autism, but three other studies found that those with more vaccine mercury exposure had lower the risk of autism. But mostly, they just showed no relationship either way—not that it matters much at this point, since thimerosal has been removed from most vaccines.\nBut check out the air pollution data. This is exposure to car exhaust and diesel fumes during pregnancy and infancy. See how all the data is skewed to the right, with half the findings reaching statistical significance—meaning a significant correlation between air pollution and autism. But, correlation doesn’t necessarily mean causation. This could be a true cause-and-effect relationship, or maybe it’s just that poor people live in the inner cities next to polluted highways, or the traffic noise is causing stress, or some other confounding factor.\nThe other suspicious link they found was “pesticide exposure.” Again, just a few-second blink at this chart, and you can see where most of the evidence trends. Lots of environmental toxicants have been implicated in autism: plastics, chemicals, PCBs, solvents, toxic waste sites, and heavy metals. But the “strongest evidence [has been] found for air pollutants and pesticides.”\nYeah, “[c]linicians [can] advise pregnant women and parents [to try to avoid exposures to] harmful substances in their environment.” But, instead of just advising patients one-by-one, a “more powerful” strategy would be for us clinicians to band together and take a “leadership role in advocating for a healthy environment” and society-wide actions to help everyone.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Hansen SF, Gee D. Adequate and anticipatory research on the potential hazards of emerging technologies: a case of myopia and inertia?. J Epidemiol Community Health. 2014;68(9):890-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24913017"
+    },
+    {
+      "Title": "Kalkbrenner AE, Schmidt RJ, Penlesky AC. Environmental chemical exposures and autism spectrum disorders: a review of the epidemiological evidence. Curr Probl Pediatr Adolesc Health Care. 2014;44(10):277-318.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25199954"
+    },
+    {
+      "Title": "Lawler CP. The \"environment\" for autism research: signs of improvement?. Environ Health Perspect. 2008;116(10):A416-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18941547"
+    },
+    {
+      "Title": "Maffini MV, Neltner TG. Brain drain: the cost of neglected responsibilities in evaluating cumulative effects of environmental chemicals. J Epidemiol Community Health. 2015;69(5):496-499.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25336676"
+    },
+    {
+      "Title": "Rossignol DA, Genuis SJ, Frye RE. Environmental toxicants and autism spectrum disorders: a systematic review. Transl Psychiatry. 2014;4:e360.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24518398"
+    },
+    {
+      "Title": "Smaga I, Niedzielska E, Gawlik M, et al. Oxidative stress as an etiological factor and a potential treatment target of psychiatric disorders. Part 2. Depression, anxiety, schizophrenia and autism. Pharmacol Rep. 2015;67(3):569-80.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25933971"
+    },
+    {
+      "Title": "Ye BS, Leung AOW, Wong MH. The association of environmental toxicants and autism spectrum disorders in children. Environ Pollut. 2017;227:234-242. https://www.ncbi.nlm.nih.gov/pubmed/28475976",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28475976"
+    }
+  ],
+  "Acknowledgements": "Image credit: JC Gellidon via Unsplash. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "air pollution",
+      "Url": "https://nutritionfacts.org/topics/air-pollution/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "autism",
+      "Url": "https://nutritionfacts.org/topics/autism/"
+    },
+    {
+      "Title": "benzene",
+      "Url": "https://nutritionfacts.org/topics/benzene/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "cigarettes",
+      "Url": "https://nutritionfacts.org/topics/cigarettes/"
+    },
+    {
+      "Title": "heavy metals",
+      "Url": "https://nutritionfacts.org/topics/heavy-metals/"
+    },
+    {
+      "Title": "industrial pollutants",
+      "Url": "https://nutritionfacts.org/topics/industrial-pollutants/"
+    },
+    {
+      "Title": "infants",
+      "Url": "https://nutritionfacts.org/topics/infants/"
+    },
+    {
+      "Title": "mercury",
+      "Url": "https://nutritionfacts.org/topics/mercury/"
+    },
+    {
+      "Title": "organic foods",
+      "Url": "https://nutritionfacts.org/topics/organic-foods/"
+    },
+    {
+      "Title": "PCBs",
+      "Url": "https://nutritionfacts.org/topics/pcbs/"
+    },
+    {
+      "Title": "pesticides",
+      "Url": "https://nutritionfacts.org/topics/pesticides/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "vaccines",
+      "Url": "https://nutritionfacts.org/topics/vaccines/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>First of all, <a href=\"https://nutritionfacts.org/video/is-autism-really-on-the-rise/\">Is Autism Really on the Rise?</a> That was the topic of my last video. What can we do about air pollution, other than moving to a place with cleaner air? You’d be surprised. Check out my video <a href=\"https://nutritionfacts.org/video/best-food-to-counter-the-effects-of-air-pollution/\">Best Food to Counter the Effects of Air Pollution</a>. What about pesticide exposure? Those most at risk are those exposed occupationally, but I have some videos on cutting down on pesticide-residue exposure that may be useful to you:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/are-organic-foods-more-nutritious/\">Are Organic Foods More Nutritious?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-organic-foods-safer/\">Are Organic Foods Safer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-make-your-own-fruit-and-vegetable-wash/\">How to Make Your Own Fruit and Vegetable Wash</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-organic-foods-healthier/\">Are Organic Foods Healthier?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-the-benefits-of-organic-food-underrated-or-overrated/\">Are the Benefits of Organic Food Underrated or Overrated?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-monsantos-roundup-pesticide-glyphosate-safe/\">Is Monstanto’s Roundup Pesticide Glyphosate Safe?</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

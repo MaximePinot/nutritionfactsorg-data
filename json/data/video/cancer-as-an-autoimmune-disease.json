@@ -1,0 +1,135 @@
+{
+  "Title": "Cancer as an Autoimmune Disease",
+  "Url": "https://nutritionfacts.org/video/cancer-as-an-autoimmune-disease/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/Sm7MR_-YBFU"
+  },
+  "UpdatedAt": "2012-12-10T12:25:32+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Because certain tumors such as breast cancers thrive in settings of low-grade inflammation, our immune response can sometimes facilitate tumor growth.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhen people get heart or kidney transplants, they must be given immunosuppressive drugs to prevent rejection of the new organ. What do you suppose happens to cancer rates in those individuals who are immunosuppressed? Well, for some types of cancer, like skin cancer, the risk goes up, which supports the so-called immune surveillance hypothesis—the idea that our immune system acts as a natural defense system for keeping cancer under control.\nThis could explain why, as we age and our immune function declines, our risk of cancer goes up. Here’s a video of our immune system in action. That big oval cell in the middle is a cervical cancer cell, and those little round cells are our T cells delivering the poison pill—setting off the cancer cells’ self-destruct mechanism. And there it goes; bye bye, cancer. That’s the apoptosis, or programmed cell death, that I’m always talking about.\nNote this so-called renaissance of the immunosurveillance hypothesis was more than ten years ago. The problem with the theory is that for some cancers, immunosuppression decreases cancer risk. After a kidney transplant, your skin cancer risk may go up, but your breast cancer risk goes down; your rectal cancer risk goes down.\nWhy would people with depressed immune systems have less cancer? This led to a new theory, kind of the flip side of immune surveillance—the thought that, in some sense, “cancer may be considered an autoimmune disease.” See, the only reason the immune system is even able to pick out cancer cells from noncancer cells is because tumors express foreign-looking antigens (immune-stimulating molecules).\nWhy would tumors do that? Why would cancer cells go out of their way to wave a red flag around, saying hey, come get me? We think it’s because cancer tends to thrive in a setting of low-level inflammation. There’s lots of examples of chronic inflammation leading to cancer—like ulcerative colitis to colon cancer, chronic pancreatitis to pancreatic cancer, chronic hepatitis turning into liver cancer, stomach inflammation to stomach cancer.\nOftentimes, inflammation, the body’s immune response, can further cancer’s agenda. By inciting an immune response, cancer creates its own inflammation, which may stimulate angiogenesis, help bring blood to the tumor, and help it grow.\nSo, the curve may look something like this. A low level of inflammation stimulates cancer growth. But, if the immune system really catches on, then, it can actually start hacking away at the tumor, and slow it down.\nThis may explain a mystery surrounding Kaposi’s sarcoma—a cancer affecting those with AIDS. When you start treating AIDS, and the immune system starts to recover, you can actually see a flare in the cancer.\nSo, what are the dietary implications of this new autoimmune theory of cancer? Stay tuned.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Fenner, F. Frank Macfarlane Burnet 1899-1985 Historical Records of Australian Science, vol. 7, no. 1, Canberra, Australia, 1987.",
+      "Url": "http://www.asap.unimelb.edu.au/bsparcs/aasmemoirs/burnet.htm"
+    },
+    {
+      "Title": "Lanier LL. A renaissance for the tumor immunosurveillance hypothesis. Nat Med. 2001 Nov;7(11):1178-80.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11689875"
+    },
+    {
+      "Title": "Le Mire L, Hollowood K, Gray D, Bordea C, Wojnarowska F. Melanomas in renal transplant recipients. Br J Dermatol. 2006 Mar;154(3):472-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16445778"
+    },
+    {
+      "Title": "Leidner RS, Aboulafia DM. Recrudescent Kaposi's sarcoma after initiation of HAART: a manifestation of immune reconstitution syndrome. AIDS Patient Care STDS. 2005 Oct;19(10):635-44.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16232048"
+    },
+    {
+      "Title": "Pardoll D. T cells take aim at cancer. Proc Natl Acad Sci U S A. 2002 Dec 10;99(25):15840-2.",
+      "Url": "http://www.pnas.org/content/99/25/15840.full.pdf+html"
+    },
+    {
+      "Title": "Prehn RT, Prehn LM.The flip side of immune surveillance: immune dependency. Immunol Rev. 2008 Apr;222:341-56.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18364013"
+    },
+    {
+      "Title": "Stewart T, Henderson R, Grayson H, Opelz G. Reduced incidence of rectal cancer, compared to gastric and colonic cancer, in a population of 73,076 men and women chronically immunosuppressed. Clin Cancer Res. 1997 Jan;3(1):51-5.",
+      "Url": "http://clincancerres.aacrjournals.org/content/3/1/51.long"
+    },
+    {
+      "Title": "Stewart TH, Heppner GH. Immunological enhancement of breast cancer. Parasitology. 1997;115 Suppl:S141-53.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9571699"
+    }
+  ],
+  "Acknowledgements": "Images thanks to James Heilman, MD and Emmanuelm via Wikimedia, Sol Silverman, Jr., D.D.S.; NDNG; dliban; Tom Hickin; and FatMandy via flickr; Hôpital Necker – Assistance publique – Hôpitaux de Paris; and Hans Bjorknas",
+  "Topics": [
+    {
+      "Title": "AIDS",
+      "Url": "https://nutritionfacts.org/topics/aids/"
+    },
+    {
+      "Title": "autoimmune diseases",
+      "Url": "https://nutritionfacts.org/topics/autoimmune-diseases/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cervical cancer",
+      "Url": "https://nutritionfacts.org/topics/cervical-cancer/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "hepatitis",
+      "Url": "https://nutritionfacts.org/topics/hepatitis/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "liver cancer",
+      "Url": "https://nutritionfacts.org/topics/liver-cancer/"
+    },
+    {
+      "Title": "liver health",
+      "Url": "https://nutritionfacts.org/topics/liver-health/"
+    },
+    {
+      "Title": "pancreas health",
+      "Url": "https://nutritionfacts.org/topics/pancreas-health/"
+    },
+    {
+      "Title": "pancreatic cancer",
+      "Url": "https://nutritionfacts.org/topics/pancreatic-cancer/"
+    },
+    {
+      "Title": "pancreatitis",
+      "Url": "https://nutritionfacts.org/topics/pancreatitis/"
+    },
+    {
+      "Title": "skin cancer",
+      "Url": "https://nutritionfacts.org/topics/skin-cancer/"
+    },
+    {
+      "Title": "stomach cancer",
+      "Url": "https://nutritionfacts.org/topics/stomach-cancer/"
+    },
+    {
+      "Title": "stomach health",
+      "Url": "https://nutritionfacts.org/topics/stomach-health/"
+    },
+    {
+      "Title": "stomach inflammation",
+      "Url": "https://nutritionfacts.org/topics/stomach-inflammation/"
+    },
+    {
+      "Title": "ulcerative colitis",
+      "Url": "https://nutritionfacts.org/topics/ulcerative-colitis/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the first of a seven-part video series that takes a deep dive into the human immune system to bring you Neu5Gc, a molecule in meat that human tumors may use to facilitate growth. It’s one of the most fascinating topics in modern day nutrition—stay tuned! I’ve done similar in-depth series on reversing cancer cell growth (see <a href=\"https://nutritionfacts.org/video/developing-an-ex-vivo-cancer-proliferation-bioassay/\">Ex Vivo Cancer Proliferation Bioassay</a>); why animal products cause inflammation (see <a href=\"https://nutritionfacts.org/video/the-leaky-gut-theory-of-why-animal-products-cause-inflammation/\">The Leaky Gut Theory of Why Animal Products Cause Inflammation</a>); changing vitamin D recommendations (<a href=\"https://nutritionfacts.org/video/vitamin-d-recommendations-changed/\">Vitamin D Recommendations Changed</a>); arugula athleticism (see <a href=\"https://nutritionfacts.org/video/doping-with-beet-juice/\">Doping With Beet Juice</a>); why nuts don’t appear to cause expected weight gain (see <a href=\"https://nutritionfacts.org/video/nuts-and-obesity-the-weight-of-evidence/\">Nuts and Obesity: The Weight of Evidence</a>); as well as the latest dietary guidelines (see <a href=\"https://nutritionfacts.org/video/dietary-guidelines-corporate-guidance/\">Dietary Guidelines: Corporate Guidance</a>).</p>\n<p>For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2013/05/14/how-tumors-use-meat-to-grow/\">How Tumors Use Meat to Grow</a>; <a href=\"https://nutritionfacts.org/2013/05/16/plant-based-diets-for-rheumatoid-arthritis/\">Plant-Based Diets for Rheumatoid Arthritis</a>; <a href=\"https://nutritionfacts.org/2013/10/17/flaxseeds-breast-cancer-survival/\">Flax and Breast Cancer Survival</a>; and <a href=\"https://nutritionfacts.org/2013/12/24/mushrooms-and-immunity/\">Mushrooms and Immunity</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

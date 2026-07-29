@@ -1,0 +1,211 @@
+{
+  "Title": "Lesser-Known NAD+ Boosting Supplements—Tryptophan, NADH, NMNH, and NRH",
+  "Url": "https://nutritionfacts.org/video/lesser-known-nad-boosting-supplements-tryptophan-nadh-nmnh-and-nrh/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/9_Gny9uGJl4"
+  },
+  "UpdatedAt": "2025-04-09T11:50:40+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 68",
+    "Url": "https://nutritionfacts.org/volumes/volume-68/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the pros, cons, and efficacy of dihydronicotinamide riboside (reduced NR), perhaps the most potent NAD+ precursor, as well as reduced NMN, taking NAD+ directly, or making it from scratch from tryptophan?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nTaking niacin, also called nicotinic acid, would be about 50 times more efficient than taking the amino acid tryptophan to boost NAD+, because only about 2 percent of tryptophan is converted into niacin. Also, tryptophan didn’t work to improve mitochondrial or muscle function in physically compromised older adults, even when combined with niacin or nicotinamide. And, side effects of taking tryptophan include belching and gas, blurred vision, diarrhea, dizziness, drowsiness, dry mouth, headache, heartburn, and potentially a life-threatening condition known as eosinophilia-myalgia syndrome, or EMS.\nThere was an epidemic of EMS tied to tryptophan supplements from a single supplier back in 1989 that led to their removal from the market for about 15 years. Some sort of contaminant was suspected, but the cause remains a mystery. To this day, tryptophan supplements continue to be tainted with impurities, with at least one case of EMS reported decades after the initial epidemic. A case of EMS tied to a bizarre weight-loss diet involving hundreds of cups (~50 L) of cashews, a rich source of tryptophan, suggests the syndrome can be caused by excess tryptophan directly.\nIf anything, tryptophan restriction may be beneficial. Nearly 50 years ago, it was demonstrated that restricting dietary tryptophan reduced cancer rates, and increased the lifespans of rats and, subsequently, mice. Vegetarians and vegans both appear to have significantly lower intakes of tryptophan. But only in vegans does this translate to lower tryptophan blood levels, though presumably not if they were to take tryptophan supplements.\nWhat about taking NAD+ directly? This isn’t practical because of instability and poor bioavailability. NAD+ is vulnerable to heat, pH, light, and oxygen, requiring dark desiccant storage at ideally 20 degrees (-29°C) below freezing. NAD+ can be given intravenously, a practice started in the 1950s as an “underground” treatment for alcoholism. But when taken orally, NAD may be broken down in the alkaline environment of the small intestine, and NADH, the so-called “reduced” form of NAD+, is broken down in the acidic conditions of the stomach. In organic chemistry, the gain of a hydrogen atom is said to “reduce” the molecule; so, NADH is the reduced form of NAD+.\nEnteric forms of NAD+ could potentially survive the digestive tract, but with the exception of neurons, NAD can’t cross into mammalian cells. This is why NAD+ precursor supplements, like NMN and NR, were developed. Also, there are evidently (unpublished) data showing that straight NAD+ can cause serious hyperglycemia in mice. Has it been tested in people?\nNAD+ boosting supplements have been found to improve the learning and memory of rodent models of Alzheimer’s disease in the lab. In 1995, case reports of apparent benefit of NADH for Alzheimer’s disease were published. By the next year, an open-label pilot study was published, suggesting it had a protective effect. But without a placebo control group, the only conclusion that could be drawn was to study it further, especially since a similar study with the same dose over approximately the same period found no evidence of any cognitive effects.\nThere have been two randomized, double-blind, placebo-controlled trials of NAD precursors for Alzheimer’s. One found no benefit for memory, attention, or clinician ratings of dementia severity, but did maybe find less of a drop in one dementia rating scale after six months of 10 mg a day of NADH. The other, a six-month study of nicotinamide, failed to find any clinical effects.\nWhat about trying NMNH and NRH, the reduced forms of NMN and NR? They both appear to boost NAD+ higher than their non-reduced counterparts. In vitro, NMNH can raise NAD+ levels up to 10 times higher than NMN, and NRH (also known as dihydronicotinamide riboside) is up to about 50 times more potent than NR.\nThere are concerns about stability of NRH outside the body, since it’s sensitive to oxygen and moisture. But within the body, NRH may be more stable, not rapidly devolving into nicotinamide, like NR does (at least in mouse blood). However, unlike NR, NRH does not appear to be able to significantly increase levels in mouse muscles.\nNRH is said to have a “spectacular potency” for increasing NAD+ levels, perhaps the most potent precursor discovered to date. This may not necessarily be a good thing. The extreme boost afforded by NRH had detrimental consequences in human liver cells in vitro, resulting from an excessive accumulation of free radicals. In addition to oxidation, NRH was also found to promote inflammation. Pro-inflammatory effects were noted for NRH on human immune cells in vitro (but not for NMN, NAM, or NR). Because it appears that NMNH is converted to NRH to enter cells, these potentially deleterious effects may be shared by NMNH as well (though this has yet to be tested).\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Allen JA, Peterson A, Sufit R, et al. Post-epidemic eosinophilia-myalgia syndrome associated with L-tryptophan. Arthritis Rheum. 2011;63(11):3633-3639.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21702023/"
+    },
+    {
+      "Title": "Arenas-Jal M, Suñé-Negre JM, García-Montoya E. Therapeutic potential of nicotinamide adenine dinucleotide (NAD). Eur J Pharmacol. 2020;879:173158.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32360833/"
+    },
+    {
+      "Title": "Baquero F, Del Campo R, Martínez JL. Interventions in nicotinamide adenine dinucleotide metabolism, the intestinal microbiota and microcin peptide antimicrobials. Front Mol Biosci. 2022;9:861603.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35372517/"
+    },
+    {
+      "Title": "Barešić M, Bosnić D, Bakula M, Žarković K. Eosinophilia-myalgia syndrome induced by excessive L-tryptophan intake from cashew nuts. Cent Eur J Med. 2014;9(6):796-801.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32288933/"
+    },
+    {
+      "Title": "Birkmayer JG. Coenzyme nicotinamide adenine dinucleotide: new therapeutic approach for improving dementia of the Alzheimer type. Ann Clin Lab Sci. 1996;26(1):1-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8834355/"
+    },
+    {
+      "Title": "Birkmayer JGD. Nicotinamide adenine dinucleotide (NADH) - a new therapeutic approach: preliminary results with cancer patients and patients with dementia of the Alzheimer type. J Tumor Marker Oncol. 1995;10(1).",
+      "Url": "https://scholar.google.com/scholar_lookup?journal=J.+Tumor+Marker+Oncol&title=Nicotinamide+adenine+dinucleotide+(NADH)-+a+new+therapeutic+approach:+preliminary+results+with+cancer+patients+and+patients+with+dementia+of+the+Alzheimer+type&author=JGD+Birkmayer&volume=10&publication_year=1995&pages=1-10&"
+    },
+    {
+      "Title": "Braidy N, Villalva MD, van Eeden S. Sobriety and satiety: is NAD+ the answer? Antioxidants (Basel). 2020;9(5):425.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32423100/"
+    },
+    {
+      "Title": "Chini CCS, Peclat TR, Gomez LS, et al. Dihydronicotinamide riboside is a potent NAD+ precursor promoting a pro-inflammatory phenotype in macrophages. Front Immunol. 2022;13:840246.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35281060/"
+    },
+    {
+      "Title": "Conlon N, Ford D. A systems-approach to NAD+ restoration. Biochem Pharmacol. 2022;198:114946.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35134387/"
+    },
+    {
+      "Title": "Connell NJ, Grevendonk L, Fealy CE, et al. NAD+-precursor supplementation with L-tryptophan, nicotinic acid, and nicotinamide does not affect mitochondrial function or skeletal muscle function in physically compromised older adults. J Nutr. 2021;151(10):2917-2931.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34191033/"
+    },
+    {
+      "Title": "Csiszar A, Tarantini S, Yabluchanskiy A, et al. Role of endothelial NAD+ deficiency in age-related vascular dysfunction. Am J Physiol Heart Circ Physiol. 2019;316(6):H1253-H1266.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30875255/"
+    },
+    {
+      "Title": "De Marte ML, Enesco HE. Influence of low tryptophan diet on survival and organ growth in mice. Mech Ageing Dev. 1986;36(2):161-171.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/3784629/"
+    },
+    {
+      "Title": "Demarin V, Podobnik SS, Storga-Tomic D, Kay G. Treatment of Alzheimer’s disease with stabilized oral nicotinamide adenine dinucleotide: a randomized, double-blind study. Drugs Exp Clin Res. 2004;30(1):27-33.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15134388/"
+    },
+    {
+      "Title": "Giroud-Gerbetant J, Joffraud M, Giner MP, et al. A reduced form of nicotinamide riboside defines a new path for NAD+ biosynthesis and acts as an orally bioavailable NAD+ precursor. Mol Metab. 2019;30:192-202.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31767171/"
+    },
+    {
+      "Title": "Gross CJ, Henderson LM. Digestion and absorption of NAD by the small intestine of the rat. J Nutr. 1983;113(2):412-420.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/6218262/"
+    },
+    {
+      "Title": "Hosseini L, Mahmoudi J, Pashazadeh F, Salehi-Pourmehr H, Sadigh-Eteghad S. Protective effects of nicotinamide adenine dinucleotide and related precursors in Alzheimer’s disease: a systematic review of preclinical studies. J Mol Neurosci. 2021;71(7):1425-1435.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33907963/"
+    },
+    {
+      "Title": "Imai SI. A possibility of nutriceuticals as an anti-aging intervention: activation of sirtuins by promoting mammalian NAD biosynthesis. Pharmacol Res. 2010;62(1):42-47.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20085812/"
+    },
+    {
+      "Title": "Karakawa S, Nakayama A, Ohtsuka N, Sato K, Smriga M. Detection of impurities in dietary supplements containing L-tryptophan. Amino Acids. 2022;54(5):835-839.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35043227/"
+    },
+    {
+      "Title": "Kimura N, Fukuwatari T, Sasaki R, Shibata K. Comparison of metabolic fates of nicotinamide, NAD+ and NADH administered orally and intraperitoneally; characterization of oral NADH. J Nutr Sci Vitaminol (Tokyo). 2006;52(2):142-148.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16802695/"
+    },
+    {
+      "Title": "Palmer RD, Vaccarezza M. Nicotinamide adenine dinucleotide and the sirtuins caution: Pro-cancer functions. Aging Med (Milton). 2021;4(4):337-344.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34964015/"
+    },
+    {
+      "Title": "Phelan MJ. Phase II clinical trial of nicotinamide for the treatment of mild to moderate Alzheimer’s disease. J Geriatr Med Gerontol. 2017;3(1).",
+      "Url": "https://clinmedjournals.org/articles/jgmg/journal-of-geriatric-medicine-and-gerontology-jgmg-3-021.php?jid=jgmg"
+    },
+    {
+      "Title": "Rainer M, Kraxberger E, Haushofer M, Mucke HA, Jellinger KA. No evidence for cognitive improvement from oral nicotinamide adenine dinucleotide (NADH) in dementia. J Neural Transm (Vienna). 2000;107(12):1475-1481.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11459000"
+    },
+    {
+      "Title": "Rajman L, Chwalek K, Sinclair DA. Therapeutic potential of NAD-boosting molecules: the in vivo evidence. Cell Metab. 2018;27(3):529-547.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29514064/"
+    },
+    {
+      "Title": "Reiten OK, Wilvang MA, Mitchell SJ, Hu Z, Fang EF. Preclinical and clinical evidence of NAD+ precursors in health, disease, and ageing. Mech Ageing Dev. 2021;199:111567.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34517020/"
+    },
+    {
+      "Title": "Schmidt JA, Rinaldi S, Scalbert A, et al. Plasma concentrations and intakes of amino acids in male meat-eaters, fish-eaters, vegetarians and vegans: a cross-sectional analysis in the EPIC-Oxford cohort. Eur J Clin Nutr. 2016;70(3):306-312.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26395436/"
+    },
+    {
+      "Title": "Segall PE, Timiras PS. Patho-physiologic findings after chronic tryptophan deficiency in rats: a model for delayed growth and aging. Mech Ageing Dev. 1976;5(2):109-124.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/933560/"
+    },
+    {
+      "Title": "Sonavane M, Hayat F, Makarov M, Migaud ME, Gassman NR. Dihydronicotinamide riboside promotes cell-specific cytotoxicity by tipping the balance between metabolic regulation and oxidative stress. PLoS One. 2020;15(11):e0242174.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33166357/"
+    },
+    {
+      "Title": "Yang Y, Mohammed FS, Zhang N, Sauve AA. Dihydronicotinamide riboside is a potent NAD+ concentration enhancer in vitro and in vivo. J Biol Chem. 2019;294(23):9295-9307.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30948509/"
+    },
+    {
+      "Title": "Zapata-Pérez R, Tammaro A, Schomakers BV, et al. Reduced nicotinamide mononucleotide is a new and potent NAD+ precursor in mammalian cells and mice. FASEB J. 2021;35(4):e21456.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33724555/"
+    },
+    {
+      "Title": "Zhang H, Ryu D, Wu Y, et al. NAD⁺ repletion improves mitochondrial and stem cell function and enhances life span in mice. Science. 2016;352(6292):1436-1443.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27127236/"
+    },
+    {
+      "Title": "Ziegler M, Nikiforov AA. NAD on the rise again. Nat Metab. 2020;2(4):291-292.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32694607/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "cashews",
+      "Url": "https://nutritionfacts.org/topics/cashews/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "diarrhea",
+      "Url": "https://nutritionfacts.org/topics/diarrhea/"
+    },
+    {
+      "Title": "headaches",
+      "Url": "https://nutritionfacts.org/topics/headaches/"
+    },
+    {
+      "Title": "heartburn",
+      "Url": "https://nutritionfacts.org/topics/heartburn/"
+    },
+    {
+      "Title": "How Not to Age",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-age/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "liver health",
+      "Url": "https://nutritionfacts.org/topics/liver-health/"
+    },
+    {
+      "Title": "NAD+",
+      "Url": "https://nutritionfacts.org/topics/nad/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the seventh video in my NAD+ series. If you missed any of the previous ones, check out:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/do-nad-levels-decline-with-age/\"><span style=\"font-weight: 400\">Do NAD+ Levels Decline with Age?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/can-nad-boosters-increase-lifespan-and-healthspan/\"><span style=\"font-weight: 400\">Can NAD+ Boosters Increase Lifespan and Healthspan?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinic-acid-na-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinic Acid (NA), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-nam-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide (NAM), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-riboside-nr-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide Riboside (NR), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-mononucleotide-nmn-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide Mononucleotide (NMN), a NAD+ Booster</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">Stay tuned for: </span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-of-nad-boosting-supplements/\"><span style=\"font-weight: 400\">Risks of NAD+ Boosting Supplements</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/which-nad-booster-is-best/\"><span style=\"font-weight: 400\">Which NAD+ Booster Is Best?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-third-way-to-boost-nad/\"><span style=\"font-weight: 400\">The Third Way to Boost NAD+</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on aging, go to your local public library and check out </span><span style=\"font-weight: 400\">my longevity book, </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

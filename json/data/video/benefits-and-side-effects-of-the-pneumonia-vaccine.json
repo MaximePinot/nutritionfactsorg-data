@@ -1,0 +1,151 @@
+{
+  "Title": "Benefits and Side Effects of the Pneumonia Vaccine",
+  "Url": "https://nutritionfacts.org/video/benefits-and-side-effects-of-the-pneumonia-vaccine/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/r3PuCQ8CxTc"
+  },
+  "UpdatedAt": "2024-04-10T11:50:52+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 65",
+    "Url": "https://nutritionfacts.org/volumes/volume-65/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Randomized controlled trials have found that pneumonia vaccines significantly reduce the risk of pneumococcal pneumonia in people 65 and older.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nVaccines are considered one of the greatest public health achievements of the last century, having eradicated smallpox, a scourge that killed hundreds of millions of people, and greatly reducing other major diseases, such as measles and polio. To this day, vaccines are estimated to save millions of lives a year.\nMore than 90 percent of U.S. children get common childhood vaccinations, such as polio or their measles, mumps, and rubella shot. But most adults fail to get their full complement of recommended adult vaccinations. Assuming you got all your childhood vaccinations (and aside from any emergent pandemic needs), the CDC recommends all healthy adults get annual flu shots, tetanus boosters every ten years (though the World Health Organization doesn’t think this is necessary), shingles vaccination at age 50, and pneumonia vaccine at age 65. Certain groups need others, such as a hepatitis B series for healthcare workers or men who have sex with men. Ask your medical professional for a personalized schedule.\nHow safe are vaccines? In a systematic review and meta-analysis, the RAND Corporation screened more than 50,000 citations, and concluded that routine vaccinations can be considered safe, with only rare serious adverse effects, such as severe allergic reactions in one to 10 in a million, and transient autoimmune syndromes Guillain­ Barré and immune thrombocytopenic purpura in one to three in a million, and 10 to 30 in a million for flu shots and MMR vaccines, respectively. Of course, any adverse events should be weighed against any protective beneﬁts that vaccines may provide. In my last video, I talked about the effectiveness of flu vaccines. What about pneumonia vaccines?\n“Pneumonia may well be called the friend of the aged,” wrote the “Father of Modern Medicine,” Sir William Osler, over a hundred years ago in 1898. “Taken off by it in an acute, short, not often painful illness, the old man escapes those ’cold gradations of decay’ so distressing to himself and to his friends.” The thought was that pneumonia mercifully killed those that would soon die anyway from potentially a more protracted, painful illness. But these days, healthy older adults hospitalized with pneumonia are not significantly more likely to die in the subsequent two years than younger adults in the same situation. Because of comorbidities at older ages, though, pneumonia is the fourth leading cause of death in the world, and the ninth leading cause in the United States.\nThe most common cause of community-acquired pneumonia (as opposed to hospital-acquired) is a bacteria known as pneumococcus (or Streptococcus pneumoniae-eye). In addition to pneumonia, pneumococcus can cause inner ear infections, sinusitis, or pinkeye. It gets serious when it starts to invade the bloodstream, which can result in meningitis (infection of the brain), endocarditis (infection of the heart valves), or sepsis (a life-threatening organ dysfunction caused by blood poisoning).\nThankfully, we have vaccines against pneumococcus. The first was developed over a century ago, but they fell out of favor after penicillin was discovered, thinking antibiotics would eliminate the threat. Unfortunately, these days up to 40 percent of these kind of streptococcal infections are resistant to at least one antibiotic, and despite our miracle drugs, mortality rates of invasive pneumococcus in the elderly remain around 15 to 30 percent. However, randomized controlled trials have found that pneumococcus vaccines reduce the risk of those 65 and older getting pneumococcal pneumonia by 64 percent, and, even more importantly, your risk of invasive pneumococcal disease by 73 percent. Like the flu vaccine, population studies have found that pneumonia vaccines can reduce the risk of both heart attacks and the overall risk of dying. But unlike the flu vaccine, there aren’t randomized controlled trials to confirm these bonus benefits.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Antibiotic Resistance Threats in the United States, 2019. CDC. Dec 2019.",
+      "Url": "https://www.cdc.gov/drugresistance/biggest-threats.html"
+    },
+    {
+      "Title": "Brancati FL, Chow JW, Wagener MM, Vacarello SJ, Yu VL. Is pneumonia really the old man’s friend? Two-year prognosis after community-acquired pneumonia. Lancet. 1993;342(8862):30-33.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8100295/"
+    },
+    {
+      "Title": "Centers for Disease Control and Prevention (CDC). Ten great public health achievements--United States, 1900-1999. MMWR Morb Mortal Wkly Rep. 1999;48(12):241-243.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10220250/"
+    },
+    {
+      "Title": "Crooke SN, Ovsyannikova IG, Poland GA, Kennedy RB. Immunosenescence and human vaccine immune responses. Immun Ageing. 2019;16:25.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31528180/"
+    },
+    {
+      "Title": "Delany I, Rappuoli R, De Gregorio E. Vaccines for the 21st century. EMBO Mol Med. 2014;6(6):708-720.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24803000/"
+    },
+    {
+      "Title": "Dudley MZ, Halsey NA, Omer SB, et al. The state of vaccine safety science: systematic reviews of the evidence. Lancet Infect Dis. 2020;20(5):e80-e89.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32278359/"
+    },
+    {
+      "Title": "Gidengil C, Goetz MB, Newberry S, et al. Safety of vaccines used for routine immunization in the United States: An updated systematic review and meta-analysis. Vaccine. 2021;39(28):3696-3716.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34049735/"
+    },
+    {
+      "Title": "Heron M. Deaths: leading causes for 2019. Natl Vital Stat Rep. 2021;70(9):1-114.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34520342/"
+    },
+    {
+      "Title": "Hill HA, Yankey D, Elam-Evans LD, Singleton JA, Sterrett N. Vaccination coverage by age 24 months among children born in 2017 and 2018 — national immunization survey-child, United States, 2018–2020. MMWR Morb Mortal Wkly Rep. 2021;70(41):1435-1440.",
+      "Url": "https://www.cdc.gov/mmwr/volumes/70/wr/mm7041a1.htm"
+    },
+    {
+      "Title": "Jaiswal V, Ang SP, Lnu K, et al. Effect of pneumococcal vaccine on mortality and cardiovascular outcomes: a systematic review and meta-analysis. J Clin Med. 2022;11(13):3799.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35807082/"
+    },
+    {
+      "Title": "Lu P, Hung M, Srivastav A, et al. Surveillance of vaccination coverage among adult populations — United States, 2018. MMWR Surveill Summ. 2021;70(No. SS-3):1-26.",
+      "Url": "https://www.cdc.gov/mmwr/volumes/70/ss/ss7003a1.htm"
+    },
+    {
+      "Title": "Recommended Adult Immunization Schedule for ages 19 years or older. CDC. 2023.",
+      "Url": "https://www.cdc.gov/vaccines/schedules/downloads/adult/adult-combined-schedule.pdf"
+    },
+    {
+      "Title": "Slifka AM, Park B, Gao L, Slifka MK. Incidence of tetanus and diphtheria in relation to adult vaccination schedules. Clin Infect Dis. 2021;72(2):285-292.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32095828/"
+    },
+    {
+      "Title": "The top 10 causes of death. WHO. Dec 2020.",
+      "Url": "https://www.who.int/en/news-room/fact-sheets/detail/the-top-10-causes-of-death"
+    },
+    {
+      "Title": "Thomas RE. Pneumococcal pneumonia and invasive pneumococcal disease in those 65 and older: rates of detection, risk factors, vaccine effectiveness, hospitalisation and mortality. Geriatrics (Basel). 2021;6(1):13.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33557406/"
+    },
+    {
+      "Title": "Vetter V, Denizer G, Friedland LR, Krishnan J, Shapiro M. Understanding modern-day vaccines: what you need to know. Ann Med. 2018;50(2):110-120.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29172780/"
+    },
+    {
+      "Title": "van Werkhoven CH, Huijts SM. Vaccines to prevent pneumococcal community-acquired pneumonia. Clin Chest Med. 2018;39(4):733-752.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30390745/"
+    },
+    {
+      "Title": "van de Garde MDB, Knol MJ, Rots NY, van Baarle D, van Els CACM. Vaccines to protect older adults against pneumococcal disease. Interdiscip Top Gerontol Geriatr. 2020;43:113-130.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32294656/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "CDC",
+      "Url": "https://nutritionfacts.org/topics/cdc/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "elderly",
+      "Url": "https://nutritionfacts.org/topics/elderly/"
+    },
+    {
+      "Title": "flu shots",
+      "Url": "https://nutritionfacts.org/topics/flu-shots/"
+    },
+    {
+      "Title": "hepatitis",
+      "Url": "https://nutritionfacts.org/topics/hepatitis/"
+    },
+    {
+      "Title": "influenza",
+      "Url": "https://nutritionfacts.org/topics/influenza/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "pneumonia",
+      "Url": "https://nutritionfacts.org/topics/pneumonia/"
+    },
+    {
+      "Title": "vaccines",
+      "Url": "https://nutritionfacts.org/topics/vaccines/"
+    },
+    {
+      "Title": "viral infections",
+      "Url": "https://nutritionfacts.org/topics/viral-infections/"
+    },
+    {
+      "Title": "World Health Organization",
+      "Url": "https://nutritionfacts.org/topics/world-health-organization/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">If you missed it, check out the previous video: </span><a href=\"https://nutritionfacts.org/video/benefits-and-side-effects-of-the-flu-vaccine/\"><span style=\"font-weight: 400\">Benefits and Side Effects of the Flu Vaccine</span></a><span style=\"font-weight: 400\">. Next? </span><a href=\"https://nutritionfacts.org/video/benefits-and-side-effects-of-the-shingles-vaccine/\"><span style=\"font-weight: 400\">Benefits and Side Effects of the Shingles Vaccine</span></a><span style=\"font-weight: 400\">. </span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

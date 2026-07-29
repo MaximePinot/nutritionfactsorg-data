@@ -1,0 +1,151 @@
+{
+  "Title": "Fiber vs. Breast Cancer",
+  "Url": "https://nutritionfacts.org/video/fiber-vs-breast-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/-0rX4dvuhrc"
+  },
+  "UpdatedAt": "2013-04-03T11:24:18+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 12",
+    "Url": "https://nutritionfacts.org/volumes/volume-12/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Inadequate fiber intake appears to be a risk factor for breast cancer, which can explain why women eating plant-based diets may be at lower risk.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nA recent editorial in the journal of the American Association for Cancer Research starts out, “There are far too many breast cancer survivors”—by which she means it’s great that women with breast cancer are living longer, but lamenting the fact that the number of women getting breast cancer in the first place isn’t going down. A million women every year. “As with any other epidemic, identification and aggressive reduction of any reversible risk factors must become an immediate priority.”\nOne such risk factor appears to be inadequate fiber consumption. For example, this new study, out of Yale. “Among premenopausal women, higher intake of soluble fiber…was associated with a significantly reduced risk of breast cancer”—62% lower odds. And, when they just looked at younger women, with the hardest-to-treat breast cancer, the estrogen receptor negative tumors, then those eating the most fiber appeared to have 85% lower odds of breast cancer.\nThis is what’s called a case-control study—where you compare women who already have a disease, to those that don’t. And, you ask both to tell you what they used to eat. That’s how they were able to associate breast cancer with inadequate fiber intake; the breast cancer patients were significantly less likely to report eating lots of plant foods—the only natural place fiber is found.\nThe reason it’s important to understand how they arrived at their conclusion is that maybe, it’s not the fiber at all that’s what’s so protective. “The reduced risk of breast cancer associated with dietary fiber intake observed in this study may in fact indirectly reflect the effects from [some] other dietary nutrients, and thus dietary fiber here may simply act as a marker for other exposures, which have been linked to [a] reduced risk of human cancer as well, such as folate, phytochemicals, carotenoids, vitamin C and E, which are also like dietary fiber found in plant foods, such as vegetables, fruits, and pulses (legumes, [beans, peas, lentils, soy]), as well as [in grains].”\nAnd, look, if you’re eating more plants, you may be eating fewer animals. “…[A]n increased consumption of fiber from foods of plant origin (such as vegetables, fruits, and grains) may reflect a reduced consumption of foods of animal origin.”\nA combined analysis of a dozen such studies published in the Journal of the National Cancer Institute show they all found pretty much the same thing—”a consistent, statistically significant…association between breast cancer risk and saturated fat intake [which is mostly cheese, cake, and chicken, in this country]. And: “A consistent protective effect for a number of markers of fruit and vegetable intake was demonstrated; [such as] vitamin C…,” which, like fiber, is basically only found in plant foods.  \nEvery 20 grams of fiber a day was associated with a 15% drop in breast cancer risk. Now, case control studies are susceptible to something called recall bias, though, since they rely on people’s memory, right? If people with cancer are more likely to selectively remember all the bad things they ate, since they may be feeling responsible for their condition, it could artificially inflate the correlation.\nSo, prospective cohort studies might provide stronger evidence. That’s where you take a bunch of healthy women, and follow them, and their diets over time, to see who gets breast cancer, and who doesn’t. By 2011, ten such studies had been done, and the same thing was found. In fact,” every 10-g/d increment in dietary fiber intake was associated with a significant 7% reduction in breast cancer risk.” Pretty much the same thing the other studies found; right? Remember, 15% for every 20 grams? This has “important public health implications.”\nThat was 2011. By 2012, we were up to 16 prospective, or forward-looking, studies on dietary fiber and breast cancer. And, they found the same thing. For the first time, though, they showed a potentially nonlinear response—meaning, the more fiber you eat, the more benefit you appear to get.\nAmerican women average about 15 grams of fiber a day, only half the minimum daily recommendation. Maybe that’s why vegetarian women may have lower breast cancer rates—more plant foods equals more fiber.\nVegetarians only seem to be averaging about 20 grams a day, though.  Better, but still, not even making the minimum. So, one might really have to venture out into vegan territory—off the chart, averaging 47 grams a day. Or, if a really healthy vegan diet (59 grams of fiber a day), or eating lots and lots of vegan Thai food, 68.7.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "B. Farmer, B. T. Larson, V. L. Fulgoni III, A. J. Rainville, G. U. Liepa. A vegetarian dietary pattern as a nutrient-dense approach to weight management: An analysis of the national health and nutrition examination survey 1999-2004. J Am Diet Assoc 2011 111(6):819 - 827",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21616194"
+    },
+    {
+      "Title": "C. Chitchumroonchokchai. Dietary Fiber and Phytate Intake of Strict Vegetarian Thai Adults. Asia Pac J Public Health 1995 8: 10 1995 8(NA):10-13",
+      "Url": "http://aph.sagepub.com/content/8/1/10.abstract"
+    },
+    {
+      "Title": "D. Aune, D. S. M. Chan, D. C. Greenwood, A. R. Vieira, D. A. N. Rosenblatt, R. Vieira, T. Norat. Dietary fiber and breast cancer risk: A systematic review and meta-analysis of prospective studies. Ann. Oncol. 2012 23(6):1394 - 1402",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22234738"
+    },
+    {
+      "Title": "E. Warner. An ounce of breast cancer prevention--let's try for a pound. Cancer Epidemiol. Biomarkers Prev. 2012 21(5):705 - 706",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22441432"
+    },
+    {
+      "Title": "G. R. Howe, T. Hirohata, T. G. Hislop, J. M. Iscovich, J. M. Yuan, K. Katsouyanni, F. Lubin, E. Marubini, B. Modan, T. Rohan. Dietary factors and risk of breast cancer: Combined analysis of 12 case-control studies. J. Natl. Cancer Inst. 1990 82(7):561 - 569",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/2156081"
+    },
+    {
+      "Title": "J.-Y. Dong, K. He, P. Wang, L.-Q. Qin. Dietary fiber intake and risk of breast cancer: A meta-analysis of prospective cohort studies. Am. J. Clin. Nutr. 2011 94(3):900 - 905",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21775566"
+    },
+    {
+      "Title": "Q. Li, T. R. Holford, Y. Zhang, P. Boyle, S. T. Mayne, M. Dai, T. Zheng. Dietary fiber intake and risk of breast cancer by menopausal and estrogen receptor status. European journal of nutrition 2012 NA(NA):NA",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22350922"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Kelidimari via Wikimedia, and *Zoha.N via flickr",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "beta carotene",
+      "Url": "https://nutritionfacts.org/topics/beta-carotene/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast cancer survival",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer-survival/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "folate",
+      "Url": "https://nutritionfacts.org/topics/folate/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "legumes",
+      "Url": "https://nutritionfacts.org/topics/legumes/"
+    },
+    {
+      "Title": "lentils",
+      "Url": "https://nutritionfacts.org/topics/lentils/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "peas",
+      "Url": "https://nutritionfacts.org/topics/peas/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    },
+    {
+      "Title": "vitamin E",
+      "Url": "https://nutritionfacts.org/topics/vitamin-e/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p dir=\"ltr\">Yes, but how might fiber intake lower breast cancer risk? Basically, the same way as fiber; see <a href=\"https://nutritionfacts.org/video/how-fiber-lowers-cholesterol/\">How Fiber Lowers Cholesterol</a>. Also, see <a href=\"https://nutritionfacts.org/video/relieving-yourself-of-excess-estrogen/\">Relieving Yourself of Excess Estrogen</a>.</p>\n<p dir=\"ltr\">Mushroom consumption (<a href=\"https://nutritionfacts.org/video/breast-cancer-vs-mushrooms/\">Breast Cancer vs. Mushrooms</a>), nuts (<a href=\"https://nutritionfacts.org/video/tree-nuts-or-peanuts-for-breast-cancer-prevention/\">Tree Nuts or Peanuts for Breast Cancer Prevention?</a>), green tea and soy (<a href=\"https://nutritionfacts.org/video/why-do-asian-women-have-less-breast-cancer/\">Why Do Asian Women Have Less Breast Cancer?</a>), and crucifers (<a href=\"https://nutritionfacts.org/video/broccoli-versus-breast-cancer-stem-cells/\">Broccoli vs. Breast Cancer Stem Cells</a>) may be particularly protective.</p>\n<p dir=\"ltr\">The comparison of fiber intakes by diet could certainly help explain why vegans are such regular people (see the ending of <a href=\"https://nutritionfacts.org/video/prunes-vs-metamucil-vs-vegan-diet/\">Prunes vs. Metamucil vs. Vegan Diet</a>).</p>\n<p dir=\"ltr\">Be sure to check out my associated blog post for more context: <a href=\"https://nutritionfacts.org/2013/10/15/flaxseeds-for-breast-cancer-prevention/\">Flax and Breast Cancer Prevention</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

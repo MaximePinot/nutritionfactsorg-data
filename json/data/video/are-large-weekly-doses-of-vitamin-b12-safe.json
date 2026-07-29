@@ -1,0 +1,139 @@
+{
+  "Title": "Are Large Weekly Doses of Vitamin B12 Safe?",
+  "Url": "https://nutritionfacts.org/video/are-large-weekly-doses-of-vitamin-b12-safe/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/n-wPDHta1jU"
+  },
+  "UpdatedAt": "2025-11-26T12:50:38+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 71",
+    "Url": "https://nutritionfacts.org/volumes/volume-71/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Should we be concerned about getting too much B12?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nSerious adverse effects, even with high doses of injected vitamin B12 (hydroxocobalamin), have never been reported. However, some patients do report acne breakouts after high-dose injections, which I talked about before. But, hold on. When you look at the relationship between B12 concentrations in the blood and mortality, you see graphs like this, where having low levels isn’t good, with higher mortality, but high levels in the blood is associated with higher mortality too.\nWhat are some of the ways we could get high B12 levels? One could be B12 supplementation, but it could also be due to B12 being released from damaged tissues, or not clearing as well from malfunctioning kidneys—in other words, reverse causation. Instead of high B12 causing disease, disease is causing high B12. How could we tease that out? There is a correlation between high blood B12 and cancer, for example. Which one might be leading to the other? Well, when you treat the cancer, when you shrink the tumors, B12 levels drop, suggesting that the active tumor was the source of high vitamin B12 levels in the circulation, instead of vice versa. And that’s what you see when you look at other conditions: the blood B12 concentrations rise as a consequence of acute and chronic illness. A cause-and-effect relationship between serum B12 concentrations and subsequent disease or mortality has never been demonstrated.\nIn fact, how else can you get lots of B12 in your system? By eating lots of meat. So high B12 levels may be a proxy, in some cases, for increased intake of meat. If you go back and separate out the effects of different sources of B12, high intake of vitamin B12 in the form of supplements was not associated with any adverse effect on mortality, and therefore can be regarded as safe. And you see the same thing when you look at the origin of vitamin B12 levels and mortality across the board in a systematic review and meta-analysis of all such studies. High blood concentrations caused by dietary sources of vitamin B12—meat, eggs, and dairy—may increase all-cause mortality, but when B12 levels are high from supplement sources, there doesn’t seem to be a problem, while higher mortality associated with cardiovascular disease or obesity is associated with higher intake of foods like meat. The bottom line is that long-term studies clearly indicate that treatment with even high pharmacological doses of B12 and the corresponding increase in serum B12 concentrations do not increase mortality risk. “Supplemental forms of vitamin B12 are considered safe and there is no evidence-based Tolerable Upper Intake Level for vitamin B12,” because you just poop out what you don’t absorb.\nRemember, when you take a single weekly megadose of 2,000 micrograms of B12, you only absorb about 20 mcg of it, and the other 1,980 just get flushed down the toilet. But wait. Before that happens, that massive load of B12 hits our colon. Might that be mucking with our microbiome?\nDo you think we need B12? We only need it for two enzymes, whereas it’s required for more than a dozen enzymes in bacteria. Only a minority of the bacteria in our gut may make it though, yet the vast majority need it. So, where do they get it? They borrow it from a neighbor, like going next door to get a cup of flour or something. We may have a thousand or more difference species in our gut, and they share vitamins. It’s like one big open bazaar down there.\nThis is just to say that B12 is a big deal for bacteria, and may play an unrecognized role in shaping the structure and function of our microbiome. Okay, but for good or for ill? Vitamin B12 supplements typically contain doses that far exceed anything we would naturally have seen evolutionarily and though it’s considered safe, we know our gut bugs are fighting over it all the time. To what extent might excessive levels affect us?\nIf mice are given the human equivalent of just 5,000 micrograms, not much seems to happen to their microbiomes. But if they’re given the equivalent of 25,000 micrograms a day, it accelerates the colonization of a bad bug called Citrobacter rodentium. But as its name suggests, it’s a mouse-specific pathogen. It’s not a bug you even see in humans. But what about B12 in people? To date, very few studies have been done, so the impact of vitamin B12 on our gut microbiome has not been established. And the studies we do have are all over the place,\nIn this one, B12 supplementation in an in vitro colonic stimulation—basically human feces passed through a series of beakers and tubes—the B12 seemed to actually have microbiome benefits. Other similar-type studies showed that B12 seemed to have a more limited impact not affecting bacterial growth, richness, diversity, or total metabolite production. However, there was an increase in propionate, which is a beneficial short-chain fatty acid.\nIn this study, some beneficial bacteria that produce short-chain fatty acids were reduced by the B12, but overall, the amount of short-chain fatty acids went up. So, vitamin B12 supplementation may actually be beneficial for the gut through interactions with our microbiome. So, while B12 injections are often used for B12 deficiency, those individuals may be missing out on microbiome benefits of oral supplementation.\nIf anything, the potential risk of giving larger weekly doses versus smaller daily doses would not be from getting too much, but from getting too little. We’re counting on that approximate 1% absorption at higher doses. However, this passive absorption may vary between individuals, so if we instead only absorbed half a percent or a tenth of a percent, we wouldn’t get enough dosing once a week. To boost absorption, we can take high doses on an empty stomach. Instead of passively absorbing about 1% of a 500-microgram dose when taken with a meal, absorption is boosted by about 60% on an empty stomach.\nAlthough the higher weekly doses have been proven to improve B12 status in deficient populations, since we really don’t know the long-term effects of all that extra B12 hitting our colon, an alternative would be to get 2 or 2.5 micrograms at each meal, as I talked about with fortified foods in the last video.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Benham AJ, Gallegos D, Hanna KL, Hannan-Jones MT. Vitamin B12 Supplementation Adequacy in Australian Vegan Study Participants. Nutrients. 2022;14(22):4781.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36432466/"
+    },
+    {
+      "Title": "Berlin H, Berlin R, Brante G. Oral treatment of pernicious anemia with high doses of vitamin B12 without intrinsic factor. Acta Med Scand. 1968;184(4):247-258.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/5751528/"
+    },
+    {
+      "Title": "Degnan PH, Taga ME, Goodman AL. Vitamin B12 as a modulator of gut microbial ecology. Cell Metab. 2014;20(5):769-778.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25440056/"
+    },
+    {
+      "Title": "Forgie AJ, Pepin DM, Ju T, et al. Over supplementation with vitamin B12 alters microbe-host interactions in the gut leading to accelerated Citrobacter rodentium colonization and pathogenesis in mice. Microbiome. 2023;11(1):21.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36737826/"
+    },
+    {
+      "Title": "Guetterman HM, Huey SL, Knight R, Fox AM, Mehta S, Finkelstein JL. Vitamin B-12 and the Gastrointestinal Microbiome: A Systematic Review. Adv Nutr. 2022;13(2):530-558.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34612492/"
+    },
+    {
+      "Title": "Kashyap S, Gowda P, Pasanna RM, et al. The Oral Bioavailability of Vitamin B12 at Different Doses in Healthy Indian Adults. Nutrients. 2024;16(23):4157.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/39683551/"
+    },
+    {
+      "Title": "Kelly CJ, Alexeev EE, Farb L, et al. Oral vitamin B12 supplement is delivered to the distal gut, altering the corrinoid profile and selectively depleting Bacteroides in C57BL/6 mice. Gut Microbes. 2019;10(6):654-662.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31062653/"
+    },
+    {
+      "Title": "Kundra P, Geirnaert A, Pugin B, Morales Martinez P, Lacroix C, Greppi A. Healthy adult gut microbiota sustains its own vitamin B12 requirement in an in vitro batch fermentation model. Front Nutr. 2022;9:1070155.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36532531/"
+    },
+    {
+      "Title": "Liu K, Yang Z, Lu X, et al. The origin of vitamin B12 levels and risk of all-cause, cardiovascular and cancer specific mortality: A systematic review and dose-response meta-analysis. Arch Gerontol Geriatr. 2024;117:105230.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38252787/"
+    },
+    {
+      "Title": "Macfarlane GT, Macfarlane S, Gibson GR. Validation of a Three-Stage Compound Continuous Culture System for Investigating the Effect of Retention Time on the Ecology and Metabolism of Bacteria in the Human Colon. Microb Ecol. 1998;35(2):180-187.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9541554/"
+    },
+    {
+      "Title": "Obeid R, Heil SG, Verhoeven MMA, van den Heuvel EGHM, de Groot LCPGM, Eussen SJPM. Vitamin B12 Intake From Animal Foods, Biomarkers, and Health Aspects. Front Nutr. 2019;6:93.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31316992/"
+    },
+    {
+      "Title": "Obeid R. High Plasma Vitamin B12 and Cancer in Human Studies: A Scoping Review to Judge Causality and Alternative Explanations. Nutrients. 2022;14(21):4476.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36364737/"
+    },
+    {
+      "Title": "Sokolovskaya OM, Shelton AN, Taga ME. Sharing vitamins: Cobamides unveil microbial interactions. Science. 2020;369(6499):eaba0165.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32631870/"
+    },
+    {
+      "Title": "Wang H, Shou Y, Zhu X, et al. Stability of vitamin B12 with the protection of whey proteins and their effects on the gut microbiome. Food Chem. 2019;276:298-306.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30409598/"
+    },
+    {
+      "Title": "Wolffenbuttel BHR, Heiner-Fokkema MR, Green R, Gans ROB. Relationship between serum B12 concentrations and mortality: experience in NHANES. BMC Med. 2020;18(1):307.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33032595/"
+    },
+    {
+      "Title": "Wolffenbuttel BHR, McCaddon A, Ahmadi KR, Green R. A Brief Overview of the Diagnosis and Treatment of Cobalamin (B12) Deficiency. Food Nutr Bull. 2024;45(1_suppl):S40-S49.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38987879/"
+    },
+    {
+      "Title": "Wolffenbuttel BHR, Wouters HJCM, Heiner-Fokkema MR, van der Klauw MM. The Many Faces of Cobalamin (Vitamin B12) Deficiency. Mayo Clin Proc Innov Qual Outcomes. 2019;3(2):200-214.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31193945/"
+    },
+    {
+      "Title": "Xu Y, Xiang S, Ye K, et al. Cobalamin (Vitamin B12) Induced a Shift in Microbial Composition and Metabolic Activity in an in vitro Colon Simulation. Front Microbiol. 2018;9:2780.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30505299/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "acne",
+      "Url": "https://nutritionfacts.org/topics/acne/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    },
+    {
+      "Title": "vitamins",
+      "Url": "https://nutritionfacts.org/topics/vitamins/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the last video in a five-part series on vitamin B12. If you missed any of the previous ones, check out:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-long-does-it-take-to-become-vitamin-b12-deficient-and-what-are-the-symptoms/\"><span style=\"font-weight: 400\">How Long Does It Take to Become Vitamin B12-Deficient and What Are the Symptoms?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-best-way-to-test-for-vitamin-b12-deficiency/\"><span style=\"font-weight: 400\">The Best Way to Test for Vitamin B12 Deficiency</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-best-source-of-vitamin-b12-supplements-shots-or-fortified-foods/\"><span style=\"font-weight: 400\">The Best Source of Vitamin B12: Supplements, Shots, or Fortified Foods?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-much-vitamin-b12-do-we-need-each-day/\"><span style=\"font-weight: 400\">How Much Vitamin B12 Do We Need Each Day?</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on vitamin B12, check out </span><a href=\"https://nutritionfacts.org/topics/vitamin-b12/\"><span style=\"font-weight: 400\">the topic page</span></a><span style=\"font-weight: 400\">. </span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "Title": "Breast Cancer and the Bovine Leukemia Virus in Meat and Dairy",
+  "Url": "https://nutritionfacts.org/video/breast-cancer-and-the-bovine-leukemia-virus-in-meat-and-dairy/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/V6QUGjbxq2w"
+  },
+  "UpdatedAt": "2022-03-09T12:50:32+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 57",
+    "Url": "https://nutritionfacts.org/volumes/volume-57/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Exposure to the bovine leukemia virus from meat and dairy (or a blood transfusion from those who eat meat or dairy) is a risk factor for cancer.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn 2015, researchers in California found bovine leukemia virus (BLV) stitched into the DNA of human breast cancer tumors from mastectomies at such higher rates than was found in normal breast tissue taken from breast reduction surgery that they calculated that as many as 37 percent of breast cancer cases may be attributable to bovine leukemia virus exposure, likely through the consumption of milk or meat obtained from infected animals.\nIn response, the milk and meat industries seemed more concerned about consumer confidence than consumer cancer. But scientifically, the research priority turned to: could the California results be replicated? The answer, it turns out, was yes. They were replicated among women in Iran. Replicated in Brazil. In Australia, the link was even stronger. In Texas, the same thing. Women diagnosed with breast cancer were found to be so much more likely to have bovine leukemia virus DNA in their breast tissue, compared with women without cancer, that the attributable risk was calculated at 51.82 percent––indicating that this meat and dairy virus could be responsible for at least one-half of the breast cancer cases among the women in Texas they studied.\nAll in all, six of the eight studies performed to date found the virus in human breast tissues, which suggests strongly that BLV does infect humans, and breasts can be targets of infection. Four of the five studies that were able to compare infection rates in cancerous tissue versus normal breast tissue found the odds of finding the virus in the tumors was, on average, four times higher.\nHow does that compare to other breast cancer risk factors? If you go on hormone replacement for five years, you can bump up your breast cancer risk 30 percent. If you take the pill for more than a dozen years, your risk may go up 40 percent. If you’re obese when you’re older, your risk can go up 60 percent. Having a first-degree relative with breast cancer may double your risk. But having your breast infected with bovine leukemia virus may quadruple your risk. The only risk factors more potent than BLV infection were having the BRCA gene mutations like Angelina Jolie has, or a high dose of ionizing radiation, like being in the wrong place at decidedly the wrong time.\nBeyond confirmation, one study suggested that older patients had a greater likelihood of testing positive for bovine leukemia virus. That makes sense, if BLV is from exposure to dairy and meat. The older we get, the more meals we’ve had, and the more opportunities to become infected over time.\nResearchers also discovered that the virus comes first, present in some breast tissues 3 to 10 years before cancer was diagnosed. “This argues against the idea of viral invasion of already malignant cells,” quashing the theory that maybe the virus is somehow just attracted to the cancer after the fact. Could this explain the consistent findings that breast cancer tissue is more likely to harbor infection? Again, the data showed no; the virus appeared to come first. This review doesn’t provide absolute proof that BLV is a cause of breast cancer, but based on the best available balance of evidence, BLV infection does indeed appear to be a breast cancer risk factor.\nThe latest revelation is that it’s now been found in human blood, too. This has a number of potential ramifications. Blood banks, for example, don’t screen for it. So, it’s possible you can get it from consuming meat or dairy, or getting blood from someone who consumed meat or dairy.\nThis could also mean that BLV could cause leukemia in people, too. It does in chimpanzees. Two infant chimps were fed milk from cows naturally infected with the BLV, and they both died of leukemia. We didn’t even know chimps could get leukemia.\nThis certainly suggests the possibility of transmission or induction of leukemia through the ingestion of milk from BLV-infected cows; or blood-borne spread could carry the virus to other organs. In cattle, the virus causes blood cancers, but this may be just because dairy cattle are turned into hamburger when they are still so young, so maybe they don’t have time for tumors to grow in other organs.\nHow concerned should we be about bovine leukemia virus? It is not clear yet whether this is a good news story or a bad news story. If subsequent studies show that BLV does cause breast cancer in humans, this will have significant repercussions for the dairy and cattle industries. But that means there is something we can do about it. Perhaps attempts should be made to eradicate the infection from cattle now, rather than wait for the final word. Twenty-one nations have eradicated BLV from their dairy cattle. In contrast, in the U.S. the BLV prevalence just keeps going up. If the industries are not going to step up and try to eliminate the disease, then the least they could do is eliminate some of the practices that spread the disease between animals.\nBLV is spread via blood through contaminated needles, saw or gouge dehorners, tattoo pliers, ear taggers, hoof knives, nose tongs, and other tools of the agribusiness trade. Though in view of the emerging information about BLV in human breast cancer, it may be prudent to encourage the complete elimination of BLV in cattle, particularly in the dairy industry. The hope is that either way it may help reduce the scourge of breast cancer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Baltzell KA, Shen HM, Krishnamurthy S, Sison JD, Nuovo GJ, Buehring GC. Bovine leukemia virus linked to breast cancer but not coinfection with human papillomavirus: Case-control study of women in Texas. Cancer. 2018;124(7):1342-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29266207/"
+    },
+    {
+      "Title": "Bogolyubova AV. Mol Biol (Mosk). 2019;53(5):871-80.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31661485/"
+    },
+    {
+      "Title": "Bovine Leukosis Virus. Cornell University.",
+      "Url": "https://www.vet.cornell.edu/animal-health-diagnostic-center/programs/nyschap/modules-documents/bovine-leukosis-virus"
+    },
+    {
+      "Title": "Buehring GC, DeLaney A, Shen H, et al. Bovine leukemia virus discovered in human blood. BMC Infect Dis. 2019;19(1):297.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30940091/"
+    },
+    {
+      "Title": "Buehring GC, Sans HM. Breast Cancer Gone Viral? Review of Possible Role of Bovine Leukemia Virus in Breast Cancer, and Related Opportunities for Cancer Prevention. Int J Environ Res Public Health. 2019;17(1):209.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31892207/"
+    },
+    {
+      "Title": "Buehring GC, Shen H, Schwartz DA, Lawson JS. Bovine leukemia virus linked to breast cancer in Australian women and identified before breast cancer development. PLoS One. 2017;12(6):e0179367.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28640828/"
+    },
+    {
+      "Title": "Buehring GC, Shen HM, Jensen HM, Jin DL, Hudes M, Block G. Exposure to Bovine Leukemia Virus Is Associated with Breast Cancer: A Case-Control Study. PLoS One. 2015;10(9):e0134304.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26332838/"
+    },
+    {
+      "Title": "Gyles C. Should we be more concerned about bovine leukemia virus? Can Vet J. 2016;57(2):115-6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26834261/"
+    },
+    {
+      "Title": "Khalilian M, Hosseini SM, Madadgar O. Bovine leukemia virus detected in the breast tissue and blood of Iranian women. Microb Pathog. 2019;135:103566.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31252065/"
+    },
+    {
+      "Title": "Land CE, Tokunaga M, Koyama K, et al. Incidence of female breast cancer among atomic bomb survivors, Hiroshima and Nagasaki, 1950-1990. Radiat Res. 2003;160(6):707-17.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14640793/"
+    },
+    {
+      "Title": "Lawson JS, Salmons B, Glenn WK. Oncogenic Viruses and Breast Cancer: Mouse Mammary Tumor Virus (MMTV), Bovine Leukemia Virus (BLV), Human Papilloma Virus (HPV), and Epstein-Barr Virus (EBV). Front Oncol. 2018;8:1.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29404275/"
+    },
+    {
+      "Title": "Martinez Cuesta L, Lendez PA, Nieto Farias MV, Dolcini GL, Ceriani MC. Can Bovine Leukemia Virus Be Related to Human Breast Cancer? A Review of the Evidence. J Mammary Gland Biol Neoplasia. 2018;23(3):101-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29777406/"
+    },
+    {
+      "Title": "McClure HM, Keeling ME, Custer RP, Marshak RR, Abt DA, Ferrer JF. Erythroleukemia in two infant chimpanzees fed milk from cows naturally infected with the bovine C-type virus. Cancer Res. 1974;34(10):2745-57.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/4370000/"
+    },
+    {
+      "Title": "Ruggiero VJ, Bartlett PC. Control of Bovine Leukemia Virus in Three US Dairy Herds by Culling ELISA-Positive Cows. Vet Med Int. 2019;2019:3202184.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31341609/"
+    },
+    {
+      "Title": "Schwingel D, Andreolla AP, Erpen LMS, Frandoloso R, Kreutz LC. Bovine leukemia virus DNA associated with breast cancer in women from South Brazil. Sci Rep. 2019;9(1):2949.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30814631/"
+    },
+    {
+      "Title": "Sweeney RW. Bovine Leukosis Virus. eXtension. November 2, 2015.",
+      "Url": "https://web.archive.org/web/20160213141252/http://articles.extension.org/pages/73270/bovine-leukosis-virus"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "BCRA genes",
+      "Url": "https://nutritionfacts.org/topics/bcra-genes/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "bovine leukemia virus",
+      "Url": "https://nutritionfacts.org/topics/bovine-leukemia-virus/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "viral infections",
+      "Url": "https://nutritionfacts.org/topics/viral-infections/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you missed the previous video, see <a href=\"https://nutritionfacts.org/video/bovine-leukemia-virus-as-a-cause-of-breast-cancer/\">Bovine Leukemia Virus as a Cause of Breast Cancer</a>.</p>\n<p>Avoiding infectious risks like BLV is another advantage of making meat without animals. See my video <a href=\"https://nutritionfacts.org/video/the-human-health-effects-of-cultivated-meat-food-safety/\">The Human Health Effects of Cultivated Meat: Food Safety</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

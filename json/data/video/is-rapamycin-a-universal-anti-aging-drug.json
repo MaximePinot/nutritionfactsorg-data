@@ -1,0 +1,119 @@
+{
+  "Title": "Is Rapamycin a Universal Anti-Aging Drug?",
+  "Url": "https://nutritionfacts.org/video/is-rapamycin-a-universal-anti-aging-drug/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/FWZtb423xQo"
+  },
+  "UpdatedAt": "2024-11-25T12:50:40+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 67",
+    "Url": "https://nutritionfacts.org/volumes/volume-67/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Self-experimentation with the anti-aging drug rapamycin continues to be strongly discouraged.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn Alzheimer’s brains on autopsy, markers of mTOR activation have been found to be as much as 100 times higher than age-matched brains of those dying from other causes. That makes sense, since nerve cells rarely divide once they reach maturity, which would otherwise dilute damaged cell debris. Autophagy is particularly important in the brain. Given the “striking” improvement in cognitive function in old mice from the mTOR blocker rapamycin, and studies showing the prevention (and possible restoration in some cases) of memory defects in transgenic mouse models of Alzheimer’s disease, there have been calls for clinical trials of rapamycin for Alzheimer’s patients.\nAfter all, mTOR regulates Alzheimer’s biggest risk factor––aging itself. The risk of developing this dementia approximately doubles every five years over the age of 65, with the risk of death from Alzheimer’s skyrocketing approximately 700-fold from age 55 to 85. Unfortunately, no such clinical trial has been attempted. It doesn’t even look like the dementia rates of organ transplant patients given rapamycin have ever been tracked. When kidney transplant patients are initially switched to mTOR inhibitors, they do seem to experience a significant improvement in executive function, memory, and mood, but that may in part be because they were switching from drugs like cyclosporine that can, on their own, cause adverse neuropsychiatric effects.\nRapamycin has been off-patent for more than a decade, so drug companies can no longer charge whatever they want. Without such price protection, there isn’t a strong profit motive to study the drug. So, we shouldn’t expect any large clinical trials any time soon. Another reason for clinical trial hesitancy may be the frequent, and sometimes life-threatening, side effects––like immunosuppression. In one cancer trial of an mTOR inhibitor, for example, two of the eighteen patients developed life-threatening infections, and one of them died. To fight cancer or organ rejection, we may be willing to put up with significant risk. But there’s a much lower risk tolerance for anti-aging drugs meant to be used en masse for healthy humans.\nThe mouse longevity trials are impressive, but they’re typically performed in a strictly controlled pathogen-free environment that may not translate out into real world conditions. The immunosuppressive effects alone are considered sufficient to caution against self-experimentation. Nevertheless, there is a clinic devoted to patients who self-medicate with rapamycin in an attempt to slow aging. Rapamycin advocates point out that the doses required for anti-aging are much lower than used in cancer therapy or organ transplantation, and, if anything, might rejuvenate immunity. Is it possible that transient and/or intermittent dosing could also help reap the benefits without as many risks? You don’t know, until you put it to the test.\nTwo small pilot studies of low-dose rapamycin for a few months in the elderly didn’t cause any major side effects (though did cause diarrhea in up to 62 percent), but also failed to find any immediate benefits to cognitive function or physical performance. In 2018, however, hundreds of individuals age 65 and older were randomized to mTOR inhibition about 100-fold lower than what’s used in oncology or transplant patients. And, instead of immune suppression, they did appear to get immune rejuvenation. Not only did they experience an improvement in their response to flu vaccination, but they experienced significantly lower infections in the subsequent year compared to placebo, and they only got the drugs for six weeks. This suggests a persistent improvement in immune function months after discontinuing the drug. Still, self-experimentation continues to be strongly discouraged until we have a better idea of the risks. Thankfully, there are ways to suppress mTOR without taking drugs.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Arriola Apelo SI, Neuman JC, Baar EL, et al. Alternative rapamycin treatment regimens mitigate the impact of rapamycin on glucose homeostasis and the immune system. Aging Cell. 2016;15(1):28-38.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26463117/"
+    },
+    {
+      "Title": "Blagosklonny MV. Rapamycin for longevity: opinion article. Aging (Albany NY). 2019;11(19):8048-8067.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31586989/"
+    },
+    {
+      "Title": "Johnson SC, Rabinovitch PS, Kaeberlein M. mTOR is a key modulator of ageing and age-related disease. Nature. 2013;493(7432):338-345.",
+      "Url": "https://www.nature.com/articles/nature11861"
+    },
+    {
+      "Title": "Kaeberlein M, Galvan V. Rapamycin and Alzheimer’s disease: Time for a clinical trial? Sci Transl Med. 2019;11(476):eaar4289.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30674654/"
+    },
+    {
+      "Title": "Kaeberlein M, Kennedy BK. Ageing: a midlife longevity drug? Nature. 2009;460(7253):331-332.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19606132/"
+    },
+    {
+      "Title": "Kraig E, Linehan LA, Liang H, et al. A randomized control trial to establish the feasibility and safety of rapamycin treatment in an older human cohort: Immunological, physical performance, and cognitive effects. Exp Gerontol. 2018;105:53-69.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29408453/"
+    },
+    {
+      "Title": "Lang UE, Heger J, Willbring M, Domula M, Matschke K, Tugtekin SM. Immunosuppression using the mammalian target of rapamycin (mTOR) inhibitor everolimus: pilot study shows significant cognitive and affective improvement. Transplant Proc. 2009;41(10):4285-4288.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20005385/"
+    },
+    {
+      "Title": "Liu GY, Sabatini DM. mTOR at the nexus of nutrition, growth, ageing and disease. Nat Rev Mol Cell Biol. 2020;21(4):183-203.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31937935/"
+    },
+    {
+      "Title": "Mannick JB, Morris M, Hockey HUP, et al. TORC1 inhibition enhances immune function and reduces infections in the elderly. Sci Transl Med. 2018;10(449):eaaq1564.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29997249/"
+    },
+    {
+      "Title": "Oddo S. The role of mTOR signaling in Alzheimer disease. Front Biosci (Schol Ed). 2012;4(3):941-952.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22202101/"
+    },
+    {
+      "Title": "Pallet N, Legendre C. Adverse events associated with mTOR inhibitors. Expert Opin Drug Saf. 2013;12(2):177-186.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23252795/"
+    },
+    {
+      "Title": "RAPAMUNE (sirolimus) Label. US FDA. 2017.",
+      "Url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021083s059,021110s076lbl.pdf"
+    },
+    {
+      "Title": "Richardson A, Galvan V, Lin AL, Oddo S. How longevity research can lead to therapies for Alzheimer’s disease: The rapamycin story. Exp Gerontol. 2015;68:51-58.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25481271/"
+    },
+    {
+      "Title": "Sierra F. Rapamycin joins the aging fray: maybe Ponce de Leon visited Rapa Nui, not Florida. J Gerontol A Biol Sci Med Sci. 2010;65(6):577-579.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20410142/"
+    },
+    {
+      "Title": "Singh M, Jensen MD, Lerman A, et al. Effect of low-dose rapamycin on senescence markers and physical functioning in older adults with coronary artery disease: results of a pilot study. J Frailty Aging. 2016;5(4):204-207.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27883166/"
+    },
+    {
+      "Title": "Trelinska J, Dachowska I, Kotulska K, Fendler W, Jozwiak S, Mlynarski W. Complications of mammalian target of rapamycin inhibitor anticancer treatment among patients with tuberous sclerosis complex are common and occasionally life-threatening. Anticancer Drugs. 2015;26(4):437-442.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25719621/"
+    },
+    {
+      "Title": "Yoo YJ, Kim H, Park SR, Yoon YJ. An overview of rapamycin: from discovery to future perspectives. J Ind Microbiol Biotechnol. 2017;44(4-5):537-553.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27613310/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the third and final video in this series. If you missed the previous ones, check out </span><a href=\"https://nutritionfacts.org/video/the-enzyme-mtor-as-an-engine-of-aging/\"><span style=\"font-weight: 400\">The Enzyme mTOR as an Engine of Aging</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/inhibiting-mtor-with-rapamycin-for-extending-lifespan-and-healthspan/\"><span style=\"font-weight: 400\">Inhibiting mTOR with Rapamycin for Extending Lifespan and Healthspan</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">So, how do you suppress mTOR without taking drugs? I have a whole chapter on it in </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">. (All proceeds I receive from the book are donated directly to charity.) For a teaser, check out these past videos that touch on it: </span><a href=\"https://nutritionfacts.org/video/prevent-cancer-from-going-on-tor/\"><span style=\"font-weight: 400\">Prevent Cancer from Going on TOR</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/caloric-restriction-vs-animal-protein-restriction/\"><span style=\"font-weight: 400\">Caloric Restriction vs. Animal-Protein Restriction</span></a><span style=\"font-weight: 400\">.</span></p>\n<p data-pm-slice=\"1 3 []\">For more on anti-aging, check out my NAD+ series:</p>\n<ul>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/do-nad-levels-decline-with-age/\">Do NAD+ Levels Decline with Age?</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/can-nad-boosters-increase-lifespan-and-healthspan/\">Can NAD+ Boosters Increase Lifespan and Healthspan?</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinic-acid-na-a-nad-booster/\">Risks and Benefits of Nicotinic Acid (NA), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-nam-a-nad-booster/\">Risks and Benefits of Nicotinamide (NAM), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-riboside-nr-a-nad-booster/\">Risks and Benefits of Nicotinamide Riboside (NR), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-mononucleotide-nmn-a-nad-booster/\">Risks and Benefits of Nicotinamide Mononucleotide (NMN), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/lesser-known-nad-boosting-supplements-tryptophan-nadh-nmnh-and-nrh/\">Lesser-Known NAD+ Boosting Supplements—Tryptophan, NADH, NMNH, and NRH</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-of-nad-boosting-supplements/\">Risks of NAD+ Boosting Supplements</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/which-nad-booster-is-best/\">Which NAD+ Booster Is Best?</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/the-third-way-to-boost-nad/\">The Third Way to Boost NAD+</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

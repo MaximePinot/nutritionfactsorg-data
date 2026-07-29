@@ -1,0 +1,95 @@
+{
+  "Title": "Meat May Exceed Daily Allowance of Irony",
+  "Url": "https://nutritionfacts.org/video/meat-may-exceed-daily-allowance-of-irony/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/SS5S4XUWD8s"
+  },
+  "UpdatedAt": "2012-12-18T12:32:29+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The foreign meat molecule Neu5Gc may not only contribute to the progression of cancer and heart disease by supplying inflammation, but may also set children up for life-threatening reactions to E. coli toxins originating in the same animal products.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nBeyond the putative role of nonhuman NeuGC as a potential molecular link between diet, autoreactive antibodies, and the progression of human cancer, let me offer one final tidbit on the evolving NeuGc story: the potentially deadly toxin produced by E. coli O157:H7—that causes the hemolytic uremic syndrome that can shut down the kidneys of children—actually attaches to NeuGc.\nWhen we eat animal products, the “assimilation of dietary Neu5Gc creates high-affinity receptors on [the] human gut [lining] and kidney [blood vessels]…” conferring susceptibility to the gastrointestinal and systemic toxicities” of the E. coli toxin.\n“Ironically, the [same] foods rich in NeuGC are the most common source of…contamination [with these toxin-producing E. coli].” So, meat provides us with the receptors to the very toxins the meat may contain. It’s like a gunman handing us our own bullseye.\nSo, there are both long- and short-term consequences. “Taken together, these findings suggest a ‘two-hit’ process in the pathogenesis of human [E. coli]-induced disease. First, humans eat Neu5Gc-rich food, leading to incorporation of Neu5Gc on the surfaces of…[their] cells. Second, when exposed to a [toxin]-producing strain, the toxin produced would be able to bind to the intestinal epithelial cells, perhaps causing acute gastrointestinal symptoms, and eventually damaging endothelial cells in other organs like the kidney, thereby causing HUS.”\n“Neu5Gc-rich foods not only sensitizes human tissues to [the toxin], but also simultaneously increases the likelihood of infection with [toxin producing E. coli]. These pathogens are usually found in the intestines of livestock…” and, as such, “most commonly enter the human food chain by fecal contamination… Thus, those who consume large amounts of these types of foods may be unwittingly preparing their bodies for damage by a [toxin]-producing organism that contaminates their next meal of the very same food types.”\nThe researchers ask: is this “Poetic justice for…meat eaters?” Not when it’s “a major cause of acute [life-threatening kidney] failure in children.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Byres E, Paton AW, Paton JC, Löfling JC, Smith DF, Wilce MC, Talbot UM, Chong DC, Yu H, Huang S, Chen X, Varki NM, Varki A, Rossjohn J, Beddoe T. Incorporation of a non-human glycan mediates human susceptibility to a bacterial toxin. Nature. 2008 Dec 4;456(7222):648-52.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2723748/pdf/nihms89189.pdf"
+    },
+    {
+      "Title": "Chang HG, Tserenpuntsag B, Kacica M, Smith PF, Morse DL. Hemolytic uremic syndrome incidence in New York. Emerg Infect Dis. 2004 May;10(5):928-31.",
+      "Url": "https://wwwnc.cdc.gov/eid/article/10/5/pdfs/03-0456.pdf"
+    },
+    {
+      "Title": "Hedlund M, Padler-Karavani V, Varki NM, Varki A. Evidence for a human-specific mechanism for diet and antibody-mediated inflammation in carcinoma progression. Proc Natl Acad Sci U S A. 2008 Dec 2;105(48):18936-41.",
+      "Url": "http://www.pnas.org/content/105/48/18936.full.pdf+html"
+    },
+    {
+      "Title": "Löfling JC, Paton AW, Varki NM, Paton JC, Varki A. A dietary non-human sialic acid may facilitate hemolytic-uremic syndrome. Kidney Int. 2009 Jul;76(2):140-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752721/pdf/nihms-141001.pdf"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Tebu.an via Wikimedia, and Rusty Clark via flickr",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "E. coli",
+      "Url": "https://nutritionfacts.org/topics/e-coli/"
+    },
+    {
+      "Title": "fecal bacteria",
+      "Url": "https://nutritionfacts.org/topics/fecal-bacteria/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "kidney failure",
+      "Url": "https://nutritionfacts.org/topics/kidney-failure/"
+    },
+    {
+      "Title": "kidney function",
+      "Url": "https://nutritionfacts.org/topics/kidney-function/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "Neu5Gc",
+      "Url": "https://nutritionfacts.org/topics/neu5gc/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the final installment of my video series that began with <a href=\"https://nutritionfacts.org/video/cancer-as-an-autoimmune-disease/\">Cancer as an Autoimmune Disease</a>, the mystery for which may have been solved with <a href=\"https://nutritionfacts.org/video/how-tumors-use-meat-to-grow-xeno-autoantibodies/\">How Tumors Use Meat to Grow: Xeno-Autoantibodies</a>. Neu5Gc may also play a role in heart disease (see <a href=\"https://nutritionfacts.org/video/nonhuman-molecules-lining-our-arteries/\">Nonhuman Molecules Lining Our Arteries</a>) and inflammatory arthritis (see <a href=\"https://nutritionfacts.org/video/the-inflammatory-meat-molecule-neu5gc/\">The Inflammatory Meat Molecule Neu5Gc</a>). However, this understanding requires some background on how our immune systems work, which is explained in <a href=\"https://nutritionfacts.org/video/clonal-selection-theory-of-immunity/\">Clonal Selection Theory of Immunity</a> and <a href=\"https://nutritionfacts.org/video/clonal-deletion-theory-of-immunity/\">Clonal Deletion Theory of Immunity</a>. For more on E. coli, see <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=863\">Fecal Bacteria Survey</a>.</p>\n<p>For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2013/05/16/plant-based-diets-for-rheumatoid-arthritis/\">Plant-Based Diets for Rheumatoid Arthritis</a> and <a href=\"https://nutritionfacts.org/2013/12/26/probiotics-and-diarrhea/\">Probiotics and Diarrhea</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

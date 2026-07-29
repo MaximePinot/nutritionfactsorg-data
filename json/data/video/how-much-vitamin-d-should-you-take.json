@@ -1,0 +1,131 @@
+{
+  "Title": "How Much Vitamin D Should You Take?",
+  "Url": "https://nutritionfacts.org/video/how-much-vitamin-d-should-you-take/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/I1uoc8ZN0m4"
+  },
+  "UpdatedAt": "2016-07-04T11:56:29+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 31",
+    "Url": "https://nutritionfacts.org/volumes/volume-31/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The safe dose of vitamin D supplementation to get most of the population to the optimal level is 2,000 IU a day, but the elderly and overweight may need more.",
+  "Transcript": "Randomized, controlled clinical trials have found that vitamin D supplements extend one’s lifespan. What is the optimal dose? What blood level is associated with living longest? In my nine-part video series on vitamin D back in 2011, I noted that the relationship between vitamin D levels and mortality appeared to be a U-shaped curve—meaning low vitamin D levels were associated with increased mortality. But so were levels that were too high, with the apparent sweet spot around 75 or 80 nanomoles per liter [nmol/L], based on individual studies like this one.\nWhy might higher D levels be associated with higher risk? Well, this was a population study; so, you can’t be sure which came first. Maybe the vitamin D led to higher risk. Or maybe higher risk led to the vitamin D, meaning maybe those who weren’t doing as well were prescribed vitamin D. Maybe it’s because these were Scandinavian studies, where they tend to take a lot of cod liver oil as the vitamin D supplement, one spoonful of which could exceed the tolerable upper daily limit of intake for vitamin A—which could have negative consequences, even if you don’t inject it into your penis.\nI was surprised to see cod liver oil listed among the long list of things men have tried to inject into themselves because they felt they were coming up short, though may have ended up shorter after all the reconstructive surgery.\nAnyways, the U-shaped curve is old data. An updated meta-analysis has shown that as population vitamin D levels go up, mortality appears to go down, and stay down—which is good, because then we don’t have to test to see if we’re hitting just the right level.\nRoutine testing of vitamin D levels is not recommended. Why? Well, it costs money, and in most people, levels come right up to where you want them with sufficient sun, or supplementation. So, they figure what’s the point?\nBut also because the test is not very good—results can be all over the place. What happens when you send a single sample to a thousand different labs around the world? You maybe expect a little variation, but not this. Results from the same sample ranged anywhere from less than 20 to over 100. So, depending on what lab your doctor sent your blood sample to, the results could have placed you here, or here; so, not necessarily very helpful.\nSo, what’s a safe dose that will likely get us to the purported optimal level? 1,000 units a day should get most people up to the target 75 nmol/L (which is 30 ng/mL). But by most people, they mean 50%. To get around 85% of the population up to 75 would require 2,000 a day. 2,000 international units a day would shift the curve from here to here. That way, we can take the average person into the desired range without fear of toxicity. You can take too much vitamin D, but you don’t tend to see problems until blood levels get up around 250, which would take consistent daily doses in excess of 10,000.\nNote that if you’re overweight, you may want to take 3,000, or if obese, even more than that. If you’re over age 70, and not getting enough sun, it may take 3,500 units to get that same 85% chance of bumping your levels past the target. Again, no need for the average person to test and retest, since a few thousand a day should bring almost everyone up without risking toxicity.\nOkay, but then why did the Institute of Medicine set the Recommended Daily Allowance at 600 to 800 units? In fact, official recommendations are all over the map—ranging from just 200 a day, all the way up to 10,000 a day. I’ll try to cut through the confusion, next.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A B Chausmer. Screening for vitamin D deficiency: is the goal disease prevention or full nutrient repletion? Ann Intern Med. 2015 May 19;162(10):738-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25984862"
+    },
+    {
+      "Title": "A C Ross, C L Taylor, A L Yaktine, H B Del Valle, Dietary Reference Intakes for Calcium and Vitamin D. Washington (DC): National Academies Press (US); 2011.  The National Academies Collection: Reports funded by National Institutes of Health.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21796828"
+    },
+    {
+      "Title": "Al-Ansari AA1, Shamsodini A, Talib RA, Gul T, Shokeir AA. Subcutaneous cod liver oil injection for penile augmentation: review of literature and report of eight cases.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20138344"
+    },
+    {
+      "Title": "American Geriatrics Society Workgroup on Vitamin D Supplementation for Older Adults. Recommendations abstracted from the American Geriatrics Society Consensus Statement on vitamin D for Prevention of Falls and Their Consequences. J Am Geriatr Soc. 2014 Jan;62(1):147-52.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24350602"
+    },
+    {
+      "Title": "C F Garland, J J Kim, S B Mohr, E D Gorham, W B Grant, E L Giovannucci, L Baggerly, H Hofflich, J W Ramsdell, K Zeng, R P Heaney. Meta-analysis of all-cause mortality according to serum 25-hydroxyvitamin D.  Am J Public Health. 2014 Aug;104(8):e43-50.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24922127"
+    },
+    {
+      "Title": "D Durup, H L Jørgensen, J Christensen, A Tjønneland, A Olsen, J Halkjær, B Lind, A M Heegaard, P Schwarz. A Reverse J-Shaped Association Between Serum 25-Hydroxyvitamin D and Cardiovascular Disease Mortality: The CopD Study. J Clin Endocrinol Metab. 2015 Jun;100(6):2339-46.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25710567"
+    },
+    {
+      "Title": "Ekwaru JP1, Zwicker JD2, Holick MF3, Giovannucci E4, Veugelers PJ1. The importance of body weight for the dose response relationship of oral vitamin D supplementation and serum 25-hydroxyvitamin D in healthy volunteers.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25372709"
+    },
+    {
+      "Title": "G Bjelakovic, L L Gluud, D Nikolova, K Whitfield, J Wetterslev, R G Simonetti, M Bjelakovic, C Gluud. Vitamin D supplementation for prevention of mortality in adults. Cochrane Database Syst Rev. 2014 Jan 10;1:CD007470.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24414552"
+    },
+    {
+      "Title": "H A Bischoff-Ferrari. Optimal serum 25-hydroxyvitamin D levels for multiple health outcomes. Adv Exp Med Biol. 2008;624:55-71.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18348447"
+    },
+    {
+      "Title": "H Fuleihan Gel, R Bouillon, B Clarke, M Chakhtoura, C Cooper, M McClung, R J Singh. Serum 25-Hydroxyvitamin D Levels: Variability, Knowledge Gaps, and the Concept of a Desirable Range. J Bone Miner Res. 2015 Jul;30(7):1119-33.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25952470"
+    },
+    {
+      "Title": "K Michaëlsson, J A Baron, G Snellman, R Gedeborg, L Byberg, J Sundström, L Berglund, J Arnlöv, P Hellman, R Blomhoff, A Wolk, H Garmo, L Holmberg, H Melhus. Plasma vitamin D and mortality in older men: a community-based prospective cohort study. Am J Clin Nutr. 2010 Oct;92(4):841-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20720256"
+    },
+    {
+      "Title": "M Brustad, T Braaten, E Lund. Predictors for cod-liver oil supplement use--the Norwegian Women and Cancer Study. Eur J Clin Nutr. 2004 Jan;58(1):128-36.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14679378"
+    },
+    {
+      "Title": "M R de Oliveira. Vitamin A and Retinoids as Mitochondrial Toxicants. Oxid Med Cell Longev. 2015;2015:140267.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/26078802"
+    },
+    {
+      "Title": "R Lucas, R Neale. What is the optimal level of vitamin D? - separating the evidence from the rhetoric. Aust Fam Physician. 2014 Mar;43(3):119-22.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24600673"
+    },
+    {
+      "Title": "R P Heaney. The Vitamin D requirement in health and disease. J Steroid Biochem Mol Biol. 2005 Oct;97(1-2):13-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16026981"
+    },
+    {
+      "Title": "R Vieth. Why the minimum desirable serum 25-hydroxyvitamin D level should be 75 nmol/L (30 ng/ml). Best Pract Res Clin Endocrinol Metab. 2011 Aug;25(4):681-91.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21872808"
+    },
+    {
+      "Title": "W Grant. What is the optimal level of vitamin D? Aust Fam Physician. 2014 Oct;43(10):668, 670.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25506983"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Peter Rosbjerg via flickr.",
+  "Topics": [
+    {
+      "Title": "cod liver oil",
+      "Url": "https://nutritionfacts.org/topics/cod-liver-oil/"
+    },
+    {
+      "Title": "cost savings",
+      "Url": "https://nutritionfacts.org/topics/cost-savings/"
+    },
+    {
+      "Title": "fish oil",
+      "Url": "https://nutritionfacts.org/topics/fish-oil/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "sunlight",
+      "Url": "https://nutritionfacts.org/topics/sunlight/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin A",
+      "Url": "https://nutritionfacts.org/topics/vitamin-a/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>After all that work plowing through the new science, the same 2,000 IU per day recommendation I made in 2011 remains: <a href=\"https://nutritionfacts.org/optimum-nutrient-recommendations/\">https://nutritionfacts.org/optimum-nutrient-recommendations/</a></p>\n<p>If you missed the first two videos in this series, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/do-vit-d-supplements-help-diabetes-weight-loss-blood-pressure/\">Do Vitamin D Supplements Help with Diabetes, Weight Loss, and Blood Pressure? </a></li>\n<li><a href=\"https://nutritionfacts.org/video/will-you-live-longer-if-you-take-vitamin-d-supplements/\">Will You Live Longer If You Take Vitamin D Supplements?</a></li>\n</ul>\n<p>And be sure to check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-optimal-dose-of-vitamin-d-based-on-natural-levels/\">The Optimal Dose of Vitamin D Based on Natural Levels</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-way-to-get-vitamin-d-sun-supplements-or-salons/\">The Best Way to Get Vitamin D: Sun, Supplements, or Salons?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-risks-and-benefits-of-sensible-sun-exposure/\">The Risks and Benefits of Sensible Sun Exposure</a></li>\n</ul>\n<p>I also explore vitamin D as it relates to specific diseases:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/do-vitamin-d-supplements-reduce-the-risk-of-dying-from-cancer/\">Do Vitamin D Supplements Reduce the Risk of Dying from Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vitamin-d-for-asthma/\">Vitamin D for Asthma</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vitamin-d-for-inflammatory-bowel-disease/\">Vitamin D for Inflammatory Bowel Disease</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-vitamin-d-supplements-be-taken-to-prevent-falls/\">Should Vitamin D Supplements Be Taken to Prevent Falls in the Elderly?</a></li>\n<li>\n<p class=\"entry-title\"><a href=\"https://nutritionfacts.org/video/vitamin-d-supplements-tested-for-copd-heart-disease-depression-obesity-and-cancer-survival/\">Vitamin D Supplements Tested for COPD, Heart Disease, Depression, Obesity, and Cancer Survival</a></p>\n</li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

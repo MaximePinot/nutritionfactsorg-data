@@ -1,0 +1,107 @@
+{
+  "Title": "Carcinogen-Blocking Effects of Turmeric",
+  "Url": "https://nutritionfacts.org/video/carcinogen-blocking-effects-of-turmeric/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/nE7T5FZUgu4"
+  },
+  "UpdatedAt": "2014-03-14T11:20:58+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 17",
+    "Url": "https://nutritionfacts.org/volumes/volume-17/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Less than a teaspoon a day of turmeric appears to significantly lower the DNA-mutating ability of cancer-causing substances.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“We are increasingly aware [of] plant-derived substances [that act] as chemopreventive agents”—substances that help prevent cancer, as opposed to chemotherapy, substances aimed at treating cancer). “These substances are not only inexpensive, they are also [easily] available, and have no or limited toxicity.”\n“Since 1987, the National Cancer Institute…has tested more than 1,000 different potential agents for chemopreventive activity, of which only [a few dozen] were moved to clinical trials. Curcumin, present in the Indian spice [turmeric, which is used in curry powder], is 1 such agent that is currently under clinical investigation for cancer chemoprevention.”\n“According to their mode of action, chemopreventive agents are classified into different subgroups: [there’s the] antiproliferatives, antioxidants, or carcinogen-[blockers]. Curcumin belongs to all 3…, given its multiple mechanisms of action.”\nCurcumin appears to play a role helping to block every stage of cancer transformation, proliferation, and invasion. It may even help before carcinogens even get to our cells. A study back in ’87 investigated the effects of curcumin on the mutagenicity—the DNA-mutating ability— of several toxins. And, they found that curcumin was “an effective antimutagen against several environmental and standard [mutagenic and cancer-causing substances].”\nBut, this was in vitro, from the Latin meaning “in glass,” meaning in a test tube or petri dish. What about in people? Well, it’s not like you can take a group of people, and expose them to some nasty carcinogen just so you can give half of them turmeric, and see what happens. Well, you could wait until some toxic waste spill happens, or a nuclear accident. But, otherwise, you’re not going to find people who would voluntarily expose themselves to carcinogens, unless—smokers! We can just test it on smokers. They’ve got carcinogens coursing through their veins every day.\nIf you take some smokers, and have them pee on some bacteria, this is the number of DNA mutations that arise. Remember, all life is encoded by DNA—whether bacteria, banana, or bunny rabbit. It’s easier though, when measuring urinary mutagens, to just pee on some bacteria.\nThe urine of nonsmokers caused far fewer DNA mutations. That makes sense; they have fewer chemicals running through their system. And if you have the nonsmokers eat turmeric for a month, nothing really happens. What if you do the same for smokers, though? Fifteen days later, they’re down to here, and 30 days, they’re down to here.\nAnd, this is not some concentrated curcumin supplement. It was just plain turmeric, like you’d buy at the store. And, less than a teaspoon a day—indicating that dietary turmeric is an effective antimutagen. You’ll note though, on this graph, there’s an even more effective antimutagen—not smoking. Even eating turmeric for a month, the DNA-damaging power of smoker pee exceeded that of nonsmokers.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "K. Polasa, T. C. Raghuram, T. P. Krishna, K. Krishnaswamy. Effect of turmeric on urinary mutagens in smokers. Mutagenesis 1992 7(2):107 - 109.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/1579064"
+    },
+    {
+      "Title": "M. Nagabhushan, A. J. Amonkar, S. V. Bhide. In vitro antimutagenicity of curcumin against environmental mutagens. Food Chem. Toxicol. 1987 25(7):545 - 547.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/3623345"
+    },
+    {
+      "Title": "S. Bengmark, M.D. Mesa, A. Gill. Plant-derived health-the effects of turmeric and curcuminoids. Nutr. Hosp. 2009 24(3):273 - 281.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19721899"
+    },
+    {
+      "Title": "S. Shishodia. Molecular mechanisms of curcumin action: Gene expression. Biofactors 2013 39(1):37 - 55.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22996381"
+    },
+    {
+      "Title": "W. Park, A. R. M. R. Amin, Z. G. Chen, D. M. Shin. New perspectives of curcumin in cancer prevention. Cancer Prev Res (Phila) 2013 6(5):387 - 400.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23466484"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Barnes24 via Wikimedia Commons; and Saxluvr via clker.com.",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "curcumin",
+      "Url": "https://nutritionfacts.org/topics/curcumin/"
+    },
+    {
+      "Title": "curry powder",
+      "Url": "https://nutritionfacts.org/topics/curry-powder/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "India",
+      "Url": "https://nutritionfacts.org/topics/india/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "National Cancer Institute",
+      "Url": "https://nutritionfacts.org/topics/national-cancer-institute/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "spices",
+      "Url": "https://nutritionfacts.org/topics/spices/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "turmeric",
+      "Url": "https://nutritionfacts.org/topics/turmeric/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is second of a three-part video series on turmeric curcumin and its relationship to cancer. To find out more, check out the prequel, <a href=\"https://nutritionfacts.org/video/back-to-our-roots-curry-and-cancer/\" target=\"_blank\" rel=\"noopener\">Back to Our Roots: Curry &amp; Cancer</a>, and the last video in the series, <a href=\"https://nutritionfacts.org/video/turmeric-curcumin-reprogramming-cancer-cell-death/\" target=\"_blank\" rel=\"noopener\">Turmeric Curcumin Reprogramming Cancer Cell Death</a>.</p>\n<p>Smokers are common research subjects for carcinogen studies. For example, see what happens to carcinogen levels when those eating processed meat start eating vegetarian in <a href=\"https://nutritionfacts.org/video/heterocyclic-amines-in-eggs-cheese-and-creatine/\" target=\"_blank\" rel=\"noopener\">Heterocyclic Amines in Eggs, Cheese, &amp; Creatine?</a></p>\n<p>Other foods that may protect DNA include kiwifruit (see <a href=\"https://nutritionfacts.org/video/kiwifruit-and-dna-repair/\" target=\"_blank\" rel=\"noopener\">Kiwifruit &amp; DNA Repair</a>), cruciferous vegetables (see <a href=\"https://nutritionfacts.org/video/dna-protection-from-broccoli/\" target=\"_blank\" rel=\"noopener\">DNA Protection from Broccoli</a>), leafy vegetables (see <a href=\"https://nutritionfacts.org/video/eating-green-to-prevent-cancer/\" target=\"_blank\" rel=\"noopener\">Eating Green to Prevent Cancer</a>), garlic (see <a href=\"https://nutritionfacts.org/video/cancer-interrupted-garlic-flavonoids/\" target=\"_blank\" rel=\"noopener\">Cancer, Interrupted: Garlic &amp; Flavonoids</a>), and green tea (see <a href=\"https://nutritionfacts.org/video/cancer-interrupted-green-tea/\">Cancer, Interrupted: Green Tea</a>. But, which is better? See <a href=\"https://nutritionfacts.org/video/antimutagenic-activity-of-green-versus-white-tea/\" target=\"_blank\" rel=\"noopener\">Antimutagenic Activity of Green vs. White Tea</a>). </p>\n<p>More information on cancer prevention, treatment, and reversal can be found in my annual presentations <a href=\"https://nutritionfacts.org/video/uprooting-the-leading-causes-of-death/\" target=\"_blank\" rel=\"noopener\">Uprooting the Leading Causes of Death</a> and <a href=\"https://nutritionfacts.org/video/more-than-an-apple-a-day-preventing-our-most-common-diseases/\" target=\"_blank\" rel=\"noopener\">More Than an Apple a Day: Combating Common Diseases</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

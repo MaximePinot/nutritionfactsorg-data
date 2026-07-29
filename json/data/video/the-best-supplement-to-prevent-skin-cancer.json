@@ -1,0 +1,107 @@
+{
+  "Title": "The Best Supplement to Prevent Skin Cancer",
+  "Url": "https://nutritionfacts.org/video/the-best-supplement-to-prevent-skin-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Hv2OHfRtHC8"
+  },
+  "UpdatedAt": "2024-08-21T11:50:46+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 66",
+    "Url": "https://nutritionfacts.org/volumes/volume-66/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Oral nicotinamide has been shown to prevent skin cancers in high-risk patients and cause precancerous lesions to disappear.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nNicotinamide, also known as niacinamide, is a form of vitamin B3 that has been used topically for decades in the cosmetic field to prevent skin aging, as I’ve already covered. So, researchers decided to put it to the test orally for skin cancer prevention. In a petri dish, skin samples taken from breast reduction and tummy tuck surgeries exposed to UV with or without niacinamide found that it enhanced DNA repair. Would this translate out into less cancer?\nIn a Phase II trial, dozens of individuals with four or more precancerous actinic keratoses each were randomized to take a placebo or 500mg of niacinamide once or twice a day. Within two months, there was a 35 percent reduction in actinic keratoses in the twice-a-day group and a 15 percent reduction in the once-a-day group compared to placebo. It’s not that they developed fewer in those months, but more spontaneously disappeared in the niacinamide groups. What about actual cancers? By month four, there were five times fewer cancers (11 placebo participants developed 20 new skin cancers, versus only two niacinamide participants developing a total of four new cancers).\nNormally, it would be difficult to fund studies on nonpatentable products that only cost a few cents a day, but the results of this and a similar study on organ transplant patients were so extraordinary ONTRAC was born. Oral Nicotinamide to Reduce Actinic Cancer was a publicly-funded phase III trial randomizing hundreds of people with personal history of skin cancers (actinic means UV-induced) to 500mg of nicotinamide twice daily, or placebo for a full year. By the end, there were 25 percent fewer cancers, with no significant side effects, for just pennies a day. You have to keep it up, though. At a six-month follow-up after the study was over, the cancer rates equalized back to baseline rates.\nWhat are the downsides? A study of 500 people put on up to three grams of niacinamide a day for five years (to try to prevent type 1 diabetes) unearthed no adverse effects over placebo (though it failed to prevent type 1 diabetes).\nThe high tolerance of niacinamide is partly due to its water-soluble nature, such that you just pee out any excess. But those with end-stage kidney failure on dialysis don’t have functioning kidneys, and so, blood levels should be monitored, as, in that context, niacinamide can cause a serious, though reversible, drop in platelets, which are important for blood clotting. High enough doses may become toxic to the liver, though, even with normal kidneys. Vasodilatory side effects like facial flushing, attributed to niacinamide in some older studies, were likely due to a less purified form contaminated with residual niacin. (I know it’s confusing! Niacin, also known as nicotinic acid, is the precursor of, but very different from, niacinamide, which is synonymous with nicotinamide.)\nOne concern regarding any treatment for a largely lifestyle disease is that individuals may neglect other defensive measures, overconfident in the supplement’s protection. Regarding drug interactions, a concern has been raised about taking niacinamide together with carbamazepine, a popular anti-seizure drug (sold as Tegretol). But, in general, as the ONTRAC researchers concluded, “Oral nicotinamide is a safe and effective in reducing the rates of new nonmelanoma skin cancers and precancerous growths in high-risk patients.” To their credit, a 2021 survey of skin cancer surgeons found that three-quarters recommended its use.\nOther than nicotinamide, how else might we protect against skin cancer from the inside out? That’s what I’ll cover next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Ballotti R, Healy E, Bertolotto C. Nicotinamide as a chemopreventive therapy of skin cancers. Too much of good thing? Pigment Cell Melanoma Res. 2019;32(4):601-602.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30742742/"
+    },
+    {
+      "Title": "Boo YC. Mechanistic basis and clinical evidence for the applications of nicotinamide (Niacinamide) to control skin aging and pigmentation. Antioxidants (Basel). 2021;10(8):1315.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34439563/"
+    },
+    {
+      "Title": "Bourgeois BF, Dodson WE, Ferrendelli JA. Interactions between primidone, carbamazepine, and nicotinamide. Neurology. 1982;32(10):1122-1126.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/6214728/"
+    },
+    {
+      "Title": "Chen AC, Martin AJ, Choy B, et al. A phase 3 randomized trial of nicotinamide for skin-cancer chemoprevention. N Engl J Med. 2015;373(17):1618-1626.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26488693/"
+    },
+    {
+      "Title": "Desai S, Olbricht S, Ruiz ES, Hartman RI. Nicotinamide for keratinocyte carcinoma chemoprevention: a nationwide survey of MOHS surgeons. Dermatol Surg. 2021;47(4):452-453.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33625146/"
+    },
+    {
+      "Title": "Drago F, Ciccarese G, Cogorno L, Calvi C, Marsano LA, Parodi A. Prevention of non-melanoma skin cancers with nicotinamide in transplant recipients: a case-control study. Eur J Dermatol. 2017;27(4):382-385.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28468736/"
+    },
+    {
+      "Title": "Gale E a. M, Bingley PJ, Emmett CL, Collier T, European Nicotinamide Diabetes Intervention Trial (ENDIT) Group. European Nicotinamide Diabetes Intervention Trial (ENDIT): a randomised controlled trial of intervention before the onset of type 1 diabetes. Lancet. 2004;363(9413):925-931.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15043959/"
+    },
+    {
+      "Title": "Giacalone S, Spigariolo CB, Bortoluzzi P, Nazzaro G. Oral nicotinamide: The role in skin cancer chemoprevention. Dermatol Ther. 2021;34(3):e14892.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33595161/"
+    },
+    {
+      "Title": "Huber R, Wong A. Nicotinamide: an update and review of safety & differences from niacin. Skin Therapy Lett. 2020;25(5):7-11.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33196157/"
+    },
+    {
+      "Title": "Knip M, Douek IF, Moore WP, et al. Safety of high-dose nicotinamide: a review. Diabetologia. 2000;43(11):1337-1345.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11126400/"
+    },
+    {
+      "Title": "Snaidr VA, Damian DL, Halliday GM. Nicotinamide for photoprotection and skin cancer chemoprevention: A review of efficacy and safety. Exp Dermatol. 2019;28 Suppl 1:15-22.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30698874/"
+    },
+    {
+      "Title": "Surjana D, Halliday GM, Damian DL. Nicotinamide enhances repair of ultraviolet radiation-induced DNA damage in human keratinocytes and ex vivo skin. Carcinogenesis. 2013;34(5):1144-1149.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23349012/"
+    },
+    {
+      "Title": "Surjana D, Halliday GM, Martin AJ, Moloney FJ, Damian DL. Oral nicotinamide reduces actinic keratoses in phase II double-blinded randomized controlled trials. J Invest Dermatol. 2012;132(5):1497-1500.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22297641/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "skin cancer",
+      "Url": "https://nutritionfacts.org/topics/skin-cancer/"
+    },
+    {
+      "Title": "skin health",
+      "Url": "https://nutritionfacts.org/topics/skin-health/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">The skin aging video I mentioned is </span><a href=\"https://nutritionfacts.org/video/the-benefits-of-topical-niacinamide-for-reversing-skin-aging/\"><span style=\"font-weight: 400\">The Benefits of Topical Niacinamide for Reversing Skin Aging</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">In the next video, I look at </span><a href=\"https://nutritionfacts.org/video/how-to-prevent-skin-cancer-with-diet/\"><span style=\"font-weight: 400\">How to Prevent Skin Cancer with Diet</span></a><span style=\"font-weight: 400\">.</span></p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/do-vitamin-e-supplements-have-benefits-for-cancer-immunity-and-longevity/\">Do Vitamin E Supplements Have Benefits for Cancer, Immunity, and Longevity?</a> Check out the video.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

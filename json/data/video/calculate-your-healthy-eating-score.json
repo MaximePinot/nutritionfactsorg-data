@@ -1,0 +1,183 @@
+{
+  "Title": "Calculate Your Healthy Eating Score",
+  "Url": "https://nutritionfacts.org/video/calculate-your-healthy-eating-score/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/LSFXaCj3hTw"
+  },
+  "UpdatedAt": "2011-08-24T11:00:23+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 5",
+    "Url": "https://nutritionfacts.org/volumes/5/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Rate your diet on a scale of 0 to 100 using the phytochemical index, and compare your score to the Standard American Diet.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nA few years ago, a proposal was published for a healthy eating index, and I thought it might be interesting to look at the latest USDA dietary survey to see how the standard American diet is doing. The index is simple; it’s a score of 0 to 100, which simply represents the percent of dietary calories derived from foods rich in phytochemicals. Phytochemical is just a more technical term for phytonutrient, since nutrient implies essential for life, whereas phytochemicals are merely essential for a long, healthy life.\nSo if 1% of our diet is composed of phytonutrient-rich food, our diet gets a score of 1. If that’s where half of our calories come from, then we score 50. And if that’s all we eat, we can max out at 100; 100%.\nHow are Jane and Joe Sixpack doing? Here is the latest data on the standard American diet: 3% of calories come from beans and nuts; 3% from fruit; 5% is vegetables; 23% from grain; 17% is added sugars, like candy and soda and other junk; 23% comes from added fats—butter, margarine, oil, shortening; and 26% of the American diet is meat, dairy, and eggs.\nFor the healthy eating index, we only get to count phytonutrient-rich foods, since they’re the ones most associated with chronic disease prevention, treatment, and cure. So, first off, the reason they’re called phytonutrients is that, by definition, they are found in plants—derived from the Greek word “phyton,” for plant.\nSo, automatically we start with a score of 74. Neither lard nor candy are phytonutrient-rich either, so taking away the added fats and oils, we’re down to 34. But the grain category is a combination of both whole grains—rich in phytonutrients—and refined grains, which had the phytonutrients largely removed. Only 4% of the American diet is composed of whole grains—like oats, barley, whole wheat, brown rice—and the rest is highly processed garbage, like white flour and cornstarch.\nYikes, down to 15! But it gets worse. 2/3 of our vegetables are white potatoes, half of which are potato chips. The average American eats 23 calories of potato chips every day. But none of the white potato products count, since they contain relatively few phytonutrients.\nSimilarly, a third of our fruit calories are low-phytonutrient juices, and so the typical American diet rates 12, out of 100. So on a scale of like 1 to 10, we get about a 1.\nHow do you score a perfect 10? “Theoretically, a vegan diet that excluded refined grains, potato products, hard liquors, and added sugars and oils could have a [perfect dietary index rating] of 100. Sadly, the [score] of most current American diets would be unlikely to be as high as 20 [yeah we wish it were 20!]—which means that there [is] quite ample room for improvement.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "McCarty MF. Proposal for a dietary \"phytochemical index\". Med Hypotheses. 2004;63(5):813-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed?term=15488652%5Buid%5D"
+    },
+    {
+      "Title": "Sources of Energy among the US Population. Risk Factor Monitoring and Methods Branch Web site. Applied Research Program. National Cancer Institute.",
+      "Url": "http://riskfactor.cancer.gov/diet/foodsources/energy/"
+    }
+  ],
+  "Acknowledgements": "Image thanks to desktopwallpaper.org",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "bananas",
+      "Url": "https://nutritionfacts.org/topics/bananas/"
+    },
+    {
+      "Title": "barley",
+      "Url": "https://nutritionfacts.org/topics/barley/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "butter",
+      "Url": "https://nutritionfacts.org/topics/butter/"
+    },
+    {
+      "Title": "candy",
+      "Url": "https://nutritionfacts.org/topics/candy/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "juice",
+      "Url": "https://nutritionfacts.org/topics/juice/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "lard",
+      "Url": "https://nutritionfacts.org/topics/lard/"
+    },
+    {
+      "Title": "legumes",
+      "Url": "https://nutritionfacts.org/topics/legumes/"
+    },
+    {
+      "Title": "margarine",
+      "Url": "https://nutritionfacts.org/topics/margarine/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "oats",
+      "Url": "https://nutritionfacts.org/topics/oats/"
+    },
+    {
+      "Title": "oils",
+      "Url": "https://nutritionfacts.org/topics/oils/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "potato chips",
+      "Url": "https://nutritionfacts.org/topics/potato-chips/"
+    },
+    {
+      "Title": "potatoes",
+      "Url": "https://nutritionfacts.org/topics/potatoes/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    },
+    {
+      "Title": "rice",
+      "Url": "https://nutritionfacts.org/topics/rice/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "standard American diet",
+      "Url": "https://nutritionfacts.org/topics/standard-american-diet/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "sweeteners",
+      "Url": "https://nutritionfacts.org/topics/sweeteners/"
+    },
+    {
+      "Title": "USDA",
+      "Url": "https://nutritionfacts.org/topics/usda/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "wheat",
+      "Url": "https://nutritionfacts.org/topics/wheat/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Check out these related videos:<br/>\n<a href=\"https://nutritionfacts.org/video/what-percent-of-americans-lead-healthy-lifestyles/\">What Percent of Americans Lead Healthy Lifestyles?</a><br/>\n<a href=\"https://nutritionfacts.org/video/from-table-to-able/\">From Table to Able: Combating Disabling Diseases with Food</a><br/>\n<a href=\"https://nutritionfacts.org/video/uprooting-the-leading-causes-of-death/\">Uprooting the Leading Causes of Death</a><br/>\n<a href=\"https://nutritionfacts.org/video/why-was-heart-disease-rare-in-the-mediterranean/\">Why Was Heart Disease Rare in the Mediterranean?</a></p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/2011/08/24/how-to-live-longer-in-four-easy-steps/\">How to live longer in four easy steps</a>, <a href=\"https://nutritionfacts.org/2012/07/19/preserving-vision-through-diet/\">Preserving Vision Through Diet</a>, <a href=\"https://nutritionfacts.org/2012/09/27/is-caffeinated-tea-really-dehydrating/\">Is Caffeinated Tea Really Dehydrating?</a>, <a href=\"https://nutritionfacts.org/2013/01/17/diet-vs-exercise-whats-more-important/\">Diet vs. Exercise: What’s More Important?</a>, and <a href=\"https://nutritionfacts.org/2013/11/26/best-nutrition-bang-for-your-buck/\">Best Nutrition Bang for Your Buck</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

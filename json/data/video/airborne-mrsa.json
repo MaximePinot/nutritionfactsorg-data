@@ -1,0 +1,95 @@
+{
+  "Title": "Airborne MRSA",
+  "Url": "https://nutritionfacts.org/video/airborne-mrsa/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/SP7OJHpX-V4"
+  },
+  "UpdatedAt": "2011-11-22T13:00:47+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 6",
+    "Url": "https://nutritionfacts.org/volumes/6/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Methicillin-resistant Staphylococcus aureus “superbug” found not only contaminating the U.S. retail meat supply, but isolated from air samples outside swine CAFOs.",
+  "Transcript": "“From Pigs to People. The Emergence of a New Superbug. The discovery of a novel strain of MRSA able to jump from livestock to humans.”\nIn this study, showing widespread and pervasive staph bacteria contamination of the U.S. meat supply this year—or at least in turkey, pork, chicken, and beef.\nThis is the scariest column. Oxacillin, which is in the same class as methicillin. These were of MRSA, methicillin-resistant Staph aureus, now killing more Americans than AIDS every year in the United States—and now found in our retail meat supply.\nFrom an overview of the problem, published last year out of the University of Iowa, overall MRSA prevalence in U.S. swine was found to be 11%, and higher in confinement operations—for example, where pregnant pigs are kept in crates for months on end.\nAnd indeed, testing the workers, those working in confinement operations had a higher prevalence of MRSA in their nostrils. But they weren’t necessarily picking their nose. Airborne MRSA was found floating around, even outside the confinement buildings. Because of this, concern has arisen about MRSA as a potential environmental and public health hazard.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Peter Mellor. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Ferber D. Infectious disease. From pigs to people: the emergence of a new superbug. Science. 2010 Aug 27;329(5995):1010-1.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20798295"
+    },
+    {
+      "Title": "Harper AL, Ferguson DD, Leedom Larson KR, Hanson BM, Male MJ, Donham KJ, Smith TC. An overview of livestock-associated MRSA in agriculture. J Agromedicine. 2010 Apr;15(2):101-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20407991"
+    },
+    {
+      "Title": "Waters AE, Contente-Cuomo T, Buchhagen J, Liu CM, Watson L, Pearce K, Foster JT, Bowers J, Driebe EM, Engelthaler DM, Keim PS, Price LB. Multidrug-Resistant Staphylococcus aureus in US Meat and Poultry. Clin Infect Dis. 2011 May;52(10):1227-30.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3079400/pdf/cir181.pdf"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "AIDS",
+      "Url": "https://nutritionfacts.org/topics/aids/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "factory farming practices",
+      "Url": "https://nutritionfacts.org/topics/factory-farming-practices/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "MRSA",
+      "Url": "https://nutritionfacts.org/topics/mrsa/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "staph infection",
+      "Url": "https://nutritionfacts.org/topics/staph-infection/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "zoonotic disease",
+      "Url": "https://nutritionfacts.org/topics/zoonotic-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Be sure to check out my <a href=\"https://nutritionfacts.org/topics/pork/\" rel=\"nofollow\">other videos on pork</a> and <a href=\"https://nutritionfacts.org/topics/foodborne-illness/\" rel=\"nofollow\">foodborne illness</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "Title": "Do Hair Dyes Cause Cancer?",
+  "Url": "https://nutritionfacts.org/video/do-hair-dyes-cause-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/dcaQd9tfZtc"
+  },
+  "UpdatedAt": "2024-01-03T12:50:03+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 64",
+    "Url": "https://nutritionfacts.org/volumes/volume-64/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Is the higher rate of bladder cancer among hairdressers due to exposure to hair dyes? And what about at-home use of hair colorants?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: Hair dyeing has been practiced for centuries, but the development of dyes in the last century or so has included chemicals that may be carcinogenic, may cause cancer. Watch to see what the science says about the risk. \nSince there’s typically no way to reverse hair color loss, the use of hair colorants is a mainstay of management, a practice documented as far back as 1500 BCE. While gray hair may carry a distinguished look, and limit women’s subjection to a sexualized gaze, hair color constitutes a multibillion-dollar market, with up to 60 percent of men and women in Western countries choosing to use coloring products, many of which to cover gray.\nFor over a century, aromatic amines have been the main chemicals used in commercial permanent, oxidative hair dyes. The primary problem with these compounds is that they can be potent contact allergens. Product labels often recommend a small 48-hour test application to the skin before use, but it can take up to a week for a skin allergy to flare up. They also may cause cancer.\nHair products contain more than 5,000 chemicals, and so it’s hard to narrow it down. But the aromatic amines, such as para-phenylenediamine, that are often used in hair dyes to prevent fading due to washing have been picked out as “probable” carcinogens. Before industry reformulation in response to mandated cancer warning labels, nine out of ten permanent hair dye products were mutagenic, meaning capable of causing DNA mutations. This then appeared to translate into more than ten times the odds of DNA damage in breast cells obtained from the breast milk of women who had used hair dye in the last six months (compared to not using hair dyes at all). But does that translate into more cancer?\nA meta-analysis of 42 studies found that hairdressers, particularly those who held their jobs ten or more years, were at significantly higher risk of developing bladder cancer later in life. Hairdressers, beauticians, and barbers may also suffer more lung cancer, voice box cancer, and multiple myeloma. There is some evidence that hairdressers may smoke more, but the researchers took this into account. They conclude that salons should be better ventilated, and gloves should be used. But how much is that going to help the person whose head has been soaked in it? Based on testing for radioactively-traced hair dye ingredients in the urine, experiments suggest the exposure to hair dye may be several hundredfold higher in hair dye users than the occupational risk to the hairdressers. But thankfully, there does not seem to be an excess risk of bladder cancer among those who just use hair dye personally. Furthermore, major changes took place in the 1980s to make hair dyes safer.\nIn 1979, the U.S. Food and Drug Administration started requiring cancer warning labels on hair dye products, leading the industry to start reformulating to eliminate the most carcinogenic ingredients. A turning point in bladder cancer risk isn’t apparent from the data, but this may be a function of the long latency time between exposure and malignancy for bladder cancer—which can be 30 or 40 years. If you look at faster-developing cancers, such as leukemia or follicular lymphoma, there does seem to be a drop-off in risk after 1980, though a 2019 meta-analysis looking at increased non-Hodgkin’s lymphoma risk without consideration of date range concluded, “exposure to hair colorants should be reduced as much as possible.” For prostate cancer, the doubling of odds associated with hair dye use seems limited to pre-1980 exposure, and there appears to be no link to brain tumors in either time frame.\nAs a tragically ironic aside, while the risk associated with hair products may have declined for white men and women, the opposite trend seems to have occurred for certain hair products targeted towards African Americans. The Black Women’s Health Study, which assessed exposure in the 1990s, found no association between breast cancer and the use of hair relaxers, chemical treatments used to straighten hair. But in the early 2000s, popular straighteners switched from noncarcinogenic compounds, like lye, to chemical cocktails containing formaldehyde. So now, frequent straightener use is associated with about a 30 percent higher breast cancer risk. Thankfully, there has been a shift towards embracing more natural hair styles in the African American community, resulting in the sales of hair relaxers falling by 40 percent in recent years.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Ambrosone CB, Abrams SM, Gorlewska-Roberts K, Kadlubar FF. Hair dye use, meat intake, and tobacco exposure and presence of carcinogen-DNA adducts in exfoliated breast ductal epithelial cells. Arch Biochem Biophys. 2007;464(2):169-175.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17601487/"
+    },
+    {
+      "Title": "Ames BN, Kammen HO, Yamasaki E. Hair dyes are mutagenic: identification of a variety of mutagenic ingredients. Proc Natl Acad Sci U S A. 1975;72(6):2423-2427.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1094469/"
+    },
+    {
+      "Title": "Eberle CE, Sandler DP, Taylor KW, White AJ. Hair dye and chemical straightener use and breast cancer risk in a large US population of black and white women. Int J Cancer. 2020;147(2):383-391.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31797377/"
+    },
+    {
+      "Title": "Geisler A, Nguyen J, Jagdeo J. Use of beauty products among African American women: potential health disparities and clinical implications. JDD. 2020;19(7):772-773.",
+      "Url": "https://jddonline.com/articles/use-of-beauty-products-among-african-american-women-potential-health-disparities-and-clinical-implic-S1545961620P0772X"
+    },
+    {
+      "Title": "Harling M, Schablon A, Schedlbauer G, Dulon M, Nienhaus A. Bladder cancer among hairdressers: a meta-analysis. Occup Environ Med. 2010;67(5):351-358.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20447989/"
+    },
+    {
+      "Title": "IARC Monographs Working Group on the Evaluation of Carcinogenic Risks to Humans. Some aromatic amines, organic dyes, and related exposures. IARC Monogr Eval Carcinog Risks Hum. 2010;99:1-658.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21528837/"
+    },
+    {
+      "Title": "Isopahkala-Bouret U. “It’s a great benefit to have gray hair!”: The intersection of gender, aging, and visibility in midlife professional women’s narratives. J Women Aging. 2017;29(3):267-277.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27629496/"
+    },
+    {
+      "Title": "Kashetsky N, Law RM, Wolfram LJ, Maibach HI. Hair dyes: a systematic review of pertinent in vivo human studies. Arch Dermatol Res. 2021;313(7):509-516.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33151347/"
+    },
+    {
+      "Title": "Kim KH, Kabir E, Jahan SA. The use of personal hair dye and its implications for human health. Environ Int. 2016;89-90:222-227.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26895479/"
+    },
+    {
+      "Title": "Mahendiratta S, Sarma P, Kaur H, et al. Premature graying of hair: Risk factors, co-morbid conditions, pharmacotherapy and reversal-A systematic review and meta-analysis. Dermatol Ther. 2020;33(6):e13990.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32654282/"
+    },
+    {
+      "Title": "Odutola MK, Nnakelu E, Giles GG, van Leeuwen MT, Vajdic CM. Lifestyle and risk of follicular lymphoma: a systematic review and meta-analysis of observational studies. Cancer Causes Control. 2020;31(11):979-1000.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32851495/"
+    },
+    {
+      "Title": "Park AM, Khan S, Rawnsley J. Hair biology: growth and pigmentation. Facial Plast Surg Clin North Am. 2018;26(4):415-424.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30213423/"
+    },
+    {
+      "Title": "Pongpairoj K, McFadden JP, Basketter DA. Advice for patients with hair dye allergy remains “stop using permanent hair dyes.” Br J Dermatol. 2016;174(5):957-958.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27206358/"
+    },
+    {
+      "Title": "Qin L, Deng HY, Chen SJ, Wei W. A meta-analysis on the relationship between hair dye and the incidence of non-hodgkin’s lymphoma. Med Princ Pract. 2019;28(3):222-230.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30583293/"
+    },
+    {
+      "Title": "Rosenberg L, Boggs DA, Adams-Campbell LL, Palmer JR. Hair relaxers not associated with breast cancer risk: evidence from the Black Women’s Health Study. Cancer Epidemiol Biomarkers Prev. 2007;16(5):1035-1037.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17507635/"
+    },
+    {
+      "Title": "Shao C, Qi ZY, Hui GZ, Wang Z. Personal hair dyes use and risk of glioma: a meta-analysis. Int J Clin Exp Med. 2013;6(9):757-765.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24179568/"
+    },
+    {
+      "Title": "Tai SY, Hsieh HM, Huang SP, Wu MT. Hair dye use, regular exercise, and the risk and prognosis of prostate cancer: multicenter case-control and case-only studies. BMC Cancer. 2016;16:242.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26996776/"
+    },
+    {
+      "Title": "Takkouche B, Regueira-Méndez C, Montes-Martínez A. Risk of cancer among hairdressers and related workers: a meta-analysis. Int J Epidemiol. 2009;38(6):1512-1531.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19755396/"
+    },
+    {
+      "Title": "Tobin DJ, Paus R. Graying: gerontobiology of the hair follicle pigmentary unit. Exp Gerontol. 2001;36(1):29-54.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11162910/"
+    },
+    {
+      "Title": "Towle KM, Grespin ME, Monnot AD. Personal use of hair dyes and risk of leukemia: a systematic literature review and meta-analysis. Cancer Med. 2017;6(10):2471-2486.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28925101/"
+    },
+    {
+      "Title": "Turati F, Pelucchi C, Galeone C, Decarli A, La Vecchia C. Personal hair dye use and bladder cancer: a meta-analysis. Ann Epidemiol. 2014;24(2):151-159.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24342029/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "African Americans",
+      "Url": "https://nutritionfacts.org/topics/african-americans/"
+    },
+    {
+      "Title": "Black Americans",
+      "Url": "https://nutritionfacts.org/topics/black-americans/"
+    },
+    {
+      "Title": "bladder cancer",
+      "Url": "https://nutritionfacts.org/topics/bladder-cancer/"
+    },
+    {
+      "Title": "breast milk",
+      "Url": "https://nutritionfacts.org/topics/breast-milk/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "hair health",
+      "Url": "https://nutritionfacts.org/topics/hair-health/"
+    },
+    {
+      "Title": "leukemia",
+      "Url": "https://nutritionfacts.org/topics/leukemia/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "lymphoma",
+      "Url": "https://nutritionfacts.org/topics/lymphoma/"
+    },
+    {
+      "Title": "multiple myeloma",
+      "Url": "https://nutritionfacts.org/topics/multiple-myeloma/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Why does our hair turn gray in the first place? What can we do about it? I discuss everything in the Preserving Your Hair chapter in my new book </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">. (All proceeds I receive from book sales go directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

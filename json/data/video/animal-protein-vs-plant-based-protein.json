@@ -1,0 +1,167 @@
+{
+  "Title": "Animal Protein vs. Plant-Based Protein",
+  "Url": "https://nutritionfacts.org/video/animal-protein-vs-plant-based-protein/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/GoEpGwAJZNA"
+  },
+  "UpdatedAt": "2022-05-30T11:50:42+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 57",
+    "Url": "https://nutritionfacts.org/volumes/volume-57/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "I discuss a public health case for modernizing the definition of protein quality.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn 2019, Dr. David Katz and colleagues, including one of my favorite researchers, David Jenkins, published a public health case for modernizing the definition of protein quality. The prevailing deﬁnition seems to have more to do with biochemistry than the net eﬀects on human health. The popular concept that protein is good, and the more the better, coupled with a protein quality deﬁnition that favors animal protein, fosters the impression that eating more meat, eggs, and dairy is desirable and preferable. But this is directly opposed to nutrition guidelines that are instead trying to push more plants. Although protein malnutrition is still prevalent in many areas of the world, it is exceedingly rare in the industrialized world, where the most formidable public health threat is not something like kwashiorkor—protein/calorie malnutrition—but from chronic diseases.\nAnd in 2016, a landmark study was published out of Harvard, involving more than 100,000 men and women, that found that replacing animal protein with plant protein was associated with lower risk of dying prematurely. The worst seemed to be processed meat like bacon, as well as egg protein (the egg whites), but swapping in even just 3 percent plant protein for any of the animal proteins: processed meat, unprocessed meat, chicken, fish, eggs, or dairy was associated with a significantly lower risk of arguably the most important endpoint of all, death.\nYeah, but how do we know it’s the protein? The researchers adjusted for factors such as saturated fat intake, which suggested it wasn’t just the animal fat. Okay, but how does your body even know the difference between protein from a plant and protein from an animal? Isn’t protein, protein? No, unlike animal protein, plant protein is generally low in branched-chain amino acids, for example, and decreased consumption of branched-chain amino acids improves metabolic health. It could be the IGF-1, a cancer-promoting growth hormone that is boosted by so-called high-quality animal protein intake though. We suspect the IGF-1 connection is cause and effect, since people who are just born to have higher IGF-1 levels, regardless of what they eat, do appear to suffer higher rates of killers like type 2 diabetes and heart disease.\nOr, it could be something the Harvard researchers didn’t control for, such as toxic pollutants, such as dioxins and PBCs, since they tend to accumulate up the food chain into cattle, pigs, chickens, and fish––and therefore end up on our plates. So, plant-based protein also stands as an important step to lower the body burden of harmful pollutants.\nIf you don’t think 100,000 people are enough, how about 400,000 people? The NIH-AARP study is the largest diet cohort study in history. And again, simply swapping 3 percent of calories from various animal protein sources with plant protein was associated with 10 percent decreased overall mortality. And you get even twice that benefit if you get rid of eggs, too. That’s not a surprise, since egg consumption is associated with a higher risk of developing cardiovascular disease.\nPut all the studies together on dietary protein intake and mortality, and people who eat more protein tend to live shorter lives. But this is mainly driven by a harmful association of animal protein. Plant protein intake is inversely associated with mortality––meaning those who eat more plant protein tend to live longer lives. More animal protein may mean more mortality, whereas more plant protein is correlated with less mortality. So, the best of both worlds would be to increase the intake of plant protein in place of animal protein. In other words, as another 2020 meta-analysis concluded, “Persons should be encouraged to increase their plant protein intake to potentially decrease their risk of death.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "CDC.",
+      "Url": "https://commons.wikimedia.org/wiki/Template:Potd/2008-08#/media/File:Starved_girl.jpg"
+    },
+    {
+      "Title": "Chen Z, Glisic M, Song M, et al. Dietary protein intake and all-cause and cause-specific mortality: results from the Rotterdam Study and a meta-analysis of prospective cohort studies. Eur J Epidemiol. 2020;35(5):411-29.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32076944/"
+    },
+    {
+      "Title": "Dórea JG. Comments on \"The Public Health Case for Modernizing the Definition of Protein Quality\". Adv Nutr. 2020;11(3):739.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32419015/"
+    },
+    {
+      "Title": "Fontana L, Cummings NE, Arriola Apelo SI, et al. Decreased Consumption of Branched-Chain Amino Acids Improves Metabolic Health. Cell Rep. 2016;16(2):520-30.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27346343/"
+    },
+    {
+      "Title": "Huang J, Liao LM, Weinstein SJ, et al. Association Between Plant and Animal Protein Intake and Overall and Cause-Specific Mortality. JAMA Intern Med. 2020;180(9):1173-84.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32658243/"
+    },
+    {
+      "Title": "Katz DL, Doughty KN, Geagan K, Jenkins DA, Gardner CD. Perspective: The Public Health Case for Modernizing the Definition of Protein Quality. Adv Nutr. 2019;10(5):755-64.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31066877/"
+    },
+    {
+      "Title": "Larsson SC, Michaëlsson K, Burgess S. IGF-1 and cardiometabolic diseases: a Mendelian randomisation study. Diabetologia. 2020;63(9):1775-82.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32548700/"
+    },
+    {
+      "Title": "McCarty MF. Vegan proteins may reduce risk of cancer, obesity, and cardiovascular disease by promoting increased glucagon activity. Med Hypotheses. 1999;53(6):459-85.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10687887/"
+    },
+    {
+      "Title": "Qi XX, Shen P. Associations of dietary protein intake with all-cause, cardiovascular disease, and cancer mortality: A systematic review and meta-analysis of cohort studies. Nutr Metab Cardiovasc Dis. 2020;30(7):1094-105.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32451273/"
+    },
+    {
+      "Title": "Song M, Fung TT, Hu FB, et al. Association of Animal and Plant Protein Intake With All-Cause and Cause-Specific Mortality. JAMA Intern Med. 2016;176(10):1453-63.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27479196/"
+    },
+    {
+      "Title": "Zhong VW, Van Horn L, Cornelis MC, et al. Associations of Dietary Cholesterol or Egg Consumption With Incident Cardiovascular Disease and Mortality. JAMA. 2019;321(11):1081-95.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30874756/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "dioxins",
+      "Url": "https://nutritionfacts.org/topics/dioxins/"
+    },
+    {
+      "Title": "Dr. David Katz",
+      "Url": "https://nutritionfacts.org/topics/dr-david-katz/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "PCBs",
+      "Url": "https://nutritionfacts.org/topics/pcbs/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>The benefits of calorie restriction may arise from the drop in animal protein intake. See <a href=\"https://nutritionfacts.org/video/caloric-restriction-vs-animal-protein-restriction/\">Caloric Restriction vs. Animal Protein Restriction</a> for more on this.</p>\n<p>I also discuss branched chain amino acids in <a href=\"https://nutritionfacts.org/video/are-bcaa-branched-chain-amino-acids-healthy/\">Are BCAA (Branched Chain Amino Acids) Healthy?</a></p>\n<p>Do you need to combine plant proteins, like rice and beans? See <a href=\"https://nutritionfacts.org/video/the-protein-combining-myth/\">The Protein Combining Myth</a>.</p>\n<p>How much protein do we need? See <a href=\"https://nutritionfacts.org/video/do-vegetarians-get-enough-protein/\">Do Vegetarians Get Enough Protein?</a></p>\n<p>What about plant-based meats? <a href=\"https://nutritionfacts.org/video/are-beyond-meat-and-the-impossible-burger-healthy/\">Are Beyond Meat and the Impossible Burger Healthy?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

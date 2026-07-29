@@ -1,0 +1,115 @@
+{
+  "Title": "Are Microwaves Safe?",
+  "Url": "https://nutritionfacts.org/video/are-microwaves-safe/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/ZCXeF8zv9Yk"
+  },
+  "UpdatedAt": "2018-01-10T12:50:59+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 39",
+    "Url": "https://nutritionfacts.org/volumes/volume-39/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The hazards of microwave ovens may not be what you might expect.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhen people have asked me if microwave ovens are hazardous, my typical snide response is, “Yes… if, you drop them on your foot.” But, it turns out that’s actually a real thing. Hundreds of Americans end up in the emergency room every year because a microwave dropped on them. Or, they hurt their back trying to lift one, or falling onto a microwave oven—I’m not sure how that works; maybe they like tripped on it? But, the majority of microwave injuries involve scalding oneself on hot foods or liquids.\nBut, when people go to PubMed and search the medical literature, and see all these scary-sounding titles about the “hazards of microwave ovens,” they may not realize that these are like articles about jelly doughnuts: “Hazards of a microwave oven. …An adolescent patient…, ravenously hungry, rushed home from school for his afternoon snack,” found a jelly doughnut, popped it in the microwave. The outside was just “comfortably warm,” and so, he “gulped [it] down”—before the “searing pain” started from the burning jelly inside, and he had to go to the hospital.\nAnd, that’s the tricky thing about microwave cooking. You know, with conventional cooking, the outside is hotter than the inside. But with microwaving, the inside can get burning hot, even while the outside remains relatively cool.\nNow, there’s still a lot more kids getting burned from regular stoves. The “injuries related to stove use vastly exceed those associated with [microwave ovens]”—over a five-year period, about 40,000, compared to 5,000 with microwaves. And, the stove burns tend to be more severe as well.\nIn fact, you know how you’re never supposed to heat infant formula in a microwave, since you may not be able to judge the heat of the contents just by feeling the outside of the bottle? Well, if you heed that warning, and use a pot or bowl of hot water to warm it instead, you may actually end up with higher burn risk, from accidentally knocking over scalding water. So, what’s their solution? They suggest not warming it up at all, and that it’s basically just a cultural thing that we feel the need to warm it. Or, even better, how about not bottle feeding at all, and go for scald-proof milk at perfect body temperature?\nAnd, when it comes to food, whether it’s a jelly doughnut, or jelly roll, or “microwaved treacle tart,” or a “cheese-pie”—basically, anything that’s kinda soft in the middle can present a problem. But look, anytime there’s anything liquid inside, can’t you just open it up and let it cool before you eat it? What’s the big deal? That brings us to: “The case of the exploding egg.”\n“Although there are many mishaps…regarding the microwave, the most pertinent for pediatric patients seems to be the exploding egg. When heated in the microwave, the…yolk absorbs the energy,…getting overheated and pressurized.” Both “the yolk membrane and shell acts as a [pressure] barrier,” and “[a]ny disturbance…can [make it go boom]. There have even been cases [in which the shells] have been cracked” open, but then it still explodes when “the yolk membrane [was] pierced with a fork.” And, “[t]he explosion [can be] so powerful and sudden that it exceeds the blinking reflex [leaving] the eyes unprotected,” which can lead to vision-threatening injuries. Normally, it’s just facial burns, but her poor brother had his face right over the plate and got his eyes burned, and ended up in the hospital. “Ophthalmologists should be aware of this serious risk and caution the public against the dangers of cooking eggs in microwave ovens.”\nBut, come on. How common is this? There’s all sorts of quirky case reports in the medical literature, like people getting eye injuries from eggs thrown around on Halloween or something. But if you do a search, there do seem to be a bunch of papers on exploding eggs. But, I figured the best way to tell if this was a real phenomenon would be to search on YouTube, and holy moly: 25,000 videos, including one with more than a million views. Do not try this at home.\nThere’s even an article, in a journal on teaching physics, about how to use microwave ovens to perform “exciting demonstrations,” like “spectacular [egg] explosions” denting the metal wall, blowing the door open, and making the whole oven jump up. Now, if the eggs just exploded inside, that’s one thing, but the problem is that it can happen at the table. You sit down to eat them and then—boom. The majority of egg injuries are to the face, eyes, and nose, but it can also explode straight into your mouth, then put you in the hospital.\n“Microwave oven manufacturers evidently “specifically warn against microwaving eggs…intact…and advise [not only] removing the…shell [but] piercing the yolk…prior to cooking.” Even reheating can be a problem. She was just carrying it in a bowl to the dining room when it exploded, rupturing her eye, causing a serious-enough injury that this group of ophthalmologists were like, look, forget just putting it in the instruction manual; maybe there should be a warning about eggs “on the microwave…itself.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Berestizshevsky S, Goldenberg-cohen N, Friling R, Weinberger D, Snir M. Ocular injury in children from exploding microwaved eggs. Am J Ophthalmol. 2005;139(4):718-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15808175"
+    },
+    {
+      "Title": "Brink C, Mckay G, Rode H. The case of the exploding egg. S Afr Med J. 2016;106(5):52.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27138679"
+    },
+    {
+      "Title": "Dixon JJ, Burd DA, Roberts DG. Severe burns resulting from an exploding teat on a bottle of infant formula milk heated in a microwave oven. Burns. 1997;23(3):268-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9232290"
+    },
+    {
+      "Title": "Fiore PM, Wagner RS. Halloween hazards: ocular injury from flying eggs. N Engl J Med. 1988;319(17):1159.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/3173453"
+    },
+    {
+      "Title": "Ford GR, Horrocks CL. Hazards of microwave cooking: direct thermal damage to the pharynx and larynx. J Laryngol Otol. 1994;108(6):509-10.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8027656"
+    },
+    {
+      "Title": "Jeffery SL, Cubison TC, Greenaway C, Gilbert PM, Parkhouse N. Lesson of the week. Warming milk-a preventable cause of scalds in children. BMJ. 2000;320(7229):235.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10642236"
+    },
+    {
+      "Title": "Kafas P, Stavrianos C. Thermal burn of palate caused by microwave heated cheese-pie: A case report. Cases J. 2008;1(1):191.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18826623"
+    },
+    {
+      "Title": "Kim G, Wong MM. Kim Ocular Trauma: An Evidence-Based Approach To Evaluation And Management In The ED. EB Medicine November 2006.",
+      "Url": "https://www.ebmedicine.net/topics.php?paction=showTopic&topic_id=180"
+    },
+    {
+      "Title": "Powell EC, Tanz RR. Comparison of childhood burns associated with use of microwave ovens and conventional stoves. Pediatrics. 1993;91(2):344-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8424008"
+    },
+    {
+      "Title": "Siu V, Kissoon N. Hazards of microwave ovens. Pediatr Emerg Care. 1987;3(2):99-103.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/3615244"
+    },
+    {
+      "Title": "Thambiraj DF, Chounthirath T, Smith GA. Microwave oven-related injuries treated in hospital EDs in the United States, 1990 to 2010. Am J Emerg Med. 2013;31(6):958-63.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23602089"
+    },
+    {
+      "Title": "Vollmer M, Möllmann K-P, Karstädt D. More experiments with microwave ovens. Physics Education, Volume 39, Number 4.",
+      "Url": "http://iopscience.iop.org/article/10.1088/0031-9120/39/4/003"
+    },
+    {
+      "Title": "Wolf Y, Adler N, Hauben DJ. Exploding microwaved eggs--revisited. Burns. 2001;27(8):853-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11718990"
+    },
+    {
+      "Title": "Won SJ, Woo SH. A Case of the Laryngopharyngeal Burn Caused by A Microwave-Heated Egg Bite.",
+      "Url": "http://jkslp.org/upload/pdf/jkslp-24-2-122.pdf"
+    },
+    {
+      "Title": "Yoo RT, Rivera PM, Campbell JP, Butrus SI. Corneal injury from explosion of microwaved eggs. Am J Ophthalmol. 1998;125(3):390-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9512160"
+    }
+  ],
+  "Acknowledgements": "Icons created by Ben Davis and Musmellow from The Noun Project.\nImage credit: Wikimedia. Image has been modified. \nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "infant formula",
+      "Url": "https://nutritionfacts.org/topics/infant-formula/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "microwaving",
+      "Url": "https://nutritionfacts.org/topics/microwaving/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p style=\"margin: 0in;margin-bottom: .0001pt;background: white\"><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #292b2c\">I imagine “eggsplosions” were not what you were expecting. Neither was I! My next video explores what I suspect is the more pertinent question for most: </span><a href=\"https://nutritionfacts.org/video/the-effects-of-radiation-leaking-from-microwave-ovens/\"><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #7d8793\">The Effects of Radiation Leaking from Microwave Ovens</span></a><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #292b2c\">.</span></p>\n<p style=\"margin: 0in;margin-bottom: .0001pt;background: white\"><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #292b2c\">For another indirect risk, see </span><a href=\"https://nutritionfacts.org/video/butter-flavored-microwave-popcorn-or-breathing/\"><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #7d8793\">Butter-Flavored Microwave Popcorn or Breathing</span></a><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #292b2c\">.</span></p>\n<p style=\"margin: 0in;margin-bottom: .0001pt;background: white\"><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #292b2c\"> </span></p>\n<p style=\"margin: 0in;margin-bottom: .0001pt;background: white\"><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #292b2c\">Microwave cooking is actually a very gentle cooking method when it comes to retaining nutrient content. See my video </span><a href=\"https://nutritionfacts.org/video/best-cooking-method/\"><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #7d8793\">Best Cooking Method</span></a><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #292b2c\">.</span></p>\n<p style=\"margin: 0in;margin-bottom: .0001pt;background: white\"><span style=\"font-size: 11.0pt;font-family: &#39;Calibri&#39;,sans-serif;color: #292b2c\"> </span></p>\n<p style=\"margin: 0in;margin-bottom: .0001pt;background: white\"> </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

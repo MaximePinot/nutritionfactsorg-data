@@ -1,0 +1,179 @@
+{
+  "Title": "How to Change Your Enterotype",
+  "Url": "https://nutritionfacts.org/video/how-to-change-your-enterotype/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/JAkIk9EJ2T4"
+  },
+  "UpdatedAt": "2015-12-14T12:00:23+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 28",
+    "Url": "https://nutritionfacts.org/volumes/volume-28/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What happens to our gut flora microbiome when we’re on plant-based versus animal-based diets?",
+  "Transcript": "If whatever gut flora enterotype we are could play an important role in our risk of developing chronic diet-associated diseases, the next question is can we alter our gut microbiome by altering our diet? And the answer is — diet can rapidly and reproducibly alter the bacteria in our gut.\nThere’s been growing concern that recent lifestyle innovations, most notably the high-fat/high-sugar ‘Western’ diet, have altered the composition and activity of our resident gut flora. Such diet-induced changes to gut-associated microbial communities are now suspected of contributing to growing epidemics of chronic disease in the developed world; yet, it remained unclear how quickly our gut bacteria could respond to dietary change. So, researchers prepared two diets: a ‘plant-based diet’ rich in grains, beans, fruits, and vegetables; and an ‘animal-based diet’ which was composed of meats, eggs, and cheeses. Note: no refined sugars in either—they wanted to test plant versus animal, and within just one day of the animal-based diet hitting the gut, there was a significant shift. For example, the lifelong vegetarian – what happens when you put him on an animal-based diet? Well, he started out Prevotella, like the one vegan in the typing study, but unlike everyone else, because they were eating a more standard American diet. Remarkably, the animal-based diet inverted the vegetarian’s Prevotella to Bacteroides ratio, causing the Bacteroides to outnumber the Prevotella within just four days on the animal-based diet. His entire gut flora got turned on its head.\nThe fact that our gut can so rapidly switch between herbivorous and carnivorous functional profiles is probably a good thing evolution-wise. If you bring down a mammoth and you’re eating meat for a couple days before falling back to plants, you want your gut to be able to deal, and this flexibility is manifest in the diversity of human diets to this day, but what’s the healthier state to be in most of the time?\nThey looked at a number of different factors. First, the amount of short chain fatty acids produced. Short-chain fatty acids, like acetate and butyrate, function to suppress inflammation and cancer, and our gut flora on plant-based diets produces more than on animal-based diets.\nOther microbial metabolites, such as secondary bile acids, promote the development of cancer, and with a significant increase in bacterial enzyme activity to create these secondary bile acids on an animal-based diet, no surprise there’s a significant increase in carcinogens like DCA, a secondary bile acid known to promote DNA damage and liver cancer. Microbial enzyme activity to produce the rotten egg gas, hydrogen sulfide, also shoots up on an animal-based diet, which stinks because it… stinks, and also damages DNA, and has been implicated in the development of inflammatory bowel diseases like ulcerative colitis. Hydrogen sulfide is made by pathogens Bilophila wadsworthia, which is increased on the animal-based diet, again within just days, supporting the link between diet and the outgrowth of microorganisms capable of triggering inflammatory bowel disease, whereas the only pathogen you see more of on a plant-based diet is just a virus that infects spinach.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "E Magee. A nutritional component to inflammatory bowel disease: the contribution of meat to fecal sulfide excretion. Nutrition. 1999 Mar;15(3):244-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10198924"
+    },
+    {
+      "Title": "G D Wu, J Chen, C Hoffmann, K Bittinger, Y Y Chen, S A Keilbaugh, M Bewtra, and more. Linking Long-Term Dietary Patterns with Gut Microbial Enterotypes. Science. 2011 Oct 7; 334(6052): 105–108.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3368382/"
+    },
+    {
+      "Title": "K M Tuohy, L Conterno, M Gasperotti, R Viola. Up-regulating the human intestinal microbiome using whole plant foods, polyphenols, and/or fiber. J Agric Food Chem. 2012 Sep 12;60(36):8776-82.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22607578"
+    },
+    {
+      "Title": "L A David, C F Maurice, R N Carmody, D B Gootenberg, J E Button, B E Wolfe, A V Ling, A S Devlin, Y Varma, M A Fischbach, S B Biddinger, R J Dutton, P J Turnbaugh. Diet rapidly and reproducibly alters the human gut microbiome. Nature. 2014 Jan 23;505(7484):559-63.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24336217"
+    },
+    {
+      "Title": "M S Attene-Ramos, E D Wagner, H R Gaskins, M J Plewa. Hydrogen sulfide induces direct radical-associated DNA damage. Mol Cancer Res. 2007 May;5(5):455-9. Epub 2007 May 2.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17475672"
+    },
+    {
+      "Title": "P Louis, G L Hold, H J Flint. The gut microbiota, bacterial metabolites and colorectal cancer. Nat Rev Microbiol. 2014 Oct;12(10):661-72.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25198138"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Loesjex via Pixabay.",
+  "Topics": [
+    {
+      "Title": "acetate",
+      "Url": "https://nutritionfacts.org/topics/acetate/"
+    },
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "bile acids",
+      "Url": "https://nutritionfacts.org/topics/bile-acids/"
+    },
+    {
+      "Title": "butyrate",
+      "Url": "https://nutritionfacts.org/topics/butyrate/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "inflammatory bowel disease",
+      "Url": "https://nutritionfacts.org/topics/inflammatory-bowel-disease/"
+    },
+    {
+      "Title": "liver cancer",
+      "Url": "https://nutritionfacts.org/topics/liver-cancer/"
+    },
+    {
+      "Title": "low-carb diets",
+      "Url": "https://nutritionfacts.org/topics/low-carb-diets/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "Prevotella",
+      "Url": "https://nutritionfacts.org/topics/prevotella/"
+    },
+    {
+      "Title": "short-chain fatty acids",
+      "Url": "https://nutritionfacts.org/topics/short-chain-fatty-acids/"
+    },
+    {
+      "Title": "standard American diet",
+      "Url": "https://nutritionfacts.org/topics/standard-american-diet/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "ulcerative colitis",
+      "Url": "https://nutritionfacts.org/topics/ulcerative-colitis/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><a href=\"https://nutritionfacts.org/video/whats-your-gut-microbiome-enterotype/\">What’s Your Gut Microbiome Enterotype?</a></p>\n<p>I also have a series about the epic fermentation battle in the gut between protein and carbs that offers lots of insight on why it matters who we have living down there:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/preventing-ulcerative-colitis-with-diet/\">Preventing Ulcerative Colitis with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/bowel-wars-hydrogen-sulfide-vs-butyrate/\">Bowel Wars: Hydrogen Sulfide vs. Butyrate</a></li>\n<li><a href=\"https://nutritionfacts.org/video/stool-ph-and-colon-cancer/\">Stool pH and Colon Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-ulcerative-colitis-with-diet/\">Treating Ulcerative Colitis with Diet</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "Title": "The Healthiest Way to Drink Coffee",
+  "Url": "https://nutritionfacts.org/video/the-healthiest-way-to-drink-coffee/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/qbOTJpAwxzo"
+  },
+  "UpdatedAt": "2025-09-03T11:50:35+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 70",
+    "Url": "https://nutritionfacts.org/volumes/volume-70/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Why do those who drink filtered coffee tend to live longer than those who drink unfiltered coffee?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAs I explained in my last video, chlorogenic acid, the main antioxidant in coffee, enhances autophagy in human cells, which may explain why coffee is linked to a longer life. If everyone drank three cups (720 ml) of coffee a day, millions of healthy years of life could potentially be saved every year in the United States alone. Which coffee has the most chlorogenic acid?\nMore than a hundred coffees, espressos, cappuccinos, and instant coffees have been tested, and chlorogenic acid contents varied by more than 30-fold. Interestingly, the major contributor to this wide range was the coffee purchased from Starbucks, which had an extremely low antioxidant content. This may be because Starbucks roasts its beans so dark it destroys it. The more you roast coffee, the lower the antioxidant levels fall. Caffeine is relatively stable to heat, but a dark roast may wipe out nearly 90 percent of the chlorogenic acid content of the beans. However, the difference between a medium light roast and a medium roast did not appear to matter, at least when it came to boosting the total antioxidant status in people’s bloodstreams after drinking them.\nSoy milk in coffee appears to be fine but adding dairy milk or creamer seems to cut the bioavailability of chlorogenic acid down by about 40 percent.\nThe freeze-drying and spray-drying processes used to make instant coffee don’t appear to significantly affect chlorogenic acid levels, but the method of preparing fresh coffee does. Brewed coffee has higher chlorogenic acid content than espresso, presumably due to the longer contact time between the water and coffee grounds and the greater ultimate volume. No differences were found between cold brew or hot.\nThe brewing method can also impact our cholesterol levels. The culprits are two compounds, cafestol and kahweol, which are found in the fines of the coffee grounds, tiny particles that get trapped in the paper filter. This explains why filtered coffee doesn’t raise cholesterol as much as boiled, French press, or Turkish coffee does. If you don’t have optimal cholesterol levels, you should consider sticking to paper-filtered coffee or using instant coffee, which also lacks these compounds. Mesh filters are likely insufficient, as even paper filters sporting “micro perforations” allow more of the cholesterol-raising compounds to slip through, particularly when the coffee is ground especially fine.\nAnd indeed, those drinking unfiltered coffee were found to have higher mortality rates than those drinking filtered coffee––though any kind of coffee may be better than no coffee at all, at least for women. These findings led some to bemoan the growing popularity of unfiltered brews from capsule coffee machines, but if you cut them open, you can see that the little plastic cups actually do have a paper filter inside. However, capsule coffee ends up with more estrogenic chemicals in it, as one would expect from exposing nearly any sort of plastic to hot enough water, but the levels found were low compared to established safety guidelines.\nIf coffee can extend our lives by boosting autophagy, potentially preventing hundreds of thousands of cases or deaths from various diseases, should everyone be drinking it? Is there anyone who should avoid coffee? We’ll find out next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Aubin HJ, Luquiens A, Berlin I. Letter by aubin et al regarding article, “association of coffee consumption with total and cause-specific mortality in 3 large prospective cohorts.” Circulation. 2016;133(20):e659.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27185028/"
+    },
+    {
+      "Title": "Colombo R, Papetti A. An outlook on the role of decaffeinated coffee in neurodegenerative diseases. Crit Rev Food Sci Nutr. 2020;60(5):760-779.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30614247/"
+    },
+    {
+      "Title": "Corrêa TAF, Monteiro MP, Mendes TMN, et al. Medium light and medium roast paper-filtered coffee increased antioxidant capacity in healthy volunteers: results of a randomized trial. Plant Foods Hum Nutr. 2012;67(3):277-282.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22766993/"
+    },
+    {
+      "Title": "Di Maso M, Boffetta P, Negri E, La Vecchia C, Bravi F. Caffeinated coffee consumption and health outcomes in the us population: a dose-response meta-analysis and estimation of disease cases and deaths avoided. Adv Nutr. 2021;12(4):1160-1176.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33570108/"
+    },
+    {
+      "Title": "Doepker C, Movva N, Cohen SS, Wikoff DS. Benefit-risk of coffee consumption and all-cause mortality: A systematic review and disability adjusted life year analysis. Food Chem Toxicol. 2022;170:113472.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36243217/"
+    },
+    {
+      "Title": "Duarte GS, Farah A. Effect of simultaneous consumption of milk and coffee on chlorogenic acids’ bioavailability in humans. J Agric Food Chem. 2011;59(14):7925-7931.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21627318/"
+    },
+    {
+      "Title": "Gao LJ, Dai Y, Li XQ, Meng S, Zhong ZQ, Xu SJ. Chlorogenic acid enhances autophagy by upregulating lysosomal function to protect against SH-SY5Y cell injury induced by H2O2. Exp Ther Med. 2021;21(5):426.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33747165/"
+    },
+    {
+      "Title": "Ludwig IA, Mena P, Calani L, et al. Variations in caffeine and chlorogenic acid contents of coffees: what are we drinking? Food Funct. 2014;5(8):1718-1726.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25014672/"
+    },
+    {
+      "Title": "Mills CE, Oruna-Concha MJ, Mottram DS, Gibson GR, Spencer JPE. The effect of processing on chlorogenic acid content of commercially available coffee. Food Chem. 2013;141(4):3335-3340.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23993490/"
+    },
+    {
+      "Title": "Rendón MY, Dos Santos Scholz MB, Bragagnolo N. Physical characteristics of the paper filter and low cafestol content filter coffee brews. Food Res Int. 2018;108:280-285.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29735059/"
+    },
+    {
+      "Title": "Sakaki JR, Melough MM, Provatas AA, Perkins C, Chun OK. Evaluation of estrogenic chemicals in capsule and French press coffee using ultra-performance liquid chromatography with tandem mass spectrometry. Toxicol Rep. 2020;7:1020-1024.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32874926/"
+    },
+    {
+      "Title": "Tverdal A, Selmer R, Cohen JM, Thelle DS. Coffee consumption and mortality from cardiovascular diseases and total mortality: Does the brewing method matter? Eur J Prev Cardiol. 2020;27(18):1986-1993.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32320635/"
+    },
+    {
+      "Title": "Urgert R, Katan MB. The cholesterol-raising factor from coffee beans. Annu Rev Nutr. 1997;17:305-324.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9240930/"
+    },
+    {
+      "Title": "Yang CZ, Yaniger SI, Jordan VC, Klein DJ, Bittner GD. Most plastic products release estrogenic chemicals: a potential health problem that can be solved. Environ Health Perspect. 2011;119(7):989-996.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21367689/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "caffeine",
+      "Url": "https://nutritionfacts.org/topics/caffeine/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "coffee",
+      "Url": "https://nutritionfacts.org/topics/coffee/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "soy milk",
+      "Url": "https://nutritionfacts.org/topics/soymilk/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This video is the second in a three-part series. Check out </span><a href=\"https://nutritionfacts.org/video/does-coffee-help-boost-autophagy-and-lifespan/\"><span style=\"font-weight: 400\">Does Coffee Help Boost Autophagy and Lifespan?</span></a><span style=\"font-weight: 400\"> if you missed the first video, and stay tuned for </span><a href=\"https://nutritionfacts.org/video/who-should-avoid-coffee/\"><span style=\"font-weight: 400\">Who Should Avoid Coffee?</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">Here are the videos I mentioned: </span><a href=\"https://nutritionfacts.org/video/friday-favorites-does-adding-milk-block-the-benefits-of-coffee/\"><span style=\"font-weight: 400\">Does Adding Milk Block the Benefits of Coffee?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/does-coffee-affect-cholesterol/\"><span style=\"font-weight: 400\">Does Coffee Affect Cholesterol?</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">For more on coffee, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/coffee-put-to-the-test-for-treating-parkinsons-disease/\"><span style=\"font-weight: 400\">Coffee Put to the Test for Treating Parkinson’s Disease</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/do-the-health-benefits-of-coffee-apply-to-everyone/\"><span style=\"font-weight: 400\">Do the Health Benefits of Coffee Apply to Everyone?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/does-low-acid-coffee-cause-less-acid-reflux/\"><span style=\"font-weight: 400\">Does Low-Acid Coffee Cause Less Acid Reflux?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/which-coffee-is-healthier-light-vs-dark-roast/\"><span style=\"font-weight: 400\">Which Coffee Is Healthier: Light vs. Dark Roast?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/does-coffee-affect-cholesterol/\"><span style=\"font-weight: 400\">Does Coffee Affect Cholesterol?</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "Title": "Starving Cancer with Methionine Restriction",
+  "Url": "https://nutritionfacts.org/video/starving-cancer-with-methionine-restriction/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/CVAog5_muNw"
+  },
+  "UpdatedAt": "2013-09-18T11:20:09+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 14",
+    "Url": "https://nutritionfacts.org/volumes/volume-14/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Methionine restriction—best achieved through a plant-based diet—may prove to have a major impact on patients with cancer because, unlike normal tissues, many human tumors require the amino acid methionine to grow.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn designing an antibiotic, you couldn’t create a drug that destroyed DNA, for example, because that’s something that both humans and bacteria share in common. It would kill bacteria, all right, but it might kill us, too. So, many antibiotics work by attacking the bacterial cell walls—something bacteria have, that we don’t.\nAntifungals can attack the unique cell walls of fungus. Pesticides can work by attacking the special exoskeleton of insects. But, fighting cancer is harder, because cancer cells are our own cells. So, fighting cancer comes down to trying to find and exploit differences between cancer cells and normal cells.\nForty years ago, a landmark paper was published showing for the first time that many human cancers have what’s called absolute methionine dependency, meaning you can grow normal cells in a petri dish without giving them the amino acid methionine. “Normal cells thrive.” But, without methionine, cancer cells die. Normal breast cells, for example, grow no matter what—with or without. But, here’s leukemia cells, they need that extra added methionine to grow, or they just flatline.\nWhat does cancer do with the methionine? Tumors generate “gaseous sulfur-containing compounds” with it, that specially trained diagnostic dogs can actually pick up. There are mole-sniffing dogs that can pick out skin cancer. There are breath-sniffing dogs that can pick out people with lung cancer. Pee-sniffing dogs that can diagnose bladder cancer. And, yes, you guessed it, fart-sniffing dogs for colorectal cancer. Doctors can now bring their Lab to the lab. Gives a whole new meaning to the term “pet scan.”\nAnyway, methionine dependency is not just present in cancer cell lines in a petri dish. Fresh tumors taken from patients show that many cancers appear to have biochemical defects that makes them methionine-dependent—”including [some] tumors of the colon, breast, ovary, prostate, and [skin].”\nChemo companies are fighting to be the first to come out “methionine-depleting drugs,” but, since “methionine is sourced mainly from food,” a better strategy may be to lower methionine levels by lowering methionine intake—eliminating high-methionine foods for cancer growth control.\nHere’s the thinking; look. “Smoking cessation, consumption of diets rich in [plants],…and other lifestyle measures can prevent the majority of cancers.” Unfortunately, people don’t do them, and, “as a result, each year, hundreds of thousands of Americans develop metastatic cancer. Chemotherapy cures only a few types of metastatic cancer…Unfortunately, the vast majority of common metastatic cancers…[like breast, prostate, colon, and lung] are lethal. We therefore desperately need novel treatment strategies for metastatic cancer. Dietary methionine restriction may be one such strategy.”\nSo, where is methionine found? Particularly chicken, and fish. Milk, red meat, and eggs have less. But, if you really want to stick with lower methionine foods, fruits, nuts, veggies, grains, and beans. In other words, “methionine restriction may be achieved using a predominately vegan diet.”\nSo, why isn’t every oncologist doing this? “Despite many promising preclinical and clinical studies in recent years, dietary methionine restriction and other dietary approaches to cancer treatment have not yet gained wide[spread] clinical application. Most clinicians and investigators are probably unfamiliar with nutritional approaches to cancer. [Ah, that’s an understatement.] Many others may consider amino acid restriction as an ‘old idea,’ since it has been examined for several decades. However, many good ideas remain latent for decades if not centuries before they prove valuable in the clinic…With the proper development, dietary methionine restriction, either alone or in combination with other treatments, may [also] prove to have a major impact on patients with cancer.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "B. C. Halpern, B. R. Clark, D. N. Hardy, R. M. Halpern, R. A. Smith. The effect of replacement of methionine by homocystine on survival of malignant and normal adult mammalian cells in culture. Proc. Natl. Acad. Sci. USA 1974 71(4):1133 - 1136.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/4524624"
+    },
+    {
+      "Title": "C. M. Willis, S. M. Church, C. M. Guest, W. A. Cook, N. McCarthy, A. J. Bransbury, M. R. T. Church, J. C. T. Church. Olfactory detection of human bladder cancer by dogs: Proof of principle study. BMJ 2004 329(7468):712.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15388612"
+    },
+    {
+      "Title": "D. E. Epner. Can dietary methionine restriction increase the effectiveness of chemotherapy in treatment of advanced cancer? J Am Coll Nutr 2001 20(Suppl 5):443S-449S; discussion 473S-475S.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11603655"
+    },
+    {
+      "Title": "D. Pickel, G. P. Manucy, D. B. Walker, S. B. Hall, J. C. Walker. Evidence for canine olfactory detection of melanoma. App Anim Behav Sci 2004 89(1):107-­116.",
+      "Url": "http://www.journals.elsevierhealth.com/periodicals/applan/article/S0168-1591%2804%2900111-X/abstract"
+    },
+    {
+      "Title": "E. Boedeker, G. Friedel, T. Walles. Sniffer dogs as part of a bimodal bionic research approach to develop a lung cancer screening. Interact Cardiovasc Thorac Surg 2012 14(5):511 - 515.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22345057"
+    },
+    {
+      "Title": "E. Cellarier, X. Durando, M. P. Vasson, M. C. Farges, A. Demiden, J. C. Maurizis, J. C. Madelmont, P. Chollet. Methionine dependency and cancer treatment. Cancer Treat. Rev. 2003 29(6):489 - 499.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14585259"
+    },
+    {
+      "Title": "E. Cohen. Chitin synthesis and degradation as targets for pesticide action. Arch. Insect Biochem. Physiol. 1993 22(1 - 2):245 - 261.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/8431598"
+    },
+    {
+      "Title": "H. Sonoda, S. Kohnoe, T. Yamazato, Y. Satoh, G. Morizono, K. Shikata, M. Morita, A. Watanabe, M. Morita, Y. Kakeji, F. Inoue, Y. Maehara. Colorectal cancer screening with odour material by canine scent detection. Gut 2011 60(6):814 - 819.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21282130"
+    },
+    {
+      "Title": "H. Y. Guo, H. Herrera, A. Groce, R. M. Hoffman. Expression of the biochemical defect of methionine dependence in fresh patient tumors in primary histoculture. Cancer Res. 1993 53(11):2479 - 2483.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/8495409"
+    },
+    {
+      "Title": "K. Yamagishi, K. Onuma, Y. Chiba, S. Yagi, S. Aoki, T. Sato, Y. Sugawara, N. Hosoya, Y. Saeki, M. Takahashi, M. Fuji, T. Ohsaka, T. Okajima, K. Akita, T. Suzuki, P. Senawongse, A. Urushiyama, K. Kawai, H. Shoun, Y. Ishii, H. Ishikawa, S. Sugiyama, M. Nakajima, M. Tsuboi, T. Yamanaka. Generation of gaseous sulfur-containing compounds in tumour tissue and suppression of gas diffusion as an antitumour treatment. Gut 2012 61(4):554 - 561.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21836027"
+    },
+    {
+      "Title": "M. C. Ruiz, V. Ayala, M. Portero-Otín, J. R. Requena, G. Barja, R. Pamplona. Protein methionine content and MDA-lysine adducts are inversely related to maximum life span in the heart of mammals. Mech. Ageing Dev. 2005 126(10):1106 - 1114.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15955547"
+    },
+    {
+      "Title": "M. F. McCarty, J. Barroso-Aranda, F. Contreras. The low-methionine content of vegan diets may make methionine restriction feasible as a life extension strategy. Med. Hypotheses 2009 72(2):125 - 128.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18789600"
+    },
+    {
+      "Title": "M. López-Torres, G. Barja. Lowered methionine ingestion as responsible for the decrease in rodent mitochondrial oxidative stress in protein and dietary restriction possible implications for humans. Biochim. Biophys. Acta 2008 1780(11):1337 - 1347.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18252204"
+    },
+    {
+      "Title": "P. Cavuoto, M. F. Fenech. A review of methionine dependency and the role of methionine restriction in cancer growth control and life-span extension. Cancer Treat. Rev. 2012 38(6):726 - 736.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22342103"
+    },
+    {
+      "Title": "V. Agrawal, S. E. J. Alpini, E. M. Stone, E. P. Frenkel, A. E. Frankel. Targeting methionine auxotrophy in cancer: discovery & exploration. Expert Opin Biol Ther 2012 12(1):53 - 61.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22171665"
+    }
+  ],
+  "Acknowledgements": "Images thanks to USDA, Gajda-13, California Department of Fish and Game, Pingpongwill, Kacper “Kangel” Aniołek, NMajik, Wilfredo R. Rodriguez H., Scarce, Ranko, & The Noun Project via Wikimedia; and Veganbaking.net & the queen of subtle via flickr. Thanks to Ellen Reid, Maxim Fetissenko, PhD, and Laurie-Marie Pisciotta for their Keynote help.",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "bladder cancer",
+      "Url": "https://nutritionfacts.org/topics/bladder-cancer/"
+    },
+    {
+      "Title": "bladder health",
+      "Url": "https://nutritionfacts.org/topics/bladder-health/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast cancer survival",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer-survival/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "colon health",
+      "Url": "https://nutritionfacts.org/topics/colon-health/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "fungicides",
+      "Url": "https://nutritionfacts.org/topics/fungicides/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "insects",
+      "Url": "https://nutritionfacts.org/topics/insects/"
+    },
+    {
+      "Title": "leukemia",
+      "Url": "https://nutritionfacts.org/topics/leukemia/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "lung health",
+      "Url": "https://nutritionfacts.org/topics/lung-health/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "medications",
+      "Url": "https://nutritionfacts.org/topics/medications/"
+    },
+    {
+      "Title": "methionine",
+      "Url": "https://nutritionfacts.org/topics/methionine/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "ovarian cancer",
+      "Url": "https://nutritionfacts.org/topics/ovarian-cancer/"
+    },
+    {
+      "Title": "ovary health",
+      "Url": "https://nutritionfacts.org/topics/ovary-health/"
+    },
+    {
+      "Title": "pesticides",
+      "Url": "https://nutritionfacts.org/topics/pesticides/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "prostate health",
+      "Url": "https://nutritionfacts.org/topics/prostate-health/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "red meat",
+      "Url": "https://nutritionfacts.org/topics/red-meat/"
+    },
+    {
+      "Title": "skin cancer",
+      "Url": "https://nutritionfacts.org/topics/skin-cancer/"
+    },
+    {
+      "Title": "skin health",
+      "Url": "https://nutritionfacts.org/topics/skin-health/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This can be considered a companion video to <a href=\"https://nutritionfacts.org/video/anti-angiogenesis-cutting-off-tumor-supply-lines/\">Anti-Angiogenesis: Cutting Off Tumor Supply Lines</a>, in which this same diet could starve these same tumors of their blood supply.</p>\n<p>There are compounds in animal products that may actually stimulate tumor growth. See <a href=\"https://nutritionfacts.org/video/how-tumors-use-meat-to-grow-xeno-autoantibodies/\">How Tumors Use Meat to Grow: Xeno-Autoantibodies</a>. Animal protein may also boost levels of the cancer-promoting hormone IGF-1 (see <a href=\"https://nutritionfacts.org/video/the-answer-to-the-pritikin-puzzle/\">The Answer to the Pritikin Puzzle</a>). Combined, this could all help explain why plants and plant-based diets have been found effective in potentially reversing some cancer processes. See <a href=\"https://nutritionfacts.org/video/cancer-reversal-through-diet/\">Cancer Reversal through Diet?</a>; <a href=\"https://nutritionfacts.org/video/strawberries-versus-esophageal-cancer/\">Strawberries vs. Esophageal Cancer</a>; and <a href=\"https://nutritionfacts.org/video/black-raspberries-versus-oral-cancer/\">Black Raspberries vs. Oral Cancer</a>.</p>\n<p>Why might the medical profession be so resistant to therapies proven to be effective? <a href=\"https://nutritionfacts.org/video/the-tomato-effect/\">The Tomato Effect</a> may be partially to blame.</p>\n<p>If you were looking closely at the title of the review I featured (see <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/22342103\">A review of methionine dependency and the role of methionine restriction in cancer growth control and life-span extension</a>), noting that plant-based diets may prove to be a useful nutritional strategy in cancer growth control, you’ll notice it also looked at the role of methionine restriction in lifespan extension. That’s the topic of <a href=\"https://nutritionfacts.org/video/methionine-restriction-as-a-life-extension-strategy/\">Methionine Restriction as a Life-Extension Strategy</a>.</p>\n<p>For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2014/01/09/top-10-most-popular-videos-of-2013/\">Top 10 Most Popular Videos of 2013</a>; <a href=\"https://nutritionfacts.org/blog/a-low-methionine-diet-may-help-starve-cancer-cells/\" target=\"_blank\" rel=\"noopener\">A Low-Methionine Diet May Help Starve Cancer Cells</a>; and <a href=\"https://nutritionfacts.org/blog/how-plant-based-diets-may-extend-our-lives/\" target=\"_blank\" rel=\"noopener\">How Plant-Based Diets May Extend Our Lives</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

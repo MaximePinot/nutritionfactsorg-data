@@ -1,0 +1,147 @@
+{
+  "Title": "Preventing Ulcerative Colitis with Diet",
+  "Url": "https://nutritionfacts.org/video/preventing-ulcerative-colitis-with-diet/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/eU8-8kUFZYc"
+  },
+  "UpdatedAt": "2015-02-20T12:00:17+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 23",
+    "Url": "https://nutritionfacts.org/volumes/volume-23/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The toxic rotten egg gas hydrogen sulfide may explain why animal protein is associated with inflammatory bowel disease.",
+  "Transcript": "What has driven the dramatic increase in prevalence of the inflammatory bowel disease, Crohn’s disease, in societies that are rapidly Westernized–a disease practically unknown just a century ago? What has truly changed in our internal and external environment that has led to the appearance of this horrible disease?\nWell, Japan suffered one of the most dramatic increases, and of all the changing dietary components, animal protein appeared to be the strongest factor–an exponential increase in newly diagnosed Crohn’s patients and daily animal protein intake, whereas the more vegetable protein, the fewer the cases of Crohn’s–which is consistent with data showing a more plant-based diet may be successful in both preventing Crohn’s disease and treating Crohn’s disease. But what about inflammatory bowel diseases in general?\nThe largest study of its kind, 60,000 people followed for over a decade, found that high total protein intake, specifically animal protein, was associated with a significantly increased risk of the other big inflammatory bowel disease as well, called ulcerative colitis. Not just protein in general; the association between high protein intake and inflammatory bowel disease risk was restricted to animal protein intake.\nAnd since World War II, animal protein intake has increased not only in Japan, but also in all developed countries. This increase in animal protein consumption may explain some of the increased incidence of inflammatory bowel disease in the second half of the 20th century.\nAnd it’s not just this study; that’s about what most other studies found as well–but why? What’s the difference between animal protein and plant protein? Well, animal proteins tend to have more sulfur-containing amino acids like methionine, which bacteria in our gut can turn into the toxic rotten-egg-smell gas, hydrogen sulfide.\nEmerging evidence suggests that sulfur compounds may play a role in the development of ulcerative colitis, the chronic inflammatory bowel disease of the colon and rectum characterized by bloody diarrhea.\nThe first hint as to the importance of our gut flora was in the 1970s when analyses of stools showed that their bulk was made up of mostly bacteria, not undigested material. Most of our stool by weight is pure bacteria. We’re pushing out trillions of bacteria a day; they just keep multiplying and multiplying. They do wonderful things for us, like create short-chain fatty acids, such as butyrate, from the fiber we eat. But unfortunately, the bacteria may also elaborate toxic products from food residues, such as hydrogen sulfide, in response to a high-meat diet.\nHydrogen sulfide is a bacterially-derived cell poison that has been implicated in ulcerative colitis. We had always assumed that sulfide generation in the colon is driven by dietary components such as sulfur-containing amino acids, but we didn’t know for sure, until this study.\nThey had folks eat five different diets each with escalating meat contents from vegetarian all the way up to like a steak a day. And the more meat, the more sulfide; ten times more meat meant ten times more sulfide. They conclude that dietary protein from meat is an important substrate for sulfide generation by bacteria in the human large intestine.\nHydrogen sulfide can then act as a free radical, and damage our DNA at concentrations way below what our poor colon lining is exposed to on a routine basis, which may help explain why diets higher in meat and lower in fiber may produce so-called “fecal water,” which causes about twice as much DNA damage. Fecal water is like when researchers make a tea from someone’s stool.\nThe biology of sulfur in the human gut has escaped serious attention until recently. Previously it was just thought of as the rotten egg smell in malodorous intestinal gas. But the increase in sulfur compounds in response to a supplement of animal protein is not only of interest in the field of flatology–that is, the formal study of farts–but may also be of importance in the development of ulcerative colitis.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "B Geypens, D Claus, P Evenepoel, M Hiele, B Maes, M Peeters, P Rutgeerts, Y Ghoos. Influence of dietary protein supplements on the formation of bacterial metabolites in the colon. Gut. 1997 Jul;41(1):70-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9274475"
+    },
+    {
+      "Title": "E A Magee, C J Richardson, R Hughes, J H Cummings. Contribution of dietary protein to sulfide production in the large intestine: an in vitro and a controlled feeding study in humans. Am J Clin Nutr. 2000 Dec;72(6):1488-94.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11101476"
+    },
+    {
+      "Title": "E Magee. A nutritional component to inflammatory bowel disease: the contribution of meat to fecal sulfide excretion. Nutrition. 1999 Mar;15(3):244-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10198924"
+    },
+    {
+      "Title": "G J Mantzaris. When can we cure Crohn's? Best Pract Res Clin Gastroenterol. 2014 Jun;28(3):519-29.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24913390"
+    },
+    {
+      "Title": "M A Rieger, A Parlesak, B L Pool-Zobel, G Rechkemmer, C Bode. A diet high in fat and meat but low in dietary fibre increases the genotoxic potential of 'faecal water'. Carcinogenesis. 1999 Dec;20(12):2311-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10590225"
+    },
+    {
+      "Title": "M S Attene-Ramos, E D Wagner, H R Gaskins, M J Plewa. Hydrogen sulfide induces direct radical-associated DNA damage. Mol Cancer Res. 2007 May;5(5):455-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17475672"
+    },
+    {
+      "Title": "P Jantchou, S Morois, F Clavel-Chapelon, M C Boutron-Ruault, F Carbonnel. Animal protein intake and risk of inflammatory bowel disease: The E3N prospective study. Am J Gastroenterol. 2010 Oct;105(10):2195-201.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20461067"
+    },
+    {
+      "Title": "R Shoda, K Matsueda, S Yamato, N Umeda. Epidemiologic analysis of Crohn disease in Japan: increased dietary intake of n-6 polyunsaturated fatty acids and animal protein relates to the increased incidence of Crohn disease in Japan. Am J Clin Nutr. 1996 May;63(5):741-5.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/8615358"
+    },
+    {
+      "Title": "S J O’Keefe. Nutrition and colonic health: the critical role of the microbiota. Curr Opin Gastroenterol. 2008 Jan;24(1):51-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18043233"
+    },
+    {
+      "Title": "V Andersen, A Olsen, F Carbonnel, A Tjonneland, U Vogel. Diet and risk of inflammatory bowel disease. Dig Liver Dis. 2012 Mar;44(3):185-94.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22055893"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Pacific Northwest National Laboratory via Flickr.",
+  "Topics": [
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "bile acids",
+      "Url": "https://nutritionfacts.org/topics/bile-acids/"
+    },
+    {
+      "Title": "butyrate",
+      "Url": "https://nutritionfacts.org/topics/butyrate/"
+    },
+    {
+      "Title": "colon health",
+      "Url": "https://nutritionfacts.org/topics/colon-health/"
+    },
+    {
+      "Title": "Crohn's disease",
+      "Url": "https://nutritionfacts.org/topics/crohns-disease/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fecal bacteria",
+      "Url": "https://nutritionfacts.org/topics/fecal-bacteria/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "flatulence",
+      "Url": "https://nutritionfacts.org/topics/flatulence/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "inflammatory bowel disease",
+      "Url": "https://nutritionfacts.org/topics/inflammatory-bowel-disease/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "short-chain fatty acids",
+      "Url": "https://nutritionfacts.org/topics/short-chain-fatty-acids/"
+    },
+    {
+      "Title": "ulcerative colitis",
+      "Url": "https://nutritionfacts.org/topics/ulcerative-colitis/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For the other major inflammatory bowel disease, Crohn’s, I’ve got <a href=\"https://nutritionfacts.org/video/achieving-remission-of-crohns-disease/\">Dietary Treatment of Crohn’s Disease</a> and <a href=\"https://nutritionfacts.org/video/preventing-crohns-disease-with-diet/\">Preventing Crohn’s Disease With Diet</a>.</p>\n<p>There is so much new amazing science about our <a href=\"https://nutritionfacts.org/topics/microbiome/\">microbiome</a> I’ve got another dozen or so videos queued up on the subject—stay tuned! </p>\n<p>2021 Update: I’ve added some more videos on <a href=\"https://nutritionfacts.org/topics/ulcerative-colitis/\">ulcerative colitis</a> and <a href=\"https://nutritionfacts.org/topics/crohns-disease/\">Crohn’s disease</a>. Click the links to see them all. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

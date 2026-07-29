@@ -1,0 +1,111 @@
+{
+  "Title": "Disclosing Conflicts of Interest in Medical Research",
+  "Url": "https://nutritionfacts.org/video/disclosing-conflicts-interest-medical-research/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/V9kH2iNJ3Fg"
+  },
+  "UpdatedAt": "2016-08-26T12:00:32+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 32",
+    "Url": "https://nutritionfacts.org/volumes/volume-32/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Billions in fines for bribery and suppressing data may just be the cost of doing business for drug companies, but surely doctors themselves must have more integrity, right?",
+  "Transcript": "One of the critical questions to ask when reading a medical journal article is: Who funded the study? In most journals, researchers are required to identify their sources of funding. So, what’s the problem? Well, researchers can obscure the true origin of financial support—they can hide it, disguise it, or even launder the money through a front group. Case in point: a study downplaying the risks of lung cancer, funded in part by the Foundation for Lung Cancer: Early Detection, Prevention, and Treatment. That doesn’t sound so bad, until you realize it’s underwritten by millions from a tobacco company. See, there’s no obligation to disclose a funding source’s source of funding. This allows companies to evade financial disclosure requirements, and makes it harder to follow the money trail.\nWhy does the funding source matter? Every single one of eight reviews, covering over a thousand studies, found that research funded by industry is more likely to make conclusions that are favorable to industry. For example, why do some review articles on the health effects of secondhand smoke reach different conclusions than others? The only factor was whether an author was affiliated with the tobacco industry. This is a disturbing finding. It suggests that, far from conflict of interest being unimportant in the objective and pure world of science, it may be the main factor determining the result of many studies.\nNot that you’d even know, because 77% of authors failed to disclose the sources of funding. And that’s another problem—the responsibility to disclose funding sources is left entirely up to the authors. So, how many researchers divulge the truth?\nEvidently, a law was passed in Denmark requiring physicians to register any time they worked with industry, which allowed researchers to cross-reference the studies they published to see how honest they were. And 48% of the time, the conflicts of interest were not disclosed, reinforcing the perception that physicians simply don’t take conflict of interest seriously—or at least Danish physicians.\nWhat about the U.S.? We didn’t know, until this study was published. Historically, there’s been no means of confirmation or verification when an American doctor said they had no conflict of interest. But then, in 2007, hip and knee replacement companies were forced to pay hundreds of millions of dollars in fines for giving orthopedic surgeons illegal kickbacks. Many orthopedic surgeons made decisions predicated on how much money they could make, choosing which device to implant by going to the highest bidder. “We expect doctors to make decisions based on what is in the best interests of their patients,” said the Department of Justice, “not the best interests of their bank accounts.” And part of the settlement was that they would have to make public all the payments they made to physicians. The release of those records offered a rare opportunity to see if physicians were telling the truth on disclosure forms. And, lo and behold, more than half of payments were not disclosed, totaling millions of dollars.\n Now, this was for surgeons and medical device companies. What about doctors and drug companies? The same thing happened where drug companies were forced to disclose who they were paying off. They looked at the publications of the doctors that got the most money—at least 100 grand. And they were worse than the surgeons. In 69% of the cases, they failed to disclose their industry ties. The problem is that we just assume researchers are going to be honest and tell the truth, but these findings suggest that the accuracy and completeness of conflict-of-interest disclosures cannot be assumed. So, even when a paper says no conflict of interest, who knows if it’s really true?\n Long-time editor-in-chief of the New England Journal of Medicine wrote a scathing piece on drug companies and doctors who failed to disclose hundreds of thousands of dollars from drug companies like GlaxoSmithKline, which has been fined literally billions of dollars for things like bribes and suppressing data. When they got results that were commercially unacceptable, they just buried them. Billions in fines, but for drug companies, that may just be the cost of doing business. As reprehensible as many drug industry practices are, the medical profession may be even more culpable—I mean, you expect drug companies to prioritize the bottom line, but maybe we should expect more from the healing profession.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "C J Christie. Five Companies in Hip and Knee Replacement Industry Avoid Prosecution by Agreeing to Compliance Rules and Monitoring.",
+      "Url": "https://www.justice.gov/sites/default/files/usao-nj/legacy/2013/11/29/hips0927.rel.pdf"
+    },
+    {
+      "Title": "D B Resnik.Perspective: Disclosing hidden sources of funding.  Acad Med. 2009 Sep;84(9):1226-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19707061"
+    },
+    {
+      "Title": "D E Barnes, L A Bero. Why review articles on the health effects of passive smoking reach different conclusions. JAMA. 1998 May 20;279(19):1566-70.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9605902"
+    },
+    {
+      "Title": "International Early Lung Cancer Action Program Investigators, C I Henschke, D F Yankelevitz, D M Libby, M W Pasmantier, J P Smith, O S Miettinen. Survival of patients with stage I lung cancer detected on CT screening. N Engl J Med. 2006 Oct 26;355(17):1763-71.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17065637"
+    },
+    {
+      "Title": "J E Bekelman, Y Li, C P Gross. Scope and impact of financial conflicts of interest in biomedical research: a systematic review. JAMA. 2003 Jan 22-29;289(4):454-65.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/12533125"
+    },
+    {
+      "Title": "J P Kassirer. Commentary: Disclosure's failings: what is the alternative? Acad Med. 2009 Sep;84(9):1180-1.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19707054"
+    },
+    {
+      "Title": "K Okike, M S Kocher, E X Wei, C T Mehlman, M Bhandari. Accuracy of conflict-of-interest disclosures reported by physicians. N Engl J Med. 2009 Oct 8;361(15):1466-74.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19812403"
+    },
+    {
+      "Title": "L Rosenbaum. Conflicts of interest: part 1: Reconnecting the dots--reinterpreting industry-physician relations. N Engl J Med. 2015 May 7;372(19):1860-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25946288"
+    },
+    {
+      "Title": "M Angell. Drug Companies & Doctors: A Story of Corruption. The New York Review of Books, 2009 Jan 15.",
+      "Url": "http://www.nybooks.com/articles/2009/01/15/drug-companies-doctorsa-story-of-corruption"
+    },
+    {
+      "Title": "R S Schwartz, G D Curfman, S Morrissey, J M Drazen. Full disclosure and the funding of biomedical research. N Engl J Med. 2008 Apr 24;358(17):1850-1.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18385491"
+    },
+    {
+      "Title": "R Smith. Conflicts of interest: how money clouds objectivity. J R Soc Med. 2006 Jun;99(6):292-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16738371"
+    },
+    {
+      "Title": "S L Norris, H K Holmer, L A Ogden, B U Burda, R Fu. Characteristics of physicians receiving large payments from pharmaceutical companies and the accuracy of their disclosures in publications: an observational study. BMC Med Ethics. 2012 Sep 26;13:24.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23013260"
+    },
+    {
+      "Title": "T Rowe. Less than the truth. J Obstet Gynaecol Can. 2013 Nov;35(11):971-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24246393"
+    },
+    {
+      "Title": "W F Miser. Finding truth from the medical literature: how to critically evaluate an article. Prim Care. 2006 Dec;33(4):839-62, vi.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17169670"
+    },
+    {
+      "Title": "W Kondro, B Sibbald. Drug company experts advised staff to withhold data about SSRI use in children. CMAJ. 2004 Mar 2;170(5):783.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14993169"
+    }
+  ],
+  "Acknowledgements": "Image thanks to David Pearson via flickr.",
+  "Topics": [
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "lifestyle medicine",
+      "Url": "https://nutritionfacts.org/topics/lifestyle-medicine/"
+    },
+    {
+      "Title": "medical education",
+      "Url": "https://nutritionfacts.org/topics/medical-education/"
+    },
+    {
+      "Title": "medical profession",
+      "Url": "https://nutritionfacts.org/topics/medical-profession/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What else might your doctor not be telling you? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/physicians-may-be-missing-their-most-important-tool/\">Physicians May Be Missing Their Most Important Tool</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-doctors-responded-to-being-named-a-leading-killer/\">How Doctors Responded to Being Named a Leading Killer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/optimal-diet-just-give-it-to-me-straight-doc/\">Optimal Diet: Just Give It to Me Straight, Doc</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-we-all-get-colonoscopies-starting-at-age-50/\">Should We All Get Colonoscopies Starting at Age 50?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/find-out-if-your-doctor-takes-drug-company-money/\">Find Out If Your Doctor Takes Drug Company Money</a></li>\n<li><a href=\"https://nutritionfacts.org/video/mammogram-recommendations-why-the-conflicting-guidelines/\">Mammogram Recommendations: Why the Conflicting Guidelines?</a></li>\n</ul>\n<p>Good examples of conflicts of interest include:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/american-medical-association-complicity-big-tobacco/\">American Medical Association Complicity with Big Tobacco</a></li>\n<li><a href=\"https://nutritionfacts.org/video/sprinkling-doubt-taking-sodium-skeptics-with-a-pinch-of-salt/\">Sprinkling Doubt: Taking Sodium Skeptics with a Pinch of Salt</a></li>\n<li><a href=\"https://nutritionfacts.org/video/evidence-based-nutrition/\">Evidence-Based Nutrition</a></li>\n<li><a href=\"https://nutritionfacts.org/video/big-sugar-takes-on-the-world-health-organization/\">Big Sugar Takes on the World Health Organization</a></li>\n</ul>\n<p>Instead of just disclosing conflicts of interest, how about getting rid of them? That’s the subject of my video <a href=\"https://nutritionfacts.org/video/eliminating-conflicts-of-interest-in-medical-research/\">Eliminating Conflicts of Interest in Medical Research</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

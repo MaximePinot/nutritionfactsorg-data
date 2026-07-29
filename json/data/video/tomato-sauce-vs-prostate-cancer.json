@@ -1,0 +1,171 @@
+{
+  "Title": "Tomato Sauce vs. Prostate Cancer",
+  "Url": "https://nutritionfacts.org/video/tomato-sauce-vs-prostate-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/imsMWBXmd7A"
+  },
+  "UpdatedAt": "2017-11-03T11:40:32+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 38",
+    "Url": "https://nutritionfacts.org/volumes/volume-38/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What happened when cancer patients were given three quarters of a cup of canned tomato sauce every day for three weeks?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Occasionally,… positive things happen in the field of cancer prevention science to popular, good-tasting foods.” Yes, broccoli family vegetables are wonderful, but may be “a hard food for the public to swallow.” By contrast, who doesn’t like tomatoes?\nBut, studies using high-dose supplements of lycopene, the antioxidant red pigment in tomatoes thought to be the active anticancer ingredient, failed over and over again to prevent or treat cancer, and may even end up promoting it—since at the high levels one can get with supplements, lycopene may actually act as a pro-oxidant. But, lycopene in supplement form doesn’t appear to be effective at lower doses, either. “There is a strong [protective] correlation between the intake of [actual whole] fruit[s] and vegetables and the incidence of certain cancers.” But when we supplement with only a single compound isolated in pill form, we may upset the healthy natural balance of antioxidants.\nIt does seem to be quite the human hubris to think we can reproduce “the beneficial effects of consuming entire fruits and vegetables” by giving supplements of a single phytochemical, which would normally interact with thousands of other compounds in “the natural matrix” Mother Nature intended. In addition to lycopene, other carotenoids in tomatoes include beta-carotene, gamma-carotene, zeta-carotene, phytofluene, and phytoene, all of which are known “to accumulate in human prostate tissue.” And, “there are also numerous non–carotenoid compounds in tomatoes that [may] have [anti-cancer] activity”—not to mention all the compounds we have yet to even characterize.\nBut, it’s not about finding the one magic bullet: “The anti-cancer effects of carotenoids and other phytonutrients may reside in [their] combined activity.” For example, at the low concentrations of the tomato compounds phytoene, phytofluene, and lycopene found in most people who eat normal amounts of tomatoes, there’s very little effect on cancer cell growth in vitro, used separately. But combine them all together, and a non-effective dose plus a non-effective dose becomes effective somehow, significantly suppressing prostate cancer cell growth.\nAnd, the same synergy can be seen across foods. Curcumin, the yellow pigment in turmeric and curry powder, tomato extracts, and the vitamin E found in nuts and seeds do little to inhibit pro-growth signaling of prostate cancer cells—less than 10%. But all three together suppresses growth signaling like 70%. The whole is greater than the sum of its parts.\nSo, how about instead of giving cancer patients lycopene pills, we give them some tomato sauce? “Thirty-two patients with localized prostate [cancer]” were given three-quarters of a cup of canned tomato sauce every day “for 3 weeks…before their scheduled radical prostatectomy.” In their bloodstream, PSA levels dropped “by 17.5%.” PSA, prostate-specific antigen, is a protein produced by prostate gland cells, and elevated blood levels are routinely used “to monitor the success of [cancer] treatment. It was surprising to find that,” in just three weeks, a “tomato sauce-based dietary intervention” could decrease PSA concentrations in men with prostate cancer. Also, free radical damage of the DNA in their white blood cells dropped by 21%. Imagine how antioxidant-poor their diet must have been beforehand, if less than a cup of tomato sauce a day could reduce DNA damage by more than a fifth.\nOkay, but what did they find in their prostates? “[H]uman prostate tissue [is thought to] be particularly vulnerable to oxidative DNA damage by free radicals, which are thought to play a critical role in all stages of [cancer formation].” This may be for a number of reasons, including “fewer DNA repair enzymes.” Well, the researchers had tissue samples taken before the tomato sauce from biopsies, and tissue samples after the three weeks of tomato sauce from the surgery, and resected tissues from tomato sauce-supplemented patients had 28% less free radical damage than expected. Here’s the DNA damage in the prostate before the tomato sauce, and here’s after. Just 20 days of sauce. And, what’s interesting is that “[t]here was no association between” the level of lycopene in the prostate and the protective effects. Tomatoes contain a whole bunch of things, some of which may be even more powerful than lycopene.\nRegardless, in contrast to the lycopene supplements alone, “the whole-food intervention” seemed to help. To see if lycopene played any role at all, one would have to test a lycopene-free tomato—in other words, a yellow tomato. So, what if you compared red tomatoes to yellow tomatoes, which have all the non-lycopene tomato compounds, to straight lycopene in a pill? So, they fed people red tomato paste, yellow tomato paste, lycopene pills, or placebo pills, and then dripped their blood on prostate cancer cells growing in a petri dish.\nCompared to those not eating anything, the red tomato serum, the blood from those who ate red tomato paste, significantly decreased the prostate cancer cell’s expression of a growth-promoting gene called cyclin D1. This downregulation of the gene by the red tomato consumption “may contribute to lower prostate cancer risk by limiting cell proliferation.” The red tomato seemed to work better than the yellow; so, maybe the lycopene helped, but not in pill form. “[T]his gene was not regulated by [the lycopene-pill serum],” indicating that maybe it’s something else. And, lycopene alone significantly upregulated “procarcinogenic genes. Therefore, it can be stated that tomato consumption may be preferable.”\nSo, what’s the best way? A spouse wrote in to the editor of the Harvard Men’s Health Watch saying his or her husband “wants to have pizza…for his prostate”—to which the doctor replied, fine, but how about “cheese-free pizza (with broccoli instead of pepperoni)”, or, he can just drink some “tomato juice.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bowen P, Chen L, Stacewicz-Sapuntzakis M, Duncan C, Sharifi R, Ghosh L, Kim HS, Christov-Tzelkov K, van Breemen R. Tomato sauce supplementation and prostate cancer: lycopene accumulation and modulation of biomarkers of carcinogenesis. Exp Biol Med (Maywood). 2002 Nov;227(10):886-93.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12424330"
+    },
+    {
+      "Title": "Chen L, Stacewicz-Sapuntzakis M, Duncan C, Sharifi R, Ghosh L, van Breemen R, Ashton D, Bowen PE. Oxidative DNA damage in prostate cancer patients consuming tomato sauce-based entrees as a whole-food intervention. J Natl Cancer Inst. 2001 Dec 19;93(24):1872-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11752012"
+    },
+    {
+      "Title": "Craig WJ. Phytochemicals: guardians of our health. J Am Diet Assoc. 1997 Oct;97(10 Suppl 2):S199-204.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9336591"
+    },
+    {
+      "Title": "Gann PH, Khachik F. Tomatoes or lycopene versus prostate cancer: is evolution anti-reductionist? J Natl Cancer Inst. 2003 Nov 5;95(21):1563-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/14600081"
+    },
+    {
+      "Title": "Gontero P, Marra G, Soria F, Oderda M, Zitella A, Baratta F, Chiorino G, Gregnanin I, Daniele L, Cattel L, Frea B, Brusa P. A randomized double-blind placebo controlled phase I-II study on clinical and molecular effects of dietary supplements in men with precancerous prostatic lesions. Chemoprevention or \"chemopromotion\"? Prostate. 2015 Aug 1;75(11):1177-86.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25893930"
+    },
+    {
+      "Title": "Kumar NB, Besterman-Dahan K, Kang L, Pow-Sang J, Xu P, Allen K, Riccardi D, Krischer JP. Results of a Randomized Clinical Trial of the Action of Several Doses of Lycopene in Localized Prostate Cancer: Administration Prior to Radical Prostatectomy. Clin Med Urol. 2008 Apr 16;1:1-14.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20354574"
+    },
+    {
+      "Title": "Linnewiel-Hermoni K, Khanin M, Danilenko M, Zango G, Amosi Y, Levy J, Sharoni Y. The anti-cancer effects of carotenoids and other phytonutrients resides in their combined activity. Arch Biochem Biophys. 2015 Apr 15;572:28-35.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25711533"
+    },
+    {
+      "Title": "Lowe GM, Booth LA, Young AJ, Bilton RF. Lycopene and beta-carotene protect against oxidative damage in HT29 cells at low concentrations but rapidly lose this capacity at higher doses. Free Radic Res. 1999 Feb;30(2):141-51.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10193582"
+    },
+    {
+      "Title": "Sapone A, Canistro D, Melega S, Moles R, Vivarelli F, Paolini M. On enzyme-based anticancer molecular dietary manipulations. J Biomed Biotechnol. 2012;2012:790987.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23049243"
+    },
+    {
+      "Title": "Sporn MB, Liby KT. Is lycopene an effective agent for preventing prostate cancer? Cancer Prev Res (Phila). 2013 May;6(5):384-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23483003"
+    },
+    {
+      "Title": "Talvas J, Caris-Veyrat C, Guy L, Rambeau M, Lyan B, Minet-Quinard R, Lobaccaro JM, Vasson MP, Georgé S, Mazur A, Rock E. Differential effects of lycopene consumed in tomato paste and lycopene in the form of a purified extract on target genes of cancer prostatic cells. Am J Clin Nutr. 2010 Jun;91(6):1716-24.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20392890"
+    }
+  ],
+  "Acknowledgements": "Icons created by Aetem Kovyazin, and Alina Oleynik from The Noun Project.\nImage credit: Daniel Means. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "beta carotene",
+      "Url": "https://nutritionfacts.org/topics/beta-carotene/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cheese",
+      "Url": "https://nutritionfacts.org/topics/cheese/"
+    },
+    {
+      "Title": "curcumin",
+      "Url": "https://nutritionfacts.org/topics/curcumin/"
+    },
+    {
+      "Title": "curry powder",
+      "Url": "https://nutritionfacts.org/topics/curry-powder/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "lycopene",
+      "Url": "https://nutritionfacts.org/topics/lycopene/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "pizza",
+      "Url": "https://nutritionfacts.org/topics/pizza/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "reductionism",
+      "Url": "https://nutritionfacts.org/topics/reductionism/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "tomato juice",
+      "Url": "https://nutritionfacts.org/topics/tomato-juice/"
+    },
+    {
+      "Title": "tomato sauce",
+      "Url": "https://nutritionfacts.org/topics/tomato-sauce/"
+    },
+    {
+      "Title": "tomatoes",
+      "Url": "https://nutritionfacts.org/topics/tomatoes/"
+    },
+    {
+      "Title": "turmeric",
+      "Url": "https://nutritionfacts.org/topics/turmeric/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vitamin E",
+      "Url": "https://nutritionfacts.org/topics/vitamin-e/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Why eat tomato sauce when you can just take lycopene supplements? See my last video, <a href=\"https://nutritionfacts.org/video/lycopene-supplements-vs-prostate-cancer/\">Lycopene Supplements vs. Prostate Cancer</a>.</p>\n<p>Are there any foods we should avoid? Check out, for example, <a href=\"https://nutritionfacts.org/video/prostate-cancer-survival-the-av-ratio/\">Prostate Cancer Survival: The A/V Ratio</a> and <a href=\"https://nutritionfacts.org/video/how-our-gut-bacteria-can-use-eggs-to-accelerate-cancer/\">How Our Gut Bacteria Can Use Eggs to Accelerate Cancer</a>.</p>\n<p>We may be able to prevent cancer and even reverse the progression of cancer with diet. See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/cancer-reversal-through-diet/\">Cancer Reversal Through Diet?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/from-table-to-able/\">From Table to Able: Combating Disabling Diseases with Food</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-advanced-prostate-cancer-with-diet-part-1/\">Treating Advanced Prostate Cancer with Diet: Part 1</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-advanced-prostate-cancer-with-diet-part-2/\">Treating Advanced Prostate Cancer with Diet: Part 2</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-not-to-die-from-cancer/\">How Not to Die from Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-impacts-of-plant-based-diets-on-breast-cancer-and-prostate-cancer/\">The Impacts of Plant-Based Diets on Breast Cancer and Prostate Cancer</a></li>\n</ul>\n<p>It isn’t always easy to get guys to change, though. See <a href=\"https://nutritionfacts.org/video/changing-mans-diet-prostate-cancer-diagnosis/\">Changing a Man’s Diet After a Prostate Cancer Diagnosis</a>.</p>\n<p>Get a dose of tomato sauce with my <a href=\"https://nutritionfacts.org/recipe/roasted-vegetable-lasagna/\">Roasted Vegetable Lasagna</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

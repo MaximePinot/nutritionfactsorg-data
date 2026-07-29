@@ -1,0 +1,107 @@
+{
+  "Title": "Medicinal Mushrooms for Cancer Survival",
+  "Url": "https://nutritionfacts.org/video/medicinal-mushrooms-for-cancer-survival/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/IBA343Cg1ig"
+  },
+  "UpdatedAt": "2021-10-11T11:50:08+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 55",
+    "Url": "https://nutritionfacts.org/volumes/volume-55/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Did the five randomized controlled trials of reishi mushrooms in cancer patients show benefits in terms of tumor response rate, survival time, or quality of life?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nCan mushrooms be medicinal? Mushroom-based products make up a sizable chunk of the $50 billion supplement market. “This proﬁtable trade provides a powerful incentive for companies to test the credulity of their customers and [sadly] unsupported assertions have come to deﬁne the medical mushroom business.” For example, companies that market herbal medicines exploit references to studies on mice to promote their mushroom capsules for treating all kinds of ailments. But, if you haven’t noticed, we’re not mice.\nI mean, it wouldn’t be surprising if mushrooms had some potent properties. After all, fungi are where we got a bunch of drugs, not the least of which is penicillin, also a cholesterol-lowering drug lovastatin, and the powerful immunosuppressant drug cyclosporin. Still don’t think a little mushroom can have pharmacological effects? Don’t forget they can produce some of our most powerful poisons. Some kind of look the part, like the toxic Carolina false morel, all toadstooly and such, but others have more of an angelic look, indeed, literally called the destroying angel (that’s its name), and as little as a teaspoon can cause a painful, lingering death.\nSo anyway, we should have respect for the pharmacological potential of mushrooms, but what can they do that’s good for us? Well, consuming shiitake mushrooms daily improves human immunity. Giving people just one or two dried shiitake mushrooms a day (about the weight equivalent of five to ten fresh ones) for four weeks resulted in an increase in proliferation of gamma-delta T lymphocytes, and doubled the proliferation of natural killer cells. Gamma-delta cells act as a ﬁrst line of immunological defense. And even better, natural killer cells kill cancer, and the shiitake did all this while lowering markers of systemic inflammation.\nOyster mushroom extracts don’t seem to work as well, but what we care about is if mushrooms can actually affect cancer outcomes. Shiitakes haven’t been tried yet, but reishi mushrooms have, after being used as a cancer treatment throughout Asia for centuries.\nReishi mushroom for cancer treatment: What does the science say? A meta-analysis of five randomized controlled trials showed that patients who had been given reishi mushroom supplements along with chemo/radiation were more likely to respond positively compared to just chemo/radiation alone. Although adding a reishi mushroom extract improved tumor response rates, the data failed to demonstrate a signiﬁcant effect on tumor shrinkage when the mushrooms were used alone. So, they aren’t recommended as a single treatment, but rather an adjunct treatment for patients with advanced cancer.\n“Response rate” just means the tumor shrinks. What we care about is whether or not it actually improves survival or quality of life. and we don’t have convincing data suggesting reishi mushroom products improve survival. But those randomized to reishi were found to have a relatively better quality of life; so, that’s a win as far as I’m concerned.\nWhat about other mushrooms? Although whole shiitake mushrooms haven’t been tested yet, there’s a compound that’s extracted from shiitakes called lentinan, which is said to have completely inhibited the growth of a certain kind of sarcoma in mice. But in actuality, it only worked in one single strain of mice, and failed in nine others. So, are we more like the 90 percent of mouse strains in which it didn’t work? We need human trials, and we finally got them. There are data on nearly 10,000 cancer patients who have been treated with the shiitake mushroom extract injected right into their veins. What did the researchers find? We’ll find out next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Culliton BJ. The destroying angel: a story of a search for an antidote. Science. 1974;185(4151):600-1.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17791229/"
+    },
+    {
+      "Title": "Dai X, Stanilka JM, Rowe CA, et al. Consuming Lentinula edodes (Shiitake) Mushrooms Daily Improves Human Immunity: A Randomized Dietary Intervention in Healthy Young Adults. J Am Coll Nutr. 2015;34(6):478-87.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25866155/"
+    },
+    {
+      "Title": "Ivanova TS, Krupodorova TA, Barshteyn VY, Artamonova AB, Shlyakhovenko VA. Anticancer substances of mushroom origin. Exp Oncol. 2014;36(2):58-66.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24980757/"
+    },
+    {
+      "Title": "Jin X, Ruiz Beguerie J, Sze DM, Chan GC. Ganoderma lucidum (Reishi mushroom) for cancer treatment. Cochrane Database Syst Rev. 2012;(6):CD007731.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22696372/"
+    },
+    {
+      "Title": "Lim CS, Chhabra N, Leikin S, Fischbein C, Mueller GM, Nelson ME. Atlas of select poisonous plants and mushrooms. Dis Mon. 2016;62(3):41-66.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26965743/"
+    },
+    {
+      "Title": "Litten W. The most poisonous mushrooms. Sci Am. 1975;232(3):90-101.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1114308/"
+    },
+    {
+      "Title": "Money NP. Are mushrooms medicinal?. Fungal Biol. 2016;120(4):449-53.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27020147/"
+    },
+    {
+      "Title": "Popović V, Živković J, Davidović S, Stevanović M, Stojković D. Mycotherapy of cancer: An update on cytotoxic and antitumor activities of mushrooms, bioactive principles and molecular mechanisms of their action. Curr Top Med Chem. 2013;13(21):2791-806.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24083788/"
+    },
+    {
+      "Title": "Tanaka A, Nishimura M, Sato Y, Sato H, Nishihira J. Enhancement of the Th1-phenotype immune system by the intake of oyster mushroom (Tamogitake) extract in a double-blind, placebo-controlled study. J Tradit Complement Med. 2015;6(4):424-30.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27774430/"
+    },
+    {
+      "Title": "Zhang M, Zhang Y, Zhang L, Tian Q. Mushroom polysaccharide lentinan for treating different types of cancers: A review of 12 years clinical studies in China. Prog Mol Biol Transl Sci. 2019;163:297-328.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31030752/"
+    },
+    {
+      "Title": "Zákány J, Chihara G, Fachet J. Effect of lentinan on tumor growth in murine allogeneic and syngeneic hosts. Int J Cancer. 1980;25(3):371-6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7390659/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "mushrooms",
+      "Url": "https://nutritionfacts.org/topics/mushrooms/"
+    },
+    {
+      "Title": "radiation",
+      "Url": "https://nutritionfacts.org/topics/radiation/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Stay tuned for <a href=\"https://nutritionfacts.org/video/white-button-mushrooms-for-prostate-cancer/\">White Button Mushrooms for Prostate Cancer</a>.</p>\n<p>For more on mushrooms, see <a href=\"https://nutritionfacts.org/video/breast-cancer-vs-mushrooms/\">Breast Cancer vs. Mushrooms</a> and <a href=\"https://nutritionfacts.org/video/is-it-safe-to-eat-raw-mushrooms/\">Is It Safe to Eat Raw Mushrooms?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

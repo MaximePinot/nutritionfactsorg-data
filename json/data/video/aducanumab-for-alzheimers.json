@@ -1,0 +1,143 @@
+{
+  "Title": "Controversy Around FDA’s Approval of Biogen Alzheimer’s Drug, Aducanumab",
+  "Url": "https://nutritionfacts.org/video/aducanumab-for-alzheimers/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/KEf79pYF_ZY"
+  },
+  "UpdatedAt": "2023-10-23T11:50:36+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 63",
+    "Url": "https://nutritionfacts.org/volumes/volume-63/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "I discuss the safety and efficacy of the newest Alzheimer’s drug treatments, aducanumab (Aduhelm) and lecanemab (Leqembi).",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAducanumab, sold as Aduhelm, is the first new drug approved for Alzheimer’s treatment in nearly 20 years. It involves getting IV infusions of an antibody that targets the amyloid plaque protein, which represents a core brain pathology of the disease. After a phase 1 study found no change in the placebo group, but a dramatic reduction in amyloid plaque burden at different doses of the drug, they jumped straight to phase 3: two randomized controlled trials to put it to the test on thousands of Alzheimer’s patients. Unfortunately, both trials were stopped early after a “futility analysis” deemed them failures, as cognition and function continued to decline in the treatment groups. That shouldn’t be surprising, since over the last 20 years there have been more than 20 amyloid-targeting therapies that have universally failed to offer meaningful cognitive beneﬁt for people with Alzheimer’s disease. In fact, a 2022 investigation into a seminal paper implicating amyloid as a causal factor in Alzheimer’s alleged “shockingly blatant” data fraud, which has further tarnished the reputation of the amyloid theory. So, it’s no surprise Aduhelm flopped; but what happened next was surprising indeed.\nJust when the drug’s prospects seemed dead, Biogen, the drug company that developed it, launched a secret campaign, code-named “Project Onyx,” to use back channels to convince the Food and Drug Administration (FDA) to approve it anyway. They went back through the data, and found a subset of patients in one of the trials that had a 0.39 increase on an 18-point scale of cognitive function. This was well below the minimal standard for clinical significance (judged to be at least one or two full points). And the same subset, at the same dose, in the other study they funded, failed to find even that effect. This kind of post-hoc, after-the-fact data dredging is like “firing a shotgun at a barn and then painting a target around the bullet holes”––as one FDA committee statistician put it.\nFDA reviewers thoroughly demolished Biogen’s re-analysis, concluding “there is no compelling substantial evidence of treatment effect or disease slowing … ” The American Academy of Neurology noted that 35 percent of those getting aducanumab suffered swelling or bleeding in the brain within the first four months of treatment; one in three—ten times more than those in the placebo group. So, not surprisingly, not a single member of the FDA expert advisory panel voted in favor of approval (10 out of 11 voted against with one quote-unquote “uncertain”). Yet the FDA ignored its own advisory committee, and in 2021 approved the drug anyway.\nThe FDA admitted the submitted data “left residual uncertainties regarding clinical benefit,” and so couldn’t give it the standard approval, which involves a designation that the drug is safe and effective. Instead, they used an “accelerated approval” pathway that allows drugs to be accepted on the basis of surrogate markers––in this case, amyloid clearance. But more than two dozen other amyloid-targeting treatments flopped. Despite convincing plaque reduction, there were no clinical improvements, or even worsening of the disease.\nThe FDA approval of aducanumab proved to be one of the most controversial in recent memory. The approval, despite near-unanimous opposition by its own expert committee, is virtually unprecedented, leading three of the committee members to resign in protest––one of whom called it “probably the worst drug approval decision in recent US history.” The response from the scientific community may best be summed up by a commentary written by the head of the American Geriatrics Society entitled “My head just exploded …”\nThe FDA did stipulate that Biogen would have to run a “post-marketing” trial proving that the drug actually has some benefit, but has until 2030 to report the results. Meanwhile, Biogen is charging $56,000 per person per year for the drug, with out-of-pocket expenses estimated at up to $11,000 annually. And this doesn’t include the costs of IV administration, or the sequential $4,000 to $7,000 MRI scans needed to monitor for the brain bleeds and swelling.\nYeah, the risks far exceed any likely benefits, but shouldn’t patients and their families be able to make up their own minds? The problem is that the FDA stamp of approval implies aducanumab is safe and effective, when at the current time it appears to be neither. The official position statement of the American Medical Directors Association, which specializes in long-term care facilities, is that the drug is “likely to have extraordinarily negative consequences” for the millions living with dementia in this country. The European equivalent of the FDA does not seem as easily swayed by Big Pharma, recommending refusal of the drug. I mean, that’s the whole point of drug regulation, as one of the former FDA committee members who resigned put it: “a responsibility to help protect vulnerable patients and their families, not just from sketchy drugs but also from false hopes.”\nA congressional investigation concluded FDA approval of aducanumab was “rife with irregularities,” raising “serious concerns about FDA’s lapses in protocol and Biogen’s disregard of efficacy.” Of course, that didn’t stop the FDA from their 2023 accelerated approval of a similar antibody, lecanemab (sold as Lequembi), of similar questionable efficacy and safety.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Alexander GC, Karlawish J. The problem of aducanumab for the treatment of alzheimer disease. Ann Intern Med. 2021;174(9):1303-1304.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34138642/"
+    },
+    {
+      "Title": "Crosson FJ, Covinsky K, Redberg RF. Medicare and the shocking us food and drug administration approval of aducanumab: crisis or opportunity? JAMA Intern Med. 2021;181(10):1278-1280.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34254992/"
+    },
+    {
+      "Title": "FDA Grants Accelerated Approval for Alzheimer’s Disease Treatment. US FDA. Jan 2023.",
+      "Url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-disease-treatment"
+    },
+    {
+      "Title": "Feuerstein A, Herper M, Garde D. Inside “Project Onyx”: How Biogen used an FDA back channel to win approval of its polarizing Alzheimer’s drug. STAT. Jun 2021.",
+      "Url": "https://www.statnews.com/2021/06/29/biogen-fda-alzheimers-drug-approval-aduhelm-project-onyx/"
+    },
+    {
+      "Title": "Fleck LM. Alzheimer’s and aducanumab: unjust profits and false hopes. Hastings Cent Rep. 2021;51(4):9-11.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34156732/"
+    },
+    {
+      "Title": "Jaffe S. US FDA defends approval of Alzheimer’s disease drug. Lancet. 2021;398(10294):12.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34217382/"
+    },
+    {
+      "Title": "Karlawish J. Aducanumab and the business of alzheimer disease-some choice. JAMA Neurol. 2021;78(11):1303-1304.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34410302/"
+    },
+    {
+      "Title": "Lundebjerg NE. My head just exploded, now what? Aducanumab. J Am Geriatr Soc. 2021;69(9):2689-2691.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34227094/"
+    },
+    {
+      "Title": "Mahase E. Aducanumab: European agency rejects Alzheimer’s drug over efficacy and safety concerns. BMJ. 2021;375:n3127.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34930757/"
+    },
+    {
+      "Title": "Moghavem N, Henderson VW, Greicius MD. Medicare should not cover aducanumab as a treatment for alzheimer’s disease. Ann Neurol. 2021;90(3):331-333.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34278596/"
+    },
+    {
+      "Title": "Mullard A. Controversial Alzheimer’s drug approval could affect other diseases. Nature. 2021;595(7866):162-163.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34193994/"
+    },
+    {
+      "Title": "Mullard A. Landmark Alzheimer’s drug approval confounds research community. Nature. 2021;594(7863):309-310.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34103732/"
+    },
+    {
+      "Title": "Peripheral and Central Nervous System Drugs Advisory Committee. US FDA. Nov 2020.",
+      "Url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/november-6-2020-meeting-peripheral-and-central-nervous-system-drugs-advisory-committee-meeting"
+    },
+    {
+      "Title": "Perlmutter JS. FDA’s green light, science’s red light. Science. 2021;372(6549):1371.",
+      "Url": "https://www.science.org/doi/10.1126/science.abk0575"
+    },
+    {
+      "Title": "Piller C. Blots on a field? Science. 2022;377(6604):358-363.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35862524/"
+    },
+    {
+      "Title": "Rabinovici GD. Controversy and progress in alzheimer’s disease - fda approval of aducanumab. N Engl J Med. 2021;385(9):771-774.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34320284/"
+    },
+    {
+      "Title": "Reardon S. FDA approves Alzheimer’s drug lecanemab amid safety concerns. Nature. 2023;613(7943):227-228.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36627422/"
+    },
+    {
+      "Title": "Robinson JC. Why is aducanumab priced at $56,000 per patient? Lessons for drug-pricing reform. N Engl J Med. 2021;385(22):2017-2019.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34797614/"
+    },
+    {
+      "Title": "Rubin R. Recently approved alzheimer drug raises questions that might never be answered. JAMA. 2021;326(6):469-472.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34287610/"
+    },
+    {
+      "Title": "Sevigny J, Chiao P, Bussière T, et al. Addendum: The antibody aducanumab reduces Aβ plaques in Alzheimer’s disease. Nature. 2017;546(7659):564.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28640269/"
+    },
+    {
+      "Title": "Walsh S, Merrick R, Richard E, Nurock S, Brayne C. Lecanemab for Alzheimer’s disease. BMJ. 2022;379:o3010.",
+      "Url": "https://www.bmj.com/content/379/bmj.o3010"
+    },
+    {
+      "Title": "Watson LC, Juman R, AMDA Board of Directors. Amda position statement on aducanumab. J Am Med Dir Assoc. 2021;22(9):1777.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34456010/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "Europe",
+      "Url": "https://nutritionfacts.org/topics/europe/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Can Alzheimer’s Disease Be Reversed with a Plant-Based Diet? Check out <a href=\"https://nutritionfacts.org/video/can-alzheimers-disease-be-reversed-with-a-plant-based-diet/\">the video</a>. What does improving the cognition and function of Alzheimer’s patients with lifestyle medicine actually translate to in terms of human impact? See <a href=\"https://nutritionfacts.org/video/a-testimonial-from-dr-ornishs-alzheimers-progression-reversal-study/\">the video</a>.</p>\n<p><span style=\"font-weight: 400\">This is one of the more egregious examples of Big Pharma manipulation. It reminds me of flibanserin (Addyi), the drug marketed for “hypoactive sexual desire disorder” in women. See </span><a href=\"https://nutritionfacts.org/video/are-apples-the-best-food-for-a-better-sex-life-in-women/\"><span style=\"font-weight: 400\">Are Apples the Best Food for a Better Sex Life in Women?</span></a></p>\n<p>You might also be interested in my recent video, <a href=\"https://nutritionfacts.org/video/does-prevagen-really-work/\">Does Prevagen Really Work?</a></p>\n<p><span style=\"font-weight: 400\">For more on how to live your longest, healthiest life, preorder my new book </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">. (As always, all proceeds I receive from all of </span><a href=\"https://nutritionfacts.org/books/\"><span style=\"font-weight: 400\">my books</span></a><span style=\"font-weight: 400\"> are donated to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Title": "Treating Parkinson’s Disease with Velvet Beans (Mucuna pruriens)",
+  "Url": "https://nutritionfacts.org/video/treating-parkinsons-disease-with-velvet-beans-mucuna-pruriens/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Sabstgzfcwg"
+  },
+  "UpdatedAt": "2023-02-06T12:50:11+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 60",
+    "Url": "https://nutritionfacts.org/volumes/volume-60/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Since Parkinson’s is caused by a dopamine deficiency in the brain, what if you ate foods rich in the dopamine precursor levodopa?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: I have several videos on foods that may trigger Parkinson’s disease, but how can diet be used in treatment? This video and the next look at beans for treating this disease.\nTwo centuries have passed since James Parkinson’s Essay on the Shaking Palsy described a disease characterized by tremor and problems with movement. Today, treatment options include surgically implanting electrodes into the brain. There has to be a better way.\nWe’ve known since the 1950s that Parkinson’s disease is manifested by a dopamine deficiency in the brain. Well, then why not eat a dopamine diet? A variety of fruits and vegetables contain the same dopamine made by our brain. Unfortunately, dopamine can’t cross the blood-brain barrier, and hence is ineffective as therapy. However, the dopamine precursor, known as L-dopa or levodopa, can get from the blood up into the brain, where it can then be converted to dopamine within the brain by an enzyme called decarboxylase. We don’t want the levodopa to be converted to dopamine outside the brain, because then it can’t get in. So, we give people a decarboxylase inhibitor, which itself can’t get into the brain; so, that keeps levodopa from prematurely turning into dopamine before it gets into the brain where we need it.\nSo, eating dopamine-rich foods doesn’t help, but what if we ate levodopa-rich foods? More than 1,500 years before Dr. Parkinson came on the scene, an Indian physician seems to have nailed it, and even suggested a treatment—velvet beans, the plant with the highest amount of L-dopa. Hmm; so, might there be a way to forestall the epidemic of Parkinson’s disease through plant-based remedies after all?\nLevodopa is the gold standard therapy for Parkinson’s patients, but most Parkinson’s patients in low-income areas cannot afford long-term daily levodopa therapy. In rural Africa, for example, it is estimated that only 15 percent of patients are treated with levodopa, because the daily cost of levodopa treatment is about a dollar a day, which may be half of what people make in a day. It’s the same with other regions of the Global South. L-dopa is mostly unavailable or unaffordable. So, patients frequently use powdered velvet beans as a replacement or supplement to the drug. \nBut does it work? You never know, until you put it to the test. Velvet beans in Parkinson’s disease: a randomized, double blind clinical study. And…a dose of 30g (which is about three tablespoons) led to reliable and sustained antiparkinsonian effects in all patients, working significantly quicker than the drug; working significantly longer than the drug; and working significantly better than the drug in another double-blind, randomized, head-to-head crossover study.\nThe levodopa in velvet beans appears to be two to three times more potent as compared to the same dose of pill-form levodopa––suspected to be because there may be some intrinsic decarboxylase inhibitor compound in the plant as well. \nOkay, but those were single dose studies. What about the chronic use of velvet beans for Parkinson’s? Fourteen patients with advanced Parkinson’s received roasted velvet bean powder or the standard drug, switching back and forth for months, looking at changes in quality of life, activities of daily living, movement and non-movement symptoms, and time with good mobility without troublesome involuntary writhing movements. The velvet beans seemed to work as well as the drug in all measures of efﬁcacy, including quality of life. Here’s a video you can see someone with Parkinson’s solely treated with velvet bean powder for 14 years, before and after treatment.\nDespite the efficacy, the chances of this cheap herbal remedy ever being licensed seems unlikely—and for good reason. First of all, the stuff evidently tastes nasty. And we don’t really have good data going out more than a few months. While velvet beans may potentially be part of the answer to Parkinson’s disease management in low-income countries, in high-income countries, one may be tempted to prefer them to drugs just because it is a “more natural therapy,” but researchers discourage patients and physicians to consider its use when the drugs are available. So, levodopa in pill form should remain the first-line treatment for Parkinson’s. However, velvet bean powder may be better tolerated in certain patients. Psychologically, some patients just have a thing against taking pills and so, if they refuse, then certainly the beans can step in. But otherwise, velvet bean supplements suffer from the same issues common to all supplements, specifically lack of sufficient regulation and quality control. There are all sorts of brands out there, but there are no head-to-head comparisons as to which is best, and the quality of the products likely vary. But you don’t know, until you put it to the test. \nSix brands of velvet bean products were ordered through the internet and most of them, four out of six, showed a large discrepancy between the claim on their label and the actual L-Dopa content, and only two even came close. The remaining products contained considerably less—less than 10 percent in two cases. Too bad there isn’t a food source of L-dopa that you could just eat instead of taking in a supplement. Well, wait a second. L-dopa was originally discovered more than a century ago in faba beans. Might eating faba beans help with Parkinson’s? I’ll explore just that question next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Ahlskog JE. Parkinson’s disease: medical and surgical treatment. Neurol Clin. 2001;19(3):579-605, vi.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11532645/"
+    },
+    {
+      "Title": "Banjari I, Marček T, Tomić S, Waisundara VY. Forestalling the Epidemics of Parkinson's Disease Through Plant-Based Remedies. Front Nutr. 2018;5:95.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30425989/"
+    },
+    {
+      "Title": "Briguglio M, Dell'Osso B, Panzica G, et al. Dietary Neurotransmitters: A Narrative Review on Current Knowledge. Nutrients. 2018;10(5):591.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29748506/"
+    },
+    {
+      "Title": "Cassani E, Cilia R, Laguna J, et al. Mucuna pruriens for Parkinson's disease: Low-cost preparation method, laboratory measures and pharmacokinetics profile. J Neurol Sci. 2016;365:175-180.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27206902/"
+    },
+    {
+      "Title": "Cilia R, Laguna J, Cassani E, et al. Chronic Mucuna pruriens in Parkinson’s disease: a non-inferiority, randomised, crossover, phase-2b trial. Parkinsonism Relat Disord. 2018;46:e24.",
+      "Url": "https://www.prd-journal.com/article/S1353-8020(17)30502-3/fulltext"
+    },
+    {
+      "Title": "Cilia R, Laguna J, Cassani E, et al. Daily intake of Mucuna pruriens in advanced Parkinson's disease: A 16-week, noninferiority, randomized, crossover, pilot study. Parkinsonism Relat Disord. 2018;49:60-66.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29352722/"
+    },
+    {
+      "Title": "Cilia R, Laguna J, Cassani E, et al. Mucuna pruriens in Parkinson disease: A double-blind, randomized, controlled, crossover study. Neurology. 2017;89(5):432-438.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28679598/"
+    },
+    {
+      "Title": "Del Rey NL, Quiroga-Varela A, Garbayo E, et al. Advances in Parkinson's Disease: 200 Years Later. Front Neuroanat. 2018;12:113.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30618654/"
+    },
+    {
+      "Title": "Denne T. Analysis of Levodopa Content in Commercial Formulations of Mucuna pruriens Seeds Used in Integrative Treatment of Parkinson’s Disease [abstract]. Mov Disord. 2019; 34 (suppl 2).",
+      "Url": "https://www.mdsabstracts.org/abstract/analysis-of-levodopa-content-in-commercial-formulations-of-mucuna-pruriens-seeds-used-in-integrative-treatment-of-parkinsons-disease/"
+    },
+    {
+      "Title": "Fothergill-Misbah N, Maroo H, Cham M, Pezzoli G, Walker R, Cilia R. Could Mucuna pruriens be the answer to Parkinson's disease management in sub-Saharan Africa and other low-income countries worldwide?. Parkinsonism Relat Disord. 2020;73:3-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32179240/"
+    },
+    {
+      "Title": "Hornykiewicz O. The discovery of dopamine deficiency in the parkinsonian brain. J Neural Transm Suppl. 2006;(70):9-15.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17017502/"
+    },
+    {
+      "Title": "Katzenschlager R, Evans A, Manson A, et al. Mucuna pruriens in Parkinson's disease: a double blind clinical and pharmacological study. J Neurol Neurosurg Psychiatry. 2004;75(12):1672-1677.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15548480/"
+    },
+    {
+      "Title": "Lees AJ. Advice for those trying to find a cure for the shaking palsy. Lancet Neurol. 2018;17(1):27-28.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29263002/"
+    },
+    {
+      "Title": "Margolesky J, Shpiner DS, Moore H, Singer C, Jagid J, Luca CC. From Mucuna Pruriens to deep brain stimulation: A two-decade case history. Parkinsonism Relat Disord. 2020;77:26-27.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32604054/"
+    },
+    {
+      "Title": "Merello M. The Dark Side of Globalization: Lack of Universal Levodopa Availability. Mov Disord Clin Pract. 2018;6(1):7-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30746409/"
+    },
+    {
+      "Title": "Rai SN, Birla H, Zahra W, Singh SS, Singh SP. Immunomodulation of Parkinson's disease using Mucuna pruriens (Mp). J Chem Neuroanat. 2017;85:27-35.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28642128/"
+    },
+    {
+      "Title": "Rijntjes M. Knowing Your Beans in Parkinson's Disease: A Critical Assessment of Current Knowledge about Different Beans and Their Compounds in the Treatment of Parkinson's Disease and in Animal Models. Parkinsons Dis. 2019;2019:1349509.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31781363/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "dopamine",
+      "Url": "https://nutritionfacts.org/topics/dopamine/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Stay tuned for the next video, where we look at fava beans: </span><a href=\"https://nutritionfacts.org/video/treating-parkinsons-disease-with-fava-beans-faba-or-broad-beans/\"><span style=\"font-weight: 400\">Treating Parkinson’s Disease with Fava Beans (Faba or Broad Beans)</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">I have plenty more on Parkinson’s disease in videos such as:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/preventing-parkinsons-disease-with-diet/\"><span style=\"font-weight: 400\">Preventing Parkinson’s Disease with Diet</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/treating-parkinsons-disease-with-diet/\"><span style=\"font-weight: 400\">Treating Parkinson’s Disease with Diet</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-role-meat-may-play-in-triggering-parkinsons-disease/\"><span style=\"font-weight: 400\">The Role Meat May Play in Triggering Parkinson’s Disease</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/coffee-put-to-the-test-for-treating-parkinsons-disease/\"><span style=\"font-weight: 400\">Coffee Put to the Test for Treating Parkinson’s Disease</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/low-protein-diets-for-parkinsons-disease/\"><span style=\"font-weight: 400\">Low Protein Diets for Parkinson’s Disease</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

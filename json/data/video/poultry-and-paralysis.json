@@ -1,0 +1,79 @@
+{
+  "Title": "Poultry and Paralysis",
+  "Url": "https://nutritionfacts.org/video/poultry-and-paralysis/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/FtzKpA07KFM"
+  },
+  "UpdatedAt": "2012-04-13T12:00:56+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 8",
+    "Url": "https://nutritionfacts.org/volumes/volume-8/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A neuropathic strain of the fecal bacteria Campylobacter, found in poultry, can trigger Guillain-Barré syndrome, a rapid and life-threatening paralysis.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThere is one neurological condition definitively caused by an infectious agent in poultry: Guillain-Barré syndrome. Also known as acute inflammatory demyelinating polyneuropathy, which is as bad as it sounds, it’s a brutally rapid, life-threatening autoimmune attack on your nervous system. It’s like MS in fast forward, where instead of taking years, you can end up paralyzed, on a ventilator, in a matter of days. Why would our immune systems do such a thing?\nIt didn’t mean to; it had the best of intentions. There is a neuropathic strain of a fecal bacteria, called Campylobacter, contaminating the U.S. chicken supply. If you get exposed and infected, 999 times out of 1,000, you just get sick; food poisoning. No problem, your immune system wipes out the invaders, and in a couple days, you’re as good as new. But in 1 in 1,000 cases, our immune system makes an honest mistake.\nThis is what your nerve cells look like on the outside, on a molecular level. This is what Campylobacter looks like on the outside. Your immune system detects the bacteria, rides in guns a-blazin’, take no prisoners. And your nerves end up a victim of friendly fire.\nYour first symptom is what’s called ascending paralysis. Weakness starts in the hands and feet, and works its way up. In many cases it happens within hours. Within days you can’t walk, then you can’t swallow, then you can’t breathe. In which case you’re dead—unless you can get to an ICU with a mechanical ventilator, in which case, after about two weeks, something amazing happens.\nYour immune system steps back from the fight, surveys the damage, and says, uh oh. And it stops, and you come back to life. Now sometimes, it’s too late, and you end up with severe lifelong disability. Or you don’t even make it that far—it kills people even in the best ICUs in the world.\nThe bottom line is that now that polio is largely a thing of the past, the most common cause of acute paralysis in the United States is, ultimately, chicken consumption.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Hardy TA, Blum S, McCombe PA, Reddel SW. Guillain-barré syndrome: modern theories of etiology. Curr Allergy Asthma Rep. 2011 Jun;11(3):197-204.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21451970"
+    },
+    {
+      "Title": "Nachamkin I, Allos BM, Ho T. Campylobacter Species and Guillain-Barré Syndrome. Clin Microbiol Rev. 1998 Jul;11(3):555-67.",
+      "Url": "http://cmr.asm.org/content/11/3/555.full.pdf+html"
+    },
+    {
+      "Title": "Shahrizaila N, Yuki N. Guillain-Barre Syndrome Animal Model: The First Proof of ´ Molecular Mimicry in Human Autoimmune Disorder. J Biomed Biotechnol. 2011;2011:829129.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3010740/pdf/JBB2011-829129.pdf"
+    },
+    {
+      "Title": "Tam CC, Rodrigues LC, Petersen I, Islam A, Hayward A, O'Brien SJ. Incidence of Guillain-Barre´ Syndrome among Patients with Campylobacter Infection: A General Practice Research Database Study. J Infect Dis. 2006 Jul 1;194(1):95-7.",
+      "Url": "http://jid.oxfordjournals.org/content/194/1/95.full.pdf+html"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Medlat, National Cancer Institute, Flip Schulke, De Wood, MrArifnajafov via Wikimedia Commons, and Gino.",
+  "Topics": [
+    {
+      "Title": "autoimmune diseases",
+      "Url": "https://nutritionfacts.org/topics/autoimmune-diseases/"
+    },
+    {
+      "Title": "Campylobacter",
+      "Url": "https://nutritionfacts.org/topics/campylobacter/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "fecal contamination",
+      "Url": "https://nutritionfacts.org/topics/fecal-contamination/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "Guillain-Barré syndrome",
+      "Url": "https://nutritionfacts.org/topics/guillain-barre-syndrome/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>How common is fecal contamination of retail chicken? See <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=656\" rel=\"nofollow\">Fecal Residues on Chicken</a>, and for meat in general, see my video <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=863\" rel=\"nofollow\">Fecal Bacteria Survey</a>. And for a discussion of other neurological conditions that may be linked to poultry consumption, see <a href=\"https://nutritionfacts.org/video/poultry-exposure-and-neurological-disease/\" rel=\"nofollow\">Poultry Exposure &amp; Neurological Disease</a>.</p>\n<p>Be sure to check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/08/02/adding-fda-approved-viruses-to-meat/\" rel=\"nofollow\">Adding FDA-Approved Viruses to Meat</a>; <a href=\"https://nutritionfacts.org/2013/04/09/gerson-therapy-for-cancer/\">Gerson Therapy for Cancer?</a>; and <a href=\"https://nutritionfacts.org/2013/04/25/bugs-drugs-in-pork-yersinia-and-ractopamine/\">Bugs &amp; Drugs in Pork: Yersinia &amp; Ractopamine</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

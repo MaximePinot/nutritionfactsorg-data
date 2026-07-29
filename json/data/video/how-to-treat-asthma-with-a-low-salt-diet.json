@@ -1,0 +1,111 @@
+{
+  "Title": "How to Treat Asthma with a Low-Salt Diet",
+  "Url": "https://nutritionfacts.org/video/how-to-treat-asthma-with-a-low-salt-diet/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/kttf4jJqVNU"
+  },
+  "UpdatedAt": "2017-03-29T12:00:15+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 35",
+    "Url": "https://nutritionfacts.org/volumes/volume-35/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Cutting two teaspoons of salt’s worth of sodium from one’s daily diet can significantly improve lung function in asthmatics.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn the 60s and 70s, a mystery was emerging. Why were childhood asthma rates in the developed world between 2 and 5%, but in the developing world as low as 0.007%? So, instead of 1 in 20 kids affected, or 1 in 50 kids, it could be more like 1 in 10,000 kids—extremely rare. And, when they moved from a low-risk area to a high-risk area, their risk went up. So, it wasn’t genetic. What was going on? Were they exposed to something new? Or, did they leave some protective factor behind?\nWell, way back in 1938, scientists showed they could stop asthma attacks by lowering children’s sodium levels. But, this was done with a diuretic drug, but subsequent dietary experiments showed that diets high in salt seemed to increase asthmatic symptoms, and “lowering the salt [seemed to decrease] asthmatic symptoms.” But, this body of evidence was apparently forgotten—until it was picked up again, in the 1980s, as a possible explanation for why Western countries had higher asthma rates. Maybe, it was the salt.\nThey graphed out childhood death from asthma versus family salt purchases, and it seemed more salt meant more death. But, just because a family buys more salt doesn’t necessarily mean the kids are eating more. The way you find out how much salt someone is actually eating is you collect their urine over a 24-hour period, and measure the amount of sodium—since how much salt we eat is pretty much how much salt we excrete.\nThe way you test for asthma is called a bronchial challenge test, where you look for an exaggerated response to an inhaled chemical. And, indeed, there was a strong correlation between how their lungs reacted, and how much sodium they were taking in. But look, there’s all sorts of food additives, like preservatives, that can trigger these so-called “hypersensitivity reactions.” And so, maybe, high sodium intake was just a marker for high processed-food intake. Maybe, it wasn’t the salt at all.\nOr, maybe, it was other components of the diet. For example, the reason sodium may be a risk factor for another inflammatory disease—rheumatoid arthritis—may be that sodium intake is just a marker for increased meat and fish intake, or decreased fruit and vegetable intake. What we needed was a study where they take asthmatics, change the amount of salt in their diets, and see what happens. And so, that’s what came next.\nTake ten asthmatics, double their salt intake, and in nine out of ten, their lung sensitivity worsened. No control group though. Maybe they would have all gotten worse anyway? Which brings us to the 90s—a “randomised, double blind, placebo controlled” trial. Put everyone on a low-salt diet, but then, give half of them these sustained-release sodium pills to bring their salt intake back up to more of a normal intake. The other half gets placebo. You try that for five weeks, and then, you switch them around for another five weeks. That’s how you can randomize people to a true low-sodium diet without them even realizing it—genius! So, what happened?\nAsthmatics on the salt got worse. Their lung function got worse, their asthma symptoms got worse, and they had to take more puffs on their inhalers. This is comparing asthmatics consuming about three teaspoons worth of salt a day, to those consuming less than one. So, they were effectively able to drop their sodium intake two teaspoons of salt worth. If you do a more pragmatic trial, and only effectively reduce people’s salt intake by a half-teaspoon a day, it doesn’t work.\nEven if you are able to cut your sodium down enough to get a therapeutic effect, though, it should be considered an adjunct treatment. Do not stop your asthma medications without your doctor’s approval.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Binger KJ, Linker RA, Muller DN, Kleinewietfeld M. Sodium chloride, SGK1, and Th17 activation. Pflugers Arch. 2015 Mar;467(3):543-50.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25471348"
+    },
+    {
+      "Title": "Burney P. A diet rich in sodium may potentiate asthma. Epidemiologic evidence for a new hypothesis. Chest. 1987 Jun;91(6 Suppl):143S-148S.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/3581956"
+    },
+    {
+      "Title": "Burney PGJ, Britton JR, Chinn S, Tattersfield AE, Platt HS, Papacosta AO, Kelson MC. Response to inhaled histamine and 24 hour sodium excretion. Br Med J (Clin Res Ed). 1986 Jun 7;292(6534):1483-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/3087486"
+    },
+    {
+      "Title": "Carey OJ, Locke C, Cookson JB. Effect of alterations of dietary sodium on the severity of asthma in men. Thorax. 1993 Jul;48(7):714-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8153919"
+    },
+    {
+      "Title": "Cook MM, Stoesser AV. Influence of Induced Variations in Electrolyte and Water Exchanges with Pitressin in Bronchial Asthma. in: Proc. Soc. Exper. Biol. & Med. 38. ed. 1.; 1938:636.",
+      "Url": "http://www.jacionline.org/article/S0021-8707(40)90048-X/references"
+    },
+    {
+      "Title": "Javaid A, Cushley MJ, Bone MF. Effect of dietary salt on bronchial reactivity to histamine in asthma. BMJ. 1988 Aug 13;297(6646):454.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/3139141"
+    },
+    {
+      "Title": "Manzel A, Muller DN, Hafler DA, Erdman SE, Linker RA, Kleinewietfeld M. Role of \"Western diet\" in inflammatory autoimmune diseases. Curr Allergy Asthma Rep. 2014 Jan;14(1):404.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24338487"
+    },
+    {
+      "Title": "Mickleborough TD, Fogarty A. Dietary sodium intake and asthma: an epidemiological and clinical review. Int J Clin Pract. 2006 Dec;60(12):1616-24.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17109669"
+    },
+    {
+      "Title": "Pogson ZE, Antoniak MD, Pacey SJ, Lewis SA, Britton JR, Fogarty AW. Does a low sodium diet improve asthma control? A randomized controlled trial. Am J Respir Crit Care Med. 2008 Jul 15;178(2):132-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18451321"
+    },
+    {
+      "Title": "Stoesser AV, Cook M. Possible relation between electrolyte balance and bronchial asthma. Am J Dis Child 1938; 56: 943-44.",
+      "Url": "https://www.ncbi.nlm.nih.gov/labs/journals/am-j-dis-child/#"
+    },
+    {
+      "Title": "Sundström B, Johansson I, Rantapää-Dahlqvist S. Interaction between dietary sodium and smoking increases the risk for rheumatoid arthritis: results from a nested case-control study. Rheumatology (Oxford). 2015 Mar;54(3):487-93.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25209067"
+    },
+    {
+      "Title": "Van Niekerk CH, Weinberg EG, Shore SC, Heese HV, Van Schalkwyk J. Prevalence of asthma: a comparative study of urban and rural Xhosa children. Clin Allergy. 1979 Jul;9(4):319-24.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/476905"
+    },
+    {
+      "Title": "Yi B, Titze J, Rykova M, Feuerecker M, Vassilieva G, Nichiporuk I, Schelling G, Morukov B, Choukèr A. Effects of dietary salt levels on monocytic cells and immune responses in healthy human subjects: a longitudinal study. Transl Res. 2015 Jul;166(1):103-10.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25497276"
+    },
+    {
+      "Title": "Zhou X, Zhang L, Ji WJ, Yuan F, Guo ZZ, Pang B, Luo T, Liu X, Zhang WC, Jiang TM, Zhang Z, Li YM. Variation in dietary salt intake induces coordinated dynamics of monocyte subsets and monocyte-platelet aggregates in humans: implications in end organ inflammation. PLoS One. 2013 Apr 4;8(4):e60332.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23593194"
+    }
+  ],
+  "Acknowledgements": "Image credit: Jack Lawrence via flickr. Image has been modified.\nVideo credit: Daniel Black",
+  "Topics": [
+    {
+      "Title": "asthma",
+      "Url": "https://nutritionfacts.org/topics/asthma/"
+    },
+    {
+      "Title": "autoimmune diseases",
+      "Url": "https://nutritionfacts.org/topics/autoimmune-diseases/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "lung health",
+      "Url": "https://nutritionfacts.org/topics/lung-health/"
+    },
+    {
+      "Title": "rheumatoid arthritis",
+      "Url": "https://nutritionfacts.org/topics/rheumatoid-arthritis/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What does salt intake have to do with inflammation? Find out in my video <a href=\"https://nutritionfacts.org/video/sodium-and-autoimmune-disease-rubbing-salt-in-the-wound/\">Sodium and Autoimmune Disease: Rubbing Salt in the Wound?</a>.</p>\n<p>What else can we do for asthma? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/preventing-asthma-with-fruits-and-vegetables/\">Preventing Asthma with Fruits and Vegetables</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-asthma-with-fruits-and-vegetables/\">Treating Asthma with Fruits and Vegetables</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-asthma-with-plants-vs-supplements/\">Treating Asthma with Plants vs. Supplements?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-asthma-and-eczema-with-plant-based-diets/\">Treating Asthma and Eczema with Plant-Based Diets</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vitamin-d-for-asthma/\">Vitamin D for Asthma</a></li>\n</ul>\n<p>Have you heard that salt reduction was controversial? That’s what the processed food industry wants you to think. Check out the science in:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/high-blood-pressure-may-be-a-choice/\">High Blood Pressure May Be a Choice</a></li>\n<li><a href=\"https://nutritionfacts.org/video/sprinkling-doubt-taking-sodium-skeptics-with-a-pinch-of-salt/\">Sprinkling Doubt: Taking Sodium Skeptics with a Pinch of Salt</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-evidence-that-salt-raises-blood-pressure/\">The Evidence That Salt Raises Blood Pressure</a></li>\n<li><a href=\"https://nutritionfacts.org/video/sodium-skeptics-try-to-shake-up-the-salt-debate/\">Sodium Skeptics Try to Shake Up the Salt Debate</a></li>\n<li><a href=\"https://nutritionfacts.org/video/shaking-salt-habit/\">Shaking the Salt Habit</a></li>\n<li><a href=\"https://nutritionfacts.org/video/sodium-and-arterial-function-a-salting-our-endothelium/\">Sodium and Arterial Function: A-Salting Our Endothelium</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

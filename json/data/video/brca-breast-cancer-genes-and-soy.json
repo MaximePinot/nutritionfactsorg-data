@@ -1,0 +1,251 @@
+{
+  "Title": "BRCA Breast Cancer Genes and Soy",
+  "Url": "https://nutritionfacts.org/video/brca-breast-cancer-genes-and-soy/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/ZCFxoUKOJYU"
+  },
+  "UpdatedAt": "2013-10-30T11:09:10+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 15",
+    "Url": "https://nutritionfacts.org/volumes/volume-15/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "One reason why soy consumption is associated with improved survival and lower recurrence rates in breast cancer patients may be because soy phytonutrients appear to improve the expression of tumor-suppressing BRCA genes.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhy do people who eat legumes—beans, chickpeas, split peas, and lentils—live longer? Well, men and women who eat legumes tended towards being lighter, having a slimmer waist, lower blood sugars, lower cholesterol, lower triglycerides, better kidney function, lower blood pressure, and so—no surprise—may live longer. But, interestingly, bean intake was “a better protectant against mortality in women than men.” They think this may be because cancer was the leading killer of women in this population—especially breast cancer. And, we know that breast cancer survivors who eat soy foods, for example, have a significantly lower likelihood of the cancer recurrence. Eating soy foods appears to protect against the cancer coming back. This 2012 review looked at three prospective human studies done to date, and found that women who ate the most soy had a 29% lower risk of dying from breast cancer, and a 36% lower risk of cancer recurrence. And, a fourth study was since published, and it showed the same thing. “[S]oy food intake is associated with longer survival and lower recurrence among breast cancer patients. With an average intake of soy phytonutrients above 17 milligrams a day, which is about what’s found in a single cup of soy milk, the mortality of breast cancer may be able to be reduced by as much as 38%.\nHere’s the survival curve over five years. The purple line represents the survival of the women with the highest soy consumption. As you can see, after two years, all the breast cancer survivors eating lots of soy were still alive. But, a quarter to a third of the women who ate the least soy were dead. And, after five years, 90% of the tofu-lovers were still alive and kicking, whereas half of the tofu-haters kicked the bucket. And, you can see a similar relationship when you look at breast cancer survival and soy protein intake, as opposed to soy phytonutrient intake.\nHow does soy so dramatically decrease cancer risk, and improve survival? Soy may actually help turn back on BRCA genes. BRCA is a so-called caretaker gene, an oncosuppressor—meaning a cancer-suppressing gene responsible for DNA repair. Mutations in this gene can cause a rare form of hereditary breast cancer, popularized by Angelina Jolie’s public decision to undergo a preventive double mastectomy. \nBut, only about 5% of breast cancers run in families. So, 95% of breast cancer victims have fully functional BRCA genes. So, if their DNA-repair mechanisms are intact, how did breast cancer form, grow, and spread? Well, tumors do it by suppressing the expression of the gene, through a process called methylation. The gene’s fine, but cancer found a way to turn it off, or at least turn it down—potentially facilitating the metastatic spread of the tumor.\nAnd, that’s where soy may come in. Maybe the reason soy intake is associated with increased survival and decreased cancer recurrence is because the phytonutrients in soy turn back on your BRCA protection—removing the methyl straightjacket the tumor tried to place on it. \nSo, researchers put it to the test. These are three different types of human breast cancer, specially stained so that the expression of BRCA genes turns up brown. So, this is what full DNA repair would look like—hopefully, what normal breast cells would look like. Lots of brown, lots of BRCA expression. But, instead, we have column two, raging breast cancer. \nWell, if you add soy phytonutrients back to the cancer, BRCA does indeed get turned back on. The DNA repair appears to start ramping back up—though this was at a pretty hefty dose, equivalent to about a cup of soybeans.\nTheir results suggest that treatment with soy phytonutrients “might reverse DNA hypermethylation, and restore the expression” of the tumor-suppressor genes BRCA1 and BRCA2. May help with other breast cancer genes, as well. “Women at increased [genetic] risk of breast cancer may especially benefit from high [soy] intake.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A. Bal, S. Verma, K. Joshi, A. Singla, R. Thakur, S. Arora, G. Singh. BRCA1-methylated sporadic breast cancers are BRCA-like in showing a basal phenotype and absence of ER expression. Virchows Arch. 2012 461(3):305-312.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22820987"
+    },
+    {
+      "Title": "A. H Wu, D. V. Spicer, M. C. Pike. Soy isoflavones for breast cancer risk reduction. Cancer Prev Res. 2012 5(7):984-985.",
+      "Url": "http://cancerpreventionresearch.aacrjournals.org/content/5/7/984.full"
+    },
+    {
+      "Title": "D. M. Winham, A. M. Hutchins. Perceptions of flatulence from bean consumption among adults in 3 feeding studies. Nutr J. 2011 10:128.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22104320"
+    },
+    {
+      "Title": "H. B. Kang, Y. F. Zhang, J. D. Yang, K. L. Lu. Study on soy isoflavone consumption and risk of breast cancer and survival. Asian Pac J Cancer Prev. 2012 13(3):995-998.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22631686"
+    },
+    {
+      "Title": "H. M. Spiro. Fat, foreboding, and flatulence. Ann. Intern. Med. 1999 130(4 Pt 1):320 - 322.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10068391"
+    },
+    {
+      "Title": "I. Darmadi-Blackberry, M. L. Wahlqvist, A. Kouris-Blazos, B. Steen, W. Lukito, Y. Horie, K. Horie. Legumes: The most important dietary predictor of survival in older people of different ethnicities. Asia Pac J Clin Nutr. 2004 13(2):217 - 220.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15228991"
+    },
+    {
+      "Title": "M. A. Arnold, M. Goggins. BRCA2 and predisposition to pancreatic and other cancers. Expert Rev Mol Med. 2001 2001:1-10.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14987362"
+    },
+    {
+      "Title": "M. Zanovec, C. E. O'Neil, T. A. Nicklas. Comparison of Nutrient Density and Nutrient-to-Cost between Cooked and Canned Beans. Food Nutr Sci. 2011 2(2):66-73.",
+      "Url": "http://www.scirp.org/journal/PaperInformation.aspx?paperID=4521"
+    },
+    {
+      "Title": "N. Desrochers, P. M. Brauer. Legume promotion in counselling: an e-mail survey of dietitians. Can J Diet Pract Res. 62(4):193-198.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11742561"
+    },
+    {
+      "Title": "P. Magee, I. Rowland. Soy products in the management of breast cancer.  Curr Opin Clin Nutr Metab Care. 2012 15(6):586-591.",
+      "Url": "http://eprints.ulster.ac.uk/23643/"
+    },
+    {
+      "Title": "R. Bosviel, E. Dumollard, P. Déchelotte, Y. J. Bignon, D. Bernard-Gallon. Can soy phytoestrogens decrease DNA methylation in BRCA1 and BRCA2 oncosuppressor genes in breast cancer? OMICS. 16(5):235-244.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22339411"
+    },
+    {
+      "Title": "R. S. Sandler, N. L. Zorich, T. G. Filloon, H. B. Wiseman, D. J. Lietz, M. H. Brock, M. G. Royer, R. K. Miday. Gastrointestinal symptoms in 3181 volunteers ingesting snack foods containing olestra or triglycerides. A 6-week randomized, placebo-controlled trial. Ann Intern Med. 1999 130(4 Pt 1):253-261.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10068382"
+    },
+    {
+      "Title": "R. Swann, K. A. Perkins, L. S. Velentzis, C. Ciria, S. J. Dutton, A. A. Mulligan, J. V. Woodside, M. M. Cantwell, A. J. Leathem, C. E. Robertson, M. V. Dwek. The DietCompLyf study: a prospective cohort study of breast cancer survival and phytoestrogen consumption. Maturitas. 2013 75(3):232-240.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23664318"
+    },
+    {
+      "Title": "S. E. Fleming, A. U. O'Donnell, J. A. Perman. Influence of frequent and long-term bean consumption on colonic function and fermentation. Am. J. Clin. Nutr. 1985 41(5):909 - 918.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/2986447"
+    },
+    {
+      "Title": "S. J. Nechuta, B. J. Caan, W. Y. Chen, W. Lu, Z. Chen, M. L. Kwan, S. W. Flatt, Y. Zheng, W. Zheng, J. P. Pierce, X. O. Shu. Soy food intake after diagnosis of breast cancer and survival: An in-depth analysis of combined evidence from cohort studies of US and Chinese women. Am. J. Clin. Nutr. 2012 96(1):123 - 132.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22648714"
+    },
+    {
+      "Title": "S. M. Krebs-Smith, P. M. Guenther, A. F. Subar, S. I. Kirkpatrick, K. W. Dodd. Americans do not meet federal dietary recommendations. J. Nutr. 2010 140(10):1832 - 1838.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20702750"
+    },
+    {
+      "Title": "S. N. Vasilatos, G. Broadwater, W. T. Barry, J. C. Jr Baker, S. Lem, E. C. Dietze, G. R. Bean, A. D. Bryson, P. G. Pilie, V. Goldenberg, D. Skaar, C. Paisie, A. Torres-Hernandez, T. L. Grant, L. G. Wilke, C. Ibarra-Drendall, J. H.  Ostrander, N. C. D'Amato, C. Zalles, R. Jirtle, V. M. Weaver, V. L. Seewaldt. CpG island tumor suppressor promoter methylation in non-BRCA-associated early mammary carcinogenesis. Cancer Epidemiol Biomarkers Prev. 2009 18(3):901-914.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19258476"
+    },
+    {
+      "Title": "W.-C. Chang, M. L. Wahlqvist, H.-Y. Chang, C.-C. Hsu, M.-S. Lee, W.-S. Wang, C. A. Hsiung. A bean-free diet increases the risk of all-cause mortality among Taiwanese women: The role of the metabolic syndrome. Public Health Nutr. 2012 15(4):663 - 672.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21899787"
+    },
+    {
+      "Title": "Y.-F. Zhang, H.-B. Kang, B.-L. Li, R.-M. Zhang. Positive effects of soy isoflavone food on survival of breast cancer patients in China. Asian Pac. J. Cancer Prev. 2012 13(2):479 - 482.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22524810"
+    }
+  ],
+  "Acknowledgements": "Images thanks to The Big Lunch, IITA Image Library, and Gage Skidmore via flickr; and United States National Institutes of Health",
+  "Topics": [
+    {
+      "Title": "abdominal fat",
+      "Url": "https://nutritionfacts.org/topics/abdominal-fat/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "BRCA genes",
+      "Url": "https://nutritionfacts.org/topics/brca-genes/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast cancer survival",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer-survival/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "chickpeas",
+      "Url": "https://nutritionfacts.org/topics/chickpeas/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "epigenetic changes",
+      "Url": "https://nutritionfacts.org/topics/epigenetic-changes/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "kidney function",
+      "Url": "https://nutritionfacts.org/topics/kidney-function/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "legumes",
+      "Url": "https://nutritionfacts.org/topics/legumes/"
+    },
+    {
+      "Title": "lentils",
+      "Url": "https://nutritionfacts.org/topics/lentils/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "soy milk",
+      "Url": "https://nutritionfacts.org/topics/soymilk/"
+    },
+    {
+      "Title": "soybeans",
+      "Url": "https://nutritionfacts.org/topics/soybeans/"
+    },
+    {
+      "Title": "split peas",
+      "Url": "https://nutritionfacts.org/topics/split-peas/"
+    },
+    {
+      "Title": "tofu",
+      "Url": "https://nutritionfacts.org/topics/tofu/"
+    },
+    {
+      "Title": "triglycerides",
+      "Url": "https://nutritionfacts.org/topics/triglycerides/"
+    },
+    {
+      "Title": "vegetable protein",
+      "Url": "https://nutritionfacts.org/topics/vegetable-protein/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p class=\"p1\"><span class=\"s1\">Legumes leading to a longer life? See <a href=\"https://nutritionfacts.org/video/increased-lifespan-from-beans/\"><span class=\"s2\">Increased Lifespan from Beans</span></a>.</span></p>\n<p class=\"p1\"><span class=\"s1\">No matter what genes we inherit, changes in diet can affect DNA expression at a genetic level. For example, see:</span></p>\n<ul class=\"ul1\">\n<li class=\"li2\"><span class=\"s3\"><a href=\"https://nutritionfacts.org/video/black-raspberries-versus-oral-cancer/\"><span class=\"s4\">Black Raspberries vs. Oral Cancer</span></a></span></li>\n<li class=\"li2\"><span class=\"s3\"><a href=\"https://nutritionfacts.org/video/apple-skin-peeling-back-cancer/\"><span class=\"s4\">Apple Skin: Peeling Back Cancer</span></a></span></li>\n<li class=\"li2\"><span class=\"s3\"><a href=\"https://nutritionfacts.org/video/plant-based-diets-and-cellular-stress-defenses/\"><span class=\"s4\">Plant-Based Diets &amp; Cellular Stress Defenses</span></a></span></li>\n</ul>\n<p class=\"p1\"><span class=\"s1\">I’ve previously covered the available science in <a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-soy/\"><span class=\"s2\">Breast Cancer Survival &amp; Soy</span></a>. Other effects are detailed in:</span></p>\n<ul class=\"ul1\">\n<li class=\"li2\"><span class=\"s3\"><a href=\"https://nutritionfacts.org/video/the-effect-of-soy-on-precocious-puberty/\"><span class=\"s4\">The Effect of Soy on Precocious Puberty</span></a></span></li>\n<li class=\"li2\"><span class=\"s3\"><a href=\"https://nutritionfacts.org/video/soy-worth-a-hill-of-beans/\"><span class=\"s4\">Soy Worth a Hill of Beans?</span></a></span></li>\n</ul>\n<p class=\"p1\"><span class=\"s1\">It may be possible to overdo beans, though (see <a href=\"https://nutritionfacts.org/video/how-much-soy-is-too-much/\"><span class=\"s2\">How Much Soy Is Too Much?</span></a>).</span></p>\n<p class=\"p2\"><span class=\"s5\">For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2014/01/09/top-10-most-popular-videos-of-2013/\"><span class=\"s2\">Top 10 Most Popular Videos of 2013</span></a> and <a href=\"https://nutritionfacts.org/blog/can-eating-soy-prevent-breast-cancer/\"><span class=\"s2\">Can Eating Soy Prevent Breast Cancer?</span></a></span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

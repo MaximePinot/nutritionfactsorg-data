@@ -1,0 +1,115 @@
+{
+  "Title": "Fasting Before and After Chemotherapy Put to the Test",
+  "Url": "https://nutritionfacts.org/video/fasting-before-and-after-chemotherapy-put-to-the-test/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/DGQxem8hw3I"
+  },
+  "UpdatedAt": "2022-09-26T11:50:20+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 59",
+    "Url": "https://nutritionfacts.org/volumes/volume-59/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Do the benefits of short-term fasting during cancer therapy found in the lab translate into the clinical setting?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe first randomized prospective clinical evaluation of the effects of fasting on chemotherapy––the “incidence of chemotherapy-induced nausea and vomiting in cancer patients”––was published in 2014, but the patients were dogs. Cancer-bearing dogs presenting at a veterinary hospital were randomized to be fasted for 24 hours before chemotherapy, and those that were, were significantly less likely to suffer from vomiting—only 1 in 10 compared to 2 out of 3 in the nonfasted group, which is great. \nBut what can that tell us about human medicine? Evidently, not much. It is nearly impossible to rely on most animal data to predict whether or not an intervention will have a favorable clinical benefit–risk ratio in human subjects.\nFor example, mice have a metabolic rate approximately seven times higher than humans, so a single day of fasting can cut lean body mass by about 15 percent. That would take over a month of fasting in people. So that dramatic study on mice showing 100 percent alive versus 100 percent dead on high dose chemo depending on whether they were fasted for 60 hours? What can that really tell us? And when it comes to cancer, rodents can bear massive tumor loads, whereas people generally waste away and die when tumor masses have reached just a thousandth of our body weight. You can’t even necessarily extrapolate from one rat to another, even within the same strain bought from different dealers.\nThe only way to see what happens in humans, the only way to guarantee findings are relevant, is to study people. The theory is that combining fasting cycles with chemotherapy could extend the survival of advanced-stage cancer patients by both retarding tumor progression and reducing side effects––or even providing an alternative to chemotherapy altogether for early-stage cancer patients. But that’s all contingent on being confirmed in human clinical trials.\nFirst there was a case series. Several patients diagnosed with a wide variety of cancers elected to undertake fasting prior to chemotherapy and share their experiences. Those who underwent chemo both with or without fasting reported a reduction in fatigue, weakness, and gastrointestinal side effects while fasting; in fact, felt better across the board, with zero vomiting in the fasting group. The weight lost during the few days of fasting was rapidly recovered in most of the patients, and did not lead to any detectable harm, so overall was looking feasible, safe, with the potential to ameliorate side effects.\nBut only randomized clinical studies could tell for sure, and so here we go. Breast and ovarian cancer patients fasting started 36 hours before and ending 24 hours after chemotherapy, and it did appear to improve quality of life and fatigue, but another study found no such beneficial effects. There did appear to perhaps be less bone marrow toxicity, given the higher counts of red blood cells and platelet-making cells. But no benefit when it came to killing off white blood cells—the immune system cells—so that was a disappointment. Perhaps they didn’t last long enough? They only fasted 24 hours before and after.\nTo find out the optimal duration, 20 cancer patients were split up into three groups, fasting for 24, 48, or a total of 72 hours. All those in the 24-hour group suffered nausea after chemo, but less than half in the 72-hour group, and most were vomiting in the 24-hour group, but none in the longest fasting group. Longer fasting groups also tended to suffer less nerve damage and less serious bone marrow suppression. Even after 24 hours of fasting, two cycles of chemo can knock people’s white blood cells down to suboptimal levels. But with 72 hours, chemo knocked their immune system down but not out.\nOkay, so short-term fasting may reduce chemotherapy-induced toxicity. But what I want to know is if it makes it work better. A systematic review of 22 studies found that overall, fasting was found to not only reduce chemotherapy side effects (like organ damage, immune suppression, and chemotherapy-induced death), but also to suppress tumor progression, including tumor growth and metastasis, resulting in improved survival. But…nearly all of the studies were on lab animals. The studies on humans are limited to evaluating safety and side effects. The tumor-suppression effects of fasting, for example, its influence on tumor growth, metastasis and prognosis, have not been evaluated, until now. To be continued…\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bauersfeld SP, Kessler CS, Wischnewsky M, et al. The effects of short-term fasting on quality of life and tolerance to chemotherapy in patients with breast and ovarian cancer: a randomized cross-over pilot study. BMC Cancer. 2018;18(1):476.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29699509"
+    },
+    {
+      "Title": "Cheng CW, Adams GB, Perin L, et al. Prolonged fasting reduces IGF-1/PKA to promote hematopoietic-stem-cell-based regeneration and reverse immunosuppression. Cell Stem Cell. 2014;14(6):810-23.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24905167"
+    },
+    {
+      "Title": "Dorff TB, Groshen S, Garcia A, et al. Safety and feasibility of fasting in combination with platinum-based chemotherapy. BMC Cancer. 2016;16:360.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27282289"
+    },
+    {
+      "Title": "Ioannidis JPA. Extrapolating from animals to humans. Sci Transl Med. 2012;4(151):151ps15.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22972841"
+    },
+    {
+      "Title": "Klement RJ, Fink MK. Dietary and pharmacological modification of the insulin/IGF-1 system: exploiting the full repertoire against cancer. Oncogenesis. 2016;5:e193.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26878387"
+    },
+    {
+      "Title": "Lai M, Chandrasekera PC, Barnard ND. You are what you eat, or are you? The challenges of translating high-fat-fed rodents to human obesity and diabetes. Nutr Diabetes. 2014;4:e135.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25198237"
+    },
+    {
+      "Title": "Lee C, Raffaghello L, Brandhorst S, et al. Fasting cycles retard growth of tumors and sensitize a range of cancer cell types to chemotherapy. Sci Transl Med. 2012;4(124):124ra27.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22323820"
+    },
+    {
+      "Title": "Raffaghello L, Lee C, Safdie FM, et al. Starvation-dependent differential stress resistance protects normal but not cancer cells against high-dose chemotherapy. Proc Natl Acad Sci U S A. 2008;105(24):8215-20.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18378900"
+    },
+    {
+      "Title": "Safdie FM, Dorff T, Quinn D, et al. Fasting and cancer treatment in humans: A case series report. Aging (Albany NY). 2009;1(12):988-1007.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20157582"
+    },
+    {
+      "Title": "Sun L, Li YJ, Yang X, Gao L, Yi C. Effect of fasting therapy in chemotherapy-protection and tumorsuppression: a systematic review. Transl Cancer Res. 2017;6(2).",
+      "Url": "http://tcr.amegroups.com/article/view/12654"
+    },
+    {
+      "Title": "Withers SS, Kass PH, Rodriguez CO, et al. Fasting reduces the incidence of delayed-type vomiting associated with doxorubicin treatment in dogs with lymphoma. Transl Oncol. 2014;7(3):377-83.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24831580"
+    },
+    {
+      "Title": "de Groot S, Pijl H, van der Hoeven JJM, Kroep JR. Effects of short-term fasting on cancer treatment. J Exp Clin Cancer Res. 2019;38(1):209.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31113478"
+    },
+    {
+      "Title": "de Groot S, Vreeswijk MPG, Welters MJP, et al. The effects of short-term fasting on tolerance to (Neo) adjuvant chemotherapy in HER2-negative breast cancer patients: a randomized pilot study. BMC Cancer. 2015;15:652.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26438237"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "fasting",
+      "Url": "https://nutritionfacts.org/topics/fasting/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "nausea",
+      "Url": "https://nutritionfacts.org/topics/nausea/"
+    },
+    {
+      "Title": "ovarian cancer",
+      "Url": "https://nutritionfacts.org/topics/ovarian-cancer/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the third video in a four-part series on fasting and cancer. The first two were </span><a href=\"https://nutritionfacts.org/video/fasting-for-cancer-what-about-cachexia/\"><span style=\"font-weight: 400\">Fasting for Cancer: What About Cachexia?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/fasting-before-and-after-chemotherapy-and-radiation/\"><span style=\"font-weight: 400\">Fasting Before and After Chemotherapy and Radiation</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">The final video in this series is coming up: </span><a href=\"https://nutritionfacts.org/video/fasting-mimicking-diet-before-and-after-chemotherapy/\"><span style=\"font-weight: 400\">Fasting-Mimicking Diet Before and After Chemotherapy</span></a><span style=\"font-weight: 400\">.</span></p>\n<p data-pm-slice=\"1 1 []\">2023 Update: I have two new videos you might be interested in – <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/a-case-of-stage-3-cancer-reversal-with-fasting/\">A Case of Stage 3 Cancer Reversal with Fasting</a> and <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/spontaneous-regression-of-cancer-with-fasting/\">Spontaneous Regression of Cancer with Fasting</a>. </p>\n<p><span style=\"font-weight: 400\">All of my videos on fasting can be found on this </span><a href=\"https://nutritionfacts.org/topics/fasting/\"><span style=\"font-weight: 400\">topic page</span></a><span style=\"font-weight: 400\">, or in the recordings of the </span><a href=\"https://drgreger.org/collections/videos/products/fasting-bundle-digital\"><span style=\"font-weight: 400\">fasting webinar series</span></a><span style=\"font-weight: 400\"> from 2019.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

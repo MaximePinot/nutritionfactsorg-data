@@ -1,0 +1,139 @@
+{
+  "Title": "Viral Meat Spray",
+  "Url": "https://nutritionfacts.org/video/viral-meat-spray/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/XCgDFZjNYOQ"
+  },
+  "UpdatedAt": "2012-06-14T12:00:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 9",
+    "Url": "https://nutritionfacts.org/volumes/volume-9/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Bacteria-eating viruses (bacteriophages) have been approved as meat additives to reduce the risk of Listeria and Campylobacter found in processed meat and poultry products, but there’s a concern they could spread toxin genes between bacteria.",
+  "Transcript": "The third leading cause of foodborne disease-related death in the United States—after Salmonella, and the meat-borne brain parasite Toxoplasma, is Listeria, a type of foodborne bacteria that has the rare ability to survive and thrive in a cold, acidic, salty environment—otherwise known as deli meats, hot dogs, and refrigerated, ready-to-eat chicken and turkey products. The fatality rate of infection is 20 to 30%, making it the most dangerous foodborne bacteria in the American meat supply.\nUnable to rid itself of the bug, the U.S. meat industry petitioned the FDA to allow them to use a novel pathogen control strategy. “Virulent Bacteriophage for Efficient Biocontrol of Listeria monocytogenes in Ready-To-Eat Foods”—or, as the FDA touted in one of its publications, “Bacteria-eating virus approved as food additive. Not all viruses harm people. The [FDA] has approved a mixture of viruses as a food additive to protect people. The additive can be used in processing plants for spraying onto ready-to-eat meat and poultry products to protect consumers from the potentially life-threatening bacterium Listeria...”\nNot all bacteria harm people either, and so concern has been expressed that the virus on our meat could also infect and kill the good bacteria in our gut. But they appear to be extremely species-specific, and so the main concern has been the possibility of the viruses spreading toxin genes between bacteria, especially considering the difficulties of preventing large numbers of viruses from being released into the environment.\nIt could also allow the industry to become even more complacent about food safety. If they know they can just spray some viruses on at the end—kind of similar to the quick fix argument about irradiation. From the industry point of view, who cares if there’s fecal contamination of the meat, as long as it’s sterilized feces; you know, sterilized at the end, with enough radiation?\nRecently, researchers discovered that you can feed the viruses to the chickens directly; put viruses right in the feed, and obtain the same effect. They conclude that “The phage cocktail administered in feed…can be easily and successfully used under commercial condition in a poultry unit. Another important aspect of the present study is that as the phages that composed the cocktail were isolated from poultry carcasses, their use to reduce [bacterial] colonization in the live birds would not introduce any new biological entity into the food chain.”\nMeaning, consumers shouldn’t complain about the use of viruses as a biological control agent, since the viruses are on the meat to begin with.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Serena.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Atterbury RJ. Bacteriophage biocontrol in animals and meat products. Microb Biotechnol. 2009 Nov; 2(6):601-12.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21255295"
+    },
+    {
+      "Title": "Bren L. Bacteria-Eating Virus Approved as Food Additive. FDA Consum. 2007 Jan-Feb; 41(1):20-2.",
+      "Url": "http://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/2007/107_virus.html"
+    },
+    {
+      "Title": "Carvalho CM, Gannon BW, Halfhide DE, Santos SB, Hayes CM, Roe JM, Azeredo J. The in vivo efficacy of two administration routes of a phage cocktail to reduce numbers of Campylobacter coli and Campylobacter jejuni in chickens. BMC Microbiol. 2010 Sep 1; 10:232.",
+      "Url": "http://www.biomedcentral.com/content/pdf/1471-2180-10-232.pdf"
+    },
+    {
+      "Title": "Guenther S, Huwyler D, Richard S, Loessner MJ. Virulent Bacteriophage for Efficient Biocontrol of Listeria monocytogenes in Ready-To-Eat Foods. Appl Environ Microbiol. 2009 Jan; 75(1):93-100.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2612219/pdf/1711-08.pdf"
+    },
+    {
+      "Title": "Scallan E, Hoekstra RM, Angulo FJ, Tauxe RV, Widdowson MA, Roy SL, Jones JL, Griffin PM. Foodborne Illness Acquired in the United States—Major Pathogens. Emerg Infect Dis. 2011 Jan; 17(1):7-15.",
+      "Url": "https://wwwnc.cdc.gov/eid/article/17/1/p1-1101_article.htm"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Pontificia Universidad Católica de Chile; Centers for Disease Control and Prevention; USDA; and John Jonik.",
+  "Topics": [
+    {
+      "Title": "bile acids",
+      "Url": "https://nutritionfacts.org/topics/bile-acids/"
+    },
+    {
+      "Title": "Campylobacter",
+      "Url": "https://nutritionfacts.org/topics/campylobacter/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    },
+    {
+      "Title": "fecal bacteria",
+      "Url": "https://nutritionfacts.org/topics/fecal-bacteria/"
+    },
+    {
+      "Title": "fecal contamination",
+      "Url": "https://nutritionfacts.org/topics/fecal-contamination/"
+    },
+    {
+      "Title": "feed additives",
+      "Url": "https://nutritionfacts.org/topics/feed-additives/"
+    },
+    {
+      "Title": "food additives",
+      "Url": "https://nutritionfacts.org/topics/food-additives/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "hot dogs",
+      "Url": "https://nutritionfacts.org/topics/hot-dogs/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "Listeria",
+      "Url": "https://nutritionfacts.org/topics/listeria/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "parasites",
+      "Url": "https://nutritionfacts.org/topics/parasites/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "processed meat",
+      "Url": "https://nutritionfacts.org/topics/processed-meat/"
+    },
+    {
+      "Title": "radiation",
+      "Url": "https://nutritionfacts.org/topics/radiation/"
+    },
+    {
+      "Title": "Salmonella",
+      "Url": "https://nutritionfacts.org/topics/salmonella/"
+    },
+    {
+      "Title": "toxoplasma",
+      "Url": "https://nutritionfacts.org/topics/toxoplasma/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more about the first and second leading food poisoning causes of death, see <a href=\"https://nutritionfacts.org/video/total-recall/\" rel=\"nofollow\">Total Recall</a>. For other risks associated with processed meat consumption, see <a href=\"https://nutritionfacts.org/video/preventing-copd-with-diet/\" rel=\"nofollow\">Preventing COPD With Diet</a>; and <a href=\"https://nutritionfacts.org/video/prevention-is-better-than-cured-meat/\" rel=\"nofollow\">Prevention Is Better Than Cured Meat</a>. In my book, <a href=\"https://drgreger.org/collections/books/products/bird-flu-a-virus-of-our-own-hatching\">Bird Flu</a>, I have a chapter about more of these creative meat industry “technofixes”—rectal poultry superglue, anyone? For more on other chicken feed additives of questionable safety, see <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=869\" rel=\"nofollow\">Drug Residues in Meat</a>. And for what Campylobacter can do, see <a href=\"https://nutritionfacts.org/video/poultry-and-paralysis/\" rel=\"nofollow\">Poultry and Paralysis</a>. If you don’t like the thought of the meat industry spreading viruses on your food, check out <a href=\"https://nutritionfacts.org/video/maggot-meat-spray/\" rel=\"nofollow\">Maggot Meat Spray</a>.</p>\n<p>Also be sure to check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/08/23/why-is-unsafe-meat-legal/\" rel=\"nofollow\">Why is it Legal to Sell Unsafe Meat?</a>; <a href=\"https://nutritionfacts.org/2012/08/02/adding-fda-approved-viruses-to-meat/\" rel=\"nofollow\">Adding FDA-Approved Viruses to Meat</a>; and <a href=\"https://nutritionfacts.org/2013/10/01/why-is-selling-salmonella-tainted-chicken-still-legal/\">Why Is Selling Salmonella-Tainted Chicken Legal?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

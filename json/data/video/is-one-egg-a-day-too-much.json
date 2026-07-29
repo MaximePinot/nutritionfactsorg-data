@@ -1,0 +1,115 @@
+{
+  "Title": "Is One Egg a Day Too Much?",
+  "Url": "https://nutritionfacts.org/video/is-one-egg-a-day-too-much/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/ck0BmauJjvA"
+  },
+  "UpdatedAt": "2025-06-11T11:50:10+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 69",
+    "Url": "https://nutritionfacts.org/volumes/volume-69/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Meta-analyses of studies involving more than ten million participants confirm that greater egg consumption confers a higher risk of premature death from all causes.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe NIH-AARP study, sponsored by the National Institutes of Health and the American Association of Retired Persons, is the largest forward-looking, in-depth study on diet and health in history. Based on its six million person-years of observation, replacing just 3 percent of daily caloric intake of animal protein with plant protein was associated with a 10 percent decreased risk of premature death. Just a three percent swap!\nOf all the animal protein sources, eggs were found to be the worst. Swapping in three percent of plant protein for egg protein was associated with twice the benefit––more than twenty percent lower mortality having scrambled tofu instead. In fact, each half an egg a day was associated with a seven-percent increase in all-cause mortality. Just half an egg? That’s consistent with six other US cohort studies that collectively found that each additional half an egg consumed per day was significantly associated with a higher risk of getting cardiovascular disease and dying prematurely from all causes put together. And this higher risk of death persisted even after taking other lifestyle behaviors into account, including overall dietary quality. In other words, it doesn’t appear to be just because people eating more eggs were also eating more bacon, for example.\nA meta-analysis of all such studies confirmed that greater egg consumption confers higher risks of death from all causes. Another meta-analysis including other types of studies involving nearly 12 million participants echoed that it may be prudent to avoid high egg consumption. But what does “high” mean? What’s the safe amount? It’s not quite clear.\nOne meta-analysis suggested there’s little evidence for elevated risks below half an egg a day, whereas another found that adding even one egg a week to your diet might increase your risk of dying from cancer.\nIf the data on detriment are so clear, based on studies involving millions of people, why is there still controversy? Because the egg industry manufactures that controversy. Just like the sugar industry does with sugar. Dr. Barnard’s written about it. I’ve written about it.\nAs noted by the director of the Stroke Prevention and Atherosclerosis Research Centre, “After conviction for false advertising, the industry has spent hundreds of millions of dollars to convince the public, physicians, and policy makers that dietary cholesterol and egg yolk are harmless.” Yet a meta-analysis of more than fifty randomized controlled trials found that egg consumption significantly increases LDL cholesterol.\nOnline, some bloggers parrot the egg industry’s talking points that the 2015 US dietary guidelines removed the dietary cholesterol limit to consume less than 300 mg of dietary cholesterol a day––whereas if anyone bothered to actually read the actual guidelines they’d see that the guidelines actually strengthen the recommendation, and tell Americans to “eat as little dietary cholesterol as possible,” as recommended by the Institute of Medicine, the most prestigious medical body in the United States. This advice was reiterated in the most recent dietary guidelines: “The National Academies recommends that … dietary cholesterol consumption to be as low as possible,” using the rationale that any intake above zero increases LDL cholesterol concentration in the blood and therefore increases the risk of the number one killer of men and women.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Darooghegi Mofrad M, Naghshi S, Lotfi K, et al. Egg and dietary cholesterol intake and risk of all-cause, cardiovascular, and cancer mortality: a systematic review and dose-response meta-analysis of prospective cohort studies. Front Nutr. 2022;9:878979.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35711545/"
+    },
+    {
+      "Title": "Huang J, Liao LM, Weinstein SJ, Sinha R, Graubard BI, Albanes D. Association between plant and animal protein intake and overall and cause-specific mortality. JAMA Intern Med. 2020;180(9):1173-1184.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32658243/"
+    },
+    {
+      "Title": "Khalighi Sikaroudi M, Soltani S, Kolahdouz-Mohammadi R, et al. The responses of different dosages of egg consumption on blood lipid profile: an updated systematic review and meta-analysis of randomized clinical trials. J Food Biochem. 2020;44(8):e13263.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32524644/"
+    },
+    {
+      "Title": "Ma W, Zhang Y, Pan L, et al. Association of egg consumption with risk of all-cause and cardiovascular disease mortality: a systematic review and dose-response meta-analysis of observational studies. J Nutr. 2022;152(10):2227-2237.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35524693/"
+    },
+    {
+      "Title": "Mousavi SM, Zargarzadeh N, Rigi S, et al. Egg consumption and risk of all-cause and cause-specific mortality: a systematic review and dose-response meta-analysis of prospective studies. Adv Nutr. 2022;13(5):1762-1773.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35396834/"
+    },
+    {
+      "Title": "Spence JD, Dietary cholesterol and egg yolk should be avoided by patients at risk of vascular disease. J Transl Int Med. 2016;4(1):20-24.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28191513/"
+    },
+    {
+      "Title": "Spence JD, Srichaikul KK, Jenkins DJA. Cardiovascular harm from egg yolk and meat: more than just cholesterol and saturated fat. J Am Heart Assoc. 2021;10(7):e017066.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33719494/"
+    },
+    {
+      "Title": "Trumbo PR, Shimakawa T. Tolerable upper intake levels for trans fat, saturated fat, and cholesterol. Nutr Rev. 2011;69(5):270-278.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21521229/"
+    },
+    {
+      "Title": "U.S. Department of Health and Human Services, U.S. Department of Agriculture. 2015-2020 Dietary Guidelines for Americans. 8th ed. U.S. Government Printing Office; 2015.",
+      "Url": "https://odphp.health.gov/sites/default/files/2019-09/2015-2020_Dietary_Guidelines.pdf"
+    },
+    {
+      "Title": "U.S. Department of Health and Human Services, U.S. Department of Agriculture. Dietary Guidelines for Americans, 2020-2025. 9th ed. U.S. Government Printing Office; 2020.",
+      "Url": "https://www.dietaryguidelines.gov/"
+    },
+    {
+      "Title": "Yang PF, Wang CR, Hao FB, et al. Egg consumption and risks of all-cause and cause-specific mortality: a dose-response meta-analysis of prospective cohort studies. Nutr Rev. 2022;80(7):1739-1754.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35178575/"
+    },
+    {
+      "Title": "Zhong VW, Van Horn L, Cornelis MC, et al. Associations of dietary cholesterol or egg consumption with incident cardiovascular disease and mortality. JAMA. 2019;321(11):1081-1095.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30874756/"
+    },
+    {
+      "Title": "Zhuang P, Wu F, Mao L, et al. Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: a population-based cohort study. PLoS Med. 2021;18(2):e1003508.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33561122/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "bacon",
+      "Url": "https://nutritionfacts.org/topics/bacon/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "tofu",
+      "Url": "https://nutritionfacts.org/topics/tofu/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">For more on eggs, check out:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/who-says-eggs-arent-healthy-or-safe/\"><span style=\"font-weight: 400\">Who Says Eggs Aren’t Healthy or Safe?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-the-egg-board-designs-misleading-studies/\"><span style=\"font-weight: 400\">How the Egg Board Designs Misleading Studies</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/eggs-and-arterial-function/\"><span style=\"font-weight: 400\">Eggs and Arterial Function</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/debunking-egg-industry-myths/\"><span style=\"font-weight: 400\">Debunking Egg Industry Myths</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/eggs-and-diabetes/\"><span style=\"font-weight: 400\">Eggs and Diabetes</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/eggs-choline-and-cancer/\"><span style=\"font-weight: 400\">Eggs, Choline, and Cancer</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/eggs-and-cholesterol-patently-false-and-misleading-claims/\"><span style=\"font-weight: 400\">Eggs and Cholesterol: Patently False and Misleading Claims</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/egg-industry-response-to-choline-and-tmao/\"><span style=\"font-weight: 400\">Egg Industry Response to Choline and TMAO</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/eggs-and-breast-cancer/\"><span style=\"font-weight: 400\">Eggs and Breast Cancer</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/does-dietary-cholesterol-eggs-raise-blood-cholesterol/\"><span style=\"font-weight: 400\">Does Dietary Cholesterol (Eggs) Raise Blood Cholesterol?</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

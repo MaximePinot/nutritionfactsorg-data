@@ -1,0 +1,123 @@
+{
+  "Title": "Modern Meat Not Ahead of the Game",
+  "Url": "https://nutritionfacts.org/video/modern-meat-not-ahead-of-the-game/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/xh8fzqucizQ"
+  },
+  "UpdatedAt": "2012-10-10T11:20:54+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 10",
+    "Url": "https://nutritionfacts.org/volumes/volume-10/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Since chronic inflammation underlines many disease processes, and saturated fat appears to facilitate the endotoxic inflammatory reaction to animal products, researchers have looked to wild animals for less unhealthy meat options.",
+  "Transcript": "“There is evidence of a link between a form of low-grade systemic inflammation and several chronic diseases. This subclass of inflammation has been labelled ‘metaflammation,’…’paraflammation’, or ‘smouldering’ inflammation.”\n“Obesity, is known to be associated with this form of inflammation,” though this recent paper argues that obesity may be more of a canary in the coal mine. Well, if this inflammation is now known to underlie most, if not all, forms of chronic disease, what are some inducers of this inflammation?\nWell, that coal mine might actually be one—air pollution and rising CO2 levels. But also secondhand smoke, inactivity, too much activity—like marathon runners actually may be stressing their bodies too much, excessive alcohol, calories, fast food, the Western diet, saturated and trans fats, not enough fiber, and too much sugar, meat, and salt. Note, though, they specify domestic meat. Might wild game be healthier?\nOne study comparing the meat of both captive and wild pheasants, for example, found significantly more saturated fat in the domesticated birds, which is one of the components blamed for helping trigger that meat-induced postprandial—or “after-meal”—inflammatory response, given the potent inflammatory effects of saturated fats. So, wild animals would seem to be the least unhealthy meat option. But it wasn’t until recently when we got any real evidence one way or the other.\nThis group of Australian researchers compared the amount of inflammation triggered by modern meat, domesticated animal meat, compared to that triggered by kangaroo meat. They looked at three different inflammatory markers: tumor necrosis factor, interleukin 6, and C-reactive protein. Here’s the regular meat; big spike in inflammation one hour, two hours after eating meat. No surprise, that’s what animal fat does. But here’s the kangaroo. Sure, still causes that smoldering meta-inflammation, but not as much as store-bought meat.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Kerry Skinner.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Arya F, Egger S, Colquhoun D, Sullivan D, Pal S, Egger G. Differences in postprandial inflammatory responses to a 'modern' v. traditional meat meal: a preliminary study. Br J Nutr. 2010 Sep;104(5):724-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20377925"
+    },
+    {
+      "Title": "Egger G, Dixon J. Non-nutrient causes of low-grade, systemic inflammation: support for a 'canary in the mineshaft' view of obesity in chronic disease. Obes Rev. 2011 May;12(5):339-45.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20701689"
+    },
+    {
+      "Title": "Tucak Z, Skrivanko M, Posavcević S, Periskić M, Bosković I, Jumić V. Influence of keeping pheasants in captivity vs. nature on the biological value of meat and its use in human nutrition. Coll Antropol. 2008 Sep;32(3):959-62.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18982774"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Donkey shot via Wikimedia Commons; Heike Katthagen; and Robert tdc via flickr.",
+  "Topics": [
+    {
+      "Title": "air pollution",
+      "Url": "https://nutritionfacts.org/topics/air-pollution/"
+    },
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "C-reactive protein",
+      "Url": "https://nutritionfacts.org/topics/c-reactive-protein/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "fast food",
+      "Url": "https://nutritionfacts.org/topics/fast-food/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "trans fats",
+      "Url": "https://nutritionfacts.org/topics/trans-fats/"
+    },
+    {
+      "Title": "venison",
+      "Url": "https://nutritionfacts.org/topics/venison/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>The meat-induced spike in inflammation within hours of consumption is explored in my three-part video series <a href=\"https://nutritionfacts.org/video/the-leaky-gut-theory-of-why-animal-products-cause-inflammation/\" rel=\"nofollow\">The Leaky Gut Theory of Why Animal Products Cause Inflammation</a>; <a href=\"https://nutritionfacts.org/video/the-exogenous-endotoxin-theory/\" rel=\"nofollow\">The Exogenous Endotoxin Theory</a>; and <a href=\"https://nutritionfacts.org/video/dead-meat-bacteria-endotoxemia/\" rel=\"nofollow\">Dead Meat Bacteria Endotoxemia</a>. It’s also discussed briefly in my full-length 2012 presentation, <a href=\"https://nutritionfacts.org/video/uprooting-the-leading-causes-of-death/\" rel=\"nofollow\">Uprooting the Leading Causes of Death</a>. Other videos on inflammation include <a href=\"https://nutritionfacts.org/video/anti-inflammatory-antioxidants/\" rel=\"nofollow\">Anti-Inflammatory Antioxidants</a>; <a href=\"https://nutritionfacts.org/2012/06/28/fighting-inflammation-with-food-synergy/\" rel=\"nofollow\">Fighting Inflammation With Food Synergy</a>; <a href=\"https://nutritionfacts.org/video/garden-variety-anti-inflammation/\" rel=\"nofollow\">Garden Variety Anti-Inflammation</a>; <a href=\"https://nutritionfacts.org/video/anti-inflammatory-effects-of-purple-potatoes/\" rel=\"nofollow\">Anti-Inflammatory Effects of Purple Potatoes</a>; <a href=\"https://nutritionfacts.org/video/fighting-inflammation-in-a-nut-shell/\" rel=\"nofollow\">Fighting Inflammation in a Nut Shell</a>; and <a href=\"https://nutritionfacts.org/video/achieving-remission-of-crohns-disease/\" rel=\"nofollow\">Dietary Treatment of Crohn’s Disease</a>. Given this new data suggesting that the consumption of flesh from wild animals causes less inflammation, might those who continue to eat meat benefit from switching to something like venison? That’s our subject tomorrow in <a href=\"https://nutritionfacts.org/video/filled-full-of-lead/\" rel=\"nofollow\">Filled Full of Lead</a>.</p>\n<p>For more context, check out my associated blog post, <a href=\"https://nutritionfacts.org/blog/lead-poisoning-risk-from-venison/\">Lead Poisoning Risk From Venison</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

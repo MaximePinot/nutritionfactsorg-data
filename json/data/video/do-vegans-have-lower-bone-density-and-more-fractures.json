@@ -1,0 +1,175 @@
+{
+  "Title": "Do Vegans Have Lower Bone Density and More Fractures?",
+  "Url": "https://nutritionfacts.org/video/do-vegans-have-lower-bone-density-and-more-fractures/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/CFNcDvZgSHI"
+  },
+  "UpdatedAt": "2022-12-07T12:50:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 60",
+    "Url": "https://nutritionfacts.org/volumes/volume-60/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the bone fracture rates of omnivores vs. vegetarians vs. vegans?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: This video and the next explore whether there is a difference in bone density between those who eat meat and those who don’t.\nOsteoporosis has become a major public health problem worldwide. The morbidity and even mortality of osteoporotic complications, such as hip fractures, are severe. Osteoporosis is diagnosed by testing low in bone mineral density and afflicts about 1 in 20 men over age 65, and 1 in 4 women. Do we need to be concerned about bone mineral density in vegetarians and vegans?\nThere are studies showing vegetarian-style diets during adolescence can have a positive impact on bone in young adulthood, but what we really want to know is about osteoporosis at older ages. In an earlier video Do Vegans Have Lower Bone Mineral Density? I talked about a meta-analysis that concluded that vegetarian diets, particularly vegan diets, were associated with lower bone mineral density, but only by a clinically insigniﬁcant amount. Given the relationship between fracture risk and bone mineral density, the relative risk of fracture in vegans would only be about 10 percent higher than in meat-eaters. But that doesn’t sound very insignificant to me. Now, I talked about how the differences in bone mineral density are largely just a function of vegetarians, and particularly vegans, having such low rates of obesity. (Obese individuals are protected from osteoporosis because they do so much weight-bearing exercise just walking from one room to the next, basically.) But we only care about bone mineral density because we care about bone fractures.\nWhat’s the comparative fracture risk in vegetarians vs. nonvegetarians? Now we’re talkin’. Compared with meat eaters, the same risk for vegetarians, but a 30 percent higher risk for vegans. Now, it was mostly wrist and arm fractures; there weren’t any hip fractures. Wrist fractures are among the most common fractures, and interestingly, occur typically in women who are in good health and active. It’s the kind of fracture you get if you like trip when you run, and fall on an outstretched hand. But the 30 percent increased risk was after controlling for non-dietary factors, including activity such as exercise or an active workplace. The increased risk only disappeared when they controlled for calcium. Vegans only were at higher risk when they got under 525 mg of calcium a day, which is equal to the estimated average requirement.\nAmong those getting at least 525 mg, there was no greater risk. So, the higher fracture risk in the vegans appeared to be a consequence of inadequate calcium intake, which is essential for bone health regardless of what kind of diet you eat. You don’t need to drink milk. A greater intake of milk and dairy products is not associated with a lower risk of osteoporosis or hip fracture. In fact, every additional cup or so of cow’s milk a day was associated with a 9 percent greater risk of hip fracture in prospective studies. But you do have to get calcium from somewhere. Plant-based sources include almonds, sesame seeds, tofu, calcium-fortified plant milks, or the best sources are dark green leafy vegetables such as kale—basically any dark green leafies except for spinach, beet greens, or chard, which are stingy with their calcium.\nAnd most vegans in the study were getting more than the 525 mg. There are a lot of healthy foods packed with calcium, but they only work if you actually eat them. But wait; what about the mountain of data showing that dietary calcium intake is not associated with risk of fracture, and there is no evidence that increasing calcium intake prevents fractures, and so increasing calcium intake should not be recommended for fracture prevention. But that’s based on giving extra calcium to people who are already getting enough calcium. So, it may be like a plateau effect.\nTake women getting only 500 mg of calcium a day, and randomize them to take calcium supplements, and you can drop hip fracture rates 40 percent within 18 months. Now, they also gave them vitamin D, and the women did start out seriously deficient, with vitamin D levels down around 15 ng/ml; so, it’s hard to tease out the effects of the calcium versus the vitamin D. But vegans who aren’t supplementing with vitamin D at higher latitudes can dip down that low during the winter months too. Now, there was a study in Shanghai that found comparable bone health despite lower vitamin D levels down around 15 ng/ml. They were also low in calcium intake, and still had similar bone mineral density. But given that fracture study, I’d recommend people make sure they’re getting enough calcium and enough vitamin D. But that fracture study was published in 2007. A 2020 update found a higher risk of fractures even in vegans getting more than 700 mg of calcium a day. What explains that? We’ll explore just that question next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Appleby P, Roddam A, Allen N, Key T. Comparative fracture risk in vegetarians and nonvegetarians in EPIC-Oxford. Eur J Clin Nutr. 2007;61(12):1400-1406.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17299475/"
+    },
+    {
+      "Title": "Bolland MJ, Leung W, Tai V, et al. Calcium intake and risk of fracture: systematic review. BMJ. 2015;351:h4580.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26420387/"
+    },
+    {
+      "Title": "Chapuy MC, Arlot ME, Duboeuf F, et al. Vitamin D3 and calcium to prevent hip fractures in elderly women. N Engl J Med. 1992;327(23):1637-1642.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1331788/"
+    },
+    {
+      "Title": "Crowe FL, Steur M, Allen NE, Appleby PN, Travis RC, Key TJ. Plasma concentrations of 25-hydroxyvitamin D in meat eaters, fish eaters, vegetarians and vegans: results from the EPIC-Oxford study. Public Health Nutr. 2011;14(2):340-346.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20854716/"
+    },
+    {
+      "Title": "Ho-Pham LT, Nguyen ND, Nguyen TV. Effect of vegetarian diets on bone mineral density: a Bayesian meta-analysis. Am J Clin Nutr. 2009;90(4):943-950.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19571226/"
+    },
+    {
+      "Title": "Hsu E. Plant-based diets and bone health: sorting through the evidence. Curr Opin Endocrinol Diabetes Obes. 2020;27(4):248-252.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32618637/"
+    },
+    {
+      "Title": "Karavasiloglou N, Selinger E, Gojda J, Rohrmann S, Kühn T. Differences in bone mineral density between adult vegetarians and nonvegetarians become marginal when accounting for differences in anthropometric factors. J Nutr. 2020;150(5):1266-1271.",
+      "Url": "https://academic.oup.com/jn/article/150/5/1266/5735637"
+    },
+    {
+      "Title": "Malmir H, Larijani B, Esmaillzadeh A. Consumption of milk and dairy products and risk of osteoporosis and hip fracture: a systematic review and Meta-analysis. Crit Rev Food Sci Nutr. 2020;60(10):1722-1737.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30909722/"
+    },
+    {
+      "Title": "Movassagh EZ, Baxter-Jones ADG, Kontulainen S, Whiting S, Szafron M, Vatanparast H. Vegetarian-style dietary pattern during adolescence has long-term positive impact on bone from adolescence to young adulthood: a longitudinal study. Nutr J. 2018;17(1):36.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29490662/"
+    },
+    {
+      "Title": "Qiao D, Li Y, Liu X, et al. Association of obesity with bone mineral density and osteoporosis in adults: a systematic review and meta-analysis. Public Health. 2020;180:22-28.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31837611/"
+    },
+    {
+      "Title": "Shapses SA. Do we need to be concerned about bone mineral density in vegetarians and vegans? J Nutr. 2020;150(5):983-984.",
+      "Url": "https://academic.oup.com/jn/article/150/5/983/5818440"
+    },
+    {
+      "Title": "Thorpe DL, Knutsen SF, Beeson WL, Rajaram S, Fraser GE. Effects of meat consumption and vegetarian diet on risk of wrist fracture over 25 years in a cohort of peri- and postmenopausal women. Public Health Nutr. 2008;11(6):564-572.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17686206/"
+    },
+    {
+      "Title": "Tong TYN, Appleby PN, Armstrong MEG, et al. Vegetarian and vegan diets and risks of total and site-specific fractures: results from the prospective EPIC-Oxford study. BMC Med. 2020;18(1):353.",
+      "Url": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01815-3"
+    },
+    {
+      "Title": "Xie L, Wang B, Cui X, Tang Q, Cai W, Shen X. Young adult vegetarians in Shanghai have comparable bone health to omnivores despite lower serum 25(Oh) vitamin D in vegans: a cross-sectional study. Asia Pac J Clin Nutr. 2019;28(2):383-388.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31192568/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "almonds",
+      "Url": "https://nutritionfacts.org/topics/almonds/"
+    },
+    {
+      "Title": "bone fractures",
+      "Url": "https://nutritionfacts.org/topics/bone-fractures/"
+    },
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "bone loss",
+      "Url": "https://nutritionfacts.org/topics/bone-loss/"
+    },
+    {
+      "Title": "bone mineral density",
+      "Url": "https://nutritionfacts.org/topics/bone-mineral-density/"
+    },
+    {
+      "Title": "calcium",
+      "Url": "https://nutritionfacts.org/topics/calcium/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "kale",
+      "Url": "https://nutritionfacts.org/topics/kale/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "osteoporosis",
+      "Url": "https://nutritionfacts.org/topics/osteoporosis/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "seeds",
+      "Url": "https://nutritionfacts.org/topics/seeds/"
+    },
+    {
+      "Title": "sesame seeds",
+      "Url": "https://nutritionfacts.org/topics/sesame-seeds/"
+    },
+    {
+      "Title": "spinach",
+      "Url": "https://nutritionfacts.org/topics/spinach/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "Swiss chard",
+      "Url": "https://nutritionfacts.org/topics/swiss-chard/"
+    },
+    {
+      "Title": "tofu",
+      "Url": "https://nutritionfacts.org/topics/tofu/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">My previous video on this topic was </span><a href=\"https://nutritionfacts.org/video/do-vegans-have-lower-bone-mineral-density-and-higher-risk-of-osteoporosis/\"><span style=\"font-weight: 400\">Do Vegans Have Lower Bone Mineral Density and Higher Risk of Osteoporosis?</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">For more on the milk question, see </span><a href=\"https://nutritionfacts.org/video/is-milk-good-for-our-bones/\"><span style=\"font-weight: 400\">Is Milk Good for Our Bones?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">Why not just take calcium supplements? See </span><a href=\"https://nutritionfacts.org/video/are-calcium-supplements-safe/\"><span style=\"font-weight: 400\">Are Calcium Supplements Safe?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/are-calcium-supplements-effective/\"><span style=\"font-weight: 400\">Are Calcium Supplements Effective?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">Next, we will examine what role vitamin D might play in bone health. See </span><a href=\"https://nutritionfacts.org/video/vitamin-d-may-explain-higher-bone-fracture-risk-in-vegans/\"><span style=\"font-weight: 400\">Vitamin D May Explain Higher Bone Fracture Risk in Vegans</span></a><span style=\"font-weight: 400\">.</span></p>\n<p>Update: Check out my newer video <a href=\"https://nutritionfacts.org/video/fall-prevention-is-the-most-important-thing-for-preventing-osteoporosis-bone-fractures/\">Fall Prevention Is the Most Important Thing for Preventing Osteoporosis Bone Fractures</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "Title": "Where Do Deadly Coronaviruses Like MERS-CoV Come From?",
+  "Url": "https://nutritionfacts.org/video/where-do-deadly-coronaviruses-like-mers-cov-come-from/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/kvCiGuoc6uA"
+  },
+  "UpdatedAt": "2020-06-01T11:50:38+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 50Cov",
+    "Url": "https://nutritionfacts.org/volumes/volume-50cov/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "In the last 17 years, there have been three new deadly coronavirus epidemics, but where do emerging diseases emerge from?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIt was December 30, 2019—New Year’s Eve eve—when Dr. Li Wenliang, an ophthalmologist at Wuhan Central Hospital in the Hubei province of China, messaged his fellow physicians alerting them to the appearance of a concerning cluster of pneumonia cases. In response, he was detained for “spreading rumors,” summoned to the Public Security Bureau, and reprimanded for “making false statements that disturbed the public order.” Thirty-nine days later, after becoming infected with the very virus he tried to warn his colleagues about, he was dead at age 33. By that time, the disease had already spread to dozens of countries. My new book How to Survive a Pandemic is dedicated to Dr. Li’s memory.\nHis initial message read “7 SARS cases confirmed at the Hoo-ah-nin Seafood Market.” SARS stands for Severe Acute Respiratory Syndrome, which, seventeen years earlier, had been the first deadly global outbreak triggered by a coronavirus. (Sadly, the doctor who first alerted the world to that epidemic, Carlo Urbani, also succumbed to the disease.)\nCoronaviruses are named for their crown-like appearance under an electron microscope—from the Latin corona, for “crown,” as in coronation—due to a fringe of protein spikes that radiate from the surface. I’m sure you’ve all seen those graphical representations, but this is what they actually look like under an electron microscope. You can see that halo of spikes. These are actually chicken coronaviruses, the first type of coronavirus ever discovered, which cause a disease called avian infectious bronchitis. Here’s the COVID-19 coronavirus. It’s a little hard to see the spikes, but they show up nice in this colorized version.\nBefore the big outbreak of SARS in 2003, only two coronaviruses were known to cause disease in humans, and both caused little more than the common cold. But the SARS coronavirus went on to kill nearly one in ten people it infected––a 10 percent mortality rate.\nA decade later, in 2012, another deadly coronavirus emerged: MERS, the Middle East respiratory syndrome coronavirus. Like SARS, MERS spread to infect thousands of people across dozens of countries, but this time, one in three died. More than a 30 percent mortality rate!\nEmerged, from where? Where do emerging infectious diseases emerge from? According to the CDC, three-quarters of new or emerging infectious diseases in people come from animals, based likely on this landmark study of the risk factors for human disease emergence, and it may be an even greater percentage for human viral infections––all of which may have originated in animals, been zoonotic in origin, meaning an animal-to-human disease.\nIn the case of coronaviruses, most human coronaviruses appear to have arisen originally in bats. The reason bats make such good viral hosts is that up to 200,000 can crowd together in dense roosting colonies, and they can fly more than a thousand miles, acquiring and spreading new viral strains. Their unique navigational tool—echolocation—may even facilitate bat-to-bat transmission by spraying out respiratory secretions.\nBut people aren’t getting the diseases directly from bats. Bats are considered the primordial hosts, the “gene pool” from which genetic fragments of coronaviruses can mix and match. Breaching the species barrier to infect people appears to necessitate intermediary hosts in whom coronaviruses can adapt, amplify, and access human populations. In the case of MERS, the intermediate hosts were found to be camels.\nA bat in Saudi Arabia was found carrying the MERS coronavirus, but it is contact with the bodily fluids of infected camels—particularly their nasal secretions—that is considered the major risk factor for human infection. Once camels infect people, MERS can then be spread human-to-human.\nNow of course, those in the camel business denied the link between MERS and camel exposure. In response to the warnings that those in close camel contact “wear proper personal protective equipment at all times” they launched with a social media campaign entitled, and I’m not making this up, Kiss Your Camel.\nBut wait, we domesticated camels 3,000 years ago. What happened to turn camel slobber into a potential kiss of death? Archived samples of camel blood show MERS had long been circulating in them for decades before spilling over into the human population. Why now?\nCamels used to be allowed to forage outdoors, but as more and more camels were being raised, desertification from overgrazing forced the industry to transition to thousands of camel farms, using enclosed, high-density housing systems where they were confined indoors. And the high-intensity contact between camels alongside their workers is thought to be what helped drive the spillover of the MERS coronavirus from camels to humans. By 2011, open grazing was completely banned in Qatar, the Middle Eastern country with the highest camel density. The next year, the first human cases of MERS were reported.\nIn my next video, I’ll cover the emergence of the SARS coronavirus and then the emergence of SARS coronavirus 2, the cause of COVID-19.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Almathen F, Charruau P, Mohandesan E, et al. Ancient and modern DNA reveal dynamics of domestication and cross-continental dispersal of the dromedary. Proc Natl Acad Sci USA. 2016;113(24):6707-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27162355"
+    },
+    {
+      "Title": "Chan JF, To KK, Tse H, Jin DY, Yuen KY. Interspecies transmission and emergence of novel viruses: lessons from bats and birds. Trends Microbiol. 2013;21(10):544-55.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23770275"
+    },
+    {
+      "Title": "Corman VM, Muth D, Niemeyer D, Drosten C. Hosts and Sources of Endemic Human Coronaviruses. Adv Virus Res. 2018;100:163-188.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29551135"
+    },
+    {
+      "Title": "Farag E, Sikkema RS, Vinks T, et al. Drivers of MERS-CoV Emergence in Qatar. Viruses. 2018;11(1).",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30602691"
+    },
+    {
+      "Title": "Felkai P. [SARS: the beginning of the supersonic diseases era - in memoriam Carlo Urbani (1956-2003)]. Orv Hetil. 2018;159(52):2226-9.",
+      "Url": "http://real.mtak.hu/93838/"
+    },
+    {
+      "Title": "Green A. Li Wenliang. Lancet. 2020;395(10225):682.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7137172/"
+    },
+    {
+      "Title": "Hemida MG, Alnaeem A. Some One Health based control strategies for the Middle East respiratory syndrome coronavirus. One Health. 2019;8:100102.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31485476"
+    },
+    {
+      "Title": "Hemida MG. Middle East Respiratory Syndrome Coronavirus and the One Health concept. PeerJ. 2019;7:e7556.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31497405"
+    },
+    {
+      "Title": "Hui DSC, Zumla A. Severe Acute Respiratory Syndrome: Historical, Epidemiologic, and Clinical Features. Infect Dis Clin North Am. 2019;33(4):869-89.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31668196"
+    },
+    {
+      "Title": "Ksiazek TG, Erdman D, Goldsmith CS, et al. A novel coronavirus associated with severe acute respiratory syndrome. N Engl J Med. 2003;348(20):1953-66.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12690092"
+    },
+    {
+      "Title": "Mandl JN, Schneider C, Schneider DS, Baker ML. Going to Bat(s) for Studies of Disease Tolerance. Front Immunol. 2018;9:2112.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30294323"
+    },
+    {
+      "Title": "Memish ZA, Mishra N, Olival KJ, et al. Middle East respiratory syndrome coronavirus in bats, Saudi Arabia. Emerging Infect Dis. 2013;19(11):1819-23.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24206838"
+    },
+    {
+      "Title": "Memish ZA, Perlman S, Van kerkhove MD, Zumla A. Middle East respiratory syndrome. Lancet. 2020;395(10229):1063-1077.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32145185"
+    },
+    {
+      "Title": "Müller MA, Corman VM, Jores J, et al. MERS coronavirus neutralizing antibodies in camels, Eastern Africa, 1983-1997. Emerging Infect Dis. 2014;20(12):2093-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25425139"
+    },
+    {
+      "Title": "Reilley B, Van herp M, Sermand D, Dentico N. SARS and Carlo Urbani. N Engl J Med. 2003;348(20):1951-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12748315"
+    },
+    {
+      "Title": "Tanne JH, Hayasaki E, Zastrow M, Pulla P, Smith P, Rada AG. Covid-19: how doctors and healthcare systems are tackling coronavirus worldwide. BMJ. 2020;368:m1090.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32188598"
+    },
+    {
+      "Title": "Taylor LH, Latham SM, Woolhouse ME. Risk factors for human disease emergence. Philos Trans R Soc Lond, B, Biol Sci. 2001;356(1411):983-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11516376"
+    },
+    {
+      "Title": "Weber J, Alcorn K. Origins of HIV and the AIDS epidemic. MedGenMed. 2000;2(4):1–6.",
+      "Url": "https://www.medscape.com/viewarticle/408272_1"
+    },
+    {
+      "Title": "Willman M, Kobasa D, Kindrachuk J. A Comparative Analysis of Factors Influencing Two Outbreaks of Middle Eastern Respiratory Syndrome (MERS) in Saudi Arabia and South Korea. Viruses. 2019;11(12).",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31817037"
+    },
+    {
+      "Title": "World Health Organization. Novel Coronavirus (2019-nCoV). Situation report—18. Geneva: WHO. Feb 7, 2020.",
+      "Url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200207-sitrep-18-ncov.pdf?sfvrsn=fa644293_2"
+    },
+    {
+      "Title": "Zhang J, Jia W, Zhu J, et al. Insights into the cross-species evolution of 2019 novel coronavirus. J Infect. 2020.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32142930"
+    },
+    {
+      "Title": "Zoonotic diseases. Centers for Disease Control and Prevention.",
+      "Url": "https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by AvoMedia\nImage credit: Islam Elzayat via pngtree.com. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "China",
+      "Url": "https://nutritionfacts.org/topics/china/"
+    },
+    {
+      "Title": "coronavirus",
+      "Url": "https://nutritionfacts.org/topics/coronavirus/"
+    },
+    {
+      "Title": "COVID-19",
+      "Url": "https://nutritionfacts.org/topics/covid-19/"
+    },
+    {
+      "Title": "lung health",
+      "Url": "https://nutritionfacts.org/topics/lung-health/"
+    },
+    {
+      "Title": "pandemics",
+      "Url": "https://nutritionfacts.org/topics/pandemics/"
+    },
+    {
+      "Title": "respiratory infections",
+      "Url": "https://nutritionfacts.org/topics/respiratory-infections/"
+    },
+    {
+      "Title": "viral infections",
+      "Url": "https://nutritionfacts.org/topics/viral-infections/"
+    },
+    {
+      "Title": "zoonotic disease",
+      "Url": "https://nutritionfacts.org/topics/zoonotic-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the first in a 17-video series on pandemics and COVID-19. You can get a free download of the entire series <a href=\"https://drgreger.org/collections/downloads/products/how-to-survive-a-pandemic-digital\">here</a> right now.</p>\n<p>Here is the whole series:</p>\n<ol>\n<li><a href=\"https://nutritionfacts.org/video/where-do-deadly-coronaviruses-like-mers-cov-come-from/\">Where Do Deadly Coronaviruses Like MERS-CoV Come From?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-sars-coronavirus-and-wet-markets/\">The SARS Coronavirus and Wet Markets</a></li>\n<li><a href=\"https://nutritionfacts.org/video/where-did-the-covid-19-coronavirus-come-from/\">Where Did the COVID-19 Coronavirus Come From?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-last-coronavirus-pandemic-may-have-been-caused-by-livestock/\">The Last Coronavirus Pandemic May Have Been Caused by Livestock</a></li>\n<li><a href=\"https://nutritionfacts.org/video/r0-and-incubation-periods-how-other-coronavirus-outbreaks-were-stopped/\">R0 and Incubation Periods: How Other Coronavirus Outbreaks Were Stopped</a></li>\n<li><a href=\"https://nutritionfacts.org/video/social-distancing-lockdowns-testing-how-to-slow-the-covid-19-pandemic/\">Social Distancing, Lockdowns &amp; Testing: How to Slow the COVID-19 Pandemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/covid-19-symptoms-vs-the-flu-a-cold-or-allergies/\">COVID-19 Symptoms vs. the Flu, a Cold or Allergies</a></li>\n<li><a href=\"https://nutritionfacts.org/video/modifiable-risk-factors-and-comorbidities-for-severe-covid-19-infection/\">Modifiable Risk Factors and Comorbidities for Severe COVID-19 Infection</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-immune-system-and-covid-19-treatment/\">The Immune System and COVID-19 Treatment</a></li>\n<li><a href=\"https://nutritionfacts.org/video/would-zinc-lozenges-help-with-covid-19/\">Would Zinc Lozenges Help with COVID-19?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-avoid-covid-19/\">How to Avoid COVID-19</a></li>\n<li><a href=\"https://nutritionfacts.org/video/hand-washing-sanitizing-to-inactivate-covid-19-coronavirus/\">Hand Washing &amp; Sanitizing to Inactivate COVID-19 Coronavirus</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-to-do-if-you-come-down-with-covid-19/\">What to Do if You Come Down with COVID-19</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-mask-or-diy-face-covering-for-covid-19/\">The Best Mask or DIY Face Covering for COVID-19</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-covid-19-ends-vaccination-mutations-and-herd-immunity/\">How COVID-19 Ends: Vaccination, Mutations, and Herd Immunity</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-covid-19-pandemic-may-just-be-a-dress-rehearsal/\">The COVID-19 Pandemic May Just Be a Dress Rehearsal</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-prevent-the-next-pandemic/\">How to Prevent the Next Pandemic</a></li>\n<li>New 2023 video: <a href=\"https://nutritionfacts.org/video/the-best-diet-for-covid-and-long-covid/\">The Best Diet for COVID and Long COVID</a></li>\n</ol>\n<p>You can also find this information and even more in my new book, <a href=\"https://nutritionfacts.org/how-to-survive-a-pandemic/\">How to Survive a Pandemic</a> (all proceeds are donated to charity). With my <em><a href=\"https://nutritionfacts.org/how-not-to-diet/\">How Not to Diet</a> </em>book tour suspended, the COVID-19 crisis allowed me an opportunity to draw on my past expertise in infectious disease to fast-track this new book. </p>\n<p>If you haven’t seen it yet, we’ve put up a resource page all about COVID-19 with videos, links to my pandemic blog post and special Q&amp;A sessions, my DIY hand sanitizer recipe, and more. Check it out <a href=\"https://nutritionfacts.org/covid-19/\">here</a>. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

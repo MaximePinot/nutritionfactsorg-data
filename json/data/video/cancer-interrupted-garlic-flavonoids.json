@@ -1,0 +1,191 @@
+{
+  "Title": "Cancer, Interrupted: Garlic and Flavonoids",
+  "Url": "https://nutritionfacts.org/video/cancer-interrupted-garlic-flavonoids/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/pAfMJ6cHJ34"
+  },
+  "UpdatedAt": "2013-01-28T12:24:24+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 12",
+    "Url": "https://nutritionfacts.org/volumes/volume-12/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Garlic and flavonoid phytonutrients found in fruits, vegetables, nuts, and grains appear to protect against DNA damage induced by mutagenic chemicals found in cooked meat.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nRemember this study, in which garlic won out as the #1 anticancer vegetable? Well, let’s see what it can do. This is what’s called a comet assay, currently the standard technique for the evaluation of DNA damage. What you’re looking at is the DNA of a single cell—a normal human breast cell—as visualized under a fluorescence microscope. It’s in an electric field, trying to pull the negative-charged DNA to the right. But, our DNA is normally supercoiled tightly together.\nBut, you add a carcinogen, like, in this case, the cooked-meat chemical PhIP, that literally breaks up our DNA. You can see the chopped pieces of DNA breaking away, and flowing out in kind of like the tail of a comet, which is why they call it the comet tail test. The larger the tail, the more DNA has been broken off into pieces.\nBut, if you repeat the experiment, and this time, what if you add the same amount of carcinogen, but, also add in some garlic phytonutrients at the same time? You get some damage, some DNA breakage—but not as much as before. Which kind of garlic would be expected to work the best? Garlic, or elephant garlic, the so-called “garlic for people who don’t like garlic?” And, the answer appears to be garlic-garlic is best.\nWhat about flavonoid phytonutrients,  found in “fruits, vegetables, nuts, and grains?” Here are the top 100 sources in the world. Do they have a protective effect on the meat mutagen-induced DNA damage? They took white blood cells from healthy individuals and colon cancer patients, and exposed them to increasing doses of two cooked meat carcinogens: IQ (found mostly in fried bacon and baked fish), and PhIP (found mostly in fried bacon, fish, and chicken). \nThey used the comet assay again, measuring how much DNA was broken off in the tail. And, as you can see, as the concentration of meat mutagens increases, so does the DNA damage. They then continued to pump in that meat mutagen at the highest level, but started adding some plant phytonutrients—quercetin, found in foods like apples, red onions, and berries, and rutin, found in citrus, buckwheat, and asparagus. Even as the highest carcinogen dose continues, adding plant phytonutrients starts to bring the damage down. That happened in both healthy individuals (the solid line), and cancer patients (the dashed line).\nBut, I want you to notice something else. Even at a zero concentration of cooked meat chemicals, there was more DNA damage present in the white blood cells circulating in cancer patients. And, they didn’t have, like, blood cancer; they had colon cancer.\nEven though the cancer was just in their colon, their whole body was affected by the disease state. Their whole body was under increased oxidative stress, inflicting “significantly higher DNA damage.” Or, maybe the DNA damage came first, and it’s one of the reasons they have cancer in the first place. Either way, cancer patients experience “less reduction of induced DNA damage”—suggesting that “higher concentration of flavonoids would be required to achieve [the same] protective effect.” So, cancer (and other chronic disease) victims need even more fruits and vegetables to reduce the damage done by carcinogens.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "B. N. Fink, S. E. Steck, M. S. Wolff, J. A. Britton, G. C. Kabat, M. M. Gaudet, P. E. Abrahamson, P. Bell, J. C. Schroeder, S. L. Teitelbaum, A. I. Neugut, M. D. Gammon. Dietary flavonoid intake and breast cancer survival among women on Long Island. Cancer Epidemiol. Biomarkers Prev. 2007 16(11):2285 - 2292",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18006917"
+    },
+    {
+      "Title": "C. Wilson, A. Aboyade-Cole, O. Newell, E. Darling-Reed, E. Oriaku, R. Thomas. Diallyl sulfide inhibits PhIP-induced DNA strand breaks in normal human breast epithelial cells. Oncology Reports 2007 17(NA):807-811",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17342319"
+    },
+    {
+      "Title": "K. Puangsombat, P. Gadgil, TA. Houser, MC. Hunt, JS. Smith. Occurrence of heterocyclic amines in cooked meat products. Meat Sci. 2012 Mar;90(3):739-46. Epub 2011 Nov 9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22129588"
+    },
+    {
+      "Title": "M. Kurzawa-Zegota, M. Najafzadeh, A. Baumgartner, D. Anderson. The protective effect of the flavonoids on food-mutagen-induced DNA damage in peripheral blood lymphocytes from colon cancer patients. Food Chem. Toxicol. 2012 50(2):124 - 129",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21907754"
+    },
+    {
+      "Title": "S. Choudhary, S. Sood, R. L. Donnell, H.-C. R. Wang. Intervention of human breast cell carcinogenesis chronically induced by 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine. Carcinogenesis 2012 33(4):876 - 885",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22307971"
+    },
+    {
+      "Title": "X. Lu, C. F. Ross, J. R. Powers, D. E. Aston, B. A. Rasco. Determination of total phenolic content and antioxidant activity of garlic (Allium sativum) and elephant garlic (Allium ampeloprasum) by attenuated total reflectance-Fourier transformed infrared spectroscopy. J. Agric. Food. Chem. 2011 59(10):5215 - 5221",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21506613"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Paul-W and FoodMayhem.com via flickr; Evan-Amos, Ranveig, and Amada44 Ekko via Wikimedia; and University of Leeds Computational Biophysics Group",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "asparagus",
+      "Url": "https://nutritionfacts.org/topics/asparagus/"
+    },
+    {
+      "Title": "bacon",
+      "Url": "https://nutritionfacts.org/topics/bacon/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "berries",
+      "Url": "https://nutritionfacts.org/topics/berries/"
+    },
+    {
+      "Title": "buckwheat",
+      "Url": "https://nutritionfacts.org/topics/buckwheat/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "citrus",
+      "Url": "https://nutritionfacts.org/topics/citrus/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "colon health",
+      "Url": "https://nutritionfacts.org/topics/colon-health/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "flavonoids",
+      "Url": "https://nutritionfacts.org/topics/flavonoids/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "garlic",
+      "Url": "https://nutritionfacts.org/topics/garlic/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "onions",
+      "Url": "https://nutritionfacts.org/topics/onions/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "PhIP",
+      "Url": "https://nutritionfacts.org/topics/phip/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "quercetin",
+      "Url": "https://nutritionfacts.org/topics/quercetin/"
+    },
+    {
+      "Title": "raspberries",
+      "Url": "https://nutritionfacts.org/topics/raspberries/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Be sure to also watch <a href=\"https://nutritionfacts.org/video/veggies-vs-cancer/\">Veggies vs. Cancer</a>. Other foods that may protect DNA include kiwifruit (see <a href=\"https://nutritionfacts.org/video/kiwifruit-and-dna-repair/\">Kiwifruit &amp; DNA Repair</a>); cruciferous vegetables (see <a href=\"https://nutritionfacts.org/video/dna-protection-from-broccoli/\">DNA Protection from Broccoli</a>); ans green tea (see <a href=\"https://nutritionfacts.org/video/cancer-interrupted-green-tea/\">Cancer, Interrupted: Green Tea</a>).</p>\n<p>Should garlic be raw or cooked? See my response to a viewer’s question: <a href=\"https://nutritionfacts.org/questions/what-are-the-anti-cancer-effects-of-garlic/\">How can I preserve the anti-cancer effects of cooked garlic?</a></p>\n<p>Which foods have the most flavonoids? I offer a cheat sheet to the USDA nutrient database in my response to another viewer’s question: <a href=\"https://nutritionfacts.org/questions/which-foods-have-the-most-potassium/\">Which foods have the most potassium?</a></p>\n<p>Which foods have the most antioxidants? See my video series that begins with <a href=\"https://nutritionfacts.org/video/antioxidant-content-of-3139-foods/\">Antioxidant Content of 3,139 Foods</a>.</p>\n<p>What other dietary changes should we consider after a cancer diagnosis? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-lignan-intake/\">Breast Cancer Survival &amp; Lignan Intake</a></li>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-soy/\">Breast Cancer Survival &amp; Soy</a> (though <a href=\"https://nutritionfacts.org/video/too-much-soy-may-neutralize-plant-based-benefits/\">Too Much Soy May Neutralize Benefits</a>)</li>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-survival-butterfat-and-chicken/\">Breast Cancer Survival, Butterfat, &amp; Chicken</a></li>\n<li><a href=\"https://nutritionfacts.org/video/raw-broccoli-and-bladder-cancer-survival/\">Raw Broccoli &amp; Bladder Cancer Survival</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lung-cancer-metastases-and-broccoli/\">Lung Cancer Metastases &amp; Broccoli</a></li>\n<li><a href=\"https://nutritionfacts.org/video/amla-versus-cancer-cell-invasion/\">Amla vs. Cancer Cell Invasion</a></li>\n</ul>\n<p>Please also check out my associated blog posts for more context: <a href=\"https://nutritionfacts.org/2013/07/09/blocking-cancer-formation-green-tea-garlic/\">Foods That May Block Cancer Formation</a>, and <a href=\"https://nutritionfacts.org/2013/11/05/tarragon-toxicity/\">Tarragon Toxicity?</a></p>\n<p>See all of my latest garlic videos <a href=\"https://nutritionfacts.org/topics/garlic/\">here</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

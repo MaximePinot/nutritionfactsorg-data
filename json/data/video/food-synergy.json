@@ -1,0 +1,127 @@
+{
+  "Title": "Food Synergy",
+  "Url": "https://nutritionfacts.org/video/food-synergy/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/I4frA2df81g"
+  },
+  "UpdatedAt": "2016-11-16T13:00:17+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 33",
+    "Url": "https://nutritionfacts.org/volumes/volume-33/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Combining certain foods together may be more beneficial than eating them separately.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThere are thousands of phytochemicals that will never make it onto the side of a cereal box, but may play a role in reducing the risk of chronic diseases—and that’s just the ones we know about. We know whole plant foods have consistently been found to be protective. And, so, it’s reasonable for scientists to try to find the “magic bullet” active ingredient to sell it in a pill. But, “pills…simply cannot mimic this balanced natural combination of phytochemicals present in fruits and vegetables.” When isolated out, the compound may lose its activity, or behave differently. The antioxidant and anticancer activities of plant foods is thought to derive from the additive or synergistic effects—meaning the whole may be greater than the sum of its parts. This helps explain why a pill simply cannot replace the complex interaction of phytochemicals present in whole plant foods.\nAs T. Colin Campbell has pointed out, more than a hundred trials “overwhelmingly show no long-term benefit of vitamin supplements, along with worrisome findings that certain [supplements] may even increase [risk] for diabetes, heart disease, and cancer.” Supplementation with fish oil appears useless or worse; yet, the science doesn’t seem to matter. People continue to buy it. “The public desire for quick fixes through pills…is overwhelming, especially when money can be made.”\nEach plant has thousands of different phytochemicals, and each plant has a whole different phytonutrient profile. And so, there may be synergistic effects when consuming different foods together, as well. Just like eating beta-carotene in carrot form is more beneficial than in pill form—because of all the other compounds in the carrot that may synergize with the beta-carotene—when you dip that carrot in hummus, all of a sudden you have the thousands of carrot compounds mixing with the thousands of chickpea compounds. And, that’s what this study was all about. What happens if you mix different fruits, with different vegetables, with different beans?\nCombining foods between different categories did indeed increase the likelihood of synergy. For example, here’s the antioxidant power of raspberries alone. And, here’s the antioxidant activity of adzuki beans alone. So, if there was strictly an additive effect, the expected combination would come up to here. But, the observed antioxidant power of the combination came out more than either eaten alone.\nWhat about anticancer effects? What if you repeated this study, but this time tried dripping different combinations of foods on breast cancer cells growing in a petri dish? Sometimes, you can get the same synergistic effects. Here’s what grapes can do to breast cancer cells—suppressing their growth about 30%. But, onions worked even better—cutting breast cancer growth in half. Now, if you added half of each together, right, you’d assume you’d get somewhere in the middle between the two; they’d average each other out. But, instead, the researchers got this—suppressing cancer cell growth by up to like 70%.\nSo, the whole plus the whole was greater than the sum of the whole parts. So, did they recommend people eat a variety of foods? Maybe, add some raisins along with some chopped red onion to your next salad? Where’s the money in that?\nNo. The reason they were investigating the different types of interactions was to identify mixtures that could ultimately lead to the development of something like grape-flavored Funyuns, or something.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Campbell TC. Untold nutrition. Nutr Cancer. 2014;66(6):1077-82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25036857"
+    },
+    {
+      "Title": "Liu RH. Health benefits of fruit and vegetables are from additive and synergistic combinations of phytochemicals. Am J Clin Nutr. 2003 Sep;78(3 Suppl):517S-520S.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12936943"
+    },
+    {
+      "Title": "Liu RH. Potential synergy of phytochemicals in cancer prevention: mechanism of action. J Nutr. 2004 Dec;134(12 Suppl):3479S-3485S.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15570057"
+    },
+    {
+      "Title": "Wang S, Meckling KA, Marcone MF, Kakuda Y, Tsao R. Synergistic, additive, and antagonistic effects of food mixtures on total antioxidant capacities. J Agric Food Chem. 2011 Feb 9;59(3):960-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21222468"
+    },
+    {
+      "Title": "Wang S, Zhu F, Meckling KA, Marcone MF. Antioxidant capacity of food mixtures is not correlated with their antiproliferative activity against MCF-7 breast cancer cells. J Med Food. 2013 Dec;16(12):1138-45.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24328703"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Unsplash via Pixabay. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "beta carotene",
+      "Url": "https://nutritionfacts.org/topics/beta-carotene/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "carrots",
+      "Url": "https://nutritionfacts.org/topics/carrots/"
+    },
+    {
+      "Title": "chickpeas",
+      "Url": "https://nutritionfacts.org/topics/chickpeas/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "Dr. T. Colin Campbell",
+      "Url": "https://nutritionfacts.org/topics/dr-t-colin-campbell/"
+    },
+    {
+      "Title": "fish oil",
+      "Url": "https://nutritionfacts.org/topics/fish-oil/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "reductionism",
+      "Url": "https://nutritionfacts.org/topics/reductionism/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vitamins",
+      "Url": "https://nutritionfacts.org/topics/vitamins/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Why should we care about the antioxidant power of foods? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/antioxidants-and-depression/\">Antioxidants and Depression</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-asthma-with-fruits-and-vegetables/\">Treating Asthma with Fruits and Vegetables</a></li>\n<li><a href=\"https://nutritionfacts.org/video/food-antioxidants-and-cancer/\">Food Antioxidants and Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/antioxidant-rich-foods-with-every-meal/\">Antioxidant-Rich Foods with Every Meal</a></li>\n<li><a href=\"https://nutritionfacts.org/video/minimum-recommended-daily-allowance-of-antioxidants/\">Minimum “Recommended Daily Allowance” of Antioxidants</a></li>\n<li><a href=\"https://nutritionfacts.org/video/antioxidants-in-a-pinch/\">Antioxidants in a Pinch</a></li>\n<li><a href=\"https://nutritionfacts.org/video/antioxidant-power-of-plant-foods-versus-animal-foods/\">Antioxidant Power of Plant Foods vs. Animal Foods</a></li>\n</ul>\n<p>If you’re not familiar with this concept of reductionism, be sure to check out some of these other videos:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/industry-response-to-plants-not-pills/\">Industry Response to Plants Not Pills</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-is-nutrition-so-commercialized/\">Why Is Nutrition So Commercialized?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/reductionism-deficiency-mentality/\">Reductionism and the Deficiency Mentality</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

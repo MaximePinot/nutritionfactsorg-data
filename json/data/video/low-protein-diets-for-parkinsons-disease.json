@@ -1,0 +1,103 @@
+{
+  "Title": "Low-Protein Diets for Parkinson’s Disease",
+  "Url": "https://nutritionfacts.org/video/low-protein-diets-for-parkinsons-disease/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/TmgXRiIPIiQ"
+  },
+  "UpdatedAt": "2022-10-03T11:50:58+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 59",
+    "Url": "https://nutritionfacts.org/volumes/volume-59/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How might we maximize the therapeutic efficiency of levodopa?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nParkinson’s disease is a disease of dopamine deficiency in the brain. You can’t just have people take dopamine, because it can’t pass through the blood-brain barrier. But you can give people a dopamine precursor called levodopa, or L-dopa, which can get up into the brain and be turned into dopamine. However, with prolonged treatment, the patients start to show a reduced response to levodopa. After five years of levodopa treatment, the benefits start wearing off before the next dose, or don’t completely contain symptoms in a substantial proportion of patients, and represents a major source of disability and signiﬁcantly impairs quality of life. Therefore, maximizing the therapeutic efficiency of levodopa is an important goal, and that’s where protein-restricted diets come in. Wait, what does protein have to do with Parkinson’s?\nCertain amino acids in proteins have been proven to impair the therapeutic effect of levodopa by reducing its absorption and inﬂux into the brain, because they use the same transporter, so can crowd each other out. Here’s a before-and-after PET scan showing levodopa activity in the brain before and after protein loading. That’s why protein-restricted diets can improve the efﬁcacy of levodopa. There are three ways to do that: an overall low-protein diet, a so-called protein-redistribution diet, or a combination of the two.\nAs a dietary strategy, a low-protein diet is nice because it’s not only eﬀective, but also simple to understand and follow. And by low protein, we’re just talking about sticking to the recommended amount of protein, .8 grams per kilogram of body weight. As I’ve covered before, most people are eating excess protein and suffering because of it. .8 grams per KG is equivalent to about .36 grams per pound; so, you take your weight in pounds, multiply times .36, and get how many grams in protein you should eat in a day. So, if you weigh 140 pounds, you should eat about 50 grams of protein a day. The positive effect of limiting dietary protein can be noticed within one week, even in patients no longer responding to the manipulation of levodopa’s medication schedule or to other anti-Parkinson drugs.\nProtein-redistribution diets have been investigated most thoroughly, and have been conﬁrmed to be eﬀective, with a remarkable 60 to 100 percent response rate. We know about the deleterious influence of dietary protein and the benefit of a low-protein diet; however, it’s not only the total amount of daily protein, but also how it’s distributed over the day. If we only eat protein-rich foods at night, staying under a total of 10 grams a day for breakfast and lunch, then we eliminate the amino acid surges during the day. And who cares if they surge after we go to bed? Parkinson’s is a movement disorder, and so if the drugs are not going to work, then it might as well be when you’re sleeping.\nFiber is another way to get levodopa to work better. Significant improvements in L-dopa blood levels and Parkinson’s symptoms starting as early as 30 to 60 minutes after eating a diet rich in insoluble fiber––like the kind found concentrated in whole grains. \nWell, if fiber helps, then how about a plant-based diet for the management of Parkinson’s disease? You don’t know, until you put it to the test. They looked at a normal protein amount-redistributed plant-based diet, and Parkinson’s patients saw a significant improvement in symptoms and performance, making it a convenient way to conjugate the positive effect of non-excess protein intake and a high fiber intake without limiting total food amount.\nPlanning such a diet is rather simple, centering around unprocessed plant foods, but reserving protein-rich plants like beans, split peas, chickpeas, lentils, and peanuts to the evening meal and voilà! The clinical improvement hit all the main motor signs: the rigidity, the tremor, and slowness of movement—the things that really matter to Parkinson’s patients, in particular the tremor, the shaking, which often does not respond to drugs, but was highly positively affected by the plant-based diet. So, plants may be preferable for Parkinson’s, but you don’t know how well it will work for you until you give it a try.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Astarloa R, Mena MA, Sánchez V, de la Vega L, de Yébenes JG. Clinical and pharmacokinetic effects of a diet rich in insoluble fiber on Parkinson disease. Clin Neuropharmacol. 1992;15(5):375-80.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1330307/"
+    },
+    {
+      "Title": "Baroni L, Bonetto C, Tessan F, et al. Pilot dietary study with normoproteic protein-redistributed plant-food diet and motor performance in patients with Parkinson's disease. Nutr Neurosci. 2011;14(1):1-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21535916/"
+    },
+    {
+      "Title": "Baroni L, Zuliani C. A plant-food diet in the risk and management of parkinson’s disease. In: Bioactive Nutraceuticals and Dietary Supplements in Neurological and Brain Disease. Elsevier; 2015:411-20.",
+      "Url": "https://www.sciencedirect.com/science/article/pii/B9780124114623000436?via%3Dihub"
+    },
+    {
+      "Title": "Karstaedt PJ, Pincus JH. Protein redistribution diet remains effective in patients with fluctuating parkinsonism. Arch Neurol. 1992;49(2):149-51.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1736847/"
+    },
+    {
+      "Title": "Leenders KL, Poewe WH, Palmer AJ, Brenton DP, Frackowiak RS. Inhibition of L-[18F]fluorodopa uptake into human brain by amino acids demonstrated by positron emission tomography. Ann Neurol. 1986;20(2):258-62.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/3092728/"
+    },
+    {
+      "Title": "Stoessl AJ. Neuroimaging in Parkinson's disease. Neurotherapeutics. 2011;8(1):72-81.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21274687/"
+    },
+    {
+      "Title": "Wang L, Xiong N, Huang J, et al. Protein-Restricted Diets for Ameliorating Motor Fluctuations in Parkinson's Disease. Front Aging Neurosci. 2017;9:206.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28701947/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "chickpeas",
+      "Url": "https://nutritionfacts.org/topics/chickpeas/"
+    },
+    {
+      "Title": "dopamine",
+      "Url": "https://nutritionfacts.org/topics/dopamine/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "legumes",
+      "Url": "https://nutritionfacts.org/topics/legumes/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "peanuts",
+      "Url": "https://nutritionfacts.org/topics/peanuts/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "split peas",
+      "Url": "https://nutritionfacts.org/topics/split-peas/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><a href=\"https://nutritionfacts.org/video/are-bcaa-branched-chain-amino-acids-healthy/\"><span style=\"font-weight: 400\">Are BCAA (Branched Chain Amino Acids) Healthy?</span> </a><span style=\"font-weight: 400\">is the video about excess protein I mentioned. </span></p>\n<p><span style=\"font-weight: 400\">I have more videos on Parkinson’s disease coming up, but you may be interested in these now: </span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/preventing-parkinsons-disease-with-diet/\"><span style=\"font-weight: 400\">Preventing Parkinson’s Disease with Diet</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/treating-parkinsons-disease-with-diet/\"><span style=\"font-weight: 400\">Treating Parkinson’s Disease with Diet</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/essential-tremor-and-diet/\"><span style=\"font-weight: 400\">Essential Tremor and Diet</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/is-something-in-tobacco-protective-against-parkinsons-disease/\"><span style=\"font-weight: 400\">Is Something in Tobacco Protective Against Parkinson’s Disease?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/peppers-and-parkinsons-the-benefits-of-smoking-without-the-risks/\"><span style=\"font-weight: 400\">Peppers and Parkinson’s: The Benefits of Smoking Without the Risks?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/could-lactose-explain-the-milk-and-parkinsons-disease-link/\"><span style=\"font-weight: 400\">Could Lactose Explain the Milk and Parkinson’s Disease Link?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/parkinsons-disease-and-the-uric-acid-sweet-spot/\"><span style=\"font-weight: 400\">Parkinson’s Disease and the Uric Acid Sweet Spot</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-role-meat-may-play-in-triggering-parkinsons-disease/\"><span style=\"font-weight: 400\">The Role Meat May Play in Triggering Parkinson’s Disease</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/coffee-put-to-the-test-for-treating-parkinsons-disease/\"><span style=\"font-weight: 400\">Coffee Put to the Test for Treating Parkinson’s Disease</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-parkinsons-disease-with-velvet-beans-mucuna-pruriens/\">Treating Parkinson’s Disease with Velvet Beans (<i>Mucuna pruriens</i>)</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-parkinsons-disease-with-fava-beans-faba-or-broad-beans/\">Treating Parkinson’s Disease with Fava Beans (Faba or Broad Beans)</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

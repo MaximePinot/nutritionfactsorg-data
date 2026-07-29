@@ -1,0 +1,231 @@
+{
+  "Title": "Which Foods Are the Most Anti-Angiogenic?",
+  "Url": "https://nutritionfacts.org/video/which-foods-are-the-most-anti-angiogenic/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/YMcuLFxR3Ks"
+  },
+  "UpdatedAt": "2023-07-31T11:50:26+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 62",
+    "Url": "https://nutritionfacts.org/volumes/volume-62/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "For cancer prevention, researchers suggest “constant consumption” of anti-angiogenic foods.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nBody fat is probably the most highly vascularized tissue in the body—meaning has the most blood vessels. In fact, each individual fat cell is surrounded by an extensive network of tiny blood vessels. And, since the formation of these blood vessels appears to play a critical role in fatty tissue growth and reduction, the regulation of angiogenesis––the blood vessel formation process––may contribute to weight gain and weight loss. So, researchers tried injecting anti-angiogenic drugs into overfed lab animals, and were able to induce profound weight loss in mice as well as in “nonhuman primates” (which is how scientists often refer to monkeys). The problem is that anti-angiogenic drugs can cause a variety of rare but fatal side effects. We may be willing to accept those risks in the context of cancer treatment, but when it comes to cancer prevention or obesity, anti-angiogenic diets would seem a safer bet (not to mention cheaper—anti-angiogenic drugs can cost $6,000 per dose). So, which foods are the most anti-angiogenic?\nIt’s interesting how they figured out that dietary components could be anti-angiogenic at all. Realizing that those eating plant-based diets were protected from diseases of excess angiogenesis, like cancer and diabetic vision loss, researchers took a group of plant-based eaters and starting pitting various components of their urine against the growth of human blood vessel cells harvested from discarded umbilical cords. The concentration of phytonutrients in the urine of vegetarians can be 30 times higher than that of the general population. Using this method, they identified a number of natural anti-angiogenic compounds in our diet. The question then became: could the levels required to block angiogenesis in a petri dish be reached in the bloodstream after eating a meal? The answer, researchers soon realized, is yes.\nAnti-angiogenic concentrations of broccoli compounds can be reached in the bloodstream within an hour, eating less than three quarters of a cup of broccoli soup. So, these are totally doable kinds of quantities. You’ll note most of these compounds may cleared from our body within six hours, though, and fall back to nearly zero within 24 hours. So, we should strive to eat cruciferous vegetables at least once a day. Anti-angiogenic concentrations of b-cryptoxanthin can be reached within hours of eating two cups of red-fleshed papaya. One and a quarter cup of boiled onions may get you an anti-angiogenic dose of quercetin circulating in your blood in less than an hour. The level of protective soybean compounds that may be necessary has been found in the bloodstream of those eating ordinary Japanese diets. Now, I’m not dreaming up some sort of broccoli-papaya-onion-tofu casserole; these are just examples showing anti-angiogenic concentrations can be achieved within your bloodstream after eating reasonable serving sizes.\nIn general, the most concentrated dietary sources of polyphenols, the class of phytonutrients containing many of the anti-angiogenic compounds discovered to date, are herbs and spices. The only others to place in the top ten (out of more than 450 foods tested) were berries, cocoa powder, and ground flaxseeds. On a per-serving basis, most of the top contenders are berries, with artichokes leading the vegetables and whole grain rye leading the grains. Ironically, yogurt is a leading source in the United States, but only because most are fruit-flavored, with many containing berries as ingredients, whereas even plain soy yogurt makes it into the top 25.\nFor cancer prevention, researchers suggest the “constant consumption” of anti-angiogenic foods. Do we have evidence that it’s having an effect? Well, based on the analysis of more than a thousand tumors from one of Harvard’s studies of male health professionals, men eating the most tomato products had significantly less angiogenesis within their tumor, which then appeared to translate into a reduced risk of fatal disease. Yeah, but would the same anti-angiogenic potential of fruits and vegetables also help keep our bellies from growing? There’s only one way to find out!\nA meta-analysis of more than a dozen randomized controlled trials of fruits and vegetable interventions for overweight individuals found six extra pounds of weight loss. But that could be from a whole variety of factors, like decreased calorie density from the fiber and water content. But maybe angiogenesis inhibition is playing a role? I originally planned on including a section on angiogenesis in How Not to Diet, but only wanted to include proven mechanisms of weight loss. So, it’s not in the book, but I thought it was so interesting I made these two videos about it.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Adlercreutz H, Markkanen H, Watanabe S. Plasma concentrations of phyto-oestrogens in Japanese men. Lancet. 1993;342(8881):1209-1210.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7901532/"
+    },
+    {
+      "Title": "Al Janobi AA, Mithen RF, Gasper AV, et al. Quantitative measurement of sulforaphane, iberin and their mercapturic acid pathway metabolites in human plasma and urine using liquid chromatography-tandem electrospray ionisation mass spectrometry. J Chromatogr B Analyt Technol Biomed Life Sci. 2006;844(2):223-234.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16931178/"
+    },
+    {
+      "Title": "Ambra R, Rimbach G, de Pascual Teresa S, et al. Genistein affects the expression of genes involved in blood pressure regulation and angiogenesis in primary human endothelial cells. Nutr Metab Cardiovasc Dis. 2006;16(1):35-43.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16399490/"
+    },
+    {
+      "Title": "Arnotti K, Bamber M. Fruit and vegetable consumption in overweight or obese individuals: a meta-analysis. West J Nurs Res. 2020;42(4):306-314.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31256714/"
+    },
+    {
+      "Title": "Barnhart KF, Christianson DR, Hanley PW, et al. A peptidomimetic targeting white fat causes weight loss and improved insulin resistance in obese monkeys. Sci Transl Med. 2011;3(108):108ra112.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22072637/"
+    },
+    {
+      "Title": "Bhattacharjee S, Mandal DP. Angiogenesis modulation: the “spice effect.” J Environ Pathol Toxicol Oncol. 2012;31(3):273-283.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23339701/"
+    },
+    {
+      "Title": "Cavell BE, Syed Alwi SS, Donlevy A, Packham G. Anti-angiogenic effects of dietary isothiocyanates: mechanisms of action and implications for human health. Biochem Pharmacol. 2011;81(3):327-336.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20955689/"
+    },
+    {
+      "Title": "Fotsis T, Pepper M, Adlercreutz H, et al. Genistein, a dietary-derived inhibitor of in vitro angiogenesis. Proc Natl Acad Sci U S A. 1993;90(7):2690-2694.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7681986/"
+    },
+    {
+      "Title": "Fotsis T, Pepper MS, Aktas E, et al. Flavonoids, dietary-derived inhibitors of cell proliferation and in vitro angiogenesis. Cancer Res. 1997;57(14):2916-2921.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9230201/"
+    },
+    {
+      "Title": "Graefe EU, Wittig J, Mueller S, et al. Pharmacokinetics and bioavailability of quercetin glycosides in humans. J Clin Pharmacol. 2001;41(5):492-499.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11361045/"
+    },
+    {
+      "Title": "Huang H, Zheng Y, Zhu J, Zhang J, Chen H, Chen X. An updated meta-analysis of fatal adverse events caused by Bevacizumab therapy in cancer patients. PLoS One. 2014;9(3):e89960.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24599121/"
+    },
+    {
+      "Title": "Lemoine AY, Ledoux S, Larger E. Adipose tissue angiogenesis in obesity. Thromb Haemost. 2013;110(4):661-668.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23595655/"
+    },
+    {
+      "Title": "Liu L, Meydani M. Angiogenesis inhibitors may regulate adiposity. Nutr Rev. 2003;61(11):384-387.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14677573/"
+    },
+    {
+      "Title": "Pérez-Jiménez J, Neveu V, Vos F, Scalbert A. Identification of the 100 richest dietary sources of polyphenols: an application of the Phenol-Explorer database. Eur J Clin Nutr. 2010;64 Suppl 3:S112-120.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21045839/"
+    },
+    {
+      "Title": "Quesada-Gómez JM, Santiago-Mora R, Durán-Prado M, et al. Β-cryptoxanthin inhibits angiogenesis in human umbilical vein endothelial cells through retinoic acid receptor. Mol Nutr Food Res. 2018;62(2).",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29131551/"
+    },
+    {
+      "Title": "Rupnick MA, Panigrahy D, Zhang CY, et al. Adipose tissue mass can be regulated through the vasculature. Proc Natl Acad Sci U S A. 2002;99(16):10730-10735.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12149466/"
+    },
+    {
+      "Title": "Schweiggert RM, Kopec RE, Villalobos-Gutierrez MG, et al. Carotenoids are more bioavailable from papaya than from tomato and carrot in humans: a randomised cross-over study. Br J Nutr. 2014;111(3):490-498.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23931131/"
+    },
+    {
+      "Title": "Sebastian RS, Wilkinson Enns C, Goldman JD, et al. A new database facilitates characterization of flavonoid intake, sources, and positive associations with diet quality among U.S, adults. J Nutr. 2015;145(6):1239-1248.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25948787/"
+    },
+    {
+      "Title": "Seeley RJ. Treating obesity like a tumor. Cell Metab. 2012;15(1):1-2.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22225867/"
+    },
+    {
+      "Title": "Siddiqui M, Rajkumar SV. The high cost of cancer drugs and what we can do about it. Mayo Clin Proc. 2012;87(10):935-943.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23036669/"
+    },
+    {
+      "Title": "Tan WF, Lin LP, Li MH et al. Quercetin, a dietary-derived flavonoid, possesses antiangiogenic potential. Eur J Pharmacol. 2003;459(2-3):255-262.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12524154/"
+    },
+    {
+      "Title": "Tarver T. The Chronic Disease Food Remedy. Food Technol. 2012;66(10):23-31.",
+      "Url": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2012/october/features/the-chronic-disease-food-remedy"
+    },
+    {
+      "Title": "Zu K, Mucci L, Rosner BA, et al. Dietary lycopene, angiogenesis, and prostate cancer: a prospective study in the prostate-specific antigen era. J Natl Cancer Inst. 2014;106(2):djt430.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24463248/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "angiogenesis",
+      "Url": "https://nutritionfacts.org/topics/angiogenesis/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "artichokes",
+      "Url": "https://nutritionfacts.org/topics/artichokes/"
+    },
+    {
+      "Title": "berries",
+      "Url": "https://nutritionfacts.org/topics/berries/"
+    },
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cocoa",
+      "Url": "https://nutritionfacts.org/topics/cocoa/"
+    },
+    {
+      "Title": "cruciferous vegetables",
+      "Url": "https://nutritionfacts.org/topics/cruciferous-vegetables/"
+    },
+    {
+      "Title": "edamame",
+      "Url": "https://nutritionfacts.org/topics/edamame/"
+    },
+    {
+      "Title": "flaxseeds",
+      "Url": "https://nutritionfacts.org/topics/flax-seeds/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "polyphenols",
+      "Url": "https://nutritionfacts.org/topics/polyphenols/"
+    },
+    {
+      "Title": "rye",
+      "Url": "https://nutritionfacts.org/topics/rye/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "soybeans",
+      "Url": "https://nutritionfacts.org/topics/soybeans/"
+    },
+    {
+      "Title": "tofu",
+      "Url": "https://nutritionfacts.org/topics/tofu/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    },
+    {
+      "Title": "yogurt",
+      "Url": "https://nutritionfacts.org/topics/yogurt/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">The previous video was </span><a href=\"https://nutritionfacts.org/video/targeting-angiogenesis-to-lose-weight/\"><span style=\"font-weight: 400\">Targeting Angiogenesis to Lose Weight</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">You can find more on cancer prevention in </span><a href=\"https://nutritionfacts.org/video/how-not-to-die-from-cancer/\"><span style=\"font-weight: 400\">How Not to Die from Cancer</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

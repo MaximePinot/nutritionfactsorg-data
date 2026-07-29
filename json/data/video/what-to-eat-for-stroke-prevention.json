@@ -1,0 +1,147 @@
+{
+  "Title": "What to Eat for Stroke Prevention",
+  "Url": "https://nutritionfacts.org/video/what-to-eat-for-stroke-prevention/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/G1E7Upc2lPQ"
+  },
+  "UpdatedAt": "2020-07-29T11:50:41+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 50",
+    "Url": "https://nutritionfacts.org/volumes/volume-50/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "More than 90% of stroke risk is attributable to modifiable risk factors.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nStrokes are one of the leading causes of death and disability in the world, the most common cause of seizures in the elderly, and the second most common cause of dementia and a frequent cause of major depression. In short, stroke is a burdensome—but preventable––brain disorder.\nAccording to the Global Burden of Disease Study, the largest study of risk factors for human disease in history, funded by the Bill and Melinda Gates Foundation, more than 90% of the stroke burden is attributable to modiﬁable risk factors, though some are easier to modify than others. For example, about 10% of all healthy years of life lost due to stroke may be due to ambient air pollution. So, yeah, technically that’s a modifiable risk factor; you could just move out of the city to some place with cleaner air. But perhaps easier to just quit smoking, which accounts for 18% of the stroke death and disability––about as much as diets high in sodium. Diets high in salt are as bad as smoking when it comes to stroke burden, but not as bad as inadequate fruit and vegetable consumption. Yes, there’s also other things, like sedentary lifestyles, which is not as bad as not eating enough whole grains, but of the 89% of stroke death and disability that’s attributable to modiﬁable risk factors, fully half appears to be due to just not eating enough fruits and veggies.\nFruit… and vegetable consumption is associated with lower risk of about a dozen different diseases, and stroke is way up there. There appears to be a linear dose-response relationship, a straight-line relationship between more fruits and vegetables and lower stroke risk, suggesting that the risk of stroke decreases by 32% for every 200-gram increase in fruits—that’s just like one apple a day, and 11% lower risk for each equivalent amount of vegetables. Particularly potent: citrus fruits, apples and pears…and dark green leafy vegetables, one of which you can drink: the green leaves of green tea. Drinking three cups of green tea a day is associated with an 18% lower stroke risk.\nBut association doesn’t necessarily mean causation. Have there ever been any vegetables put to the test in randomized controlled trials? Yes. Garlic is so potent you can stuff garlic powder into a capsule or compress it into a tablet, so you can put it head to head against a sugar pill. And…garlic beat out placebo for the prevention of CIMT progression (meaning the thickening of the major artery walls in the neck going up to the brain, a key predictor of stroke risk), which continued to worsen in the placebo group, but not the garlic group that had been taking just a quarter teaspoon of garlic powder a day. That would cost about a penny a day, and just make your food yummier anyway.\nOkay, but has there ever been an interventional trial that actually followed people out to prove that a certain food reduced strokes? Yes, nuts. The PREDIMED study showed that an ounce a day of nuts, which is what I recommend in my Daily Dozen, cut stroke risk nearly in half. But wait, PREDIMED? Wait a second, wasn’t that the study that was retracted? The PREDIMED trial is one of the most influential randomized trials ever, yet in 2018 it was retracted––only to be later republished, after making the necessary corrections, due to irregularities in their randomization procedures. The original paper was withdrawn, but in their reanalysis, they found the same results. The same 46% fall in stroke risk in the added nuts group, dropping the 10-year risk of stroke from about 6% down to 3%.\nThe good news is that stroke risk can be reduced substantially by an active lifestyle, cessation of smoking, and a healthy diet. All we have to do now is educate and convince people on the beneﬁts that can be expected from healthy lifestyle and nutrition.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Agarwal A, Ioannidis JPA. PREDIMED trial of Mediterranean diet: retracted, republished, still trusted?. BMJ. 2019;364:l341.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30733217"
+    },
+    {
+      "Title": "Angelino D, Godos J, Ghelfi F, et al. Fruit and vegetable consumption and health outcomes: an umbrella review of observational studies. Int J Food Sci Nutr. 2019;70(6):652-667.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30764679"
+    },
+    {
+      "Title": "Estruch R, Ros E, Salas-salvadó J, et al. Primary Prevention of Cardiovascular Disease with a Mediterranean Diet Supplemented with Extra-Virgin Olive Oil or Nuts. N Engl J Med. 2018;378(25):e34.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29897866"
+    },
+    {
+      "Title": "Feigin VL, Roth GA, Naghavi M, et al. Global burden of stroke and risk factors in 188 countries, during 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013. Lancet Neurol. 2016;15(9):913-924.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27291521"
+    },
+    {
+      "Title": "Galimanis A, Mono ML, Arnold M, Nedeltchev K, Mattle HP. Lifestyle and stroke risk: a review. Curr Opin Neurol. 2009;22(1):60-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19155763"
+    },
+    {
+      "Title": "Hachinski V, Azarpazhooh MR. Stroke is a burdensome but preventable brain disorder. Lancet Neurol. 2016;15(9):892-893.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27291522"
+    },
+    {
+      "Title": "Hu D, Huang J, Wang Y, Zhang D, Qu Y. Fruits and vegetables consumption and risk of stroke: a meta-analysis of prospective cohort studies. Stroke. 2014;45(6):1613-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24811336"
+    },
+    {
+      "Title": "Iacoviello L, Bonaccio M, Cairella G, et al. Diet and primary prevention of stroke: Systematic review and dietary recommendations by the ad hoc Working Group of the Italian Society of Human Nutrition. Nutr Metab Cardiovasc Dis. 2018;28(4):309-334.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29482962"
+    },
+    {
+      "Title": "Mahdavi-roshan M, Zahedmehr A, Mohammad-zadeh A, et al. Effect of garlic powder tablet on carotid intima-media thickness in patients with coronary artery disease: a preliminary randomized controlled trial. Nutr Health. 2013;22(2):143-55.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25573347"
+    },
+    {
+      "Title": "Yi M, Wu X, Zhuang W, et al. Tea Consumption and Health Outcomes: Umbrella Review of Meta-Analyses of Observational Studies in Humans. Mol Nutr Food Res. 2019;63(16):e1900389.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31216091"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "citrus",
+      "Url": "https://nutritionfacts.org/topics/citrus/"
+    },
+    {
+      "Title": "complementary medicine",
+      "Url": "https://nutritionfacts.org/topics/complementary-medicine/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "garlic",
+      "Url": "https://nutritionfacts.org/topics/garlic/"
+    },
+    {
+      "Title": "Global Burden of Disease Study",
+      "Url": "https://nutritionfacts.org/topics/global-burden-of-disease-study/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "green tea",
+      "Url": "https://nutritionfacts.org/topics/green-tea/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "lifestyle medicine",
+      "Url": "https://nutritionfacts.org/topics/lifestyle-medicine/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "pears",
+      "Url": "https://nutritionfacts.org/topics/pears/"
+    },
+    {
+      "Title": "PREDIMED",
+      "Url": "https://nutritionfacts.org/topics/predimed/"
+    },
+    {
+      "Title": "seizures",
+      "Url": "https://nutritionfacts.org/topics/seizures/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    },
+    {
+      "Title": "tea",
+      "Url": "https://nutritionfacts.org/topics/tea/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Okay, to recap: exercise, whole grains, fruits, and vegetables—especially citrus, apples, pears, and dark green leafy vegetables—green tea, garlic, and nuts. These are all things we should strive to include in our daily routines. Besides smoking and salt, is there anything else we should avoid? That’s the subject of my next video: <a href=\"https://nutritionfacts.org/video/what-not-to-eat-for-stroke-prevention/\">What Not to Eat for Stroke Prevention</a>.</p>\n<p>For more info on protective foods, see my previous videos on stroke, including:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-to-prevent-a-stroke/\">How to Prevent a Stroke</a></li>\n<li><a href=\"https://nutritionfacts.org/video/preventing-strokes-with-diet/\">Preventing Strokes with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/predimed-does-eating-nuts-prevent-strokes/\">PREDIMED: Does Eating Nuts Prevent Strokes?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/food-antioxidants-stroke-and-heart-disease/\">Food Antioxidants, Stroke, and Heart Disease</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-canned-fruit-as-healthy/\">Is Canned Fruit as Healthy?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/chocolate-and-stroke-risk/\">Chocolate &amp; Stroke Risk</a></li>\n<li><a href=\"https://nutritionfacts.org/video/best-foods-to-reduce-stroke-risk/\">Best Foods to Reduce Stroke Risk</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lowering-our-sodium-to-potassium-ratio-to-reduce-stroke-risk/\">Lowering Our Sodium-to-Potassium Ratio to Reduce Stroke Risk</a></li>\n</ul>\n<p>2023 Update: I recently put out a new video, <a href=\"https://nutritionfacts.org/video/update-on-vegetarian-stroke-risk/\">Update on Vegetarian Stroke Risk</a>. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

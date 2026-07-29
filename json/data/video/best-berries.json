@@ -1,0 +1,111 @@
+{
+  "Title": "Best Berries",
+  "Url": "https://nutritionfacts.org/video/best-berries/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/Xp_lb_Pe7gE"
+  },
+  "UpdatedAt": "2012-01-09T13:00:36+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Compared to popular fruits such as apples, bananas, and mangoes, which of the hundreds of different berries tested have the most and least antioxidant power: blackberries, blueberries, cranberries, crowberries, dog rose berries, grapes, raspberries, strawberries, or Tahitian noni juice?",
+  "Transcript": "A plant-based diet protects against chronic oxidative stress-related diseases, but which plant foods are the best? Berries are the healthiest fruits, and this study analyzed more than a hundred different berries and berry products.\nJust to give a sense of scale, this is how many antioxidants are in America’s two most popular fruits: bananas and apples. Now, the most popular fruit in the world is mango, which does better. But none of these are a match for the berries: here’s a cup of strawberries, blueberries, raspberries, cranberries, and blackberries.\nNow that’s pretty much where most of us have to leave it, unless you have access to crowberries. Or—whoa!—dog rose berries. But getting back to what we can actually buy in a store, you see, I keep changing the scale here on the right.\nWhat about goji berries? I’ll cover those in an upcoming video on dried fruit. What about a shot of Tahitian noni juice? Doesn’t even make it up to banana. And sadder than even that is a cup of green grapes, which, technically, are berries, but nutritionally, are the Wonder Bread of the fruit kingdom.\nWhat about açaí berries? There was actually an açaí study that caught my eye last year in the Journal of Experimental Gerontology. Açaí fruit pulp improves survival on a high-fat diet. I thought, how interesting, until I reread the title more closely: “Açaí…improves [the] survival of flies on a high fat diet.” Why would you even want to do that? I imagine the researchers out collecting flies from some fast food dumpster or something.\nUnfortunately, açaí wasn’t tested in this study. Hopefully they’ll come back next year and make it the 3,140th.\nIn the meanwhile, I encourage everyone to eat berries every day, to always have bags of frozen berries in their freezer. Whichever ones you like—but, as we learned in this study, we can get more than twice the bang for our buck choosing blackberries, for example, over strawberries.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by MaryAnn Allison.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Carlsen MH, Halvorsen BL, Holte K, Bøhn SK, Dragland S, Sampson L, Willey C, Senoo H, Umezono Y, Sanada C, Barikmo I, Berhe N, Willett WC, Phillips KM, Jacobs DR Jr, Blomhoff R.  The total antioxidant content of more than 3100 foods, beverages, spices, herbs and supplements used worldwide. Nutr J. 2010 Jan 22;9:3.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2841576/pdf/1475-2891-9-3.pdf"
+    },
+    {
+      "Title": "Sun X, Seeberger J, Alberico T, Wang C, Wheeler CT, Schauss AG, Zou S.  Açai palm fruit (Euterpe oleracea Mart.) pulp improves survival of flies on a high fat diet. Exp Gerontol. 2010 Mar;45(3):243-51. Epub 2010 Jan 18.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20080168"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Scott Bauer, Fir0002, Cjboffoli, NIH via Wikimedia Commons; topicchio and Jeff Kubina via flickr; Sonja Þórey Þórsdóttir and USDA. Images have been modified.",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "bananas",
+      "Url": "https://nutritionfacts.org/topics/bananas/"
+    },
+    {
+      "Title": "berries",
+      "Url": "https://nutritionfacts.org/topics/berries/"
+    },
+    {
+      "Title": "blackberries",
+      "Url": "https://nutritionfacts.org/topics/blackberries/"
+    },
+    {
+      "Title": "blueberries",
+      "Url": "https://nutritionfacts.org/topics/blueberries/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "cranberries",
+      "Url": "https://nutritionfacts.org/topics/cranberries/"
+    },
+    {
+      "Title": "frozen fruit",
+      "Url": "https://nutritionfacts.org/topics/frozen-fruit/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "goji berries",
+      "Url": "https://nutritionfacts.org/topics/goji-berries/"
+    },
+    {
+      "Title": "grapes",
+      "Url": "https://nutritionfacts.org/topics/grapes/"
+    },
+    {
+      "Title": "mango",
+      "Url": "https://nutritionfacts.org/topics/mango/"
+    },
+    {
+      "Title": "noni fruit",
+      "Url": "https://nutritionfacts.org/topics/noni-fruit/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "raspberries",
+      "Url": "https://nutritionfacts.org/topics/raspberries/"
+    },
+    {
+      "Title": "strawberries",
+      "Url": "https://nutritionfacts.org/topics/strawberries/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Check out my <a href=\"https://nutritionfacts.org/topics/fruit/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">other videos on fruit</a> and all of my <a href=\"https://nutritionfacts.org/topics/berries/\">videos on berries</a>.</p>\n<p>Also, check out my associated blog posts for additional context: <a href=\"https://nutritionfacts.org/2012/01/25/acai-to-zucchini-antioxidant-food-rankings/\" rel=\"nofollow\">Açaí to Zucchini: antioxidant food rankings</a>; <a title=\"Coffee Caveats\" href=\"//nutritionfacts.org/blog/2012/05/10/coffee-caveats/\" rel=\"nofollow\">Coffee Caveats</a>; <a href=\"https://nutritionfacts.org/2012/06/28/fighting-inflammation-with-food-synergy/\" rel=\"nofollow\">Fighting Inflammation with Food Synergy</a>; <a href=\"https://nutritionfacts.org/2013/05/23/98-of-american-diets-potassium-deficient/\">98% of American Diets Potassium Deficient</a>; <a href=\"https://nutritionfacts.org/2013/09/03/hibiscus-tea-the-best-beverage/\">Hibiscus Tea: The Best Beverage?</a>; and <a href=\"https://nutritionfacts.org/2013/12/10/which-common-fruit-fights-cancer-better/\">Which Common Fruit Fights Cancer Better?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

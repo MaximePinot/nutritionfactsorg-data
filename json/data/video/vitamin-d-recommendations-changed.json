@@ -1,0 +1,59 @@
+{
+  "Title": "Vitamin D Recommendations Changed",
+  "Url": "https://nutritionfacts.org/video/vitamin-d-recommendations-changed/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/DIoJB7qGJHo"
+  },
+  "UpdatedAt": "2011-12-05T13:00:46+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 6",
+    "Url": "https://nutritionfacts.org/volumes/6/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The Institute of Medicine tripled their official vitamin D recommendation, based on target blood levels that indicate a large percentage of the U.S. population is deficient.",
+  "Transcript": "How much vitamin D we should get is one of the most controversial areas in the field of nutrition. Up until recently, the Institute of Medicine, the official body that sets the recommended daily allowances, considered 200 international units a day an adequate intake for those in middle age, but just bumped it up to a recommended 600 a day. How did they come up with the original 200, why did they go up to 600, and why are there some experts out there saying we should take thousands a day?\nIt all started with this line, written more than a half century ago: “Apparently, a dosage of only 100 units of vitamin D daily was sufficient to prevent the flagrant signs and symptoms of rickets,” the bowlegged bone-softening disease caused by overt vitamin D deficiency.\nFrom a review last year: “The fact that 100 IU of vitamin D prevented overt signs of rickets led to the false security that ingesting twice this amount was more than adequate to satisfy the body’s vitamin D requirement.” Hence the 200 recommendation, but no longer.\nThe Institute of Medicine decided to take a more scientific approach by basing their recommendations on a specific target blood level, which they calculated to be 20 nanograms per milliliter, which should prevent rickets in children, and a similar bone-softening condition (called osteomalacia) in adults. To get most people’s levels up to 20, though, the Institute of Medicine figured it would require about 600 IUs a day, and so the recommendation was officially bumped up.\nAt the Institute of Medicine’s new target of 20 in the blood, right now, 40% of Americans are vitamin D deficient. And if we use higher cut-offs, say 30, then that proportion climbs to more than three-quarters of our population.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Binkley N, Ramamurthy R, Krueger D. Low vitamin D status: definition, prevalence, consequences, and correction. Endocrinol Metab Clin North Am. 2010 Jun;39(2):287-301.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20511052"
+    },
+    {
+      "Title": "Forrest KY, Stuhldreher WL. Prevalence and correlates of vitamin D deficiency in US adults. Nutr Res. 2011 Jan;31(1):48-54.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21310306"
+    },
+    {
+      "Title": "Holick MF. Vitamin D: extraskeletal health. Endocrinol Metab Clin North Am. 2010 Jun;39(2):381-400.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20511059"
+    },
+    {
+      "Title": "Institute of Medicine (US) Committee to Review Dietary Reference Intakes for Vitamin D and Calcium. 2011.",
+      "Url": "http://www.ncbi.nlm.nih.gov/books/NBK56070/"
+    },
+    {
+      "Title": "Institute of Medicine Standing Committee on the Scientific Evaluation of Dietary Reference Intakes Food and Nutrition Board. 1997. Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride.",
+      "Url": "http://www.nap.edu/openbook.php?record_id=5776"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Be sure to check out all my <a href=\"https://nutritionfacts.org/topics/vitamin-d-supplements/\">other videos on vitamin D</a>.</p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/2011/12/15/vitamin-d-shedding-some-light-on-the-new-recommendations/\" rel=\"nofollow\">Vitamin D: Shedding some light on the new recommendations</a>; <a href=\"https://nutritionfacts.org/2013/05/16/plant-based-diets-for-rheumatoid-arthritis/\">Plant-Based Diets for Rheumatoid Arthritis</a>; and <a href=\"https://nutritionfacts.org/2013/08/01/vitamin-d-from-mushrooms-sun-or-supplements/\">Vitamin D from Mushrooms, Sun, or Supplements?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

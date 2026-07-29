@@ -1,0 +1,55 @@
+{
+  "Title": "Pollutants in Californian Breast Tissue",
+  "Url": "https://nutritionfacts.org/video/pollutants-in-californian-breast-tissue/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/ttc0T_GaVIY"
+  },
+  "UpdatedAt": "2012-10-26T11:32:27+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Levels of flame-retardant chemical pollutants (PBDEs) in the tissues of women from around the world are compared.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMeasuring urine levels of industrial toxins is more useful than measuring food levels, since it indicates how much of the pollutants are actually absorbed into the body. So, in one sense, it’s telling you what kind of levels are circulating in your body; at the same time, it’s telling you how much your body is successfully getting rid of, through the kidneys.\nIdeally, we’d like to measure levels in human tissues. Like, how much is actually lodged in one’s breast tissue, for example? Well, women get breast surgery all the time; why not test surgical samples of removed breast tissue? Women get fibroids removed; we can test those, too—fresh autopsy samples. And, hey, what about liposuction?\nHow did the levels of polybromated diphenylethers—flame-retardant chemicals—in the breast tissue of California women compare to various tissue samples taken from women around the world? Where do these flags fit? Which of these bars represents the levels found in Belgian women, Brazilian women, Californian, Czech, French, Hong Kong, Japanese, New Yorkers, Singaporean, or Spanish women?\nDo we wish they could all be California? No.\nLook at that spread—two orders of magnitude. The breast tissue of California women had nearly ten times more than women in any other country, and compared to the lowest levels—autopsy samples of Japanese women—a hundred times higher levels found in New Yorker liposuction.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Petreas M, Nelson D, Brown FR, Goldberg D, Hurley S, Reynolds P. High concentrations of polybrominated diphenylethers (PBDEs) in breast adipose tissue of California women. Environ Int. 2011 Jan;37(1):190-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20951435"
+    }
+  ],
+  "Acknowledgements": "Images thanks to He Who Laughs Last via Wikimedia, and Mark A. Vargas and Mark Heard via flickr",
+  "Topics": [
+    {
+      "Title": "fibroids",
+      "Url": "https://nutritionfacts.org/topics/fibroids/"
+    },
+    {
+      "Title": "industrial pollutants",
+      "Url": "https://nutritionfacts.org/topics/industrial-pollutants/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "liposuction",
+      "Url": "https://nutritionfacts.org/topics/liposuction/"
+    },
+    {
+      "Title": "PBDEs",
+      "Url": "https://nutritionfacts.org/topics/pbdes/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I covered PBDEs previously in <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=701\">The Problem with Organic Salmon</a>. How contaminated are Americans, in general? See <a href=\"https://nutritionfacts.org/video/%ef%bb%bfcdc-report-on-environmental-chemical-exposure/\">CDC Report on Environmental Chemical Exposure</a>, the first in this video series on our dietary exposure to industrial pollutants. There are better ways to lower the levels in our bodies than liposuction; I’ll explore some in <a href=\"https://nutritionfacts.org/video/food-sources-of-flame-retardant-chemicals/\">Food Sources of Flame-Retardant Chemicals</a>. </p>\n<p>For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2013/03/19/pollutants-in-californian-breast-tissue/\"> Pollutants in Californian Breast Tissue</a>; <a href=\"https://nutritionfacts.org/2013/03/21/protecting-our-babies-from-pollutants/\">Protecting Our Babies From Pollutants</a>; and <a href=\"https://nutritionfacts.org/2013/08/15/why-are-children-starting-puberty-earlier/\">Why Are Children Starting Puberty Earlier?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

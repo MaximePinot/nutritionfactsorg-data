@@ -1,0 +1,179 @@
+{
+  "Title": "How to Help Control Cancer Metastasis with Diet",
+  "Url": "https://nutritionfacts.org/video/how-to-help-control-cancer-metastasis-with-diet/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/42qdqjF4OKk"
+  },
+  "UpdatedAt": "2021-06-09T11:50:40+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 54",
+    "Url": "https://nutritionfacts.org/volumes/volume-54/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Randomized controlled trials show lowering saturated fat intake can lead to improved breast cancer survival.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Metastasis is the leading cause of cancer-[related death].” Cancer kills, because cancer spreads. For example, the five-year survival rate for women with localized breast cancer is nearly 99 percent, but that drops to just 27 percent in those with metastasized cancer. Yet “our ability to eﬀectively treat metastatic disease has not changed signiﬁcantly in the past few decades.” You know things are getting desperate when there are papers like this: “Targeting Metastasis with Snake Toxins.”\nNow, we do have built-in defenses––natural killer cells that roam the body killing off budding tumors, and I have videos on boosting natural killer cell activity. But as I explained in the last video, there’s a fat receptor called CD36 that appears to be essential for cancer cells to spread, and these cancer cells respond to dietary fat intake. But not all fat.\nCD36 is upregulated by palmitic acid, as much as a 50-fold increase within 12 hours. Palmitic acid is a saturated fat found in junk food made from palm oil, but it is most concentrated in meat and dairy. This may explain why, if you look at “dietary fat and breast cancer mortality,” there was no difference in risk of breast-cancer-speciﬁc death for women in the highest versus lowest category of total fat intake. But, you’re about 50 percent more likely to die of breast cancer if you eat a lot of saturated fat. The systematic review and “…meta-analyses [conclude]… that saturated fat intake negatively impacts upon breast cancer survival.”\nThis may explain why “intake of high-fat dairy, but not low-fat dairy, was related to a higher risk of mortality after breast cancer diagnosis.” If it was the dairy protein, like casein, that was a problem; the skim milk might be even worse. But no, it was the saturated butterfat, maybe because it triggered that CD36-induced cancer-spreading mechanism. “…Women who consumed one or more servings per day of high-fat dairy had … [about a 50] percent higher risk of dying from breast cancer.”\nWe see the same thing with “dairy intake in relation to prostate cancer survival.” “…Drinking high-fat milk [appeared to increase] the risk of dying from prostate cancer by as much as 600 percent in patients with localized prostate cancer,” but “low-fat milk was not associated with such an increase in risk.” So, it seemed to be the animal fat, rather than the animal protein, and this is consistent with what Harvard researchers found in the United States.\nMore evidence that the fat receptor CD36 is involved is “…that the risk of colorectal cancer for meat consumption increased from [just doubling risk to octupling risk]”—multiplying the odds of getting cancer eight-fold for those who carry a specific type of CD36 gene. So, “Is It Time to Give Breast Cancer Patients a Prescription for a Low-Fat Diet?” A cancer diagnosis is a “teachable moment” if there ever was one to motivate people to make changes to their lifestyle. But provision of  evidence-based guidelines is essential, and you don’t know, until you put it to the test.\n “A randomized, prospective, multicenter clinical trial to test the effect of a dietary intervention designed to reduce fat intake in women with resected, early-stage breast cancer…” (meaning the women had their breast cancer surgically removed and were praying it doesn’t come back). The dietary intervention group dropped their fat intake from about 30 percent of calories down to 20 percent of calories, dropping saturated fat intake about 40 percent, and maintained that 40-percent lower intake after one year, three years, five years. And… “after approximately five years of follow-up, [the] women in the dietary intervention group had a 24-percent lower risk of relapse…”, a 24-percent lower risk of the cancer coming back.\nThat was the WINS study, the Women’s Intervention Nutrition Study. Then there was the Women’s Health Initiative study, where again, women were randomized to drop their fat intake down to about 20 percent of calories, and again, those in the dietary intervention group experienced increased breast cancer survival, meaning “a dietary change may be able to influence breast cancer outcome[s].” And not only was breast cancer survival significantly greater; the women also experienced a reduction in heart disease and a reduction in diabetes as a little side bonus.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Alečković M, McAllister SS, Polyak K. Metastasis as a systemic disease: Molecular insights and clinical implications. Biochim Biophys Acta Rev Cancer. 2019;1872(1):89-102.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31202687/"
+    },
+    {
+      "Title": "Brennan SF, Woodside JV, Lunny PM, Cardwell CR, Cantwell MM. Dietary fat and breast cancer mortality: A systematic review and meta-analysis. Crit Rev Food Sci Nutr. 2017;57(10):1999-2008.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25692500/"
+    },
+    {
+      "Title": "Carta G, Murru E, Banni S, Manca C. Palmitic acid: Physiological role, metabolism and nutritional implications. Front Physiol. 2017;8:902.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29167646/"
+    },
+    {
+      "Title": "Chlebowski RT, Aragaki AK, Anderson GL, et al. Association of low-fat dietary pattern with breast cancer overall survival: A secondary analysis of the Women's Health Initiative Randomized Clinical Trial. JAMA Oncol. 2018;4(10):e181212.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29800122/"
+    },
+    {
+      "Title": "Chlebowski RT, Blackburn GL, Thomson CA, et al. Dietary fat reduction and breast cancer outcome: Interim efficacy results from the Women's Intervention Nutrition Study. J Natl Cancer Inst. 2006;98(24):1767-76.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17179478/"
+    },
+    {
+      "Title": "Decoding cancer metastasis. Nat Cell Biol. 2018;20(8):859.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30050121/"
+    },
+    {
+      "Title": "Downer MK, Batista JL, Mucci LA, et al. Dairy intake in relation to prostate cancer survival. Int J Cancer. 2017;140(9):2060-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28187509/"
+    },
+    {
+      "Title": "Hua W, Huang HZ, Tan LT, et al. CD36 mediated fatty acid-induced podocyte apoptosis via oxidative stress. PLoS One. 2015;10(5):e0127507.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26000608/"
+    },
+    {
+      "Title": "Kroenke CH, Kwan ML, Sweeney C, Castillo A, Caan BJ. High- and low-fat dairy intake, recurrence, and mortality after breast cancer diagnosis. J Natl Cancer Inst. 2013;105(9):616-23.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23492346/"
+    },
+    {
+      "Title": "Kuriki K, Hamajima N, Chiba H, et al. Increased risk of colorectal cancer due to interactions between meat consumption and the CD36 gene A52C polymorphism among Japanese. Nutr Cancer. 2005;51(2):170-77.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15860439/"
+    },
+    {
+      "Title": "Ligibel JA. Is it time to give breast cancer patients a prescription for a low-fat diet? JNCI Cancer Spectr. 2018;2(4):pky066.",
+      "Url": "https://doi.org/10.1093/jncics/pky066"
+    },
+    {
+      "Title": "López-Soto A, Gonzalez S, Smyth MJ, Galluzzi L. Control of metastasis by NK cells. Cancer Cell. 2017;32(2):135-54.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28810142/"
+    },
+    {
+      "Title": "Pascual G, Avgustinova A, Mejetta S, et al. Targeting metastasis-initiating cells through the fatty acid receptor CD36. Nature. 2017;541(7635):41-5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27974793/"
+    },
+    {
+      "Title": "Prentice RL, Aragaki AK, Howard BV, et al. Low-fat dietary pattern among postmenopausal women influences long-term cancer, cardiovascular disease, and diabetes outcomes. J Nutr. 2019;149(9):1565-74.",
+      "Url": "https://doi.org/10.1093/jn/nxz107"
+    },
+    {
+      "Title": "Printz C. Link between high-fat dairy consumption and poor breast cancer survival. Cancer. 2013;119(14):2517.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23818391/"
+    },
+    {
+      "Title": "Urra FA, Araya-Maturana R. Targeting metastasis with snake toxins: Molecular mechanisms. Toxins (Basel). 2017;9(12):390.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29189742/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast cancer survival",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer-survival/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "colorectal cancer",
+      "Url": "https://nutritionfacts.org/topics/colorectal-cancer/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "palm oil",
+      "Url": "https://nutritionfacts.org/topics/palm-oil/"
+    },
+    {
+      "Title": "palmitic acid",
+      "Url": "https://nutritionfacts.org/topics/palmitic-acid/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the second video in a three-part series on cancer metastasis. If you missed the first one, see <a href=\"https://nutritionfacts.org/video/what-causes-cancer-to-metastasize/\">What Causes Cancer to Metastasize?</a>, and stay tuned for <a href=\"https://nutritionfacts.org/video/the-food-that-can-downregulate-a-metastatic-cancer-gene/\">The Food That Can Downregulate the Metastatic Cancer Gene</a>.</p>\n<p>What else can we eat—or avoid—to improve breast cancer survival? Check out these videos:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-survival-vegetable/\">Breast Cancer Survival Vegetable</a></li>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-soy/\">Breast Cancer Survival and Soy</a></li>\n<li><a href=\"https://nutritionfacts.org/video/brca-breast-cancer-genes-and-soy/\">BRCA Breast Cancer Genes and Soy</a></li>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-lignan-intake/\">Breast Cancer Survival and Lignan Intake</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flaxseeds-breast-cancer-survival-epidemiological-evidence/\">Flax Seeds &amp; Breast Cancer Survival: Epidemiological Evidence</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flaxseeds-breast-cancer-survival-clinical-evidence/\">Flax Seeds &amp; Breast Cancer Survival: Clinical Evidence</a></li>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-trans-fat/\">Breast Cancer Survival &amp; Trans Fat</a></li>\n<li><a style=\"background-color: #ffffff;font-size: 1rem\" href=\"https://nutritionfacts.org/video/breast-cancer-survival-butterfat-and-chicken/\">Breast Cancer Survival, Butterfat, &amp; Chicken</a></li>\n</ul>\n<p>Update: In 2022, I released another video on cancer metastasis. See <a href=\"https://nutritionfacts.org/video/blocking-the-cancer-metastasis-enzyme-mmp-9-with-beans-and-chickpeas/\">Blocking the Cancer Metastasis Enzyme MMP-9 with Beans and Chickpeas</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Title": "The Answer to the Pritikin Puzzle",
+  "Url": "https://nutritionfacts.org/video/the-answer-to-the-pritikin-puzzle/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/OCTUuOsAWGY"
+  },
+  "UpdatedAt": "2012-09-27T11:36:08+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 10",
+    "Url": "https://nutritionfacts.org/volumes/volume-10/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Lower cancer rates among those eating a plant-based diet may be a result of reduced blood levels of IGF-1, and enhanced production of IGF-1 binding protein.",
+  "Transcript": "Remember the Pritikin experiments? You put people on a plant-based diet and exercise, and in as little as 12 days, you can turn their bloodstream into a cancer cell fighting machine. Here’s the before picture. A layer of breast cancer cells is laid down in a petri dish, and then blood from women eating the Standard American Diet is dripped on them. And, as you can see, even people eating crappy diets have some ability to break down cancer. But after just 12 days eating healthy, blood was drawn from those same women, dripped on another carpet of breast cancer cells, and this is what you’re left with. Their bodies cleaned up!\nYou can also look at it another way. This is what’s called terminal-deoxynucleotidyl-transferase-dUTP-nick-end-labeling, or “TUNEL” imaging, which measures DNA fragmentation—cell death. Dying cells show up as white spots. So again, this is the before—what the blood of your average woman can do to breast cancer cells. It can kill a few. But then, after 12 days of healthy plant-based living, their blood can do this.\nThis is that programmed cancer cell death. After eating healthy, their own bodies were able to reprogram the cancer cells, forcing them into early retirement. It’s like you’re an entirely different person inside.\nHow does a simple dietary change make one’s bloodstream so inhospitable to cancer, in just a matter of days? That was the next question they set out to answer, and they finally did, in 2011. “Here we sought to determine the underlying mechanisms for these anticancer effects.” And what they came up with was IGF-1.\nIf you measure the blood levels of insulin-like growth factor-1 before and after 11 days on a plant-based diet with exercise, IGF-1 levels significantly drop. And IGF-1 binding protein levels significantly rise. That’s one way our body tries to protect itself from cancer—from excessive growth—by releasing a binding protein into the bloodstream to tie up IGF-1. It’s like our body’s emergency brake.\nYeah, sure, in as little as 11 days, a healthy diet can reprogram our body to slow down IGF-1 production, but you still have all that IGF-1 circulating in your bloodstream from the bacon and eggs you had the week before. So, your liver releases the snatch squad of binding proteins that take it out of circulation pronto. Exercise alone can drop IGF-1 levels, but you need the plant-based diet to get those kind of snatch squad levels.\nAnd so, with that combination, 20% less IGF-1, and 50% more IGF binding protein—no wonder there was such a dramatic cancer cell die-off after just a few days.  \nSo, did they solve the riddle? Did they figure out how a plant-based diet shuts down cancer growth? Well the definitive study wasn’t published until recently.\nSame as last time; before and after a few weeks of a plant-based diet. Cancer cell growth drops, and programmed cancer cell death shoots up. But then, here’s the kicker. Remember how IGF-1 levels dropped? Well, what if you added back to the cancer the exact same amount of IGF-1 banished from your body, because of the healthy diet? What if you added that back in with the cancer? It erases the diet and exercise effect. It’s like you never started eating healthy at all.\nNow, if cancer growth just came back down to here, you’d be like, okay, IGF-1 was part of it. But the fact that it eliminated the effects of the lifestyle changes suggests that it was the mechanism all along.\nWalking and eating a plant-based diet for just a few days lowers circulating IGF-1 levels, which then can reverse cancer growth.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Kerry Skinner.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Barnard RJ, Gonzalez JH, Liva ME, Ngo TH. Effects of a low-fat, high-fiber diet and exercise program on breast cancer risk factors in vivo and tumor cell growth and apoptosis in vitro. Nutr Cancer. 2006;55(1):28-34.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16965238"
+    },
+    {
+      "Title": "McCarty MF. Vegan proteins may reduce risk of cancer, obesity, and cardiovascular disease by promoting increased glucagon activity. Med Hypotheses. 1999 Dec;53(6):459-85.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10687887"
+    },
+    {
+      "Title": "Ngo TH, Barnard RJ, Tymchuk CN, Cohen P, Aronson. Effect of diet and exercise on serum insulin, IGF-I, and IGFBP-1 levels and growth of LNCaP cells in vitro (United States). Cancer Causes Control. 2002 Dec;13(10):929-35.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/12588089"
+    },
+    {
+      "Title": "Soliman S, Aronson WJ, Barnard RJ. Analyzing Serum-Stimulated Prostate Cancer Cell Lines After Low-Fat, High-Fiber Diet and Exercise Intervention. Evid Based Complement Alternat Med. 2009 Apr 17.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3135793/pdf/ECAM2011-529053.pdf"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "Pritikin",
+      "Url": "https://nutritionfacts.org/topics/pritikin/"
+    },
+    {
+      "Title": "standard American diet",
+      "Url": "https://nutritionfacts.org/topics/standard-american-diet/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Who is Pritikin? See <a href=\"https://nutritionfacts.org/video/engineering-a-cure/\" rel=\"nofollow\">Engineering a Cure</a>. What’s the puzzle? See <a href=\"https://nutritionfacts.org/video/developing-an-ex-vivo-cancer-proliferation-bioassay/\" rel=\"nofollow\">Developing an Ex Vivo Cancer Proliferation Bioassay</a> and <a href=\"https://nutritionfacts.org/video/prostate-versus-a-plant-based-diet/\" rel=\"nofollow\">Prostate Versus a Plant-Based Diet</a>. What’s the big deal about IGF-1? See <a href=\"https://nutritionfacts.org/video/igf-1-as-one-stop-cancer-shop/\" rel=\"nofollow\">IGF-1 as One-Stop Cancer Shop</a>, and <a href=\"https://nutritionfacts.org/video/cancer-proofing-mutation/\" rel=\"nofollow\">Cancer-Proofing Mutation</a>. The binding protein findings may explain the conclusion in <a href=\"https://nutritionfacts.org/video/is-it-the-diet-the-exercise-or-both/\" rel=\"nofollow\">Is It the Diet, the Exercise, or Both?</a> As I covered in <a href=\"https://nutritionfacts.org/video/uprooting-the-leading-causes-of-death/\" rel=\"nofollow\">Uprooting the Leading Causes of Death</a>, my full-length 2012 presentation, <a href=\"https://nutritionfacts.org/video/how-plant-based-to-lower-igf-1/\" rel=\"nofollow\">How Plant-Based to Lower IGF-1?</a> goes a level deeper to explore why eating plants lowers IGF-1.</p>\n<p>For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/12/29/top-10-most-popular-videos-of-the-year/\"> Top 10 Most Popular Videos of the Year</a>; <a href=\"https://nutritionfacts.org/blog/cancer-proofing-your-body/\">Cancer-Proofing Your Body</a>; <a href=\"https://nutritionfacts.org/blog/how-do-plant-based-diets-fight-cancer/\">How Do Plant-Based Diets Fight Cancer?</a>; <a href=\"https://nutritionfacts.org/blog/animal-protein-and-igf-1/\">Animal Protein and the Cancer Promoter IGF-1</a>; <a href=\"https://nutritionfacts.org/blog/less-cancer-in-vegan-men-despite-more-testosterone/\">Vegan Men: More Testosterone But Less Cancer</a>; <a href=\"https://nutritionfacts.org/blog/how-much-soy-is-too-much/\">How Much Soy Is Too Much?</a>; <a href=\"https://nutritionfacts.org/blog/eating-green-to-prevent-cancer/\">Eating Green to Prevent Cancer</a>; <a href=\"https://nutritionfacts.org/2013/04/04/are-bioidentical-hormones-safe/\">Are Bioidentical Hormones Safe?</a>; <a href=\"https://nutritionfacts.org/2013/05/14/how-tumors-use-meat-to-grow/\">How Tumors Use Meat to Grow</a>; <a href=\"https://nutritionfacts.org/blog/plant-based-diets-for-multiple-sclerosis/\">Plant-Based Diets for Multiple Sclerosis</a>; <a href=\"https://nutritionfacts.org/2013/06/18/go-nuts-for-breast-cancer-prevention/\">Go Nuts for Breast Cancer Prevention</a>; <a href=\"https://nutritionfacts.org/2013/06/25/apple-peels-turn-on-anticancer-genes/\">Apple Peels Turn On Anticancer Genes</a>; <a href=\"https://nutritionfacts.org/2013/07/02/estrogens-in-cooked-meat/\">Estrogenic Chemicals in Meat</a>; <a href=\"https://nutritionfacts.org/2013/08/15/why-are-children-starting-puberty-earlier/\">Why Are Children Starting Puberty Earlier?</a>; and <a href=\"https://nutritionfacts.org/2013/10/03/flaxseeds-for-prostate-cancer/\">Flax Seeds for Prostate Cancer</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

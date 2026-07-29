@@ -1,0 +1,147 @@
+{
+  "Title": "Heterocyclic Amines in Eggs, Cheese, & Creatine?",
+  "Url": "https://nutritionfacts.org/video/heterocyclic-amines-in-eggs-cheese-and-creatine/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/Uyw1il99K0g"
+  },
+  "UpdatedAt": "2013-01-23T12:25:41+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 12",
+    "Url": "https://nutritionfacts.org/volumes/volume-12/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Even vegetarians could potentially be exposed to the carcinogens typically formed by cooking meat through eggs, cheese, creatine sports supplements, and cigarette smoke.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMore than 20 heterocyclic amines have been reported in cooked meats, fish, and poultry prepared under common household cooking conditions. To reduce one’s exposure to these cooked meat carcinogens, one could, of course, eat vegetarian—or, even just refrain from eating meat for 24 hours, and the levels of the two chief heterocyclic amines drop to zero. So, if you practice meatless Mondays, by Tuesday morning, the levels of PhIP and MeIQx (one of the most potent mutagens ever tested), become N.D. (non-detectable).\nNow, for a third cooked meat carcinogen, they actually did find some in a few folks—even though they hadn’t eaten meat in 24 hours. That perplexed the researchers. Now, the four subjects that “had quantifiable amounts of IQ[4,5-b] in their urine after refraining from meat consumption” (which is an isomer of a powerful animal carcinogen, IQ)—they had each eaten cheese and/or boiled eggs as part of their diet, while abstaining from cooked meats. IQ and several other heterocyclic amines have been reported in fried eggs, so it’s possible “that IQ[4,5-b], which forms at temperatures well below 100° C, may be present in boiled eggs or possibly other foods containing creatinine, such as cheese.”\nThat brought up an interesting side note, though. What about all the “[d]ietary supplementation of creatine by sports enthusiasts” as a supplement, which turns into creatinine? They speculate that “high consumption of creatine” supplements “could result in [the] formation of “genotoxic [heterocyclic amines] in the body”—a cautionary note for both the vegetarians and meat-eaters alike.\nAnother finding of cooked meat carcinogens in a vegetarian was reported in a study comparing the levels of PhIP growing out in people’s hair. It “was detected in hair samples of all six [of the] meat-eaters” they tested, “but was…detected in one out of [the] six vegetarians.” Now, it was low, just above the kind of level of detection, so they kind of dismissed it, suggesting that “exposure occurs primarily through the consumption of cooked meats or poultry, and that nonmeat-derived sources of exposure…are probably negligible.”\nBut, not if you smoke. Remember, these carcinogens are “found in cooked meat, poultry, fish, and cigarette smoke.” Even if you ate meatless Mondays all the way through meatless Sundays, you can still be exposed, smoking cigarettes. Here’s a measure of PhIP exposure in smoking meat-eaters, nonsmoking meat-eaters, compared to smoking vegetarians, and nonsmoking vegetarians. So, it’s not enough to just eat healthy.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bessette EE, Yasa I, Dunbar D, Wilkens LR, Le Marchand L, Turesky RJ. Biomonitoring of carcinogenic heterocyclic aromatic amines in hair: a validation study. Chem Res Toxicol. 2009 Aug;22(8):1454-63.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19588936"
+    },
+    {
+      "Title": "Puangsombat K, Gadgil P, Houser TA, Hunt MC, Smith JS. Occurrence of heterocyclic amines in cooked meat products. Meat Sci. 2012 Mar;90(3):739-46. Epub 2011 Nov 9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22129588"
+    },
+    {
+      "Title": "Turesky RJ. Formation and biochemistry of carcinogenic heterocyclic aromatic amines in cooked meats. Toxicol Lett. 2007 Feb 5;168(3):219-27. Epub 2006 Nov 16.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17174486"
+    },
+    {
+      "Title": "Wilson C, Aboyade-Cole A, Newell O, Darling-Reed S, Oriaku E, Thomas R. Diallyl sulfide inhibits PhIP-induced DNA strand breaks in normal human breast epithelial cells. Oncol Rep. 2007 Apr;17(4):807-11.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17342319"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Ano Lobb. @healthyrx and Gideon via flickr; PackaSG via Wikimedia; and The Monday Campaigns, Inc",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "cheese",
+      "Url": "https://nutritionfacts.org/topics/cheese/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "creatine",
+      "Url": "https://nutritionfacts.org/topics/creatine/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "heterocyclic amines",
+      "Url": "https://nutritionfacts.org/topics/heterocyclic-amines/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "Meatless Mondays",
+      "Url": "https://nutritionfacts.org/topics/meatless-mondays/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "PhIP",
+      "Url": "https://nutritionfacts.org/topics/phip/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p class=\"p1\"><span class=\"s1\">Caution may also be necessary with athletic protein supplementation. See <a href=\"https://nutritionfacts.org/video/heavy-metals-in-protein-powder-supplements/\"><span class=\"s2\">Heavy Metals in Protein Powder Supplements</span></a>. In general, <a href=\"https://nutritionfacts.org/video/some-dietary-supplements-may-be-more-than-a-waste-of-money/\"><span class=\"s2\">Some Dietary Supplements May Be More than a Waste of Money</span></a>.</span></p>\n<p class=\"p2\"><span class=\"s3\">More information on the Meatless Monday campaign can be found on their website <a href=\"http://www.meatlessmonday.com/\"><span class=\"s2\">meatlessmonday.com</span></a>.</span></p>\n<p class=\"p2\"><span class=\"s3\">Measuring toxin levels in hair or nail clippings is a noninvasive way to measure long-term exposure levels. See <a href=\"https://nutritionfacts.org/video/hair-testing-for-mercury-before-considering-pregnancy/\"><span class=\"s2\">Hair Testing for Mercury Before Considering Pregnancy</span></a> for another instance of where it’s used.</span></p>\n<p class=\"p2\"><span class=\"s3\">Heterocyclic amines are not the only class of meat carcinogens also found in cigarette smoke. See my video <a href=\"https://nutritionfacts.org/video/when-nitrites-go-bad/\"><span class=\"s2\">When Nitrites Go Bad</span></a>. While the body can detox itself of both nitrosamines and these cooked meat chemicals within hours or days, some pollutants found in meat can persist in the body. See <a href=\"https://nutritionfacts.org/video/how-fast-can-children-detoxify-from-pcbs/\"><span class=\"s2\">How Fast Can Children Detoxify from PCBs?</span></a></span></p>\n<p class=\"p2\"><span class=\"s3\">This is the final video of my four-part series on heterocyclic amines—or is it? In <span class=\"s2\"><a href=\"https://nutritionfacts.org/video/estrogenic-cooked-meat-carcinogens/\">Estrogenic Cooked Meat Carcinogens</a>,</span> we explored the role of these cooked meat chemicals in tumor growth. In <span class=\"s2\"><a href=\"https://nutritionfacts.org/video/phip-the-three-strikes-breast-carcinogen/\">PhIP: The Three Strikes Breast Carcinogen</a>,</span> we explored their role in cancer invasion. Then, <a href=\"https://nutritionfacts.org/video/reducing-cancer-risk-in-meateaters/\"><span class=\"s2\">Reducing Cancer Risk In Meat-Eaters</span></a> offered some mediation strategies. The next two videos also involve these carcinogens—but only as an experimental model of cancer formation, in order to test the power of various plants to stop this transformation.</span></p>\n<p class=\"p1\"><span class=\"s1\">Also, check out my associated blog posts for more context: <span class=\"s2\"><a href=\"https://nutritionfacts.org/2013/07/04/avoiding-cooked-meat-carcinogens/\">Avoid Cooked Meat Carcinogens</a>;</span> <span class=\"s2\"><a href=\"https://nutritionfacts.org/2013/07/09/blocking-cancer-formation-green-tea-garlic/\">Foods that May Block Cancer Formation</a>;</span> and <a href=\"https://nutritionfacts.org/2013/09/24/raisins-vs-energy-gels-for-athletic-performance/\"><span class=\"s2\">Raisins vs. Energy Gels for Athletic Performance</span></a>.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

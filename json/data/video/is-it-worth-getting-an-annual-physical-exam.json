@@ -1,0 +1,111 @@
+{
+  "Title": "Is It Worth Getting an Annual Physical Exam?",
+  "Url": "https://nutritionfacts.org/video/is-it-worth-getting-an-annual-physical-exam/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/OMlIs50321w"
+  },
+  "UpdatedAt": "2017-10-11T11:50:48+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 38",
+    "Url": "https://nutritionfacts.org/volumes/volume-38/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the risks and benefits of getting a comprehensive annual physical exam and routine blood testing?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe model of getting an annual physical exam dates back nearly a century in American medicine, but recently, many health authorities “have all agreed that routine annual checkups for healthy adults should be abandoned.” Yet, the majority of the public still expects not only “a comprehensive annual physical exam [but] extensive routine [blood] testing.”\n“Given the gap between patients’ enthusiasm and [the new] guidelines’ skepticism about annual [physicals], what are physicians to do? First, we must educate patients about preventive practices of proven [versus] unproven benefit.” For example, “[t]he only [routine] blood test currently recommended by the USPSTF [the official preventive medicine guidelines-setting body] is cholesterol.”\nThe reason “why many physicians continue to perform annual examinations of patients’ hearts, lungs, abdomens, and even reflexes, and continue to order some of [those] tests that have been proven ineffectual or even harmful” is because otherwise, the patient might leave unsatisfied with the visit. “Evidence suggests that the more…physical and laboratory examinations they perform, the better patients feel.” So, they’re like “placebo…manoeuvres.”\n“But rather than performing unnecessary [or worse] exams…and…tests, perhaps physicians should spend some of the time saved by telling their patients why they are not” going to just go through the motions, like some witch doctor.\n“Most important, we need to educate ourselves about the dangers of overdiagnosis. There will always remain a small possibility that our exam…might detect some silent, potentially deadly cancer or aneurysm [or something]. Unfortunately for our patients, these serendipitous, life-saving events are much less common than the false-positive findings that lead to invasive and potentially life-threatening tests.”\nThis Cleveland Clinic doc shared a story about his own father, who went in for a “checkup.” Can’t hurt, right? The doctor thought he felt what might have been an “aortic aneurism;” so, he “ordered an abdominal ultrasound.” Can’t hurt, right? Aorta was fine, but hmm, something looked “suspicious” on his pancreas; so, “a CT scan” was ordered. That can hurt: lots of radiation. But thankfully, his pancreas looked fine. But hey—what’s that on his liver? Oh, for goodness sake. Looked like cancer, which made a certain amount of sense, having worked in the chemical industry. So, realizing how ineffective the treatments were for liver cancer, he realized he was going to die.\nThe daughter was not ready to give up on him, though; “convinced him to see a specialist.” Maybe, if they could cut it out, he could live at least a few more years. But first, they had to do a biopsy. And, the good news was, no cancer. The bad news, though, it was a benign mass of blood vessels; and so, when they stuck a needle in it, “he almost bled to death.” Ten units of blood is like all you have. Pain, and so morphine, and so urinary retention, and so catheter; yet, thankfully, no infection. Just a bill for $50,000.\n“The frustrating thing” is that the whole horrible sequence wasn’t like malpractice or anything; every step logically led to the next. “The only way to have prevented this [life-threatening] outcome would have been to dispense with [that] initial physical exam”—the one that couldn’t hurt, right?\n“Why, then, do we continue to examine healthy patients?” Well, first of all, it’s because “we get paid to do it.” His dad’s initial doc only got a hundred bucks or so, but just think of all that “downstream revenue” for the hospital and all the specialists. Overdiagnosis is big business.\nYes: “Too many patients bear the costs and harms of unneeded tests and procedures,” but without annual check-ups, we doctors would miss out on all those opportunities for “open communication and interpersonal continuity.” To which one physician replied: Look, if you’ve deluded yourself into thinking you’re doing more good than harm, if you want communication, why not just take your patients out to lunch or something?\n“Of course, such lunches should fairly and ethically be preceded by an informed consent discussion that allows prospective diners to understand the risk that they may be [patronized to], and may well receive unnecessary and injurious…interventions as a consequence of that grilled cheese and soup”—particularly, I would add, if you’re feeding your patients grilled cheese, having already chalked up your first such unnecessary and injurious act.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Krogsbøll LT, Jørgensen KJ, Gøtzsche PC. General health checks in adults for reducing morbidity and mortality from disease.",
+      "Url": "http://www.commed.vcu.edu/Chronic_Disease/Heart/2014/routinetests.pdf"
+    },
+    {
+      "Title": "Laine C. The annual physical examination: needless ritual or necessary routine? Ann Intern Med. 2002 May 7;136(9):701-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11992306"
+    },
+    {
+      "Title": "López-García-Franco A, Pardo-Hernández H, Fraile-Navarro D, Alonso-Coello P. Health checks in general practice: evidence first, not last. Pol Arch Med Wewn. 2016;126(3):185-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26895552"
+    },
+    {
+      "Title": "Oboler SK, Prochazka AV, Gonzales R, Xu S, Anderson RJ. What does the public want in an annual check-up? Public expectations and attitudes for annual physical examinations and testing. Ann Intern Med 2002;136:652-9.",
+      "Url": "http://pubmedcentralcanada.ca/pmcc/articles/PMC117100/"
+    },
+    {
+      "Title": "Oboler SK1, Prochazka AV, Gonzales R, Xu S, Anderson RJ. Public expectations and attitudes for annual physical examinations and testing. Ann Intern Med. 2002 May 7;136(9):652-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11992300"
+    },
+    {
+      "Title": "Phillips WR. Should We Abandon Routine Visits? Should We Abandon Routine Visits? Letters.  Annals of Internal Medicine 4 OCTOBER 2016.",
+      "Url": "http://annals.org/aim/article/2557200/should-we-abandon-routine-visits"
+    },
+    {
+      "Title": "Rothberg MB. A piece of my mind. The $50,000 physical. JAMA. 2014 Jun 4;311(21):2175-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24893085"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "aneurysm",
+      "Url": "https://nutritionfacts.org/topics/aneurysm/"
+    },
+    {
+      "Title": "aortic aneurysm",
+      "Url": "https://nutritionfacts.org/topics/aortic-aneurysm/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cheese",
+      "Url": "https://nutritionfacts.org/topics/cheese/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "liver cancer",
+      "Url": "https://nutritionfacts.org/topics/liver-cancer/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "lung health",
+      "Url": "https://nutritionfacts.org/topics/lung-health/"
+    },
+    {
+      "Title": "medical profession",
+      "Url": "https://nutritionfacts.org/topics/medical-profession/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "radiation",
+      "Url": "https://nutritionfacts.org/topics/radiation/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>So, if you don’t have any symptoms or issues, should you even have an annual check-up? That was the subject of my last video, <a href=\"https://nutritionfacts.org/video/is-it-worth-getting-annual-health-check-ups/\">Is It Worth Getting Annual Health Check-Ups?</a>.</p>\n<p><a href=\"https://nutritionfacts.org/video/should-all-children-have-their-cholesterol-checked/\">Should All Children Have Their Cholesterol Checked</a>, too? Watch the video to find out!</p>\n<p>Check out this video to <a href=\"https://nutritionfacts.org/video/find-out-if-your-doctor-takes-drug-company-money/\">Find Out If Your Doctor Takes Drug Company Money</a>.</p>\n<p>I sometimes stumble across these peripheral issues and fall down various rabbit holes. For example, I’ve got a whole series of videos on various diagnostic tests, such as mammograms. I don’t want to get too far away from nutrition, but whenever I learn something new and interesting—particularly if there are conflicts of interest trying to muddy the waters—I feel compelled to try to share to help set the record straight.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

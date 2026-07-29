@@ -1,0 +1,51 @@
+{
+  "Title": "How the Institute of Medicine Arrived at their Vitamin D Recommendation",
+  "Url": "https://nutritionfacts.org/video/how-the-institute-of-medicine-arrived-at-their-vitamin-d-recommendation/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/FSxfawsPbXU"
+  },
+  "UpdatedAt": "2011-12-13T13:00:20+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 6",
+    "Url": "https://nutritionfacts.org/volumes/6/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The latest revision of the official vitamin D recommendations was based on the body’s reaction to protect bone health—but what about the other three dozen affected organs?",
+  "Transcript": "There are many ways to arrive at a target vitamin level. We’ve already examined some of the problems inherent to just using deficiency disease prevention and evolutionary arguments to establish an optimum intake.\nIf a vitamin only does one thing, then it’s easy; you set the level at whatever the body needs to do that one thing best. But what if the vitamin affects dozens of different organs, like with vitamin D? Then, it’s more difficult.\nHere’s a list of the target tissues affected by vitamin D in the body. In revising their recommendations, the Institute of Medicine decided to only look at one tissue—bone, which many considered to be a mistake. \nI did like how they went about it, though. I mean, they asked the expert: the human body. When our body senses we don’t have enough active vitamin D for adequate bone health, it releases a hormone, called PTH, to boost our levels. And so, the Institute of Medicine figured, why don’t we just listen in on the body’s own innate wisdom, and find out which level of vitamin D it feels comfortable with for bone health? And that number is about 20 nanograms/ml, here as 50 nanomoles per liter. Once we fall below that, our body is like uh, oh, and starts producing this PTH to protect our bones from softening. But that’s just the bone; what about the other three dozen organs affected by vitamin D?\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Holick MF. Vitamin D: extraskeletal health. Endocrinol Metab Clin North Am. 2010 Jun;39(2):381-400.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20511059"
+    },
+    {
+      "Title": "Norman AW. From vitamin D to hormone D: fundamentals of the vitamin D endocrine system essential for good health. Am J Clin Nutr. 2008 Aug;88(2):491S-499S.",
+      "Url": "http://www.ajcn.org/cgi/pmidlookup?view=long&pmid=18689389"
+    },
+    {
+      "Title": "Vieth R, Ladak Y, Walfish PG. Age-Related Changes in the 25-Hydroxyvitamin D Versus Parathyroid Hormone Relationship Suggest a Different Reason Why Older Adults Require More Vitamin D. J Clin Endocrinol Metab. 2003 Jan;88(1):185-91.",
+      "Url": "http://jcem.endojournals.org/cgi/pmidlookup?view=long&pmid=12519850"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the seventh video in a nine-part series on <a href=\"https://nutritionfacts.org/topics/vitamin-d/\" rel=\"nofollow\">vitamin D</a>. Be sure to check out yesterday’s video: <a href=\"https://nutritionfacts.org/video/the-difficulty-of-arriving-at-a-vitamin-d-recommendation/\" rel=\"nofollow\">The Difficulty of Arriving at a Vitamin D Recommendation</a>.</p>\n<p>For additional context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/2011/12/15/vitamin-d-shedding-some-light-on-the-new-recommendations/\" rel=\"nofollow\">Vitamin D: Shedding Some Light on the New Recommendations</a>, and <a href=\"https://nutritionfacts.org/2013/08/01/vitamin-d-from-mushrooms-sun-or-supplements/\">Vitamin D from Mushrooms, Sun, or Supplements?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

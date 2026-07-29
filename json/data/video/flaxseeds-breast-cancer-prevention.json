@@ -1,0 +1,215 @@
+{
+  "Title": "Flaxseeds & Breast Cancer Prevention",
+  "Url": "https://nutritionfacts.org/video/flaxseeds-breast-cancer-prevention/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/L5ujWqjZOuQ"
+  },
+  "UpdatedAt": "2013-04-05T11:57:47+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 12",
+    "Url": "https://nutritionfacts.org/volumes/volume-12/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Young women at high risk for breast cancer given just a teaspoon of ground flax seeds a day showed fewer precancerous changes.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nA quarter-century ago, a theory was put forth as to why those eating plant-based diets have lower cancer rates. Vegetarians appeared to have up to three times the level of lignans circulating within their bodies, thanks to the grains and other plant foods they were eating, these anticancer compounds.\nBack in 1980, a new compound was described in human urine, a compound X—originally thought to be a new human hormone, but later identified to be from a large group of fiber-associated compounds, widely distributed in edible plants, known as lignans.\nPopulation studies suggest that high intake reduces breast cancer risk. But, where’s it found? Seeds, whole grains, vegetables, fruits, berries. With that kind of list of healthy foods, why isn’t this just like the fiber story, where, you know, lignan intake is maybe just a surrogate marker for healthy plant food intake?\nWell, in a petri dish, lignans do directly suppress the proliferation of breast cancer cells—but, only after the plant lignans are converted into human lignans by the good bacteria in our gut. That’s why we want to use antibiotics judiciously, because a few days on antibiotics dramatically drops your body’s ability to make these anticancer compounds from the plants we eat. And, it can take weeks for our good bacteria to recover.\nThat’s why women with urinary tract infections may be at higher risk for breast cancer, because every time they took a course of antibiotics, they may be stymying their good bacteria’s ability to take full advantage of all the plants they were eating—though this remains little more than a hypothesis, or educated guess, at this point.\nThis is the National Cancer Institute study that provided the strongest evidence to date that there may indeed be something special about the lignan class of phytonutrients for breast cancer prevention. They took a bunch of young women at high risk for breast cancer—meaning they had a suspicious breast biopsy (showing either precancerous changes, or carcinoma in situ), or already had breast cancer in the other breast—and gave them a teaspoon of ground flax seeds every day for a year, before getting repeat needle biopsies to see if there were any changes.\nYes, there are lignans in sesame seeds, nuts, whole grains, legumes, certain fruits, and veggies, but they’re most concentrated in flax seeds. They could have instead asked women to eat ten cups of strawberries a day for a year, but, they’d probably get better compliance with just their teaspoon of ground flax seeds.\nSo, what happened by the end of the year? The primary endpoint was the expression of a proliferation biomarker associated with cancer, called Ki-67. In 9 of the 45 women it went up (those in red), but in the other 80% of the women, it went down. And, overall, they found less cellular proliferation in their breast tissue, and fewer precancerous changes.\nFor those who don’t like the taste of flax seeds, sesame seeds may work just as well. Even though flax seeds have significantly more lignans than sesame, you appear to produce about the same amount of lignans from them—though this was comparing them whole. And, when you feed people whole flax seeds, some may not get chewed up, and may pass right through you. So, ground flax seed may be the best source, overall.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "C. Eliasson, A. Kamal-Eldin, R. Andersson, P. Aman. High-performance liquid chromatographic analysis of secoisolariciresinol diglucoside and hydroxycinnamic acid glucosides in flaxseed by alkaline extraction. J Chromatogr A. 2003 Sep 19;1012(2):151-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14521311"
+    },
+    {
+      "Title": "C. J. Fabian, B. F. Kimler, C. M. Zalles, J. R. Klemp, B. K. Petroff, Q. J. Khan, P. Sharma, K. D. R. Setchell, X. Zhao, T. A. Phillips, T. Metheny, J. R. Hughes, H.-W. Yeh, K. A. Johnson. Reduction in Ki-67 in benign breast tissue of high-risk women with the lignan secoisolariciresinol diglycoside. Cancer Prev Res (Phila) 2010 3(10):1342 - 1350",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20724470"
+    },
+    {
+      "Title": "C. M. Velicer, J. W. Lampe, S. R. Heckbert, J. D. Potter, S. H. Taplin. Hypothesis: Is antibiotic use associated with breast cancer? Cancer Causes Control 2003 14(8):739 - 747",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14674738"
+    },
+    {
+      "Title": "D. Aune, D. S. M. Chan, D. C. Greenwood, A. R. Vieira, D. A. N. Rosenblatt, R. Vieira, T. Norat. Dietary fiber and breast cancer risk: A systematic review and meta-analysis of prospective studies. Ann. Oncol. 2012 23(6):1394 - 1402",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22234738"
+    },
+    {
+      "Title": "E. Sonestedt, E. Wirfält. Enterolactone and breast cancer: methodological issues may contribute to conflicting results in observational studies. Nutr Res. 2010 Oct;30(10):667-77.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21056282"
+    },
+    {
+      "Title": "H. Adlercreutz, T. Fotsis, C. Bannwart, K. Wähälä, T. Mäkelä, G. Brunow, T. Hase. Determination of urinary lignans and phytoestrogen metabolites, potential antiestrogens and anticarcinogens, in urine of women on various habitual diets. J. Steroid Biochem. 1986 25(5B):791 - 797",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/3027456"
+    },
+    {
+      "Title": "H.A. Ward, G.G. Kuhnle. Phytoestrogen consumption and association with breast, prostate and colorectal cancer in EPIC Norfolk. Arch Biochem Biophys. 2010 Sep 1;501(1):170-5. Epub 2010 Jun 1.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20494649"
+    },
+    {
+      "Title": "K. Buck, A. K. Zaineddin, A. Vrieling, J. Linseisen, J. Chang-Claude. Meta-analyses of lignans and enterolignans in relation to breast cancer risk. Am. J. Clin. Nutr. 2010 92(1):141 - 153",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20463043"
+    },
+    {
+      "Title": "K. Buck, A. Vrieling, A.K. Zaineddin, S. Becker, A. Hüsing, R. Kaaks, J. Linseisen, D. Flesch-Janys, J. Chang-Claude. Serum enterolactone and prognosis of postmenopausal breast cancer. J Clin Oncol. 2011 Oct 1;29(28):3730-8. Epub 2011 Sep 6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21900115"
+    },
+    {
+      "Title": "K. Buck, A.K. Zaineddin, A. Vrieling, J. Heinz, J. Linseisen, D. Flesch-Janys, J. Chang-Claude. Estimated enterolignans, lignan-rich foods, and fibre in relation to survival after postmenopausal breast cancer. Br J Cancer. 2011 Oct 11;105(8):1151-7. doi: 10.1038/bjc.2011.374. Epub 2011 Sep 13.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21915130"
+    },
+    {
+      "Title": "K. D. Coulman, Z. Liu, W. Q. Hum, J. Michaelides, L. U. Thompson. Whole sesame seed is as rich a source of mammalian lignan precursors as whole flaxseed. Nutr Cancer 2005 52(2):156 - 165",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16201847"
+    },
+    {
+      "Title": "K. D. Setchell, A. M. Lawson, F. L. Mitchell, H. Adlercreutz, D. N. Kirk, M. Axelson. Lignans in man and in animal species. Nature 1980 287(5784):740 - 742",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/6253812"
+    },
+    {
+      "Title": "L.S. Velentzis, M.M. Cantwell, C. Cardwell, M.R. Keshtgar, A.J. Leathem, J.V. Woodside. Lignans and breast cancer risk in pre- and post-menopausal women: meta-analyses of observational studies. Br J Cancer. 2009 May 5;100(9):1492-8. Epub 2009 Mar 31.",
+      "Url": "http://www.nature.com/bjc/journal/v100/n9/pdf/6605003a.pdf"
+    },
+    {
+      "Title": "L.U. Thompson, J.M. Chen, T. Li, K. Strasser-Weippl, P.E. Goss. Dietary flaxseed alters tumor biological markers in postmenopausal breast cancer. Clin Cancer Res. 2005 May 15;11(10):3828-35.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15897583/"
+    },
+    {
+      "Title": "N. M. Saarinen, A. Wärri, M. Airio, A. Smeds, S. Mäkelä. Role of dietary lignans in the reduction of breast cancer risk. Mol Nutr Food Res 2007 51(7):857 - 866",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17576639"
+    },
+    {
+      "Title": "P. Guglielmini, A. Rubagotti, F. Boccardo. Serum enterolactone levels and mortality outcome in women with early breast cancer: a retrospective cohort study. Breast Cancer Res Treat. 2012 Apr;132(2):661-8. Epub 2011 Nov 18.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22094938"
+    },
+    {
+      "Title": "P. Knekt, H. Adlercreutz, H. Rissanen, A. Aromaa, L. Teppo, M. Heliövaara. Does antibacterial treatment for urinary tract infection contribute to the risk of breast cancer? Br. J. Cancer 2000 82(5):1107 - 1110",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2374435/"
+    },
+    {
+      "Title": "P.E. Patterson. Flaxseed and breast cancer: what should we tell our patients? J Clin Oncol. 2011 Oct 1;29(28):3723-4. Epub 2011 Sep 6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21900107"
+    },
+    {
+      "Title": "S. Abarzua, T. Serikawa, M. Szewczyk, D.-U. Richter, B. Piechulla, V. Briese. Antiproliferative activity of lignans against the breast carcinoma cell lines MCF 7 and BT 20. Arch. Gynecol. Obstet. 2012 285(4):1145 - 1151",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22037685"
+    },
+    {
+      "Title": "S. R. Stitch, J. K. Toumba, M. B. Groen, C. W. Funke, J. Leemhuis, J. Vink, G. F. Woods. Excretion, isolation and structure of a new phenolic constituent of female urine. Nature 1980 287(5784):738 - 740",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/7432490"
+    },
+    {
+      "Title": "S.E. McCann, L.U. Thompson, J. Nie, J. Dorn, M. Trevisan, P.G. Shields, C.B. Ambrosone, S.B. Edge, H.F. Li, C. Kasprzak, J.L. Freudenheim. Dietary lignan intakes in relation to survival among women with breast cancer: the Western New York Exposures and Breast Cancer (WEB) Study. Breast Cancer Res Treat. 2010 Jul;122(1):229-35. Epub 2009 Dec 22.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2883619/pdf/nihms172360.pdf"
+    },
+    {
+      "Title": "W. M. Mazur, M. Uehara, K. Wähälä, H. Adlercreutz. Phytooestrogen content of berries, and plasma concentrations and urinary excretion of enterolactone after a single strawberry meal in human subjects. NA 2000 83(04):381-387",
+      "Url": "http://journals.cambridge.org/abstract_S0007114500000489"
+    }
+  ],
+  "Acknowledgements": "Images thanks to mimitalks, married w/children via flickr",
+  "Topics": [
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "berries",
+      "Url": "https://nutritionfacts.org/topics/berries/"
+    },
+    {
+      "Title": "bile acids",
+      "Url": "https://nutritionfacts.org/topics/bile-acids/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "flaxseeds",
+      "Url": "https://nutritionfacts.org/topics/flax-seeds/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "legumes",
+      "Url": "https://nutritionfacts.org/topics/legumes/"
+    },
+    {
+      "Title": "lignans",
+      "Url": "https://nutritionfacts.org/topics/lignans/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "National Cancer Institute",
+      "Url": "https://nutritionfacts.org/topics/national-cancer-institute/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "seeds",
+      "Url": "https://nutritionfacts.org/topics/seeds/"
+    },
+    {
+      "Title": "sesame seeds",
+      "Url": "https://nutritionfacts.org/topics/sesame-seeds/"
+    },
+    {
+      "Title": "strawberries",
+      "Url": "https://nutritionfacts.org/topics/strawberries/"
+    },
+    {
+      "Title": "urinary tract infections",
+      "Url": "https://nutritionfacts.org/topics/urinary-tract-infections/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p dir=\"ltr\">Today begins my three-part video series on the role flax seeds may play in the prevention and treatment of breast cancer. I covered their role in prostate cancer in <a href=\"https://nutritionfacts.org/video/flaxseed-vs-prostate-cancer/\" target=\"_blank\" rel=\"noopener\">Flaxseeds vs. Prostate Cancer</a>, and <a href=\"https://nutritionfacts.org/video/was-it-the-flaxseed-fat-restriction-or-both/\" target=\"_blank\" rel=\"noopener\">Was It the Flaxseeds, Fat Restriction, or Both?</a>. Then, I looked at their impact upon blood sugar control (<a href=\"https://nutritionfacts.org/video/flaxseed-vs-diabetes/\" target=\"_blank\" rel=\"noopener\">Flaxseeds vs. Diabetes</a>) and skin health (<a href=\"https://nutritionfacts.org/video/flaxseeds-for-sensitive-skin/\" target=\"_blank\" rel=\"noopener\">Flaxseeds for Sensitive Skin</a>).</p>\n<p dir=\"ltr\">When I say “why isn’t it just like the fiber story,” I’m referring to my previous video, <a href=\"https://nutritionfacts.org/video/fiber-vs-breast-cancer/\" target=\"_blank\" rel=\"noopener\">Fiber vs. Breast Cancer</a>. The graph comparing the lignan contents of various foods is from my video, <a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-lignan-intake/\">Breast Cancer Survival and Lignan Intake</a>. Sorry if I covered the UTI-breast cancer connection a little fast—more background on the role our good bacteria play in <a href=\"https://nutritionfacts.org/video/flax-and-fecal-flora/\">Flax and Fecal Flora</a>. As I note in the <a href=\"https://nutritionfacts.org/video/flaxseeds-for-sensitive-skin/\" target=\"_blank\" rel=\"noopener\">Flaxseeds for Sensitive Skin</a> video, ground flax stays fresh, even at room temperature, for at least a month.</p>\n<p dir=\"ltr\">What if you or a loved one has already been diagnosed with breast cancer, though? I hope you’ll find my next two videos useful: <a href=\"https://nutritionfacts.org/video/flaxseeds-breast-cancer-survival-epidemiological-evidence/\">Flaxseeds &amp; Breast Cancer Survival: Epidemiological Evidence</a>, and <a href=\"https://nutritionfacts.org/video/flaxseeds-breast-cancer-survival-clinical-evidence/\">Flaxseeds &amp; Breast Cancer Survival: Clinical Evidence</a>.</p>\n<p dir=\"ltr\">For further context, also check out my associated blog posts: <a href=\"https://nutritionfacts.org/2013/10/10/flaxseeds-for-sensitive-skin/\">Treating Sensitive Skin From the Inside Out</a>; <a href=\"https://nutritionfacts.org/2013/10/15/flaxseeds-for-breast-cancer-prevention/\">Flax and Breast Cancer Prevention</a>; and <a href=\"https://nutritionfacts.org/2013/10/17/flaxseeds-breast-cancer-survival/\">Flax and Breast Cancer Survival</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

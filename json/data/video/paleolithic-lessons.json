@@ -1,0 +1,159 @@
+{
+  "Title": "Paleolithic Lessons",
+  "Url": "https://nutritionfacts.org/video/paleolithic-lessons/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/ZR_-lJYRSEw"
+  },
+  "UpdatedAt": "2012-10-09T11:34:12+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 10",
+    "Url": "https://nutritionfacts.org/volumes/volume-10/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "An evolutionary argument for a plant-based diet is presented, in contrast to “Paleo” fad diets.",
+  "Transcript": "A review published recently makes an evolutionary argument for a plant-based diet, given the fact that we apparently evolved eating huge amounts of whole plant foods. 200,000 years ago, it’s estimated that we consumed 600mg of vitamin C a day. That’s the amount of vitamin C found in ten oranges, the amount of vitamin E found in two cups of nuts, the amount of calcium found in five cups of collard greens—and they weren’t milking mammoths or anything. That all came from their wild greens. 100 plus grams of fiber—now, we’re are lucky if we get 20 a day.\nIn fact, we were exposed to such a quantity of healthy, whole plant foods, we as a species lost our ability to make vitamin C. We still actually have the vitamin C synthesis gene in our DNA, but our bodies just junked it because, why bother? Why waste the energy? We were getting massive doses all day long, every day.\nThe problem is, now what happens when you take our evolutionary heritage, finely tuned over the millennia, and plop it down into meat-and-potato-chip country?\nAdvocates of the so-called Paleo diet are certainly right in railing against refined and processed junk, but may just use it as an excuse to eat just loads of meat that bears little resemblance to the flesh of prehistoric wild animals.\nJust on the contaminant issue alone, recently in the Meat Science, a review was published cataloging the laundry list: arsenic, mercury, lead, cadmium, polycyclic aromatic hydrocarbons, preservatives, and veterinary drugs, like the antibiotic residues. Given what’s now in fish, for example, “it would be impossible to follow the Paleolithic diet while avoiding the risks associated with consuming mercury in amounts in excess of the suggested EPA threshold.”\nThe Paleo diet patients I saw in my practice weren’t subsisting on weeds and eating 100 grams of fiber a day. They were eating burgers, not bugs. Based in part on our evolutionary history, “Sufficient scientific evidence exists for public health policy to promote a plant-rich diet for health promotion.”\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Kerry Skinner.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Andrée S, Jira W, Schwind KH, Wagner H, Schwägele F. Chemical safety of meat and meat products. Meat Sci. 2010 Sep;86(1):38-48.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20510527"
+    },
+    {
+      "Title": "Benzie IF, Wachtel-Galor S. Vegetarian diets and public health: biomarker and redox connections. Antioxid Redox Signal. 2010 Nov 15;13(10):1575-91.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/%2020222825"
+    },
+    {
+      "Title": "Benzie IF. Evolution of dietary antioxidants. Comp Biochem Physiol A Mol Integr Physiol. 2003 Sep;136(1):113-26.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14527634"
+    },
+    {
+      "Title": "Jew S, AbuMweis SS, Jones PJ. Evolution of the human diet: linking our ancestral diet to modern functional foods as a means of chronic disease prevention. J Med Food. 2009 Oct;12(5):925-34.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19857053"
+    }
+  ],
+  "Acknowledgements": "Images thanks to GrahamIX via flickr",
+  "Topics": [
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "arsenic",
+      "Url": "https://nutritionfacts.org/topics/arsenic/"
+    },
+    {
+      "Title": "cadmium",
+      "Url": "https://nutritionfacts.org/topics/cadmium/"
+    },
+    {
+      "Title": "calcium",
+      "Url": "https://nutritionfacts.org/topics/calcium/"
+    },
+    {
+      "Title": "collard greens",
+      "Url": "https://nutritionfacts.org/topics/collard-greens/"
+    },
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "hamburgers",
+      "Url": "https://nutritionfacts.org/topics/hamburgers/"
+    },
+    {
+      "Title": "heavy metals",
+      "Url": "https://nutritionfacts.org/topics/heavy-metals/"
+    },
+    {
+      "Title": "insects",
+      "Url": "https://nutritionfacts.org/topics/insects/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "lead",
+      "Url": "https://nutritionfacts.org/topics/lead/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "mercury",
+      "Url": "https://nutritionfacts.org/topics/mercury/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "oranges",
+      "Url": "https://nutritionfacts.org/topics/oranges/"
+    },
+    {
+      "Title": "paleolithic diets",
+      "Url": "https://nutritionfacts.org/topics/paleolithic-diets/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "preservatives",
+      "Url": "https://nutritionfacts.org/topics/preservatives/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetable protein",
+      "Url": "https://nutritionfacts.org/topics/vegetable-protein/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    },
+    {
+      "Title": "vitamin E",
+      "Url": "https://nutritionfacts.org/topics/vitamin-e/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For those interested in digging deeper, there was an interesting Scientific American blog this summer entitled “<a href=\"http://blogs.scientificamerican.com/guest-blog/2012/07/23/human-ancestors-were-nearly-all-vegetarians/\" rel=\"nofollow\">Human Ancestors Were Nearly All Vegetarians</a>,” and there’s an <a href=\"https://www.youtube.com/user/PrimitiveNutrition\" rel=\"nofollow\">in-depth video series</a> on YouTube. I wrote a whole book on the former low-carb fad incarnation, <a href=\"https://www.amazon.com/gp/product/1590560868/ref=as_li_ss_tl?ie=UTF8&amp;tag=httpwwwdrgreg-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1590560868\" rel=\"nofollow\">Carbophobia</a>, now available <a href=\"http://www.atkinsexposed.org/\" rel=\"nofollow\">free online</a> (like all of my work). I also have two videos: <a href=\"https://nutritionfacts.org/video/atkins-diet-trouble-keeping-it-up/\" rel=\"nofollow\">Atkins Diet: Trouble Keeping It Up</a>, and <a href=\"https://nutritionfacts.org/video/plant-based-atkins-diet/\" rel=\"nofollow\">Plant-Based Atkins Diet</a>.</p>\n<p>For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/the-real-paleo-diet/\"> The Real Paleo Diet</a>; <a href=\"https://nutritionfacts.org/2013/05/23/98-of-american-diets-potassium-deficient/\">98% of American Diets Potassium-Deficient</a>; and <a href=\"https://nutritionfacts.org/2013/06/20/uric-acid-caused-by-meat-and-sugar/\">Uric Acid From Meat and Sugar</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

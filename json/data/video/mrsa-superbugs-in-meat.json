@@ -1,0 +1,147 @@
+{
+  "Title": "MRSA Superbugs in Meat",
+  "Url": "https://nutritionfacts.org/video/mrsa-superbugs-in-meat/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/dkHL7g3KxVQ"
+  },
+  "UpdatedAt": "2014-09-05T11:00:07+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 20",
+    "Url": "https://nutritionfacts.org/volumes/volume-20/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The emergence of pathogens resistant to even our antibiotics of last resort has raised the specter of a “post-antibiotic age” in which drugs to fight infections may be useless. This has focused attention on the mass use of antibiotics in farm animal feed to promote growth and prevent infection in high density production.",
+  "Transcript": "As a rule, high-ranking public-health officials try to avoid apocalyptic descriptors. So it’s worrying to hear those like the Director of the CDC warn of a coming health “nightmare” and a “catastrophic threat.” A number of prominent publications recently warn of the threat of antibiotic resistance. The CDC estimates that at a minimum, more than two million people are sickened every year with antibiotic-resistant infections in the United States, with at least 23,000 dying as a result.\nWe may be at the dawn of a post-antibiotic era. Achievements in modern medicine, such as surgery and the treatment of preterm babies, which we today take for granted, would not be possible without access to effective treatment for bacterial infections. For example, without antibiotics, the rate of postoperative infection after a procedure like a hip replacement would be 40-50% and about 1 in 3 those patients would die. (That’s like Russian roulette odds.) So the so-called worst case scenarios where resistant infections could cost like $50 billion a year might still be an underestimate. From cradle to grave, antibiotics have become pivotal in safeguarding the overall health of human societies.\nSo the dire phrasing from head officials may be warranted. There are now infections like carbapenem-resistent enterobacter resistant to nearly all antibiotics, even to so-called drugs of last resort. Worryingly, some of these last resort drugs are being used extensively in animal agriculture.\nAccording to the World Health Organization, more antibiotics are fed to farmed animals than is used to treat disease in human patients. Doctors overprescribe antibiotics, but huge amounts of antibiotics are used in fish farming and other intensive animal agriculture, up to four times the amount used in human medicine. Why? Suboptimum growth to slaughter weight caused by unsanitary conditions can be compensated with addition of antibiotics to feed. Instead of relieving any stressful overcrowded unhygienic conditions, it may be cheaper to just dose the animals with drugs.\nIn this way, factory farms are driving the growth of antibiotic-resistant organisms that cause human diseases. This may help bolster the industry’s bottom line, but in the process, bacteria are developing antimicrobial resistance, which affects human health.\nIn the United States, the FDA reports that 80% of antibiotics in the United States are used in food animals, mainly to promote growth in this kind of high-density production. This can select for antibiotic-resistant bacteria like methicillin-resistant Staph aureus, “mersa,” or MRSA, considered a serious threat in the United States.\nThese industrial pig operations may provide optimal conditions for the introduction and transmission of MRSA. US pork producers are currently permitted to use 29 different antibiotic drugs in feed—without a prescription, are currently added to about 90% of pigs starter feeds.\nWhen animals receive unnecessary antibiotics, bacteria can be come resistant to the drugs, then travel on meat to the store, and end up causing hard-to-treat illnesses in people.\nMRSA present in retail raw meat may serve as a possible source of bacterial infections for food preparers in the food industry and hands of consumers in the home, unless you wear gloves. Once MRSA gets into our homes on meat, it can transfer to our cutting boards, knives, and onto our skin at a rate similar to the rate of transmission from touching an infected patient contaminated with MRSA. Washing of hands after touching raw pork is advised.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "B Lassok, B A Tenhagen. From pig to pork: Methicillin-resistant Staphylococcus aureus in the pork production chain. J. Food Prot. 2013 76(6):1095 – 1108.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23726208"
+    },
+    {
+      "Title": "B Sibbald. Farm-grown superbugs: While the world acts, Canada dawdles. Canadian Medical Association Journal 2012 184(14):1553 – 1553.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22664761"
+    },
+    {
+      "Title": "CDC Health. Physical activity and health: A report of the Surgeon General. 1996.",
+      "Url": "https://www.cdc.gov/nccdphp/sgr/contents.htm"
+    },
+    {
+      "Title": "D Undurraga.  Superbugs Invade American Supermarkets.  Environmental Working Group 2013.",
+      "Url": "http://www.ewg.org/meateatersguide/superbugs/"
+    },
+    {
+      "Title": "H L Snyder, S E Niebuhr, J S Dickson. Transfer of methicillin-resistant Staphylococcus aureus from retail pork products onto food contact surfaces and the potential for consumer exposure. J. Food Prot. 2013 76(12):2087 – 2092.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24290687"
+    },
+    {
+      "Title": "J A Casey, F C Curriero, S E Cosgrove, K E Nachman, B S Schwartz. High-density livestock operations, crop field application of manure, and risk of community-associated methicillin-resistant Staphylococcus aureus infection in Pennsylvania. JAMA Intern Med 2013 173(21):1980 – 1990.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24043228"
+    },
+    {
+      "Title": "K C de Almeida, T B Lima, D O Motta, O N Silva, B S Magalh~aes, S C Dias, O L Franco. Investigating specific bacterial resistance to AMPs by using a magainin I-resistant Escherichia coli model. The Journal of antibiotics 2014.",
+      "Url": "http://www.nature.com/ja/journal/vaop/ncurrent/full/ja201448a.html"
+    },
+    {
+      "Title": "Laxminarayan R, Duse A, Wattal C, Zaidi AK, Wertheim HF, Sumpradit N, Vlieghe E, Hara GL, Gould IM, Goossens H, Greko C, So AD, Bigdeli M, Tomson G, Woodhouse W, Ombaka E, Peralta AQ, Qamar FN, Mir F, Kariuki S, Bhutta ZA, Coates A, Bergstrom R, Wright GD, Brown ED, Cars O. Antibiotic resistance-the need for global solutions. Lancet Infect Dis. 2013 Dec;13(12):1057-98.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24252483"
+    },
+    {
+      "Title": "M Boost, J Ho, L. Guardabassi, M O'Donoghue. Colonization of butchers with livestock-associated methicillin-resistant Staphylococcus aureus. Zoonoses Public Health 2013 60(8):572 – 576.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23279691"
+    },
+    {
+      "Title": "M I Morosini, M García-Castillo, M Tato, D Gijón, A Valverde, P Ruiz-Garbajosa, R Cantón. Rapid Detection of beta-Lactamase-Hydrolyzing Extended-Spectrum Cephalosporins in Enterobacteriaceae by Use of the New Chromogenic $beta$Lacta Test. J. Clin. Microbiol. 2014 52(5):1741 – 1744.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3421789/"
+    },
+    {
+      "Title": "M Mckenna. Antibiotic Resistance: The Last Resort. Nature July 2013.",
+      "Url": "http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426"
+    },
+    {
+      "Title": "R Smith and J Coast. The true cost of antimicrobial resistance. BMJ 2013 346:f1493.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23479660"
+    },
+    {
+      "Title": "U Stiefel, J L Cadnum, B C Eckstein, D M Guerrero, M A Tima, C J Donskey. Contamination of hands with methicillin-resistant Staphylococcus aureus after contact with environmental surfaces and after contact with the skin of colonized patients. Infect Control Hosp Epidemiol 2011 32(2):185 – 187.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21460476"
+    },
+    {
+      "Title": "World Health Organization, et al. The evolving threat of antimicrobial resistance: Options for action: Executive summary. 2012.",
+      "Url": "http://www.who.int/patientsafety/implementation/amr/publication/en/"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "CDC",
+      "Url": "https://nutritionfacts.org/topics/cdc/"
+    },
+    {
+      "Title": "factory farming practices",
+      "Url": "https://nutritionfacts.org/topics/factory-farming-practices/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    },
+    {
+      "Title": "feed additives",
+      "Url": "https://nutritionfacts.org/topics/feed-additives/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "MRSA",
+      "Url": "https://nutritionfacts.org/topics/mrsa/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "staph infection",
+      "Url": "https://nutritionfacts.org/topics/staph-infection/"
+    },
+    {
+      "Title": "surgery",
+      "Url": "https://nutritionfacts.org/topics/surgery/"
+    },
+    {
+      "Title": "World Health Organization",
+      "Url": "https://nutritionfacts.org/topics/world-health-organization/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I know I’ve already covered this before, but it continues to shock me that the meat industry can get away with something so forcefully and universally condemned by the public health community. What other industrial sector could get away with putting people at such risk? It speaks to the combined might of the livestock industry and the pharmaceutical industry in holding sway over our democratic process no matter what the human health consequences.</p>\n<p>If you’ve missed my other MRSA videos, check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/airborne-mrsa/\">Airborne MRSA</a></li>\n<li><a href=\"https://nutritionfacts.org/video/mrsa-in-u-s-retail-meat/\">MRSA in U.S. Retail Meat</a></li>\n</ul>\n<p>And for more on this critical issue in general:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/lowering-dietary-antibiotic-intake/\">Lowering Dietary Antibiotic Intake</a></li>\n<li><a href=\"https://nutritionfacts.org/video/more-antibiotics-in-white-meat-or-dark-meat/\">More Antibiotics in White Meat or Dark Meat?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/meat-mythcrushers/\">Meat Mythcrushers</a></li>\n<li><a href=\"https://nutritionfacts.org/video/food-poisoning-bacteria-cross-contamination/\">Food Poisoning Bacteria Cross-Contamination</a></li>\n<li><a href=\"https://nutritionfacts.org/video/unsafe-at-any-feed/\">Unsafe at Any Feed</a></li>\n<li><a href=\"https://nutritionfacts.org/video/past-the-age-of-miracles-facing-a-post-antibiotic-age/\">Past the Age of Miracles: Facing a Post-Antibiotic Age</a></li>\n<li><a href=\"https://nutritionfacts.org/video/superbugs-in-conventional-vs-organic-chicken/\">Superbugs in Conventional vs. Organic Chicken</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

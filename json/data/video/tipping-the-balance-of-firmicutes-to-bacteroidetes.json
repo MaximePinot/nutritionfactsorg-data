@@ -1,0 +1,127 @@
+{
+  "Title": "Tipping Firmicutes to Bacteroidetes",
+  "Url": "https://nutritionfacts.org/video/tipping-the-balance-of-firmicutes-to-bacteroidetes/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/jNEg47o1VeQ"
+  },
+  "UpdatedAt": "2012-08-30T10:49:27+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 10",
+    "Url": "https://nutritionfacts.org/volumes/volume-10/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Certain phytonutrients may tip the balance of healthy gut bacteria in favor of flora associated with improved weight control.",
+  "Transcript": "Other than fiber, what else do plants make that animals don’t, that could help account for how dramatically slimmer those who eat plant-based diets tend to be? Phytonutrients!\nMammals, including humans, harbor two main types of friendly gut bacteria: Bacteroidetes and Firmicutes. In terms of obesity, though, one appears friendlier than the other. There is mounting evidence that the gut flora is different in healthy patients than it is in obese patients, which primarily involves higher numbers of Firmicutes than Bacteroidetes phyla, in the case of obesity and overweight. So, just to keep them straight, you can remember: fatter, Firmicutes; and bonier, Bacteroidetes.\nObese individuals seem to have more Firmicutes than Bacteriodetes in their guts. If you put people on a diet for a year, you can actually change the proportion. Give people certain antibiotics; you may actually trigger obesity, because you’re mucking around down there.\nHow can we improve our ratio? Well, there is a class of phytonutrients, called polyphenols, that do two things: they preferentially feed Bacteriodetes, while at the same time suppressing the growth of Firmicutes.\nSo researchers were like, hey, maybe that’s why the use of vinegar has been recommended for thousands of years for weight loss! What’s it often made out of ?Red wine vinegar, apple cider vinegar—both of which, grapes and apples, packed with polyphenols. The weight-lowering properties of fruits, green tea, and wine vinegar in obese people may be partly related to the polyphenol content of them—which consequently changes the gut flora, which may consequently alter the balance between the two groups of Bacteroidetes and the Firmicutes bacteria, in the favor of Bacteroidetes.\nIt’s funny; you know, naysayers of the power of phytonutrients often point to studies like this, showing that up to 85% of those wonderful blue anthocyanins in blueberries end up in your colon, unabsorbed. But that may be exactly where some of the magic happens.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by MaryAnn Allison.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Kahle K, Kraus M, Scheppach W, Ackermann M, Ridder F, Richling E. Studies on apple and blueberry fruit constituents: do the polyphenols reach the colon after ingestion? Mol Nutr Food Res. 2006 Apr;50(4-5):418-23.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16548015"
+    },
+    {
+      "Title": "Ley RE, Turnbaugh PJ, Klein S, Gordon JI. Microbial ecology: human gut microbes associated with obesity. Nature. 2006 Dec 21;444(7122):1022-3.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17183309"
+    },
+    {
+      "Title": "Rastmanesh R. High polyphenol, low probiotic diet for weight loss because of intestinal microbiota interaction. Chem Biol Interact. 2011 Jan 15;189(1-2):1-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20955691"
+    },
+    {
+      "Title": "Thuny F, Richet H, Casalta JP, Angelakis E, Habib G, Raoult D. Vancomycin treatment of infective endocarditis is linked with recently acquired obesity. PLoS One. 2010 Feb 10;5(2):e9074.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818846/pdf/pone.0009074.pdf"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "bile acids",
+      "Url": "https://nutritionfacts.org/topics/bile-acids/"
+    },
+    {
+      "Title": "blueberries",
+      "Url": "https://nutritionfacts.org/topics/blueberries/"
+    },
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "colon health",
+      "Url": "https://nutritionfacts.org/topics/colon-health/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grapes",
+      "Url": "https://nutritionfacts.org/topics/grapes/"
+    },
+    {
+      "Title": "green tea",
+      "Url": "https://nutritionfacts.org/topics/green-tea/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "polyphenols",
+      "Url": "https://nutritionfacts.org/topics/polyphenols/"
+    },
+    {
+      "Title": "probiotics",
+      "Url": "https://nutritionfacts.org/topics/probiotics/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vinegar",
+      "Url": "https://nutritionfacts.org/topics/vinegar/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the third of a three-part video series on keeping our gut bacteria happy. The first two discussed propionate (see <a href=\"https://nutritionfacts.org/video/fawning-over-flora/\">Fawning Over Flora</a>), and butyrate (see <a href=\"https://nutritionfacts.org/video/boosting-good-bacteria-in-the-colon-without-probiotics/\">Boosting Good Bacteria in the Colon Without Probiotics</a>)—two health-promoting short-chain fatty acids produced by the fermentation of fiber that may be helpful in preventing obesity, cancer, and inflammation in general. More on phenolic phytonutrients in <a href=\"https://nutritionfacts.org/video/best-fruit-juice/\" rel=\"nofollow\">Best Fruit Juice</a>. Are blueberries the <a href=\"https://nutritionfacts.org/video/best-berries/\" rel=\"nofollow\">Best Berries</a>?</p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/the-ice-diet/\"> The Ice Diet</a> and <a href=\"https://nutritionfacts.org/blog/eating-green-to-prevent-cancer/\">Eating Green to Prevent Cancer</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

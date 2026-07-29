@@ -1,0 +1,163 @@
+{
+  "Title": "Preventing and Treating Sarcoidosis",
+  "Url": "https://nutritionfacts.org/video/preventing-and-treating-sarcoidosis/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/79OWHCiGCOU"
+  },
+  "UpdatedAt": "2025-08-27T11:50:37+00:00",
+  "Author": "Kristine Dennis PhD, MPH",
+  "Volume": {
+    "Title": "Volume 70",
+    "Url": "https://nutritionfacts.org/volumes/volume-70/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The cause of sarcoidosis is unknown, but new research indicates that mycobacteria, like MAP bacteria found in dairy and meat products, are likely involved in some sarcoidosis cases.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nSarcoidosis is a disease characterized by granulomas, which are collections of immune cells caused by chronic inflammation that can form in our lungs, lymph nodes, on our skin, and in other parts of our body. The occurrence of sarcoidosis varies greatly around the world, from fairly low levels in countries like South Korea, Taiwan, and Japan to up to a hundred times higher levels in Sweden and Canada.\nRace also seems to matter, with Black populations experiencing much higher rates of disease and higher rates of death at younger ages. It is possible Black people may be at greater risk of disease and disease severity, but there are also long-standing systemic health and social inequities that limit access to quality care.\nThe routine way to treat sarcoidosis is with immune-suppressing corticosteroid drugs to manage the inflammation. Drugs come with their own limitations, though, including steroid resistance, no response to the medications, and a long list of potential side effects. Could nutrition help in sarcoidosis treatment? Possibly. Certain components in food may have anti-inflammatory effects in lung diseases, so maybe sarcoidosis patients should be encouraged to eat antioxidant and polyphenol-rich diets. But there have yet to be interventional trials to put it to the test.\nAre there any steps we can take to potentially avoid this disease? Its cause is unknown. Sarcoidosis can cluster in families, but maybe that’s just because of a shared household environment. Although some gene variants may increase susceptibility, genes alone are insufficient to cause sarcoidosis. Something is driving the disease process. Something is driving the inflammation.\nWe may be closer to solving one part of the mystery of sarcoidosis. Recent advances in molecular and immunological methods have produced a more rigorous look at the drivers of the disease, indicating that mycobacteria are likely involved in at least a subset of sarcoidosis cases. Mycobacteria like Mycobacterium avium subspecies paratuberculosis or MAP is a zoonotic pathogen, meaning it can go from animals to humans. We previously covered the potential link between MAP and other autoimmune conditions, like type 1 diabetes, and how dairy products are a major exposure source in our diets to MAP.\nViable MAP bacteria are still being found in pasteurized milk, despite efforts to extend the pasteurization processes to prevent this. It’s also found in goat milk and various types of cheeses—Swiss, cheddar, sheep, and goat cheeses, along with softer cheeses like mozzarella and burrata. Unfortunately, this is a global issue in countries raising cows in intensive systems, with among the highest rates in the United States, where 68 to 91 percent of dairy herds are infected.\nIn this 2015 review, two studies looked for MAP bacteria, and found none in either sarcoidosis patients or control subjects. Two other studies looked at evidence of MAP exposure, and found between seven and 17 times the odds of reacting to MAP, but neither reached statistical significance. What have we learned since then? In a natural experiment, researchers looked at the rates of sarcoidosis among those who did or did not receive the BCG vaccine, which provides partial protection against mycobacteria like tuberculosis. And those born during a time with high BCG vaccination uptake had lower rates of sarcoidosis. But it’s not like it was a randomized controlled experiment, so it’s not clear if tuberculosis vaccination could really protect from MAP-associated autoimmune diseases, which also include Crohn’s disease, Hashimoto’s thyroiditis, multiple sclerosis (MS), rheumatoid arthritis, and lupus.\nThe strongest evidence would come from seeing an effect from treating someone with antimycobacterial drugs. That’s how Barry Marshall got the Nobel prize for proving that H. pylori caused stomach inflammation: by swallowing some and then curing himself with antibiotics. This is the study that excited the sarcoidosis community. Cardiac sarcoidosis, meaning sarcoidosis of the heart, resolved with MAP antibiotics. MAP was first identified in this patient’s blood, and after more than a year of a MAP antibiotic regime, his sarcoidosis appeared to disappear, something that was never even thought possible. A pilot study in those with pulmonary sarcoidosis also found impressive results with antimycobacterial therapy, with improvements in lung function and quality of life. When the researchers conducted a larger trial however, there was no significant benefit for lung function despite a significant reduction in mycobacterial immune responses.\nSo where does that leave us? Mycobacterium avium subspecies paratuberculosis in the food supply is a public health issue. “To reduce human exposure to MAP via consumption of dairy and meat products, quantitative studies are needed for estimating” how much MAP is in the milk, meat, and feces, and how much fecal contamination is in the milk and meat, to figure out what we need to do to kill it.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Arkema EV, Cozier YC. Sarcoidosis epidemiology: recent estimates of incidence, prevalence and risk factors. Curr Opin Pulm Med. 2020;26(5):527-534.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32701677/"
+    },
+    {
+      "Title": "Baker MC, Vágó E, Tamang S, Horváth-Puhó E, Sørensen HT. Sarcoidosis rates in BCG-vaccinated and unvaccinated young adults: A natural experiment using Danish registers. Semin Arthritis Rheum. 2023;60:152205.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37054583/"
+    },
+    {
+      "Title": "Bast A, Semen KO, Drent M. Nutrition and corticosteroids in the treatment of sarcoidosis. Curr Opin Pulm Med. 2018;24(5):479-486.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29939865/"
+    },
+    {
+      "Title": "Brownell I, Ramírez-Valle F, Sanchez M, Prystowsky S. Evidence for mycobacteria in sarcoidosis. Am J Respir Cell Mol Biol. 2011;45(5):899-905.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21659662/"
+    },
+    {
+      "Title": "Celler BG. Case Study: Cardiac sarcoidosis resolved with Mycobacterium avium paratuberculosis antibiotics (Map). Sarcoidosis Vasc Diffuse Lung Dis. 2018;35(2):171-177.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32476899/"
+    },
+    {
+      "Title": "Dow CT, Lin NW, Chan ED. Sarcoidosis, mycobacterium paratuberculosis and noncaseating granulomas: who moved my cheese. Microorganisms. 2023;11(4):829.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37110254/"
+    },
+    {
+      "Title": "Dow CT. Proposing bcg vaccination for mycobacterium avium ss. Paratuberculosis (Map) associated autoimmune diseases. Microorganisms. 2020;8(2):212.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32033287/"
+    },
+    {
+      "Title": "Drake WP, Culver DA, Baughman RP, et al. Phase ii investigation of the efficacy of antimycobacterial therapy in chronic pulmonary sarcoidosis. Chest. 2021;159(5):1902-1912.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33387486/"
+    },
+    {
+      "Title": "Drake WP, Richmond BW, Oswald-Richter K, et al. Effects of broad-spectrum antimycobacterial therapy on chronic pulmonary sarcoidosis. Sarcoidosis Vasc Diffuse Lung Dis. 2013;30(3):201-211.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24284293/"
+    },
+    {
+      "Title": "Eltholth MM, Marsh VR, Van Winden S, Guitian FJ. Contamination of food products with Mycobacterium avium paratuberculosis: a systematic review. J Appl Microbiol. 2009;107(4):1061-1071.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19486426/"
+    },
+    {
+      "Title": "Fang C, Huang H, Xu Z. Immunological evidence for the role of mycobacteria in sarcoidosis: a meta-analysis. PLoS One. 2016;11(8):e0154716.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27479700/"
+    },
+    {
+      "Title": "Garvey M. Mycobacterium avium paratuberculosis: a disease burden on the dairy industry. Animals (Basel). 2020;10(10):1773.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33019502/"
+    },
+    {
+      "Title": "Hena KM. Sarcoidosis epidemiology: race matters. Front Immunol. 2020;11:537382.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33042137/"
+    },
+    {
+      "Title": "Kuenstner L, Kuenstner JT. Mycobacterium avium ssp. Paratuberculosis in the food supply: a public health issue. Front Public Health. 2021;9:647448.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34336758/"
+    },
+    {
+      "Title": "Mullan WMA. Are we closer to understanding why viable cells of Mycobacterium avium subsp. paratuberculosis are still being reported in pasteurised milk? Int J of Dairy Tech. 2019;72(3):332-344.",
+      "Url": "https://onlinelibrary.wiley.com/doi/10.1111/1471-0307.12617"
+    },
+    {
+      "Title": "Pajares JM, Gisbert JP. Helicobacter pylori: its discovery and relevance for medicine. Rev Esp Enferm Dig. 2006;98(10):770-785.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17094726/"
+    },
+    {
+      "Title": "Pierce TB, Margolis M, Razzuk MA. Sarcoidosis: still a mystery? Proc (Bayl Univ Med Cent). 2001;14(1):8-12.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16369580/"
+    },
+    {
+      "Title": "Ramos-Casals M, Kostov B, Brito-Zerón P, Sisó-Almirall A, Baughman RP, Autoimmune Big Data Study Group. How the frequency and phenotype of sarcoidosis is driven by environmental determinants. Lung. 2019;197(4):427-436.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31190130/"
+    },
+    {
+      "Title": "Waddell LA, Rajić A, Stärk KDC, McEWEN SA. The zoonotic potential of Mycobacterium avium ssp. paratuberculosis: a systematic review and meta-analyses of the evidence. Epidemiol Infect. 2015;143(15):3135-3157.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25989710/"
+    },
+    {
+      "Title": "de Lacerda Roberto JP, Limeira CH, da Costa Barnabé NN, et al. Antibody detection and molecular analysis for Mycobacterium avium subspecies paratuberculosis (Map) in goat milk: Systematic review and meta-analysis. Res Vet Sci. 2021;135:72-77.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33450499/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "autoimmune diseases",
+      "Url": "https://nutritionfacts.org/topics/autoimmune-diseases/"
+    },
+    {
+      "Title": "cheese",
+      "Url": "https://nutritionfacts.org/topics/cheese/"
+    },
+    {
+      "Title": "Crohn's disease",
+      "Url": "https://nutritionfacts.org/topics/crohns-disease/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "lung health",
+      "Url": "https://nutritionfacts.org/topics/lung-health/"
+    },
+    {
+      "Title": "lupus",
+      "Url": "https://nutritionfacts.org/topics/lupus/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "multiple sclerosis",
+      "Url": "https://nutritionfacts.org/topics/multiple-sclerosis/"
+    },
+    {
+      "Title": "rheumatoid arthritis",
+      "Url": "https://nutritionfacts.org/topics/rheumatoid-arthritis/"
+    },
+    {
+      "Title": "skin health",
+      "Url": "https://nutritionfacts.org/topics/skin-health/"
+    },
+    {
+      "Title": "thyroid",
+      "Url": "https://nutritionfacts.org/topics/thyroid/"
+    },
+    {
+      "Title": "type 1 diabetes",
+      "Url": "https://nutritionfacts.org/topics/type-1-diabetes/"
+    },
+    {
+      "Title": "vaccines",
+      "Url": "https://nutritionfacts.org/topics/vaccines/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p data-pm-slice=\"1 1 []\">A note from Dr. Greger:</p>\n<p>I am thrilled to introduce Dr. Kristine Dennis, our Senior Research Scientist. Dr. Dennis is an experienced nutrition and public health scientist who joined NutritionFacts to expand our research capacity — diving deep into the research, writing scripts, and now, narrating her own videos! You’ll continue to see videos from both of us interspersed in no particular order. I’m so happy Kristine is with NutritionFacts to help expand our capacity and perspectives.</p>\n<p><span style=\"font-weight: 400\">In the video, I mentioned </span><a href=\"https://nutritionfacts.org/video/does-paratuberculosis-in-meat-trigger-type-1-diabetes/\"><span style=\"font-weight: 400\">Does Paratuberculosis in Meat Trigger Type 1 Diabetes?</span></a><span style=\"font-weight: 400\">. Check it out. </span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

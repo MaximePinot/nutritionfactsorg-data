@@ -1,0 +1,127 @@
+{
+  "Title": "Is Six Hours of Sleep Enough?",
+  "Url": "https://nutritionfacts.org/video/is-six-hours-of-sleep-enough/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/seJwSij36b0"
+  },
+  "UpdatedAt": "2023-05-17T11:50:30+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 61",
+    "Url": "https://nutritionfacts.org/volumes/volume-61/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Just because we don’t have evidence that there is a growing epidemic of sleep deprivation doesn’t necessarily mean we are getting enough sleep.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nConventional wisdom has it that that over the last 50 years, sleep duration has declined in parallel with the increasing prevalence of obesity––suggesting that an epidemic of sleep loss is associated with the epidemic of weight gain. Now, we have triple-digit streaming TV channels, smartphones, and tablets to keep us entertained well into the night. “The hurry and excitement of modern life is quite correctly held to be responsible for much of the insomnia,” concluded one medical journal editorial. But that was an editorial published in 1894! Are we really sleeping that much less?\nSince 1905, sleep duration in children and adolescents has declined by a little over an hour a night. However, child labor wasn’t outlawed until 1938, though. And so, part of the explanation may be due to the exhaustion of sweating it out in the mines, farms, and factories in the early part of the last century. Since 1970, youth sleep duration has only declined about 15 minutes per night, and it’s not clear if sleep duration in adults has changed much at all. Based on 168 studies of objective measurements of sleep duration (instead of just self-report), sleep duration in adults—objective total sleep time—hasn’t changed much since 1960. Since 2003, average sleep duration in the United States may have even gone up.\nNow, of course, just because we don’t have evidence that there’s been a growing epidemic of sleep deprivation doesn’t necessarily mean we’re getting enough sleep. Maybe we weren’t getting enough 50 years ago either, or since Edison’s lightbulbs, or since candles were invented 5,000 years ago. How might we determine the optimal sleep duration? One way would be to study millions of people, and see how many hours a night is associated with the longest lifespan.\nSleep is a great mystery. A trait shared across animal species, sleep must be of vital importance to survive natural selection pressures to eliminate such a vulnerable state. Indeed, cringe-worthy experiments have shown that keeping animals awake long enough is fatal within 11 to 32 days. One of the functions of sleep that has been elucidated in recent years is the clearance of toxic waste substances that build up during the day through a newly discovered drainage system in the brain. This could help explain why those who routinely get less than seven hours of sleep a night may be at increased risk of developing cognitive disorders, such as dementia. Even a single all-nighter can cause a significant increase in beta amyloid accumulation in critical brain areas, a gummy substance implicated in the development of Alzheimer’s disease.\nThe lowest risk for developing cognitive impairment was found for those getting seven to eight hours of sleep a night, which is the same optimal range found for diabetes risk, based on 36 studies following more than a million people. The increased risk associated with getting only six hours a night compared to seven or eight is comparable to the increase in diabetes risk linked to physical inactivity.\nFor death from all causes combined, there have been more than 50 studies following hundreds of thousands of people for up to 34 years. Sleeping too short and too long are both associated with cutting one’s life short, with the apparent sweet spot at seven hours a night. Seven hours may seem short, but that may actually be what’s natural for our species. Scientists studied three isolated pre-industrial societies across two continents, and found a surprising uniformity. Despite no electric lighting or gadgets, they stayed up until about three hours after sunset and then typically rose before dawn, accumulating about a solid 6 and a half hours of sleep out of about seven and a half hours in “bed.”\nA mechanism by which excess sleep might be harmful remains elusive, and so the association between increased risk of death and disease and sleeping nine or more hours a night has largely been dismissed as implausible. Maybe it’s reverse causation—sickness leading to more time in bed, instead of vice-versa—or confounding factors, such as employment status. After all, who gets to sleep in? Those without a job to get to. However, there is experimental evidence showing negative health effects from insufficient sleep. So, in terms of sleeping in the sweet spot, aim for at least seven hours of regular sleep a day.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Anothaisintawee T, Reutrakul S, Van Cauter E, Thakkinstian A. Sleep disturbances compared to traditional risk factors for diabetes development: Systematic review and meta-analysis. Sleep Med Rev. 2016;30:11-24.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26687279/"
+    },
+    {
+      "Title": "Everson CA, Bergmann BM, Rechtschaffen A. Sleep deprivation in the rat: III. Total sleep deprivation. Sleep. 1989;12(1):13-21.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/2928622/"
+    },
+    {
+      "Title": "García-Perdomo HA, Zapata-Copete J, Rojas-Cerón CA. Sleep duration and risk of all-cause mortality: a systematic review and meta-analysis. Epidemiol Psychiatr Sci. 2019;28(5):578-588.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30058510/"
+    },
+    {
+      "Title": "Knutson KL, Turek FW. The U-shaped association between sleep and health: the 2 peaks do not mean the same thing. Sleep. 2006;29(7):878-879.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16895253/"
+    },
+    {
+      "Title": "Lee DS, Suh M, Sarker A, Choi Y. Brain Glymphatic/Lymphatic Imaging by MRI and PET. Nucl Med Mol Imaging. 2020;54(5):207-223.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33088350/"
+    },
+    {
+      "Title": "Lucassen EA, Rother KI, Cizza G. Interacting epidemics? Sleep curtailment, insulin resistance, and obesity. Ann N Y Acad Sci. 2012;1264(1):110-134.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22827862/"
+    },
+    {
+      "Title": "Marshall NS, Lallukka T. Sleep pirates-are we really living through a sleep deprivation epidemic and what's stealing our sleep?. Eur J Public Health. 2018;28(3):394-395.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29790993/"
+    },
+    {
+      "Title": "Marshall NS. The sleep loss epidemic: hunting ninjas in the dark. J Sleep Res. 2015;24(1):1-2.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25588613/"
+    },
+    {
+      "Title": "Matricciani L, Olds T, Petkov J. In search of lost sleep: secular trends in the sleep time of school-aged children and adolescents. Sleep Med Rev. 2012;16(3):203-211.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21612957/"
+    },
+    {
+      "Title": "Ogilvie RP, Patel SR. The epidemiology of sleep and obesity. Sleep Health. 2017;3(5):383-388.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28923198/"
+    },
+    {
+      "Title": "Shokri-Kojori E, Wang GJ, Wiers CE, et al. β-Amyloid accumulation in the human brain after one night of sleep deprivation. Proc Natl Acad Sci U S A. 2018;115(17):4483-4488.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29632177/"
+    },
+    {
+      "Title": "Sleeplessness. BMJ. 1894;2(1761):719.",
+      "Url": "https://www.jstor.org/stable/20229974"
+    },
+    {
+      "Title": "Wu L, Sun D, Tan Y. A systematic review and dose-response meta-analysis of sleep duration and the occurrence of cognitive disorders. Sleep Breath. 2018;22(3):805-814.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28589251/"
+    },
+    {
+      "Title": "Xie L, Kang H, Xu Q, et al. Sleep drives metabolite clearance from the adult brain. Science. 2013;342(6156):373-377.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24136970/"
+    },
+    {
+      "Title": "Yetish G, Kaplan H, Gurven M, et al. Natural sleep and its seasonal variations in three pre-industrial societies. Curr Biol. 2015;25(21):2862-2868.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26480842/"
+    },
+    {
+      "Title": "Yin J, Jin X, Shan Z, et al. Relationship of Sleep Duration With All-Cause Mortality and Cardiovascular Events: A Systematic Review and Dose-Response Meta-Analysis of Prospective Cohort Studies. J Am Heart Assoc. 2017;6(9):e005947.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28889101/"
+    },
+    {
+      "Title": "Youngstedt SD, Goff EE, Reynolds AM, et al. Has adult sleep duration declined over the last 50+ years?. Sleep Med Rev. 2016;28:69-85.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26478985/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "memory",
+      "Url": "https://nutritionfacts.org/topics/memory/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "sleep",
+      "Url": "https://nutritionfacts.org/topics/sleep/"
+    },
+    {
+      "Title": "weight gain",
+      "Url": "https://nutritionfacts.org/topics/weight-gain/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Here are some other videos on sleep:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/tart-cherries-for-insomnia/\"><span style=\"font-weight: 400\">Tart Cherries for Insomnia</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/kiwifruit-for-insomnia/\"><span style=\"font-weight: 400\">Kiwifruit for Insomnia</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/natural-dietary-remedy-for-insomnia/\">Natural Dietary Remedy for Insomnia</a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-to-treat-jet-lag-with-light/\"><span style=\"font-weight: 400\">How to Treat Jet Lag with Light</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/are-melatonin-supplements-safe/\"><span style=\"font-weight: 400\">Are Melatonin Supplements Safe?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-to-treat-jet-lag-with-melatonin-rich-food/\"><span style=\"font-weight: 400\">How to Treat Jet Lag with Melatonin-Rich Food</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/shedding-light-on-shedding-weight/\"><span style=\"font-weight: 400\">Shedding Light on Shedding Weight</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/do-mobile-phones-affect-sleep/\"><span style=\"font-weight: 400\">Do Mobile Phones Affect Sleep?</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-get-a-good-nights-sleep-without-sleeping-pills/\">How to Get a Good Night’s Sleep Without Sleeping Pills</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-sleep-is-needed-for-glymphatic-flow-brain-cleaning/\">How Much Sleep Is Needed for Glymphatic Flow (Brain Cleaning)?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-sleeping-position-for-glymphatic-flow-in-the-brain/\">The Best Sleeping Position for Glymphatic Flow in the Brain</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/melatonin-supplements-for-sleep-and-anti-aging/\">Melatonin Supplements for Sleep and Anti-Aging?</a> </li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

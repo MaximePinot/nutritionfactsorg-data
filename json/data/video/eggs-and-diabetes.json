@@ -1,0 +1,115 @@
+{
+  "Title": "Eggs and Diabetes",
+  "Url": "https://nutritionfacts.org/video/eggs-and-diabetes/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/y96iiU31ySs"
+  },
+  "UpdatedAt": "2013-12-09T12:41:27+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 16",
+    "Url": "https://nutritionfacts.org/volumes/volume-16/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Even just a single egg a week may increase the risk of diabetes—the leading cause of lower-limb amputations, kidney failure, and new cases of blindness.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Type 2 diabetes…is becoming a world pandemic.” We know the consumption of eggs is related to the development of some other chronic diseases. What about diabetes? Researchers found a stepwise increase in risk the more and more eggs people ate. Eating just a single egg a week appeared to increase the odds of diabetes by 76%. Two eggs a week appeared to double the odds, and just a single egg a day tripled the odds. Three times greater risk of type 2 diabetes, one of the leading causes of death and amputations, blindness, and kidney failure.\nThis is not the first time a link between eggs and diabetes has been reported. In 2009, Harvard researchers found that a single egg a day or more was associated with an increased risk of type 2 diabetes in men and women, and that finding has since also been confirmed in other populations—Asia in 2011, and Europe in 2012. And the “high” consumption of eggs associated with diabetes risk was less than one a day—though it appears you have to start early. Once you get into your 70s, avoiding eggs may not help.\nOnce we then have diabetes, eggs may hasten our death. Eating one egg a day or more appears to shorten anyone’s lifespan, but may double the all-cause mortality for those with diabetes. Not good news for the egg industry. From a transcript of a closed meeting I found through the Freedom of Information Act: “Given the rate at which obesity and incidence of type II diabetes is growing in the US, any association between dietary cholesterol and type II diabetes could be a ‘show stopper’ that could overshadow the positive attributes [of] eggs.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "L. Djoussé, A. Kamineni, T. L. Nelson, M. Carnethon, D. Mozaffarian, D. Siscovick, K. J. Mukamal. Egg consumption and risk of type 2 diabetes in older adults. Am. J. Clin. Nutr. 2010 92(2):422 - 427",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20534749"
+    },
+    {
+      "Title": "L. Djoussé, J. M. Gaziano, J. E. Buring, I.-M. Lee. Egg consumption and risk of type 2 diabetes in men and women. Diabetes Care 2009 32(2):295 - 300.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19017774"
+    },
+    {
+      "Title": "L. Djoussé, J. M. Gaziano. Egg consumption in relation to cardiovascular disease and mortality: the Physicians' Health Study. Am. J. Clin. Nutr. 2008 87(4):964 - 969.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18400720"
+    },
+    {
+      "Title": "L. Radzevivcienė, R. Ostrauskas. Egg consumption and the risk of type 2 diabetes mellitus: a case-control study. Public Health Nutr. 2012 15(8):1437 - 1441.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22390963"
+    },
+    {
+      "Title": "U. Ericson, E. Sonestedt, B. Gullberg, S. Hellstrand, G. Hindy, E. Wirfält, M. Orho-Melander. High intakes of protein and processed meat associate with increased incidence of type 2 diabetes. Br. J. Nutr. 2013 109(6):1143 - 1153.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22850191"
+    },
+    {
+      "Title": "Z. Shi, B. Yuan, C. Zhang, M. Zhou, G. Holmboe-Ottesen. Egg consumption and the risk of diabetes in adults, Jiangsu, China. Nutrition 2011 27(2):194 - 198.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20471806"
+    }
+  ],
+  "Acknowledgements": "Thanks to Ellen Reid for her image-finding expertise, and Jeff Thomas for his Keynote help.",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "Europe",
+      "Url": "https://nutritionfacts.org/topics/europe/"
+    },
+    {
+      "Title": "eye health",
+      "Url": "https://nutritionfacts.org/topics/eye-health/"
+    },
+    {
+      "Title": "Freedom of Information Act",
+      "Url": "https://nutritionfacts.org/topics/freedom-of-information-act/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "kidney failure",
+      "Url": "https://nutritionfacts.org/topics/kidney-failure/"
+    },
+    {
+      "Title": "kidney function",
+      "Url": "https://nutritionfacts.org/topics/kidney-function/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p class=\"p1\"><span class=\"s1\">More Freedom of Information Act insights into the egg industry can be found in:</span></p>\n<ul class=\"ul1\">\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/eggs-and-cholesterol-patently-false-and-misleading-claims/\"><span class=\"s3\">Eggs &amp; Cholesterol: Patently False and Misleading Claims</span></a></span></li>\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/eggs-and-choline-something-fishy/\"><span class=\"s3\">Eggs &amp; Choline: Something Fishy</span></a></span></li>\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/eggs-vs-cigarettes-in-atherosclerosis/\"><span class=\"s3\">Eggs vs. Cigarettes in Atherosclerosis</span></a></span></li>\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/more-than-an-apple-a-day-preventing-our-most-common-diseases/\"><span class=\"s3\">More than an Apple a Day: Combating Common Diseases</span></a></span></li>\n</ul>\n<p class=\"p1\"><span class=\"s1\">Flax seeds may help control blood sugars (see <a href=\"https://nutritionfacts.org/2013/10/08/flaxseeds-for-diabetes/\"><span class=\"s4\">Flax Seeds for Diabetes</span></a>). Indian gooseberries may do the same (see <a href=\"https://nutritionfacts.org/video/amla-versus-diabetes/\"><span class=\"s4\">Amla vs. Diabetes</span></a>). But, our best bet may be a diet composed entirely of plants.</span></p>\n<p class=\"p1\"><span class=\"s1\">I cover gestational diabetes (high sugars during pregnancy) in <a href=\"https://nutritionfacts.org/video/bacon-eggs-and-gestational-diabetes-during-pregnancy-2/\">Bacon, Eggs, &amp; Gestational Diabetes during Pregnancy</a>.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

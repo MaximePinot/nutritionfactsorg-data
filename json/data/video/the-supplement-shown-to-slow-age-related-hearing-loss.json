@@ -1,0 +1,259 @@
+{
+  "Title": "The Supplement Shown to Slow Age-Related Hearing Loss",
+  "Url": "https://nutritionfacts.org/video/the-supplement-shown-to-slow-age-related-hearing-loss/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/AkrBQdWW2wM"
+  },
+  "UpdatedAt": "2023-10-16T11:50:20+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 63",
+    "Url": "https://nutritionfacts.org/volumes/volume-63/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Some studies found that higher levels of folate in the blood seem to correlate with better hearing, so researchers decided to put it to the test.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nHealthier diets are associated with a significantly lower risk of hearing loss, and for all three diet quality scoring systems these researchers used, avoidance of meat was most strongly associated with lower risk. The Mabaan from my last video, who preserved their hearing into old age, ate little meat, but also weren’t eating sugary junk––explaining their almost total absence of dental cavities. A high glycemic diet of refined carbs is also associated with developing age-related hearing loss. If it’s the blood sugar spikes, that would explain why diabetics and prediabetics are also at higher risk. Even among whole grains, sorghum, which is the center of the Mabaan diet, has a particularly low glycemic index due to its resistant starch content, causing about a 25 percent lower rise in blood sugar compared to whole wheat.\nImpaired blood circulation may also explain how noise damages the inner ear, as loud noises cause constriction of the accompanying blood vessels. This may also help clarify the link between obesity and hearing loss. Excess weight may just be a proxy for unhealthier diets, but the pro-inflammatory state of obesity can itself lead to vascular dysfunction. Measures of systemic inflammation seem to directly correlate with age-related hearing loss, as do measures of oxidative stress.\nIn my video on brain inflammation, I introduced the antioxidant defense activator Nrf2, called “guardian of healthspan and gatekeeper of species longevity.” Those born with a genetic variant Nrf2 that doesn’t encode as well are significantly more likely to develop impaired hearing, implicating the role of free radicals in the process of hearing loss. You can look in the back of people’s eyes and measure the amount of macular pigment—the lutein and zeaxanthin antioxidants concentrated in greens—and correlate that with superior hearing.\nThe population data on antioxidant intake and hearing loss is mixed, though. Take vitamin C, for example. Some studies show that higher vitamin C intake is associated with better hearing, but others failed to find any significant connection. The only way to tell if antioxidants help or not—you know the drill—is to put them to the test.\nAdding antioxidants to the diets of rats seems to help prevent age-related rat hearing loss, but doing the same thing in mice doesn’t appear to help. The most exciting preclinical data may be a study in which aged rats randomized to added blueberries looked like they had a reversal in hearing deficits–in fact ending up better than the young rats. Wait, I thought hair cells don’t regenerate? \nOur ability to hear doesn’t just have to do with our ears, but our brain. As we age, our auditory cortex in the temporal lobe of our brain loses some of its ability to discriminate and understand speech, even in a quiet environment. We don’t just need to sense sounds, but make sense out of them. That’s where blueberries seemed to come in, reversing the age-related cognitive deficits in auditory processing. But what about in people?\nThere are studies lacking control groups that documented improvements in hearing loss, giving people antioxidant supplements like vitamins A, E, C, and alpha-lipoic acid. But when properly put to the test in a randomized double-blind, placebo-controlled trial of a whole list of antioxidants, the supplements flopped—no effect on any of the measured hearing aspects. Is there any supplement that has been shown to help with hearing in older adults? Yes, folic acid, the supplement form of folate, found concentrated in beans and greens.\nSome observational studies had found that higher levels of folate in the blood seem to correlate with better hearing, but maybe that’s just a marker of eating a healthier diet in general. So, Dutch researchers set out on an ambitious three-year double-blind, placebo-controlled trial randomizing more than 700 older men and women to take 800 μg of folic acid a day or an indistinguishable placebo. Excitingly, those who had been taking the folic acid suffered significantly less decline in hearing at speech frequencies. The effect size was rather small, such that one might expect the proportion of men, for example, who would be hearing aid candidates at age 75 might drop from 33 percent to 22 percent with folic acid supplementation. Also note the study was done in the Netherlands, where, at the time, the food supply was not fortified with folic acid. In the U.S., where folic acid fortification has been mandated in refined grain products for decades, it’s unclear how much additional benefit supplements might add. Regardless, the healthiest sources are dark green leafy vegetables and legumes. (A cup of cooked lentils has 90 percent of adult daily needs.)\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Curhan SG, Halpin C, Wang M, Eavey RD, Curhan GC. Prospective study of dietary patterns and hearing threshold elevation. Am J Epidemiol. 2020;189(3):204-214.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31608356/"
+    },
+    {
+      "Title": "Dobie RA. Folate supplementation and age-related hearing loss. Ann Intern Med. 2007;146(1):63-64.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17200224/"
+    },
+    {
+      "Title": "Durga J, Verhoef P, Anteunis LJC, Schouten E, Kok FJ. Effects of folic acid supplementation on hearing in older adults: a randomized, controlled trial. Ann Intern Med. 2007;146(1):1-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17200216/"
+    },
+    {
+      "Title": "Gopinath B, Flood VM, McMahon CM, Burlutsky G, Brand-Miller J, Mitchell P. Dietary glycemic load is a predictor of age-related hearing loss in older adults. J Nutr. 2010;140(12):2207-2212.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20926604/"
+    },
+    {
+      "Title": "Gopinath B, Flood VM, McMahon CM, et al. Dietary antioxidant intake is associated with the prevalence but not incidence of age-related hearing loss. J Nutr Health Aging. 2011;15(10):896-900.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22159779/"
+    },
+    {
+      "Title": "Honkura Y, Matsuo H, Murakami S, et al. NRF2 is a key target for prevention of noise-induced hearing loss by reducing oxidative damage of cochlea. Sci Rep. 2016;6:19329.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26776972/"
+    },
+    {
+      "Title": "Houston DK, Johnson MA, Nozza RJ, et al. Age-related hearing loss, vitamin B-12, and folate in elderly women. Am J Clin Nutr. 1999;69(3):564-571.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10075346/"
+    },
+    {
+      "Title": "Kang JW, Choi HS, Kim K, Choi JY. Dietary vitamin intake correlates with hearing thresholds in the older population: the Korean National Health and Nutrition Examination Survey. Am J Clin Nutr. 2014;99(6):1407-1413.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24646817/"
+    },
+    {
+      "Title": "Lewis KN, Mele J, Hayes JD, Buffenstein R. Nrf2, a guardian of healthspan and gatekeeper of species longevity. Integr Comp Biol. 2010;50(5):829-843.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21031035/"
+    },
+    {
+      "Title": "Polanski JF, Cruz OL. Evaluation of antioxidant treatment in presbyacusis: prospective, placebo-controlled, double-blind, randomised trial. J Laryngol Otol. 2013;127(2):134-141.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23318104/"
+    },
+    {
+      "Title": "Poquette NM, Gu X, Lee SO. Grain sorghum muffin reduces glucose and insulin responses in men. Food Funct. 2014;5(5):894-899.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24608948/"
+    },
+    {
+      "Title": "Prasad MPR, Rao BD, Kalpana K, Rao MV, Patil JV. Glycaemic index and glycaemic load of sorghum products. J Sci Food Agric. 2015;95(8):1626-1630.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25092385/"
+    },
+    {
+      "Title": "Romeo G, Giorgetti M. [Therapeutic effects of vitamin A associated with vitamin E in perceptual hearing loss]. Acta Vitaminol Enzymol. 1985;7(1-2):139-143.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/3898779/"
+    },
+    {
+      "Title": "Rosen S, Bergman M, Plester D, El-Mofty A, Satti MH. Presbycusis study of a relatively noise-free population in the Sudan. Ann Otol Rhinol Laryngol. 1962;71:727-743.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/13974856/"
+    },
+    {
+      "Title": "Samocha-Bonet D, Wu B, Ryugo DK. Diabetes mellitus and hearing loss: A review. Ageing Res Rev. 2021;71:101423.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34384902/"
+    },
+    {
+      "Title": "Sanz-Fernández R, Sánchez-Rodriguez C, Granizo JJ, Durio-Calero E, Martín-Sanz E. Accuracy of auditory steady state and auditory brainstem responses to detect the preventive effect of polyphenols on age-related hearing loss in Sprague-Dawley rats. Eur Arch Otorhinolaryngol. 2016;273(2):341-347.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25673025/"
+    },
+    {
+      "Title": "Sha SH, Kanicki A, Halsey K, Wearne KA, Schacht J. Antioxidant-enriched diet does not delay the progression of age-related hearing loss. Neurobiol Aging. 2012;33(5):1010.e15-16.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22154190/"
+    },
+    {
+      "Title": "Shargorodsky J, Curhan SG, Eavey R, Curhan GC. A prospective study of vitamin intake and the risk of hearing loss in men. Otolaryngol Head Neck Surg. 2010;142(2):231-236.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20115980/"
+    },
+    {
+      "Title": "Spankovich C, Hood LJ, Silver HJ, Lambert W, Flood VM, Mitchell P. Associations between diet and both high and low pure tone averages and transient evoked otoacoustic emissions in an older adult population-based study. J Am Acad Audiol. 2011;22(1):49-58.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21419069/"
+    },
+    {
+      "Title": "Takumida M, Anniko M. Radical scavengers for elderly patients with age-related hearing loss. Acta Otolaryngol. 2009;129(1):36-44.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18607930/"
+    },
+    {
+      "Title": "Wang J, Puel JL. Presbycusis: an update on cochlear mechanisms and therapies. J Clin Med. 2020;9(1):218.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31947524/"
+    },
+    {
+      "Title": "Wong JC, Kaplan HS, Hammond BR. Lutein and zeaxanthin status and auditory thresholds in a sample of young healthy adults. Nutr Neurosci. 2017;20(1):1-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25008466/"
+    },
+    {
+      "Title": "Yang JR, Hidayat K, Chen CL, Li YH, Xu JY, Qin LQ. Body mass index, waist circumference, and risk of hearing loss: a meta-analysis and systematic review of observational study. Environ Health Prev Med. 2020;25(1):25.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32590951/"
+    },
+    {
+      "Title": "de Rivera C, Shukitt-Hale B, Joseph JA, Mendelson JR. The effects of antioxidants in the senescent auditory cortex. Neurobiol Aging. 2006;27(7):1035-1044.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15950320/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "Africa",
+      "Url": "https://nutritionfacts.org/topics/africa/"
+    },
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "blueberries",
+      "Url": "https://nutritionfacts.org/topics/blueberries/"
+    },
+    {
+      "Title": "body weight",
+      "Url": "https://nutritionfacts.org/topics/body-weight/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "folate",
+      "Url": "https://nutritionfacts.org/topics/folate/"
+    },
+    {
+      "Title": "folic acid",
+      "Url": "https://nutritionfacts.org/topics/folic-acid/"
+    },
+    {
+      "Title": "free radicals",
+      "Url": "https://nutritionfacts.org/topics/free-radicals/"
+    },
+    {
+      "Title": "glycemic index",
+      "Url": "https://nutritionfacts.org/topics/glycemic-index/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "hearing",
+      "Url": "https://nutritionfacts.org/topics/hearing/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "legume",
+      "Url": "https://nutritionfacts.org/topics/legume/"
+    },
+    {
+      "Title": "lentils",
+      "Url": "https://nutritionfacts.org/topics/lentils/"
+    },
+    {
+      "Title": "lutein",
+      "Url": "https://nutritionfacts.org/topics/lutein/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "resistant starch",
+      "Url": "https://nutritionfacts.org/topics/resistant-starch/"
+    },
+    {
+      "Title": "sorghum",
+      "Url": "https://nutritionfacts.org/topics/sorghum/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vitamin A",
+      "Url": "https://nutritionfacts.org/topics/vitamin-a/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    },
+    {
+      "Title": "vitamin E",
+      "Url": "https://nutritionfacts.org/topics/vitamin-e/"
+    },
+    {
+      "Title": "zeaxanthin",
+      "Url": "https://nutritionfacts.org/topics/zeaxanthin/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">If you missed the first video in this three-part series, see </span><a href=\"https://nutritionfacts.org/video/age-related-hearing-loss-is-preventable-so-what-causes-it/\"><span style=\"font-weight: 400\">Age-Related Hearing Loss Is Preventable—What Causes It?</span></a><span style=\"font-weight: 400\"> The next and final one is </span><a href=\"https://nutritionfacts.org/video/the-diet-shown-to-slow-age-related-hearing-loss/\"><span style=\"font-weight: 400\">The Diet Shown to Slow Age-Related Hearing Loss</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">If you’re unfamiliar with sorghum, check out my videos </span><a href=\"https://nutritionfacts.org/video/is-sorghum-a-healthy-grain/\"><span style=\"font-weight: 400\">Is Sorghum a Healthy Grain?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/the-health-benefits-of-sorghum/\"><span style=\"font-weight: 400\">The Health Benefits of Sorghum</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">The video I mentioned about brain inflammation is </span><a href=\"https://nutritionfacts.org/video/fighting-autism-brain-inflammation-with-food/\"><span style=\"font-weight: 400\">Fighting Autism Brain Inflammation with Food</span></a><span style=\"font-weight: 400\">. </span></p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/are-there-any-benefits-to-ear-candling/\">Are There Any Benefits to Ear Candling?</a> And what is <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/the-best-way-to-remove-ear-wax/\">The Best Way to Remove Ear Wax</a>? Check out the videos.</p>\n<p><span style=\"font-weight: 400\">For more on how to live your longest, healthiest life, preorder my new book </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">. (As always, all proceeds I receive from all of </span><a href=\"https://nutritionfacts.org/books/\"><span style=\"font-weight: 400\">my books</span></a><span style=\"font-weight: 400\"> are donated to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

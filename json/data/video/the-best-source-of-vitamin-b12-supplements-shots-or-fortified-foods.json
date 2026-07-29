@@ -1,0 +1,139 @@
+{
+  "Title": "The Best Source of Vitamin B12: Supplements, Shots, or Fortified Foods?",
+  "Url": "https://nutritionfacts.org/video/the-best-source-of-vitamin-b12-supplements-shots-or-fortified-foods/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/3h-_Z2Z_J84"
+  },
+  "UpdatedAt": "2025-11-19T12:50:25+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 71",
+    "Url": "https://nutritionfacts.org/volumes/volume-71/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Is it true we can actually absorb some B12 from our own microbiome?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nTo treat vitamin B12 deficiency, intramuscular injections, oral pills, or sublingual lozenges can similarly effectively increase the level of vitamin B12 at sufficient doses, but this is based on blood level targets rather than assessing clinical outcomes, in terms of symptom improvement. So, some believe that at least initially, injected B12 should be the first-choice treatment for patients with severe B12 deficiency––though even with the best treatment, neurological symptoms may take several months or even years to resolve, and may never get better. So, it’s better to prevent deficiency in the first place.\nB12 isn’t made by plants or animals, but rather by bacteria, so feces are a good source of vitamin B12. That’s one of the ways our fellow great apes like gorillas get B12. Evidently, dining on dung was seen to be more common after wet weather though, leading to the suggestion that besides its nutritional importance, it may be just that they want something warm to nibble on at the end of a long, cold rain. Thankfully, since the advent of modern sanitation, bacteria and feces are (happily) no longer reliable sources of vitamin B12 for humans.\nA large proportion of the bacteria in our gut do make B12 though, but it’s always been thought to be produced too far down to be absorbed. How do we know? Because if radioactively-labeled B12 is squirted into people’s rectums, they don’t really seem to absorb it. But the human colon is about five feet long (1.5 m), and it was just squirted in about a foot (30 cm). What about higher up?\nNo B12 uptake from the human colon had ever been previously described or considered … until now. B12 was squirted via colonoscopy all the way up to the beginning of the colon, and…dun dun dun DUN…B12 is absorbed in the human colon. Or at least a little bit was. Now the squirt occurred just a few inches (5 cm) from the end of the small intestine, so some of it may have slipped out and was absorbed there, even higher up, but presumably the same could happen with any B12 made by our own microbiome.\nThe researchers suggest that this potential colonic absorption might help explain an apparent paradox. There are hundreds of millions of vegetarians in India, so why don’t we see more B12 deficiency? Well, vitamin B12 deficiency is endemic in India, with B12 deficiency rates running as high as 50 to 77%. But maybe the reason it’s not closer to 100% is because they’re absorbing a bit from their microbiome. Obviously, though, it’s not something we can count on.\nThe safest way to prevent B12 deficiency in plant-based diets is to take an oral B12 supplement. B12-fortified foods, like certain brands of nutritional yeast or soymilk, are another option, but they may only provide adequate vitamin B12 when consumed multiple times a day.\nWhat about chlorella and spirulina, which both claim to contain B12? But actually, up to 90% of so-called B12 is pseudo-B12––B12 analogs that look like B12, but are actually unusable by our body. It’s outrageous that manufacturers would advertise real B12 when there may be none. It is crucial that consumers are not misled by wrong information.\nWhat about duckweed, which also claims to have B12? Sometimes it does, but not because it or any plant makes it, but because of variable amounts of bacterial contamination. If you actually disinfect the plants to reduce the bacteria loads in duckweed, you end up with little B12.\nIt’s the same with seaweed like nori—sometimes it’s contaminated with B12-producing microbes, other times not, and sometimes it has pseudo-B12-producing bugs. For example, in this study, eating nori actually made B12 status worse, whereas in this study nori made B12 status mostly better. But even then, it made B12 status worse in two of the participants.\nThat’s why those eating unfortified plant-based diets must take B12 supplements. But which kind is best? When researchers asked ChatGPT, it said methylcobalamin and adenosylcobalamin are better than cyanocobalamin, but ChatGPT was wrong. (It must have just sucked up that slimy supplement company propaganda.) Check out my video on why cyanocobalamin is best for most people.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Abdelwahab OA, Abdelaziz A, Diab S, et al. Efficacy of different routes of vitamin B12 supplementation for the treatment of patients with vitamin B12 deficiency: A systematic review and network meta-analysis. Ir J Med Sci. 2024;193(3):1621-1639.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38231320/"
+    },
+    {
+      "Title": "Abuyaman O. Strengths and Weaknesses of ChatGPT Models for Scientific Writing About Medical Vitamin B12: Mixed Methods Study. JMIR Form Res. 2023;7:e49459.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37948100/"
+    },
+    {
+      "Title": "Acosta K, Sree KS, Okamoto N, et al. Source of Vitamin B12 in plants of the Lemnaceae family and its production by duckweed-associated bacteria. J Food Compos Anal. 2024;135:106603.",
+      "Url": "https://www.sciencedirect.com/science/article/pii/S0889157524006379"
+    },
+    {
+      "Title": "Armstrong BK. Absorption of vitamin B12 from the human colon. Am J Clin Nutr. 1968;21(4):298-299.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/5647478/"
+    },
+    {
+      "Title": "Degnan PH, Taga ME, Goodman AL. Vitamin B12 as a modulator of gut microbial ecology. Cell Metab. 2014;20(5):769-778.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25440056/"
+    },
+    {
+      "Title": "Fedosov SN. New insights into mechanisms of vitamin B12 uptake and conversion. Am J Clin Nutr. 2023;118(6):1073-1074.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37858481/"
+    },
+    {
+      "Title": "Haddad EH, Jaceldo-Siegl K, Oda K, Fraser GE. Associations of Circulating Methylmalonic Acid and Vitamin B-12 Biomarkers Are Modified by Vegan Dietary Pattern in Adult and Elderly Participants of the Adventist Health Study 2 Calibration Study. Curr Dev Nutr. 2020;4(2):nzaa008.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32064447/"
+    },
+    {
+      "Title": "Hannibal L, Lederer AK, Storz MA, Huber R, Jacobsen DW. Vitamin B12 Status and Supplementation in Plant-Based Diets. Food Nutr Bull. 2024;45(1_suppl):S58-S66.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38987876/"
+    },
+    {
+      "Title": "Harcourt AH, Stewart KJ. Coprophagy by wild mountain gorilla. Afr J Ecol. 1978;16(3):223-225.",
+      "Url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2028.1978.tb00442.x"
+    },
+    {
+      "Title": "Huang QN, Watanabe F, Koseki K, He RE, Lee HL, Chiu THT. Effect of roasted purple laver (nori) on vitamin B12 nutritional status of vegetarians: a dose-response trial. Eur J Nutr. 2024;63(8):3269-3279.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/39352476/"
+    },
+    {
+      "Title": "Hull SC, Charles J, Caplan AL. Are We What We Eat? The Moral Imperative of the Medical Profession to Promote Plant-Based Nutrition. Am J Cardiol. 2023;188:15-21.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36446227/"
+    },
+    {
+      "Title": "Kurpad AV, Pasanna RM, Hegde SG, et al. Bioavailability and daily requirement of vitamin B12 in adult humans: an observational study of its colonic absorption and daily excretion as measured by [13C]-cyanocobalamin kinetics. Am J Clin Nutr. 2023;118(6):1214-1223.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38044024/"
+    },
+    {
+      "Title": "Magnúsdóttir S, Ravcheev D, de Crécy-Lagard V, Thiele I. Systematic genome assessment of B-vitamin biosynthesis suggests co-operation among gut microbes. Front Genet. 2015;6:148.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25941533/"
+    },
+    {
+      "Title": "Naik S, Mahalle N, Bhide V. Identification of vitamin B12 deficiency in vegetarian Indians. Br J Nutr. 2018;119(6):629-635.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29446340/"
+    },
+    {
+      "Title": "Niklewicz A, Smith AD, Smith A, et al. The importance of vitamin B12 for individuals choosing plant-based diets. Eur J Nutr. 2023;62(3):1551-1559.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36469110/"
+    },
+    {
+      "Title": "Obeid R, Andrès E, Češka R, et al. Diagnosis, Treatment and Long-Term Management of Vitamin B12 Deficiency in Adults: A Delphi Expert Consensus. J Clin Med. 2024;13(8):2176.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38673453/"
+    },
+    {
+      "Title": "Plattel CHM. Lack of clinical evidence regarding the guidelines for vitamin b12 deficiency: an analysis from literature and recommendations from clinical practice. Food Nutr Bull. 2024;45(1_suppl):S80-S85.",
+      "Url": "https://journals.sagepub.com/doi/full/10.1177/03795721241241552"
+    },
+    {
+      "Title": "Sela I, Yaskolka Meir A, Brandis A, et al. Wolffia globosa-Mankai Plant-Based Protein Contains Bioactive Vitamin B12 and Is Well Absorbed in Humans. Nutrients. 2020;12(10):3067.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33049929/"
+    },
+    {
+      "Title": "Singla R, Garg A, Surana V, Aggarwal S, Gupta G, Singla S. Vitamin B12 Deficiency is Endemic in Indian Population: A Perspective from North India. Indian J Endocrinol Metab. 2019;23(2):211-214.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31161105/"
+    },
+    {
+      "Title": "Sobczyńska-Malefora A, Delvin E, McCaddon A, Ahmadi KR, Harrington DJ. Vitamin B12 status in health and disease: a critical review. Diagnosis of deficiency and insufficiency - clinical and laboratory pitfalls. Crit Rev Clin Lab Sci. 2021;58(6):399-429.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33881359/"
+    },
+    {
+      "Title": "Wolffenbuttel BHR, McCaddon A, Ahmadi KR, Green R. A Brief Overview of the Diagnosis and Treatment of Cobalamin (B12) Deficiency. Food Nutr Bull. 2024;45(1_suppl):S40-S49.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38987879/"
+    },
+    {
+      "Title": "Yamada K, Yamada Y, Fukuda M, Yamada S. Bioavailability of dried asakusanori (porphyra tenera) as a source of Cobalamin (Vitamin B12). Int J Vitam Nutr Res. 1999;69(6):412-418.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10642899/"
+    },
+    {
+      "Title": "van den Oever SP, Mayer HK. Biologically active or just “pseudo”-vitamin B12 as predominant form in algae-based nutritional supplements? J Food Compos Anal. 2022;109:104464.",
+      "Url": "https://www.sciencedirect.com/science/article/pii/S0889157522000825?via%3Dihub"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "seaweed",
+      "Url": "https://nutritionfacts.org/topics/seaweed/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    },
+    {
+      "Title": "vitamins",
+      "Url": "https://nutritionfacts.org/topics/vitamins/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the third video in a five-part series on vitamin B12. If you missed the previous two, check out </span><a href=\"https://nutritionfacts.org/video/how-long-does-it-take-to-become-vitamin-b12-deficient-and-what-are-the-symptoms/\"><span style=\"font-weight: 400\">How Long Does It Take to Become Vitamin B12-Deficient and What Are the Symptoms?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/the-best-way-to-test-for-vitamin-b12-deficiency/\"><span style=\"font-weight: 400\">The Best Way to Test for Vitamin B12 Deficiency</span></a><span style=\"font-weight: 400\">. Stay tuned for </span><a href=\"https://nutritionfacts.org/video/how-much-vitamin-b12-do-we-need-each-day/\"><span style=\"font-weight: 400\">How Much Vitamin B12 Do We Need Each Day?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/are-large-weekly-doses-of-vitamin-b12-safe/\"><span style=\"font-weight: 400\">Are Large Weekly Doses of Vitamin B12 Safe?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">For more on vitamin B12, check out </span><a href=\"https://nutritionfacts.org/topics/vitamin-b12/\"><span style=\"font-weight: 400\">the topic page</span></a><span style=\"font-weight: 400\">. </span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "Title": "Are Plant Sterols Effective for Lowering Cholesterol?",
+  "Url": "https://nutritionfacts.org/video/are-plant-sterols-effective-for-lowering-cholesterol/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/GQnIUVZfjKU"
+  },
+  "UpdatedAt": "2026-02-25T12:50:28+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 72",
+    "Url": "https://nutritionfacts.org/volumes/volume-72/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Even if we eat little or no cholesterol, phytosterols can block the reabsorption of the excess cholesterol our liver dumps into our intestines.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe Dietary Guidelines cite the National Academies in recommending that “dietary cholesterol consumption to be as low as possible.” While eggs are the most concentrated source of cholesterol gram-for-gram, the greatest contribution in the American diet is meat, including poultry and fish. But even if our cholesterol intake is zero, if you remember from my earlier video, our liver dumps excess cholesterol into our digestive tract through the bile, expecting there to be about 100 grams of fiber in there to trap it and flush it out of our body…but when people are getting 5 to 10 times less fiber than nature intended, much of that cholesterol gets reabsorbed and can circulate back through our system. That’s why one of the components of the cholesterol-lowering Portfolio Diet are foods like oatmeal that are high in sticky fiber that traps cholesterol, but it also includes phytosterols, plant sterols.\nThis is what cholesterol looks like. This is what one of the phytosterols looks like. It’s almost identical. And the receptor here in the lining of our intestine can’t tell the difference; so, the phytosterols compete with cholesterol to squeeze through this receptor. So, if there’s a lot of phytosterols in the gut, some of the cholesterol can’t get through and ends up in the toilet instead of our bloodstream.\nHere’s fecal cholesterol excretion in people eating different amounts of phytosterols. The black is the amount of dietary cholesterol that’s being pooped out, and the white is the amount of cholesterol that our liver dumps into our intestine through the bile. With more and more phytosterol consumption, more and more cholesterol is being flushed out of the body. Note that even if you eat a strictly plant-based diet without any dietary cholesterol, you’d still be getting rid of more cholesterol by eating more phytosterols.\nUnfortunately, like fiber intake, plant sterol intake is way down in modern diets. We probably evolved getting about a thousand milligrams a day. But these days we may only be getting about 300 mg/day, though those who eat more plant foods may get twice that. Little bits are found throughout the plant kingdom in vegetables, grains, legumes, and fruits, but the highest whole food sources tend to be nuts and seeds. Phytosterols may help explain the cholesterol-lowering effects of nuts. But nuts are already a part of the Portfolio Diet; why not phytosterols too? Well, if you look at the X-axis, people may only be getting a few hundred milligrams a day from nuts.\nIt turns out there’s a continuous dose-response relationship between phytosterol intake and LDL-cholesterol lowering. Yeah, going from very few plant foods to lots of plant foods can draw more cholesterol out of our body, but 2 grams a day can draw out even more, and that translates into lower LDL cholesterol in the blood. So, a really healthy diet’s worth may drop our LDL by about 6%, but 2 or 3 grams a day can drop LDL by more like 10%, and that alone could reduce our risk of heart disease by about 10% over a decade, or 20% over a lifetime. That’s why we see heart health guidelines recommending the use of phytosterols as a supplementary strategy alongside lifestyle modifications to decrease blood cholesterol levels.\nWe know phytosterols are effective, but are they safe? I’ll address that, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Cofán M, Ros E. Use of plant sterol and stanol fortified foods in clinical practice. Curr Med Chem. 2019;26(37):6691-6703.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29984649/"
+    },
+    {
+      "Title": "Del Gobbo LC, Falk MC, Feldman R, Lewis K, Mozaffarian D. Are phytosterols responsible for the low-density lipoprotein-lowering effects of tree nuts? : a systematic review and meta-analysis. J Am Coll Cardiol. 2015;65(25):2765-2767.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26112204/"
+    },
+    {
+      "Title": "Demonty I, Ras RT, van der Knaap HCM, et al. Continuous dose-response relationship of the LDL-cholesterol-lowering effect of phytosterol intake. J Nutr. 2009;139(2):271-284.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19091798/"
+    },
+    {
+      "Title": "Eaton SB, Eaton SB, Konner MJ. Paleolithic nutrition revisited: a twelve-year retrospective on its nature and implications. Eur J Clin Nutr. 1997;51(4):207-216.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9104571/"
+    },
+    {
+      "Title": "Ference BA, Ginsberg HN, Graham I, et al. Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel. Eur Heart J. 2017;38(32):2459-2472.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28444290/"
+    },
+    {
+      "Title": "Grundy SM. Does dietary cholesterol matter? Curr Atheroscler Rep. 2016;18(11):68.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27739004/"
+    },
+    {
+      "Title": "Jefrei E, Xu M, Moore JB, Thorne JL. Phytosterol and phytostanol-mediated epigenetic changes in cancer and other non-communicable diseases: a systematic review. Br J Nutr. 2024;131(6):935-943.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37955052/"
+    },
+    {
+      "Title": "Jones PJH, Shamloo M, MacKay DS, et al. Progress and perspectives in plant sterol and plant stanol research. Nutr Rev. 2018;76(10):725-746.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30101294/"
+    },
+    {
+      "Title": "Lizard G. Phytosterols: to be or not to be toxic; that is the question. Br J Nutr. 2008;100(6):1150-1151.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18466650/"
+    },
+    {
+      "Title": "Phillips KM, Ruggio DM, Ashraf-Khorassani M. Phytosterol composition of nuts and seeds commonly consumed in the United States. J Agric Food Chem. 2005;53(24):9436-9445.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16302759/"
+    },
+    {
+      "Title": "Racette SB, Lin X, Lefevre M, et al. Dose effects of dietary phytosterols on cholesterol metabolism: a controlled feeding study. Am J Clin Nutr. 2010;91(1):32-38.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19889819/"
+    },
+    {
+      "Title": "Ras RT, Geleijnse JM, Trautwein EA. LDL-cholesterol-lowering effect of plant sterols and stanols across different dose ranges: a meta-analysis of randomised controlled studies. Br J Nutr. 2014;112(2):214-219.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24780090/"
+    },
+    {
+      "Title": "The Portfolio Diet. Canadian Cardiovascular Society; 2020.",
+      "Url": "https://ccs.ca/app/uploads/2020/11/Portfolio_Diet_Scroll_editable_eng.pdf"
+    },
+    {
+      "Title": "U.S. Department of Health and Human Services, U.S. Department of Agriculture. Dietary Guidelines for Americans, 2020-2025. 9th ed. DietaryGuidelines.gov. 2020.",
+      "Url": "https://www.dietaryguidelines.gov/"
+    },
+    {
+      "Title": "Zhang YF, Qiao W, Feng H, et al. Effects of phytosterol supplementation on lipid profiles and apolipoproteins: A meta-analysis of randomized controlled trials. Medicine (Baltimore). 2024;103(42):e40020.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/39432657/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "statins",
+      "Url": "https://nutritionfacts.org/topics/statins/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the sixth video in an extended series on the critically important topic of how to lower LDL cholesterol, the primary driver of our primary killer. In this series, we take a deep dive into ways we can lower our cholesterol through diet. We’ll explore the Portfolio Diet, plant sterols, and cholesterol-lowering supplements, foods, herbs, and spices, then conclude with my Portfolio Plus Powder recipe “cooking” video.</span></p>\n<p><span style=\"font-weight: 400\">If you don’t want to wait for all the videos to be released over time, we’ve compiled all the information into my latest book, </span><a href=\"https://nutritionfacts.org/book/portfolio/\">Lower LDL Cholesterol Naturally with Food</a><span style=\"font-weight: 400\">, available as a softcover, ebook, and audiobook.</span></p>\n<p><a href=\"https://nutritionfacts.org/video/are-plant-sterols-safe-for-lowering-cholesterol/\">Are Plant Sterols Safe for Lowering Cholesterol?</a> Check out the video. </p>\n<p><span style=\"font-weight: 400\">If you missed the previous videos in this series, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/why-isnt-everyone-on-cholesterol-lowering-statin-drugs/\"><span style=\"font-weight: 400\">Why Isn’t Everyone on Cholesterol-Lowering Statin Drugs?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-effective-are-statins/\"><span style=\"font-weight: 400\">How Effective Are Statins?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-side-effects-of-statins-are-they-worth-it/\"><span style=\"font-weight: 400\">The Side Effects of Statins: Are They Worth It?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/what-is-the-best-statin-cholesterol-lowering-drug/\"><span style=\"font-weight: 400\">What Is the Best Statin Cholesterol-Lowering Drug?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-to-lower-cholesterol-with-the-portfolio-diet/\"><span style=\"font-weight: 400\">How to Lower Cholesterol with the Portfolio Diet</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

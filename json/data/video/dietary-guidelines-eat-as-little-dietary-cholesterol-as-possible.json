@@ -1,0 +1,199 @@
+{
+  "Title": "Dietary Guidelines: “Eat as Little Dietary Cholesterol as Possible”",
+  "Url": "https://nutritionfacts.org/video/dietary-guidelines-eat-as-little-dietary-cholesterol-as-possible/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Mn-w3HtAiIQ"
+  },
+  "UpdatedAt": "2023-04-05T11:50:57+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 61",
+    "Url": "https://nutritionfacts.org/volumes/volume-61/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Why do the official federal Dietary Guidelines for Americans recommend limiting the intake of dietary cholesterol (found mostly in eggs) as much as possible?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nFrom this 2020 systematic review of the effects of egg consumption on cholesterol, here are the results of more than 50 randomized controlled trials, nearly all of which pointing in the direction of greater LDL blood cholesterol with greater egg intake. And that’s just looking at fasting cholesterol taken in the morning, which is how much your liver is churning out, which is like the baseline on top of which the effects of diet can be assessed. We live most of our lives in a postprandial state, meaning an after-meal state, not a fasting state. And this is what eating more and more dietary cholesterol can do to your blood cholesterol levels immediately after eating––shooting your levels up for hours after a meal. And then what happens after four hours? Lunchtime! And you can whack your arteries with another surge of cholesterol on top of your elevated fasting levels.\nOf course, the only reason we care about cholesterol is because we care about heart disease, our #1 killer of men and women. And you do see, for example, significantly higher coronary artery calcium scores in those who eat more eggs, which is a sign of atherosclerotic plaque buildup in the arteries. But does this translate into a higher risk of heart attacks and death? Apparently so. Based on a half-dozen population studies in the U.S., following tens of thousands of people for up to 30 years, each additional half of an egg consumed per day was significantly associated with higher risk of developing cardiovascular disease and dying from all causes put together—in other words, living a significantly shorter lifespan.\nBut wait a second. Egg consumption commonly correlates with unhealthy behaviors such as inactivity, smoking, and eating all sorts of other bad stuff. How do we know it’s not the saturated fat and animal protein as opposed to the cholesterol? Failure to consider all these factors could lead to different conclusions, but this study comprehensively accounted for all these factors. Also, the study had longer follow-up than the majority of the previous studies, and therefore, it may have provided more power to detect associations with even single food products, such as eggs in this case.\nAnd the study found that the significant associations of dietary cholesterol and death were independent of the quality of the diet. Meaning, if you eat, let’s say, two eggs a day, but the rest of your diet is all vegetables and is low sodium, do those eggs portend any higher level of cardiovascular disease risk? The effect of egg and dietary cholesterol in general remained even after considering an otherwise heart-healthy dietary pattern. So, that significantly increased risk of death tied to just half an egg a day persisted even after taking overall diet quality into account. So, it’s not just like they’re eating more bacon with their eggs.\nWhen we adjust for overall diet quality and the consumption of specific types of food, like red meat or processed meat, like bacon, the association persisted, which suggests that the entire association is not driven by bacon or other foods eaten with eggs. Considering the negative consequences of egg consumption and dietary cholesterol, even in the setting of heart-healthy dietary patterns, the importance of following evidence-based dietary recommendations, such as limiting intake of cholesterol-rich foods, should not be dismissed. But that’s exactly what the 2015 Dietary Guidelines Advisory Committee appeared to try to do, declaring cholesterol is not a nutrient of concern for overconsumption, because available evidence shows no appreciable relationship between consumption of dietary cholesterol and blood cholesterol, consistent with the conclusion of an American Heart Association/American College of Cardiology report. Wait, what?\nHere’s a meta-analysis of literally hundreds of studies, published like 25 years ago, conclusively showing that you can decrease blood cholesterol by decreasing dietary cholesterol intake. An interesting thing has since happened with cholesterol research, though. Industry funding of studies increased from zero to now, most cholesterol studies are bought and paid for by the egg industry. And studies funded by the Egg Board tend to use specific design characteristics to minimize the reported negative health effects. So now, anyone limiting their reviews to studies published in recent years—when nearly all studies were industry-funded and specifically designed to bring about certain predetermined outcomes—you can make eggs look more favorable than if you included more objectively designed research. The American Heart Association/American College of Cardiology report, for example, limited their evidence review from 1998 to 2009. They knew about meta-analyses like this one, published in 1997, but didn’t give it full consideration because these studies predated their search time frame.\nDr. Kim Williams was President of the American College of Cardiology around the time of this saga. Let’s hear it straight from the horse’s mouth. Despite research studies over several decades indicating that dietary cholesterol increases serum cholesterol levels, their 2013 report stated that there was insufficient evidence to determine whether lowering dietary cholesterol helps, but this was based on that limited time search. People didn’t understand that, but that’s what the Dietary Guidelines Advisory Committee cited. After clarification by the American College of Cardiology, of which he was President, the final, official 2015 – 2020 Dietary Guidelines for Americans that was published followed the position of the Institution of Medicine, and told people to “eat as little dietary cholesterol as possible.” And here they are. Here are the Dietary Guidelines. As recommended by the Institution of Medicine, individuals should eat as little dietary cholesterol as possible. This was reiterated in the 2020 – 2025 Dietary Guidelines: dietary cholesterol consumption should be as low as possible. The National Academy’s Institute of Medicine is who determines the Recommended Daily Allowances. And they’re very explicit that based on all the evidence—not just a sliver in time—when it comes to dietary cholesterol, which is found in all meat, dairy, and eggs, intake should be as low as possible, because any intake level above zero increases LDL cholesterol concentration in the blood, and therefore carries increased risk of coronary heart disease, our #1 killer. \nAfter conviction for false advertising, suggesting eggs were healthy, which I detailed in one of my videos, the egg industry has spent hundreds of millions of dollars trying to convince the public, physicians, and policymakers that dietary cholesterol and egg yolk are harmless. But in reality, regular consumption of egg yolks should be avoided by people at risk for cardiovascular disease, which essentially means all North Americans who expect to live past middle age.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Abbasi J. Study puts eggs and dietary cholesterol back on the radar. JAMA. 2019;321(20):1959-1961.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31066864/"
+    },
+    {
+      "Title": "Barnard ND, Long MB, Ferguson JM, Flores R, Kahleova H. Industry funding and cholesterol research: a systematic review. Am J Lifestyle Med. 2021;15(2):165-172.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33786032/"
+    },
+    {
+      "Title": "Choi Y, Chang Y, Lee JE, et al. Egg consumption and coronary artery calcification in asymptomatic men and women. Atherosclerosis. 2015;241(2):305-312.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26062990/"
+    },
+    {
+      "Title": "Dietary Reference Intakes: The Essential Guide to Nutrient Requirements. National Academies Press; 2006.",
+      "Url": "https://nap.nationalacademies.org/read/11537/chapter/1#iv"
+    },
+    {
+      "Title": "Dubois C, Armand M, Mekki N, et al. Effects of increasing amounts of dietary cholesterol on postprandial lipemia and lipoproteins in human subjects. J Lipid Res. 1994;35(11):1993-2007.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7868978/"
+    },
+    {
+      "Title": "Eckel RH, Jakicic JM, Ard JD, et al. 2013 AHA/ACC guideline on lifestyle management to reduce cardiovascular risk: a report of the American College of Cardiology/American Heart Association task force on practice guidelines. Circulation. 2014;129(25 Suppl 2):S76-99.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24222015/"
+    },
+    {
+      "Title": "Eckel RH, Jakicic JM, Ard JD, et al. 2013 AHA/ACC guideline on lifestyle management to reduce cardiovascular risk: a report of the American College of Cardiology/American Heart Association task force on practice guidelines. Circulation. 2014;129(25_suppl_2).",
+      "Url": "https://www.ahajournals.org/doi/suppl/10.1161/01.cir.0000437740.48606.d1"
+    },
+    {
+      "Title": "Eckel RH. Reconsidering the importance of the association of egg consumption and dietary cholesterol with cardiovascular disease risk. JAMA. 2019;321(11):1055-1056.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30874737/"
+    },
+    {
+      "Title": "Howell WH, McNamara DJ, Tosca MA, Smith BT, Gaines JA. Plasma lipid and lipoprotein responses to dietary fat and cholesterol: a meta-analysis. Am J Clin Nutr. 1997;65(6):1747-1764.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9174470/"
+    },
+    {
+      "Title": "Khalighi Sikaroudi M, Soltani S, Kolahdouz-Mohammadi R, et al. The responses of different dosages of egg consumption on blood lipid profile: an updated systematic review and meta-analysis of randomized clinical trials. J Food Biochem. 2020;44(8):e13263.",
+      "Url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfbc.13263"
+    },
+    {
+      "Title": "PCRM, McDougall J, Agarwal U, Shapiro D, Forrester DD. Complaint for declaratory and injunctive relief case 3:16-cv-00069. Filed January 6, 2016.",
+      "Url": "https://www.drmcdougall.com/misc/2016nl/jan/lawsuitdgac.pdf"
+    },
+    {
+      "Title": "Patel H, Chandra S, Alexander S, Soble J, Williams KA. Plant-based nutrition: an essential component of cardiovascular disease prevention and management. Curr Cardiol Rep. 2017;19(10):104.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28887684/"
+    },
+    {
+      "Title": "Scientific Report of the 2015 Dietary Guidelines Advisory Committee. USDA. February 2015.",
+      "Url": "https://health.gov/sites/default/files/2019-09/Scientific-Report-of-the-2015-Dietary-Guidelines-Advisory-Committee.pdf"
+    },
+    {
+      "Title": "Spence JD, Jenkins DJA, Davignon J. Egg yolk consumption, smoking and carotid plaque: reply to letters to the Editor by Sean Lucan and T Dylan Olver et al. Atherosclerosis. 2013;227(1):189-191.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23177013/"
+    },
+    {
+      "Title": "Spence JD. Dietary cholesterol and egg yolk should be avoided by patients at risk of vascular disease. J Transl Int Med. 2016;4(1):20-24.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28191513/"
+    },
+    {
+      "Title": "Trumbo PR, Shimakawa T. Tolerable upper intake levels for trans fat, saturated fat, and cholesterol. Nutr Rev. 2011;69(5):270-278.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21521229/"
+    },
+    {
+      "Title": "U.S. Department of Agriculture and U.S. Department of Health and Human Services. 2015 – 2020 Dietary Guidelines for Americans. 8th Edition. December 2015.",
+      "Url": "https://health.gov/our-work/nutrition-physical-activity/dietary-guidelines/previous-dietary-guidelines/2015"
+    },
+    {
+      "Title": "U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020-2025. 9th Edition. December 2020.",
+      "Url": "https://www.dietaryguidelines.gov/resources/2020-2025-dietary-guidelines-online-materials"
+    },
+    {
+      "Title": "Zhong VW, Van Horn L, Cornelis MC, et al. Associations of dietary cholesterol or egg consumption with incident cardiovascular disease and mortality. JAMA. 2019;321(11):1081-1095.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30874756/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "atherosclerosis",
+      "Url": "https://nutritionfacts.org/topics/atherosclerosis/"
+    },
+    {
+      "Title": "bacon",
+      "Url": "https://nutritionfacts.org/topics/bacon/"
+    },
+    {
+      "Title": "breakfast",
+      "Url": "https://nutritionfacts.org/topics/breakfast/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cardiovascular health",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-health/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "Dr. Kim Williams",
+      "Url": "https://nutritionfacts.org/topics/dr-kim-williams/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "processed meat",
+      "Url": "https://nutritionfacts.org/topics/processed-meat/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    },
+    {
+      "Title": "sodium",
+      "Url": "https://nutritionfacts.org/topics/sodium/"
+    },
+    {
+      "Title": "trans fats",
+      "Url": "https://nutritionfacts.org/topics/trans-fats/"
+    },
+    {
+      "Title": "USDA",
+      "Url": "https://nutritionfacts.org/topics/usda/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">I gave testimony to the Dietary Guidelines Committee for these new recommendations. </span><a href=\"https://nutritionfacts.org/video/highlights-from-the-2020-dietary-guidelines-hearing/\"><span style=\"font-weight: 400\">Watch it here</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">For more on the false advertising of the egg industry, check out </span><a href=\"https://nutritionfacts.org/video/eggs-and-cholesterol-patently-false-and-misleading-claims/\"><span style=\"font-weight: 400\">Eggs and Cholesterol: Patently False and Misleading Claims</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">Trans fat and saturated fat should also be limited as much as possible. See: </span><a href=\"https://nutritionfacts.org/video/trans-fat-saturated-fat-and-cholesterol-tolerable-upper-intake-of-zero/\"><span style=\"font-weight: 400\">Trans Fat, Saturated Fat, and Cholesterol: Tolerable Upper Intake of Zero</span></a>.</p>\n<p>You may be interested in my newer video, <a href=\"https://nutritionfacts.org/video/dietary-cholesterol-and-inflammation-from-abdominal-obesity/\">Dietary Cholesterol and Inflammation from Abdominal Obesity</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

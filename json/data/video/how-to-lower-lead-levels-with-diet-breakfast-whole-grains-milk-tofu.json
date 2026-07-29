@@ -1,0 +1,151 @@
+{
+  "Title": "How to Lower Lead Levels with Diet: Breakfast, Whole Grains, Milk, Tofu?",
+  "Url": "https://nutritionfacts.org/video/how-to-lower-lead-levels-with-diet-breakfast-whole-grains-milk-tofu/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/ahj6GLvl7oQ"
+  },
+  "UpdatedAt": "2017-05-29T11:50:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 36",
+    "Url": "https://nutritionfacts.org/volumes/volume-36/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Getting food into your stomach within a few hours of lead exposure can suppress the absorption of lead by 90 percent or more—but which foods are particularly protective?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe same amount of lead given 12 hours before a meal is absorbed at about 60%; so, most of the lead is absorbed. Three hours after a meal, most lead is absorbed; seven hours after a meal, most lead is absorbed. But, get some food in your stomach within a few hours of lead exposure, and you can suppress the absorption of some, or nearly all, of the lead you ingested.\nThat’s why it’s critical to “get the lead out” of our tap water. Now, it’s estimated that most of our lead exposure comes from food, rather than water, but it’s not what we eat; it’s what we absorb.  If 90% of the lead in food is blocked from absorption by the very fact that it’s in food, you could get 10 to 20 times more lead absorbed into your bloodstream consuming the same amount of lead in water drunk on an empty stomach.\nAnd, since children empty their stomachs faster than adults, meal timing may be even more important. With little tummies emptying in as few as two hours after a meal, offering midmorning and midafternoon snacks in addition to breakfast and regular meals may cut down on absorption in a contaminated environment, making sure, also, of course, that children are washing their hands prior to eating.\nSo, do preschoolers who eat breakfast have lower levels of lead in their blood? In the first study of its kind, researchers found that, indeed, children who ate breakfast regularly did appear to have lower lead levels, supporting recommendations to “provide regular meals and snacks to young children” at risk for lead exposure.\nAnything in food that’s particularly protective? Researchers tested all sorts of foods to find out, and it turns out that the meal effect “was probably largely due to its content of calcium and phosphate salts but lead uptake was probably further reduced by phytate which is plentiful in whole [grains].” Now, if calcium and phosphates are protective, you’d think dairy would work wonders. And, indeed, they started giving milk to lead workers ever since “calcium was shown to inhibit lead absorption in rats.” But, in humans, there’s something in milk that appears to increase lead uptake. It wasn’t the fat, since they found the same problem with skim milk.\n“For over a century milk was recommended unreservedly to counteract lead poisoning,” but started to be abandoned in the middle of the last century, once we learned that the “overall effect [of milk may have been to actually] promote the absorption of lead from the intestinal tract.” What’s the agent in milk that promotes the absorption of lead from the gut? It may be the milk sugar, lactose, though “[t]he mechanism by which lactose enhances lead absorption is not clear.” Bottom line is that while “[i]n the past, milk was used as a prophylactic agent to protect workers in the lead industry. Recent studies…suggest that this practice is unjustified and may even be harmful.” So, maybe giving people whole grains may offer “greater protection against lead uptake,” though the most potently calcium- and phytate-rich food would be tofu.\nIsolated soy phytonutrients may have a neuroprotective effect, at least in petri dish-type studies, where, if you add a little lead to nerve cells, you can kill off about 40% of them. But then, if you add more and more soy phytonutrients, you can ameliorate some of the damage. This is thought to be an antioxidant effect. If you add lead to nerve cells, you get a big burst of free radicals, but less and less as you drip more and more soy compounds. Okay, but even if this worked outside of a lab, cutting down on the toxic effects of lead is nice, but cutting down on the levels of lead in your body is even better. “Because tofu [tends to have a] high content of both calcium and [phytate, it’s] plausible that tofu may inhibit lead absorption and retention, thus reducing blood lead levels.” But you don’t know, until you put it to the test.\nTofu consumption and blood lead levels were determined for about a thousand men and women in China, and for every nine or so ounces of tofu consumed a week, there appeared to be about 4% less lead in their bloodstream. Compared to those eating less than about nine ounces a week, those that ate up to two and a half ounces a day only had half the odds of having elevated lead levels, and those consuming nearly four ounces a day appeared to cut their odds by more than 80%. Now, this was just a cross-sectional study, a snapshot in time; so, it can’t prove cause and effect. What you’d need is an interventional study where you randomize people into two groups, give half of them some food, and see if it drives lead levels down—which we’ll cover next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Chen C, Wang X, Chen D, Li G, Ronnenberg A, Watanabe H, Wang X, Ryan L, Christiani DC, Xu X. Tofu consumption and blood lead levels in young Chinese adults. Am J Epidemiol. 2001 Jun 15;153(12):1206-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11415956"
+    },
+    {
+      "Title": "DeMichele SJ. Nutrition of lead. Comp Biochem Physiol A Comp Physiol. 1984;78(3):401-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/6147225"
+    },
+    {
+      "Title": "James HM, Hilburn ME, Blair JA. Effects of meals and meal times on uptake of lead from the gastrointestinal tract in humans. Hum Toxicol. 1985 Jul;4(4):401-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4018820"
+    },
+    {
+      "Title": "Kianoush S, Balali-Mood M, Mousavi SR, Moradi V, Sadeghi M, Dadpour B, Rajabi O, Shakeri MT. Comparison of therapeutic effects of garlic and d-Penicillamine in patients with chronic occupational lead poisoning.  Basic Clin Pharmacol Toxicol. 2012 May;110(5):476-81.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22151785"
+    },
+    {
+      "Title": "Lee MG, Chun OK, Song WO. Determinants of the blood lead level of US women of reproductive age. J Am Coll Nutr. 2005 Feb;24(1):1-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15670978"
+    },
+    {
+      "Title": "Liu J, McCauley L, Compher C, Yan C, Shen X, Needleman H, Pinto-Martin JA. Regular breakfast and blood lead levels among preschool children. Environ Health. 2011 Apr 1;10:28.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21457535"
+    },
+    {
+      "Title": "Mahaffey KR. Nutrition and lead: strategies for public health. Environ Health Perspect. 1995 Sep;103 Suppl 6:191-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8549473"
+    },
+    {
+      "Title": "Sargent JD. The role of nutrition in the prevention of lead poisoning in children. Pediatr Ann. 1994 Nov;23(11):636-42.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/7838616"
+    },
+    {
+      "Title": "Stephens R, Waldron HA. The influence of milk and related dietary constituents on lead metabolism. Food Cosmet Toxicol. 1975 Oct;13(5):555-63.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/1104428"
+    },
+    {
+      "Title": "Su P, Zhang J, Wang S, Aschner M, Cao Z, Zhao F, Wang D, Chen J, Luo W. Genistein alleviates lead-induced neurotoxicity in vitro and in vivo: Involvement of multiple signaling pathways. Neurotoxicology. 2016 Mar;53:153-64.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26797587"
+    },
+    {
+      "Title": "[No authors listed] Effect of lactose on intestinal absorption of lead. Nutr Rev. 1982 Apr;40(4):116-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/7048147"
+    }
+  ],
+  "Acknowledgements": "Icons created by Universal Icons, Gan Khoon Lay and Thomas Helbig from the Noun Project.\nMotion graphics by Avocado Video. \nImage credit: Unsplash. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "breakfast",
+      "Url": "https://nutritionfacts.org/topics/breakfast/"
+    },
+    {
+      "Title": "calcium",
+      "Url": "https://nutritionfacts.org/topics/calcium/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "environment",
+      "Url": "https://nutritionfacts.org/topics/environment/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "heavy metals",
+      "Url": "https://nutritionfacts.org/topics/heavy-metals/"
+    },
+    {
+      "Title": "lactose",
+      "Url": "https://nutritionfacts.org/topics/lactose/"
+    },
+    {
+      "Title": "lead",
+      "Url": "https://nutritionfacts.org/topics/lead/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "phytates",
+      "Url": "https://nutritionfacts.org/topics/phytates/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "skim milk",
+      "Url": "https://nutritionfacts.org/topics/skim-milk/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "tofu",
+      "Url": "https://nutritionfacts.org/topics/tofu/"
+    },
+    {
+      "Title": "water",
+      "Url": "https://nutritionfacts.org/topics/water/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Would <em>any </em>kind of food cut down on lead absorption? Even doughnuts? You’ve got to see it to believe it. Check out my video <a href=\"https://nutritionfacts.org/video/how-to-lower-lead-levels-with-diet-thiamine-fiber-iron-fat-fasting/\">How to Lower Lead Levels with Diet: Thiamine, Fiber, Iron, Fat, Fasting?</a>.</p>\n<p>Next, let’s look into foods that don’t just block absorption, but may actively pull lead from our bodies. See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/best-foods-for-lead-poisoning-chlorella-cilantro-tomatoes-moringa/\">Best Foods for Lead Poisoning: Chlorella, Cilantro, Tomatoes, Moringa?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/best-food-for-lead-poisoning-garlic/\">Best Food for Lead Poisoning: Garlic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-vitamin-c-help-with-lead-poisoning/\">Can Vitamin C Help with Lead Poisoning?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/yellow-bell-peppers-for-male-infertility-and-lead-poisoning/\">Yellow Bell Peppers for Male Infertility and Lead Poisoning?</a></li>\n</ul>\n<p>Some of my other videos on lead include:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/can-saunas-detoxify-lead-from-the-body/\">Can Saunas Detoxify Lead from the Body?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-lower-heavy-metal-levels-with-diet/\">How to Lower Heavy Metals Levels with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-lead-is-in-organic-chicken-soup-bone-broth/\">How Much Lead Is in Organic Chicken Soup (Bone Broth)?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lead-in-calcium-supplements/\">Lead in Calcium Supplements</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lead-contamination-in-hot-sauces/\">Lead Contamination in Hot Sauces</a></li>\n</ul>\n<p>And what about lead levels in women? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-rise-in-blood-lead-levels-at-pregnancy-and-menopause/\">The Rise in Blood Lead Levels at Pregnancy and Menopause</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-pregnant-women-take-calcium-supplements-to-lower-lead-levels/\">Should Pregnant Women Take Calcium Supplements to Lower Lead Levels?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-lipstick-safe-given-the-lead-contamination/\">Is Lipstick Safe Given the Lead Contamination?</a></li>\n</ul>\n<p>What exactly are phytates? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/phytates-for-the-prevention-of-cancer/\">Phytates for the Prevention of Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/phytates-for-rehabilitating-cancer-cells/\">Phytates for Rehabilitating Cancer Cells</a></li>\n<li><a href=\"https://nutritionfacts.org/video/phytates-for-the-treatment-of-cancer/\">Phytates for the Treatment of Cancer</a></li>\n</ul>\n<p>What about soy and breast cancer? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/gmo-soy-and-breast-cancer/\">GMO Soy and Breast Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/who-shouldnt-eat-soy/\">Who Shouldn’t Eat Soy?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-soy-healthy-for-breast-cancer-survivors/\">Is Soy Healthy for Breast Cancer Survivors?</a></li>\n</ul>\n<p>And if you missed any of my background videos on lead, catch up with these:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-the-lead-paint-industry-got-away-with-it/\">How the Lead Paint Industry Got Away with It</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lead-in-drinking-water/\">Lead in Drinking Water</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-the-leaded-gas-industry-got-away-with-it/\">How the Leaded Gas Industry Got Away with It</a></li>\n<li><a href=\"https://nutritionfacts.org/video/normal-blood-lead-levels-can-be-toxic/\">“Normal” Blood Lead Levels Can Be Toxic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-low-level-lead-exposure-in-adults/\">The Effects of Low-Level Lead Exposure in Adults</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

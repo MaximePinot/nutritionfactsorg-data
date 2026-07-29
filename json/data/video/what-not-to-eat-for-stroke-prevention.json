@@ -1,0 +1,239 @@
+{
+  "Title": "What Not to Eat for Stroke Prevention",
+  "Url": "https://nutritionfacts.org/video/what-not-to-eat-for-stroke-prevention/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/nmpwQWcN3Iw"
+  },
+  "UpdatedAt": "2020-08-03T11:50:05+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 50",
+    "Url": "https://nutritionfacts.org/volumes/volume-50/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What is the relationship between stroke risk and dairy, eggs, meat, and soda?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe large majority of the available evidence is in favor of a protective association between fruit and vegetable consumption and the risk of stroke. The worst foods appear to be meat and soda. Eating, like, a burger for lunch and a pork chop for dinner, two breakfast sausage links, and a typical 20-ounce bottle of soda may increase stroke risk by 60%. Reviewers suggest the meat effect may be the saturated fat or cholesterol, the iron-mediated oxidized fat or the salt, but it could also be the TMAO. The carnitine in meat and the choline in dairy, seafood, and especially eggs is converted by our gut bacteria into trimethylamine, which is oxidized by our liver to TMAO, which may then contribute to heart attacks, stroke, and death.\nAnd indeed, in a 2019 study published in the Journal of the American Medical Association following tens of thousands of Americans for a median of about 17 years, up to a maximum of 31 years, found that “higher consumption of dietary cholesterol or eggs was significantly associated with higher risk of incident cardiovascular disease and all-cause mortality, in a dose-response manner.” Meaning those who ate more eggs or consumed more cholesterol in general appeared to live significantly shorter lives, on average, and the more the eggs, the worse it was––and this includes egg consumption and stroke. But that’s not what a meta-analysis funded by the egg industry found.\nIt turns out such meta-analyses have evidently been flawed by major methodological drawbacks; so, to eat or not to eat? It would seem moderation of egg consumption is called for, along with other sources of dietary cholesterol, given the new study data, which had the advantage of a “longer follow-up than the majority of the previous studies and may [therefore] have provided more power to detect associations.”\nSimilarly, with meta-analyses of dairy, no apparent link emerged, but evidence of publication bias was found––meaning there appeared to be missing studies, potentially shelved by industry-funded researchers for not showing funder-friendly effects. Researchers studying the relationship between funding sources and conclusions in studies of sugary drinks and milk found that studies funded by the likes of Coca-Cola or the Dairy Council had over seven times the likelihood of coming to funder-friendly conclusions than independent research––which is twice as bad as drug companies. Big Pharma only seems to be able to get away with a three-fold bias. Of particular interest, not a single one of the interventional studies looking at soda or milk ended up with an unfavorable conclusion.\nThe bottom line is that yes, dairy fat may be better than other animal fats, such as those found in meat, but something like whole grains would be better still––though swapping dairy out for refined grains or added sugar wouldn’t be doing you many favors. When it comes to stroke risk, vegetable fat is better than dairy fat, meat fat is the worst, whole grains are better, and fish fat, added sugars, or refined grains are statistically about the same.\nIn terms of dietary patterns and stroke, most of the studies on plant-based dietary patterns have found a protective effect against stroke, whereas those looking at Westernized patterns, those based more on animal foods and added sugars and fats, found a detrimental effect of the adherence to Westernized patterns. African-Americans are five times as likely to die from a stroke in middle age, a black/white disparity largely driven by the fact that they’re just having so many more strokes. In this population, a Southern-style diet, characterized by a lot of fried foods and meat, may be playing a role in increasing the risk of stroke, whereas adherence to more plant-based diets may reduce stroke risk.\nYes, wrote the director of the Stroke Prevention & Atherosclerosis Research Centre, “learning to make vegetarian meals every other day is a tall order for most North Americans, but is feasible given tasty recipes and a positive attitude.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Alexander DD, Miller PE, Vargas AJ, Weed DL, Cohen SS. Meta-analysis of Egg Consumption and Risk of Coronary Heart Disease and Stroke. J Am Coll Nutr. 2016;35(8):704-716.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27710205"
+    },
+    {
+      "Title": "Bechthold A, Boeing H, Schwedhelm C, et al. Food groups and risk of coronary heart disease, stroke and heart failure: A systematic review and dose-response meta-analysis of prospective studies. Crit Rev Food Sci Nutr. 2019;59(7):1071-1090.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29039970"
+    },
+    {
+      "Title": "Bekelman JE, Li Y, Gross CP. Scope and impact of financial conflicts of interest in biomedical research: a systematic review. JAMA. 2003;289(4):454-65.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12533125"
+    },
+    {
+      "Title": "Chen M, Li Y, Sun Q, et al. Dairy fat and risk of cardiovascular disease in 3 cohorts of US adults. Am J Clin Nutr. 2016;104(5):1209-1217.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27557656"
+    },
+    {
+      "Title": "Howard G, Moy CS, Howard VJ, et al. Where to Focus Efforts to Reduce the Black-White Disparity in Stroke Mortality: Incidence Versus Case Fatality?. Stroke. 2016;47(7):1893-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27256672"
+    },
+    {
+      "Title": "Iacoviello L, Bonaccio M, Cairella G, et al. Diet and primary prevention of stroke: Systematic review and dietary recommendations by the ad hoc Working Group of the Italian Society of Human Nutrition. Nutr Metab Cardiovasc Dis. 2018;28(4):309-334.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29482962"
+    },
+    {
+      "Title": "Judd SE, Gutiérrez OM, Newby PK, et al. Dietary patterns are associated with incident stroke and contribute to excess risk of stroke in black Americans. Stroke. 2013;44(12):3305-11.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24159061"
+    },
+    {
+      "Title": "Kalogeropoulos AP, Papanastasiou CA. Egg consumption: to eat or not to eat?. J Thorac Dis. 2019;11(6):2185-2187.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31372247"
+    },
+    {
+      "Title": "Kontogianni MD, Panagiotakos DB. Dietary patterns and stroke: a systematic review and re-meta-analysis. Maturitas. 2014;79(1):41-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25042875"
+    },
+    {
+      "Title": "Lesser LI, Ebbeling CB, Goozner M, Wypij D, Ludwig DS. Relationship between funding source and conclusion among nutrition-related scientific articles. PLoS Med. 2007;4(1):e5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17214504"
+    },
+    {
+      "Title": "Spence JD. Diet for stroke prevention. Stroke Vasc Neurol. 2018;3(2):44-50.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30022800"
+    },
+    {
+      "Title": "Spence JD. Letter by Spence Regarding Article, \"Diet and Stroke: Recent Evidence Supporting a Mediterranean-Style Diet and Food in the Primary Prevention of Stroke\". Stroke. 2015;46(9):e221.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26251245"
+    },
+    {
+      "Title": "Zhong VW, Van horn L, Cornelis MC, et al. Associations of Dietary Cholesterol or Egg Consumption With Incident Cardiovascular Disease and Mortality. JAMA. 2019;321(11):1081-1095.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30874756"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "African Americans",
+      "Url": "https://nutritionfacts.org/topics/african-americans/"
+    },
+    {
+      "Title": "American Medical Association",
+      "Url": "https://nutritionfacts.org/topics/american-medical-association/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "Black Americans",
+      "Url": "https://nutritionfacts.org/topics/black-americans/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "carnitine",
+      "Url": "https://nutritionfacts.org/topics/carnitine/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "choline",
+      "Url": "https://nutritionfacts.org/topics/choline/"
+    },
+    {
+      "Title": "Coca-Cola",
+      "Url": "https://nutritionfacts.org/topics/cocacola/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "french fries",
+      "Url": "https://nutritionfacts.org/topics/french-fries/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "hamburgers",
+      "Url": "https://nutritionfacts.org/topics/hamburgers/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    },
+    {
+      "Title": "TMAO",
+      "Url": "https://nutritionfacts.org/topics/tmao/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><a href=\"https://nutritionfacts.org/video/does-diet-soda-increase-stroke-risk-as-much-as-regular-soda/\">Does Diet Soda Increase Stroke Risk as Much as Regular Soda?</a> Check out the video!</p>\n<p>For more on TMAO, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/eggs-choline-and-cancer/\">Eggs, Choline, &amp; Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/carnitine-choline-cancer-and-cholesterol-the-tmao-connection/\">Carnitine, Choline, Cancer, &amp; Cholesterol: The TMAO Connection</a></li>\n<li><a href=\"https://nutritionfacts.org/video/egg-industry-response-to-choline-and-tmao/\">Egg Industry Response to Choline &amp; TMAO</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-develop-a-healthy-gut-ecosystem/\">How to Develop a Healthy Gut Ecosystem</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-treat-heart-failure-and-kidney-failure-with-diet/\">How to Treat Heart Failure and Kidney Failure with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-reduce-your-tmao-levels/\">How to Reduce Your TMAO Levels</a></li>\n</ul>\n<p>What are some better dietary choices? That was the subject of my last video: <a href=\"https://nutritionfacts.org/video/what-to-eat-for-stroke-prevention/\">What to Eat for Stroke Prevention</a>.</p>\n<p>But wait; what about those headlines suggesting vegetarians were at higher risk? I explore that in my next video, <a href=\"https://nutritionfacts.org/video/do-vegetarians-really-have-higher-stroke-risk/\">Do Vegetarians Really Have Higher Stroke Risk?</a></p>\n<p>2023 Update: I recently put out a new video, <a href=\"https://nutritionfacts.org/video/update-on-vegetarian-stroke-risk/\">Update on Vegetarian Stroke Risk</a>. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

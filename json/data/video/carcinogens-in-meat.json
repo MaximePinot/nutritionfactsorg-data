@@ -1,0 +1,167 @@
+{
+  "Title": "Carcinogens in Meat",
+  "Url": "https://nutritionfacts.org/video/carcinogens-in-meat/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/PsZ0qdYtQBo"
+  },
+  "UpdatedAt": "2018-07-04T11:50:49+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 42",
+    "Url": "https://nutritionfacts.org/volumes/volume-42/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the eight preparation methods to reduce exposure to carcinogens in cooked meat?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhat are some of the ways we can decrease our exposure to the “carcinogenic substances in meat [that are] formed during cooking”? They have a whole list of hazard factors. The first factor is “meat type,” with processed meat—red or white—being the worst. Then “[cooking] temperature,” with cooking at or under 260 degrees Fahrenheit—so, like boiling or microwaving, safer; whereas broiling, roasting, or pan-frying is the worst. “Turning [it] over” every minute lowers risk, and, rather than a “dark [and] flavorful” crust, they recommend pale and soft. Cooked rare lowers risk, as long as you meet food safety guidelines. Spices or a vinegar-containing marinade lowers carcinogen formation. Avoid gravy, stick to one serving (which is like “a deck of…cards or [the size of a] bar of soap”), and eat vegetables and fruit with your meat. Even just being around a barbecue may be a bad idea, even if you don’t eat anything off of it.\nHere, they estimated the extra lifetime cancer risk associated with standing about six feet away from a charcoal grill every day, and about 30 feet away, with both 25% skin exposure and 100% skin exposure. They’re not talking about grilling in the nude. This is out of the recognition that light clothing probably provides little protection from these “gaseous” carcinogens. Skin “contact is often neglected in [these kinds of risk] assessments of [polycyclic aromatic hydrocarbons].” But, we know it’s a problem from studies on firefighters that show that even in “full protective” gear, breathing through a respirator, they still end up with these compounds in their bodies—likely through their neck, under their helmets.\n“These results indicated that outdoor exposure to barbecue fumes (particularly [through the skin]) may have become a significant but largely neglected source of health hazards.” But, their estimates were from barbecuing once a day, every day, year-round. Though they’re thinking the toxic fumes might actually stick to people’s clothing, which they could then bring inside with them to continue exposure.\nThese are all some of the chemicals that led to the official scientific body that determines what is and is not carcinogenic to declare that processed meat does cause cancer, and red meat probably causes cancer. They considered both the nitrites in processed meat, as well as these cooked-meat carcinogens. “However, due to the practically unavoidable presence of other carcinogenic compounds, which are already present in raw or unprocessed meats,…these chemicals are not the only potentially carcinogenic substances in meat and meat products. These other substances are well-known environmental pollutants, such as some heavy metals,…dioxins, and…PCBs,” so-called persistent organic pollutants, to which we’re “primarily [exposed via] dietary intake of dairy products, meat, and fish.” Although dioxins are created when paper pulp is bleached, I have a feeling this is an autocorrect error.\nHow bad a problem is this in the United States? “The…USDA…examined whether levels of dioxin-like compounds…in meat and poultry…indicate possible concern for U.S. public health,” and they concluded that “a typical U.S. adult’s daily exposure…is below the EPA-established [reference dose]”—meaning the maximum acceptable limit of a toxic substance. “Only children consuming [average] daily servings of meat or poultry…[regularly] containing the highest…levels…may exceed the [limit].”\nPutting all the carcinogens together, some toxicologists suggest “limit[ing the] consumption of beef, pork, and chicken so that children…consume at most five servings [combined] of [all these] meats each month.” So, on average, like one serving every six days or so, max. Yeah, but what about organic meat? We’ll find out, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Dearfield KL, Edwards SR, O'Keefe MM, et al. Dietary estimates of dioxins consumed in U.S. Department of Agriculture-regulated meat and poultry products. J Food Prot. 2013;76(9):1597-1607.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23992505"
+    },
+    {
+      "Title": "Domingo JL, Nadal M. Carcinogenicity of consumption of red and processed meat: What about environmental contaminants?. Environ Res. 2016;145:109-115.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26656511"
+    },
+    {
+      "Title": "Fent KW, Eisenberg J, Snawder J, et al. Systemic exposure to PAHs and benzene in firefighters suppressing controlled structure fires. Ann Occup Hyg. 2014;58(7):830-845.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24906357"
+    },
+    {
+      "Title": "Hernández ÁR, Boada LD, Almeida-González M, et al. An estimation of the carcinogenic risk associated with the intake of multiple relevant carcinogens found in meat and charcuterie products. Sci Total Environ. 2015;514:33-41.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25659303"
+    },
+    {
+      "Title": "Li QQ, Loganath A, Chong YS, Tan J, Obbard JP. Persistent organic pollutants and adverse health effects in humans. J Toxicol Environ Health Part A. 2006;69(21):1987-2005.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16982537"
+    },
+    {
+      "Title": "Trafialek J, Kolanowski W. Dietary exposure to meat-related carcinogenic substances: is there a way to estimate the risk?. Int J Food Sci Nutr. 2014;65(6):774-780.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24828131"
+    },
+    {
+      "Title": "Wu CC, Bao LJ, Guo Y, Li SM, Zeng EY. Barbecue Fumes: An Overlooked Source of Health Hazards in Outdoor Settings?. Environ Sci Technol. 2015;49(17):10607-10615.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26259039"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "barbecuing",
+      "Url": "https://nutritionfacts.org/topics/barbecuing/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "boiling",
+      "Url": "https://nutritionfacts.org/topics/boiling/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "dioxins",
+      "Url": "https://nutritionfacts.org/topics/dioxins/"
+    },
+    {
+      "Title": "endocrine disruptors",
+      "Url": "https://nutritionfacts.org/topics/endocrine-disruptors/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "heavy metals",
+      "Url": "https://nutritionfacts.org/topics/heavy-metals/"
+    },
+    {
+      "Title": "industrial pollutants",
+      "Url": "https://nutritionfacts.org/topics/industrial-pollutants/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microwaving",
+      "Url": "https://nutritionfacts.org/topics/microwaving/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "organic foods",
+      "Url": "https://nutritionfacts.org/topics/organic-foods/"
+    },
+    {
+      "Title": "PCBs",
+      "Url": "https://nutritionfacts.org/topics/pcbs/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "red meat",
+      "Url": "https://nutritionfacts.org/topics/red-meat/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "USDA",
+      "Url": "https://nutritionfacts.org/topics/usda/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vinegar",
+      "Url": "https://nutritionfacts.org/topics/vinegar/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Another way to decrease exposure to cooked-meat carcinogens is to move towards a more plant-based diet. Check out <a href=\"https://nutritionfacts.org/video/how-not-to-die-from-cancer/\">How Not to Die from Cancer</a> and <a href=\"https://nutritionfacts.org/video/the-best-advice-on-diet-and-cancer/\">The Best Advice on Diet and Cancer</a> to learn more.</p>\n<p><a href=\"https://nutritionfacts.org/video/is-organic-meat-less-carcinogenic/\">Is Organic Meat Less Carcinogenic?</a> is coming up next.</p>\n<p>What about dairy? Check out <a href=\"https://nutritionfacts.org/video/dairy-and-cancer/\">Dairy and Cancer</a> and <a href=\"https://nutritionfacts.org/video/the-effects-of-hormones-in-dairy-milk-on-cancer/\">The Effects of Hormones in Dairy Milk on Cancer</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

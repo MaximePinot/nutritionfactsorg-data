@@ -1,0 +1,123 @@
+{
+  "Title": "Turmeric Curcumin & Colon Cancer",
+  "Url": "https://nutritionfacts.org/video/turmeric-curcumin-and-colon-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/pAs7U9FoIYs"
+  },
+  "UpdatedAt": "2014-06-18T11:00:23+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 19",
+    "Url": "https://nutritionfacts.org/volumes/volume-19/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What role might the spice turmeric play in both the prevention of precancerous polyps, and the treatment of colorectal cancer?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“The low incidence of large and small bowel cancer in India is often attributed to natural antioxidants such as curcumin, in the diet”—the yellow pigment in the spice turmeric, which is used in curry powder. “However, [it’s] imperative to recall that beneficial effects attributed to diets are seldom reproduced by administration of a single ingredient in that diet—[for example,] diets rich in [beta]-carotene lower the risk of tobacco-related cancers, [but the] administration of [beta]-carotene [pills] does not.” That doesn’t stop researchers from trying, though.\nBack in 2001, in a last-ditch attempt to save the lives of “fifteen patients with advanced colorectal cancer” that didn’t respond to any of the standard chemotherapy agents or radiation, they started them on a turmeric extract. It appeared to help stall the disease in a third of the patients—five out of fifteen—suggesting turmeric “extract may cause clinical benefit in [at least some] patients with advanced refractory colorectal cancer.”\nNow, if we were talking about some new kind of chemo, and it only helped one in three, you’d have to weigh that against chemo side effects—losing your hair, sloughing of your gut, intractable vomiting, maybe being bedridden. So, in a drug scenario, a one-in-three benefit may not sound particularly appealing. But when we’re talking about a plant extract proven to be remarkably safe, even if it just helped one in a hundred, it would be worth considering. With no serious downsides, a one-in-three benefit for end-stage cancer is pretty exciting.\nTo see if colon cancer could be prevented, five years later, researchers at the Cleveland Clinic and Hopkins tested two phytochemicals: curcumin (from turmeric) and quercetin (found in red onions and red wine) in people with familial adenomatous polyposis. Colon cancer forms from polyps, and there’s this disease that runs in families in which you develop hundreds of polyps, which will eventually turn into cancer—unless you have your colon prophylactically removed. So, they took five such patients, who already had their colons removed, but still either had their rectum, or a little intestinal pouch, which were still packed with polyps. This is where they started out, between 5 and 45 polyps each. And, this is where they ended up, after six months of curcumin and quercetin supplements.\nOn average, ended up with fewer than half the polyps, and the ones that they had, shrunk in half. Here’s a representative endoscopic photograph, before-and-after. Kind of now you see it, now you don’t. But what about patient one? Got rid of all their polyps by month three, but then they seemed to come back. So, they asked them what’s what, and it turned out the patient stopped taking the supplements. Darn it. So they put them back on the phytonutrient supplements for another three months, and the polyps came back down—all with “virtually no adverse events” and no blood test abnormalities.\nBy studying people at high risk for colon cancer, they were able to show noticeable effects within just months. But polyposis is a rare disease; they were only able to recruit five people for the study.\nThankfully, smokers are a dime a dozen. Another five years later, researchers put 44 smokers on turmeric curcumin supplements alone for a month, and measured changes in their colorectal aberrant crypt foci, which may act like precursors to polyps—which are the precursors to cancer. And, we can see after just one month, there was a significant drop in the number of these aberrant crypt foci in the high-dose supplement group, but no change in the low-dose group, with no dose-limiting side effects—although “the stools in [the] participants [did] turn…yellow.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "M Cruz-Correa, D A Shoskes, P Sanchez, R Zhao, L M Hylind, S D Wexner, F M Giardiello. Combination treatment with curcumin and quercetin of adenomas in familial adenomatous polyposis. Clin Gastroenterol Hepatol 2006 4(8):1035 – 1038.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16757216"
+    },
+    {
+      "Title": "P J Moos, K Edes, J E Mullally, F A Fitzpatrick. Curcumin impairs tumor suppressor p53 function in colon cancer cells. Carcinogenesis 2004 25(9):1611 – 1617.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15090465"
+    },
+    {
+      "Title": "R A Sharma, H R McLelland, K A Hill, C R Ireson, S A Euden, M M Manson, M Pirmohamed, L J Marnett, A J Gescher, W P Steward. Pharmacodynamic and pharmacokinetic study of oral Curcuma extract in patients with colorectal cancer. Clin Cancer Res 2001 7(7):1894 – 1900.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11448902"
+    },
+    {
+      "Title": "R E Carroll, R V Benya, D K Turgeon, S Vareed, M Neuman, L Rodriguez, M Kakarala, P M Carpenter, C McLaren, F L Meyskens. Phase IIa clinical trial of curcumin for the prevention of colorectal neoplasia. Cancer Prev Res 2011 4(3):354 – 364.",
+      "Url": "http://cancerpreventionresearch.aacrjournals.org/content/4/3/354.short"
+    },
+    {
+      "Title": "Redston M. 2001. Carcinogenesis in the GI tract: from morphology to genetics and back again. Review. Mod Pathol, 14(3):236-45.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11266532"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Simon A. Eugster via Wikimedia, HollywoodPimp via flickr, and DAVE Project",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "beta carotene",
+      "Url": "https://nutritionfacts.org/topics/beta-carotene/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "curcumin",
+      "Url": "https://nutritionfacts.org/topics/curcumin/"
+    },
+    {
+      "Title": "curry powder",
+      "Url": "https://nutritionfacts.org/topics/curry-powder/"
+    },
+    {
+      "Title": "India",
+      "Url": "https://nutritionfacts.org/topics/india/"
+    },
+    {
+      "Title": "onions",
+      "Url": "https://nutritionfacts.org/topics/onions/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "polyps",
+      "Url": "https://nutritionfacts.org/topics/polyps/"
+    },
+    {
+      "Title": "quercetin",
+      "Url": "https://nutritionfacts.org/topics/quercetin/"
+    },
+    {
+      "Title": "red wine",
+      "Url": "https://nutritionfacts.org/topics/red-wine/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "spices",
+      "Url": "https://nutritionfacts.org/topics/spices/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "turmeric",
+      "Url": "https://nutritionfacts.org/topics/turmeric/"
+    },
+    {
+      "Title": "wine",
+      "Url": "https://nutritionfacts.org/topics/wine/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>The low cancer rates in India may also be related to both phytate consumption (see <a href=\"https://nutritionfacts.org/video/phytates-for-the-prevention-of-cancer/\" target=\"_blank\">Phytates for the Prevention of Cancer</a>) and plant-centered diets (see <a href=\"https://nutritionfacts.org/video/back-to-our-roots-curry-and-cancer/\" target=\"_blank\">Back to Our Roots: Curry &amp; Cancer</a>).</p>\n<p>More on turmeric and cancer in <a href=\"https://nutritionfacts.org/video/carcinogen-blocking-effects-of-turmeric/\" target=\"_blank\">Carcinogen-Blocking Effects of Turmeric</a> and <a href=\"https://nutritionfacts.org/video/turmeric-curcumin-reprogramming-cancer-cell-death/\" target=\"_blank\">Turmeric Curcumin Reprogramming Cancer Cell Death</a>.</p>\n<p>Given the poor systemic absorption of turmeric compounds, what cancers, other than that of the digestive tract, may be directly affected? See <a href=\"https://nutritionfacts.org/video/topical-application-of-turmeric-curcumin-for-cancer/\" target=\"_blank\">Topical Application of Turmeric Curcumin for Cancer</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

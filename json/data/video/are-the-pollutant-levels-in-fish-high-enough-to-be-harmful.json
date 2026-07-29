@@ -1,0 +1,139 @@
+{
+  "Title": "Are the Pollutant Levels in Fish High Enough to Be Harmful?",
+  "Url": "https://nutritionfacts.org/video/are-the-pollutant-levels-in-fish-high-enough-to-be-harmful/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/6cjLjxS74Z0"
+  },
+  "UpdatedAt": "2025-12-01T12:50:04+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 71",
+    "Url": "https://nutritionfacts.org/volumes/volume-71/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The tolerable daily toxin safety limits are based on single chemicals. What if “safe” levels of chemicals in seafood are combined and tested together?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAs I noted in my last video on the subject, if people choose to get their long-chain omega-3s from fish, the majority of consumers would exceed the safety limits for dioxins and dioxin-like compounds (like PCBs). But is there evidence that exposure to industrial pollutants actually has any adverse effects on us? It does appear to be the case that the general population is exposed to sufficient persistent organic pollutants, both in terms of concentration and diversity, to induce metabolic disorders, raising a potential public health concern.\nThis assumption is also based on population studies, which have found higher rates of type 2 diabetes among those with elevated body burdens of chemicals, along with interventional studies in rodents that established a cause-and-effect relationship between exposure to these chemicals and the development of metabolic disorders, including obesity and insulin resistance. If rats are fed a diet high in farmed salmon fat, for example, they gain significantly more weight compared to a diet high in plant fat, or a diet with largely decontaminated salmon fat, showing it was the contaminants in the salmon to blame for not just increasing body fat, but the worst kind of body fat—deep abdominal visceral fat. They also had an increase in triglycerides despite the omega-3s, and an increase in cholesterol. along with a significant rise in insulin levels, because of a drop in insulin sensitivity––meaning they had insulin resistance, the cause of type 2 diabetes and prediabetes.\nThe researchers concluded that exposure to persistent organic pollutants (POPs), commonly present in foods like farmed salmon, can lead to insulin resistance and associated metabolic disorders. Okay, but what if you eat fish so infrequently you don’t exceed the U.S. Environmental Protection Agency’s safety levels? Like only having supermarket salmon less than once every two weeks, or less than once a month, depending on where you buy it, or less than once every two months, or once every four months?\nThe tolerable daily intakes of these pollutants are derived from things like so-called no-observed-adverse-effect levels in animal studies. In these studies, researchers test the animal most sensitive to these toxins and give smaller and smaller doses until they find a dose with no observable adverse effects. And then that dose is taken and divided by like a hundred or a thousand as a safety buffer to arrive at the tolerable human dose. One of the limitations with this approach is that it tends only to consider single chemicals, one at a time.\nWhat if a more real-world experiment were conducted, where animals were exposed to a mixture of pollutants but each at 500 times lower than the no-observed-adverse-effect level, at the quote-unquote “tolerable” human intake? Nothing should have happened, right? Each was 500 times smaller than the dose that causes any effects. But when mixed together, which is what actually happens in fish and other seafood, doses considered safe for humans are in fact not harmless when exposure is chronic. and when pollutants are administered in combination in a context of what too many Americans face.\nBecause seafood represents one of the main sources of human exposure to pollutants that contribute to metabolic diseases, there is a call on policy makers to urgently regulate and diminish the concentrations of pollutants in fish and other seafood to protect the general population. Until that happens, how can we stay away from them? Well, we’re exposed to flame retardant chemicals in meat, including ﬁsh and poultry; PBCs in ﬁsh, other meat, and dairy; dioxins, the same thing: ﬁsh, other meat, and dairy. We are exposed to PFOS (forever chemicals) in seafood, other meat, eggs, dairy products, and, in some places, our drinking water.\nIf the highest pollutant concentrations are found in fish, how are we going to get our omega-3s? The short-chain omega-3s found in walnuts and flaxseeds may be sufficient, since our body can convert those into the long-chain omega-3s found in fish, like EPA and DHA. Pregnant and breastfeeding women, and those at greater risk for poor conversion––such as people with diabetes, older adults, and premature infants––are especially most likely to beneﬁt from algae-derived DHA supplements, which represent a safe omega-3 source.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Antonijevic B, Matthys C, Sioen I, et al. Simulated impact of a fish based shift in the population n--3 fatty acids intake on exposure to dioxins and dioxin-like compounds. Food Chem Toxicol. 2007;45(11):2279-2286.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17637492/"
+    },
+    {
+      "Title": "Arterburn LM, Oken HA, Bailey Hall E, Hamersley J, Kuratko CN, Hoffman JP. Algal-oil capsules and cooked salmon: nutritionally equivalent sources of docosahexaenoic acid. J Am Diet Assoc. 2008;108(7):1204-1209.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18589030/"
+    },
+    {
+      "Title": "Burdge GC. α-linolenic acid interconversion is sufficient as a source of longer chain ω-3 polyunsaturated fatty acids in humans: An opinion. Lipids. 2022;57(6):267-287.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35908848/"
+    },
+    {
+      "Title": "Craig WJ, Mangels AR, Fresán U, et al. The Safe and Effective Use of Plant-Based Diets with Guidelines for Health Professionals. Nutrients. 2021;13(11):4144.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34836399/"
+    },
+    {
+      "Title": "Guo W, Pan B, Sakkiah S, et al. Persistent Organic Pollutants in Food: Contamination Sources, Health Effects and Detection Methods. Int J Environ Res Public Health. 2019;16(22):4361.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31717330/"
+    },
+    {
+      "Title": "Hites RA, Foran JA, Carpenter DO, Hamilton MC, Knuth BA, Schwager SJ. Global assessment of organic contaminants in farmed salmon. Science. 2004;303(5655):226-229.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14716013/"
+    },
+    {
+      "Title": "Le Magueresse-Battistoni B, Vidal H, Naville D. Lifelong consumption of low-dosed food pollutants and metabolic health. J Epidemiol Community Health. 2015;69(6):512-515.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25472636/"
+    },
+    {
+      "Title": "Naville D, Pinteur C, Vega N, et al. Low-dose food contaminants trigger sex-specific, hepatic metabolic changes in the progeny of obese mice. FASEB J. 2013;27(9):3860-3870.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23756648/"
+    },
+    {
+      "Title": "Ruzzin J, Petersen R, Meugnier E, et al. Persistent organic pollutant exposure leads to insulin resistance syndrome. Environ Health Perspect. 2010;118(4):465-471.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20064776/"
+    },
+    {
+      "Title": "Ruzzin J. Public health concern behind the exposure to persistent organic pollutants and the risk of metabolic diseases. BMC Public Health. 2012;12:298.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22520265/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "breastfeeding",
+      "Url": "https://nutritionfacts.org/topics/breastfeeding/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "flaxseeds",
+      "Url": "https://nutritionfacts.org/topics/flax-seeds/"
+    },
+    {
+      "Title": "industrial pollutants",
+      "Url": "https://nutritionfacts.org/topics/industrial-pollutants/"
+    },
+    {
+      "Title": "insulin",
+      "Url": "https://nutritionfacts.org/topics/insulin/"
+    },
+    {
+      "Title": "insulin resistance",
+      "Url": "https://nutritionfacts.org/topics/insulin-resistance/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "omega-3 fatty acids",
+      "Url": "https://nutritionfacts.org/topics/omega-3-fatty-acids/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "salmon",
+      "Url": "https://nutritionfacts.org/topics/salmon/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "walnuts",
+      "Url": "https://nutritionfacts.org/topics/walnuts/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the video I mentioned: </span><a href=\"https://nutritionfacts.org/video/are-environmental-toxins-lower-in-wild-caught-or-farmed-fish/\"><span style=\"font-weight: 400\">Are Environmental Toxins Lower in Wild-Caught or Farmed Fish?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">For more on persistent organic pollutants, check out </span><a href=\"https://nutritionfacts.org/topics/persistent-organic-pollutants/\"><span style=\"font-weight: 400\">the topic page</span></a><span style=\"font-weight: 400\">. </span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

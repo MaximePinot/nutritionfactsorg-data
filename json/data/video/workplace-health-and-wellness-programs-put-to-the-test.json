@@ -1,0 +1,91 @@
+{
+  "Title": "Workplace Health and Wellness Programs Put to the Test",
+  "Url": "https://nutritionfacts.org/video/workplace-health-and-wellness-programs-put-to-the-test/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/kfCmThQJqmM"
+  },
+  "UpdatedAt": "2022-10-24T11:50:55+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 59",
+    "Url": "https://nutritionfacts.org/volumes/volume-59/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Why do so many workplace wellness programs fail to deliver?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nHow much is a human life worth? Ideally, we’d like to think there is no price tag; each precious life is of inestimable value, but there are limited resources and policy decisions to be made, which leads to fascinating papers like this: the cost effectiveness of 500 life-saving interventions––587 to be exact, with some costing more than 10 billion dollars per year of life saved. Overall, the average intervention costs $42,000, which is how much it costs to save a year of someone’s life putting flashing lights at railroad crossings. So, how could you justify not installing them? Well, you could save more lives with the same money if you added grooved payment on highways. But if you really cared about saving drivers, you could save nearly a hundred times more lives investing the same money in media campaigns to encourage people to wear their seatbelts.\nBut if you really want value, if you want to prevent bangs for the least bucks, there are some interventions that save more resources than they cost. Yeah, most interventions cost $10,000 or more per year of life saved, but check out these. They’re not just cost-neutral, they mean you can save lives by saving money—talk about low-hanging fruit!\nStudies, for example, suggest “Workplace Wellness Programs Can Generate Savings.” Not just saving more than you’re spending, but potentially tripling your money by investing in wellness. But since employee participation is almost always voluntary, this introduces the specter of selection bias, where healthier people are just drawn to wellness programs in the first place. And indeed, during the year prior to a wellness intervention, those who would later sign up already had lower medical expenditures and healthier behaviors than future nonparticipants; so, no wonder they could end up doing better than their nonparticipating colleagues, even if the wellness program had zero benefit. Thankfully, there are an increased number of randomized controlled trials of wellness programs to see if we can prove cause-and-effect––to answer the question “Do Workplace Health Promotion Programs Work?”, particularly important given that the workplace wellness industry is now a multibillion-dollar industry.\nOne of the most recent randomized controlled trials was published in the Journal of the American Medical Association. Thousands of employees were effectively randomized to a workplace wellness program at BJ’s Wholesale Club, and although program participants reported they were engaging in more positive health behaviors, such as getting regular exercise, there were no significant differences in clinical measures of health, or health care spending and utilization. The authors suggested we may have to temper our expectations about the financial return on investment that wellness programs can deliver, at least in the short term.\nNow, some argue that even a break-even program, that is, one that does not impose additional costs to the company but produces signiﬁcant population health improvement, might be a worthy investment. But perhaps the growing evidence that demonstrates limited or no concrete wellness program effects should encourage wellness companies and employers to critically assess the programs and try to improve them. In a survey of 162 company wellness programs, for example, only a third offered nutrition counseling. And even with counseling, it’s more than simply trying to convince people to take better care of themselves. It requires that the organization creates an environment where leading a healthy lifestyle is the “default” option. What are they promoting in the company cafeteria, for example? What’s being served up at meetings and in vending machines?\nYeah, a lifestyle management program at PepsiCo failed to save the company money, but somehow I doubt one of the components of PepsiCo’s wellness program, Healthy Living, was telling employees not to eat or drink any of their own products.\nIn fact, if you go back to that BJ’s case, yes, a few percentages more employees said they were more regularly exercising, but when it came to nutrition, it was a complete flop, in terms of things like drinking less soda, or more fruits and vegetables. No wonder their health hardly budged.\nIn a systematic review of systematic reviews on the effectiveness of dietary workplace interventions, the average improvement in fruit and vegetable intake combined was 0.7 portions a day. No wonder these programs aren’t doing better.\nIn Wealth of Nations, Adam Smith wrote that workers are less likely to be productive “when they are frequently sick than when they are generally in good health.” Sickness “cannot fail to diminish the produce of their industry.” Maybe they just need more produce than 0.7 servings a day.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Abraham JM. Employer wellness programs-a work in progress. JAMA. 2019;321(15):1462-3.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30990536/"
+    },
+    {
+      "Title": "Baicker K, Cutler D, Song Z. Workplace wellness programs can generate savings. Health Aff (Millwood). 2010;29(2):304-11.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20075081/"
+    },
+    {
+      "Title": "Caloyeras JP, Liu H, Exum E, Broderick M, Mattke S. Managing manifest diseases, but not health risks, saved PepsiCo money over seven years. Health Aff (Millwood). 2014;33(1):124-31.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24395944/"
+    },
+    {
+      "Title": "Goetzel RZ, Henke RM, Tabrizi M, et al. Do workplace health promotion (Wellness) programs work? J Occup Environ Med. 2014;56(9):927-34.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25153303/"
+    },
+    {
+      "Title": "Goetzel RZ. Response to harris allen, phd. J Occup Environ Med. 2015;57(1):e8-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25563553/"
+    },
+    {
+      "Title": "Jones D, Molitor D, Reif J. What do workplace wellness programs do? Evidence from the illinois workplace wellness study. Q J Econ. 2019;134(4):1747-91.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31564754/"
+    },
+    {
+      "Title": "Martinez L, Prada SI. What are some of the features of worksite wellness interventions in the United States? J Occup Environ Med. 2015;57(3):e26-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25742544/"
+    },
+    {
+      "Title": "Schliemann D, Woodside JV. The effectiveness of dietary workplace interventions: a systematic review of systematic reviews. Public Health Nutr. 2019;22(5):942-55.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30706845/"
+    },
+    {
+      "Title": "Smith A, Strahan W, Cadell T. An Inquiry into the Nature and Causes of the Wealth of Nations. 1776.",
+      "Url": "https://www.worldcat.org/title/inquiry-into-the-nature-and-causes-of-the-wealth-of-nations/oclc/762139&referer=brief_results"
+    },
+    {
+      "Title": "Song Z, Baicker K. Effect of a workplace wellness program on employee health and economic outcomes: a randomized clinical trial. JAMA. 2019;321(15):1491-501.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30990549/"
+    },
+    {
+      "Title": "Tengs TO, Adams ME, Pliskin JS, et al. Five-hundred life-saving interventions and their cost-effectiveness. Risk Anal. 1995;15(3):369-90.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7604170/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "American Medical Association",
+      "Url": "https://nutritionfacts.org/topics/american-medical-association/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "cost savings",
+      "Url": "https://nutritionfacts.org/topics/cost-savings/"
+    },
+    {
+      "Title": "lifestyle medicine",
+      "Url": "https://nutritionfacts.org/topics/lifestyle-medicine/"
+    },
+    {
+      "Title": "workplace wellness",
+      "Url": "https://nutritionfacts.org/topics/workplace-wellness/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">If you missed the previous video, see </span><a href=\"https://nutritionfacts.org/video/the-return-on-investment-roi-for-employee-health-and-wellness-programs/\"><span style=\"font-weight: 400\">The Return on Investment (ROI) for Employee Health and Wellness Programs</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">Check out my profiles of two successful programs: </span><a href=\"https://nutritionfacts.org/video/a-workplace-wellness-program-that-works/\"><span style=\"font-weight: 400\">A Workplace Wellness Program That Works</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/plant-based-diets-for-improved-mood-and-productivity/\"><span style=\"font-weight: 400\">Plant-Based Diets for Improved Mood and Productivity</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

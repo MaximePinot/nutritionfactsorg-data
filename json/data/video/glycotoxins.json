@@ -1,0 +1,143 @@
+{
+  "Title": "Glycotoxins",
+  "Url": "https://nutritionfacts.org/video/glycotoxins/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/OB9M57UTYcs"
+  },
+  "UpdatedAt": "2011-12-28T13:00:18+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Advanced glycation end products (AGEs) in our diet are thought to accelerate the aging process.",
+  "Transcript": "Advanced glycation end products; AGEs, appropriately acronymed, as they are considered gerontotoxins—geronto as in gerontology. These are aging toxins, thought to accelerate the aging process, the multisystem decline in anatomic integrity and function. AGEs crosslink proteins together, causing tissue stiffness, oxidative stress, and inflammation. In the brain, they may contribute to dementia; in the eye, cataracts and macular degeneration. In the arteries and heart, hypertension, atherosclerosis, heart failure, and stroke; then anemia, kidney disease, osteoporosis, and muscle loss.\nThere are two sources of these toxins. One we can’t do much about—they’re produced internally as natural waste products of metabolism. But source number two is our diet.\nNow, research in the 70s on rats found that AGEs weren’t absorbed very well, and so dietary sources were dismissed as irrelevant—until 25 years later, when we finally tested people. And lo and behold, we found that diet-derived AGEs that are absorbed into the bloodstream may represent a major source of chemically and biologically active toxins. And so, we should eliminate the foods and modes of cooking associated with the highest AGE content.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by MaryAnn Allison.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Koschinsky T, He CJ, Mitsuhashi T, Bucala R, Liu C, Buenting C, Heitmann K, Vlassara H. Orally absorbed reactive glycation products (glycotoxins): an environmental risk factor in diabetic nephropathy. Proc Natl Acad Sci U S A. 1997 Jun 10;94(12):6474-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC21074/pdf/pq006474.pdf"
+    },
+    {
+      "Title": "Krautwald M, Münch G. Advanced glycation end products as biomarkers and gerontotoxins - A basis to explore methylglyoxal-lowering agents for Alzheimer's disease? Exp Gerontol. 2010 Oct;45(10):744-51. Epub 2010 Mar 6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/%2020211718"
+    },
+    {
+      "Title": "Semba RD, Nicklett EJ, Ferrucci L. Does accumulation of advanced glycation end products contribute to the aging phenotype? J Gerontol A Biol Sci Med Sci. 2010 Sep;65(9):963-75. Epub 2010 May 17.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2920582/pdf/glq074.pdf"
+    },
+    {
+      "Title": "Sgarbieri VC, Amaya J, Tanaka M, Chichester CO. Response of rats to amino acid supplementation of brown egg albumin. J Nutr. 1973 Dec;103(12):1731-8.",
+      "Url": "http://jn.nutrition.org/content/103/12/1731.full.pdf"
+    },
+    {
+      "Title": "Uribarri J, Woodruff S, Goodman S, Cai W, Chen X, Pyzik R, Yong A, Striker GE, Vlassara H. Advanced glycation end products in foods and a practical guide to their reduction in the diet. J Am Diet Assoc. 2010 Jun;110(6):911-16.e12.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20497781"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Christopher Craig /flickr",
+  "Topics": [
+    {
+      "Title": "advanced glycation end-products (AGEs)",
+      "Url": "https://nutritionfacts.org/topics/advanced-glycation-end-products/"
+    },
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "anemia",
+      "Url": "https://nutritionfacts.org/topics/anemia/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cataracts",
+      "Url": "https://nutritionfacts.org/topics/cataracts/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "eye health",
+      "Url": "https://nutritionfacts.org/topics/eye-health/"
+    },
+    {
+      "Title": "glycotoxins",
+      "Url": "https://nutritionfacts.org/topics/glycotoxins/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart failure",
+      "Url": "https://nutritionfacts.org/topics/heart-failure/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "macular degeneration",
+      "Url": "https://nutritionfacts.org/topics/macular-degeneration/"
+    },
+    {
+      "Title": "muscle health",
+      "Url": "https://nutritionfacts.org/topics/muscle-health/"
+    },
+    {
+      "Title": "osteoporosis",
+      "Url": "https://nutritionfacts.org/topics/osteoporosis/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    },
+    {
+      "Title": "wrinkles",
+      "Url": "https://nutritionfacts.org/topics/wrinkles/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Be sure to check out my <a href=\"https://nutritionfacts.org/topics/aging/\" rel=\"nofollow\">other videos on aging</a>.  </p>\n<p>And check out my associated blog post for more context: <a href=\"https://nutritionfacts.org/2013/12/10/which-common-fruit-fights-cancer-better/\">Which Common Fruit Fights Cancer Better?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

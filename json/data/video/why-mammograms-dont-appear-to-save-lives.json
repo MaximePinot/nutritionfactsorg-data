@@ -1,0 +1,139 @@
+{
+  "Title": "Why Mammograms Don’t Appear to Save Lives",
+  "Url": "https://nutritionfacts.org/video/why-mammograms-dont-appear-to-save-lives/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/VBwzsqU91Oo"
+  },
+  "UpdatedAt": "2018-03-07T12:50:09+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 40",
+    "Url": "https://nutritionfacts.org/volumes/volume-40/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "“Early” detection is actually really late. Without mammograms, breast cancer may not be caught for an average of 22.8 years. With mammograms, though, breast cancer may only grow and spread for…21.4 years.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nCritics of mammogram breast cancer screening claim that on a population scale, it’s never been shown to actually prolong women’s lives on average. But, look at this clear drop in breast cancer mortality in the UK, right when routine mammograms were introduced. Same here in Denmark: a nice drop in breast cancer mortality right after screening started.\nThat didn’t appear to be the case in Switzerland, though, where breast cancer mortality was declining years before routine mammograms were introduced. Hmm. So, let’s go back and look at that UK graph. “It is tempting to conclude that breast screening” caused the drop, but it is a little suspicious that the drop happens immediately. I mean, you’d expect it to take a few years to manifest. And, if you split it up by age group, the whole thing falls apart.\nHere’s what the graph looks like. And, this is the only age group that started screening at that time. So, there were drops in other age groups, too, that weren’t getting mammograms. Same with the Denmark data. This is the line for the areas that got screened; this is the line for the areas that didn’t get screened. You see the same drop in breast cancer mortality with or without. What’s going on?\nHere’s the U.S. data. Looks just like that UK graph, where there’s this beautiful drop in breast cancer mortality right when mass mammograms were introduced, around 1990. But, check it out: the same drop—in fact, even more—among women getting less screening, and an even greater drop in breast cancer mortality among women not getting mammograms at all. “In other words, “there was a larger relative reduction in [breast cancer] mortality among women who were not exposed to screening mammography.” So, what happened? The decrease in mortality is probably “largely…the result of improved treatment, not screening.”\nBreast cancer mortality started dropping all around the world at about the same time, regardless of when mammogram screening started. There was “no relation at all between start of screening and the reduction in breast cancer mortality.” “The declines…are more likely explained by the introduction of [the estrogen-blocking drug] tamoxifen.” You can see it really clearly in the U.S. data, with the breast cancer death rate plummeting in the United States after FDA’s tamoxifen approval in 1990.\nNow, this doesn’t mean breast cancer screening isn’t playing some role. And, in fact, randomized, controlled trials have shown that routine mammograms may reduce breast cancer mortality by 20%. Now, that 20% drop is from, like, five in a thousand women dying during that time from breast cancer without screening, down to four in a thousand dying, with screening. And so, when you graph it, it doesn’t look that impressive. The red line is the risk of dying for women that are invited for routine screening, and the green line is the risk of dying for women not getting mammograms. They’re practically right on top of one another—and, this is assuming mammograms don’t increase deaths from other causes. “If we take into account the cardiac and lung cancer deaths caused by” radiation treatments in women overdiagnosed with pseudodisease and treated for cancer unnecessarily thanks to mammography, there doesn’t appear to be any overall “mortality benefit.”\nWhy aren’t mammograms more effective? It seems “so simple.” “Catch the disease early.” Right? It turns out that by the time breast cancer is caught by mammograms, it may have already been growing for literally decades. “It is therefore misleading to say that [breast] cancers are caught ‘early’ with screening.” They [may actually be] caught very late.” Without mammograms, breast cancer may not be caught for 22.8 years, but with mammograms, breast cancer may only grow and spread for 21.4 years. No wonder mammograms don’t do a better job at preventing breast cancer deaths, if the cancer can spread before you can cut it out. Concerns have even been raised that the trauma from surgery may accelerate the growth of any cancer left behind, and maybe that would help explain why there’s not more benefit to screening.\nRegardless, nine out of 10 women may still be in the dark, overestimating the mortality reduction from mammography screening by like an order of magnitude, ten-fold or more. About the same percentage of men thought the same thing about prostate cancer screening, vastly overestimating the benefits, or simply not knowing. Only 1.5% of women surveyed were in the ballpark.\nIronically, those reporting frequently consulting with their physicians and reading health pamphlets did even worse—overestimating the benefits even more, raising a question that was asked decades ago by a director of a mammogram project, as she lay on her deathbed before succumbing to breast cancer herself. Realizing even back then that routine mammograms may not actually be saving women’s lives, she asked: “Are we brainwashing ourselves into thinking that we are making a dramatic impact on a serious disease before we brainwash the public?”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bleyer A, Baines C, Miller AB. Impact of screening mammography on breast cancer mortality. Int J Cancer. 2016;138(8):2003-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26562826"
+    },
+    {
+      "Title": "Bleyer A, Welch HG. Effect of screening mammography on breast cancer incidence. N Engl J Med. 2013;368(7):679.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23406034"
+    },
+    {
+      "Title": "Bleyer A, Welch HG. Effect of three decades of screening mammography on breast-cancer incidence. N Engl J Med. 2012;367(21):1998-2005.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23171096"
+    },
+    {
+      "Title": "Gigerenzer G, Mata J, Frank R. Public knowledge of benefits of breast and prostate cancer screening in Europe. J Natl Cancer Inst. 2009;101(17):1216-20.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19671770"
+    },
+    {
+      "Title": "Gigerenzer G, Wegwarth O, Feufel M. Misleading communication of risk. BMJ. 2010;341:c4830.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20940219"
+    },
+    {
+      "Title": "Gøtzsche PC, Jørgensen KJ, Zahl PH, Mæhlen J. Why mammography screening has not lived up to expectations from the randomised trials. Cancer Causes Control. 2012;23(1):15-21.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22072221"
+    },
+    {
+      "Title": "Gøtzsche PC. Commentary: Screening: a seductive paradigm that has generally failed us. Int J Epidemiol. 2015;44(1):278-80.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25596213"
+    },
+    {
+      "Title": "Gøtzsche PC. Mammography screening is harmful and should be abandoned. J R Soc Med. 2015;108(9):341-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26359135"
+    },
+    {
+      "Title": "Gøtzsche PC. Time to stop mammography screening?. CMAJ. 2011;183(17):1957-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22106102"
+    },
+    {
+      "Title": "Jørgensen KJ, Kalager M, Barratt A, et al. Overview of guidelines on breast screening: Why recommendations differ and what to do about it. Breast. 2017;31:261-269.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27717717"
+    },
+    {
+      "Title": "Keen JD, Jørgensen KJ. Four Principles to Consider Before Advising Women on Screening Mammography. J Womens Health (Larchmt). 2015;24(11):867-74.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26496048"
+    },
+    {
+      "Title": "Myers ER, Moorman P, Gierisch JM, et al. Benefits and Harms of Breast Cancer Screening: A Systematic Review. JAMA. 2015;314(15):1615-34.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26501537"
+    },
+    {
+      "Title": "Niraula S. Screening mammography: sparing the emperor's blushes. Cancer Med. 2016;5(10):3018-3020.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27683022"
+    },
+    {
+      "Title": "Roberts MM. Breast screening: time for a rethink?. BMJ. 1989;299(6708):1153-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/2513031"
+    },
+    {
+      "Title": "Vaidya JS. Screening for breast cancer with mammography. Lancet. 2001;358(9299):2166.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11784656"
+    },
+    {
+      "Title": "Vassilakos P, Catarino R, Boulvain M, Petignat P. Controversies in the mammography screening programme in Switzerland. Swiss Med Wkly. 2014;144:w13969.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24764157"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast cancer survival",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer-survival/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "Europe",
+      "Url": "https://nutritionfacts.org/topics/europe/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mammograms",
+      "Url": "https://nutritionfacts.org/topics/mammograms/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "surgery",
+      "Url": "https://nutritionfacts.org/topics/surgery/"
+    },
+    {
+      "Title": "tamoxifen",
+      "Url": "https://nutritionfacts.org/topics/tamoxifen/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Because “early” detection is actually really late, we can’t wait for a diagnosis to start eating more healthfully. Get going with these videos and tips:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/broccoli-versus-breast-cancer-stem-cells/\">Broccoli vs. Breast Cancer Stem Cells</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-do-asian-women-have-less-breast-cancer/\">Why Do Asian Women Have Less Breast Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flaxseeds-breast-cancer-prevention/\">Flaxseeds and Breast Cancer Prevention</a></li>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-vs-mushrooms/\">Breast Cancer vs. Mushrooms</a></li>\n<li><a href=\"https://nutritionfacts.org/video/tree-nuts-or-peanuts-for-breast-cancer-prevention/\">Tree Nuts or Peanuts for Breast Cancer Prevention?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/estrogenic-cooked-meat-carcinogens/\">Estrogenic Cooked-Meat Carcinogens</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fiber-vs-breast-cancer/\">Fiber vs. Breast Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/who-shouldnt-eat-soy/\">Who Shouldn’t Eat Soy?</a></li>\n</ul>\n<p>There are two videos left in this 14-part mammogram series: <a href=\"https://nutritionfacts.org/video/why-patients-arent-informed-about-mammograms/\">Why Patients Aren’t Informed About Mammograms</a> and <a href=\"https://nutritionfacts.org/video/the-pros-and-cons-of-mammograms/\">The Pros and Cons of Mammograms</a>.</p>\n<p>If you missed any of the others, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/9-out-of-10-women-misinformed-about-mammograms/\">Nine out of Ten Women Misinformed About Mammograms</a></li>\n<li><a href=\"https://nutritionfacts.org/video/mammogram-recommendations-why-the-conflicting-guidelines/\">Mammogram Recommendations: Why the Conflicting Guidelines?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-women-get-mammograms-starting-at-age-40/\">Should Women Get Mammograms Starting at Age 40?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-mammograms-save-lives/\">Do Mammograms Save Lives?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/consequences-of-false-positive-mammogram-results/\">Consequences of False-Positive Mammogram Results</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-mammograms-hurt/\">Do Mammograms Hurt?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-mammogram-radiation-cause-breast-cancer/\">Can Mammogram Radiation Cause Breast Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/understanding-the-mammogram-paradox/\">Understanding the Mammogram Paradox</a></li>\n<li><a href=\"https://nutritionfacts.org/video/overtreatment-of-stage-0-breast-cancer-dcis/\">Overtreatment of Stage 0 Breast Cancer DCIS</a></li>\n<li><a href=\"https://nutritionfacts.org/video/women-deserve-to-know-the-truth-about-mammograms/\">Women Deserve to Know the Truth About Mammograms</a></li>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-and-the-5-year-survival-rate-myth/\">Breast Cancer and the Five-Year Survival Rate Myth</a></li>\n</ul>\n<p>Want the whole 14-video series in one place? You can <a href=\"https://drgreger.org/collections/downloads\"><strong>stream</strong></a> it for a donation to NutritionFacts.org by <a href=\"https://drgreger.org/\"><strong>going here</strong></a>.</p>\n<p>For more on breast cancer, see my videos <a href=\"https://nutritionfacts.org/video/oxidized-cholesterol-27hc-may-explain-3-breast-cancer-mysteries/\">Oxidized Cholesterol 27HC May Explain Three Breast Cancer Mysteries</a> and <a href=\"https://nutritionfacts.org/video/eggs-and-breast-cancer/\">Eggs and Breast Cancer</a>.</p>\n<p>I was able to cover colon cancer screening in just one video. If you missed it, check out <a href=\"https://nutritionfacts.org/video/should-we-all-get-colonoscopies-starting-at-age-50/\">Should We All Get Colonoscopies Starting at Age 50?</a>.</p>\n<p>Also on the topic of medical screenings, see <a href=\"https://nutritionfacts.org/video/is-it-worth-getting-annual-health-check-ups/\">Is It Worth Getting Annual Health Check-Ups?</a> and <a href=\"https://nutritionfacts.org/video/is-it-worth-getting-an-annual-physical-exam/\">Is It Worth Getting an Annual Physical Exam?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

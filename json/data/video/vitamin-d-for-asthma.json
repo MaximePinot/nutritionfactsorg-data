@@ -1,0 +1,87 @@
+{
+  "Title": "Vitamin D for Asthma",
+  "Url": "https://nutritionfacts.org/video/vitamin-D-for-asthma/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/JM0zJwyFxRQ"
+  },
+  "UpdatedAt": "2016-12-30T13:00:20+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 33",
+    "Url": "https://nutritionfacts.org/volumes/volume-33/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Vitamin D supplements are put to the test in childhood asthma.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Asthma is a chronic inflammatory disorder of the airways affecting approximately 10% of children.” About half the risk is genetically determined, but the rest we may have some control over. One of the reasons asthma rates may be rising is our rising rates of vitamin D deficiency. Kids just aren’t going out to play anymore, leading to a doubling of vitamin D insufficiency levels in recent years, such that less than a quarter of U.S. teens hit the mark. \nVitamin D is the sunshine vitamin. We make no vitamin D from the light coming from our TV or computer screens. So, do kids with lower vitamin D levels in their blood have worse asthma? Apparently so. One of more than a dozen observational studies suggesting that vitamin D is protective against “asthma exacerbations.”\nSo, should we start giving kids with asthma vitamin D supplements if they’re not going to go outside? Well, correlation doesn’t mean causation. For example, maybe severe asthma leads to less vitamin D, instead of the other way around. To prove cause and effect, you need to put it to the test. Take kids with asthma, and randomize them into one of two groups—vitamin D, or an identical-looking sugar pill—and see what happens. The problem is there had never been clinical trials like that—until now.\nGiving asthmatic kids between 500 to 2,000 international units of vitamin D3 a day cuts asthma exacerbations by more than half, perhaps by decreasing the incidence of respiratory infections by boosting immunity, while at the same time diminishing inflammation.\nIf it helps with inflammation, what about inflammatory bowel disease? We’ll cover that next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Brehm JM, Celedón JC, Soto-Quiros ME, Avila L, Hunninghake GM, Forno E, Laskey D, Sylvia JS, Hollis BW, Weiss ST, Litonjua AA. Serum vitamin D levels and markers of severity of childhood asthma in Costa Rica. Am J Respir Crit Care Med. 2009 May 1;179(9):765-71.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19179486"
+    },
+    {
+      "Title": "Cassim R, Russell MA, Lodge CJ, Lowe AJ, Koplin JJ, Dharmage SC. The role of circulating 25 hydroxyvitamin D in asthma: a systematic review.  Allergy. 2015 Apr;70(4):339-54.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25631639"
+    },
+    {
+      "Title": "Devereux G, Macdonald H, Hawrylowicz C. Vitamin D and asthma: time for intervention? Am J Respir Crit Care Med. 2009 May 1;179(9):739-40.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19383926"
+    },
+    {
+      "Title": "Ginde AA, Liu MC, Camargo CA Jr. Demographic differences and trends of vitamin D insufficiency in the US population, 1988-2004. Arch Intern Med. 2009 Mar 23;169(6):626-32.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19307527"
+    },
+    {
+      "Title": "Mirzakhani H1, Al-Garawi A, Weiss ST, Litonjua AA. Vitamin D and the development of allergic disease: how important is it? Clin Exp Allergy. 2015 Jan;45(1):114-25.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25307157"
+    },
+    {
+      "Title": "Pojsupap S, Iliriani K, Sampaio TZ, O'Hearn K, Kovesi T, Menon K, McNally JD. Efficacy of high-dose vitamin D in pediatric asthma: a systematic review and meta-analysis. J Asthma. 2015 May;52(4):382-90.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25365192"
+    },
+    {
+      "Title": "Xiao L, Xing C, Yang Z, Xu S, Wang M, Du H, Liu K, Huang Z. Vitamin D supplementation for the prevention of childhood acute respiratory infections: a systematic review of randomised controlled trials. Br J Nutr. 2015 Oct 14;114(7):1026-34.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26310436"
+    }
+  ],
+  "Acknowledgements": "Image credit: suman76 via pixabay. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "asthma",
+      "Url": "https://nutritionfacts.org/topics/asthma/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "inflammatory bowel disease",
+      "Url": "https://nutritionfacts.org/topics/inflammatory-bowel-disease/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This video is part of an extended series on vitamin D, including:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/will-you-live-longer-if-you-take-vitamin-d-supplements/\">Will You Live Longer If You Take Vitamin D Supplements?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-vit-d-supplements-help-diabetes-weight-loss-blood-pressure/\">Do Vitamin D Supplements Help with Diabetes, Weight Loss, and Blood Pressure?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-vitamin-d-should-you-take/\">How Much Vitamin D Should You Take?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-optimal-dose-of-vitamin-d-based-on-natural-levels/\">The Optimal Dose of Vitamin D Based on Natural Levels</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-way-to-get-vitamin-d-sun-supplements-or-salons/\">The Best Way to Get Vitamin D: Sun, Supplements, or Salons?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-risks-and-benefits-of-sensible-sun-exposure/\">The Risks and Benefits of Sensible Sun Exposure</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-vitamin-d-supplements-be-taken-to-prevent-falls/\">Should Vitamin D Supplements Be Taken to Prevent Falls in the Elderly?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vitamin-d-for-inflammatory-bowel-disease/\">Vitamin D for Inflammatory Bowel Disease</a></li>\n</ul>\n<p>For more on preventing and treating asthma, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/preventing-asthma-with-fruits-and-vegetables/\">Preventing Asthma with Fruits and Vegetables</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-asthma-with-fruits-and-vegetables/\">Treating Asthma with Fruits and Vegetables</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-asthma-with-plants-vs-supplements/\">Treating Asthma with Plants vs. Supplements?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-asthma-and-eczema-with-plant-based-diets/\">Treating Asthma and Eczema with Plant-Based Diets</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-treat-asthma-with-a-low-salt-diet/\">How to Treat Asthma with a Low-Salt Diet</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

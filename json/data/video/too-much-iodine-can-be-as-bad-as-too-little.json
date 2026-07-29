@@ -1,0 +1,111 @@
+{
+  "Title": "Too Much Iodine Can Be as Bad as Too Little",
+  "Url": "https://nutritionfacts.org/video/too-much-iodine-can-be-as-bad-as-too-little/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/rO9xJujS0fk"
+  },
+  "UpdatedAt": "2011-09-09T12:00:18+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 5",
+    "Url": "https://nutritionfacts.org/volumes/5/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Excessive intake of kelp (kombu) or thyroid-containing sausages can lead to iodine toxicity.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn this study of Boston vegans, concerns were raised about their iodine status, but one vegan’s iodine level was so high, they were excluded from the study. How is that possible? They were consuming kelp. As I’ve written in my iodine recommendations for a decade now, unless your neighborhood nuclear plant just melted down, no kelp—it just has too much iodine. And if you find yourself in Namibia, you might want to stay away from paddle weed as well. Other than that, though, and staying away from hijiki, which just has too much arsenic, sea vegetables are an excellent source of iodine.\nThere have been a few recent case reports of iodine toxicity in breastfeeding women eating soup made from kelp, also known as kombu, which explains this: “Iodine toxicity from soy milk.” Why? because it was made with kombu. But if you just read kombu on a label, would you think anything of it? Well, we should. There was a worldwide recall, complete with headlines like: “Café raid seizes banned soy milk.” A black market trade was operating in the banned soy milk, even though they faced half million dollar fines. That particular brand has since been reformulated without kombu.\nThe other way you can get in trouble with your thyroid gland is if you eat too many of them: “Hyperthyroidism caused by excessive consumption of sausages. After tests of the sausage revealed levels one might find in a dose of a thyroid hormone drug, like Synthroid, they “concluded that this patient had an exogenous hyperthyroidism caused by excessive intake of thyroid-containing sausages.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Crawford BA, Cowell CT, Emder PJ, Learoyd DL, Chua EL, Sinn J, Jack MM. Iodine toxicity from soy milk and seaweed ingestion is associated with serious thyroid dysfunction. Med J Aust. 2010 Oct 4;193(7):413-5.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20919974"
+    },
+    {
+      "Title": "Emder PJ, Jack MM. Iodine-induced neonatal hypothyroidism secondary to maternal seaweed consumption: A common practice in some Asian cultures to promote breast milk supply. J Paediatr Child Health. 2011 Jan 31. doi: 10.1111/j.1440-1754.2010.01972.x.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21276114"
+    },
+    {
+      "Title": "Hendriks LE, Looij BJ. Hyperthyroidism caused by excessive consumption of sausages. Neth J Med. 2010 Mar;68(3):135-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20308711"
+    },
+    {
+      "Title": "Leung AM, Lamar A, He X, Braverman LE, Pearce EN. Iodine status and thyroid function of Boston-area vegetarians and vegans. J Clin Endocrinol Metab. 2011 May 25.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21613354"
+    },
+    {
+      "Title": "Teas J, Pino S, Critchley A, Braverman LE. Variability of iodine content in common commercially available edible seaweeds. Thyroid. 2004 Oct;14(10):836-41.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15588380"
+    }
+  ],
+  "Acknowledgements": "Image Credit: Joi Ito via flickr. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "hijiki",
+      "Url": "https://nutritionfacts.org/topics/hijiki/"
+    },
+    {
+      "Title": "iodine",
+      "Url": "https://nutritionfacts.org/topics/iodine/"
+    },
+    {
+      "Title": "kelp",
+      "Url": "https://nutritionfacts.org/topics/kelp/"
+    },
+    {
+      "Title": "nutrition myths",
+      "Url": "https://nutritionfacts.org/topics/nutrition-myths/"
+    },
+    {
+      "Title": "organ meats",
+      "Url": "https://nutritionfacts.org/topics/organ-meats/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "processed meat",
+      "Url": "https://nutritionfacts.org/topics/processed-meat/"
+    },
+    {
+      "Title": "safety limits",
+      "Url": "https://nutritionfacts.org/topics/safety-limits/"
+    },
+    {
+      "Title": "sea vegetables",
+      "Url": "https://nutritionfacts.org/topics/sea-vegetables/"
+    },
+    {
+      "Title": "seaweed",
+      "Url": "https://nutritionfacts.org/topics/seaweed/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "soy milk",
+      "Url": "https://nutritionfacts.org/topics/soymilk/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "thyroid health",
+      "Url": "https://nutritionfacts.org/topics/thyroid-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more videos on iodine, see:<br/>\n<a href=\"https://nutritionfacts.org/video/pregnant-vegans-at-risk-for-iodine-deficiency-2/\">Pregnant Vegans at Risk for Iodine Deficiency</a>                                                                                    <br/>\n<a href=\"https://nutritionfacts.org/video/which-seaweed-is-most-protective-against-breast-cancer/\">Which Seaweed is Most Protective Against Breast Cancer?</a></p>\n<p>In 2021, I made a couple of new iodine videos: <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/are-vegans-at-risk-for-iodine-deficiency/\">Are Vegans at Risk for Iodine Deficiency?</a> and <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/the-healthiest-natural-source-of-iodine/\">The Healthiest Natural Source of Iodine</a>.</p>\n<p>Also check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/how-much-pus-is-there-in-milk/\" rel=\"nofollow\">How much pus is there in milk?</a>; <a href=\"https://nutritionfacts.org/blog/the-best-detox/\" rel=\"nofollow\">The Best Detox</a>; <a href=\"https://nutritionfacts.org/optimum-nutrient-recommendations/\" rel=\"nofollow\">Optimum Nutrition Recommendations</a>; <a href=\"https://nutritionfacts.org/blog/do-eden-beans-have-too-much-iodine/\" rel=\"nofollow\">Do Eden Beans Have Too Much Iodine?</a>; and<a href=\"https://nutritionfacts.org/blog/the-best-way-to-prevent-the-common-cold/\"> The Best Way to Prevent the Common Cold?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

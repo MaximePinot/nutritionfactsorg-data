@@ -1,0 +1,91 @@
+{
+  "Title": "How Tumors Use Meat to Grow: Xeno-Autoantibodies",
+  "Url": "https://nutritionfacts.org/video/how-tumors-use-meat-to-grow-xeno-autoantibodies/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/D42GJsV-2I4"
+  },
+  "UpdatedAt": "2012-12-14T12:40:08+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Cancer may use a molecule found in animal products to trick our immune system into feeding it with inflammation.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWe are now finally able to understand how tumors are able to trick our immune system to feed them with inflammation. When we’re born and grow up, we have immune cells that attack everything but us, because the ones that recognized us were eliminated. Cancer cells may be mutated, but they’re still our cells. So, how do they get the immune system’s attention?\nPresumably, any B cell that would recognize us was killed off before birth. That’s where xeno-autoantibodies come in. Xeno means foreign, as in xenophobia. Auto come from the Greek autos, meaning self—as in automobile; a self-moving vehicle, no horse required. But, how can something be both xeno and auto, foreign and self?\nThough many tumors, like breast cancer, thrive on inflammation, thrive on this low-grade immune-response, the problem for the tumor is that since it originated from normal breast tissue, it doesn’t look foreign to the immune system. So, the tumor isn’t able to evoke the response it needs and wants.\nThat’s where NeuGc can come in. “Evidence for a human-specific mechanism for diet and antibody-mediated inflammation in carcinoma [cancer] progression.” See, “Neu5Gc incorporation [by the cancer] confers a selective advantage to tumor cells that are best at accumulating Neu5Gc…” By actively accumulating this foreign meat and dairy molecule coming from our diet into the tumor, the cancer may use it to trick our immune system into producing autoimmune antibodies—anti-Neu5GC autoantibodies, which leads to the release of inflammatory compounds that enable the cancer to grow faster.\n“[T]he combination of tumor-associated Neu5Gc and [our] circulating anti-Neu5Gc autoantibodies promotes tumor growth, by inducing weak inflammation, causing infiltration of inflammatory cells and [enhancing] angiogenesis [enhanced blood flow to the tumor].” Our own tumors use what we feed on to get what they feed on.\nSo, as I talked about before, since cancer, in a sense, may be now considered an autoimmune disease, what are the dietary implications—given the fact that most animals produce this tumor promoter?\nWell, we don’t make Neu5Gc—at least we haven’t for a few million years—and, neither do plants. So, to undermine our tumor’s sneaky strategy, I guess it comes down to either cannibalism, or a plant-based diet—or both, I guess. “Importantly, these data are congruent with the decreased cancer risk associated with veganism.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Hedlund M, Padler-Karavani V, Varki NM, Varki A. Evidence for a human-specific mechanism for diet and antibody-mediated inflammation in carcinoma progression. Proc Natl Acad Sci U S A. 2008 Dec 2;105(48):18936-41.",
+      "Url": "http://www.pnas.org/content/105/48/18936.full.pdf+html"
+    },
+    {
+      "Title": "Lanier LL. A renaissance for the tumor immunosurveillance hypothesis. Nat Med. 2001 Nov;7(11):1178-80.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11689875"
+    },
+    {
+      "Title": "Prehn RT, Prehn LM.The flip side of immune surveillance: immune dependency. Immunol Rev. 2008 Apr;222:341-56.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18364013"
+    },
+    {
+      "Title": "Stewart TH, Heppner GH. Immunological enhancement of breast cancer. Parasitology. 1997;115 Suppl:S141-53.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9571699"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Pulmonary Pathology via flickr, and Ilmari Karonen via Wikimedia",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "Neu5Gc",
+      "Url": "https://nutritionfacts.org/topics/neu5gc/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p class=\"p1\"><span class=\"s1\">Make sure you see the “prequels” to this video: <a href=\"https://nutritionfacts.org/video/cancer-as-an-autoimmune-disease/\"><span class=\"s2\">Cancer as an Autoimmune Disease</span></a> and <a href=\"https://nutritionfacts.org/video/the-inflammatory-meat-molecule-neu5gc/\"><span class=\"s2\">The Inflammatory Meat Molecule Neu5Gc</span></a>. Why else might those eating plant-based diets have lower risk of all cancers combined (see <a href=\"https://nutritionfacts.org/video/epic-findings-on-lymphoma/\"><span class=\"s2\">EPIC Findings on Lymphoma</span></a>)? It could be the lack of IGF-1 (see <a href=\"https://nutritionfacts.org/video/the-answer-to-the-pritikin-puzzle/\"><span class=\"s2\">The Answer to the Pritikin Puzzle</span></a>); heme iron (see <a href=\"https://nutritionfacts.org/video/risk-associated-with-iron-supplements/\"><span class=\"s2\">Risk Associated With Iron Supplements</span></a>); inflammation (see <a href=\"https://nutritionfacts.org/video/the-leaky-gut-theory-of-why-animal-products-cause-inflammation/\"><span class=\"s2\">The Leaky Gut Theory of Why Animal Products Cause Inflammation</span></a>); viruses (see <a href=\"https://nutritionfacts.org/video/carcinogenic-retrovirus-found-in-eggs/\"><span class=\"s2\">Carcinogenic Retrovirus Found in Eggs</span></a>); antibiotics (see <a href=\"https://nutritionfacts.org/video/chicken-dioxins-viruses-or-antibiotics/\"><span class=\"s2\">Chicken Dioxins, Viruses, or Antibiotics?</span></a>); saturated fat (see <a href=\"https://nutritionfacts.org/video/breast-cancer-survival-butterfat-and-chicken/\"><span class=\"s2\">Breast Cancer Survival, Butterfat, and Chicken</span></a>); nitrosamines (see <a href=\"https://nutritionfacts.org/video/when-nitrites-go-bad/\"><span class=\"s2\">When Nitrites Go Bad</span></a>); and arachidonic acid (see <a href=\"https://nutritionfacts.org/video/inflammatory-remarks-about-arachidonic-acid/\"><span class=\"s2\">Inflammatory Remarks About Arachidonic Acid</span></a>)—all of which are associated with animal product consumption. Or, it could be the DNA repair (see <a href=\"https://nutritionfacts.org/video/kiwifruit-and-dna-repair/\"><span class=\"s2\">Kiwifruit and DNA Repair</span></a>); cellular stress defenses (see <a href=\"https://nutritionfacts.org/video/plant-based-diets-and-cellular-stress-defenses/\"><span class=\"s2\">Plant-Based Diets and Cellular Stress Defenses</span></a>); anti-inflammatory properties (see <a href=\"https://nutritionfacts.org/video/anti-inflammatory-antioxidants/\"><span class=\"s2\">Anti-Inflammatory Antioxidants</span></a>); soy (see <a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-soy/\"><span class=\"s2\">Breast Cancer Survival and Soy</span></a>); lignans (see <a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-lignan-intake/\"><span class=\"s2\">Breast Cancer Survival and Lignan Intake</span></a>); phytonutrients (see <a href=\"https://nutritionfacts.org/video/broccoli-versus-breast-cancer-stem-cells/\"><span class=\"s2\">Broccoli Versus Breast Cancer Stem Cells</span></a>); and fiber (see <a href=\"https://nutritionfacts.org/video/relieving-yourself-of-excess-estrogen/\"><span class=\"s2\">Relieving Yourself of Excess Estrogen</span></a>)—all of which are associated with healthy plant food consumption.</span></p>\n<p class=\"p1\"><span class=\"s1\">For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2013/05/14/how-tumors-use-meat-to-grow/\"><span class=\"s2\">How Tumors Use Meat to Grow</span></a>; <a href=\"https://nutritionfacts.org/2013/08/27/want-to-help-prevent-parkinsons-disease-avoid-this/\"><span class=\"s2\">Avoiding Dairy to Prevent Parkinson’s</span></a>; and <a href=\"https://nutritionfacts.org/2013/10/17/flaxseeds-breast-cancer-survival/\"><span class=\"s2\">Flax and Breast Cancer Survival</span></a>.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

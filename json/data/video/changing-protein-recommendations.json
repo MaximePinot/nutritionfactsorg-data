@@ -1,0 +1,47 @@
+{
+  "Title": "Changing Protein Recommendations?",
+  "Url": "https://nutritionfacts.org/video/changing-protein-recommendations/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/xN1iUr07Wdk"
+  },
+  "UpdatedAt": "2012-11-13T12:24:08+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A research group is suggesting that human protein requirements may have been underestimated.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAs I’ve talked about before, to help keep cancer-promoting growth factors (like IGF-1) in check, we need to maintain an adequate, but non-excessive, protein intake. I’ve talked about what was excessive—but what’s adequate?\nWe used to think that the average person needed about .3 grams of protein per healthy pound of body weight—or, for those metrically minded, .66 grams per kilogram. So it was easy; you divide your ideal weight in pounds by three, and that’s how many grams of protein most people should average in a day—the so-called EAR, or estimated average requirement. But, to be on the safe side, they recommended closer to .4 per pound for the RDA.\nWell, recently, a group of researchers published a paper arguing that there may be fundamental flaws in the ways protein requirements have been calculated in the past, based on some faulty assumptions.\nTaking that into account, the new recommendations from this group, based on this preliminary evidence, would be about 25% higher. They think most people now probably need about .4 grams per pound, and so, to be on the safe side, shoot for .5. Well, at least that would make it easy to calculate; that would be half of our ideal weight in grams of protein per day—or about 1 to 1.2 grams per kilo.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Elango R, Humayun MA, Ball RO, Pencharz PB. Evidence that protein requirements have been significantly underestimated. Curr Opin Clin Nutr Metab Care. 2010 Jan;13(1):52-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19841581"
+    },
+    {
+      "Title": "Kniskern MA, Johnston CS. Protein dietary reference intakes may be inadequate for vegetarians if low amounts of animal protein are consumed. Nutrition. 2011 Jun;27(6):727-30.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21167687"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Previously, I’ve covered protein quality (<a href=\"https://nutritionfacts.org/video/protein-intake-and-igf-1-production/\">Protein Intake &amp; IGF-1 Production</a>) and source (<a href=\"https://nutritionfacts.org/video/plant-protein-preferable/\">Plant Protein Preferable</a>). For other controversies surrounding recommended nutrient intakes, see my vitamin D video series, starting with <a href=\"https://nutritionfacts.org/video/vitamin-d-recommendations-changed/\">Vitamin D Recommendations Changed</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "Title": "How Much Longer Do You Live on Statins?",
+  "Url": "https://nutritionfacts.org/video/how-much-longer-do-you-live-on-statins/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/P0PwwvuSU_Y"
+  },
+  "UpdatedAt": "2021-08-30T11:50:54+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 54",
+    "Url": "https://nutritionfacts.org/volumes/volume-54/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the pros and cons of relative risk versus absolute risk versus number-needed-to-treat versus average postponement of death taking cholesterol-lowering statin drugs?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn response to the charge that describing the benefits of statin drugs only in terms of relative risk reduction is a statistical deception created to give the appearance that statins are more effective than they really are, it was pointed out that the problem with describing things in terms of absolute risk reduction, or number needed to treat, is that they can depend on the duration of the study. For example, say there’s some disease that has a two percent chance of killing you every year, but there’s some drug that cuts your risk 50 percent. That sounds amazing, but then you realize that at the end of a year, your risk will only have fallen from two percent down to one percent, so the absolute reduction of your risk is only one percent. If 100 people were treated with the drug, instead of two people dying, one person would die; so, you’d have to treat 100 people to save one life, and so there’s like a 99 percent chance that taking the drug all year will have no effect on you either way. So, to say the drug cuts your risk of dying by 50 percent seems like you’re overstating things. But think about it; the benefits accrue over time. If you have a two percent chance of dying every year, year after year, after a few decades, the majority of those who refused the drug would be dead, whereas the majority who took the drug would be alive. So, yeah maybe in the first year you took it, there was only like a one percent chance it would save your life, but eventually you could end up with a decent chance the drug would save your life after all.\nThis is the very reason why using relative risk makes sense. Absolute risk changes depending on the time frame you’re talking about, but with relative risk, you know that whatever risk you have, you can cut that risk in half taking the drug. Now statins only cut your risk 25 percent, but since cardiovascular disease is the number one killer of men and women, if you’re unwilling to change your diet, that’s a powerful argument in favor of these kinds of drugs. You can see the same kind of dependency on trial duration looking at the “postponement of death by statin use.” How much longer do you get to live if you take statins?\n“The average postponement of [death has some]… advantages over [other statistics because it may offer] a better intuitive understanding among [the general public],” whereas a stat like number needed to treat has more of a win-or-lose lottery-like quality. So, when a statin drug prevents like one heart attack out of a hundred people treated over five years, it’s not like the other 99 completely lost out. Their cholesterol dropped too, and their heart disease progression also presumably slowed down––just not enough to catch a heart attack within that narrow time frame.\nSo, what’s the effect of statins on average survival? According to an early estimate, if you put all the randomized trials together, the average postponement of death was calculated at maybe three or four days. What? Who would take a drug every day for years just to live a few days longer? Okay, well first, let’s try to put that in context. Three or four days is actually comparable to the gains in life expectancy from other medical interventions.\nFor example, it’s nearly identical to what you’d get from “highly effective childhood vaccines.” Because vaccines have been so effective in wiping out infectious diseases, these days they only add an average of three extra days to a child’s life. But of course, if your child is the rare life that gets saved, they gain an entire lifetime—that’s why we vaccinate. It just seems like such a small average benefit, because it gets distributed over the many millions of kids who get the vaccine. Is that the same with statins?\nAn updated estimate was published in 2019, which explained that the prior estimate of three or four days was plagued by “important weaknesses,” and the actual average postponement of death was actually ten whole days. Headline writers went giddy from these data, but what they didn’t understand is that this was only for the duration of the trial. So, if your life expectancy is only five years, then yes, statins may only increase your lifespan by 10 days, but statins are meant to be taken a lot longer than that. What you want to know is how much longer you get to live if you stick with the drugs your whole life.\nAnd, in that case, it’s not living 10 extra days, but living up to 10 extra years. Taking statins can enable you to live years longer. That’s because for every millimole per liter you drop your bad LDL cholesterol, you may live three years longer––maybe even six years longer, depending on which study you’re reading. A millimole in U.S. units is 39 points. Drop your LDL cholesterol about 39 points, and you could live years longer. Exercise your whole life, and you may only increase your lifespan by six months, stopping smoking may net you nine months, but drop your LDL cholesterol about 39 points, and you could live years longer. You can accomplish that by taking drugs or achieve that within just two weeks of eating a diet packed with fruits, vegetables, and nuts.\nWant to know what’s better than drugs? “[S]omething important and fundamental has been lost in the controversy [about] this broad expansion of statin therapy… It is imperative that [patients be informed by their physicians (and hey, what about] drug labels too)… that not only their [cholesterol] levels but also their cardiovascular risk can be reduced substantially by adoption of a plant-based dietary pattern, and without drugs.” In fact, “dietary modifications for cardiovascular risk reduction, including plant-based diets, have been shown to improve… [cholesterol] status [as well as] obesity, hypertension, systemic inflammation, [and on and on].” “The importance of this [plant-based] approach is magnified when one considers that, in contrast to statins, the ‘side effects’ . . .—weight loss, more energy, and improved quality of life—are beneficial.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Barrett B, Ricco J, Wallace M, Kiefer D, Rakel D. Communicating statin evidence to support shared decision-making. BMC Fam Pract. 2016;17:41.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27048421/"
+    },
+    {
+      "Title": "Chang SC, Wang M, Beckerman JG, Sanz M, Gluckman TJ, Grunkemeier GL. A method to estimate the mean lifetime survival increase of statin therapy. Future Cardiol. 2016;12(5):539-44.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27539057/"
+    },
+    {
+      "Title": "Diamond DM, Ravnskov U. How statistical deception created the appearance that statins are safe and effective in primary and secondary prevention of cardiovascular disease. Expert Rev Clin Pharmacol. 2015;8(2):201-10.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25672965/"
+    },
+    {
+      "Title": "Ferenci T. Absolute risk reduction may depend on the duration of the follow-up. Expert Rev Clin Pharmacol. 2017;10(12):1409-10.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26524403/"
+    },
+    {
+      "Title": "Hansen MR, Hróbjartsson A, Pottegård A, et al. Postponement of Death by Statin Use: a Systematic Review and Meta-analysis of Randomized Clinical Trials. J Gen Intern Med. 2019;34(8):1607-14.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31073857/"
+    },
+    {
+      "Title": "Jenkins DJ, Kendall CW, Popovich DG, et al. Effect of a very-high-fiber vegetable, fruit, and nut diet on serum lipids and colonic function. Metabolism. 2001;50(4):494-503.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11288049/"
+    },
+    {
+      "Title": "Kristensen ML, Christensen PM, Hallas J. The effect of statins on average survival in randomised trials, an analysis of end point postponement. BMJ Open. 2015;5(9):e007118.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26408281/"
+    },
+    {
+      "Title": "Pippin JJ. Primary prevention cardiovascular disease: better than drugs. Arch Intern Med. 2010;170(20):1860-1.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21059984/"
+    },
+    {
+      "Title": "Winter G. Is statin use a waste of time and money? The Irish Times. May 15, 2018.",
+      "Url": "https://www.irishtimes.com/life-and-style/health-family/is-statin-use-a-waste-of-time-and-money-1.3486799"
+    },
+    {
+      "Title": "Wright JC, Weinstein MC. Gains in life expectancy from medical interventions—standardizing data on outcomes. N Engl J Med. 1998;339(6):380-6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9691106/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "statins",
+      "Url": "https://nutritionfacts.org/topics/statins/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the last in my four-part series on statins. If you missed any installments, check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/who-should-take-statins/\">Who Should Take Statins?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-doctors-misleading-patients-about-statin-risks-and-benefits/\">Are Doctors Misleading Patients About Statin Risks and Benefits?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-true-benefits-vs-side-effects-of-statins/\">The True Benefits vs. Side Effects of Statins</a></li>\n</ul>\n<p>I previously produced a related series on stents, including:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/do-angioplasty-heart-stent-procedures-work/\">Do Angioplasty Heart Stent Procedures Work?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-angioplasty-heart-stents-dont-work-better/\">Why Angioplasty Heart Stents Don’t Work Better</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-risks-of-heart-stents/\">The Risks of Heart Stents</a></li>\n<li><a href=\"https://nutritionfacts.org/video/angioplasty-heart-stent-risks-vs-benefits/\">Angioplasty Heart Stent Risks vs. Benefits</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-heart-stent-procedures-work-for-angina-chest-pain/\">Do Heart Stent Procedures Work for Angina Chest Pain?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-are-stents-still-used-if-they-dont-work/\">Why Are Stents Still Used If They Don’t Work?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/heart-stents-and-upcoding-how-cardiologists-game-the-system/\">Heart Stents and Upcoding: How Cardiologists Game the System</a></li>\n</ul>\n<p>All of these videos are available in a digital download of a webinar I did last year, which also includes the stent series. You can <a href=\"https://drgreger.org/collections/videos/products/how-effective-are-statins-and-stents-digital\">find it here</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

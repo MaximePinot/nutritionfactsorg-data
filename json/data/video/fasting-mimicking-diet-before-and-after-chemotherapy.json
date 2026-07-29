@@ -1,0 +1,147 @@
+{
+  "Title": "Fasting-Mimicking Diet Before and After Chemotherapy",
+  "Url": "https://nutritionfacts.org/video/fasting-mimicking-diet-before-and-after-chemotherapy/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/0Z_Y0Zn6nLE"
+  },
+  "UpdatedAt": "2022-09-28T11:50:26+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 59",
+    "Url": "https://nutritionfacts.org/volumes/volume-59/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How might we replicate the protective effects of fasting with food?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nShort-term food withdrawal during chemotherapy may begin to solve the long-standing problem with most cancer treatments: how to kill the tumor without killing the patient. Short-term fasting––for example, for 48 hours before chemo and 24 hours afterwards––may reduce side effects, reduce chemotherapy-induced toxicity. However, the potential tumor-suppressing effects of fasting, for example, its influence on tumor growth, metastasis, and prognosis, have not been evaluated, until now. No, actually, sadly they mean “have not been evaluated-until-now,” meaning have not been evaluated yet, period. So, in answering the question, “To fast, or not to fast before chemotherapy?,” “It should be emphasized that the evidence provided by human studies is still very limited.”\nSome argue that reducing the side effects alone could improve efficacy, since patients could withstand higher doses. For example, the heart and kidney damage associated with the widely prescribed anti-cancer drugs limit their full therapeutic potential. It’s not clear, though that maximizing the tolerated chemo dose would achieve longer survival or better quality of life. For now, I think we should just be satisfied with the fewer side effects for fewer side effects sake.\nSome cancer docs urge caution, concerned about malnutrition. That concern is echoed in official guidelines on nutrition in cancer patients. Because of the risks of malnutrition and yeah, maybe a day or two might not hurt. But because patients might be tempted to prolong fasting episodes, without ﬁrm evidence of a beneﬁt, they feel fasting during chemotherapy cannot be recommended.\nFasting proponents agree that patients with severe weight loss, muscle wasting, or malnutrition are probably not good candidates for even short-term fasting. But out of the hundreds of patients that have been tracked, there is no evidence of severe adverse events in terms of malnutrition or weight loss with short-term fasting or fasting-mimicking diets. And those patients who did experience a weight loss during fasting typically recovered their weight before the subsequent cycle of chemo without detectable harm. \nBut look, even if there is a risk, we’re talking about cancer here. Accepting trade-offs is kind of the name of the game. People are willing to put up with the risk of severe and even life-threatening side effects all the time, and even if it just helped alleviate some of the side effects, it might be worth a try.\nOf course, meanwhile Big Pharma is busy trying to come up with drugs aimed at reproducing the beneficial effects of fasting. Although fasting-mimicking drugs may be preferred by patients who would rather pop a pill than go without eating, it will be years before they’ll ever be on the market, and it’s hard to imagine drugs will be developed that are both as effective and as safe as fasting. So, is there anything we can tweak in our diet to get similar benefits without having to fast?\nThe way fasting works is by reducing the levels of a cancer-promoting growth hormone known as insulin-like growth factor 1. It’s the reduced levels of IGF-1 that mediate the differential protection of normal and cancer cells in response to fasting and improves chemo’s ability to kill cancer but spare normal cells. How do we know this? Because restoration of IGF-1 was sufficient to reverse the protective effect of fasting. Check it out. Here is the growth of two cancer cell lines—breast cancer and melanoma—in a petri dish after being exposed to chemotherapy. Survival rates dropped down into the 60s or even 20s. But the same dose in starved cells works even better. Same dose, same starvation, but drip back a little IGF-1 and the starvation benefit vanishes.\nSo, reducing IGF-1 signaling may provide dual benefits by protecting normal tissues while reducing tumor progression, and may even help prevent the cancer in the first place. As I explained before in my How Not To Die from Cancer video, and an important video about animal protein, which kind of gives away the punch line, fasting isn’t the only way to drop IGF-1 levels. Yes, a few days of fasting can cut levels in half, but that’s largely because you’re cutting your protein intake. Protein is a key determinant of circulating IGF-1 levels in humans––suggesting that reduced protein intake may become an important component of anticancer and antiaging dietary interventions, particularly a reduction in animal protein. \nIf you compare those eating strictly plant-based diets getting about the recommended daily intake of protein, .8 grams per kg of body weight, and compare them to people just as slender but eating more typical American protein intake, going on a calorie-restricted diet may lower IGF-1 a little, but eating a plant-based diet can lower it more. So, not only may a diet centered around whole plant foods down-regulate IGF-1 activity, potentially slowing the aging process, but it may be a way of turning anti-aging genes against cancer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Arends J, Bachmann P, Baracos V, et al. ESPEN guidelines on nutrition in cancer patients. Clin Nutr. 2017;36(1):11-48.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27637832"
+    },
+    {
+      "Title": "Caccialanza R, Aprile G, Cereda E, Pedrazzoli P. Fasting in oncology: a word of caution. Nat Rev Cancer. 2019;19(3):177.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30651606"
+    },
+    {
+      "Title": "Caccialanza R, Cereda E, De Lorenzo F, Farina G, Pedrazzoli P, AIOM-SINPE-FAVO Working Group. To fast, or not to fast before chemotherapy, that is the question. BMC Cancer. 2018;18(1):337.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29587670/"
+    },
+    {
+      "Title": "Caini S, Masala G, Gnagnarella P, et al. Food of animal origin and risk of non-Hodgkin lymphoma and multiple myeloma: A review of the literature and meta-analysis. Crit Rev Oncol Hematol. 2016;100:16-24.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26921971"
+    },
+    {
+      "Title": "Di Biase S, Longo VD. Fasting-induced differential stress sensitization in cancer treatment. Mol Cell Oncol. 2016;3(3):e1117701.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27314084"
+    },
+    {
+      "Title": "Fontana L, Weiss EP, Villareal DT, Klein S, Holloszy JO. Long-term effects of calorie or protein restriction on serum IGF-1 and IGFBP-3 concentration in humans. Aging Cell. 2008;7(5):681-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18843793"
+    },
+    {
+      "Title": "Haines I. The war on cancer: time for a new terminology. Lancet. 2014;383(9932):1883.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24881984"
+    },
+    {
+      "Title": "Lee C, Longo VD. Fasting vs dietary restriction in cellular protection and cancer treatment: from model organisms to patients. Oncogene. 2011;30(30):3305-3316.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21516129"
+    },
+    {
+      "Title": "Lee C, Raffaghello L, Brandhorst S, et al. Fasting cycles retard growth of tumors and sensitize a range of cancer cell types to chemotherapy. Sci Transl Med. 2012;4(124):124ra27.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22323820"
+    },
+    {
+      "Title": "Lee C, Safdie FM, Raffaghello L, et al. Reduced levels of IGF-I mediate differential protection of normal and cancer cells in response to fasting and improve chemotherapeutic index. Cancer Res. 2010;70(4):1564-72.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20145127/"
+    },
+    {
+      "Title": "Longo VD, Lieber MR, Vijg J. Turning anti-ageing genes against cancer. Nat Rev Mol Cell Biol. 2008;9(11):903-10.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18946478"
+    },
+    {
+      "Title": "Longo VD, Mattson MP. Fasting: molecular mechanisms and clinical applications. Cell Metab. 2014;19(2):181-92.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24440038"
+    },
+    {
+      "Title": "McCarty MF. A low-fat, whole-food vegan diet, as well as other strategies that down-regulate IGF-I activity, may slow the human aging process. Med Hypotheses. 2003;60(6):784-92.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12699704"
+    },
+    {
+      "Title": "Nencioni A, Caffa I, Cortellino S, Longo VD. Fasting and cancer: molecular mechanisms and clinical application. Nat Rev Cancer. 2018;18(11):707-19.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30327499"
+    },
+    {
+      "Title": "Nencioni A, Caffa I, Cortellino S, Longo VD. Reply to ‘Fasting in oncology: a word of caution’. Nat Rev Cancer. 2019 Mar;19(3):178. doi: 10.1038/s41568-018-0100-x. PMID: 30651605",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30651605/"
+    },
+    {
+      "Title": "Safdie FM, Dorff T, Quinn D, et al. Fasting and cancer treatment in humans: a case series report. Aging (Albany NY). 2009;1(12):988-1007.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20157582"
+    },
+    {
+      "Title": "Scrable H. Impersonalized medicine. Sci Transl Med. 2012;4(124):124ps6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22399263/"
+    },
+    {
+      "Title": "Sun L, Li Y-J, Yang X, Gao L, Yi C. Effect of fasting therapy in chemotherapy-protection and tumor-suppression: a systematic review. Transl Cancer Res. 2017;6(2):354-65.",
+      "Url": "http://tcr.amegroups.com/article/view/12654"
+    },
+    {
+      "Title": "Thissen JP, Ketelslegers JM, Underwood LE. Nutritional regulation of the insulin-like growth factors. Endocr Rev. 1994;15(1):80-101.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8156941"
+    },
+    {
+      "Title": "de Groot S, Pijl H, van der Hoeven JJM, Kroep JR. Effects of short-term fasting on cancer treatment. J Exp Clin Cancer Res. 2019;38(1):209.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31113478"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "fasting",
+      "Url": "https://nutritionfacts.org/topics/fasting/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "melanoma",
+      "Url": "https://nutritionfacts.org/topics/melanoma/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the final video in my four-part series on fasting and cancer. If you missed any of the others, check out: </span></p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/fasting-for-cancer-what-about-cachexia/\"><span style=\"font-weight: 400\">Fasting for Cancer: What About Cachexia?</span></a><span style=\"font-weight: 400\"> </span></li>\n<li><a href=\"https://nutritionfacts.org/video/fasting-before-and-after-chemotherapy-and-radiation/\"><span style=\"font-weight: 400\">Fasting Before and After Chemotherapy and Radiation</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/fasting-before-and-after-chemotherapy-put-to-the-test/\"><span style=\"font-weight: 400\">Fasting Before and After Chemotherapy Put to the Test</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">I previously introduced the fasting-mimicking diet in </span><a style=\"background-color: #ffffff;font-size: 1rem\" href=\"https://nutritionfacts.org/video/the-5-2-diet-and-the-fasting-mimicking-diet-put-to-the-test/\">The 5-2 Diet and the Fasting-Mimicking Diet Put to the Test</a><span style=\"font-weight: 400\">.</span><br/>\n<b></b></p>\n<p><span style=\"font-weight: 400\">In this video, I also mentioned my videos </span><a href=\"https://nutritionfacts.org/video/how-not-to-die-from-cancer/\"><span style=\"font-weight: 400\">How Not to Die from Cancer</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/animal-protein-compared-cigarette-smoking/\"><span style=\"font-weight: 400\">Animal Protein Compared to Cigarette Smoking</span></a><span style=\"font-weight: 400\">.</span></p>\n<p>2023 Update: I have two new videos you might be interested in – <a href=\"https://nutritionfacts.org/video/a-case-of-stage-3-cancer-reversal-with-fasting/\">A Case of Stage 3 Cancer Reversal with Fasting</a> and <a href=\"https://nutritionfacts.org/video/spontaneous-regression-of-cancer-with-fasting/\">Spontaneous Regression of Cancer with Fasting</a>. </p>\n<p><span style=\"font-weight: 400\">All of my videos on fasting can be found on this </span><a href=\"https://nutritionfacts.org/topics/fasting/\"><span style=\"font-weight: 400\">topic page</span></a><span style=\"font-weight: 400\">, or in the recordings of the </span><a href=\"https://drgreger.org/collections/videos/products/fasting-bundle-digital\"><span style=\"font-weight: 400\">fasting webinar series</span></a><span style=\"font-weight: 400\"> from 2019.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

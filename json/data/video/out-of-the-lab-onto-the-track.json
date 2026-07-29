@@ -1,0 +1,103 @@
+{
+  "Title": "Out of the Lab Onto the Track",
+  "Url": "https://nutritionfacts.org/video/out-of-the-lab-onto-the-track/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/lGNHfMvI8dk"
+  },
+  "UpdatedAt": "2012-02-16T13:00:44+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Randomized, double-blind, placebo-controlled, crossover studies convinced the scientific establishment that nitrate-rich vegetables (such as beets) could noticeably improve athletic performance.",
+  "Transcript": "The scientific world could simply not believe that beets could significantly, noticeably improve athletic performance by enhancing energy production at the subcellular level. So, the same type of study was repeated over and over and over in different labs.\nForget the labs—what about out on the race track? Chugged two cups of beet juice, and off they went. Randomized, double blind, crossover, placebo-controlled study; nobody knew who was drinking what going into it—beet juice versus de-nitrated beet juice. And the most striking finding was a significant improvement in 4K and 16 K competitive cycling time trial performance, after the ingestion of a single half-liter beetroot beverage, with all nine individuals completing both distances faster after beetroot supplementation.\nAnd once the researchers were actually able to take muscle biopsies from people before and after, and finally provide proof that mitochondrial efficiency (human energy production) could be improved, they finally won over the scientific establishment. A toast to health and performance.\nThe media echoed the praise… complete with even more atrocious puns.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by MaryAnn Allison.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bailey SJ, Fulford J, Vanhatalo A, Winyard PG, Blackwell JR, DiMenna FJ, Wilkerson DP, Benjamin N, Jones AM. Dietary nitrate supplementation enhances muscle contractile efficiency during knee-extensor exercise in humans. J Appl Physiol. 2010 Jul;109(1):135-48. Epub 2010 May 13.",
+      "Url": "http://jap.physiology.org/content/109/1/135.full.pdf+html"
+    },
+    {
+      "Title": "Ferreira LF, Behnke BJ. A toast to health and performance! Beetroot juice lowers blood pressure and the O2 cost of exercise. J Appl Physiol. 2011 Mar;110(3):585-6. Epub 2010 Dec 23.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21183624"
+    },
+    {
+      "Title": "Lansley KE, Winyard PG, Bailey SJ, Vanhatalo A, Wilkerson DP, Blackwell JR, Gilchrist M, Benjamin N, Jones AM. Acute dietary nitrate supplementation improves cycling time trial performance. Med Sci Sports Exerc. 2011 Jun;43(6):1125-31.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21471821"
+    },
+    {
+      "Title": "Lansley KE, Winyard PG, Fulford J, Vanhatalo A, Bailey SJ, Blackwell JR, DiMenna FJ, Gilchrist M, Benjamin N, Jones AM. Dietary nitrate supplementation reduces the O2 cost of walking and running: a placebo-controlled study. J Appl Physiol. 2011 Mar;110(3):591-600. Epub 2010 Nov 11.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21071588"
+    },
+    {
+      "Title": "Larsen FJ, Schiffer TA, Borniquel S, Sahlin K, Ekblom B, Lundberg JO, Weitzberg E. Dietary inorganic nitrate improves mitochondrial efficiency in humans. Cell Metab. 2011 Feb 2;13(2):149-59.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21284982"
+    },
+    {
+      "Title": "Larsen FJ, Weitzberg E, Lundberg JO, Ekblom B. Dietary nitrate reduces maximal oxygen consumption while maintaining work performance in maximal exercise. Free Radic Biol Med. 2010 Jan 15;48(2):342-7. Epub 2009 Nov 12.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19913611"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Richard Masoner via flickr. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "athletes",
+      "Url": "https://nutritionfacts.org/topics/athletes/"
+    },
+    {
+      "Title": "beet juice",
+      "Url": "https://nutritionfacts.org/topics/beet-juice/"
+    },
+    {
+      "Title": "beets",
+      "Url": "https://nutritionfacts.org/topics/beets/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "energy",
+      "Url": "https://nutritionfacts.org/topics/energy/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "juice",
+      "Url": "https://nutritionfacts.org/topics/juice/"
+    },
+    {
+      "Title": "metabolism",
+      "Url": "https://nutritionfacts.org/topics/metabolism/"
+    },
+    {
+      "Title": "mitochondria",
+      "Url": "https://nutritionfacts.org/topics/mitochondria/"
+    },
+    {
+      "Title": "muscle health",
+      "Url": "https://nutritionfacts.org/topics/muscle-health/"
+    },
+    {
+      "Title": "muscle strength",
+      "Url": "https://nutritionfacts.org/topics/muscle-strength/"
+    },
+    {
+      "Title": "sports medicine",
+      "Url": "https://nutritionfacts.org/topics/sports-medicine/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For an explanation of this boost in the mitochondrial efficiency of human energy extraction, see <a href=\"https://nutritionfacts.org/video/priming-the-proton-pump/\" rel=\"nofollow\">Priming the Proton Pump</a>, the second in my video series on the performance-enhancing effects of vegetables. What might be the potential downsides of doping with beets, or other nitrite-containing vegetables? Stay tuned for <a href=\"https://nutritionfacts.org/video/asparagus-pee/\">Asparagus Pee</a>.</p>\n<p>For more context, check out my associated blog post, <a href=\"https://nutritionfacts.org/2012/03/22/using-greens-to-improve-athletic-performance/\" rel=\"nofollow\"> Using Greens to Improve Athletic Performance</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

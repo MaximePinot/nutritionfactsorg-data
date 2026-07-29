@@ -1,0 +1,155 @@
+{
+  "Title": "The Optimal Vitamin B12 Dosage for Adults",
+  "Url": "https://nutritionfacts.org/video/the-optimal-vitamin-B12-dosage-for-adults/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/wY4vEBilWN4"
+  },
+  "UpdatedAt": "2020-10-26T11:50:50+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 51",
+    "Url": "https://nutritionfacts.org/volumes/volume-51/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Why the current Recommended Daily Allowance for vitamin B12 may be insufficient.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nCompared to non-vegetarians, those removing meat from their diets tend to have healthier body weights, cholesterol, blood sugars, and blood pressures, with a lower mortality rate due to ischemic heart disease, the #1 killer of men and women. However, underestimating the importance of correct supplementation of vitamin B12 can nullify these beneﬁts. Currently, the ofﬁcial position of associations and governmental agencies is categorical and unequivocal: in the case of a vegetarian diet, even if you eat eggs and dairy—and, in fact, I would extend that to flexitarians eating a few servings of meat a week—supplementation of vitamin B12 is required.\nNow, it’s not just those eating plant-based that should be concerned about getting enough B12. About one in three nonvegetarians aren’t getting enough for optimal health, and that may exceed half in women, especially when they’re pregnant. But this number could run as high as nearly 9 out of 10 among those eating strictly plant-based, and 10 out of 10 doing it long-term.\nThere are three groups of people who should ensure they have a regular, reliable source of vitamin B12 by supplementing their diet with vitamin B12-fortified foods or B12 supplements: those who’ve had bariatric surgery (which can sometimes impair absorption), those eating plant-based diets, and the more than a hundred million Americans older than age 50.\nWhy can’t you get regularly tested for signs of functional B12 deficiency, like getting your homocysteine or methylmalonic acid (MMA) level tested? Though those are nearly always elevated in cases of B12 deficiency, there are rare cases of severe B12 deficiency manifesting with normal B12 levels in the blood, normal MMA levels, and normal homocysteine. How do we know it was B12 deficiency? Because within months of B12 treatment, they made a remarkable recovery. So, best to just take it and not wait for symptoms to arise. The question is: how much, and how often?\nSome recommend a single dose of 50 to 100 micrograms a day or a thousand micrograms twice a week. Others suggest 50 to 150 micrograms a day. Some even recommend 500 micrograms a day. It all depends on the target levels you want in your body. For those with normal absorption capacity, meaning being under age 50 with an intact gastrointestinal system and without diseases like pernicious anemia, we normally lose about one microgram of vitamin B12 a day; so, that’s how much we have to replace, on average, every day. So, why is the Recommended Daily Allowance 2.4 micrograms a day? Well, we only absorb about half of the tiny doses of the B12 we get in our diet; so, by eating 2.4, we can make sure we absorb the one microgram into our body to replace the one microgram we’re losing every day.\nTaking larger doses, like in supplement form, an even smaller fraction is absorbed. So, it might take a single oral dose of 10 micrograms to get that one microgram absorption. But just 10 a day failed to sufficiently lower homocysteine levels to under 10 even after a year; so, maybe we need to absorb more than that 1.6 micrograms every day for optimal health. The current RDA is primarily based on a 1958 study that just looked at a small number of patients, and only measured their blood counts. Absorbing one microgram a day may be enough to maintain blood cell production, but may not be sufficient for all the other things that vitamin B12 does.\n“Based on the data of several vitamin B12 status biomarkers studies,” maybe the recommended intake for most adults should be raised to more like four, which is what you see for example in Europe, suggesting they want people to absorb at least two into their body every day. In that case you’d need to take more than 50 a day. And, now we have data suggesting getting seven a day may be even better. So, if you wanted to absorb 3.5 micrograms, half of the intake that may optimize functional B12 status, how much would you need to take in a single daily dose? This chart isn’t granular enough, but there’s a formula you can use to calculate it. U stands for uptake––absorption into your body––and D is your single daily dose. To absorb 3.5, you’d theoretically need to take a single daily dose of about 225, which I round in my recommendations to 250 a day.\nNow, that’s just one of three methods you can use. A simpler and cheaper way is to take a single dose a week. If you want 3.5 in you a day, then you’d want to get at least 24.5 in you in a week. To get that in a single dose you’d have to theoretically take about 2,600, which I round in my recommendations to 2,500. Okay, but that’s theoretical. Maybe you need even more? On the contrary, a new study showed you can get away with even less. Just 50 a day (not 250, or 2,000 once a week, not 2,500) reliably bought blood levels up, and more importantly, normalized methylmalonic acid and homocysteine levels within a matter of months. So, based on this new study, I dropped my supplement recommendations down to that 50 a day or 2000 a week.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Berlin H, Berlin R, Brante G. Oral treatment of pernicious anemia with high doses of vitamin B12 without intrinsic factor. Acta Med Scand. 1968;184(4):247-58.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/5751528"
+    },
+    {
+      "Title": "Bor MV, Von castel-roberts KM, Kauwell GP, et al. Daily intake of 4 to 7 microg dietary vitamin B-12 is associated with steady concentrations of vitamin B-12-related biomarkers in a healthy young population. Am J Clin Nutr. 2010;91(3):571-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20071646"
+    },
+    {
+      "Title": "Carmel R. How I treat cobalamin (vitamin B12) deficiency. Blood. 2008;112(6):2214-21.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18606874"
+    },
+    {
+      "Title": "Darby WJ, Bridgforth EB, Le brocquy J, et al. Vitamin B12 requirement of adult man. Am J Med. 1958;25(5):726-32.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/13582982"
+    },
+    {
+      "Title": "Del bo' C, Riso P, Gardana C, Brusamolino A, Battezzati A, Ciappellano S. Effect of two different sublingual dosages of vitamin B on cobalamin nutritional status in vegans and vegetarians with a marginal deficiency: A randomized controlled trial. Clin Nutr. 2019;38(2):575-583.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29499976"
+    },
+    {
+      "Title": "Deshmukh US, Joglekar CV, Lubree HG, et al. Effect of physiological doses of oral vitamin B12 on plasma homocysteine: a randomized, placebo-controlled, double-blind trial in India. Eur J Clin Nutr. 2010;64(5):495-502.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20216560"
+    },
+    {
+      "Title": "EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies), 2015. Scientific Opinion on Dietary Reference Values for cobalamin (vitamin B12). EFSA Journal 2015; 13( 7):4150, 64 pp.",
+      "Url": "https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2015.4150"
+    },
+    {
+      "Title": "Graber JJ, Sherman FT, Kaufmann H, Kolodny EH, Sathe S. Vitamin B12-responsive severe leukoencephalopathy and autonomic dysfunction in a patient with \"normal\" serum B12 levels. J Neurol Neurosurg Psychiatry. 2010;81(12):1369-71.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20587489"
+    },
+    {
+      "Title": "Langan RC, Goodbred AJ. Vitamin B12 Deficiency: Recognition and Management. Am Fam Physician. 2017;96(6):384-389.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28925645"
+    },
+    {
+      "Title": "Obeid R, Herrmann W. Vitamin B12 supplementation, how much, how often, how long? In: Herrmann W, Obeid R, eds. Vitamins in the Prevention of Human Diseases. Walter de Gruyter; 2011. 7-39.",
+      "Url": "https://www.worldcat.org/title/vitamins-in-the-prevention-of-human-diseases/oclc/779679759&referer=brief_results"
+    },
+    {
+      "Title": "Pentieva, K., Hughes, C., Askin, N., Hoey, L., Molloy, A., Scott, J., & McNulty, H. (2012). An intervention trial to determine the response of vitamin B12 biomarkers to chronic supplementation with low dose vitamin B12 after folate repletion. Proceedings of the Nutrition Society, 71(OCE2), E138.",
+      "Url": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/an-intervention-trial-to-determine-the-response-of-vitamin-b12-biomarkers-to-chronic-supplementation-with-low-dose-vitamin-b12-after-folate-repletion/152300BB0A92883D7FD09C550294EF28"
+    },
+    {
+      "Title": "Rizzo G, Laganà AS, Rapisarda AM, et al. Vitamin B12 among Vegetarians: Status, Assessment and Supplementation. Nutrients. 2016;8(12)",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27916823"
+    },
+    {
+      "Title": "Smith AD, Warren MJ, Refsum H. Vitamin B. Adv Food Nutr Res. 2018;83:215-279.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29477223"
+    },
+    {
+      "Title": "Ströhle A, Richter M, González-gross M, et al. The Revised D-A-CH-Reference Values for the Intake of Vitamin B : Prevention of Deficiency and Beyond. Mol Nutr Food Res. 2019;63(6):e1801178.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30657638"
+    },
+    {
+      "Title": "Sukumar N, Saravanan P. Investigating vitamin B12 deficiency. BMJ. 2019;365:l1865.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31076395"
+    },
+    {
+      "Title": "Waldmann A, Koschizke JW, Leitzmann C, Hahn A. German vegan study: diet, life-style factors, and cardiovascular risk profile. Ann Nutr Metab. 2005;49(6):366-72.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16219987"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "homocysteine",
+      "Url": "https://nutritionfacts.org/topics/homocysteine/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the second in a five-part video series on B12. Stay tuned for:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-healthiest-food-sources-of-vitamin-b12/\">Healthiest Food Sources of Vitamin B12</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-optimal-vitamin-b12-dosage-for-kids-pregnancy-and-seniors/\">The Optimal Vitamin B12 Dosage for Kids, Pregnancy, and Seniors</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-type-of-vitamin-b12-cyanocobalamin-or-methylcobalamin/\">The Best Type of Vitamin B12: Cyanocobalamin or Methylcobalamin?</a></li>\n</ul>\n<p>If you missed the first video, check out <a href=\"https://nutritionfacts.org/video/the-symptoms-of-vitamin-b12-deficiency/\">The Symptoms of Vitamin B12 Deficiency</a>.</p>\n<p data-pm-slice=\"1 1 []\">Check out the <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/blog/updated-vitamin-b12-recommendations-infographic/\">Updated Vitamin B12 Recommendations Infographic</a> for my latest B12 recommendations.</p>\n<p>Check out my new video series on vitamin B12:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-long-does-it-take-to-become-vitamin-b12-deficient-and-what-are-the-symptoms/\">How Long Does It Take to Become Vitamin B12 Deficient and What Are the Symptoms?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-way-to-test-for-vitamin-b12-deficiency/\">The Best Way to Test for Vitamin B12 Deficiency</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-source-of-vitamin-b12-supplements-shots-or-fortified-foods/\">The Best Source of Vitamin B12: Supplements, Shots, or Fortified Foods?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-vitamin-b12-do-we-need-each-day/\">How Much Vitamin B12 Do We Need Each Day?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-large-weekly-doses-of-vitamin-b12-safe/\">Are Large Weekly Doses of Vitamin B12 Safe?</a></li>\n</ul>\n<p>You can find all of these videos in a <a href=\"https://drgreger.org/collections/downloads/products/b12-recommendations-digital\">digital download here</a>, along with two additional videos that will be coming out in a few months.</p>\n<p>My new recommendations are updated on my <a href=\"https://nutritionfacts.org/optimum-nutrient-recommendations/\">Optimum Nutrition Recommendations</a> page.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "Title": "Meat Consumption and the Development of Type 1 Diabetes",
+  "Url": "https://nutritionfacts.org/video/meat-consumption-and-the-development-of-type-1-diabetes/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/GymmXdCDAxE"
+  },
+  "UpdatedAt": "2017-02-10T13:00:36+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 34",
+    "Url": "https://nutritionfacts.org/volumes/volume-34/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Eating meat during breastfeeding is associated with an increased risk of type 1 diabetes, perhaps a consequence of meat glycotoxins or paratuberculosis bacteria that may be passed though breast milk.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMycobacterium paratuberculosis is not just a serious problem for the global livestock industry, but may be a trigger for type 1 diabetes, given that paraTB bacteria have been found in the bloodstream of the majority of type 1 diabetics tested—presumably exposed through the retail milk supply, as they can survive pasteurization.\nBut, what about the meat supply? Mycobacterium paratuberculosis has been found in beef, pork, and chicken. It’s an intestinal bug, and unfortunately, “faecal contamination of the carcass” in the slaughter plant is simply unavoidable. And then, unless it’s cooked well-done, it “could harbor” living mycobacterium avium paratuberculosis bacteria.\nMeat-wise, “[g]round beef [may represent] the greatest potential risk for harboring” these paratuberculosis bacteria, as “a significant proportion originates from culled dairy cattle,” which may be culled because they have paratuberculosis, and go straight into the human food chain. There’s also a greater prevalence of “fecal contamination” and “lymph nodes” in ground meat, and the grinding can force the bacteria deep inside the burger. “[G]iven the weight of evidence and the severity and magnitude of potential human health problems, the precautionary principle suggests that [it’s] time to take actions to limit…human exposure to [this pathogen].” In the very least, we should stop funneling animals known to be infected into the human food supply.\nWe know that milk exposure is associated with type 1 diabetes, but what about meat?  An attempt was made to tease out the nutritional factors that could help account for the 350-fold variation in type 1 diabetes rates around the world. Why do some parts of the world have hundreds of times higher rates than others?\nYes, the more dairy populations ate, the higher their rates of type 1 diabetes. But, the same was found for meat, lending “credibility to the speculation that the increasing dietary supply of animal protein after World War II may have contributed to the…increasing incidence of type 1 diabetes.” And, there was a negative correlation, meaning a protective correlation, between the intake of grains and type 1 diabetes, which may fit within the more general context of “a lower prevalence of chronic diseases” among those eating more plant-based. And, “the increase in meat consumption over time” appeared to parallel the increasing incidence of the disease.\nNow, you always have to be really cautious about the interpretation of these country-by-country comparisons, since just because a country eats a particular way doesn’t mean that the individuals that get the disease ate that way. For example, a similar study looking specifically at the diets of children and adolescents between different countries supported the “previous research about the importance of cow’s milk and animal products in the [cause] of type 1 diabetes.”\nBut, they also found that in countries where they tended to eat the most sugar, kids tended to have lower rates of the disease. Now, this didn’t reach statistical significance, since there were so few countries, but even if it had, and even if there were other studies to back it up, there are a million factors that could be going on, right? Maybe, countries that ate the least sugar ate the most high-fructose corn syrup, or something. You’ve always got to put it to the test. If you analyze the diet of what people who actually got the disease ate, increased risk of type 1 diabetes has been associated with milk, sugar, bread, soda, egg, and meat intake.\nIn Sardinia, where the original link was made between paraTB and type 1 diabetes, a highly “statistically significant dose-response relationship” was found—meaning more meat, more risk, especially during the first two years of the child’s life. So, “[h]igh meat consumption seems to be an important early in life cofactor for type 1 diabetes development,” although we need more data.\nThe latest such study, following thousands of “mother-child pairs,” found that eating meat during breastfeeding was associated with an increased risk of both preclinical and full-blown type 1 diabetes by the time their child reached age 8. They thought it might be the glycotoxins—the AGEs found in cooked meat, which can be transferred through breastfeeding.\nBut, what can also be transferred through human breast milk are paratuberculosis bacteria, which have been grown from the breast milk of women with Crohn’s disease—another autoimmune disease linked to paratuberculosis bacteria exposure.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bannantine JP, Li L, Mwangi M, Cote R, Raygoza Garay JA, Kapur V. Complete Genome Sequence of Mycobacterium avium subsp. paratuberculosis, Isolated from Human Breast Milk. Genome Announc. 2014 Feb 6;2(1). pii: e01252-13.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24503996"
+    },
+    {
+      "Title": "Baptista FM, Nielsen SS, Toft N. Association between the presence of antibodies to Mycobacterium avium subspecies paratuberculosis and somatic cell count. J Dairy Sci. 2008 Jan;91(1):109-18. https://www.ncbi.nlm.nih.gov/pubmed/18096931",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18096931"
+    },
+    {
+      "Title": "Bitti ML, Masala S, Capasso F, Rapini N, Piccinini S, Angelini F, Pierantozzi A, Lidano R, Pietrosanti S, Paccagnini D, Sechi LA. Mycobacterium avium subsp. paratuberculosis in an Italian cohort of type 1 diabetes pediatric patients. Clin Dev Immunol. 2012;2012:785262.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22844325"
+    },
+    {
+      "Title": "Collins MT. Food safety concerns regarding paratuberculosis. Vet Clin North Am Food Anim Pract. 2011 Nov;27(3):631-6, vii-viii.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22023841"
+    },
+    {
+      "Title": "Ellingson JL, Anderson JL, Koziczkowski JJ, Radcliff RP, Sloan SJ, Allen SE, Sullivan NM. Detection of viable Mycobacterium avium subsp. paratuberculosis in retail pasteurized whole milk by two culture methods and PCR. J Food Prot. 2005 May;68(5):966-72.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15895728"
+    },
+    {
+      "Title": "Eltholth MM, Marsh VR, Van Winden S, Guitian FJ. Contamination of food products with Mycobacterium avium paratuberculosis: a systematic review. J Appl Microbiol. 2009 Oct;107(4):1061-71.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19486426"
+    },
+    {
+      "Title": "Feskens EJ, Sluik D, van Woudenbergh GJ. Meat consumption, diabetes, and its complications. Curr Diab Rep. 2013 Apr;13(2):298-306.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23354681"
+    },
+    {
+      "Title": "Gerstein HC. Cow's milk exposure and type I diabetes mellitus. A critical overview of the clinical literature. Diabetes Care. 1994 Jan;17(1):13-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8112184"
+    },
+    {
+      "Title": "Herman L, De Jonghe V, Dumon I, Grijspeerdt K, Naydenski H, D’Haese E. Clumping of Mycobacterium avium subsp. paratuberculosis in milk and feces and growth activation after milk heating. Theme 3b: Implications for Public Health Proceedings of 8ICP 2005.",
+      "Url": "http://www.paratuberculosis.info/images/stories/pdfs/153"
+    },
+    {
+      "Title": "Karvonen M, Viik-Kajander M, Moltchanova E, Libman I, LaPorte R, Tuomilehto J. Incidence of childhood type 1 diabetes worldwide. Diabetes Mondiale (DiaMond) Project Group. Diabetes Care. 2000 Oct;23(10):1516-26.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11023146"
+    },
+    {
+      "Title": "Klanicova B, Slana I, Vondruskova H, Kaevska M, Pavlik I. Real-time quantitative PCR detection of Mycobacterium avium subspecies in meat products. J Food Prot. 2011 Apr;74(4):636-40.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21477480"
+    },
+    {
+      "Title": "Klijn N, Herrewegh AA, de Jong P. Heat inactivation data for Mycobacterium avium subsp. paratuberculosis: implications for interpretation. J Appl Microbiol. 2001 Oct;91(4):697-704.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11576307"
+    },
+    {
+      "Title": "Masala S, Cossu D, Piccinini S, Rapini N, Mameli G, Manca Bitti ML, Sechi LA. Proinsulin and MAP3865c homologous epitopes are a target of antibody response in new-onset type 1 diabetes children from continental Italy. Pediatr Diabetes. 2015 May;16(3):189-95.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25720593"
+    },
+    {
+      "Title": "Masala S, Cossu D, Piccinini S, Rapini N, Massimi A, Porzio O, Pietrosanti S, Lidano R, Bitti ML, Sechi LA. Recognition of zinc transporter 8 and MAP3865c homologous epitopes by new-onset type 1 diabetes children from continental Italy. Acta Diabetol. 2014 Aug;51(4):577-85.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24496951"
+    },
+    {
+      "Title": "Masala S, Paccagnini D, Cossu D, Brezar V, Pacifico A, Ahmed N, Mallone R, Sechi LA. Antibodies recognizing Mycobacterium avium paratuberculosis epitopes cross-react with the beta-cell antigen ZnT8 in Sardinian type 1 diabetic patients. PLoS One. 2011;6(10):e26931.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22046415"
+    },
+    {
+      "Title": "Muntoni S, Cocco P, Aru G, Cucca F. Nutritional factors and worldwide incidence of childhood type 1 diabetes. Am J Clin Nutr. 2000 Jun;71(6):1525-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10837294"
+    },
+    {
+      "Title": "Muntoni S, Mereu R, Atzori L, Mereu A, Galassi S, Corda S, Frongia P, Angius E, Pusceddu P, Contu P, Cucca F, Congia M, Muntoni S. High meat consumption is associated with type 1 diabetes mellitus in a Sardinian case-control study. Acta Diabetol. 2013 Oct;50(5):713-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22391937"
+    },
+    {
+      "Title": "Muntoni S, Muntoni S. Epidemiological association between some dietary habits and the increasing incidence of type 1 diabetes worldwide. Ann Nutr Metab. 2006;50(1):11-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16276070"
+    },
+    {
+      "Title": "NATIONAL MASTITIS COUNCIL, INC., BOARD OF DIRECTORS REPORT. HUMAN HEALTH RISKS ASSOCIATED WITH HIGH SOMATIC CELL COUNT MILK. SYMPOSIUM SUMMARY.",
+      "Url": "http://deltechindia.com/Research_n_Studies/scchealthrisks.pdf"
+    },
+    {
+      "Title": "Naser SA, Schwartz D, Shafran I. Isolation of Mycobacterium avium subsp paratuberculosis from breast milk of Crohn's disease patients. Am J Gastroenterol. 2000 Apr;95(4):1094-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10763975"
+    },
+    {
+      "Title": "Niinistö S, Takkinen HM, Uusitalo L, Rautanen J, Vainio N, Ahonen S, Nevalainen J, Kenward MG, Lumia M, Simell O, Veijola R, Ilonen J, Knip M, Virtanen SM. Maternal intake of fatty acids and their food sources during lactation and the risk of preclinical and clinical type 1 diabetes in the offspring. Acta Diabetol. 2015 Aug;52(4):763-72.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25563476"
+    },
+    {
+      "Title": "Paccagnini D, Sieswerda L, Rosu V, Masala S, Pacifico A, Gazouli M, Ikonomopoulos J, Ahmed N, Zanetti S, Sechi LA. Linking chronic infection and autoimmune diseases: Mycobacterium avium subspecies paratuberculosis, SLC11A1 polymorphisms and type-1 diabetes mellitus. PLoS One. 2009 Sep 21;4(9):e7109.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19768110"
+    },
+    {
+      "Title": "Pribylova R, Slana I, Kralik P, Kralova A, Babak V, Pavlik I. Correlation of Mycobacterium avium subsp. paratuberculosis counts in gastrointestinal tract, muscles of the diaphragm and the masseter of dairy cattle and potential risk for consumers. Int J Food Microbiol. 2011 Dec 15;151(3):314-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22015242"
+    },
+    {
+      "Title": "Rademaker JL, Vissers MM, Te Giffel MC. Effective heat inactivation of Mycobacterium avium subsp. paratuberculosis in raw milk contaminated with naturally infected feces. Appl Environ Microbiol. 2007 Jul;73(13):4185-90.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17496131"
+    },
+    {
+      "Title": "Rani PS, Doddam SN, Agrawal S, Hasnain SE, Sechi LA, Kumar A, Ahmed N. Mycobacterium avium subsp. paratuberculosis is not discerned in diabetes mellitus patients in Hyderabad, India. Int J Med Microbiol. 2014 Jul;304(5-6):620-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24863528"
+    },
+    {
+      "Title": "Rani PS, Sechi LA, Ahmed N. Mycobacterium avium subsp. paratuberculosis as a trigger of type-1 diabetes: destination Sardinia, or beyond? Gut Pathog. 2010 Mar 29;2(1):1.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20350307"
+    },
+    {
+      "Title": "Rosu V, Ahmed N, Paccagnini D, Gerlach G, Fadda G, Hasnain SE, Zanetti S, Sechi LA. Specific immunoassays confirm association of Mycobacterium avium Subsp. paratuberculosis with type-1 but not type-2 diabetes mellitus. PLoS One. 2009;4(2):e4386.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19204799"
+    },
+    {
+      "Title": "Rosu V, Ahmed N, Paccagnini D, Pacifico A,Zanetti S, Sechi LA. Mycobacterium avium subspecies paratuberculosis is not associated with Type-2 Diabetes Mellitus. Ann Clin Microbiol Antimicrob. 2008; 7: 9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2365959"
+    },
+    {
+      "Title": "Salem M, Heydel C, El-Sayed A, Ahmed SA, Zschöck M, Baljer G. Mycobacterium avium subspecies paratuberculosis: an insidious problem for the ruminant industry. Trop Anim Health Prod. 2013 Feb;45(2):351-66.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23054804"
+    },
+    {
+      "Title": "Sechi LA, Paccagnini D, Salza S, Pacifico A, Ahmed N, Zanetti S. Mycobacterium avium subspecies paratuberculosis bacteremia in type 1 diabetes mellitus: an infectious trigger? Clin Infect Dis. 2008 Jan 1;46(1):148-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18171233"
+    },
+    {
+      "Title": "Sechi LA, Rosu V, Pacifico A, Fadda G, Ahmed N, Zanetti S. Humoral immune responses of type 1 diabetes patients to Mycobacterium avium subsp. paratuberculosis lend support to the infectious trigger hypothesis.  Clin Vaccine Immunol. 2008 Feb;15(2):320-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18077612"
+    },
+    {
+      "Title": "Thorsdottir I, Ramel A. Dietary intake of 10- to 16-year-old children and adolescents in central and northern Europe and association with the incidence of type 1 diabetes. Ann Nutr Metab. 2003;47(6):267-75.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/14520022"
+    },
+    {
+      "Title": "Virtanen SM, Nevalainen J, Kronberg-Kippilä C, Ahonen S, Tapanainen H, Uusitalo L, Takkinen HM, Niinistö S, Ovaskainen ML, Kenward MG, Veijola R, Ilonen J, Simell O, Knip M. Food consumption and advanced β cell autoimmunity in young children with HLA-conferred susceptibility to type 1 diabetes: a nested case-control design. Am J Clin Nutr. 2012 Feb;95(2):471-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22237062"
+    },
+    {
+      "Title": "Waddell LA, Rajić A, Stärk KD, McEWEN SA. The zoonotic potential of Mycobacterium avium ssp. paratuberculosis: a systematic review and meta-analyses of the evidence. Epidemiol Infect. 2015 Nov;143(15):3135-57.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25989710"
+    },
+    {
+      "Title": "Waddell LA, Rajić A, Stärk KD, McEwen SA. The potential Public Health Impact of Mycobacterium avium ssp. paratuberculosis: Global Opinion Survey of Topic Specialists.Zoonoses Public Health. 2016 May;63(3):212-22.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26272619"
+    }
+  ],
+  "Acknowledgements": "Image credit: Alden Chadwick via flickr. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "adolescence",
+      "Url": "https://nutritionfacts.org/topics/adolescence/"
+    },
+    {
+      "Title": "advanced glycation end-products (AGEs)",
+      "Url": "https://nutritionfacts.org/topics/advanced-glycation-end-products/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "autoimmune diseases",
+      "Url": "https://nutritionfacts.org/topics/autoimmune-diseases/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "bread",
+      "Url": "https://nutritionfacts.org/topics/bread/"
+    },
+    {
+      "Title": "breast milk",
+      "Url": "https://nutritionfacts.org/topics/breast-milk/"
+    },
+    {
+      "Title": "breastfeeding",
+      "Url": "https://nutritionfacts.org/topics/breastfeeding/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "Crohn's disease",
+      "Url": "https://nutritionfacts.org/topics/crohns-disease/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fecal contamination",
+      "Url": "https://nutritionfacts.org/topics/fecal-contamination/"
+    },
+    {
+      "Title": "glycotoxins",
+      "Url": "https://nutritionfacts.org/topics/glycotoxins/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "paratuberculosis",
+      "Url": "https://nutritionfacts.org/topics/paratuberculosis/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "type 1 diabetes",
+      "Url": "https://nutritionfacts.org/topics/type-1-diabetes/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    },
+    {
+      "Title": "zoonotic disease",
+      "Url": "https://nutritionfacts.org/topics/zoonotic-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What’s this about paraTB bacteria having been found in the bloodstream of the majority of diabetics tested? I discuss that in <a href=\"https://nutritionfacts.org/video/does-paratuberculosis-in-milk-trigger-type-1-diabetes/\">Does Paratuberculosis in Milk Trigger Type 1 Diabetes?</a> and further explore the hypothesis in <a href=\"https://nutritionfacts.org/video/does-paratuberculosis-in-meat-trigger-type-1-diabetes/\">Does Paratuberculosis in Meat Trigger Type 1 Diabetes?</a>.</p>\n<p>The vast majority of cases of diabetes in the United States are type 2, though. Ironically, meat may also play a role there. See <a href=\"https://nutritionfacts.org/video/why-is-meat-a-risk-factor-for-diabetes/\">Why Is Meat a Risk Factor for Diabetes? </a>and <a href=\"https://nutritionfacts.org/video/how-may-plants-protect-against-diabetes/\">How May Plants Protect Against Diabetes?</a>.</p>\n<p>For more on the links between milk and diabetes, see my videos <a href=\"https://nutritionfacts.org/video/does-casein-in-milk-trigger-type-1-diabetes/\">Does Casein in Milk Trigger Type 1 Diabetes?</a> and <a href=\"https://nutritionfacts.org/video/does-bovine-insulin-in-milk-trigger-type-1-diabetes/\">Does Bovine Insulin in Milk Trigger Diabetes?</a>. What about treating and preventing diabetes through diet? Check out <a href=\"https://nutritionfacts.org/video/how-not-to-die-from-diabetes/\">How Not to Die from Diabetes</a> and <a href=\"https://nutritionfacts.org/video/how-to-prevent-prediabetes-from-turning-into-diabetes/\">How to Prevent Prediabetes from Turning Into Diabetes</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

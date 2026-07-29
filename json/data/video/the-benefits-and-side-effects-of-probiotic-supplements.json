@@ -1,0 +1,151 @@
+{
+  "Title": "The Benefits and Side Effects of Probiotic Supplements",
+  "Url": "https://nutritionfacts.org/video/the-benefits-and-side-effects-of-probiotic-supplements/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/dtB415VNL50"
+  },
+  "UpdatedAt": "2024-11-13T12:50:52+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 67",
+    "Url": "https://nutritionfacts.org/volumes/volume-67/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Probiotics can actually interfere with microbiome recovery after antibiotics, rather than facilitate it.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIt’s been said that the only thing that stops a bad microbiome is a good microbiome. The question is how to establish that healthy gut flora. There is a multibillion-dollar industry pushing probiotic supplements, but despite thousands of clinical trials, we, like our microbiome, are left largely in the dark. When researchers analyzed the first 150 results that Google pulled up on probiotics, commercial sites were the most common, which provided, on average, the least reliable information. Most of the claimed benefits were found to be supported by little or no scientific evidence.\nA recent systematic review of randomized, controlled trials of probiotic supplements for healthy older adults found there was insufﬁcient evidence for the improvement of health outcomes. For example, probiotics don’t appear to work for TMAO reduction or improve cognition in dementia patients. What can they do? Various probiotic preparations have been found to improve stool consistency, bowel movement frequency, and abdominal bloating, as well as reduce the incidence of antibiotic-associated diarrhea. Outside of the gut, one strain of a type of Lactobacillus was found to accelerate the healing of wrist fractures in the elderly, and improve hand function recovery, though the best evidence for extra-intestinal effects involves the immune system.\nEven just a few weeks to months of probiotic supplementation can improve the abilities of our immune cells to destroy pathogens and cancer cells, compared to placebo. Does this translate into reduced infection rates? On average, older adults suffer between two to ﬁve infectious episodes a year, including infections of the respiratory tract, digestive tract, and urinary tract. A meta-analysis of more than a dozen randomized controlled trials involving more than 5,000 older adults (average age 75) found no overall effect on the occurrence or duration of infections from probiotic supplementation. However, by lumping all infections together, more finely-tuned effects might get washed out, and indeed, looking more closely, probiotics seem to help reduce the incidence, duration, and symptoms of the common cold, but fail to show any influence on the incidence or severity of the flu.\nSimilarly, how can meta-analyses make sweeping statements about the efficacy or failure of “probiotics,” when each of the studies used different types and combinations of bacteria? Perhaps some work, but the positive signal is just lost in the noise. There are even studies showing that two different strains of the exact same species of bacteria can have different effects. What are the downsides of giving some a try? We don’t have good data on potential harms either.\nIsolated accounts have been published of serious adverse effects from probiotics that appear independent of dose or formulation, but the great majority of clinical trials have not reported major hazards. Unfortunately, an analysis of hundreds of trials found harms reporting was often missing, insufﬁcient, or inadequate, which undermines our confidence in the safety of these supplements. For example, there are concerns about antibiotic resistance.\nProbiotics are often intentionally selected to be antibiotic resistant, so they can be co-administered with antibiotics to reduce diarrhea rates, but may transfer that resistance to pathogens in our gut. A study of commercial probiotic supplements from around the world, including the United States, found all batches were resistant to vancomycin, one of our “Hail Mary” antibiotics of last resort. The irony is that probiotics can actually interfere with microbiome recovery after antibiotics, rather than facilitate it. Without probiotics, spontaneous post-antibiotic recovery back to baseline was found to occur within three weeks. In contrast, the microbiomes of those randomized to take probiotics remained off-kilter even six months later. The most rapid reconstitution occurred in those given auto-fecal transplants. Just as it may be wise to bank your own blood before an elective procedure, should you need a transfusion, those saving their own stool before a course of antibiotics were able restore their microbiomes back to normal within a matter of days.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bafeta A, Koh M, Riveros C, Ravaud P. Harms reporting in randomized controlled trials of interventions aimed at modifying microbiota: a systematic review. Ann Intern Med. 2018;169(4):240-247.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30014150/"
+    },
+    {
+      "Title": "Dietrich CG, Kottmann T, Alavi M. Commercially available probiotic drinks containing Lactobacillus casei DN-114001 reduce antibiotic-associated diarrhea. World J Gastroenterol. 2014;20(42):15837-15844.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25400470/"
+    },
+    {
+      "Title": "Galloway-Peña JR, Jenq RR. The only thing that stops a bad microbiome, is a good microbiome. Haematologica. 2019;104(8):1511-1513.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31366464/"
+    },
+    {
+      "Title": "Goodman C, Keating G, Georgousopoulou E, Hespe C, Levett K. Probiotics for the prevention of antibiotic-associated diarrhoea: a systematic review and meta-analysis. BMJ Open. 2021;11(8):e043054.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34385227/"
+    },
+    {
+      "Title": "Hepper HJ, Sieber C, Walger P, Bahrmann P, Singler K. Infections in the elderly. Crit Care Clin. 2013;29(3):757-774.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23830661/"
+    },
+    {
+      "Title": "Hutchinson AN, Bergh C, Kruger K, et al. The effect of probiotics on health outcomes in the elderly: a systematic review of randomized, placebo-controlled studies. Microorganisms. 2021;9(6):1344.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34205818/"
+    },
+    {
+      "Title": "Khalesi S, Bellissimo N, Vandelanotte C, Williams S, Stanley D, Irwin C. A review of probiotic supplementation in healthy adults: helpful or hype? Eur J Clin Nutr. 2019;73(1):24-37.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29581563/"
+    },
+    {
+      "Title": "Krüger JF, Hillesheim E, Pereira ACSN, Camargo CQ, Rabito EI. Probiotics for dementia: a systematic review and meta-analysis of randomized controlled trials. Nutr Rev. 2021;79(2):160-170.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32556236/"
+    },
+    {
+      "Title": "Lei M, Hua LM, Wang DW. The effect of probiotic treatment on elderly patients with distal radius fracture: a prospective double-blind, placebo-controlled randomised clinical trial. Benef Microbes. 2016;7(5):631-637.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27633174/"
+    },
+    {
+      "Title": "McFarland LV, Evans CT, Goldstein EJC. Strain-specificity and disease-specificity of probiotic efficacy: a systematic review and meta-analysis. Front Med (Lausanne). 2018;5:124.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29868585/"
+    },
+    {
+      "Title": "Miao L, Du J, Chen Z, Shi D, Qu H. Effects of microbiota-driven therapy on circulating trimethylamine-n-oxide metabolism: a systematic review and meta-analysis. Front Cardiovasc Med. 2021;8:710567.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34552967/"
+    },
+    {
+      "Title": "Miller LE, Lehtoranta L, Lehtinen MJ. Short-term probiotic supplementation enhances cellular immune function in healthy elderly: systematic review and meta-analysis of controlled studies. Nutr Res. 2019;64:1-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30802719/"
+    },
+    {
+      "Title": "Montassier E, Valdés-Mas R, Batard E, et al. Probiotics impact the antibiotic resistance gene reservoir along the human GI tract in a person-specific and antibiotic-dependent manner. Nat Microbiol. 2021;6(8):1043-1054.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34226711/"
+    },
+    {
+      "Title": "Neunez M, Goldman M, Ghezzi P. Online information on probiotics: does it match scientific evidence? Front Med (Lausanne). 2019;6:296.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32010699/"
+    },
+    {
+      "Title": "Suez J, Zmora N, Segal E, Elinav E. The pros, cons, and many unknowns of probiotics. Nat Med. 2019;25(5):716-729.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31061539/"
+    },
+    {
+      "Title": "Suez J, Zmora N, Zilberman-Schapira G, et al. Post-antibiotic gut mucosal microbiome reconstitution is impaired by probiotics and improved by autologous fmt. Cell. 2018;174(6):1406-1423.e16.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30193113/"
+    },
+    {
+      "Title": "Turjeman S, Koren O. ARGuing the case for (or against) probiotics. Trends Microbiol. 2021;29(11):959-960.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34563432/"
+    },
+    {
+      "Title": "Wachholz PA, Nunes VDS, Polachini do Valle A, Jacinto AF, Villas-Boas PJF. Effectiveness of probiotics on the occurrence of infections in older people: systematic review and meta-analysis. Age Ageing. 2018;47(4):527-536.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29415116/"
+    },
+    {
+      "Title": "Wong A, Ngu DYS, Dan LA, Ooi A, Lim RLH. Detection of antibiotic resistance in probiotics of dietary supplements. Nutr J. 2015;14:95.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26370532/"
+    },
+    {
+      "Title": "Zhang C, Xue S, Wang Y, et al. Oral administration of Lactobacillus casei Shirota improves recovery of hand functions after distal radius fracture among elder patients: a placebo-controlled, double-blind, and randomized trial. J Orthop Surg Res. 2019;14(1):257.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31412879/"
+    },
+    {
+      "Title": "de Simone C. The unregulated probiotic market. Clin Gastroenterol Hepatol. 2019;17(5):809-817.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29378309/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "bowel movements",
+      "Url": "https://nutritionfacts.org/topics/bowel-movements/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "diarrhea",
+      "Url": "https://nutritionfacts.org/topics/diarrhea/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "probiotics",
+      "Url": "https://nutritionfacts.org/topics/probiotics/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "TMAO",
+      "Url": "https://nutritionfacts.org/topics/tmao/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">For more on probiotics, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/gut-feelings-probiotics-and-mental-health/\"><span style=\"font-weight: 400\">Gut Feelings: Probiotics and Mental Health</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/preventing-and-treating-diarrhea-with-probiotics/\"><span style=\"font-weight: 400\">Preventing and Treating Diarrhea with Probiotics</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/preventing-the-common-cold-with-probiotics/\"><span style=\"font-weight: 400\">Preventing the Common Cold with Probiotics?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/should-probiotics-be-taken-before-during-or-after-meals/\"><span style=\"font-weight: 400\">Should Probiotics Be Taken Before, During, or After Meals?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/culture-shock-questioning-the-efficacy-and-safety-of-probiotics/\"><span style=\"font-weight: 400\">Culture Shock: Questioning the Efficacy and Safety of Probiotics</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">It’s better to feed our gut bugs with prebiotics. Check out </span><a href=\"https://nutritionfacts.org/video/prebiotics-tending-our-inner-garden/\"><span style=\"font-weight: 400\">Prebiotics: Tending Our Inner Garden</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/how-to-keep-your-microbiome-healthy-with-prebiotic-foods/\"><span style=\"font-weight: 400\">How to Keep Your Microbiome Healthy with Prebiotic Foods</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

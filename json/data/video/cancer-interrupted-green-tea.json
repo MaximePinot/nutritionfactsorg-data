@@ -1,0 +1,151 @@
+{
+  "Title": "Cancer, Interrupted: Green Tea",
+  "Url": "https://nutritionfacts.org/video/cancer-interrupted-green-tea/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/m5coWNHNaC8"
+  },
+  "UpdatedAt": "2013-01-25T12:25:28+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 12",
+    "Url": "https://nutritionfacts.org/volumes/volume-12/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Using the cooked meat carcinogen PhIP to turn normal breast cells cancerous, researchers explore the use of green tea to interrupt this malignant transformation.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMore than 85% of breast cancers are sporadic, and attributable to long-term exposure to environmental carcinogens—such as those in the diet—through a multistep disease process progressing from non-cancerous to premalignant and malignant stages.\nNow, we know that the chemical carcinogen, PhIP, is one of the most abundant heterocyclic amines found in high-temperature cooked meats, and is recognized as a breast carcinogen. However, the PhIP’s mechanism of action in breast cell carcinogenesis is not completely clear. How does it do it? Well, in this landmark new study they “demonstrated, for the first time, that cumulative exposures to PhIP” at the kind of concentrations one would expect just eating meat “effectively induced progressive carcinogenesis”—cancer transformation of normal “human breast…cells from a non-cancerous stage to premalignant and malignant stages in a dose- and exposure-dependent manner.”\nThey started out with normal human breast cells, and were able to transmute them completely into cancer cells just using that cooked meat carcinogen found predominantly in fried bacon, fish, and chicken. That’s all it took, and Jekyll becomes Hyde.\nNow, PhIP was already established as a carcinogen. The reason they did this study was to develop a model of human breast cancer “carcinogenesis”—from beginning to end—so they could test various interventions to see if they could somehow stop this process of cancer formation.\nFor example, three recent meta-analyses reviewing all the epidemiological, or population-based, evidence concerning green tea consumption and breast cancer risk to date concluded that green tea consumption may be protective.\nOkay, let’s put the plant to the test. Here’s how normal human breast cells rate against six different measures of cancer potential. Add some green tea to them, and nothing much happens. Add repeated exposure to the cooked meat carcinogen, PhIP, though, and all the cancer indicators go up. Okay, here’s the test. What happens if you now add the meat carcinogen with green tea phytonutrients? The transformation to breast cancer is blunted across the board, almost bringing cancer markers back to normal. Using a variety of measures, green tea phytonutrients were capable of suppressing PhIP-induced cellular cancer and tumor progression.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "C. Wilson, A. Aboyade-Cole, O. Newell, E. Darling-Reed, E. Oriaku, R. Thomas. Diallyl sulfide inhibits PhIP-induced DNA strand breaks in normal human breast epithelial cells. Oncology Reports 2007 17(NA):807-811",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17342319"
+    },
+    {
+      "Title": "C. Y. Lyou, Nariya Cho, S. M. Kim, M. Jang, J-S. Park, S. Y. Baek, W. K. Moon. Computer-Aided Evaluation of Breast MRI for the Residual Tumor Extent and Response Monitoring in Breast Cancer Patients Receiving Neoadjuvant Chemotherapy. Korean J Radiol. 2011 Jan-Feb; 12(1): 34–43.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3017882/pdf/kjr-12-34.pdf"
+    },
+    {
+      "Title": "M. Kurzawa-Zegota, M. Najafzadeh, A. Baumgartner, D. Anderson. The protective effect of the flavonoids on food-mutagen-induced DNA damage in peripheral blood lymphocytes from colon cancer patients. Food Chem. Toxicol. 2012 50(2):124 - 129",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21907754"
+    },
+    {
+      "Title": "P. Zhou, J.-P. Li, C. Zhang. Green tea consumption and breast cancer risk: Three recent meta-analyses. Breast Cancer Res. Treat. 2011 127(2):581 - 583",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19437116"
+    },
+    {
+      "Title": "S. Choudhary, S. Sood, R. L. Donnell, H.-C. R. Wang. Intervention of human breast cell carcinogenesis chronically induced by 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine. Carcinogenesis 2012 33(4):876 - 885",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22307971"
+    }
+  ],
+  "Acknowledgements": "Images thanks to たね via Wikimedia, and Annie Cavanagh via Wellcome Images",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "bacon",
+      "Url": "https://nutritionfacts.org/topics/bacon/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "green tea",
+      "Url": "https://nutritionfacts.org/topics/green-tea/"
+    },
+    {
+      "Title": "heterocyclic amines",
+      "Url": "https://nutritionfacts.org/topics/heterocyclic-amines/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "PhIP",
+      "Url": "https://nutritionfacts.org/topics/phip/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "tea",
+      "Url": "https://nutritionfacts.org/topics/tea/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What is this PhIP stuff? See four previous videos for some background:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/estrogenic-cooked-meat-carcinogens/\">Estrogenic Cooked Meat Carcinogens</a></li>\n<li><a href=\"https://nutritionfacts.org/video/phip-the-three-strikes-breast-carcinogen/\">PhIP: The Three Strikes Breast Carcinogen</a></li>\n<li><a href=\"https://nutritionfacts.org/video/reducing-cancer-risk-in-meateaters/\">Reducing Cancer Risk in Meat-Eaters</a></li>\n<li><a href=\"https://nutritionfacts.org/video/heterocyclic-amines-in-eggs-cheese-and-creatine/\">Heterocyclic Amines in Eggs, Cheese, and Creatine?</a></li>\n</ul>\n<p>Any other feats that green tea can pull off? See <a href=\"https://nutritionfacts.org/video/treating-genital-warts-with-green-tea/\">Treating Genital Warts with Green Tea</a>, and <a href=\"https://nutritionfacts.org/video/treating-gorlin-syndrome-with-green-tea/\">Treating Gorlin Syndrome with Green Tea</a>.</p>\n<p>Might white tea work even better? See <a href=\"https://nutritionfacts.org/video/antimutagenic-activity-of-green-versus-white-tea/\">Antimutagenic Activity of Green vs. White Tea</a>.</p>\n<p>Any other plants that might be able to smack on the cancer kibosh? (I mean besides broccoli; so, for example: <a href=\"https://nutritionfacts.org/video/dna-protection-from-broccoli/\">DNA Protection from Broccoli</a>, and <a href=\"https://nutritionfacts.org/video/broccoli-versus-breast-cancer-stem-cells/\">Broccoli vs. Breast Cancer Stem Cells</a>). Stay tuned for my next video, <a href=\"https://nutritionfacts.org/video/cancer-interrupted-garlic-flavonoids/\">Cancer, Interrupted: Garlic &amp; Flavonoids</a>.</p>\n<p>Also check out my associated blog post for more context: <a href=\"https://nutritionfacts.org/2013/07/09/blocking-cancer-formation-green-tea-garlic/\">Foods that May Block Cancer Formation</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

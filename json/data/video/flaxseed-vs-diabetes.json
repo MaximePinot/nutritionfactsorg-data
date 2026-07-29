@@ -1,0 +1,119 @@
+{
+  "Title": "Flaxseeds vs. Diabetes",
+  "Url": "https://nutritionfacts.org/video/flaxseed-vs-diabetes/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/i3d1nTIGTzY"
+  },
+  "UpdatedAt": "2013-03-29T11:32:48+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 12",
+    "Url": "https://nutritionfacts.org/volumes/volume-12/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A daily tablespoon of ground flax seeds for a month appears to improve fasting blood sugars, triglycerides, cholesterol, and hemoglobin A1c levels in diabetics.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nDrug companies are hoping to capitalize on the fact that the consumption of certain plants appears to lower the risk of diabetes, by isolating the active components for use and sale as pharmacological agents. Though not as profitable, why not just eat the plants?\nOne plant in particular that’s now been tested is flax. We’ve known for twenty years that having ground flax seeds in your stomach can blunt the blood sugar spike from a meal. But, it’s never been tested in diabetics—until now.\n“An open-label study on the effect of flax seed powder…supplementation in the management of diabetes…” A tablespoon of ground flax seeds every day, for a month, and, compared to the control group, a significant drop in fasting blood sugars, triglycerides, and cholesterol—as well as the most important thing, a drop in A1C level. This was just after a month, though if one’s sugars are already well-controlled, there may be no additional benefit.\nNo weight gain was reported in people adding a quarter cup of ground flax a day to their diets for three months. In fact, the flax group ended up with a slimmer waist than the flax seed oil or control group. Even up to nearly a half cup a day—more than I’d recommend—still no significant weight gain, though this was only after a month.\nHow does flax help control diabetes? Well, flax seed consumption may improve insulin sensitivity in people with glucose intolerance. After 12 weeks of flax, there was a small, but significant, drop in insulin resistance—perhaps related to the drop in oxidant stress, given the antioxidant qualities of flax seed phytonutrients.\nNow, this was a small, unblinded study. It’s hard to come up with a convincing fake flax seed placebo. So, look, if this was some drug they were testing, I’d never prescribe it, based on this one study. But, it isn’t a drug. It’s just flax seeds. There’s just good side effects. So, even if this study was a fluke or fraud, flax seeds have other benefits. So, even in the worst case scenario, I’d still end up benefiting my patients not quite ready or able to reverse their diabetes completely, with a completely plant-based diet.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "C. G. Taylor, A. D. Noto, D. M. Stringer, S. Froese, L. Malcolmson. Dietary milled flaxseed and flaxseed oil improve N-3 fatty acid status and do not affect glycemic control in individuals with well-controlled type 2 diabetes. J Am Coll Nutr 2010 29(1):72 - 80",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20595648"
+    },
+    {
+      "Title": "S. C. Cunnane, S. Ganguli, C. Menard, A. C. Liede, M. J. Hamadeh, Z. Y. Chen, T. M. Wolever, D. J. Jenkins. High alpha-linolenic acid flaxseed (Linum usitatissimum): Some nutritional properties in humans. Br. J. Nutr. 1993 69(2):443 - 453",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/8098222"
+    },
+    {
+      "Title": "U. V. Mani, I. Mani, M. Biswas, S. N. Kumar. An open-label study on the effect of flax seed powder (Linum usitatissimum) supplementation in the management of diabetes mellitus. J Diet Suppl 2011 8(3):257 - 265",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22432725"
+    },
+    {
+      "Title": "Y. Rhee, A. Brunt. Flaxseed supplementation improved insulin resistance in obese glucose intolerant people: A randomized crossover design. Nutr J 2011 10(NA):44",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3112403/"
+    }
+  ],
+  "Acknowledgements": "Images thanks to sean dreilinger; Phú Thịnh Co; and grafixtek via flickr",
+  "Topics": [
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "complementary medicine",
+      "Url": "https://nutritionfacts.org/topics/complementary-medicine/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "flaxseeds",
+      "Url": "https://nutritionfacts.org/topics/flax-seeds/"
+    },
+    {
+      "Title": "insulin",
+      "Url": "https://nutritionfacts.org/topics/insulin/"
+    },
+    {
+      "Title": "medications",
+      "Url": "https://nutritionfacts.org/topics/medications/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "seeds",
+      "Url": "https://nutritionfacts.org/topics/seeds/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "triglycerides",
+      "Url": "https://nutritionfacts.org/topics/triglycerides/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This reminds me of my video, <a href=\"https://nutritionfacts.org/video/prunes-vs-metamucil-vs-vegan-diet/\">Prunes vs. Metamucil vs. Vegan Diet</a>, or some of my videos on various foods that may control blood sugar (<a title=\"Permanent link to Amla Versus Diabetes\" href=\"https://nutritionfacts.org/video/amla-versus-diabetes/\">Amla Versus Diabetes</a>); weight (<a title=\"Permanent link to Fat Burning Via Flavonoids\" href=\"https://nutritionfacts.org/video/fat-burning-via-flavonoids/\">Fat Burning Via Flavonoids</a>); cholesterol (<a title=\"Permanent link to Dried Apples Versus Cholesterol\" href=\"https://nutritionfacts.org/video/dried-apples-versus-cholesterol/\">Dried Apples vs. Cholesterol</a>); or sexual dysfunction (<a title=\"Permanent link to Watermelon as Treatment for Erectile Dysfunction\" href=\"https://nutritionfacts.org/video/watermelon-as-treatment-for-erectile-dysfunction/\">Watermelon as Treatment for Erectile Dysfunction</a>). Yes, these foods may help; but, why not get at the root of the problem, and try to reverse the condition altogether with a healthier diet overall? That’s why I called my 2012 wrap-up <a title=\"Permanent link to Uprooting the Leading Causes of Death\" href=\"https://nutritionfacts.org/video/uprooting-the-leading-causes-of-death/\">Uprooting the Leading Causes of Death</a>.</p>\n<p>The two books I feature are the original classic from 2003, <a href=\"http://www.worldcat.org/oclc/51264427\">Defeating Diabetes</a> (co-authored by my favorite dietician, Brenda Davis), and then, in 2007 and 2012, books from two of my medical mentors: <a href=\"http://www.worldcat.org/oclc/85485215\">Dr. Neal Barnard’s Program To Reverse Diabetes Now</a>, and Dr. Joel Fuhrman’s <a href=\"http://www.worldcat.org/oclc/795757572\">The End of Diabetes</a>. In fact, Fuhrman’s book was so new, it wasn’t even out when I recorded this video for my <a href=\"https://nutritionfacts.org/blog/new-nutrition-dvd-to-help-make-your-resolutions-more-resolutee-proceeds-to-charity/\">Volume 12 DVD</a>!</p>\n<p>This is my third flax video of the year. See my previous two videos to learn what flax can do against prostate cancer: <a href=\"https://nutritionfacts.org/video/flaxseed-vs-prostate-cancer/\">Flaxseeds vs. Prostate Cancer</a>, and <a href=\"https://nutritionfacts.org/video/was-it-the-flaxseed-fat-restriction-or-both/\">Was It the Flaxseeds, Fat Restriction, or Both?</a> Next, we move on to <a href=\"https://nutritionfacts.org/video/flaxseeds-for-sensitive-skin/\">Flaxseeds for Sensitive Skin</a>.</p>\n<p>For more context, you can refer to my associated blog posts: <a href=\"https://nutritionfacts.org/2013/10/08/flaxseeds-for-diabetes/\">Flaxseeds for Diabetes</a>; <a href=\"https://nutritionfacts.org/2013/10/10/flaxseeds-for-sensitive-skin/\">Treating Sensitive Skin From the Inside Out</a>; and <a href=\"https://nutritionfacts.org/2013/10/17/flaxseeds-breast-cancer-survival/\">Flax and Breast Cancer Survival</a>.</p>\n<p>For all new flax videos, visit the <a href=\"https://nutritionfacts.org/topics/flax-seeds/\">topic page</a>. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

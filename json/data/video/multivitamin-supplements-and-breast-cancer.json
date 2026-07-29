@@ -1,0 +1,123 @@
+{
+  "Title": "Multivitamin Supplements & Breast Cancer",
+  "Url": "https://nutritionfacts.org/video/multivitamin-supplements-and-breast-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/Kr1grxWTrqA"
+  },
+  "UpdatedAt": "2011-09-22T12:00:10+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 5",
+    "Url": "https://nutritionfacts.org/volumes/5/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "New research suggests that multivitamin use may significantly increase the risk of breast cancer and prostate cancer.",
+  "Transcript": "A Harvard study of what tens of thousands of women ate in high school found that “dietary intake of fiber and nuts during adolescence influences subsequent risk of breast disease and may suggest a viable means for breast cancer prevention.” And the protection from nuts was independent of fiber: “Results for nuts were essentially the same with additional adjustment for fiber, suggesting that in addition to fiber, the inverse associations between nut intake and proliferative [benign breast disease] risk may also be attributable to nutrients other than fiber in nuts.” Nuts, after all, are packed with vitamins and minerals; wouldn’t it be easier, though, then, just to take a multivitamin than eating all that PB&J?\nLast year, a study of 35,000 women was published on the association between multivitamin use and breast cancer rates. “Many women use multivitamins in the belief that these supplements will prevent chronic diseases such as cancer and cardiovascular disease. However, whether the use of multivitamins affects the risk of breast cancer is unclear.”\nWell, it just got clearer: what do you think they found?\nMultivitamins for breast cancer prevention: harmful, harmless, or helpful? 40% of women in the United States take a multivitamin, spending $4 billion to do so. Is this money well spent? Is this just a waste of money? No, it’s worse. Women taking multivitamins are, in fact, paying to increase their risk. Conclusion: “These results suggest that multivitamin use is associated with an increased risk of breast cancer.”\nThe researchers suggest it may be the folic acid that’s the culprit—something I talked about in a previous video—whereas the doubling of prostate cancer risk tied to multivitamin use is thought to be due to the zinc content.\nFrom the Cleveland Clinic Journal of Medicine last year: “Should healthy people take a multivitamin? No…At least it won’t hurt may not be true.”\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Dianne Moore. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Caballero B. Should healthy people take a multivitamin? Cleve Clin J Med. 2010 Oct;77(10):656-7.",
+      "Url": "http://www.ccjm.org/?id=105745&tx_ttnews%5Btt_news%5D=363417&cHash=0d0d146ba410bb6c98b3918d7c8c9bc1"
+    },
+    {
+      "Title": "Larsson SC, Akesson A, Bergkvist L, Wolk A. Multivitamin use and breast cancer incidence in a prospective cohort of Swedish women. Am J Clin Nutr. 2010 May;91(5):1268-72.",
+      "Url": "http://www.ajcn.org/cgi/pmidlookup?view=long&pmid=20335555"
+    },
+    {
+      "Title": "Park SY, Murphy SP, Wilkens LR, Henderson BE, Kolonel LN. Multivitamin use and the risk of mortality and cancer incidence: the multiethnic cohort study. Am J Epidemiol. 2011 Apr 15;173(8):906-14.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21343248"
+    },
+    {
+      "Title": "Su X, Tamimi RM, Collins LC, Baer HJ, Cho E, Sampson L, Willett WC, Schnitt SJ, Connolly JL, Rosner BA, Colditz GA. Intake of fiber and nuts during adolescence and incidence of proliferative benign breast disease. Cancer Causes Control. 2010 Jul;21(7):1033-46",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20229245"
+    },
+    {
+      "Title": "Zhang Y, Coogan P, Palmer JR, Strom BL, Rosenberg L. Vitamin and Mineral Use and Risk of Prostate Cancer: The Case-Control Surveillance Study. Cancer Causes Control. 2009 Jul;20(5):691-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19093214/"
+    }
+  ],
+  "Acknowledgements": "Images thanks to gvictoria via Shutterstock and Bradley Stemke via Flickr",
+  "Topics": [
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "Harvard Nurses' Health Study",
+      "Url": "https://nutritionfacts.org/topics/harvard-nurses-health-study/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "multivitamins",
+      "Url": "https://nutritionfacts.org/topics/multivitamins/"
+    },
+    {
+      "Title": "nutrition myths",
+      "Url": "https://nutritionfacts.org/topics/nutrition-myths/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "prostate health",
+      "Url": "https://nutritionfacts.org/topics/prostate-health/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    },
+    {
+      "Title": "zinc",
+      "Url": "https://nutritionfacts.org/topics/zinc/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more on the correlation between dietary supplements and cancer, check out:<br/>\n<a href=\"https://nutritionfacts.org/video/risk-associated-with-iron-supplements/\">Risk Associated With Iron Supplements</a><br/>\n<a href=\"https://nutritionfacts.org/video/food-antioxidants-and-cancer/\">Food Antioxidants and Cancer</a></p>\n<p>Be sure to check out my <a href=\"https://nutritionfacts.org/topics/breast-cancer/\" rel=\"nofollow\">other videos on breast cancer</a>. </p>\n<p>For more context, also see my associated blog posts: <a href=\"https://nutritionfacts.org/2015/02/26/are-multivitamins-just-a-waste-of-money/\" rel=\"nofollow\">Are Multivitamins Just a Waste of Money?</a> and <a href=\"https://nutritionfacts.org/blog/2011/09/26/breast-cancer-and-diet/\" rel=\"nofollow\"> Breast Cancer and Diet.</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

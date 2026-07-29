@@ -1,0 +1,67 @@
+{
+  "Title": "Breast Cancer vs. Mushrooms",
+  "Url": "https://nutritionfacts.org/video/breast-cancer-vs-mushrooms/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/B57d3ULEpUI"
+  },
+  "UpdatedAt": "2012-12-26T12:39:02+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Researchers pit plain white mushrooms against breast cancer cells in vitro to measure aromatase activity, and estimate how many mushrooms women may want to strive to include in their daily diet.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIf you remember, plain, cheap, convenient white mushrooms appeared able to outsmart breast cancer cells that try to make their own estrogen, by crippling the enzyme tumors use to make it. But, this was based on placental tissue samples.\nLet’s stack mushrooms up against the real thing. Human breast cancer cells in a petri dish. If you do nothing, they just keep growing and proliferating at the same rate. But, if you add the raw material the cancer cells use to make their own estrogen, they take full advantage, and grow like crazy, ten times as fast. But then, as you add more and more white mushroom extract to shut off estrogen manufacturing, you can get cancer growth almost back to baseline.\nSo, the last study proved mushrooms could inhibit that enzyme, and even figured out which mushroom worked the best. Here, they went a step further to see it in action, in actual breast cancer cells.\nNow that we know it may work, what’s the required dose? I mean, how many mushrooms do you have to eat? Maybe it’s some, you know, ridiculous amount? Based on these studies, the consumption of just five mushrooms a day may be sufficient to suppress breast tumor growth.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Chen S, Oh SR, Phung S, Hur G, Ye JJ, Kwok SL, Shrode GE, Belury M, Adams LS, Williams D. Anti-aromatase activity of phytochemicals in white button mushrooms (Agaricus bisporus). Cancer Res. 2006 Dec 15;66(24):12026-34.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17178902/"
+    },
+    {
+      "Title": "Grube BJ, Eng ET, Kao YC, Kwon A, Chen S. White button mushroom phytochemicals inhibit aromatase activity and breast cancer cell proliferation. J Nutr. 2001 Dec;131(12):3288-93.",
+      "Url": "http://jn.nutrition.org/content/131/12/3288.full.pdf+html"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Ranko via Wikimedia Commons.",
+  "Topics": [
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "enzymes",
+      "Url": "https://nutritionfacts.org/topics/enzymes/"
+    },
+    {
+      "Title": "estrogen",
+      "Url": "https://nutritionfacts.org/topics/estrogen/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "mushrooms",
+      "Url": "https://nutritionfacts.org/topics/mushrooms/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Mushrooms appear to work in the lab to suppress breast cancer cell growth—but what about in the real world? That’s the subject of <a href=\"https://nutritionfacts.org/video/why-do-asian-women-have-less-breast-cancer/\">Why Do Asian Women Have Less Breast Cancer?</a> The placenta study was profiled in <a href=\"https://nutritionfacts.org/video/vegetables-versus-breast-cancer/\">Vegetables Versus Breast Cancer</a>, and a comparison of the effects of different types of mushrooms can be found in <a href=\"https://nutritionfacts.org/video/breast-cancer-prevention-which-mushroom-is-best/\">Breast Cancer Prevention: Which Mushroom is Best?</a> More on the magic of mushrooms in <a href=\"https://nutritionfacts.org/video/making-our-arteries-less-sticky/\">Making Our Arteries Less Sticky</a>, and <a href=\"https://nutritionfacts.org/video/constructing-a-cognitive-portfolio/\">Constructing a Cognitive Portfolio</a>. Probably a good idea to cook them, though. Also, I have dozens of <a href=\"https://nutritionfacts.org/topics/breast-cancer/\">other videos on breast cancer.</a></p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/why-less-breast-cancer-in-asia/\">Why Less Breast Cancer in Asia?</a>; <a href=\"https://nutritionfacts.org/2013/08/01/vitamin-d-from-mushrooms-sun-or-supplements/\">Vitamin D from Mushrooms, Sun, or Supplements?</a>; and <a href=\"https://nutritionfacts.org/blog/mushrooms-and-immunity/\">Mushrooms and Immunity</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

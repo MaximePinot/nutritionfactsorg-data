@@ -1,0 +1,211 @@
+{
+  "Title": "How to Treat H. Pylori Naturally with Diet",
+  "Url": "https://nutritionfacts.org/video/how-to-treat-h-pylori-naturally-with-diet/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/AdIjW5b-dZY"
+  },
+  "UpdatedAt": "2022-08-17T11:50:31+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 58",
+    "Url": "https://nutritionfacts.org/volumes/volume-58/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What food can eradicate H. pylori in the majority of patients?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe salting and pickling of fish produces a novel DNA mutating chemical called CMBA, which is formed from a reaction of the salt, nitrite preservatives, and methionine, an amino acid found concentrated in animal proteins. The nitrites can also interact with other protein components to form N-nitroso compounds, a powerful class of carcinogens found in cigarette smoke. This may explain why processed meats such as bacon, ham, hot dogs, lunch meat, and sausage have been tied to increased stomach cancer risk––but this extends to fresh, unprocessed, unsalted meat as well.\nBut wait; I thought most stomach cancer was caused by an infection with a stomach bacteria called H. pylori. There’s a synergistic interaction between H. pylori-induced inflammation gastritis and diet in the formation of stomach cancer. Check it out. Researchers in China discovered that even genetically vulnerable individuals infected with a particularly pathogenic strain of H. pylori did not appear to be at increased risk of stomach cancer, unless they ate about an ounce or more of pork per day. (An average pork chop is like about six ounces.) This is a striking example of how our diet can sometimes trump both our genes and environmental influences like cancer-causing infections. But is there a way to wipe out the H. pylori in the first place?\nNormally you’d use a triple antibiotic cocktail of drugs to kill off H. pylori, but patient compliance is difficult to maintain due to the quantity of drugs taken and the adverse side-effects. Is there anything we can eat to wipe them out instead?\nDecades before its detoxifying and anti-cancer abilities were discovered, sulforaphane, that remarkable compound in cruciferous vegetables, was originally described for its antimicrobial activity. After hearing anecdotal reports of individuals with H. pylori-induced peptic ulcer disease experiencing dramatic and sometimes unexpected relief after eating three-day-old broccoli sprouts, researchers at Johns Hopkins University and elsewhere decided to put broccoli sprouts to the test. Not only did broccoli sprout extracts kill antibiotic-resistant strains of H. pylori in a petri dish, some patients who were given as little as a third of a cup of broccoli sprouts a day for a week were able to eradicate their H. pylori infection. So how about a randomized controlled trial (broccoli sprouts vs. alfalfa sprouts) and . . . those given two to three servings of broccoli a day worth of sprouts were able to significantly cut down on markers of both H. pylori colonization and stomach lining inflammation.\nThough broccoli sprouts may be able to eradicate H. pylori in the majority of patients—56 percent—the standard triple drug antibiotic therapy is much more effective—about 90 percent eradication. Still, for those who don’t meet the criteria for drug treatment, cruciferous vegetables may present a safe, natural way to combat H. pylori and the development of stomach cancer. A compilation of twenty-two population studies found that eating more cruciferous vegetables was associated with a significantly lower stomach cancer risk, but broccoli has never been directly put to the test, but garlic has.\nObservational studies dating back to the 1960s on Japanese migrants have suggested that allium family vegetables, garlic and onion family vegetables, may be protective against stomach cancer. To date, there have been dozens of such studies published, and overall, eating lots of allium vegetables was indeed associated with significantly lower stomach cancer risk. There is evidence of publication bias, though, meaning there appears to have been other studies that failed to show such an effect, but were shelved and never published. Even if this weren’t the case, observational studies never prove cause and effect.\nMaybe low garlic and onion consumption didn’t contribute to stomach cancer, for example, but rather stomach cancer contributed to low garlic and onion consumption. Decades of H. pylori stomach inflammation leading up to the cancer may have led to individuals choosing bland diets to avoid discomfort. You can’t know if garlic really helps until you put it to the test.\nLouis Pasteur was evidently the ﬁrst to describe the antibacterial effect of onion and garlic juices.\nPetri dish studies have shown that garlic is effective in suppressing the growth of H. pylori at concentrations achievable in the stomach with a single clove. Even some antibiotic-resistant strains are susceptible. But does this translate into stopping the growth of cancer? A randomized, double-blind, controlled trial was launched to find out.\nThousands of individuals at high risk for stomach cancer from thirteen villages in China were randomized into various combinations of antibiotics, garlic supplements, and antioxidant supplements. And just a few weeks of antibiotics led to a significant decrease in subsequent precancerous stomach growths seven years later, and a significant decrease in subsequent stomach cancer by 15 years. What about the garlic? No benefit by seven years, and only a non-statistically significant reduction after 15 years. But in 2019, we got the 22-year update––15 years after the study ended. And those who had taken the garlic did indeed have a significantly lower risk of subsequently dying from cancer, though interestingly, the protective effect of garlic only seemed to manifest among nondrinkers.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Chen W, Weisburger JH, Fiala ES, et al. Gastric carcinogenesis: 2-chloro-4-methylthiobutanoic acid, a novel mutagen in salted, pickled Sanma hiraki fish, or similarly treated methionine. Chem Res Toxicol. 1996;9(1):58-66.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8924617/"
+    },
+    {
+      "Title": "Chey WD, Leontiadis GI, Howden CW, Moss SF. Acg clinical guideline: treatment of helicobacter pylori infection. Am J Gastroenterol. 2017;112(2):212-39.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28071659/"
+    },
+    {
+      "Title": "Dellavalle CT, Daniel CR, Aschebrook-Kilfoy B, et al. Dietary intake of nitrate and nitrite and risk of renal cell carcinoma in the NIH-AARP Diet and Health Study. Br J Cancer. 2013;108(1):205-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23169285"
+    },
+    {
+      "Title": "Fahey JW, Haristoy X, Dolan PM, et al. Sulforaphane inhibits extracellular, intracellular, and antibiotic-resistant strains of Helicobacter pylori and prevents benzo[a]pyrene-induced stomach tumors. PNAS. 2002;99(11):7610-5.",
+      "Url": "https://www.pnas.org/content/99/11/7610.long"
+    },
+    {
+      "Title": "Fahey JW, Stephenson KK, Wallace AJ. Dietary amelioration of Helicobacter infection. Nutr Res. 2015;35(6):461-73.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25799054"
+    },
+    {
+      "Title": "Ferro A, Rosato V, Rota M, et al. Meat intake and risk of gastric cancer in the Stomach cancer Pooling (Stop) project. Int J Cancer. 2020;147(1):45-55.",
+      "Url": "https://onlinelibrary.wiley.com/doi/10.1002/ijc.32707"
+    },
+    {
+      "Title": "Fleischauer AT, Arab L. Garlic and cancer: a critical review of the epidemiologic literature. J Nutr. 2001;131(3):1032S-40S.",
+      "Url": "https://academic.oup.com/jn/article/131/3/1032S/4687048"
+    },
+    {
+      "Title": "Galan MV, Kishan AA, Silverman AL. Oral broccoli sprouts for the treatment of Helicobacter pylori infection: a preliminary report. Dig Dis Sci. 2004;49(7-8):1088-90.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15387326/"
+    },
+    {
+      "Title": "Guo Y, Li ZX, Zhang JY, et al. Association between lifestyle factors, vitamin and garlic supplementation, and gastric cancer outcomes: a secondary analysis of a randomized clinical trial. JAMA Netw Open. 2020;3(6):e206628.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32589229"
+    },
+    {
+      "Title": "Haenszel W, Kurihara M, Segi M, Lee RK. Stomach cancer among Japanese in Hawaii. J Natl Cancer Inst. 1972;49(4):969-88.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/4678140/"
+    },
+    {
+      "Title": "Li WQ, Zhang JY, Ma JL, et al. Effects of Helicobacter pylori treatment and vitamin and garlic supplementation on gastric cancer incidence and mortality: follow-up of a randomized intervention trial. BMJ. 2019;366:l5016.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31511230"
+    },
+    {
+      "Title": "Ma JL, Zhang L, Brown LM, et al. Fifteen-year effects of Helicobacter pylori, garlic, and vitamin treatments on gastric cancer incidence and mortality. J Natl Cancer Inst. 2012;104(6):488-92.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22271764"
+    },
+    {
+      "Title": "Malfertheiner P. Compliance, adverse events and antibiotic resistance in Helicobacter pylori treatment. Scand J Gastroenterol Suppl. 1993;196:34-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8341989/"
+    },
+    {
+      "Title": "Mirmiran P, Bahadoran Z, Golzarand M, Zojaji H, Azizi F. A comparative study of broccoli sprouts powder and standard triple therapy on cardiovascular risk factors following H.pylori eradication: a randomized clinical trial in patients with type 2 diabetes. J Diabetes Metab Disord. 2014;13:64.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24940565"
+    },
+    {
+      "Title": "Muzaheed. Helicobacter pylori oncogenicity: mechanism, prevention, and risk factors. Sci World J. 2020;2020:1-10.",
+      "Url": "https://www.hindawi.com/journals/tswj/2020/3018326/"
+    },
+    {
+      "Title": "Sivam GP. Protection against helicobacter pylori and other bacterial infections by garlic. J Nutr. 2001;131(3):1106S-8S.",
+      "Url": "https://academic.oup.com/jn/article/131/3/1106S/4687057"
+    },
+    {
+      "Title": "Turati F, Pelucchi C, Guercio V, Vecchia CL, Galeone C. Allium vegetable intake and gastric cancer: A case–control study and meta-analysis. Mol Nutr Food Res. 2015;59(1):171-9.",
+      "Url": "https://onlinelibrary.wiley.com/doi/10.1002/mnfr.201400496"
+    },
+    {
+      "Title": "Wang XQ, Terry PD, Cheng L, et al. Interactions between pork consumption, CagA status and IL-1B-31 genotypes in gastric cancer. World J Gastroenterol. 2014;20(25):8151-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25009387"
+    },
+    {
+      "Title": "Wu Q, Yang Y, Wang J, Han L, Xiang Y. Cruciferous vegetable consumption and gastric cancer risk: A meta‐analysis of epidemiological studies. Cancer Sci. 2013;104(8):1067-73.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23679348"
+    },
+    {
+      "Title": "Yamaguchi N, Kakizoe T. Synergistic interaction between Helicobacter pylori gastritis and diet in gastric cancer. Lancet Oncol. 2001;2(2):88-94.",
+      "Url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(00)00225-4/fulltext"
+    },
+    {
+      "Title": "Yanaka A, Fahey JW, Fukumoto A, et al. Dietary sulforaphane-rich broccoli sprouts reduce colonization and attenuate gastritis in helicobacter pylori–infected mice and humans. Cancer Prev Res. 2009;2(4):353-60.",
+      "Url": "https://cancerpreventionresearch.aacrjournals.org/content/2/4/353.long"
+    },
+    {
+      "Title": "You W cheng, Brown LM, Zhang L, et al. Randomized double-blind factorial trial of three treatments to reduce the prevalence of precancerous gastric lesions. J Natl Cancer Inst. 2006;98(14):974-83.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16849680/"
+    },
+    {
+      "Title": "Zhang Y, Tang L. Discovery and development of sulforaphane as a cancer chemopreventive phytochemical. Acta Pharmacol Sin. 2007;28(9):1343-54.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17723168/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "broccoli sprouts",
+      "Url": "https://nutritionfacts.org/topics/broccoli-sprouts/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "China",
+      "Url": "https://nutritionfacts.org/topics/china/"
+    },
+    {
+      "Title": "cruciferous vegetables",
+      "Url": "https://nutritionfacts.org/topics/cruciferous-vegetables/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fermented foods",
+      "Url": "https://nutritionfacts.org/topics/fermented-foods/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "garlic",
+      "Url": "https://nutritionfacts.org/topics/garlic/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "nitrite",
+      "Url": "https://nutritionfacts.org/topics/nitrite/"
+    },
+    {
+      "Title": "onions",
+      "Url": "https://nutritionfacts.org/topics/onions/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "sodium",
+      "Url": "https://nutritionfacts.org/topics/sodium/"
+    },
+    {
+      "Title": "stomach cancer",
+      "Url": "https://nutritionfacts.org/topics/stomach-cancer/"
+    },
+    {
+      "Title": "sulforaphane",
+      "Url": "https://nutritionfacts.org/topics/sulforaphane/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you missed the previous video, see <a href=\"https://nutritionfacts.org/video/the-role-of-kimchi-and-h-pylori-in-stomach-cancer/\">The Role of Kimchi and <em>H. Pylori</em> in Stomach Cancer</a>.</p>\n<p>For more on cruciferous and allium family vegetables and cancer, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/dna-protection-from-broccoli/\">DNA Protection from Broccoli</a></li>\n<li><a href=\"https://nutritionfacts.org/video/cancer-interrupted-garlic-flavonoids/\">Cancer, Interrupted: Garlic and Flavonoids</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lung-cancer-metastases-and-broccoli/\">Lung Cancer Metastases and Broccoli</a></li>\n<li><a href=\"https://nutritionfacts.org/video/benefits-of-garlic-for-fighting-cancer-and-the-common-cold/\">Benefits of Garlic for Fighting Cancer and the Common Cold</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

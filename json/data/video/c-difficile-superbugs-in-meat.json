@@ -1,0 +1,127 @@
+{
+  "Title": "C. difficile Superbugs in Meat",
+  "Url": "https://nutritionfacts.org/video/C-difficile-superbugs-in-meat/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/pTMNjySTmhI"
+  },
+  "UpdatedAt": "2015-04-15T11:00:55+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 24",
+    "Url": "https://nutritionfacts.org/volumes/volume-24/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Why does the United States appear to have the highest level of C. diff contamination of the meat supply?",
+  "Transcript": "Clostridium difficile is one of our most urgent bacterial threats, sickening a quarter million Americans every year, and killing thousands to the cost of a billion dollars a year, and it’s on the rise.\nAlthough uncomplicated cases have been traditionally managed with powerful antibiotics, recent reports suggest that hypervirulent strains are increasingly resistant to medical management. So surgeons may need to come in and remove our colon entirely to save our lives, although the surgery itself is so risky, the operation alone may kill us half the time. And there’s been a rise in the percentage of cases that end up under the knife, which could be a marker of the emergence of these hypervirulent strains.\nHistorically, most cases appeared in hospitals, but a landmark study recently published in the New England Journal of Medicine found that only about a third of cases could be linked to contact with an infected patient. Another potential source is our food supply. In the U.S., the frequency of contamination of retail chicken with C. diff has been documented to be up to one in six packages off store shelves, and it didn’t seem to matter which kind. Pig-derived C. diff, however, has garnered the greatest attention from public health personnel, because the same human strain that’s increasingly emerging in the community outside of hospitals is the major strain among pigs.\nSince the turn of the century, C. diff is increasingly being reported as a major cause of intestinal infections in piglets. C. diff is now one of the most common causes of intestinal infections in baby piglets in the U.S.\nParticular attention has been paid to pigs because of high rates of C. diff shedding into their waste, which can lead to contamination of retail pork, and the U.S. has the highest levels of C. diff meat contamination so far tested anywhere in the world.\nCarcass contamination by gut contents at slaughter probably contributes most to the presence of C. diff in meat and meat products. But why is the situation so much worse in the United States? Well, slaughter techniques differ from country to country, with those in the U.S. being what they call more of the “quick and dirty” variety.\nColonization or contamination of pigs by superbugs such as C. difficile and MRSA at the farm production level may be more important, though, than at the slaughterhouse level. One of the reasons sows and their piglets may have such high rates of C. diff is because of cross-contamination of feces in the farrowing crate, which are these kind of metal cages that mother pigs are kept in.\nBut can’t you just follow food safety guidelines and cook the meat through? Unfortunately, current food safety guidelines are ineffective against C. difficile because it forms these spores that are resistant to heat. To date, most food safety guidelines say cook to an internal temperature as low as 63 degrees Celsius, which is the official USDA recommendation for pork, but recent studies show that these C. diff spores can survive extended heating at 71 degrees Celsius. Therefore, the guidelines should be raised to take this potentially killer infection into account.\nSee, the problem is that sources of C. diff food contamination might include not only fecal contamination on the meat, but transfer of spores from the gut into the actual muscles of the animal, inside the meat. Clostridia bacteria like C. diff comprise one of the main groups of bacteria involved in natural carcass degradation, and so by colonizing muscle tissue before death, C. diff can not only transmit to new hosts that eat the muscles, like us, but give them a head start on carcass breakdown.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A Rodriguez-Palacios, S Borgmann, T R Kline, J T Lejeune. Clostridium difficile in foods and animals: history and measures to reduce exposure. Anim Health Res Rev. 2013 Jun;14(1):11-29.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23324529"
+    },
+    {
+      "Title": "CDC. Antibiotic Resistance Threats in the United States, 2013. CDC.",
+      "Url": "https://www.cdc.gov/drugresistance/threat-report-2013/"
+    },
+    {
+      "Title": "D W Eyre, M L Cule, D J Wilson, D Griffiths, A Vaughan, L O’Connor, C L Ip, T Golubchik, E M Batty, J M Finney, D H Wyllie, X Didelot, K E Dingle, R M Harding, D W Crook, M H Wilcox, T E Peto, A S Walker. Diverse sources of C. difficile infection identified on whole-genome sequencing. N Engl J Med. 2013 Sep 26;369(13):1195-205.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24066741"
+    },
+    {
+      "Title": "K N Norman, R B Harvey, H M Scott, M E Hume, K Anders, A D Brawley. Varied prevalence of Clostridium difficile in an integrated swine operation. Anaerobe. 2009 Dec;15(6):256-60.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19778624"
+    },
+    {
+      "Title": "M M Squire, T V Riley. Clostridium difficile infection in humans and piglets: a 'One Health' opportunity. Curr Top Microbiol Immunol. 2013;365:299-314.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22695920"
+    },
+    {
+      "Title": "M P Hensgens, E C Keessen, M M Squire, T V Riley, M G Koene, E de Boer, L J Lipman, E J Kuijper, European Society of Clinical Microbiology Diseases Study Group for Clostridium difficile (ESGCD). Clostridium difficile infection in the community: a zoonotic disease? Clin Microbiol Infect. 2012 Jul;18(7):635-45.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22536816"
+    },
+    {
+      "Title": "M Rupnik, J G Songer. Clostridium difficile: its potential as a source of foodborne disease. Adv Food Nutr Res. 2010;60:53-66.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20691953"
+    },
+    {
+      "Title": "P Kawken, J S Weese, R Friendship, K Warriner. Longitudinal study of Clostridium difficile and Methicillin-resistant Staphylococcus aureus associated with pigs from weaning through to the end of processing. J Food Prot. 2013 Apr;76(4):624-30.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23575124"
+    },
+    {
+      "Title": "W J Halabi, V Q Nguyen, J C Carmichael, A Pigazzi, M J Stamos, S Mills. Clostridium difficile colitis in the United States: a decade of trends, outcomes, risk factors for colectomy, and mortality after colectomy. J Am Coll Surg. 2013 Nov;217(5):802-12.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24011436"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Animals Australia.",
+  "Topics": [
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "C. diff",
+      "Url": "https://nutritionfacts.org/topics/c-diff/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "colon health",
+      "Url": "https://nutritionfacts.org/topics/colon-health/"
+    },
+    {
+      "Title": "factory farming practices",
+      "Url": "https://nutritionfacts.org/topics/factory-farming-practices/"
+    },
+    {
+      "Title": "fecal bacteria",
+      "Url": "https://nutritionfacts.org/topics/fecal-bacteria/"
+    },
+    {
+      "Title": "fecal contamination",
+      "Url": "https://nutritionfacts.org/topics/fecal-contamination/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "MRSA",
+      "Url": "https://nutritionfacts.org/topics/mrsa/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "safety limits",
+      "Url": "https://nutritionfacts.org/topics/safety-limits/"
+    },
+    {
+      "Title": "surgery",
+      "Url": "https://nutritionfacts.org/topics/surgery/"
+    },
+    {
+      "Title": "viral infections",
+      "Url": "https://nutritionfacts.org/topics/viral-infections/"
+    },
+    {
+      "Title": "zoonotic disease",
+      "Url": "https://nutritionfacts.org/topics/zoonotic-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Never heard of C. diff? That’s the <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=867\">Toxic Megacolon Superbug</a> I’ve talked about before.<strong> <br/>\n</strong></p>\n<p>Another foodborne illness tied to pork industry practices is yersiniosis. See: <a href=\"https://nutritionfacts.org/video/yersinia-in-pork/\">Yersinia in Pork</a></p>\n<p>MRSA (Methicillin-resistant Staph aureus) is another so-called superbug in the meat supply:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/airborne-mrsa/\">Airborne MRSA</a></li>\n<li><a href=\"https://nutritionfacts.org/video/mrsa-in-u-s-retail-meat/\">MRSA in U.S. Retail Meat</a></li>\n<li><a href=\"https://nutritionfacts.org/video/mrsa-superbugs-in-meat/\">MRSA Superbugs in Meat</a></li>\n</ul>\n<p>More on the scourge of antibiotic resistance and what can be done about it:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/antibiotics-agribusinesses-pound-of-flesh/\">Antibiotics: Agribusinesses’ Pound of Flesh</a></li>\n<li><a href=\"https://nutritionfacts.org/video/past-the-age-of-miracles-facing-a-post-antibiotic-age/\">Past the Age of Miracles: Facing a Post-Antibiotic Age</a></li>\n<li><a href=\"https://nutritionfacts.org/video/superbugs-in-conventional-vs-organic-chicken/\">Superbugs in Conventional vs. Organic Chicken</a></li>\n</ul>\n<p>How is it even legal to sell foods with such pathogens? See <a href=\"https://nutritionfacts.org/video/salmonella-in-chicken-turkey-deadly-but-not-illegal/\">Salmonella in Chicken &amp; Turkey: Deadly But Not Illegal</a> and <a href=\"https://nutritionfacts.org/video/chicken-salmonella-thanks-to-meat-industry-lawsuit/\">Chicken Salmonella Thanks to Meat Industry Lawsuit</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

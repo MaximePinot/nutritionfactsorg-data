@@ -1,0 +1,135 @@
+{
+  "Title": "Dental Implant Overdentures and Cognitive Function",
+  "Url": "https://nutritionfacts.org/video/dental-implant-overdentures-and-cognitive-function/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/UqX3sbJKk0c"
+  },
+  "UpdatedAt": "2024-02-19T12:50:10+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 64",
+    "Url": "https://nutritionfacts.org/volumes/volume-64/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Chewing pressure sensations to the nerves in the jaw have neurological effects.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nSystematic reviews and meta-analyses have found that tooth loss or periodontitis is associated with both cognitive impairment and dementia. Reverse causation might be an intuitive explanation—dementia leading to a decline in oral hygiene—but prospective studies following people over time have found that tooth loss appears to predict future cognitive decline, and the more missing teeth the higher the associated risk.\nGenetic determinants of elevated periodontitis risk do not appear to be associated with the development of Alzheimer’s disease, suggesting the association may be due to shared or confounding risk factors. A poor diet or low socioeconomic status represent common pathways for both tooth loss and dementia. But even studies controlling for confounding factors found a connection between tooth loss and dementia. However, one factor that wasn’t controlled for was intelligence. Those with higher IQ are both more likely to floss and have fewer tooth and gum problems, as well as have a delayed onset of clinically detectable Alzheimer’s due to a greater cognitive reserve.\nAre there any potential causal mechanisms beyond the chronic inflammation? If you induce periodontitis in mice with P. gingivalis, the keystone pathogen in human periodontitis, the bacteria end up in their brains, and trigger an increase in the Alzheimer’s-associated plaque protein amyloid beta. Since then, evidence of the bacteria has been found in human Alzheimer’s brains. Clinical trials are now underway to see if blocking its neurotoxic effects will have any therapeutic benefit.\nA clue to a stranger potential mechanism was unearthed in a subgroup analysis of a tooth loss and dementia meta-analysis. Only tooth loss among those without dentures was associated with the later development of dementia. The same tooth loss with dentures was not. How does that make any sense? A review entitled “Mastication for the Mind …” compiled a number of studies suggesting that chewing (mastication in medical speak) is somehow important for proper brain function. For example, the extraction of teeth from aged mice appears to upset their memory and learning. But maybe they’re just upset (in pain and inflamed) from having their teeth removed.\nA more convincing series of experiments compared mice given food pellets versus the same pellets crushed into powder. Those eating the “soft” diet, the powdered diet, also suffered a loss in memory and learning capacity. What does chewing have to do with cognition? Stick an ultrasound probe on someone’s head and you can detect an increase in cerebral blood flow of the largest artery branch in the brain when they clench their jaw or chew gum. In an fMRI machine, brain scans show enhanced cognitive arousal when chewing even tasteless, sugarless gum, though translational studies on the acute cognitive effects of gum chewing are contradictory. Maybe it’s not the chewing, though.\nCheck this out. Noticing that people missing molars on one side of their mouths have asymmetrically sized pupils (a smaller pupil on the missing molar side), researchers tested whether implanting dental crowns to replace the missing teeth could reduce the discrepancy. And it did! The study, subtitled “New Teeth for a Brighter Brain,” suggested that a gap in the sensation of teeth pushing up against one another adversely affects brain function. To put it to the test, we’d want to randomize people with missing teeth to get dentures, and see if their cognition improves over those who don’t. No such studies exist, but there was an intriguing pilot study performed.\nTen toothless individuals, nine out of 10 of them cognitively impaired, six of them severely so, were given conventional dentures for a month before being fitted with overdentures, which are snapped into titanium implants surgically screwed into the jawbone. The conventional dentures, held in place by adhesives and natural suction, did nothing to significantly alter cognitive function. But the ones securely attached to implants in the bone (presumably transmitting the same kind of chewing pressure sensations to the nerves in the jaw that the natural roots of teeth might), had a dramatic effect. Nine out of 10 of the subjects went into the study cognitively impaired, but eight out of 10 left the study cognitively intact. This suggests well-fitting, secure dental prosthesis isn’t just about improving self-confidence, social contact, and quality of life, but proper brain functioning as well.\nOf course, even better, though, would be to preserve the teeth you have.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Banu R F, Veeravalli PT, Kumar V A. Comparative evaluation of changes in brain activity and cognitive function of edentulous patients, with dentures and two-implant supported mandibular overdenture-pilot study. Clin Implant Dent Relat Res. 2016;18(3):580-587.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25825258/"
+    },
+    {
+      "Title": "Chen J, Ren CJ, Wu L, et al. Tooth loss is associated with increased risk of dementia and with a dose-response relationship. Front Aging Neurosci. 2018;10:415.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30618721/"
+    },
+    {
+      "Title": "Darveau RP, Hajishengallis G, Curtis MA. Porphyromonas gingivalis as a potential community activist for disease. J Dent Res. 2012;91(9):816-820.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22772362/"
+    },
+    {
+      "Title": "De Cicco V, Barresi M, Tramonti Fantozzi MP, Cataldo E, Parisi V, Manzoni D. Oral implant-prostheses: new teeth for a brighter brain. PLoS One. 2016;11(2):e0148715.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26919258/"
+    },
+    {
+      "Title": "Der G, Batty GD, Deary IJ. The association between IQ in adolescence and a range of health outcomes at 40 in the 1979 US National Longitudinal Study of Youth. Intelligence. 2009;37(6):573-580.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19907663/"
+    },
+    {
+      "Title": "Dominy SS, Lynch C, Ermini F, et al. Porphyromonas gingivalis in Alzheimer’s disease brains: Evidence for disease causation and treatment with small-molecule inhibitors. Sci Adv. 2019;5(1):eaau3333.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30746447/"
+    },
+    {
+      "Title": "Fang WL, Jiang MJ, Gu BB, et al. Tooth loss as a risk factor for dementia: systematic review and meta-analysis of 21 observational studies. BMC Psychiatry. 2018;18(1):345.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30342524/"
+    },
+    {
+      "Title": "Harding A, Gonder U, Robinson SJ, Crean S, Singhrao SK. Exploring the association between alzheimer’s disease, oral health, microbial endocrinology and nutrition. Front Aging Neurosci. 2017;9:398.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29249963/"
+    },
+    {
+      "Title": "Hasegawa Y, Ono T, Hori K, Nokubi T. Influence of human jaw movement on cerebral blood flow. J Dent Res. 2007;86(1):64-68.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17189465/"
+    },
+    {
+      "Title": "Hirano Y, Obata T, Takahashi H, et al. Effects of chewing on cognitive processing speed. Brain Cogn. 2013;81(3):376-381.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23375117/"
+    },
+    {
+      "Title": "Ilievski V, Zuchowska PK, Green SJ, et al. Chronic oral application of a periodontal pathogen results in brain inflammation, neurodegeneration and amyloid beta production in wild type mice. PLoS One. 2018;13(10):e0204941.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30281647/"
+    },
+    {
+      "Title": "Kondo H, Kurahashi M, Mori D, et al. Hippocampus-dependent spatial memory impairment due to molar tooth loss is ameliorated by an enriched environment. Arch Oral Biol. 2016;61:1-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26476746/"
+    },
+    {
+      "Title": "Nascimento PC, Castro MML, Magno MB, et al. Association between periodontitis and cognitive impairment in adults: a systematic review. Front Neurol. 2019;10:323.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31105630/"
+    },
+    {
+      "Title": "Stern Y. Cognitive reserve in ageing and Alzheimer’s disease. Lancet Neurol. 2012;11(11):1006-1012.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23079557/"
+    },
+    {
+      "Title": "Sun YQ, Richmond RC, Chen Y, Mai XM. Mixed evidence for the relationship between periodontitis and Alzheimer’s disease: A bidirectional Mendelian randomization study. PLoS One. 2020;15(1):e0228206.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31978120/"
+    },
+    {
+      "Title": "Weijenberg R a. F, Scherder EJA, Lobbezoo F. Mastication for the mind--the relationship between mastication and cognition in ageing and dementia. Neurosci Biobehav Rev. 2011;35(3):483-497.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20547177/"
+    },
+    {
+      "Title": "Weijenberg RAF, Delwel S, Ho BV, van der Maarel-Wierink CD, Lobbezoo F. Mind your teeth-The relationship between mastication and cognition. Gerodontology. 2019;36(1):2-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30480331/"
+    },
+    {
+      "Title": "Weijenberg RAF, Lobbezoo F. Chew the pain away: oral habits to cope with pain and stress and to stimulate cognition. Biomed Res Int. 2015;2015:149431.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26090381/"
+    },
+    {
+      "Title": "Wraw C, Der G, Gale CR, Deary IJ. Intelligence in youth and health behaviours in middle age. Intelligence. 2018;69:71-86.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30100645/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "dental health",
+      "Url": "https://nutritionfacts.org/topics/dental-health/"
+    },
+    {
+      "Title": "memory",
+      "Url": "https://nutritionfacts.org/topics/memory/"
+    },
+    {
+      "Title": "periodontal disease",
+      "Url": "https://nutritionfacts.org/topics/periodontal-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">To help prevent gum disease from developing in the first place, check out some of my other videos, including:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/plant-based-diets-oral-health/\"><span style=\"font-weight: 400\">Plant-Based Diets: Oral Health</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/best-food-for-periodontal-disease-and-gingivitis/\"><span style=\"font-weight: 400\">Best Food for Periodontal Disease and Gingivitis</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-to-treat-periodontitis-with-diet/\"><span style=\"font-weight: 400\">How to Treat Periodontitis with Diet</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

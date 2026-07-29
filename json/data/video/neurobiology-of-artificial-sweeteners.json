@@ -1,0 +1,87 @@
+{
+  "Title": "Neurobiology of Artificial Sweeteners",
+  "Url": "https://nutritionfacts.org/video/neurobiology-of-artificial-sweeteners/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/UEdDlFTLcUU"
+  },
+  "UpdatedAt": "2012-12-06T12:46:17+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The disconnect between sweetness sensations coming from our tongue, and the lack of a caloric feedback loop in the gut, may result in overeating.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nOther than overcompensation for expected caloric reduction, there are two other ways that even the most nontoxic, noncaloric sweetener could still be harmful—if we’re not careful.\nWhen our brain registers the sensation of sweetness on our tongue, it has millions of years of evolution telling it we just put a piece of fruit in our mouth. And so, your brain yells, eat it, and boosts our appetite—because the only naturally sweet things on the planet are super healthy, right? Fruit; sweet potatoes; beets.\nYou drink a can of diet soda, and your brain thinks you just stumbled across a wild blueberry bush or something—and sends urgent signals to consume, consume, before someone else gets wind of our bounty.\nNow, your body’s not stupid. It knows if you eat too many calories of any food, you might get fat, and not be able to outrun some sabertooth tiger. So, there are signals that come up from our gut when we absorb calories into our system—telling us eventually to, okay, slow down, we’ve had enough.\nBut, with noncaloric sweeteners, we have a disconnect. We just have the appetite-boosting effects on our brain of the sweet nerve sensations from our tongue, but without the appetite-suppressing effects of the calories coming into our system.\nAnd so, this revved-up appetite may lead us to overeat—more than we would have without the diet soda—and end up gaining weight.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Frank GK, Oberndorfer TA, Simmons AN, Paulus MP, Fudge JL, Yang TT, Kaye WH. Sucrose activates human taste pathways differently from artificial sweetener. Neuroimage. 2008 Feb 15;39(4):1559-69.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18096409"
+    },
+    {
+      "Title": "Yang Q. Gain weight by “going diet?” Artificial sweeteners and the neurobiology of sugar cravings.  Yale J Biol Med. 2010 Jun;83(2):101-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20589192"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Uwe Hermann, and Bukowsky18; Vik Approved; Artondra Hall; and Johnn via flickr",
+  "Topics": [
+    {
+      "Title": "artificial sweeteners",
+      "Url": "https://nutritionfacts.org/topics/artificial-sweeteners/"
+    },
+    {
+      "Title": "beets",
+      "Url": "https://nutritionfacts.org/topics/beets/"
+    },
+    {
+      "Title": "blueberries",
+      "Url": "https://nutritionfacts.org/topics/blueberries/"
+    },
+    {
+      "Title": "caloric restriction",
+      "Url": "https://nutritionfacts.org/topics/caloric-restriction/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "sweet potatoes",
+      "Url": "https://nutritionfacts.org/topics/sweet-potatoes/"
+    },
+    {
+      "Title": "sweeteners",
+      "Url": "https://nutritionfacts.org/topics/sweeteners/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>The overcompensation mechanism was explored in <a href=\"https://nutritionfacts.org/video/how-diet-soda-could-make-us-gain-weight/\">How Diet Soda Could Make Us Gain Weight</a>. Note that both can be overcome if one is eating consciously. The same goes for the final potential mechanism in <a href=\"https://nutritionfacts.org/video/unsweetening-the-diet/\">Unsweetening the Diet</a>.</p>\n<p>For further context, check out my associated blog post: <a href=\"https://nutritionfacts.org/blog/how-to-gain-weight-on-diet-soda/\">How to Gain Weight on Diet Soda</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

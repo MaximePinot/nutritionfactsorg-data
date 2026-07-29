@@ -1,0 +1,107 @@
+{
+  "Title": "Anti Up on the Veggies",
+  "Url": "https://nutritionfacts.org/video/anti-up-on-the-veggies/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/THFJtJJ-CoQ"
+  },
+  "UpdatedAt": "2012-01-26T13:00:20+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Greens rank highest in chemical antioxidant assays (such as ORAC, TEAC, TRAP, and FRAP). But which vegetables lead the pack when cellular antioxidant activity is measured?",
+  "Transcript": "In choosing the healthiest foods, you may notice that everywhere you look, everyone seems to have a different top ten list of the most antioxidant-rich foods, with probably dozens of competing commercial products swearing theirs is the best of the best.\nSome are probably just making stuff up, but genuine competing estimates arise from people citing old data, where they only test a few dozen foods, or a few hundred. But other disparities arise from different labs using different tests.\nThere are four in common usage: ORAC, TEAC, TRAP, and FRAP. USDA likes ORAC. These researchers used FRAP—in part because it’s one of the quickest methods, which is important if you’re doing 3,000 foods. Each has their pros and cons, but the problem with all of them is that they’re just measuring how good a particular food is at altering a chemical oxidation reaction in a test tube. It’s not done in a biological system.\nBut for the first time ever, scientists at Cornell took 27 vegetables, and measured their cellular antioxidant activity—their ability to quench free radicals within cells—by testing various vegetables on cultures of human liver cells. Sure, some phytonutrient may be a great antioxidant outside the cell, but what if it can’t get inside the cell? That’s where we need it!\nIf you do the standard ORAC test, this is what you find: spinach at the top, cucumber at the bottom. No surprise; dark green leafy leads the pack. But again, this is a chemical assay, measuring how these foods slow down some oxidation reaction in a test tube—a reaction that actually doesn’t even occur in nature. But hey, look, it’s the best we had, until now.\nAny guesses as to who was able to unseat spinach? Here’s the cellular antioxidant activity. Cucumber is still at the bottom. But now, beating everyone else: beets! Number one, spinach, isn’t even in the top ten any more. All the cruciferous moved ahead: Brussels sprouts, broccoli, cabbage, cauliflower. And hey, look, between the beets and the red bell pepper, it looks like the greens got beat out by the reds.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is transcript contributed by Bruce A. Hamilton. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Carlsen MH, Halvorsen BL, Holte K, Bøhn SK, Dragland S, Sampson L, Willey C, Senoo H, Umezono Y, Sanada C, Barikmo I, Berhe N, Willett WC, Phillips KM, Jacobs DR Jr, Blomhoff R.  The total antioxidant content of more than 3100 foods, beverages, spices, herbs and supplements used worldwide. Nutr J. 2010 Jan 22;9:3.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2841576/pdf/1475-2891-9-3.pdf"
+    },
+    {
+      "Title": "Huang D, Ou B, Prior RL. The chemistry behind antioxidant capacity assays. J Agric Food Chem. 2005 Mar 23;53(6):1841-56.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15769103"
+    },
+    {
+      "Title": "Litescu SC, Eremia S, Radu GL. Methods for the determination of antioxidant capacity in food and raw materials. Adv Exp Med Biol. 2011;698:241-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21520716"
+    },
+    {
+      "Title": "Song W1, Derito CM, Liu MK, He X, Dong M, Liu RH. Cellular Antioxidant Activity of Common Vegetables. J. Agric. Food Chem. 2010, 58, 6621-6629.",
+      "Url": null
+    },
+    {
+      "Title": "Wu X, Beecher GR, Holden JM, Haytowitz DB, Gebhardt SE, Prior RL. Lipophilic and hydrophilic antioxidant capacities of common foods in the United States. J Agric Food Chem. 2004 Jun 16;52(12):4026-37.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15186133"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Daderot via Wikimedia Commons.",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "beets",
+      "Url": "https://nutritionfacts.org/topics/beets/"
+    },
+    {
+      "Title": "bell peppers",
+      "Url": "https://nutritionfacts.org/topics/bell-peppers/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "Brussels sprouts",
+      "Url": "https://nutritionfacts.org/topics/brussels-sprouts/"
+    },
+    {
+      "Title": "cabbage",
+      "Url": "https://nutritionfacts.org/topics/cabbage/"
+    },
+    {
+      "Title": "cauliflower",
+      "Url": "https://nutritionfacts.org/topics/cauliflower/"
+    },
+    {
+      "Title": "cruciferous vegetables",
+      "Url": "https://nutritionfacts.org/topics/cruciferous-vegetables/"
+    },
+    {
+      "Title": "cucumbers",
+      "Url": "https://nutritionfacts.org/topics/cucumbers/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "spinach",
+      "Url": "https://nutritionfacts.org/topics/spinach/"
+    },
+    {
+      "Title": "USDA",
+      "Url": "https://nutritionfacts.org/topics/usda/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Be sure to check out all my <a href=\"https://nutritionfacts.org/topics/antioxidants/\" rel=\"nofollow\">other videos on antioxidants</a>. </p>\n<p>Check out my associated blog post for more context:  <a href=\"https://nutritionfacts.org/2013/12/10/which-common-fruit-fights-cancer-better/\">Which Common Fruit Fights Cancer Better?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Title": "Should We Be Concerned About the Cyanide from Flax Seed?",
+  "Url": "https://nutritionfacts.org/video/should-we-be-concerned-about-the-cyanide-from-flaxseed/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/5R-s4KoVa1o"
+  },
+  "UpdatedAt": "2019-05-13T11:50:46+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 46",
+    "Url": "https://nutritionfacts.org/volumes/volume-46/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "In a worst-case scenario, how much flax seed is too much?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Flaxseed [packs] a nutritional punch,” and, as a bonus, the release of cyanide from flax seed is “below [a] toxic lethal dose.” Well, I should hope so. Back-of-the-envelope type calculations have led industry-funded scientists to assert that “a person would have to consume eight cups…of ground flaxseed [at a time] to achieve acute cyanide toxicity.” I’d feel better, though, if it was actually put to the test.\nResearchers tested flax seeds under “worse case [scenario] conditions with respect to resulting in higher cyanide levels in the blood.” So, “1”: locate the flax seed with the “highest level of cyanide”-forming compounds you can find. So, they went to stores and bought 15 different sources of flax seed, and though the average level was 140 milligrams per kilo, which is about typical, they did find one with 220, so they used that one. “2”: “maximal mechanical destruction” to release the most cyanide; so, they used some crazy 20,000 RPM lab grinder.“3”: eat it all at once on an empty stomach, and then keep the stomach empty. And, they gave it raw, since cooking can often wipe it all out. If the recommended daily dose is like one or two tablespoons of ground flax seed a day—I recommend one in my Daily Dozen checklist—they decided to go with four and a half tablespoons. Okay, so what happened?\nThe range of cyanide blood levels that one might estimate to possibly be associated with the “clinical symptoms of intoxication” would be like 20 to 40. So, that would be like here or higher, where we want to stay below. So, four and a half tablespoons on an empty stomach of the highest cyanide-containing ultra-ground raw flax seeds they could find and…the highest individual level rise was just under 14, and the average was down around six.\nThere has to be some amount of flax that takes you over the limit, though. So, they tested nine tablespoons, and 15 tablespoons too. Remember, we start to worry at around 20 to 40. Three and a half teaspoons of raw high-cyanide ground flax on an empty stomach? Hardly a blip. Seven teaspoons at a time? Same thing. Fourteen teaspoons (four and a half tablespoons) and there’s that six. Okay, but what about a little over nine tablespoons—that’s over a half-cup at a time—and that does start skirting toxicity. And finally, what about a whole cup? I don’t even know how you’d eat a whole cup at once, but that is too much, putting you in that potential toxic range for about three hours. So much for the industry’s eight-cups-at-a-time-are-safe. But even in this worse-case scenario situation, one cup raw on an empty stomach at the highest dose they could find, that person still didn’t actually have any clinical symptoms. This is consistent with the fact that there’s not a single published report of cyanide poisoning after consumption of flax seeds anywhere in the literature, even from Swedish health spas, where they evidently give up to 12 tablespoons as a “fibre shock.” Usually, high doses are two or so tablespoons three times a day, and this dose would be “safe with respect to possible acute toxicity of cyanide.”\nOkay, but what about any possible chronic toxicity? The World Health Organization has something called the “PMTDI”—the “provisional maximum tolerable daily intake.” It’s defined as the amount you can eat safely, every day, for the rest of your life, without risking any adverse health effects, based on the best available data—though often, that’s just like rat studies, as it was in this case. If you put varying doses of cyanide in the drinking water of rats for a few months, at a certain level, the so-called benchmark dose lower confidence limit, there’s a 10 percent increased incidence of shrinkage of the tail of the epididymis, which is where sperm is stored in the testicles. That happens at the human equivalent of about 150 tablespoons of flax seeds a day worth of cyanide. But, they want to err on the side of caution, so they introduce “a 100-fold uncertainty factor” to create the PMTDI. So, instead of 150 tablespoons of flaxseeds a day, the average American should stick to under 1.5 tablespoons a day if you’re going to eat them every day. So, my tablespoon-a-day Daily Dozen recommendation should be safe by any of these standards.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Abraham K, Buhrke T, Lampen A. Bioavailability of cyanide after consumption of a single meal of foods containing high levels of cyanogenic glycosides: a crossover study in humans. Arch Toxicol. 2016;90(3):559-74.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25708890"
+    },
+    {
+      "Title": "Evaluation of certain food additives and contaminants: seventy-fourth [‎74th]‎ report of the Joint FAO/WHO Expert Committee on Food Additives.",
+      "Url": "http://www.who.int/iris/handle/10665/44788"
+    },
+    {
+      "Title": "Ganorkar PM, Jain RK. Flaxseed – a nutritional punch. Int Food Res J. 2013;20:519–525",
+      "Url": "http://www.ifrj.upm.edu.my/20%20(02)%202013/1%20IFRJ%2020%20(02)%202013%20Ganorkar%20(236).pdf"
+    },
+    {
+      "Title": "Hall C, Tulbek MC, Xu Y. Flaxseed. Adv Food Nutr Res. 2006;51:1-97.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17011474"
+    },
+    {
+      "Title": "Mishra S. Flaxseed- Bioactive compounds and health significance. IOSR-JHSS. 17(3):46-50.",
+      "Url": "https://www.researchgate.net/publication/269752381_Flaxseed-_Bioactive_compounds_and_health_significance"
+    },
+    {
+      "Title": "NTP Toxicity Studies of Sodium Cyanide (CAS No. 143-33-9) Administered by Dosed Water to F344/N Rats and B6C3F1 Mice. Toxic Rep Ser. 1993;37:1-D3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11965236"
+    }
+  ],
+  "Acknowledgements": "Image credit: Jai79 via pixabay. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "Daily Dozen",
+      "Url": "https://nutritionfacts.org/topics/daily-dozen/"
+    },
+    {
+      "Title": "flaxseeds",
+      "Url": "https://nutritionfacts.org/topics/flax-seeds/"
+    },
+    {
+      "Title": "World Health Organization",
+      "Url": "https://nutritionfacts.org/topics/world-health-organization/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Cooking doesn’t always necessarily wipe it all out. See my last video, check out <a href=\"https://nutritionfacts.org/video/how-well-does-cooking-destroy-the-cyanide-in-flaxseeds/\">How Well Does Cooking Destroy the Cyanide in Flax Seeds?</a></p>\n<p>Why do I recommend a tablespoon a day (in my <a href=\"https://nutritionfacts.org/video/dr-gregers-daily-dozen-checklist/\">Dr. Greger’s Daily Dozen Checklist</a>)? Check out what they can do:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/flax-seeds-for-hypertension/\">Flax Seeds for Hypertension</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flaxseeds-breast-cancer-survival-clinical-evidence/\">Flax Seeds &amp; Breast Cancer Survival: Clinical Evidence</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-flax-seeds-help-prevent-breast-cancer/\">Can Flax Seeds Help Prevent Breast Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flaxseed-vs-prostate-cancer/\">Flax Seeds vs. Prostate Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flax-seeds-for-breast-pain/\">Flax Seeds for Breast Pain</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flaxseed-vs-diabetes/\">Flax Seeds vs. Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flaxseeds-breast-cancer-prevention/\">Flax Seeds &amp; Breast Cancer Prevention</a></li>\n</ul>\n<p><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/golden-vs-brown-flaxseed-which-has-more-benefits/\">Golden vs Brown Flaxseed: Which Has More Benefits?</a> Check out the video.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

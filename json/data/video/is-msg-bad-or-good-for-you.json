@@ -1,0 +1,99 @@
+{
+  "Title": "Is MSG Bad or Good for You?",
+  "Url": "https://nutritionfacts.org/video/is-msg-bad-or-good-for-you/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/ZBYF0v1JdsQ"
+  },
+  "UpdatedAt": "2025-06-30T11:50:18+00:00",
+  "Author": "Kristine Dennis PhD, MPH",
+  "Volume": {
+    "Title": "Volume 69",
+    "Url": "https://nutritionfacts.org/volumes/volume-69/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Do the reactions ascribed to monosodium glutamate (MSG) represent a menace, myth, or marvel?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Dennis may be referring, watch the above video.\nReducing sodium intake by 30 percent could save the lives of more than 40 million people. And guess what can reduce sodium intake by more than 30 percent in standard recipes? Substituting traditional salt with monosodium glutamate, commonly known as MSG. But what about “Chinese Restaurant Syndrome,” reported in a 1968 letter to the New England Journal of Medicine, characterized by numbness on the back of the neck, general weakness, and palpitation? One of the proposed causes was MSG, a common seasoning often used in Chinese cooking. Since then, MSG has been blamed for causing numerous adverse reactions, including asthma, headache, and neuropsychiatric disorders. But is this so-called monosodium glutamate “allergy” a menace or a myth?\nYou don’t know until you put it to the test––or in this case, many tests. In a multicenter, double-blind, placebo-controlled, multiple-challenge trial of MSG, 130 self-reported MSG-reactive volunteers first consumed beverages containing 5g of MSG or a placebo, and those who reported two or more of 10 different symptoms, such as flushing or headache, were then re-challenged in a dose-response study. Of the 19 people who consistently responded to 5g of MSG mixed in a drink, once MSG was given in a capsule (therefore ensuring people couldn’t actually taste the MSG, which they could when it was mixed in a drink), only two people had reactions. The researchers noted that large doses of MSG without food may result in more symptoms, but no persistent or serious effects were observed. For context, estimated MSG intakes in the UK are about 0.58 g/day and in Asian countries, such as China, Korea, and Vietnam, where it is a more commonly used seasoning, it ranges from 0.33 g/day to 3.8 g/day, which is generally much less than the massive 5g or greater single doses provided in the challenge trials. Yet only two out of 130 people who claimed to be sensitive to MSG had any more symptoms than when they just took a placebo.\nGiven the controversy, consensus meetings with scientific experts convened in 1997 and again in 2007, and concluded that MSG was harmless and no dietary intake limits needed to be set. But in 2017, the European Food Safety Authority reevaluated the safety of glutamate as a food additive, and decided to set a limit of 30mg per kilogram of body weight per day, which is exceeded by most people every day. This limit was based off a rat study from 1979, with the European Food Safety Authority (EFSA) citing potential neurodevelopmental toxicity concerns. But even the author of the original study says they failed to convincingly show such an effect.\nAnd given MSG’s salt-reducing benefits, might it be a-okay as a much-needed tool to reduce sodium in foods? Now, MSG still has sodium; it’s monosodium glutamate, after all, with about one-third the sodium of typical table salt. So a better salt substitute would be potassium salt––potassium chloride, which has the potential to save even more lives.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Beyreuther K, Biesalski HK, Fernstrom JD, et al. Consensus meeting: monosodium glutamate – an update. Eur J Clin Nutr. 2007;61(3):304-313.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16957679/"
+    },
+    {
+      "Title": "EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS), Mortensen A, Aguilar F, et al. Re-evaluation of glutamic acid (E 620), sodium glutamate (E 621), potassium glutamate (E 622), calcium glutamate (E 623), ammonium glutamate (E 624) and magnesium glutamate (E 625) as food additives. EFSA J. 2017;15(7):e04910.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32625571/"
+    },
+    {
+      "Title": "Geha RS, Beiser A, Ren C, et al. Multicenter, double-blind, placebo-controlled, multiple-challenge evaluation of reported reactions to monosodium glutamate. J Allergy Clin Immunol. 2000;106(5):973-980.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11080723/"
+    },
+    {
+      "Title": "Geha RS, Beiser A, Ren C, et al. Review of alleged reaction to monosodium glutamate and outcome of a multicenter double-blind placebo-controlled study. J Nutr. 2000;130(4S Suppl):1058S-62S.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10736382/"
+    },
+    {
+      "Title": "Halim J, Bouzari A, Felder D, Guinard JX. The salt flip: sensory mitigation of salt (and sodium) reduction with monosodium glutamate (msg) in “better-for-you” foods. J Food Sci. 2020;85(9):2902-2914.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32776553/"
+    },
+    {
+      "Title": "Kontis V, Cobb LK, Mathers CD, Frieden TR, Ezzati M, Danaei G. Three public health interventions could save 94 million lives in 25 years. Circulation. 2019;140(9):715-725.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31177824/"
+    },
+    {
+      "Title": "Kwok RH. Chinese-restaurant syndrome. N Engl J Med. 1968;278(14):796.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25276867/"
+    },
+    {
+      "Title": "Maluly HDB, Arisseto-Bragotto AP, Reyes FGR. Monosodium glutamate as a tool to reduce sodium in foodstuffs: technological and safety aspects. Food Sci Nutr. 2017;5(6):1039-1048.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29188030/"
+    },
+    {
+      "Title": "Sugimoto M, Murakami K, Fujitani S, Matsumoto H, Sasaki S. Dietary free glutamate comes from a variety of food products in the United States. Nutr Res. 2019;67:67-77.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30979663/"
+    },
+    {
+      "Title": "Vorhees CV. A test of dietary monosodium glutamate developmental neurotoxicity in rats: a reappraisal. Ann Nutr Metab. 2018;73 Suppl 5:36-42.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30508817/"
+    },
+    {
+      "Title": "Wahlstedt A, Bradley E, Castillo J, Burt KG. Msg is a-ok: exploring the xenophobic history of and best practices for consuming monosodium glutamate. J Acad Nutr Diet. 2022;122(1):25-29.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33678597/"
+    },
+    {
+      "Title": "Williams AN, Woessner KM. Monosodium glutamate “allergy”: menace or myth? Clin Exp Allergy. 2009;39(5):640-646.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19389112/"
+    },
+    {
+      "Title": "Yang WH, Drouin MA, Herbert M, Mao Y, Karsh J. The monosodium glutamate symptom complex: assessment in a double-blind, placebo-controlled, randomized study. J Allergy Clin Immunol. 1997;99(6 Pt 1):757-762.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9215242/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "asthma",
+      "Url": "https://nutritionfacts.org/topics/asthma/"
+    },
+    {
+      "Title": "headaches",
+      "Url": "https://nutritionfacts.org/topics/headaches/"
+    },
+    {
+      "Title": "MSG",
+      "Url": "https://nutritionfacts.org/topics/msg/"
+    },
+    {
+      "Title": "potassium chloride",
+      "Url": "https://nutritionfacts.org/topics/potassium-chloride/"
+    },
+    {
+      "Title": "sodium",
+      "Url": "https://nutritionfacts.org/topics/sodium/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p data-pm-slice=\"1 1 []\">A note from Dr. Greger:</p>\n<p>I am thrilled to introduce Dr. Kristine Dennis, our Senior Research Scientist. Dr. Dennis is an experienced nutrition and public health scientist who joined NutritionFacts to expand our research capacity — diving deep into the research, writing scripts, and now, narrating her own videos! You’ll continue to see videos from both of us interspersed in no particular order. I’m so happy Kristine is with NutritionFacts to help expand our capacity and perspectives.</p>\n<p><span style=\"font-weight: 400\">Dr. Greger covered potassium chloride in a one-hour webinar with Q&amp;A. Check out the </span><a href=\"https://nutritionfacts.org/webinar/are-potassium-salt-substitutes-safe-and-effective/\"><span style=\"font-weight: 400\">recording</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

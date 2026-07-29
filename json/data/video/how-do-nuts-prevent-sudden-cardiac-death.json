@@ -1,0 +1,95 @@
+{
+  "Title": "How Do Nuts Prevent Sudden Cardiac Death?",
+  "Url": "https://nutritionfacts.org/video/how-do-nuts-prevent-sudden-cardiac-death/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/BrJ2HY4EnRA"
+  },
+  "UpdatedAt": "2012-07-30T11:11:35+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 9",
+    "Url": "https://nutritionfacts.org/volumes/volume-9/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Most men and women who die of heart disease, our #1 killer, die suddenly without any known history of heart problems. Nut consumption, however, has been associated specifically with decreased risk of sudden cardiac death, which may be due to magnesium, a mineral found predominantly in whole grains, greens, beans, nuts, and seeds.",
+  "Transcript": "In a language of certainty rarely seen in the medical literature, “All studies conclude that nuts can play an important role as part of a healthy diet in order to minimize cardiovascular risk and obtain multiple health benefits.”\nWhat could possibly be in nuts that appears to so powerfully cut heart disease risk by about a third, on average? The clue is that the “reduction in total [coronary heart disease] death associated with nut consumption was due primarily to a decrease in sudden cardiac death.”\nTo review, more than half of all heart disease deaths are sudden, and “most patients who suffer sudden cardiac death…are not [considered] at high risk on the basis of established criteria, and up to 55% of men and 68% of women have no clinically recognized heart disease before sudden death.”\nOf course, they obviously had rampant heart disease; it just wasn’t recognized until they were lying in the morgue. So, if there was ever a case to be made for primary prevention—starting to eat healthier right now, tonight, before symptoms arise—sudden cardiac death is it, since our first symptom is often our last. Okay; so, how do we do it?\nOur story begins 43 years ago, with a fascinating paper in the New England Journal [of Medicine]: “Sudden Death and Ischemic Heart Disease: Correlation with Hardness of the Local Water Supply.” There appeared to be “an increased susceptibility to lethal arrhythmias [fatal heart rhythms] among residents of soft-water areas.” So, maybe one of the minerals found in hard water is protective; but which one? Well, let’s cut some hearts open, and find out.\n“Differences in metal content of the heart muscle in death from ischemic heart disease.” On autopsy, the hearts of sudden cardiac death victims had significantly lower magnesium concentrations compared to people that just got hit by a bus or something. So, hmm, maybe there’s a connection? But it wasn’t put it to the test, until recently.\nWhy the decades long delay in testing a potentially cheap, simple way to help prevent our #1 killer? That’s exactly the problem: cheap. Where’s magnesium found? Whole grains, greens, beans, nuts, and seeds. Who’s going to fund the study? The pumpkin seed lobby? Big Spinach?\nIf magnesium was found to be protective, who’s going to profit? Who’s going to benefit? Other, of course, than the hundreds of thousands of Americans that keel over dead every year, without even being able to say goodbye to their families.\nI’ll cover the new magnesium studies tomorrow.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Serena.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Alexiadou K, Katsilambros N. Nuts: anti-atherogenic food? Eur J Intern Med. 2011 Apr; 22(2):141-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21402243"
+    },
+    {
+      "Title": "Anderson TW, Le Riche WH, MacKay JS. Sudden death and ischemic heart disease. Correlation with hardness of local water supply. N Engl J Med. 1969 Apr 10;280(15):805-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/5773639"
+    },
+    {
+      "Title": "Chipperfield B, Chipperfield JR. Differences in metal content of the heart muscle in death from ischemic heart disease. Am Heart J. 1978 Jun; 95(6):732-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/655086"
+    },
+    {
+      "Title": "Chiuve SE, Korngold EC, Januzzi JL Jr, Gantzer ML, Albert CM. Plasma and dietary magnesium and risk of sudden cardiac death in women. Am J Clin Nutr. 2011 Feb; 93(2):253-60.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3021423/pdf/ajcn9320253.pdf"
+    },
+    {
+      "Title": "Kris-Etherton PM, Hu FB, Ros E, Sabaté J. The Role of Tree Nuts and Peanuts in the Prevention of Coronary Heart Disease: Multiple Potential Mechanisms. J Nutr. 2008 Sep; 138(9):1746S-1751S.",
+      "Url": "http://jn.nutrition.org/content/138/9/1746S.full.pdf+html"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "magnesium",
+      "Url": "https://nutritionfacts.org/topics/magnesium/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "pumpkin seeds",
+      "Url": "https://nutritionfacts.org/topics/pumpkin-seeds/"
+    },
+    {
+      "Title": "seeds",
+      "Url": "https://nutritionfacts.org/topics/seeds/"
+    },
+    {
+      "Title": "spinach",
+      "Url": "https://nutritionfacts.org/topics/spinach/"
+    },
+    {
+      "Title": "water",
+      "Url": "https://nutritionfacts.org/topics/water/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>In <a href=\"https://nutritionfacts.org/video/mineral-of-the-year-magnesium/\" rel=\"nofollow\">Mineral of the Year–Magnesium</a>, I review the new studies that test this exciting hypothesis. For more on preventing sudden cardiac death, see <a href=\"https://nutritionfacts.org/video/our-number-one-killer-can-be-stopped/\" rel=\"nofollow\">Our Number One Killer Can Be Stopped</a>; <a href=\"https://nutritionfacts.org/video/china-study-on-sudden-cardiac-death/\" rel=\"nofollow\">China Study on Sudden Cardiac Death</a>; and <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=584\" rel=\"nofollow\">Boosting Heart Nerve Control</a>. Also, be sure to check out my <a href=\"https://nutritionfacts.org/topics/nuts/\" rel=\"nofollow\">other videos on nuts</a>, including <a href=\"https://nutritionfacts.org/video/eating-healthy-on-the-cheap/\" rel=\"nofollow\">Eating Healthy on the Cheap</a>; <a href=\"https://nutritionfacts.org/video/atkins-diet-trouble-keeping-it-up/\" rel=\"nofollow\">Atkins Diet: Trouble Keeping It Up</a>; <a href=\"https://nutritionfacts.org/video/plant-protein-preferable/\" rel=\"nofollow\">Plant Protein Preferable</a>; <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=609\" rel=\"nofollow\">Diverticulosis &amp; Nuts</a>; and <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=499\" rel=\"nofollow\">The Best Nut</a>. </p>\n<p>And check out my associated blog post: <a href=\"https://nutritionfacts.org/2012/11/08/magnesium-to-prevent-sudden-cardiac-death/\" rel=\"nofollow\">Magnesium-Rich Foods to Prevent Sudden Death</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

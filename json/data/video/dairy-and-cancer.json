@@ -1,0 +1,219 @@
+{
+  "Title": "Dairy and Cancer",
+  "Url": "https://nutritionfacts.org/video/dairy-and-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/aIPksx7XLzk"
+  },
+  "UpdatedAt": "2019-03-13T11:50:47+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 46",
+    "Url": "https://nutritionfacts.org/volumes/volume-46/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How do we explain the increased risk of prostate cancer but the decreased risk of colon cancer associated with dairy consumption?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nStudies comparing country-by-country cancer rates “have shown up to a 70-fold variation in the incidence of prostate cancer worldwide with low rates in parts of Asia and Africa and high rates in North America, Australia, New Zealand, and Northern Europe.” Here’s the map of prostate cancer mortality. Could dairy consumption have something to do with it, given Northern Europeans, Americans, and Australians drink a lot of milk, whereas most non-Caucasians in the world are lactose intolerant? But just because a country drinks a lot of milk and has a lot of cancer doesn’t mean the individuals within the country that are drinking the milk are getting the cancer. That’s why we need “cohort studies,” where you find out how much milk people drink, and follow those individuals over time, and see if those who drink more milk get more cancer.\nThere have been dozens of such studies done. Put them all together, and “[i]ntakes of total dairy products [including low-fat milk] were [indeed] associated with increased [prostate cancer] risk.” The question is…why? Maybe it’s just all the calcium. They found that the more calcium people consumed, the higher their risk of prostate cancer. Yeah, but most people get their calcium from dairy. So, how do we know this isn’t just a dairy effect? Before we start worrying about kale and other non-dairy sources of calcium, it would be nice to see dairy calcium teased out from non-dairy calcium intakes. And that’s exactly what they did. Yes, the more calcium from dairy sources, the higher the risk of cancer, but non-dairy sources of calcium were found to be protective. So, it wasn’t a calcium effect; it was a dairy effect. This suggests that “other components of dairy” may be to blame.\nThey suggest it’s the animal protein, boosting the levels of a cancer-promoting growth hormone called IGF-1: insulin-like growth factor 1. If you look at 28 studies involving nearly 28,000 people—this is what’s called an albatross plot. Any study to the right of this line shows a link between IGF-1 levels and dairy products, milk specifically, or dairy protein consumption. And, any study hitting this line or over shows a significant association with higher IGF-1 levels.\nThis could also explain why plant-based diets can be so protective. Put watch-and-wait cancer patients on a whole-food, plant-based diet for a year—no chemo, no radiation; lifestyle changes only—and get “a significant reduction in PSA level[s],” indicative of tumor shrinkage: their bloodstream becoming nearly eight times better at suppressing the growth of cancer cells. Do biopsies, and you can show changes in gene expression, a down-regulation of critical cancer genes, effectively switching off cancer growth genes at a genetic level. Whereas, if you instead eat lots of dairy after a prostate cancer diagnosis, you may suffer “a 76% higher risk of” death overall, “and a 141% [increased] risk of” dying specifically from your cancer.\nEven without IGF-1, the milk protein casein appears to be a cancer cell “proliferation promoting factor,” increasing the growth of prostate cancer cells, at least in a petri dish. And the same thing with whey, the other major animal protein in dairy. See, “nearly 100% of advanced” prostate cancers thrive by upregulating a growth enzyme called TOR. And, dairy protein boosts TOR signaling even higher, which only makes sense. Calves have to grow like 40 times faster than human babies, and so cow’s milk has to be packed with growth promoters, not to mention the hormones in milk. Especially from cows who are already pregnant again.\nThis “[c]ommercialized milk production by pregnant cows releases uncontrolled amounts of bovine steroid… [hormones] into the human food chain.” And so, the combination “may [well] explain the observed association between high dairy consumption and increased risk of [prostate cancer].”\n“From an evolutionary perspective…the persistent ‘abuse’ of the growth-promoting signaling system of bovine milk by humans over their entire life span [not just drinking milk during infancy] maintains the most important hallmark of cancer biology:” this “sustained proliferative signaling” to grow, grow, grow. And so, there’s this interest in trying “to define [the] safe upper limits for long-term milk and dairy intake for the prevention of the most common dairy-promoted cancer in men.” But if you look at diet and cancer guideline recommendations, yeah, milk may increase risk of prostate cancer. “However, no recommendation was provided for [cutting down on dairy] because the evidence for prostate cancer conflicted with decreased risk of colorectal cancer.” High dairy intake is associated with increased prostate cancer risk, but decreased colon cancer risk.\nSo, it’s like alcohol may be an “intoxicating carcinogen,” but “policymakers hesitate to introduce effective alcohol policies, or even to support the addition of [cancer-warning] labels, for fear they might undermine [any] possible health benefits of alcohol use.” Now, I’ve talked about how the purported benefits of alcohol appear to be “evaporating.” Is dairy really protective against colon cancer?\nIf you put all the cohort studies together, where they measured dairy consumption and then followed people for years to see who got cancer, milk and total dairy consumption was indeed “associated with a reduction in colorectal cancer risk,” one of our deadliest cancers. Now, people who drink more milk just happen to tend to exercise more, smoke less, drink less, eat less meat—which could explain some of the association. “However, many of the studies adjusted for [these kinds of] confounding factors.” More likely, it was the protective effects of the calcium, “which may bind [up] pro-inflammatory…bile acids in the gut,” though high-fat dairy products, like cheese, may actually increase bile acids, explaining why the cheese appeared to cancel out the calcium benefit. So, might we be able to get the best of both worlds by consuming non-dairy calcium sources?\nIf you randomize people to calcium supplements, you can get a significant reduction in recurring colon polyps, which can otherwise turn into cancer, though calcium pills have been associated with adverse cardiovascular effects. And so, the best of all worlds, if you want to take a precautionary approach in terms of nutrition and cancer, is to obtain calcium through low-oxalate dark green leafy vegetables, beans, split peas, chickpeas, and lentils—or, if necessary, “calcium-fortified foods,” such as soy or almond milk.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Aune D, Lau R, Chan DS, et al. Dairy products and colorectal cancer risk: a systematic review and meta-analysis of cohort studies. Ann Oncol. 2012;23(1):37-45.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21617020"
+    },
+    {
+      "Title": "Aune D, Navarro Rosenblatt DA, Chan DS, et al. Dairy products, calcium, and prostate cancer risk: a systematic review and meta-analysis of cohort studies. Am J Clin Nutr. 2015;101(1):87-117.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25527754"
+    },
+    {
+      "Title": "Daube M. Alcohol's evaporating health benefits. BMJ. 2015;350:h407.",
+      "Url": "https://www.bmj.com/content/350/bmj.h407"
+    },
+    {
+      "Title": "Frattaroli J, Weidner G, Dnistrian AM, et al. Clinical events in prostate cancer lifestyle trial: results from two years of follow-up. Urology. 2008;72(6):1319-1323.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18602144"
+    },
+    {
+      "Title": "Gonzales JF, Barnard ND, Jenkins DJ, et al. Applying the precautionary principle to nutrition and cancer. J Am Coll Nutr. 2014;33(3):239-246. 7",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24870117"
+    },
+    {
+      "Title": "Harrison S, Lennon R, Holly J, et al. Does milk intake promote prostate cancer initiation or progression via effects on insulin-like growth factors (IGFs)? A systematic review and meta-analysis. Cancer Causes Control. 2017;28(6):497-528.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28361446"
+    },
+    {
+      "Title": "Melnik BC, John SM, Carrera-Bastos P, Cordain L. The impact of cow's milk-mediated mTORC1-signaling in the initiation and progression of prostate cancer. Nutr Metab (Lond). 2012;9(1):74.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22891897"
+    },
+    {
+      "Title": "Nielsen TS, Höjer A, Gustavsson AM, Hansen-Møller J, Purup S. Proliferative effect of whey from cows' milk varying in phyto-oestrogens in human breast and prostate cancer cells. J Dairy Res. 2012;79(2):143-149.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22280936"
+    },
+    {
+      "Title": "Ornish D, Magbanua MJ, Weidner G, et al. Changes in prostate gene expression in men undergoing an intensive nutrition and lifestyle intervention. Proc Natl Acad Sci USA. 2008;105(24):8369-8374.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18559852"
+    },
+    {
+      "Title": "Ornish D, Weidner G, Fair WR, et al. Intensive lifestyle changes may affect the progression of prostate cancer. J Urol. 2005;174(3):1065-1069.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16094059"
+    },
+    {
+      "Title": "Park SW, Kim JY, Kim YS, Lee SJ, Lee SD, Chung MK. A milk protein, casein, as a proliferation promoting factor in prostate cancer cells. World J Mens Health. 2014;32(2):76-82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25237656"
+    },
+    {
+      "Title": "Parkin DM. International variation. Oncogene. 2004;23(38):6329-6340.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15322508"
+    },
+    {
+      "Title": "Scrimshaw NS, Murray EB. The acceptability of milk and milk products in populations with a high prevalence of lactose intolerance. Am J Clin Nutr. 1988;48(4 Suppl):1079-1159.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/3140651"
+    },
+    {
+      "Title": "Stockwell T, Zhao J, Naimi T, Chikritzhs T. Stockwell et al. response: Moderate use of an “intoxicating carcinogen” has no net mortality benefit—is this true and why does it matter?. J Stud Alcohol Drugs. 2016 Mar; 77(2):205-207.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4803653"
+    },
+    {
+      "Title": "Veettil SK, Ching SM, Lim KG, Saokaew S, Phisalprapa P, Chaiyakunapruk N. Effects of calcium on the incidence of recurrent colorectal adenomas: A systematic review with meta-analysis and trial sequential analysis of randomized controlled trials. Medicine (Baltimore). 2017;96(32):e7661.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28796047"
+    },
+    {
+      "Title": "Yang M, Kenfield SA, Van Blarigan EL, et al. Dairy intake after prostate cancer diagnosis in relation to disease-specific and total mortality. Int J Cancer. 2015;137(10):2462-2469.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25989745"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "almond milk",
+      "Url": "https://nutritionfacts.org/topics/almond-milk/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "bile acids",
+      "Url": "https://nutritionfacts.org/topics/bile-acids/"
+    },
+    {
+      "Title": "calcium",
+      "Url": "https://nutritionfacts.org/topics/calcium/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "cheese",
+      "Url": "https://nutritionfacts.org/topics/cheese/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "chickpeas",
+      "Url": "https://nutritionfacts.org/topics/chickpeas/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "kale",
+      "Url": "https://nutritionfacts.org/topics/kale/"
+    },
+    {
+      "Title": "lentils",
+      "Url": "https://nutritionfacts.org/topics/lentils/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "oxalates",
+      "Url": "https://nutritionfacts.org/topics/oxalates/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "radiation",
+      "Url": "https://nutritionfacts.org/topics/radiation/"
+    },
+    {
+      "Title": "soy milk",
+      "Url": "https://nutritionfacts.org/topics/soymilk/"
+    },
+    {
+      "Title": "split peas",
+      "Url": "https://nutritionfacts.org/topics/split-peas/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "TOR",
+      "Url": "https://nutritionfacts.org/topics/tor/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Whoa, that was a long one, but I didn’t want to break it up and lose the narrative thread. I hope it was clear enough. This may be one of those that requires a second listen, because I packed a bunch in there.</p>\n<p>Here’s the video I mentioned: <a href=\"https://nutritionfacts.org/video/is-it-better-to-drink-little-alcohol-than-none-at-all/\">Is It Better to Drink a Little Alcohol than None at All?</a></p>\n<p>What about dairy for bone health? That’s controversial too. See <a href=\"https://nutritionfacts.org/video/is-milk-good-for-our-bones/\">Is Milk Good for Our Bones?</a></p>\n<p>What about those that say the dairy fat isn’t so bad after all? See <a href=\"https://nutritionfacts.org/video/is-butter-really-back-what-the-science-says/\">Is Butter Really Back? What the Science Says</a></p>\n<p>What about plant milks? Check out <a href=\"https://nutritionfacts.org/video/prostate-cancer-and-organic-milk-vs-almond-milk/\">Prostate Cancer &amp; Organic Milk vs. Almond Milk</a></p>\n<p>For more on cancer in general, see: <a href=\"https://nutritionfacts.org/video/how-not-to-die-from-cancer/\">How Not to Die from Cancer</a></p>\n<p>And after this video came out, I did one on <a href=\"https://nutritionfacts.org/video/the-effects-of-hormones-in-dairy-milk-on-cancer/\">The Effects of Hormones in Dairy Milk on Cancer</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

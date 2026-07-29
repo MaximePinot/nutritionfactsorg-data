@@ -1,0 +1,195 @@
+{
+  "Title": "Risks and Benefits of Nicotinamide (NAM), a NAD+ Booster",
+  "Url": "https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-nam-a-nad-booster/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/WMWG_W7vGI0"
+  },
+  "UpdatedAt": "2025-03-31T11:50:26+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 68",
+    "Url": "https://nutritionfacts.org/volumes/volume-68/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The metabolism of NAM may deplete our methylation capacity, interfering with the normal metabolism of hormones and neurotransmitters, and produce a neurotoxic compound in the process.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nEver since nicotinamide (NAM) was also shown to cure pellagra, both nicotinic acid (NA) and NAM have been collectively referred to as niacin, or vitamin B3––though they are distinct compounds. For example, NAM is not plagued by the same kind of hot flash reaction. (Facial flushing attributed to niacinamide in some older studies was likely due to a less purified form contaminated with residual NA.)\nThe relative capacity of NA versus NAM to generate NAD+ is unclear. Neither has been shown to boost sirtuin activity, but both do extend the lifespan of C. elegans. I couldn’t find any longevity trials for NA in rodents. However, NAM was put to the test and failed to prolong the lives of mice. What clinical effects might we expect in people?\nPreviously, I explored the proven anti-aging effects for topical nicotinamide on the skin, and the remarkable ability of oral nicotinamide to help prevent skin cancer. I also noted it failed to prevent type 1 diabetes, despite promising mouse data, though it may help preserve residual function in people newly diagnosed with type 1 diabetes––but apparently not enough to affect blood sugar control. What about its use as a NAD+ booster?\nIn those with mitochondrial myopathy, NA raised muscle NAD+ levels, and improved mitochondrial and muscle function. But in healthy individuals, muscle NAD+ levels didn’t budge. However, the average age of individuals in the control group was 50. What about in older adults, whose muscle NAD+ levels might potentially be lower? Four NAD+ precursors were tested in older adults averaging in their 70s: tryptophan, NA, NAM, and NR. All four failed to improve muscle strength or function, failed to affect mitochondrial function, and failed to even nudge NAD+ levels in their muscles. Why not give it a try anyway? Again, side effects.\nLike NA, high-dose NAM can cause gastrointestinal disturbances and signs of liver toxicity. However, NAM may result in more issues involving methylation. The first step in breaking down excess NAM is to transfer a methyl group to it, forming methylnicotinamide. Unfortunately, methylnicotinamide is neurotoxic, and can cross the blood-brain barrier. This may explain why NAM can exacerbate Parkinson’s-like symptoms in rats, and why Parkinson’s patients have higher levels of the NAM-methylating enzyme in their brains. And the same with Alzheimer’s brains, for that matter. Excess NAM may also deplete the body’s pool of methyl groups.\nIf you read the Epigenetics chapter in my book How Not to Age, you may remember that DNA methylation is critical for the regulation of gene expression. Epigenetic changes caused by NAM-induced methyl depletion have been blamed as the reason why rats fed megadoses of NAM suffer from fatty livers and swollen kidneys. But that was at a human-equivalent dose far exceeding what people might take. Is there any evidence that more modest NAM supplementation might affect methylation in humans? Yes, and even with a single dose as low as 100 mg.\nMethylation also plays a key role in breaking down fight-or-flight hormones like noradrenaline, and neurotransmitters like serotonin and histamine. Within hours of a single 100 mg dose of NAM, blood levels of all three become elevated, suggesting their metabolism was impaired by the shunting of methyl groups to deal with the excess NAM. Also noted was a significant rise in homocysteine, which is a byproduct of methylation reactions, and a risk factor for cardiovascular disease and dementia.\nAnother potential problem with NAM is that it’s a sirtuin inhibitor. Wait, I thought the whole purpose of taking NAD+ precursors is to boost sirtuin activity. Sirtuin enzymes use up NAD+ and spit out NAM. This allows the body to recycle the NAM back into NAD+ for further sirtuin use. But it also means the body can use NAM as part of a negative feedback loop. Like a thermostat in the winter that shuts down the furnace when there’s too much heat, the body shuts down NAD+ use by sirtuins when it detects too much NAM. NAM pills didn’t exist when our bodies evolved; so, in the wake of a sudden wave of NAM, the body must think its sirtuins are churning out too much, and dials them back. Perhaps this explains why NAM fails to prolong the lifespans of mice. When the sirtuin-suppressing effects of NAM were first reported 20 years ago, the researchers cautioned that this could potentially lead to “deleterious consequences of long-term nicotinamide therapy in humans.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Avalos JL, Bever KM, Wolberger C. Mechanism of sirtuin inhibition by nicotinamide: altering the NAD(+) cosubstrate specificity of a Sir2 enzyme. Mol Cell. 2005;17(6):855-868.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15780941/"
+    },
+    {
+      "Title": "Bitterman KJ, Anderson RM, Cohen HY, Latorre-Esteves M, Sinclair DA. Inhibition of silencing and accelerated aging by nicotinamide, a putative negative regulator of yeast sir2 and human SIRT1. J Biol Chem. 2002;277(47):45099-45107.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12297502/"
+    },
+    {
+      "Title": "Braidy N, Liu Y. NAD+ therapy in age-related degenerative disorders: a benefit/risk analysis. Exp Gerontol. 2020;132:110831.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31917996/"
+    },
+    {
+      "Title": "Brosnan JT, Jacobs RL, Stead LM, Brosnan ME. Methylation demand: a key determinant of homocysteine metabolism. Acta Biochim Pol. 2004;51(2):405-413.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15218538/"
+    },
+    {
+      "Title": "Cabrera-Rode E, Molina G, Arranz C, et al. Effect of standard nicotinamide in the prevention of type 1 diabetes in first degree relatives of persons with type 1 diabetes. Autoimmunity. 2006;39(4):333-340.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16891222/"
+    },
+    {
+      "Title": "Connell NJ, Grevendonk L, Fealy CE, et al. NAD+-precursor supplementation with l-tryptophan, nicotinic acid, and nicotinamide does not affect mitochondrial function or skeletal muscle function in physically compromised older adults. J Nutr. 2021;151(10):2917-2931.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34191033/"
+    },
+    {
+      "Title": "Elhassan YS, Kluckova K, Fletcher RS, et al. Nicotinamide riboside augments the aged human skeletal muscle NAD+ metabolome and induces transcriptomic and anti-inflammatory signatures. Cell Rep. 2019;28(7):1717-1728.e6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31412242/"
+    },
+    {
+      "Title": "Elvehjem CA, Madden RJ, Strong FM, Woolley DW. Relation of nicotinic acid and nicotinic acid amide to canine black tongue. J Am Chem Soc. 1937;59(9):1767-1768.",
+      "Url": "https://pubs.acs.org/doi/10.1021/ja01288a509"
+    },
+    {
+      "Title": "Giacalone S, Spigariolo CB, Bortoluzzi P, Nazzaro G. Oral nicotinamide: The role in skin cancer chemoprevention. Dermatol Ther. 2021;34(3):e14892.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33595161/"
+    },
+    {
+      "Title": "Harrison IF, Powell NM, Dexter DT. The histone deacetylase inhibitor nicotinamide exacerbates neurodegeneration in the lactacystin rat model of Parkinson’s disease. J Neurochem. 2019;148(1):136-156.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30269333/"
+    },
+    {
+      "Title": "Hwang ES, Song SB. Possible adverse effects of high-dose nicotinamide: mechanisms and safety assessment. Biomolecules. 2020;10(5):687.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32365524/"
+    },
+    {
+      "Title": "Kang-Lee YA, McKee RW, Wright SM, Swendseid ME, Jenden DJ, Jope RS. Metabolic effects of nicotinamide administration in rats. J Nutr. 1983;113(2):215-221.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/6218261/"
+    },
+    {
+      "Title": "Kelly G. A review of the sirtuin system, its clinical implications, and the potential role of dietary activators like resveratrol: part 1. Altern Med Rev. 2010;15(3):245-263.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21155626/"
+    },
+    {
+      "Title": "Kocinaj A, Chaudhury T, Uddin MS, et al. High expression of nicotinamide n-methyltransferase in patients with sporadic Alzheimer’s disease. Mol Neurobiol. 2021;58(4):1769-1781.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33387303/"
+    },
+    {
+      "Title": "Li D, Tian YJ, Guo J, et al. Nicotinamide supplementation induces detrimental metabolic and epigenetic changes in developing rats. Br J Nutr. 2013;110(12):2156-2164.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23768418/"
+    },
+    {
+      "Title": "Mitchell SJ, Bernier M, Aon MA, et al. Nicotinamide improves aspects of healthspan, but not lifespan, in mice. Cell Metab. 2018;27(3):667-676.e4.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29514072/"
+    },
+    {
+      "Title": "Morris BJ. Seven sirtuins for seven deadly diseases of aging. Free Radic Biol Med. 2013;56:133-171.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23104101/"
+    },
+    {
+      "Title": "Parsons RB, Smith SW, Waring RH, Williams AC, Ramsden DB. High expression of nicotinamide N-methyltransferase in patients with idiopathic Parkinson’s disease. Neurosci Lett. 2003;342(1-2):13-16.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12727306/"
+    },
+    {
+      "Title": "Pirinen E, Auranen M, Khan NA, et al. Niacin cures systemic NAD+ deficiency and improves muscle performance in adult-onset mitochondrial myopathy. Cell Metab. 2020;31(6):1078-1090.e5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32386566/"
+    },
+    {
+      "Title": "Poyan Mehr A, Tran MT, Ralto KM, et al. De novo NAD+ biosynthetic impairment in acute kidney injury in humans. Nat Med. 2018;24(9):1351-1359.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30127395/"
+    },
+    {
+      "Title": "Pozzilli P, Browne PD, Kolb H. Meta-analysis of nicotinamide treatment in patients with recent-onset IDDM. The Nicotinamide Trialists. Diabetes Care. 1996;19(12):1357-1363.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8941464/"
+    },
+    {
+      "Title": "Reiten OK, Wilvang MA, Mitchell SJ, Hu Z, Fang EF. Preclinical and clinical evidence of NAD+ precursors in health, disease, and ageing. Mech Ageing Dev. 2021;199:111567.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34517020/"
+    },
+    {
+      "Title": "Schmeisser K, Mansfeld J, Kuhlow D, et al. Role of sirtuins in lifespan regulation is linked to methylation of nicotinamide. Nat Chem Biol. 2013;9(11):693-700.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24077178/"
+    },
+    {
+      "Title": "She J, Sheng R, Qin ZH. Pharmacology and potential implications of nicotinamide adenine dinucleotide precursors. Aging Dis. 2021;12(8):1879-1897.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34881075/"
+    },
+    {
+      "Title": "Sun WP, Li D, Lun YZ, et al. Excess nicotinamide inhibits methylation-mediated degradation of catecholamines in normotensives and hypertensives. Hypertens Res. 2012;35(2):180-185.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21918528/"
+    },
+    {
+      "Title": "Tian YJ, Li D, Ma Q, et al. Excess nicotinamide increases plasma serotonin and histamine levels. Sheng Li Xue Bao. 2013;65(1):33-38.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23426511/"
+    },
+    {
+      "Title": "Winter SL, Boyer JL. Hepatic toxicity from large doses of vitamin B3 (Nicotinamide). N Engl J Med. 1973;289(22):1180-1182.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/4271091/"
+    },
+    {
+      "Title": "Xu W, Li L, Zhang L. NAD+ metabolism as an emerging therapeutic target for cardiovascular diseases associated with sudden cardiac death. Front Physiol. 2020;11:901.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32903597/"
+    },
+    {
+      "Title": "Yoshino J, Baur JA, Imai SI. NAD+ intermediates: the biology and therapeutic potential of NMN and NR. Cell Metab. 2018;27(3):513-528.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29249689/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "cardiovascular health",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-health/"
+    },
+    {
+      "Title": "epigenetics",
+      "Url": "https://nutritionfacts.org/topics/epigenetics/"
+    },
+    {
+      "Title": "fatty liver disease",
+      "Url": "https://nutritionfacts.org/topics/fatty-liver-disease/"
+    },
+    {
+      "Title": "How Not to Age",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-age/"
+    },
+    {
+      "Title": "kidney health",
+      "Url": "https://nutritionfacts.org/topics/kidney-health/"
+    },
+    {
+      "Title": "NAD+",
+      "Url": "https://nutritionfacts.org/topics/nad/"
+    },
+    {
+      "Title": "skin cancer",
+      "Url": "https://nutritionfacts.org/topics/skin-cancer/"
+    },
+    {
+      "Title": "skin health",
+      "Url": "https://nutritionfacts.org/topics/skin-health/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "type 1 diabetes",
+      "Url": "https://nutritionfacts.org/topics/type-1-diabetes/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">For the DIY anti-wrinkle recipe, watch my presentation </span><a href=\"https://nutritionfacts.org/video/how-not-to-age-live-presentation/\"><span style=\"font-weight: 400\">How Not to Age</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">For NAM’s role in cancer prevention, see </span><a href=\"https://nutritionfacts.org/video/the-best-supplement-to-prevent-skin-cancer/\"><span style=\"font-weight: 400\">The Best Supplement to Prevent Skin Cancer</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">​​This is the fourth video in my NAD+ series. If you missed any of the first three, check out:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/do-nad-levels-decline-with-age/\"><span style=\"font-weight: 400\">Do NAD+ Levels Decline with Age?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/can-nad-boosters-increase-lifespan-and-healthspan/\"><span style=\"font-weight: 400\">Can NAD+ Boosters Increase Lifespan and Healthspan?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinic-acid-na-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinic Acid (NA), a NAD+ Booster</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">Stay tuned for: </span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-riboside-nr-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide Riboside (NR), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-mononucleotide-nmn-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide Mononucleotide (NMN), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/lesser-known-nad-boosting-supplements-tryptophan-nadh-nmnh-and-nrh/\"><span style=\"font-weight: 400\">Lesser-Known NAD+ Boosting Supplements—Tryptophan, NADH, NMNH, and NRH</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-of-nad-boosting-supplements/\"><span style=\"font-weight: 400\">Risks of NAD+ Boosting Supplements</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/which-nad-booster-is-best/\"><span style=\"font-weight: 400\">Which NAD+ Booster Is Best?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-third-way-to-boost-nad/\"><span style=\"font-weight: 400\">The Third Way to Boost NAD+</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on aging, go to your local public library and check out my longevity book,</span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"> <i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

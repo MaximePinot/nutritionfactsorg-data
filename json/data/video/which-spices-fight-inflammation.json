@@ -1,0 +1,171 @@
+{
+  "Title": "Which Spices Fight Inflammation?",
+  "Url": "https://nutritionfacts.org/video/which-spices-fight-inflammation/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/iXnMi6RE0B4"
+  },
+  "UpdatedAt": "2014-01-10T12:15:52+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 16",
+    "Url": "https://nutritionfacts.org/volumes/volume-16/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "An elegant experiment is described in which the blood of those eating different types of spices—such as cloves, ginger, rosemary, and turmeric—is tested for anti-inflammatory capacity.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nOnce in a while, I come across a study that’s so juicy, I do an entire video about it. It’s like my “Which Fruit Fights Cancer Better?” video, or the “Best Cooking Method” one, or that one comparing thousands of foods. Well, this is one such study.\nA group of researchers at U of F Gainesville and Penn State set up an elegant experiment. We’ve known, ounce per ounce, herbs and spices have some of the greatest antioxidant activities known—but, that’s in a test tube. Before we can ask if an herb or spice has health benefits, it’s first necessary to determine whether it’s bioavailable. This has never been done, until now.\nThey could have [gone] the easy route, and just measured the change in antioxidant level in one’s bloodstream before and after consumption. But, the assumption that the appearance of antioxidant activity in the blood is an indication of bioavailability has a weakness. Maybe more gets absorbed than we think, but doesn’t show up on antioxidant tests, because it gets bound to proteins or cells. So, they attempted to measure physiological changes in the blood. They were interested in “whether absorbed compounds would be able to protect [white blood cells] from an oxidative or inflammatory injury”—whether it would protect the strands of our DNA from breaking when confronted by free radicals. They also wondered if the consumption of herbs and spices “might alter…cellular inflammatory response[s] in the presence of a physiologically relevant inflammatory insult.” What does that all mean?\nWell, what they did was take a bunch of people, and had each of them eat different types of spices for a week. There are so many really unique things about this study, but one was that the quantity that study subjects consumed was based on the usual levels of consumption in actual food. Like, the oregano group was given a half-teaspoon a day—the kinds of practical quantities people might actually eat once in a while. Then, at the end of the week, they drew blood from the dozen or so people they had adding black pepper to their diets that week, and compared the effects of their blood to the effects of the blood of the dozen on cayenne, or cinnamon, or cloves, or cumin. They had about ten different groups of people eating about ten different spices.\nThen, they dripped their plasma (the liquid fraction of their blood) onto human white blood cells in a petri dish that had been exposed to an inflammatory insult. They wanted to pick something really inflammatory, so they chose oxidized cholesterol, which is like what you’d get in your bloodstream after eating something like fried chicken. So, they jabbed the white blood cells with oxidized cholesterol, and then measured how much TNF they produced in response.\nTumor necrosis factor is a powerful inflammatory cytokine, infamous for the role it plays in autoimmune attacks, like inflammatory bowel disease. Compared to the blood of those who ate no spices for a week, was the blood of those eating black pepper able to significantly dampen the inflammatory response? No. What about any of these other spices? Cloves, ginger, rosemary, and turmeric were able to significantly stifle the inflammatory response. And, remember, they weren’t dripping the spices themselves on these human white blood cells, but the blood of those who ate the spices. So, it represents what might happen when cells in our body are exposed to the levels of spices that circulate in our bloodstream after normal daily consumption. Not megadoses in some pill—just the amount that makes our spaghetti sauce taste good, or our pumpkin pie, or curry sauce.\nThere are drugs that can do the same thing. Tumor necrosis factors are such “major mediators of inflammation and inflammation-related diseases” that there are these TNF-blocking drugs on the market for the treatment of inflammatory diseases—like osteoarthritis, inflammatory bowel disease, psoriasis, ankylosing spondylitis—which rake in, collectively, more than $20 billion a year, because drug companies charge people $15,000 to $20,000 a year for the drug. At that price, the side effects better be hugs and rainbows. But, no, these drugs carry a black label warning because they can cause things like cancer and heart failure. If only there were a cheaper, safer solution.\nCurcumin, the yellow pigment in turmeric, is a spice that’s a tad cheaper, and safer. But, does it work outside of a test tube? There’s evidence that it may help in all the diseases for which TNF blockers are currently being used. And so, with health care costs and safety being such major issues, this golden spice, turmeric, may help provide the solution.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "B. B. Aggarwal, S. C. Gupta, B. Sung. Curcumin: An orally bioavailable blocker of TNF and other pro-inflammatory biomarkers. Br. J. Pharmacol. 2013 169(8):1672 - 1692.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23425071"
+    },
+    {
+      "Title": "S. S. Percival, J. P. V. Heuvel, C. J. Nieves, C. Montero, A. J. Migliaccio, J. Meadors. Bioavailability of herbs and spices in humans as determined by ex vivo inflammatory suppression and DNA strand breaks. J Am Coll Nutr. 2012 31(4):288 - 294.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23378457"
+    }
+  ],
+  "Acknowledgements": "Images thanks to SteamDave, Pacific Northwest National Laboratory – PNNL, Paolovalde, and Riy via flickr, and Saxluvr via clker.com. Thanks to Ellen Reid for her image-finding expertise, and Jeff Thomas for his Keynote help.",
+  "Topics": [
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "ankylosing spondylitis",
+      "Url": "https://nutritionfacts.org/topics/ankylosing-spondylitis/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "autoimmune diseases",
+      "Url": "https://nutritionfacts.org/topics/autoimmune-diseases/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cayenne pepper",
+      "Url": "https://nutritionfacts.org/topics/cayenne-pepper/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "cinnamon",
+      "Url": "https://nutritionfacts.org/topics/cinnamon/"
+    },
+    {
+      "Title": "cloves",
+      "Url": "https://nutritionfacts.org/topics/cloves/"
+    },
+    {
+      "Title": "complementary medicine",
+      "Url": "https://nutritionfacts.org/topics/complementary-medicine/"
+    },
+    {
+      "Title": "cost savings",
+      "Url": "https://nutritionfacts.org/topics/cost-savings/"
+    },
+    {
+      "Title": "cumin",
+      "Url": "https://nutritionfacts.org/topics/cumin/"
+    },
+    {
+      "Title": "curcumin",
+      "Url": "https://nutritionfacts.org/topics/curcumin/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "ginger",
+      "Url": "https://nutritionfacts.org/topics/ginger/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart failure",
+      "Url": "https://nutritionfacts.org/topics/heart-failure/"
+    },
+    {
+      "Title": "herbs",
+      "Url": "https://nutritionfacts.org/topics/herbs/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "inflammatory bowel disease",
+      "Url": "https://nutritionfacts.org/topics/inflammatory-bowel-disease/"
+    },
+    {
+      "Title": "medications",
+      "Url": "https://nutritionfacts.org/topics/medications/"
+    },
+    {
+      "Title": "oregano",
+      "Url": "https://nutritionfacts.org/topics/oregano/"
+    },
+    {
+      "Title": "osteoarthritis",
+      "Url": "https://nutritionfacts.org/topics/osteoarthritis/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "pepper",
+      "Url": "https://nutritionfacts.org/topics/pepper/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "psoriasis",
+      "Url": "https://nutritionfacts.org/topics/psoriasis/"
+    },
+    {
+      "Title": "rosemary",
+      "Url": "https://nutritionfacts.org/topics/rosemary/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "spices",
+      "Url": "https://nutritionfacts.org/topics/spices/"
+    },
+    {
+      "Title": "turmeric",
+      "Url": "https://nutritionfacts.org/topics/turmeric/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p class=\"p1\"><span class=\"s1\">Here are links to those other juicy videos I opened up with:</span></p>\n<ul class=\"ul1\">\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/which-fruit-fights-cancer-better/\"><span class=\"s3\">Which Fruit Fights Cancer Better?</span></a></span></li>\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/best-cooking-method/\"><span class=\"s3\">Best Cooking Method</span></a></span></li>\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/antioxidant-content-of-3139-foods/\"><span class=\"s3\">Antioxidant Content of 3,139 Foods</span></a></span></li>\n</ul>\n<p class=\"p1\"><span class=\"s1\">See <a href=\"https://nutritionfacts.org/video/antioxidants-in-a-pinch/\"><span class=\"s4\">Antioxidants in a Pinch</span></a> and <span class=\"s4\"><a href=\"https://nutritionfacts.org/video/how-to-reach-the-antioxidant-rda/\">How to Reach the Antioxidant “RDA”</a></span> to see the extent to which even small amounts of spices can affect one’s antioxidant intake.</span></p>\n<p class=\"p1\"><span class=\"s1\">Another elegant series of ex vivo experiments exploring the cancer-fighting power of lifestyle changes can be seen in videos starting with <a href=\"https://nutritionfacts.org/video/developing-an-ex-vivo-cancer-proliferation-bioassay/\"><span class=\"s4\">Ex Vivo Cancer Proliferation Bioassay</span></a>.</span></p>\n<p class=\"p1\"><span class=\"s1\">Mushrooms (see <a href=\"https://nutritionfacts.org/video/boosting-immunity-while-reducing-inflammation/\"><span class=\"s4\">Boosting Immunity While Reducing Inflammation</span></a>), nuts (see <a href=\"https://nutritionfacts.org/video/fighting-inflammation-in-a-nut-shell/\"><span class=\"s4\">Fighting Inflammation in a Nut Shell</span></a>), and purple potatoes (see <a href=\"https://nutritionfacts.org/video/anti-inflammatory-effects-of-purple-potatoes/\"><span class=\"s4\">Anti-Inflammatory Effects of Purple Potatoes</span></a>) may also reduce inflammation—along with plant foods in general (see <a href=\"https://nutritionfacts.org/video/anti-inflammatory-antioxidants/\"><span class=\"s5\">Anti-Inflammatory Antioxidants</span></a></span><span class=\"s6\">)</span><span class=\"s1\">. In fact, so well that plant-based diets can be used to treat inflammatory conditions (see, for example, <a href=\"https://nutritionfacts.org/video/achieving-remission-of-crohns-disease/\"><span class=\"s5\">Dietary Treatment of Crohn’s Disease</span></a>, and <a href=\"https://nutritionfacts.org/video/potassium-and-autoimmune-disease/\"><span class=\"s5\">Potassium &amp; Autoimmune Disease</span></a></span><span class=\"s6\">)</span><span class=\"s1\">. Animal products, on the other hand, may increase inflammation through a variety of mechanisms, including endotoxins (see <a href=\"https://nutritionfacts.org/2012/09/20/why-meat-causes-inflammation/\"><span class=\"s5\">How Does Meat Cause Inflammation?</span></a>), arachidonic acid (see <a href=\"https://nutritionfacts.org/video/chicken-eggs-and-inflammation/\"><span class=\"s5\">Chicken, Eggs, &amp; Inflammation</span></a>), and Neu5Gc (see <a href=\"https://nutritionfacts.org/video/the-inflammatory-meat-molecule-neu5gc/\"><span class=\"s5\">The Inflammatory Meat Molecule Neu5Gc</span></a>).</span></p>\n<p>See all of my newest videos on inflammation <a href=\"https://nutritionfacts.org/topics/inflammation/\">on the topic page</a>.</p>\n<p class=\"p1\"><span class=\"s1\">If oxidized cholesterol is a new concept for you, please check out its role in heart disease progression in my video <a href=\"https://nutritionfacts.org/video/arterial-acne/\"><span class=\"s4\">Arterial Acne</span></a>. </span></p>\n<p class=\"p1\"><span class=\"s1\">I’ll cover the DNA findings in my next video, <a href=\"https://nutritionfacts.org/video/spicing-up-dna-protection/\"><span class=\"s4\">Spicing Up DNA Protection</span></a><b>.</b> And, if turmeric compounds are so anti-inflammatory, can they be used to successfully <i>treat</i> inflammatory diseases? Find out in my next video, <a href=\"https://nutritionfacts.org/video/turmeric-curcumin-and-rheumatoid-arthritis/\"><span class=\"s4\">Turmeric Curcumin &amp; Rheumatoid Arthritis</span></a>.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

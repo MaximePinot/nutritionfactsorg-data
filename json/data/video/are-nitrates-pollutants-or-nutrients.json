@@ -1,0 +1,167 @@
+{
+  "Title": "Are Nitrates Pollutants or Nutrients?",
+  "Url": "https://nutritionfacts.org/video/are-nitrates-pollutants-or-nutrients/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/C7zTJ5LnO1E"
+  },
+  "UpdatedAt": "2012-02-28T13:00:51+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Phytonutrients, such as vitamin C, prevent the formation of nitrosamines from nitrites—which explains why adding nitrite preservatives to processed meat can be harmful, but adding more vegetables, with their nitrite-forming nitrates, to our diet can be helpful.",
+  "Transcript": "We know cured meat increases cancer risk—childhood leukemia, for example—yet, higher intake of vegetables is associated with a reduced risk. How can nitrites be bad in meat, but good when they originate in our own mouth from all the nitrates we get from green leafy vegetables?\nWell, one possibility could be that nitrates are not good. And such a case has been made—blaming the rise of Alzheimer’s, diabetes, Parkinson’s, and the kitchen sink, on not only the rise in fast food and processed meat, but also the use of nitrate-containing fertilizers on our crops. Now, this was dismissed as an unsupportable conclusion—but by the vice president of the Fertilizer Institute, so how do we know it’s not just a load of bull? And speaking of manure, organic producers, in fact, brag that their vegetables are significantly lower in nitrates.\nSo, nitrates in plants; is it just a matter of too much of a good thing? Are nitrates in foods harmful, or healthy?\nBefore our heads explode, let’s go back to the basics: the facts of the case. The nitrosamines are the carcinogens, not the nitrites themselves. The nitrosamines are what cause the cancers. The only reason we’re concerned about nitrites is that, under certain circumstances, they can turn into nitrosamines, and other N-nitroso compounds.\nAnd the only reason we’re worried about the nitrates is that they form nitrites, which, again, under certain circumstances, can form nitrosamines. The nitrites themselves are fine—in fact, amazing. That’s what all the new beets and blood pressure evidence I showed points to. And the nitrates turn into nitrites, which turn into nitric oxide, which helps our arteries and athletic performance. So as long as nitrites turn into NO [nitric oxide], we’re good. It’s only when they turn into nitrosamines that they cause trouble.\nSo, the answer to the riddle—finally—lies in the circumstances in which nitrites form nitrosamines. And that circumstance is in the absence of plants. Phytonutrients—like caffeic acid, found in all plants, blocks nitrosamine formation. Ferulic acid, ascorbic acid (vitamin C), and others. So, nitrates plus plant foods; no problem.\nBut is there any vitamin C in meat? No. So, you add nitrites to meat, and nitrosamines preform in the meat before it even makes it into our mouths. It’s not so much that we’re eating the nitrites added to the meat, but eating the nitrosamines that form in the meat when they add nitrites to it. Nitrites, in the absence of plants, turn into carcinogenic nitrosamines.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Dianne Moore. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bartsch H, Ohshima H, Pignatelli B. Inhibitors of endogenous nitrosation. Mechanisms and implications in human cancer prevention. Mutat Res. 1988;202(2):307-324.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/3057363/"
+    },
+    {
+      "Title": "Crinnion WJ. Organic foods contain higher levels of certain nutrients, lower levels of pesticides, and may provide health benefits for the consumer. Altern Med Rev. 2010 Apr;15(1):4-12.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20359265/"
+    },
+    {
+      "Title": "Ferreira LF, Behnke BJ. A toast to health and performance! Beetroot juice lowers blood pressure and the O2 cost of exercise. J Appl Physiol (1985). 2011;110(3):585-586.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21183624/"
+    },
+    {
+      "Title": "Herz WC, de Peralta JI. Use of primary data leads to unsupportable conclusions and policy options. J Alzheimers Dis. 2010;21(1):67-70; discussion 71-3.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20413869"
+    },
+    {
+      "Title": "Issenberg P. Nitrite, nitrosamines, and cancer. Fed Proc. 1976;35(6):1322-1326.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/4342/"
+    },
+    {
+      "Title": "Katan MB. Nitrate in foods: harmful or healthy? Am J Clin Nutr. 2009 Jul;90(1):11-2. Epub 2009 May 20.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19458015"
+    },
+    {
+      "Title": "Liu CY, Hsu YH, Wu MT, Pan PC, Ho CK, Su L, Xu X, Li Y, Christiani DC; Kaohsiung Leukemia Research Group. Cured meat, vegetables, and bean-curd foods in relation to childhood acute leukemia risk: A population based case-control study. BMC Cancer. 2009 Jan 13;9:15.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2653540/pdf/1471-2407-9-15.pdf"
+    },
+    {
+      "Title": "Ward MH. Too much of a good thing? Nitrate from nitrogen fertilizers and cancer. Rev Environ Health. 2009;24(4):357-363.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20384045/"
+    },
+    {
+      "Title": "Wiseman M. The second World Cancer Research Fund/American Institute for Cancer Research expert report. Food, nutrition, physical activity, and the prevention of cancer: a global perspective. Proc Nutr Soc. 2008;67(3):253-256.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18452640/"
+    },
+    {
+      "Title": "de la Monte SM, Neusner A, Chu J, Lawton M. Epidemiological trends strongly suggest exposures as etiologic agents in the pathogenesis of sporadic Alzheimer's disease, diabetes mellitus, and non-alcoholic steatohepatitis. J Alzheimers Dis. 2009;17(3):519-29.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19363256"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Rebecca Sims / Flickr",
+  "Topics": [
+    {
+      "Title": "beet juice",
+      "Url": "https://nutritionfacts.org/topics/beet-juice/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "fast food",
+      "Url": "https://nutritionfacts.org/topics/fast-food/"
+    },
+    {
+      "Title": "food additives",
+      "Url": "https://nutritionfacts.org/topics/food-additives/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "leukemia",
+      "Url": "https://nutritionfacts.org/topics/leukemia/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "nitrates",
+      "Url": "https://nutritionfacts.org/topics/nitrates/"
+    },
+    {
+      "Title": "nitric oxide",
+      "Url": "https://nutritionfacts.org/topics/nitric-oxide/"
+    },
+    {
+      "Title": "nitrite",
+      "Url": "https://nutritionfacts.org/topics/nitrite/"
+    },
+    {
+      "Title": "nitrosamines",
+      "Url": "https://nutritionfacts.org/topics/nitrosamines/"
+    },
+    {
+      "Title": "organic foods",
+      "Url": "https://nutritionfacts.org/topics/organic-foods/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "preservatives",
+      "Url": "https://nutritionfacts.org/topics/preservatives/"
+    },
+    {
+      "Title": "processed meat",
+      "Url": "https://nutritionfacts.org/topics/processed-meat/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you just arrived right in the middle of this story, for the benefits of vegetable nitrates I allude to, see <a href=\"https://nutritionfacts.org/video/doping-with-beet-juice/\" rel=\"nofollow\">Doping With Beet Juice</a>; <a href=\"https://nutritionfacts.org/video/out-of-the-lab-onto-the-track/\" rel=\"nofollow\">Out of the Lab Onto the Track</a>; and <a href=\"https://nutritionfacts.org/video/vegetables-rate-by-nitrate/\" rel=\"nofollow\">Vegetables Rate by Nitrate</a>. For the problems associated with nitrites added to meat, see <a href=\"https://nutritionfacts.org/video/bacon-and-botulism/\" rel=\"nofollow\">Bacon and Botulism</a>, and <a href=\"https://nutritionfacts.org/video/when-nitrites-go-bad/\" rel=\"nofollow\">When Nitrites Go Bad</a>. Which meats have the most nitrite? Find out in <a href=\"https://nutritionfacts.org/video/prevention-is-better-than-cured-meat/\">Prevention is Better than Cured Meat</a>. Which veggies have the most nitrate? See <a href=\"https://nutritionfacts.org/video/vegetables-rate-by-nitrate/\" rel=\"nofollow\">Vegetables Rate by Nitrate,</a> and all my other <a href=\"https://nutritionfacts.org/topics/phytonutrients/\" rel=\"nofollow\">other videos on phytonutrients</a> and what they can do. Good places to start include <a href=\"https://nutritionfacts.org/video/the-power-of-no/\" rel=\"nofollow\">The Power of NO</a>, and <a href=\"https://nutritionfacts.org/video/phytochemicals-the-nutrition-facts-missing-from-the-label/\" rel=\"nofollow\">Phytochemicals: The Nutrition Facts Missing From the Label</a>.</p>\n<p>For more context, check out my associated blog post: <a href=\"https://nutritionfacts.org/2012/03/22/using-greens-to-improve-athletic-performance/\" rel=\"nofollow\">Using Greens to Improve Athletic Performance.</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

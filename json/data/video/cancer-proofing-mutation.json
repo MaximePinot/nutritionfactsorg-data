@@ -1,0 +1,63 @@
+{
+  "Title": "Cancer-Proofing Mutation",
+  "Url": "https://nutritionfacts.org/video/cancer-proofing-mutation/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/hyns1bA60-0"
+  },
+  "UpdatedAt": "2012-09-26T11:28:12+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 10",
+    "Url": "https://nutritionfacts.org/volumes/volume-10/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Congenital IGF-1 deficiency can lead to Laron Syndrome (a type of dwarfism); but with such low growth hormone levels, those with the condition have dramatically lower cancer rates. This raises the question of whether one can achieve the best of both worlds—by ensuring adequate IGF-1 levels during childhood, while then suppressing excess growth promotion in adulthood.",
+  "Transcript": "You may have seen this recent New York Times story about a rare genetic defect that leads to a type of dwarfism—that’s IGF-1 deficiency. Their growth factor levels are so low they only grow this tall, but they almost never get cancer. Here’s the IGF-1 levels in their nonaffected relatives, compared to those with the condition. Now, let’s look at their respective cancer rates. About 20% of their relatives died of cancer, which is pretty standard. And the percentage of those with IGF-1 deficiency dying of cancer? Zero. Not a single person in the study.\nHere’s what nonaffected family members die of—the usual; heart disease, cancer, stroke. The folks with IGF-1 deficiency may die of a lot of things—they actually get hit by cars more; were recorded tripping down stairs. So, 20%, death from accidents, but they never died of cancer.\nSo, scientists began thinking, why not have the best of both worlds? Have all the growth factor you need as a kid, to grow to a normal height; but then, as soon as you attain a normal adult stature, keep your IGF-1 levels low. Keep your cell life-and-death balance sheets balanced. And we can do that, through dietary manipulation, which I will cover tomorrow.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Kerry Skinner.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Guevara-Aguirre J, Balasubramanian P, Guevara-Aguirre M, Wei M, Madia F, Cheng CW, Hwang D, Martin-Montalvo A, Saavedra J, Ingles S, de Cabo R, Cohen P, Longo VD. Growth hormone receptor deficiency is associated with a major reduction in pro-aging signaling, cancer, and diabetes in humans. Sci Transl Med. 2011 Feb 16;3(70):70ra13.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21325617"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Valter Longo",
+  "Topics": [
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For background on the cancer-promoting effects on IGF-1, be sure to check out <a href=\"../video/igf-1-as-one-stop-cancer-shop/\" rel=\"nofollow\">IGF-1 as One-Stop Cancer Shop</a>. Next, I’ll unveil <a href=\"../video/the-answer-to-the-pritikin-puzzle/\" rel=\"nofollow\">The Answer to the Pritikin Puzzle</a>, for those who missed the spoiler alert in <a href=\"../video/uprooting-the-leading-causes-of-death/\" rel=\"nofollow\">Uprooting the Leading Causes of Death</a>. What puzzle? See <a href=\"../video/developing-an-ex-vivo-cancer-proliferation-bioassay/\" rel=\"nofollow\">Ex Vivo Cancer Proliferation Bioassay</a> and <a href=\"../video/prostate-versus-a-plant-based-diet/\" rel=\"nofollow\">Prostate vs. a Plant-Based Diet</a>.</p>\n<p>For more context, check out my associated blog posts: <a href=\"../2012/10/25/what-should-women-eat-to-live-longest/\" rel=\"nofollow\"> Eating To Extend Our Lifespan</a>; <a href=\"https://nutritionfacts.org/blog/how-do-plant-based-diets-fight-cancer/\">How Do Plant-Based Diets Fight Cancer?</a> and <a href=\"https://nutritionfacts.org/2013/08/15/why-are-children-starting-puberty-earlier/\">Why Are Children Starting Puberty Earlier?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

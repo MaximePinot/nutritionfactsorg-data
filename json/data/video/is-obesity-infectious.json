@@ -1,0 +1,175 @@
+{
+  "Title": "Is Obesity Infectious?",
+  "Url": "https://nutritionfacts.org/video/is-obesity-infectious/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Ld0BdqvMFI4"
+  },
+  "UpdatedAt": "2017-01-20T13:00:34+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 34",
+    "Url": "https://nutritionfacts.org/volumes/volume-34/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Given the role our gut bacteria can play in affecting our weight, having family and friends who are obese may not just be socially contagious, but actually contagious.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAlthough recent increases in the availability of junk food and decreases in the availability of physical activity have created an obesity-permissive environment, “several other factors may contribute.” We know, for example, the use of antibiotics is linked to obesity; so, our gut flora may play a role.\nRecently, specific bacterial species were identified. There are these eight species of bacteria that seem protective against weight gain, and they are all producers of a short-chain fatty acid, called butyrate.\nSee, early on, we just thought that there may just be some intestinal bacteria that were able to extract additional calories from what we ate. But, the relationship between our gut flora and obesity has proven to be more complex. Our gut flora may affect how we metabolize fat, for example, through the hormone FIAF—fasting-induced adipose factor.\nWhen we’re fasting, our body has to stop storing fat, and instead start to burn it off. And, fasting-induced adipose factor is one of the hormones that signals our body to do this, which could be useful if we’re obese, and may be one way our gut flora manages our weight. See, some bacteria repress this hormone, “thereby increasing fat storage,” whereas our fiber-eating bacteria, those that secrete short-chain fatty acids, like butyrate, when we feed them with fiber, are able to upregulate this hormone in all human cell lines so far tested.\n“Currently, when an individual fails to lose weight…, the only other option is surgery.” But, as the mechanisms of our gut flora’s “role in weight regulation are elucidated, one can envision transplanting the intestinal contents from a thin [individual] into an obese [individual].” Such so-called “fecal transplants” may suffer “from repulsive esthetics,” though. Turns out, there may be easier ways to share.\nWe’ve known that people who live together share a greater similarity in gut bacteria than those who live apart. Now, this could be because they inadvertently swap bacteria back and forth. Or, maybe it’s just because they just eat similar diets; you know,  living in the same house? We didn’t know, until now. Not only do cohabitating family members share bacteria with one another; they also share with their dogs, who are probably eating a different diet than they are.\nIn fact, homes may harbor a distinct microbial fingerprint that can be predicted by their occupants. Just by swabbing the doorknobs, you can tell which family lives in which house. Isn’t that wild? And, when a family moves into a new home, the microbial community in the new house rapidly shifts toward that of their old house, suggesting rapid colonization by the family’s bacteria. Experimental evidence suggests that individuals raised in a household of skinny people may be protected against obesity; no fecal transplant necessary. People may be sharing gut bacteria from kitchen stools instead.\nAnd, check this out. People living together share more bacteria than those living apart; we already knew that. But, add a dog to the mix, and the people’s bacteria get even closer. Dogs can act like a bridge to pass bacteria back and forth between people. Curiously, owning cats does not seem to have the same effect. Maybe, because they’re not drinking out of the toilet bowl as much?\nExposure to pet bacteria may actually be beneficial. It’s “intriguing to consider that who we [cohabitate] with, including companion animals, may alter” our physiology, by influencing the bacteria “that we harbor in and on our various body habitats.” Maybe that’s why “[R]ecent studies link early exposure to pets to decreased prevalence of allergies, respiratory conditions, and other immune disorders,” as kids grow older. I’ve talked about those studies in which dog exposure early in life may decrease respiratory infections, especially ear infections. “Children with dog[s]…were significantly healthier,” but we didn’t know why.\nWe didn’t know the mechanism until, perhaps, now—the first study tying together the protection from respiratory disease (through pet exposure) to differences in gut bacteria. None of the studied infants in homes with pets suffered from wheezy bronchitis within the first two years of life— whereas 15% of the pet-deprived infants had. And, comparing stool samples, this correlated with differences in gut bacteria, “depending on the presence of pets” in the home.\nThere was this famous study of 12,000 people that found that a person’s chances of becoming obese increased by 57% if he or she had a friend who became obese, suggesting social ties have a big effect. But, given the evidence implicating the role of gut bacteria in obesity, “[t]his raises…the possibility that cravings and associated obesity might not just be “socially contagious”—like you all go out to eat the same fattening food together—”but rather truly [contagious],” like catching a cold.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Alcock J, Maley CC, Aktipis CA. Is eating behavior manipulated by the gastrointestinal microbiota? Evolutionary pressures and potential mechanisms. Bioessays. 2014 Oct;36(10):940-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25103109"
+    },
+    {
+      "Title": "Bergroth E, Remes S, Pekkanen J, Kauppila T, Büchele G, Keski-nisula L. Respiratory tract illnesses during the first year of life: effect of dog and cat contacts. Pediatrics. 2012;130(2):211-20.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22778307"
+    },
+    {
+      "Title": "Chen J, He X, Huang J. Diet effects in gut microbiome and obesity. J Food Sci. 2014 Apr;79(4):R442-51.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24621052"
+    },
+    {
+      "Title": "Christakis NA, Fowler JH. The spread of obesity in a large social network over 32 years. N Engl J Med. 2007 Jul 26;357(4):370-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17652652"
+    },
+    {
+      "Title": "Dhurandhar EJ, Keith SW. The aetiology of obesity beyond eating more and exercising less. Best Pract Res Clin Gastroenterol. 2014 Aug;28(4):533-44.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25194173"
+    },
+    {
+      "Title": "Goldsmith JR, Sartor RB. The role of diet on intestinal microbiota metabolism: downstream impacts on host immune function and health, and therapeutic implications. J Gastroenterol. 2014 May;49(5):785-98.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24652102"
+    },
+    {
+      "Title": "Grootaert C, Van de Wiele T, Van Roosbroeck I, Possemiers S, Vercoutter-Edouart AS, Verstraete W, Bracke M, Vanhoecke B. Bacterial monocultures, propionate, butyrate and H2O2 modulate the expression, secretion and structure of the fasting-induced adipose factor in gut epithelial cell lines. Environ Microbiol. 2011 Jul;13(7):1778-89.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21518214"
+    },
+    {
+      "Title": "Kallus SJ, Brandt LJ. The intestinal microbiota and obesity. J Clin Gastroenterol. 2012 Jan;46(1):16-24.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22064556"
+    },
+    {
+      "Title": "Lax S, Smith DP, Hampton-marcell J, et al. Longitudinal analysis of microbial interaction between humans and the indoor environment. Science. 2014;345(6200):1048-52.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25170151"
+    },
+    {
+      "Title": "Nermes M, Niinivirta K, Nylund L, Laitinen K, Matomäki J, Salminen S, Isolauri E. Perinatal pet exposure, faecal microbiota, and wheezy bronchitis: is there a connection? ISRN Allergy. 2013 Jan 9;2013:827934.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23724248"
+    },
+    {
+      "Title": "Song SJ, Lauber C, Costello EK, Lozupone CA, Humphrey G, Berg-Lyons D, Caporaso JG, Knights D, Clemente JC, Nakielny S, Gordon JI, Fierer N, Knight R. Cohabiting family members share microbiota with one another and with their dogs. Elife. 2013 Apr 16;2:e00458.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23599893"
+    },
+    {
+      "Title": "Swaminath A. The power of poop: patients getting ahead of their doctors using self-administered fecal transplants. Am J Gastroenterol. 2014 May;109(5):777-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24797011"
+    },
+    {
+      "Title": "Thuny F, Richet H, Casalta JP, Angelakis E, Habib G, Raoult D. Vancomycin treatment of infective endocarditis is linked with recently acquired obesity. PLoS One. 2010 Feb 10;5(2):e9074.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20161775"
+    },
+    {
+      "Title": "Tosh PK, McDonald LC. Infection control in the multidrug-resistant era: tending the human microbiome. Clin Infect Dis. 2012 Mar 1;54(5):707-13.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22157322"
+    },
+    {
+      "Title": "Udayappan SD, Hartstra AV, Dallinga-Thie GM, Nieuwdorp M. Intestinal microbiota and faecal transplantation as treatment modality for insulin resistance and type 2 diabetes mellitus. Clin Exp Immunol. 2014 Jul;177(1):24-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24528224"
+    },
+    {
+      "Title": "Yatsunenko T, Rey FE, Manary MJ, Trehan I, Dominguez-Bello MG, Contreras M, Magris M, Hidalgo G, Baldassano RN, Anokhin AP, Heath AC, Warner B, Reeder J, Kuczynski J, Caporaso JG, Lozupone CA, Lauber C, Clemente JC, Knights D, Knight R, Gordon JI. Human gut microbiome viewed across age and geography. Nature. 2012 May 9;486(7402):222-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22699611"
+    },
+    {
+      "Title": "van der Ent CK, van der Gugten AC. Contact with dogs during the first year of life is associated with decreased risk of respiratory illness. Evid Based Nurs. 2013 Oct;16(4):103.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23220599"
+    }
+  ],
+  "Acknowledgements": "Image credit: Jay Malone via flickr. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "allergies",
+      "Url": "https://nutritionfacts.org/topics/allergies/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "butyrate",
+      "Url": "https://nutritionfacts.org/topics/butyrate/"
+    },
+    {
+      "Title": "cats",
+      "Url": "https://nutritionfacts.org/topics/cats/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fecal transplant",
+      "Url": "https://nutritionfacts.org/topics/fecal-transplant/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "pets",
+      "Url": "https://nutritionfacts.org/topics/pets/"
+    },
+    {
+      "Title": "respiratory infections",
+      "Url": "https://nutritionfacts.org/topics/respiratory-infections/"
+    },
+    {
+      "Title": "short-chain fatty acids",
+      "Url": "https://nutritionfacts.org/topics/short-chain-fatty-acids/"
+    },
+    {
+      "Title": "weight gain",
+      "Url": "https://nutritionfacts.org/topics/weight-gain/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><a href=\"https://nutritionfacts.org/video/are-cats-or-dogs-more-protective-for-childrens-health/\">Are Cats or Dogs More Protective for Children’s Health?</a> was the video I mentioned earlier.</p>\n<p>Viruses may also play a role in obesity. How? See<a href=\"https://nutritionfacts.org/video/infectobesity-adenovirus-36-and-childhood-obesity/\"> Infectobesity: Adenovirus 36 and Childhood Obesity</a>. You may also be interested in <a href=\"https://nutritionfacts.org/video/chicken-big-poultry-and-obesity/\">Chicken Big: Poultry and Obesity</a>.</p>\n<p>The important question: <a href=\"https://nutritionfacts.org/video/can-morbid-obesity-be-reversed-through-diet/\">Can Morbid Obesity Be Reversed Through Diet?</a> Find out in my video, and also check out <a href=\"https://nutritionfacts.org/video/coconut-oil-and-abdominal-fat/\">Coconut Oil and Abdominal Fat</a>.</p>\n<p>For more on the amazing inner world in our guts, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/microbiome-the-inside-story/\">Microbiome: The Inside Story</a></li>\n<li><a href=\"https://nutritionfacts.org/video/prebiotics-tending-our-inner-garden/\">Prebiotics: Tending Our Inner Garden</a></li>\n<li><a href=\"https://nutritionfacts.org/video/whats-your-gut-microbiome-enterotype/\">What’s Your Gut Microbiome Enterotype?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-change-your-enterotype/\">How to Change Your Enterotype</a></li>\n<li><a href=\"https://nutritionfacts.org/video/paleopoo-what-we-can-learn-from-fossilized-feces/\">Paleopoo: What We Can Learn from Fossilized Feces</a></li>\n<li><a href=\"https://nutritionfacts.org/video/gut-dysbiosis-starving-microbial-self/\">Gut Dysbiosis: Starving Our Microbial Self</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-become-a-fecal-transplant-super-donor/\">How to Become a Fecal Transplant Super Donor</a></li>\n<li><a href=\"https://nutritionfacts.org/video/microbiome-we-are-what-they-eat/\">Microbiome: We Are What They Eat</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

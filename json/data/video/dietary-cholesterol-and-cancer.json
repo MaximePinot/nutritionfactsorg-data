@@ -1,0 +1,195 @@
+{
+  "Title": "Dietary Cholesterol and Cancer",
+  "Url": "https://nutritionfacts.org/video/dietary-cholesterol-and-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/6V8BW00zZTA"
+  },
+  "UpdatedAt": "2019-01-09T12:50:40+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 45",
+    "Url": "https://nutritionfacts.org/volumes/volume-45/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The relationship between the consumption of eggs and other cholesterol-rich foods and cancers of the colon, breast, endometrium, pancreas, and throat.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn 1969, a correlation analysis performed by a Dr. Gregor (no relation, and he spelled it wrong), found this rather tight correlation between animal protein intake in countries and intestinal cancer mortality. In the 70s, this relationship was extended to breast cancer too, and animal fat implicated as well, but it all kind of travels together in the same foods, along with dietary cholesterol. “And there is significant correlation between high consumption of cholesterol-containing food items and the world-wide distribution of colon cancer” as well, a large and highly significant correlation even after controlling for other dietary factors such as animal fat and fiber, supporting “the possibility of a [cause-and-effect] relationship between cholesterol intake and colon cancer.”\nSo, is dietary cholesterol co-carcinogenic for human colon cancer? Let’s find out by feeding some to rats. Inject rats with a carcinogen, and cholesterol-eating rats get tumors in half the time and all die off, whereas most of the cholesterol-free group survives. But “the relevance of animal data to the human situation is debatable.” How would the cholesterol and cancer link even work?\nWell, we don’t need to consume any cholesterol, since our body makes all that it needs, and when we do consume extra, there’s a limit to the amount of cholesterol the body can absorb. So where does the excess go? Down to our colon, and so the cells lining our colon, where colon cancer arises, are therefore constantly exposed to fecal cholesterol. Should a cancerous or precancerous polyp arise, maybe all that extra cholesterol would help it grow faster? The amount of cholesterol we eat could “thus be a factor determining the rate of development, growth, or spread of such a tumour.” This was all just kind of speculation back in the 70s, but they realized that if it were true, that would be such good news, since a low-cholesterol diet, cutting down on meat, dairy, eggs, and junk—the only foods that really have cholesterol—would be a feasible, cheap, safe way to help prevent and treat colon cancer. So, what’s the 40-year update?\nCountry-by-country correlation can never do more than just inspire studies like this: “the largest nationwide population-based case–control study [to date] to assess the association between cholesterol intake and several types of cancer.” And, they found: “Dietary cholesterol intake was…associated with” increased risk of cancers of the stomach, colon, rectum, pancreas, lung, breast, kidney, bladder and bone marrow—non-Hodgkin’s lymphoma. So, the flip side is that “a diet low in cholesterol may play a role in the prevention of several cancers.” What does that mean food-wise? Cutting down on meat, dairy, and eggs, which may increase risk of cancer, though eating diaries would probably just increase risk of paper cuts—lots of fiber, though!\n“The findings of this study should essentially be viewed as an indication that a diet rich in meat, dairy products, eggs…is an unfavorable indicator of the risk of several common cancers.” Two cancers they didn’t look into, though, were endometrial cancer and throat cancer. Put all the studies on cholesterol consumption and the risk of endometrial cancer together—cancer of the lining of the uterus—and they found a dose-response, meaning more cholesterol consumption associated with more cancer, 6 percent for every 100 mg extra a day; so, like a daily omelet might increase cancer risk by about a 20 percent, maybe because the extra cholesterol is converted into estrogen, or it may just be the increased oxidant stress reflected in higher levels of oxidized cholesterol. I talk about that in my Alzheimer’s series.\nThere also appears to be a dose-response relationship with pancreatic cancer, “one of the most dismal malignancies.” The compilation of studies found the risk increased by 8 percent for every 100 mg of cholesterol; so, that would be like 30 percent higher risk for pancreatic cancer for a daily omelet.\nAnd finally, throat cancer. Increased risk was observed for elevated cholesterol intake. About 85 percent higher odds, consistent with the other studies. Yeah, maybe it’s the oxidation, but maybe it’s the inflammation. However, we can’t be sure it’s the cholesterol itself that’s to blame. “Elevated cholesterol intake could [just be a stand-in] indicator that a diet rich in meat, eggs, and dairy products may have unfavourable effects.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Chen H, Qin S, Wang M, Zhang T, Zhang S. Association between cholesterol intake and pancreatic cancer risk: evidence from a meta-analysis. Sci Rep. 2015;5:8243.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25649888"
+    },
+    {
+      "Title": "Cruse JP, Lewin MR, Ferulano GP, Clark CG. Co-carcinogenic effects of dietary cholesterol in experimental colon cancer. Nature. 1978;276(5690):822-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/723955"
+    },
+    {
+      "Title": "Cruse P, Lewin M, Clark CG. Dietary cholesterol is co-carcinogenic for human colon cancer. Lancet. 1979;1(8119):752-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/85993"
+    },
+    {
+      "Title": "Drasar BS, Irving D. Environmental factors and cancer of the colon and breast. Br J Cancer. 1973;27(2):167-72.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4694388"
+    },
+    {
+      "Title": "Gong TT, Li D, Wu QJ, Wang YZ. Cholesterol consumption and risk of endometrial cancer: a systematic review and dose-response meta-analysis of observational studies. Oncotarget. 2016;7(13):16996-7008.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26959738"
+    },
+    {
+      "Title": "Gregor O, Toman R, Prusová F. Gastrointestinal cancer and nutrition. Gut. 1969;10(12):1031-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/5366239"
+    },
+    {
+      "Title": "Hu J, La vecchia C, De groh M, et al. Dietary cholesterol intake and cancer. Ann Oncol. 2012;23(2):491-500.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21543628"
+    },
+    {
+      "Title": "Liu K, Stamler J, Moss D, Garside D, Persky V, Soltero I. Dietary cholesterol, fat, and fibre, and colon-cancer mortality. An analysis of international data. Lancet. 1979;2(8146):782-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/90870"
+    },
+    {
+      "Title": "Polesel J, Negri E, Serraino D, et al. Dietary intakes of carotenoids and other nutrients in the risk of nasopharyngeal carcinoma: a case-control study in Italy. Br J Cancer. 2012;107(9):1580-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22968647"
+    }
+  ],
+  "Acknowledgements": "Image credit: Elena Schweitzer via Adobe Stock Photos. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "bladder cancer",
+      "Url": "https://nutritionfacts.org/topics/bladder-cancer/"
+    },
+    {
+      "Title": "bladder health",
+      "Url": "https://nutritionfacts.org/topics/bladder-health/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "endometrial cancer",
+      "Url": "https://nutritionfacts.org/topics/endometrial-cancer/"
+    },
+    {
+      "Title": "endometrial health",
+      "Url": "https://nutritionfacts.org/topics/endometrial-health/"
+    },
+    {
+      "Title": "estrogen",
+      "Url": "https://nutritionfacts.org/topics/estrogen/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "kidney cancer",
+      "Url": "https://nutritionfacts.org/topics/kidney-cancer/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "lung health",
+      "Url": "https://nutritionfacts.org/topics/lung-health/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "non-Hodgkin lymphoma",
+      "Url": "https://nutritionfacts.org/topics/non-hodgkin-lymphoma/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "pancreatic cancer",
+      "Url": "https://nutritionfacts.org/topics/pancreatic-cancer/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "throat cancer",
+      "Url": "https://nutritionfacts.org/topics/throat-cancer/"
+    },
+    {
+      "Title": "throat health",
+      "Url": "https://nutritionfacts.org/topics/throat-health/"
+    },
+    {
+      "Title": "uterine cancer",
+      "Url": "https://nutritionfacts.org/topics/uterine-cancer/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>The video I mentioned is <a href=\"https://nutritionfacts.org/video/oxidized-cholesterol-as-a-cause-of-alzheimers-disease/\">Oxidized Cholesterol as a Cause of Alzheimer’s Disease</a>.</p>\n<p>Stay tuned for <a href=\"https://nutritionfacts.org/video/eggs-and-breast-cancer/\">Eggs &amp; Breast Cancer</a> and <a href=\"https://nutritionfacts.org/video/oxidized-cholesterol-27hc-may-explain-3-breast-cancer-mysteries/\">Oxidized Cholesterol 27HC May Explain 3 Breast Cancer Mysteries</a>.</p>\n<p>I’ve done tons of videos on eggs. Here are some of the latest:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-the-egg-board-designs-misleading-studies/\">How the Egg Board Designs Misleading Studies</a></li>\n<li><a href=\"https://nutritionfacts.org/video/cholesterol-crystals-may-tear-though-our-artery-lining/\">Cholesterol Crystals May Tear Through Our Artery Lining</a></li>\n<li><a href=\"https://nutritionfacts.org/video/when-low-risk-means-high-risk/\">When Low Risk Means High Risk</a></li>\n<li><a href=\"https://nutritionfacts.org/video/eggs-and-cholesterol-patently-false-and-misleading-claims/\">Eggs and Cholesterol: Patently False &amp; Misleading Claims</a></li>\n<li><a href=\"https://nutritionfacts.org/video/carnitine-choline-cancer-and-cholesterol-the-tmao-connection/\">Carnitine, Choline, Cancer, &amp; Cholesterol: The TMAO Connection</a></li>\n<li><a href=\"https://nutritionfacts.org/video/prevent-non-alcoholic-fatty-liver-disease/\">How to Prevent Non-Alcoholic Fatty Liver Disease</a></li>\n</ul>\n<p>The optimal intake of cholesterol? Zero (see <a href=\"https://nutritionfacts.org/video/trans-fat-saturated-fat-and-cholesterol-tolerable-upper-intake-of-zero/\">Trans Fat, Saturated Fat, &amp; Cholesterol: Tolerable Upper Intake of Zero</a>).</p>\n<p>For all our videos on the latest research on cholesterol, visit our <a href=\"https://nutritionfacts.org/topics/cholesterol/\">Cholesterol topic page</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "Title": "Broccoli vs. Breast Cancer Stem Cells",
+  "Url": "https://nutritionfacts.org/video/broccoli-versus-breast-cancer-stem-cells/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/uIXmiW84Ubw"
+  },
+  "UpdatedAt": "2012-03-12T12:00:40+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 8",
+    "Url": "https://nutritionfacts.org/volumes/volume-8/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A new theory of cancer biology—cancer stem cells—and the role played by sulforaphane, a phytonutrient produced by cruciferous vegetables.",
+  "Transcript": "Over the last decade, a new theory of cancer biology has emerged—the cancer stem cell. Normal stem cells are involved in organ repair. Stained here in red, they travel around the body, sit, and wait—until there’s some damage, and step in and replace whatever structures are necessary. Lost a little skin here; bone or muscle there; need to regrow a new tooth? These cells are ready and willing. And, the best part, they’re built to last a lifetime. But those same qualities—migration, colonization, proliferation, self-renewal, immortality—can be used against us, when stem cells go bad, and decide to build tumors instead.\nCancer stem cells may explain cancer spread and cancer recurrence. That may be why cancer tends to come back. There may be no cure; only remission. You can have a breast cancer relapse 20 to 25 years after you thought it went away. Thanks, potentially, to cancer stem cells.\nOur current armamentarium of chemo drugs and radiation is based on animal models. If the tumor shrinks, it’s a success. But lab rats only live two or three years. All these new fancy therapies like antiangiogenesis—cutting off the blood supplies to tumors, that’s great, but the cancer stems cells may be like, “Fine, I’ll go somewhere else and grow another tumor.” What we need is to strike at the root of cancer—treatments aimed not at just reducing tumor bulk, but rather at targeting the “beating heart” of the tumor, the cancer stem cell. Enter, broccoli.\nSulforaphane, a dietary component of broccoli and broccoli sprouts, appears to inhibit breast cancer stem cells. Breast tissue naturally has lots of stem cells. Your body never knows when you’re going to get pregnant, and have to start making a lot of new milk glands. Researchers recently discovered this compound in broccoli that may destroy cancerous stem cells, and keep them from going rogue in the first place.\nEstrogen-receptor-positive human breast tumor; here’s an estrogen-receptor-negative breast tumor. Let’s add some broccoli juice. Going; going; nearly gone. Stem cell hotspots, before and after the broccoli.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Aguirre-Ghiso JA. Models, mechanisms and clinical evidence for cancer dormancy. Nat Rev Cancer. 2007 Nov;7(11):834-46.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2519109/pdf/nihms53903.pdf"
+    },
+    {
+      "Title": "Clevers H. The cancer stem cell: premises, promises and challenges. Nat Med. 2011 Mar;17(3):313-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21386835"
+    },
+    {
+      "Title": "Karrison TG, Ferguson DJ, Meier P. Dormancy of Mammary Carcinoma After Mastectomy. J Natl Cancer Inst. 1999 Jan 6;91(1):80-5.",
+      "Url": "http://jnci.oxfordjournals.org/content/91/1/80.full.pdf+html"
+    },
+    {
+      "Title": "Li Y, Zhang T, Korkaya H, Liu S, Lee HF, Newman B, Yu Y, Clouthier SG, Schwartz SJ, Wicha MS, Sun D. Sulforaphane, a Dietary Component of Broccoli/Broccoli Sprouts, Inhibits Breast Cancer Stem Cells. Clin Cancer Res. 2010 May 1;16(9):2580-90.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20388854/"
+    },
+    {
+      "Title": "Tiede B, Kang Y. From milk to malignancy: the role of mammary stem cells in development, pregnancy and breast cancer. Cell Res. 2011 Feb;21(2):245-57.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21243011"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Mikael Häggström, Nissim Benvenisty, and Peter Znamenskiy via Wikimedia Commons, the Gurdon Institute, Lawrence Berkeley National Laboratory, and New York State Stem Cell Science.",
+  "Topics": [
+    {
+      "Title": "angiogenesis",
+      "Url": "https://nutritionfacts.org/topics/angiogenesis/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "broccoli sprouts",
+      "Url": "https://nutritionfacts.org/topics/broccoli-sprouts/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cruciferous vegetables",
+      "Url": "https://nutritionfacts.org/topics/cruciferous-vegetables/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "sprouts",
+      "Url": "https://nutritionfacts.org/topics/sprouts/"
+    },
+    {
+      "Title": "sulforaphane",
+      "Url": "https://nutritionfacts.org/topics/sulforaphane/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Broccoli also protects our DNA. See <a href=\"https://nutritionfacts.org/video/dna-protection-from-broccoli/\" rel=\"nofollow\">DNA Protection From Broccoli</a>, and my <a href=\"https://nutritionfacts.org/topics/greens/\" rel=\"nofollow\">other videos on greens</a> and my <a href=\"https://nutritionfacts.org/topics/cancer/\" rel=\"nofollow\">other videos on cancer</a>.</p>\n<p>Note that most of the sources for this video are open access, so you can click on them in the Sources Cited section, above, and read them full-text for free.</p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/https://nutritionfacts.org/blog/2012/04/19/breast-cancer-stem-cells-vs-broccoli/\" rel=\"nofollow\">Breast Cancer Stem Cells vs. Broccoli</a>; <a href=\"https://nutritionfacts.org/2012/06/28/fighting-inflammation-with-food-synergy/\" rel=\"nofollow\">Fighting Inflammation with Food Synergy</a>; <a href=\"https://nutritionfacts.org/2012/09/06/spices-antioxidants-in-a-pinch/\" rel=\"nofollow\">Antioxidants in a Pinch: Dried Herbs and Spices</a>; <a href=\"https://nutritionfacts.org/2012/11/01/how-to-enhance-mineral-absorption/\" rel=\"nofollow\">How to Enhance Mineral Absorption</a>; <a href=\"https://nutritionfacts.org/2012/04/19/breast-cancer-stem-cells-vs-broccoli/\">Breast Cancer Stem Cells vs. Broccoli</a>; <a href=\"https://nutritionfacts.org/blog/treating-pms-with-saffron/\">Treating PMS with Saffron</a>; <a href=\"https://nutritionfacts.org/2013/04/04/are-bioidentical-hormones-safe/\">Are Bioidentical Hormones Safe?</a>; <a href=\"https://nutritionfacts.org/2013/04/18/the-anti-wrinkle-diet/\">The Anti-Wrinkle Diet</a>; <a href=\"https://nutritionfacts.org/2013/04/23/increasing-muscle-strength-with-fenugreek/\">Increasing Muscle Strength with Fenugreek</a>; <a href=\"https://nutritionfacts.org/2013/05/14/how-tumors-use-meat-to-grow/\">How Tumors Use Meat to Grow</a>; <a href=\"https://nutritionfacts.org/2013/06/06/mushrooms-for-breast-cancer-prevention/\">Mushrooms for Breast Cancer Prevention</a>; <a href=\"https://nutritionfacts.org/2013/07/09/blocking-cancer-formation-green-tea-garlic/\">Foods That May Block Cancer Formation</a>; and <a href=\"https://nutritionfacts.org/2013/11/28/breast-cancer-alcohol-how-much-is-safe/\">Breast Cancer &amp; Alcohol: How Much Is Safe?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

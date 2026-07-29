@@ -1,0 +1,167 @@
+{
+  "Title": "Should We Take EPA and DHA Omega-3 for Our Heart?",
+  "Url": "https://nutritionfacts.org/video/should-we-take-EPA-and-DHA-omega-3-for-our-heart/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/nYAjD6gDS4g"
+  },
+  "UpdatedAt": "2016-03-07T11:00:42+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 29",
+    "Url": "https://nutritionfacts.org/volumes/volume-29/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What’s the best way to fulfill the omega-3 essential fat requirements?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAccording to two of perhaps the most credible nutrition authorities, the World Health Organization and the European Food Safety Authority, we should get at least a half a percent of our calories from the essential short-chain omega-3 ALA; which is easy—just like a tablespoon a day of chia seeds or ground flax seeds, and you’re all set.\nOur body can then take the short-chain ALA from our diet, and elongate it into the long chain omega-3s, EPA and DHA. But, the question has long been, can our bodies make enough for optimal health? How would you determine that? \nTake fiber, for example. A convincing body of literature showed an increased heart disease risk when diets were low in fiber. So, the Institute of Medicine came up with a recommendation for about 30 grams a day, which is an intake observed to protect against coronary heart disease and reduce constipation. Thus, just as cardiovascular disease was used to help establish an adequate intake for dietary fiber, it was used as a way to develop a recommendation for EPA and DHA.\nSo, with reviews published as late as 2009 suggesting fish oil capsules may help with heart disease, nutrition authorities recommended an additional 250mg a day of preformed EPA and DHA, since evidently we were not making enough on our own, if taking more helped. So, in addition to the one or two grams of ALA, it was suggested that we should take 250mg of preformed DHA/EPA, which can be gotten from fish, or algae.\nFish is a toughie, because, on one hand, fish has the preformed DHA and EPA. But, on the other hand, our oceans have become so polluted that fish may contain various pollutants, including dioxins, PCBs, pesticides like DDT, flame retardant chemicals and heavy metals—including mercury, lead, and cadmium—that can negatively affect human health.\nThis was an editorial comment on a recent study of women that found that dietary exposure to PCBs was associated with increased risk of stroke, and an almost three times higher risk of hemorrhagic stroke. Unless you live next to a toxic waste dump, the main source of exposure to PCBs is fish consumption—of which perhaps salmon is the worst, though PCBs can also be found in lesser quantities in other meat sources.\nThis may explain why studies in the U.S. have shown that just a single serving of fish a week may significantly increase one’s risk of diabetes, emphasizing that even levels of these pollutants once considered safe may completely counteract the potential benefits of the omega-3s and other nutrients present in fish, leading to the type of metabolic disturbances that often precede type 2 diabetes.\nNow, one could get their 250mg a day from algae oil, rather than fish oil. Algae oil is free of toxic contaminants, because it never comes in contact with anything from the ocean.\nThen, one could get the best of both worlds—the beneficial nutrients, without the harmful contaminants. But, recently, it was demonstrated that these long-chain omega-3s don’t seem to help with preventing or treating heart disease after all. And since that’s the main reason we thought people should get that extra 250mg of preformed EPA and DHA, why do I still recommend following the guidelines? Because the recommendations were not just based on heart health, but brain health as well. To be continued…\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A Wallin, D Di Giuseppe, N Orsini, P S Patel, N G Forouhi, A Wolk. Fish consumption, dietary long-chain n-3 fatty acids, and risk of type 2 diabetes: systematic review and meta-analysis of prospective studies. Diabetes Care. 2012 Apr;35(4):918-29.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22442397"
+    },
+    {
+      "Title": "C Bergkvist, M Kippler, S C Larsson, M Berglund, A Glynn, A Wolk, A Åkesson. Dietary exposure to polychlorinated biphenyls is associated with increased risk of stroke in women. J Intern Med. 2014 Sep;276(3):248-59.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24428778"
+    },
+    {
+      "Title": "D H Lee, D R Jacobs Jr. Inconsistent epidemiological findings on fish consumption may be indirect evidence of harmful contaminants in fish. J Epidemiol Community Health. 2010 Mar;64(3):190-2.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20203120"
+    },
+    {
+      "Title": "D R Jacobs Jr, J Ruzzin, D H Lee. Environmental pollutants: downgrading the fish food stock affects chronic disease risk. J Intern Med. 2014 Sep;276(3):240-2.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24447046"
+    },
+    {
+      "Title": "D W Kastner, D R Van Wagoner. Diet and atrial fibrillation: does α-linolenic acid, a plant derived essential fatty acid, have an impact? J Am Heart Assoc. 2013 Feb 22;2(1):e000030.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23525415"
+    },
+    {
+      "Title": "G Vannice, H Rasmussen. Position of the academy of nutrition and dietetics: dietary fatty acids for healthy adults. J Acad Nutr Diet. 2014 Jan;114(1):136-53.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24342605"
+    },
+    {
+      "Title": "J Greene, S M Ashburn, L Razzouk, D A Smith. Fish oils, coronary heart disease, and the environment. Am J Public Health. 2013 Sep;103(9):1568-76.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23409906"
+    },
+    {
+      "Title": "J Greene, S M Ashburn, L Razzouk, D A Smith. Letters re: Fish oils, coronary heart disease, and the environment, Letters, e4-5, Am J Public Health. 2013 Nov;103(11).",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23409906"
+    },
+    {
+      "Title": "J Ruzzin, D R Jacobs. The secret story of fish: decreasing nutritional value due to pollution? Br J Nutr. 2012 Aug;108(3):397-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22621708"
+    },
+    {
+      "Title": "K Lane, E Derbyshire, W Li, C Brennan. Bioavailability and potential uses of vegetarian sources of omega-3 fatty acids: a review of the literature. Crit Rev Food Sci Nutr. 2014;54(5):572-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24261532"
+    },
+    {
+      "Title": "M R Flock, W S Harris, P M Kris-Etherton. Long-chain omega-3 fatty acids: time to establish a dietary reference intake. Nutr Rev. 2013 Oct;71(10):692-707.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24117792"
+    },
+    {
+      "Title": "P E Marik, J Varon. Omega-3 dietary supplements and the risk of cardiovascular events: a systematic review. Clin Cardiol. 2009 Jul;32(7):365-72.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19609891"
+    },
+    {
+      "Title": "W J Crinnion. Polychlorinated biphenyls: persistent pollutants with immunological, neurological, and endocrinological consequences. Altern Med Rev. 2011 Mar;16(1):5-13.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21438643"
+    },
+    {
+      "Title": "[No authors listed] Fats and fatty acids in human nutrition. Report of an expert consultation. FAO Food Nutr Pap. 2010;91:1-166.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21812367"
+    }
+  ],
+  "Acknowledgements": "Images thanks to PublicDomainPictures via Pixabay",
+  "Topics": [
+    {
+      "Title": "algae",
+      "Url": "https://nutritionfacts.org/topics/algae/"
+    },
+    {
+      "Title": "cadmium",
+      "Url": "https://nutritionfacts.org/topics/cadmium/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "chia seeds",
+      "Url": "https://nutritionfacts.org/topics/chia-seeds/"
+    },
+    {
+      "Title": "constipation",
+      "Url": "https://nutritionfacts.org/topics/constipation/"
+    },
+    {
+      "Title": "DHA",
+      "Url": "https://nutritionfacts.org/topics/dha/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "fish oil",
+      "Url": "https://nutritionfacts.org/topics/fish-oil/"
+    },
+    {
+      "Title": "flaxseeds",
+      "Url": "https://nutritionfacts.org/topics/flax-seeds/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heavy metals",
+      "Url": "https://nutritionfacts.org/topics/heavy-metals/"
+    },
+    {
+      "Title": "lead",
+      "Url": "https://nutritionfacts.org/topics/lead/"
+    },
+    {
+      "Title": "mercury",
+      "Url": "https://nutritionfacts.org/topics/mercury/"
+    },
+    {
+      "Title": "omega-3 fatty acids",
+      "Url": "https://nutritionfacts.org/topics/omega-3-fatty-acids/"
+    },
+    {
+      "Title": "PCBs",
+      "Url": "https://nutritionfacts.org/topics/pcbs/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    },
+    {
+      "Title": "salmon",
+      "Url": "https://nutritionfacts.org/topics/salmon/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "World Health Organization",
+      "Url": "https://nutritionfacts.org/topics/world-health-organization/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For the thrilling conclusion to my latest omega-3 series, see my video <a href=\"https://nutritionfacts.org/video/should-we-take-dha-supplements-to-boost-brain-function/\">Should We Take DHA Supplements to Boost Brain Function?</a>.</p>\n<p>Other omega-3 videos include:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/fish-consumption-and-suicide/\">Fish Consumption and Suicide</a></li>\n<li><a href=\"https://nutritionfacts.org/video/omega-3s-prostate-cancer-and-atrial-fibrillation/\">Omega-3s, Prostate Cancer, and Atrial Fibrillation</a></li>\n<li><a href=\"https://nutritionfacts.org/video/omega-3s-and-the-eskimo-fish-tale/\">Omega-3s and the Eskimo Fish Tale</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-vegans-take-dha-to-preserve-brain-function/\">Should Vegans Take DHA to Preserve Brain Function?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/which-are-better-chia-seeds-or-flax-seeds/\">Which Are Better? Chia Seeds or Flax Seeds?</a></li>\n</ul>\n<p>If the no-heart-benefit surprised you, check out <a href=\"https://nutritionfacts.org/video/is-fish-oil-just-snake-oil/\">Is Fish Oil Just Snake Oil?</a>.</p>\n<p>Surprised by the link with diabetes and want to learn more? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/fish-and-diabetes/\">Fish and Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/diabetes-and-dioxins/\">Diabetes and Dioxins</a></li>\n<li><a href=\"https://nutritionfacts.org/video/pollutants-in-salmon-and-our-own-fat/\">Pollutants in Salmon and Our Own Fat</a></li>\n</ul>\n<p><a href=\"https://nutritionfacts.org/video/food-sources-of-pcb-chemical-pollutants/\">Food Sources of PCB Chemical Pollutants</a> has more on PCBs, and here are additional videos on other pollutants:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/dioxins-in-u-s-farm-raised-catfish/\">Dioxins in U.S. Farm-Raised Catfish</a></li>\n<li><a href=\"https://nutritionfacts.org/video/dietary-pollutants-may-affect-testosterone-levels/\">Dietary Pollutants May Affect Testosterone Levels</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flame-retardant-pollutants-and-child-development/\">Flame Retardant Pollutants and Child Development</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

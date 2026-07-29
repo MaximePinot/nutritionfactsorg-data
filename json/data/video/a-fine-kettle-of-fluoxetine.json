@@ -1,0 +1,119 @@
+{
+  "Title": "A Fine Kettle of Fluoxetine",
+  "Url": "https://nutritionfacts.org/video/a-fine-kettle-of-fluoxetine/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/4yNjcHaLTQI"
+  },
+  "UpdatedAt": "2012-05-24T12:00:22+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 9",
+    "Url": "https://nutritionfacts.org/volumes/volume-9/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Excreted pharmaceutical drugs, such as Prozac, can end up polluting our waterways, and may bioaccumulate in fish flesh.",
+  "Transcript": "The source for the New York City water supply was recently tested for the occurrence of pharmaceutical and personal care products. As I talked about in one of my previous videos, many of the drugs we take are excreted in our urine, and can end up polluting our waterways.\nWhat about New York City? Well, they found trace amounts of drugs like Tylenol, ibuprofen; stimulants like nicotine, caffeine; hormones like estrone and testosterone; some antibiotics; a barbiturate, Valium. The levels they found were extremely low, though; well under the New York safety standards.\nThe concern is bioaccumulation. Does it build up in the flesh of fish swimming in it? Well, in a national study of the occurrence of pharmaceuticals and personal care products in fish, they did find, for example, Prozac metabolites in fish fillets at levels higher than that found in the surrounding water.\nBut, before one considers eating fish to improve their mood, know that these drugs are mostly concentrated in the brains of fish. And, a recent Harvard study looked at fish consumption and depression—the Harvard Nurse’s Study—and their findings “do not support a protective effect of long chain [omega 3s] from fish on depression risk”—though they do “support the hypothesis that higher ALA  [the plant-based omega 3 found in flaxseeds and walnuts, may]” reduce depression risk.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Serena Mylchreest.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Lucas M, Mirzaei F, O'Reilly EJ, Pan A, Willett WC, Kawachi I, Koenen K, Ascherio A. Am J Clin Nutr. Dietary intake of n-3 and n-6 fatty acids and the risk of clinical depression in women: a 10-y prospective follow-up study. 2011 Jun; 93(6):1337-43.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21471279"
+    },
+    {
+      "Title": "New York City Environmental Protection. Occurrence of Pharmaceutical and Personal Care Products (PPCPs) in Source Water of the New York City Water Supply. 2011.",
+      "Url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.3867&rep=rep1&type=pdf"
+    },
+    {
+      "Title": "Ramirez AJ, Brain RA, Usenko S, Mottaleb MA, O'Donnell JG, Stahl LL, Wathen JB, Snyder BD, Pitt JL, Perez-Hurtado P, Dobbins LL, Brooks BW, Chambliss CK. Occurrence of pharmaceuticals and personal care products in fish: results of a national pilot study in the United States. Environ Toxicol Chem. 2009 Dec; 28(12):2587-97.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19320536"
+    }
+  ],
+  "Acknowledgements": "Images thanks to National Geographic and Alejandro Ramirez.",
+  "Topics": [
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "antidepressants",
+      "Url": "https://nutritionfacts.org/topics/antidepressants/"
+    },
+    {
+      "Title": "caffeine",
+      "Url": "https://nutritionfacts.org/topics/caffeine/"
+    },
+    {
+      "Title": "depression",
+      "Url": "https://nutritionfacts.org/topics/depression/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "flaxseeds",
+      "Url": "https://nutritionfacts.org/topics/flax-seeds/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "Harvard Nurses' Health Study",
+      "Url": "https://nutritionfacts.org/topics/harvard-nurses-health-study/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "medications",
+      "Url": "https://nutritionfacts.org/topics/medications/"
+    },
+    {
+      "Title": "mood",
+      "Url": "https://nutritionfacts.org/topics/mood/"
+    },
+    {
+      "Title": "omega-3 fatty acids",
+      "Url": "https://nutritionfacts.org/topics/omega-3-fatty-acids/"
+    },
+    {
+      "Title": "Prozac",
+      "Url": "https://nutritionfacts.org/topics/prozac/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "seeds",
+      "Url": "https://nutritionfacts.org/topics/seeds/"
+    },
+    {
+      "Title": "testosterone",
+      "Url": "https://nutritionfacts.org/topics/testosterone/"
+    },
+    {
+      "Title": "walnuts",
+      "Url": "https://nutritionfacts.org/topics/walnuts/"
+    },
+    {
+      "Title": "water",
+      "Url": "https://nutritionfacts.org/topics/water/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>The earlier video I refer to in this one is <a href=\"https://nutritionfacts.org/video/prozac-residues-in-fish/\" rel=\"nofollow\">Prozac Residues in Fish</a>. Researchers have also found evidence of Prozac in poultry; see <a href=\"http://www.huffingtonpost.com/michael-greger-md/antibiotics-chicken_b_1470098.html\" rel=\"nofollow\">Prozac in Poultry Is Better Than Penicillin</a>. Despite the contaminants, tap water is still likely better. A better way to avoid unwanted drugs may be to cut back on meat (see <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=869\">Drug Residues in Meat</a>) and dairy (see <a href=\"https://nutritionfacts.org/video/the-acne-promoting-effects-of-milk/\">The Acne-Promoting Effects of Milk</a>), and transition to a more plant-based diet (see <a href=\"https://nutritionfacts.org/video/say-no-to-drugs-by-saying-yes-to-more-plants/\">Say No to Drugs by Saying Yes to More Plants</a>)—which, for reasons other than the ALA mentioned in the video, may also improve mood (see <a href=\"https://nutritionfacts.org/video/improving-mood-through-diet/\">Improving Mood Through Diet</a>). And, I didn’t mean to suggest caffeine is necessarily deleterious to health; check out <a href=\"https://nutritionfacts.org/video/what-about-the-caffeine/\" rel=\"nofollow\">What About the Caffeine?</a> </p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/07/27/mercury-testing-recommended-before-pregnancy/\"> Mercury Testing Recommended Before Pregnancy</a>; <a href=\"https://nutritionfacts.org/2012/05/03/stool-size-and-breast-cancer-risk/\">Stool Size and Breast Cancer Risk</a>; and <a href=\"https://nutritionfacts.org/2013/03/28/how-to-reduce-dietary-antibiotic-intake/\">How To Reduce Dietary Antibiotic Intake</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

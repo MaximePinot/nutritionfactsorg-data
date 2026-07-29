@@ -1,0 +1,187 @@
+{
+  "Title": "Is Liquid-Smoke Flavoring Carcinogenic?",
+  "Url": "https://nutritionfacts.org/video/is-liquid-smoke-flavoring-carcinogenic/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/7JOp3MMOwaw"
+  },
+  "UpdatedAt": "2014-02-26T12:15:02+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 17",
+    "Url": "https://nutritionfacts.org/volumes/volume-17/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Different brands of liquid smoke flavorings have been tested for DNA-damaging potential, p53 activation, and levels of known carcinogens. Smoked foods such as ham, turkey, barbequed chicken, herring, and salmon were also tested.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWe know smoke inhalation isn’t good for us. What about smoke ingestion? Decades ago, smoke flavorings were tested to see if they caused DNA mutations in bacteria, and the test was negative. Even as more and more smoke flavoring was added, the DNA mutation rate remained about the same.\nBut “[t]he fact that [something]…is not mutagenic in bacteria has little predictive value for [its effect] on human cells.” So, a group at MIT tested a hickory smoke flavoring they bought at the store against two types of human white blood cells. Unlike the bacteria, the mutation rate shot up as more and more liquid smoke was added.\nBut, there’s little evidence that “mutagenic activity in a particular human cell line is more closely related to human health risk than is mutagenic activity in bacteria.” In other words, just because liquid smoke causes DNA mutations in human cells in a petri dish doesn’t mean it does the same thing within the human body.\nDamaging DNA is just one of many ways chemicals can be toxic to cells. A decade later, researchers tested to see what effect liquid smoke had on overall cell viability. If you drip water on cells, nothing happens; they keep powering away at around 100% survival. But, drip on more and more wood-fire smoke, and you can start killing some of the cells off. Cigarette smoke is more toxic, but three out of four of the brands of liquid smoke they bought at the supermarket killed off even more cells, leading them to conclude that the “cytotoxic potential of some commercial smoke flavourings is greater than [that of liquid] cigarette smoke…”—a finding they no doubt celebrated, given that the researchers were paid employees of the R. J. Reynolds Tobacco Company.\nUnfortunately, they didn’t name names of the offending brands. That’s one of the reasons I was so excited about this new study, where they tested and named 15 different brands of liquid smoke. This maximum “response” they were measuring was what’s called p53 activation.\nP53 is a protein we make (illustrated here in pink and red) that binds to our DNA (shown in blue). It activates our DNA-repair enzymes. So, a big p53 response might be indicative of a lot of DNA damage. And, a few of the liquid smoke flavorings activated p53 almost as much as a chemotherapy drug like etoposide, whose whole purpose is to break DNA strands.\nOther flavorings didn’t seem as bad, though there was a hickory smoke powder that ranked pretty high, as did the fish sauce, though smoked paprika didn’t register at all.\n“The p53-activating property in liquid smoke was eliminated by standard baking conditions.” So, if we bake something with liquid smoke for long enough, it should eliminate this effect, though just boiling—even for an hour—or slow cooking didn’t appear to work.\nThey conclude: “If the DNA-damaging activities of liquid smoke were thought to be deleterious, it might be possible to replace liquid smoke with other safer, smoky substances.” Why do they say “if…thought to be deleterious?” That’s because they’re not directly measuring DNA damage. Remember, they’re measuring p53 activation, and that’s not necessarily a bad thing.\nP53 is considered “Guardian of [our] Genome,” guardian of our DNA. It’s considered a tumor-suppressor gene, because it helps repair our DNA. So, if something boosts the activity of p53, is that good or bad? It’s like the broccoli story. Cruciferous vegetables dramatically boost our liver’s detoxifying enzymes. Is this because our body sees broccoli as toxic, and is trying to get rid of it quicker? Either way, the end result from broccoli is good—lower cancer risk.\nIt may be a biological phenomenon known as hormesis—that which doesn’t kill us may make us stronger. Like, exercise is a stress on the body, but in the right amount, can make us healthier in the long run. So, for example, teas and coffees caused p53 activation as well, but their consumption is associated with lower cancer risk.\nSo, it’s hard to know what to make of that smoke flavoring p53 data. Due to limitations of the available tests, it’s hard to calculate the “genotoxic potential of liquid smoke,” or any other food, for that matter. A better approach may be to just analyze liquid smoke for known carcinogens—chemicals that we know cause cancer.\nThis was first attempted back in 1971. One of the seven liquid smoke flavors they tested contained a polycyclic aromatic hydrocarbon known to be cancer-causing. But, there’s a bunch of similar carcinogens that they didn’t test for. A later study tested across the board, looking specifically at five different carcinogens in retail liquid smoke seasonings.\nThe recommended daily upper safety limit for these carcinogens is 47. Hickory smoke flavoring only has .8 per teaspoon, so you’d have to drink three bottles a day to bump up against the limit. And, mesquite liquid smoke, only 1.1.\nIt turns out that most of these carcinogens in smoke are fat-soluble, and so when you make a water-based solution, like liquid smoke, you capture the smoke flavor compounds without capturing most of the smoke cancer compounds.\nThe only time you really need to worry is eating smoked foods—foods directly exposed to actual smoke. For example, smoked ham comes up to here, and smoked turkey breast, up to here. So, one sandwich, and we may be halfway to the limit. But, one serving of barbecued chicken takes us over the top. Less than a single drumstick, and we may nearly double our daily allotment of these carcinogens.\nNothing, however, is as bad as fish. Smoked herring? 140. And we have to shrink down the graph to fit the worst of the worst—smoked salmon. One bagel with lox could take us ten times over the limit.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A. Efeyan, M. Serrano. P53: Guardian of the genome and policeman of the oncogenes. Cell cycle 2007 6(9):1006 - 1010.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17457049"
+    },
+    {
+      "Title": "A. G. Braun, W. F. Busby Jr, J. Jackman, P. A. Halpin, W. G. Thilly. Commercial hickory-smoke flavouring is a human lymphoblast mutagen but does not induce lung adenomas in newborn mice. Food Chem. Toxicol. 1987 25(4):331 - 335.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/3556356"
+    },
+    {
+      "Title": "Alf Bjørseth; Anthony J Dennis; United States. Environmental Protection Agency. 1980. Polynuclear aromatic hydrocarbons : chemistry and biological effects, Battelle Press.",
+      "Url": "http://www.worldcat.org/oclc/6446928"
+    },
+    {
+      "Title": "B. L. Pool, P. Z. Lin. Mutagenicity testing in the Salmonella typhimurium assay of phenolic compounds and phenolic fractions obtained from smokehouse smoke condensates. Food Chem. Toxicol. 1982 20(4):383 - 391.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/6751955"
+    },
+    {
+      "Title": "E. A. Gomaa, J. I. Gray, S. Rabie, C. Lopez-Bote, A. M. Booren. Polycyclic aromatic hydrocarbons in smoked food products and commercial liquid smoke flavourings. Food Addit. Contam. 1993 10(5):503 - 521.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/8224319"
+    },
+    {
+      "Title": "K. P. Putnam, D. W. Bombick, J. T. Avalos, D. J. Doolittle. Comparison of the cytotoxic and mutagenic potential of liquid smoke food flavourings, cigarette smoke condensate and wood smoke condensate. Food Chem. Toxicol. 1999 37(11):1113 - 1118.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10566883"
+    },
+    {
+      "Title": "M. Z. Hossain, S. F. Gilbert, K. Patel, S. Ghosh, A. K. Bhunia, S. E. Kern. Biological clues to potent DNA-damaging activities in food and flavoring. Food Chem. Toxicol. 2013 55(NA):557 - 567.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23402862"
+    },
+    {
+      "Title": "R. H. White, J. W. Howard, C. J. Barnes. Determination of polycyclic aromatic hydrocarbons in liquid smoke flavors. J. Agric. Food. Chem. 1971 19(1):143 - 146.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/4100074"
+    },
+    {
+      "Title": "U.S. Environmental Protection Agency. Provisional Guidance for Quantitative Risk Assessment of Polycyclic Aromatic Hydrocarbons. (EPA/600/R-93/089).",
+      "Url": "http://epa-prgs.ornl.gov/chemicals/help/documents/600R93089.pdf"
+    }
+  ],
+  "Acknowledgements": "Images thanks to kaibara87, afiler, alex.schultz, anotherpintplease, beeJim828, joshbousel, Lynn Friedman and JaBB via flickr; Icons Etc, MichaelPhilip, Allstarecho e-cigarette, Richard Wheeler (Zephyris), and Natasha via Clker.com",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "artificial flavors",
+      "Url": "https://nutritionfacts.org/topics/artificial-flavors/"
+    },
+    {
+      "Title": "black tea",
+      "Url": "https://nutritionfacts.org/topics/black-tea/"
+    },
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "coffee",
+      "Url": "https://nutritionfacts.org/topics/coffee/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "cruciferous vegetables",
+      "Url": "https://nutritionfacts.org/topics/cruciferous-vegetables/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "green tea",
+      "Url": "https://nutritionfacts.org/topics/green-tea/"
+    },
+    {
+      "Title": "ham",
+      "Url": "https://nutritionfacts.org/topics/ham/"
+    },
+    {
+      "Title": "herbal tea",
+      "Url": "https://nutritionfacts.org/topics/herbal-tea/"
+    },
+    {
+      "Title": "liquid smoke",
+      "Url": "https://nutritionfacts.org/topics/liquid-smoke/"
+    },
+    {
+      "Title": "liver health",
+      "Url": "https://nutritionfacts.org/topics/liver-health/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "polycyclic aromatic hydrocarbons",
+      "Url": "https://nutritionfacts.org/topics/polycyclic-aromatic-hydrocarbons/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "safety limits",
+      "Url": "https://nutritionfacts.org/topics/safety-limits/"
+    },
+    {
+      "Title": "salmon",
+      "Url": "https://nutritionfacts.org/topics/salmon/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "stress",
+      "Url": "https://nutritionfacts.org/topics/stress/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I’ve touched on those cooked meat carcinogens before. In <a href=\"https://nutritionfacts.org/video/estrogenic-cooked-meat-carcinogens/\">Estrogenic Cooked Meat Carcinogens</a>, I explored the role of these cooked meat chemicals in tumor growth. <a href=\"https://nutritionfacts.org/video/phip-the-three-strikes-breast-carcinogen/\">PhIP: The Three Strikes Breast Carcinogen</a> explores their role in cancer invasion. <a href=\"https://nutritionfacts.org/video/reducing-cancer-risk-in-meateaters/\">Reducing Cancer Risk In Meat-Eaters</a> offers some mediation strategies. <a href=\"https://nutritionfacts.org/video/heterocyclic-amines-in-eggs-cheese-and-creatine/\">Heterocyclic Amines in Eggs, Cheese, &amp; Creatine?</a> shows how even vegetarians may be at risk. <a href=\"https://nutritionfacts.org/video/cancer-interrupted-green-tea/\">Cancer, Interrupted: Green Tea</a> and <a href=\"https://nutritionfacts.org/video/cancer-interrupted-garlic-flavonoids/\">Cancer, Interrupted: Garlic &amp; Flavonoids</a> explore some counter measures.</p>\n<p>Also be sure to check out <a href=\"https://nutritionfacts.org/video/meat-fumes-dietary-secondhand-smoke/\" target=\"_blank\" rel=\"noopener\">Meat Fumes: Dietary Secondhand Smoke</a>. Even the smell of frying bacon may be carcinogenic; see <a href=\"https://nutritionfacts.org/video/carcinogens-in-the-smell-of-frying-bacon/\" target=\"_blank\" rel=\"noopener\">Carcinogens in the Smell of Frying Bacon</a>.</p>\n<p>Some plant foods exposed to high temperatures may also present a concern; see <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=300\" target=\"_blank\" rel=\"noopener\">Is Yerba Maté Tea Bad for You?</a>. </p>\n<p>The broccoli liver enzyme boost story is covered in <a href=\"https://nutritionfacts.org/video/the-best-detox/\">The Best Detox</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "Title": "Raw Broccoli & Bladder Cancer Survival",
+  "Url": "https://nutritionfacts.org/video/raw-broccoli-and-bladder-cancer-survival/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/GmJH8crkLsM"
+  },
+  "UpdatedAt": "2012-03-26T12:00:21+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 8",
+    "Url": "https://nutritionfacts.org/volumes/volume-8/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The effect of raw and cooked broccoli consumption on survival rates of bladder cancer patients.",
+  "Transcript": "For years I’ve been presenting data on how we can best tune our diet to prevent cancer. What if you already have it? There’s been a burst of new research lately on cancer survival, which I’d like to share.\nFor example, we used to tell cancer patients to rest; conserve their energy. But now, there’s evidence that cancer survivors may survive longer if they exercise. But what about diet? Where are the data?\nWell, we know that eating cruciferous vegetables, like broccoli, may help prevent bladder cancer, so I guess it should come to no surprise that broccoli may help with survival. This was a study done at Roswell Park, following a few hundred bladder cancer patients for about eight years. Of course, many didn’t live that long, but in teasing out which factors seemed to improved survival, they found that raw broccoli consumption appeared the most powerful. Cooked broccoli wasn’t useless, but this definitely makes sense, given the whole sulforaphane story I talked about before.\nEating just a single serving or more a month of raw broccoli was associated with half the cancer mortality. If you know anyone with bladder cancer, go buy them some broccoli, or even better, a broccoli seed-sprouting kit.\nFruit and vegetable intake also improves survival from non-Hodgkin’s lymphoma, especially green leafy vegetables and citrus—though it is sobering to note that only 22% of the patients in this study followed public health recommendations for the minimum intake of fruits and vegetables, suggesting that the lymphoma diagnosis may be an important “teachable” moment to improve diet and other health behaviors. If a cancer diagnosis can’t get someone to eat their greens, I’m afraid nothing will.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Davies NJ, Batehup L, Thomas R. The role of diet and physical activity in breast, colorectal, and prostate cancer survivorship: a review of the literature. Br J Cancer. 2011 Nov 8;105 Suppl 1:S52-73.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22048034"
+    },
+    {
+      "Title": "Demark-Wahnefried W, Aziz NM, Rowland JH, Pinto BM.  Riding the crest of the teachable moment: promoting long-term health after the diagnosis of cancer. J Clin Oncol. 2005 Aug 20;23(24):5814-30.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1550285/pdf/nihms-11219.pdf"
+    },
+    {
+      "Title": "Lampe JW. Spicing up a vegetarian diet: chemopreventive effects of phytochemicals. Am J Clin Nutr. 2003 Sep;78(3 Suppl):579S-583S.",
+      "Url": "http://www.ajcn.org/content/78/3/579S.full.pdf+html"
+    },
+    {
+      "Title": "Tang L, Zirpoli GR, Guru K, Moysich KB, Zhang Y, Ambrosone CB, McCann SE. Intake of cruciferous vegetables modifies bladder cancer survival. Cancer Epidemiol Biomarkers Prev. 2010 Jul;19(7):1806-11.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20551305/"
+    },
+    {
+      "Title": "Thompson CA, Cerhan JR. Fruit and vegetable intake and survival from non-Hodgkin lymphoma: does an apple a day keep the doctor away? Leuk Lymphoma. 2010 Jun;51(6):963-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20536344"
+    },
+    {
+      "Title": "Van Horn L. Diet for cancer survivors: where are the data? J Am Diet Assoc. 2011 Mar;111(3):337.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21338728"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Russ Walker / flickr",
+  "Topics": [
+    {
+      "Title": "bladder cancer",
+      "Url": "https://nutritionfacts.org/topics/bladder-cancer/"
+    },
+    {
+      "Title": "bladder health",
+      "Url": "https://nutritionfacts.org/topics/bladder-health/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "broccoli sprouts",
+      "Url": "https://nutritionfacts.org/topics/broccoli-sprouts/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "citrus",
+      "Url": "https://nutritionfacts.org/topics/citrus/"
+    },
+    {
+      "Title": "cruciferous vegetables",
+      "Url": "https://nutritionfacts.org/topics/cruciferous-vegetables/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "non-Hodgkin lymphoma",
+      "Url": "https://nutritionfacts.org/topics/non-hodgkin-lymphoma/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "raw food",
+      "Url": "https://nutritionfacts.org/topics/raw-food/"
+    },
+    {
+      "Title": "sprouts",
+      "Url": "https://nutritionfacts.org/topics/sprouts/"
+    },
+    {
+      "Title": "sulforaphane",
+      "Url": "https://nutritionfacts.org/topics/sulforaphane/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This completes my 13-video series on the latest research on cruciferous vegetables. The “sulforaphane story” I refer to in the video is explained in <a href=\"https://nutritionfacts.org/video/smoking-versus-kale-juice/\" rel=\"nofollow\">Smoking Versus Kale Juice</a>, and <a href=\"https://nutritionfacts.org/video/dna-protection-from-broccoli/\" rel=\"nofollow\">DNA Protection From Broccoli</a>. And growing your own broccoli sprouts is covered in <a href=\"https://nutritionfacts.org/video/biggest-nutrition-bang-for-your-buck/\" rel=\"nofollow\">Biggest Nutrition Bang For Your Buck</a>. </p>\n<p>Note that three of the sources for this video are open access, so you can download them by clicking on the links in the Sources Cited section, above.</p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/08/09/health-food-store-advice-often-worthless-or-worst/\" rel=\"nofollow\">Health Food Store Advice: Often Worthless or Worst</a>; <a href=\"https://nutritionfacts.org/https://nutritionfacts.org/blog/2012/04/19/breast-cancer-stem-cells-vs-broccoli/\" rel=\"nofollow\">Breast Cancer Stem Cells vs. Broccoli</a>; <a href=\"https://nutritionfacts.org/2013/04/09/gerson-therapy-for-cancer/\">Gerson Therapy for Cancer?</a>; and <a href=\"https://nutritionfacts.org/2013/07/09/blocking-cancer-formation-green-tea-garlic/\">Foods That May Block Cancer Formation</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

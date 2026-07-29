@@ -1,0 +1,127 @@
+{
+  "Title": "Epigenetic Clocks for Testing Your Biological Age",
+  "Url": "https://nutritionfacts.org/video/epigenetic-clocks-for-testing-your-biological-age/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/0IIAWa5GZC4"
+  },
+  "UpdatedAt": "2024-08-28T11:50:55+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 66",
+    "Url": "https://nutritionfacts.org/volumes/volume-66/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Epigenetic clocks have become established as robust measures of chronological age, surpassing telomere length as the best age predictor.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMy book, How Not to Age, is all about the mechanisms of aging, and how we can affect them through diet and lifestyle. Can looking at epigenetics––modifiers in gene expression––help predict our healthspan and lifespan? Watch to find out. \nEpigenetics—the differential expression of genes—both establishes the character and function of a cell, and maintains that identity over time through round after round of cell division. So, a heart cell stays a heart cell, and divides to make more heart cells, instead of skin cells or kidney cells––even though all our main cells have the entire complement of DNA to potentially be anything. This is accomplished by methylation, chemical markers that silence inappropriate genes in a particular cell. The fidelity of that maintenance of methylation is good—97 percent to 99.9 percent every division—but not perfect. Over time, those tiny errors may add up, and may help explain why the methylation patterns of identical twins drift apart as they age.\nThe epigenetic markers of young identical twin pairs are essentially indistinguishable, but then diverge over time. Identical twins have the same DNA, the same genes, but the differences in gene expression among older identical twin pairs were found to be about four times greater than those observed in young pairs. This may result in them each getting different diseases.\nAn age-related disease like Alzheimer’s only has an identical twin concordance rate of about 50 percent––meaning if one twin gets it, there’s only about a coin flip chance that the other will too, despite identical DNA. Or, even if they both do get it, the disease may manifest decades apart. Any epigenetic differences that may contribute to differential disease rates may arise from having different diets and lifestyles, or may be a result of random epigenetic drift. However, there are certain DNA sites on our chromosomes that predictably methylate or demethylate as we age. So predictable, in fact, it’s like clockwork.\nOne of the earliest attempts to study aging and the epigenome (which is only like a dozen years ago) found that the DNA from a 103-year-old appeared to be less methylated overall than the DNA of a newborn infant, suggesting, perhaps, that aging involves the general loss of epigenetic markings. We now know it’s more complicated than that. Of the methylation sites that reliably change as we age, about 60 percent go from methylated to unmethylated, and the other 40 percent become more methylated over time. Some so reliably change with age that they’ve been considered a “molecular crystal ball for human aging.”\nIn a remarkable triumph of Big Data, out of the millions of methylation sites in our DNA, a tiny subset so dependably shift over time that you can predict someone’s age within a few years just by strategically measuring the methylation pattern in a few hundred, or even just a few dozen, sites in someone’s three-billion-letter genome.\nOver just the last few years, these “epigenetic clocks” have become established as robust measures of chronological age, surpassing telomere length as the best age predictor. Who cares, though? Why invent some costly Rube Goldberg approach to divining someone’s age when you can simply ask them? Well, you can imagine forensic applications, the determination of an unidentified victim’s age with a blood sample, but that’s just scratching the surface. The kicker is that epigenetic clocks don’t just track your chronological age, but appear to measure your true biological age. In other words, your epigenetic age can better predict your remaining life expectancy than your calendar age.\nIt’s like science fiction. Feed a drop of blood into some futuristic machine that scans the placement of chemical markers on a strand of DNA, and it spits out your true age, reflecting a lifetime of lifestyle choices. If the machine calculated that you have the DNA methylation pattern of a 60-year-old, but you’ve only had 50 birthdays, that would be an example of “epigenetic age acceleration”––when your epigenetic clock age is older than your actual chronological age. That would be an indication that you’re aging too fast. As a 50-year-old, you’d think you have another 30 years on this Earth, but because the epigenetic clock showed that you’re aging at such an accelerated pace, it’s more like you only have about another 20 years left. Every five years of epigenetic age acceleration is associated with an 8 to 15 percent increased risk of mortality.\nIn addition to predicting time-to-death, epigenetic clocks also appear to foretell healthspan indicators, such as cognitive decline, frailty, arthritis, and the progression of diseases like Alzheimer’s and Parkinson’s. As you can imagine, the insurance industry has jumped on this, and your premiums may soon be determined by your epigenetic age. But it’s not some gypsy fortune teller curse set in stone. You can change the rate at which you age, and may soon be able to use epigenetic clocks to track your progress, potentially presenting a radically faster and cheaper way to test anti-aging interventions.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Ashapkin VV, Kutueva LI, Vanyushin BF. Epigenetic clock: just a convenient marker or an active driver of aging? Adv Exp Med Biol. 2019;1178:175-206.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31493228/"
+    },
+    {
+      "Title": "Cook RH, Schneck SA, Clark DB. Twins with Alzheimer’s disease. Arch Neurol. 1981;38(5):300-301.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7224917/"
+    },
+    {
+      "Title": "Ecker S, Beck S. The epigenetic clock: a molecular crystal ball for human aging? Aging (Albany NY). 2019;11(2):833-835.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30669120/"
+    },
+    {
+      "Title": "Fraga MF, Ballestar E, Paz MF, et al. Epigenetic differences arise during the lifetime of monozygotic twins. Proc Natl Acad Sci U S A. 2005;102(30):10604-10609.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16009939/"
+    },
+    {
+      "Title": "Fransquet PD, Wrigglesworth J, Woods RL, Ernst ME, Ryan J. The epigenetic clock as a predictor of disease and mortality risk: a systematic review and meta-analysis. Clin Epigenetics. 2019;11(1):62.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30975202/"
+    },
+    {
+      "Title": "Gatz M, Reynolds CA, Fratiglioni L, et al. Role of genes and environments for explaining Alzheimer disease. Arch Gen Psychiatry. 2006;63(2):168-174.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16461860/"
+    },
+    {
+      "Title": "Heyn H, Li N, Ferreira HJ, et al. Distinct DNA methylomes of newborns and centenarians. Proc Natl Acad Sci U S A. 2012;109(26):10522-10527.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22689993/"
+    },
+    {
+      "Title": "Martin GM. Epigenetic drift in aging identical twins. Proc Natl Acad Sci U S A. 2005;102(30):10413-10414.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16027353/"
+    },
+    {
+      "Title": "McCrory C, Fiorito G, Hernandez B, et al. Grimage outperforms other epigenetic clocks in the prediction of age-related clinical phenotypes and all-cause mortality. J Gerontol A Biol Sci Med Sci. 2021;76(5):741-749.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33211845/"
+    },
+    {
+      "Title": "Mendelson MM. Epigenetic age acceleration: a biological doomsday clock for cardiovascular disease? Circ Genom Precis Med. 2018;11(3):e002089.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29555673/"
+    },
+    {
+      "Title": "Mitteldorf J. A clinical trial using methylation age to evaluate current antiaging practices. Rejuvenation Res. 2019;22(3):201-209.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30345885/"
+    },
+    {
+      "Title": "Mitteldorf J. An incipient revolution in the testing of anti-aging strategies. Biochemistry (Mosc). 2018;83(12):1517-1523.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30878026/"
+    },
+    {
+      "Title": "Rando TA, Chang HY. Aging, rejuvenation, and epigenetic reprogramming: resetting the aging clock. Cell. 2012;148(1-2):46-57.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22265401/"
+    },
+    {
+      "Title": "Szarc vel Szic K, Declerck K, Vidaković M, Vanden Berghe W. From inflammaging to healthy aging by dietary lifestyle choices: is epigenetics the key to personalized nutrition? Clin Epigenetics. 2015;7(1):33.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25861393/"
+    },
+    {
+      "Title": "Unnikrishnan A, Freeman WM, Jackson J, Wren JD, Porter H, Richardson A. The role of DNA methylation in epigenetics of aging. Pharmacol Ther. 2019;195:172-185.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30419258/"
+    },
+    {
+      "Title": "Unnikrishnan A, Hadad N, Masser DR, Jackson J, Freeman WM, Richardson A. Revisiting the genomic hypomethylation hypothesis of aging. Ann N Y Acad Sci. 2018;1418(1):69-79.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29363785/"
+    },
+    {
+      "Title": "Venter JC, Adams MD, Myers EW, et al. The sequence of the human genome. Science. 2001;291(5507):1304-1351.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11181995/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "arthritis",
+      "Url": "https://nutritionfacts.org/topics/arthritis/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "epigenetics",
+      "Url": "https://nutritionfacts.org/topics/epigenetics/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "telomeres",
+      "Url": "https://nutritionfacts.org/topics/telomeres/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">What are telomeres? See <a href=\"https://nutritionfacts.org/video/what-to-eat-to-prevent-telomere-shortening/\">What to Eat to Prevent Telomere Shortening</a>.</span></p>\n<p><span style=\"font-weight: 400\">For more on epigenetics and disease, see my videos </span><a href=\"https://nutritionfacts.org/video/the-role-of-epigenetics-in-the-obesity-epidemic/\"><span style=\"font-weight: 400\">The Role of Epigenetics in the Obesity Epidemic</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/animal-protein-pregnancy-and-childhood-obesity/\"><span style=\"font-weight: 400\">Animal Protein, Pregnancy, and Childhood Obesity</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">For more on how to slow biological aging, check out my book </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a> <span style=\"font-weight: 400\">from your local public library. If you haven’t seen them yet, check out the </span><a href=\"https://nutritionfacts.org/video/book-trailer-for-how-not-to-age/\"><span style=\"font-weight: 400\">book trailer</span></a><span style=\"font-weight: 400\"> and my </span><a href=\"https://nutritionfacts.org/video/how-not-to-age-live-presentation/\"><span style=\"font-weight: 400\">new presentation</span></a><span style=\"font-weight: 400\">. (As always, all proceeds I receive from all of </span><a href=\"https://nutritionfacts.org/books/\"><span style=\"font-weight: 400\">my books</span></a><span style=\"font-weight: 400\"> are donated to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "Title": "Eggs and Breast Cancer",
+  "Url": "https://nutritionfacts.org/video/eggs-and-breast-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/iNKMPBSZu7E"
+  },
+  "UpdatedAt": "2019-01-14T12:50:40+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 45",
+    "Url": "https://nutritionfacts.org/volumes/volume-45/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How few eggs should we eat to reduce the risk of prostate, ovarian, colon, and breast cancer?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nCholesterol and Cancer Association\nThis nationwide study of dietary cholesterol intake and cancer concluded that not only may cutting down on cholesterol help “prevent cardiovascular diseases but also may reduce the risk of…cancer…” Therefore: “Limitation of…animal fat and cholesterol is…a favorable public health measure.” But the study didn’t find high cholesterol consumption correlated with all cancers. Yes, a significant association between high cholesterol intake was found for stomach cancer, colon cancer, rectal cancer, pancreatic cancer, lung cancer, breast cancer, kidney cancer, bladder cancer, and a type of bone marrow cancer called non-Hodgkin’s lymphoma, but the association was negative for prostate cancer.\nIf you look at studies on prostate cancer and eggs, though, which are one of the primary sources of cholesterol in the diet, a pooled analysis of 15 prospective cohort studies found that those who ate 25 grams a day or more of eggs, which is like a half an egg a day, versus like less than an egg a week, those averaging that half-egg had a significant 14 percent increased risk of advanced and fatal prostate cancer. They weren’t exactly sure how to explain it, “but eggs contain considerable amounts of choline,” which certain bad bacteria in the gut can turn into toxic TMAO, which I’ve described before.\nHow Many Eggs Increase Cancer Risk?\nThere also appears to be a dose-response, meaning the more eggs, the more cancer risk. Increasing consumption by five eggs a week may increase the risk of fatal prostate cancer 47 percent, though that’s just for fatal prostate cancer. No relationship was found between eggs and prostate cancer in general; just eggs and the deadly forms. It’s not necessarily the cholesterol, though. Yes, “a large amount of cholesterol [may support] the rapid growth and proliferation” of cancer cells. But there’s also the choline, and the animal protein—all of which may link egg consumption to the risk of breast, ovarian, and prostate cancers.\nAnd then, if you look at prostate cancer progression, meaning men who’ve already been treated for prostate cancer, had a radical prostatectomy to have their whole prostate removed, and are trying to keep the cancer from coming back. If you see what they were eating, a very high intake of eggs—by which they mean nearly an entire egg a day—was associated with the likelihood of recurrence of high-grade disease, meaning an aggressive form of cancer coming back.\nEgg consumption is also associated with increased risk of ovarian cancer, where women make their own eggs, something we’ve known for over 15 years now. “Eggs can also be a source of heterocyclic amines [carcinogenic chemicals that] are formed during high temperature frying.” That would be consistent with the bladder cancer data, suggesting fried egg consumption may double cancer risk, but not boiled eggs. The researchers considered the high cholesterol content of eggs, though, to be most plausible explanation for the ovarian cancer link. Eating lots of cholesterol-rich foods may increase the formation of toxic bile acids, which may at least affect colorectal cancer and lung cancer.\nThere does seem to be a dose-response relationship found for egg consumption and cancers of the gut. Even just a few eggs a week may be associated with a 19 percent greater risk of colorectal cancer, but hit three or more eggs a week, and the increased risk may be as high as 71 percent.\nAnd finally, breast cancer: a significant increase in breast cancer risk once women get up to around five eggs a week. Now this was putting together just all the forward-looking cohort studies. Adding together all the studies doesn’t change the conclusion: “egg consumption [is] associated with increased breast cancer risk.” A single serving of eggs may exceed the old 300mg daily limit by like 40 percent. The latest dietary guidelines actually strengthened their limits on dietary cholesterol, saying forget 300, as recommended by the National Academy of Sciences Institute of Medicine; we “should eat as little dietary cholesterol as possible.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Hu J, La vecchia C, De groh M, et al. Dietary cholesterol intake and cancer. Ann Oncol. 2012;23(2):491-500.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21543628"
+    },
+    {
+      "Title": "Keum N, Lee DH, Marchand N, et al. Egg intake and cancers of the breast, ovary and prostate: a dose-response meta-analysis of prospective observational studies. Br J Nutr. 2015;114(7):1099-107.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26293984"
+    },
+    {
+      "Title": "Li F, Zhou Y, Hu RT, et al. Egg consumption and risk of bladder cancer: a meta-analysis. Nutr Cancer. 2013;65(4):538-46.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23659445"
+    },
+    {
+      "Title": "Si R, Qu K, Jiang Z, Yang X, Gao P. Egg consumption and breast cancer risk: a meta-analysis. Breast Cancer. 2014;21(3):251-61.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24504557"
+    },
+    {
+      "Title": "Tse G, Eslick GD. Egg consumption and risk of GI neoplasms: dose-response meta-analysis and systematic review. Eur J Nutr. 2014;53(7):1581-90.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24500371"
+    },
+    {
+      "Title": "U.S. Department of Health and Human Services and U.S. Department of Agriculture. 2015 – 2020 Dietary Guidelines for Americans. 8th Edition. December 2015.",
+      "Url": "https://health.gov/dietaryguidelines/2015/guidelines"
+    },
+    {
+      "Title": "Wilson KM, Mucci LA, Drake BF, et al. Meat, Fish, Poultry, and Egg Intake at Diagnosis and Risk of Prostate Cancer Progression. Cancer Prev Res (Phila). 2016;9(12):933-941.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27651069"
+    },
+    {
+      "Title": "Wu K, Spiegelman D, Hou T, et al. Associations between unprocessed red and processed meat, poultry, seafood and egg intake and the risk of prostate cancer: A pooled analysis of 15 prospective cohort studies. Int J Cancer. 2016;138(10):2368-82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26685908"
+    },
+    {
+      "Title": "Zeng ST, Guo L, Liu SK, et al. Egg consumption is associated with increased risk of ovarian cancer: Evidence from a meta-analysis of observational studies. Clin Nutr. 2015;34(4):635-41.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25108572"
+    }
+  ],
+  "Acknowledgements": "Image credit: Dustin Kirkpatrick. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "bladder cancer",
+      "Url": "https://nutritionfacts.org/topics/bladder-cancer/"
+    },
+    {
+      "Title": "bladder health",
+      "Url": "https://nutritionfacts.org/topics/bladder-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "choline",
+      "Url": "https://nutritionfacts.org/topics/choline/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "endometrial cancer",
+      "Url": "https://nutritionfacts.org/topics/endometrial-cancer/"
+    },
+    {
+      "Title": "endometrial health",
+      "Url": "https://nutritionfacts.org/topics/endometrial-health/"
+    },
+    {
+      "Title": "kidney cancer",
+      "Url": "https://nutritionfacts.org/topics/kidney-cancer/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "lung health",
+      "Url": "https://nutritionfacts.org/topics/lung-health/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "non-Hodgkin lymphoma",
+      "Url": "https://nutritionfacts.org/topics/non-hodgkin-lymphoma/"
+    },
+    {
+      "Title": "ovarian cancer",
+      "Url": "https://nutritionfacts.org/topics/ovarian-cancer/"
+    },
+    {
+      "Title": "pancreatic cancer",
+      "Url": "https://nutritionfacts.org/topics/pancreatic-cancer/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "throat cancer",
+      "Url": "https://nutritionfacts.org/topics/throat-cancer/"
+    },
+    {
+      "Title": "throat health",
+      "Url": "https://nutritionfacts.org/topics/throat-health/"
+    },
+    {
+      "Title": "TMAO",
+      "Url": "https://nutritionfacts.org/topics/tmao/"
+    },
+    {
+      "Title": "uterine cancer",
+      "Url": "https://nutritionfacts.org/topics/uterine-cancer/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is part two of a three-part video series. In case you missed the previous video, here it is: <a href=\"https://nutritionfacts.org/video/dietary-cholesterol-and-cancer/\">Dietary Cholesterol &amp; Cancer</a>. Stay tuned for <a href=\"https://nutritionfacts.org/video/oxidized-cholesterol-27hc-may-explain-3-breast-cancer-mysteries/\">Oxidized Cholesterol 27HC May Explain 3 Breast Cancer Mysteries</a>.</p>\n<p>For all our videos on the latest research on eggs, visit our <a href=\"https://nutritionfacts.org/topics/eggs/\">Eggs topic page</a>.</p>\n<p>The video I mentioned is <a href=\"https://nutritionfacts.org/video/how-our-gut-bacteria-can-use-eggs-to-accelerate-cancer/\">How Our Gut Bacteria Can Use Eggs to Accelerate Cancer</a>. More on TMAO in <a href=\"https://nutritionfacts.org/video/carnitine-choline-cancer-and-cholesterol-the-tmao-connection/\">Carnitine, Choline, Cancer, &amp; Cholesterol: The TMAO Connection</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

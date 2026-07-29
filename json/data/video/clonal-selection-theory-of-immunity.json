@@ -1,0 +1,51 @@
+{
+  "Title": "Clonal Selection Theory of Immunity",
+  "Url": "https://nutritionfacts.org/video/clonal-selection-theory-of-immunity/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/zUDVYKGm-DE"
+  },
+  "UpdatedAt": "2012-12-11T12:39:50+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "We may have a billion different types of antibody-releasing cells in our immune system, such that each recognizes a different molecular signature.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nTo understand the dietary implications of the new autoimmune theory of cancer, we first have to understand how the immune system works. This was one of the greatest mysteries in all of biology—solved by a brilliant scientist who won the Nobel in 1960 for figuring out the clonal selection theory of immunity. Each one of our antibody-producing immune cells, called B cells, produces only one type of antibody. Antibodies are one of the main weapons our immune system uses to attack foreign invaders.\nAnd, they’re specific. It’s not like we have one B cell that covers grass pollen, and another that covers bacteria. We have a B cell in our body whose only job is to produce antibodies against the pollen of purple Siberian onion grass—whether or not we ever come in contact with it. Another whose only job it is to make antibodies against the tail proteins of a bacteria that lives only in the thermal vents at the bottom of the ocean.\nWait a second. There must be like a billion different things in the world. If each of our B cells produces only one type of antibody, then we’d have to have like a billion different types of B cells. And, we do, which is totally amazing.\nSo, let’s suppose one day you’re walking along, and get attacked by a platypus. They actually have poison spurs on their heels, you know. And so, for your whole life up until that point, the B cell in your body that produces antibodies against duck-billed platypus venom was just hanging around, twiddling its thumbs—until that very moment. As soon as the venom is detected, it raises its hand, and says me, me, me, me—starts dividing like crazy, makes copies of itself. And, soon, you have a whole swarm of clones specialized for platypus poison protection, fending off the toxin, and you live happily ever after.\nThat’s how the immune system works.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Forsdyke DR. The origins of the clonal selection theory of immunity as a case study for evaluation in science. FASEB J. 1995 Feb;9(2):164-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/7781918"
+    },
+    {
+      "Title": "Hodgkin PD, Heath WR, Baxter AG. The clonal selection theory: 50 years since the revolution. Nat Immunol. 2007 Oct;8(10):1019-26.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17878907"
+    },
+    {
+      "Title": "The Nobel Prize in Physiology or Medicine 1960.",
+      "Url": "http://www.nobelprize.org/nobel_prizes/medicine/laureates/1960/press.html"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Aldo samulo via Wikimedia; funnyasduck; and Stowe Boyd via flickr. Images have been modified.",
+  "Topics": [
+    {
+      "Title": "autoimmune diseases",
+      "Url": "https://nutritionfacts.org/topics/autoimmune-diseases/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Isn’t our immune system spectacular?! In <a href=\"https://nutritionfacts.org/video/clonal-deletion-theory-of-immunity/\">Clonal Deletion Theory of Immunity</a>, we’ll explore the flip side—how our immune system avoids attacking us. See <a href=\"https://nutritionfacts.org/video/cancer-as-an-autoimmune-disease/\">Cancer as an Autoimmune Disease</a> for an explanation of the autoimmune theory of cancer. Why all this background? This is all a set-up, so everyone can understand the dietary implications of <a href=\"https://nutritionfacts.org/video/the-inflammatory-meat-molecule-neu5gc/\">The Inflammatory Meat Molecule Neu5Gc</a>; don’t miss it!</p>\n<p>For further context, check out my associated blog post: <a href=\"https://nutritionfacts.org/blog/plant-based-diets-for-multiple-sclerosis/\">Plant-Based Diets for Multiple Sclerosis</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

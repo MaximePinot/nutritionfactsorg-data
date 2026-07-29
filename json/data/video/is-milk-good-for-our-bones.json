@@ -1,0 +1,163 @@
+{
+  "Title": "Is Milk Good for Our Bones?",
+  "Url": "https://nutritionfacts.org/video/is-milk-good-for-our-bones/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/rxnBDDqXSjk"
+  },
+  "UpdatedAt": "2015-03-16T12:00:17+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 23",
+    "Url": "https://nutritionfacts.org/volumes/volume-23/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The galactose in milk may explain why milk consumption is associated with significantly higher risk of hip fractures, cancer, and premature death.",
+  "Transcript": "Milk is touted to build strong bones, but a compilation of all the best studies found no association between milk consumption and hip fracture risk, so drinking milk as an adult might not help bones. But what about in adolescence? Harvard researchers decided to put it to the test.\nStudies have shown that greater milk consumption during childhood and adolescence contributes to peak bone mass, and is therefore expected to help avoid osteoporosis and bone fractures in later life. But that’s not what they found. Milk consumption during teenage years was not associated with a lower risk of hip fracture, and, if anything, milk consumption was associated with a borderline increase in fracture risk in men.\nIt appears that the extra boost in total body bone mineral density you get from getting extra calcium is lost within a few years, even if you keep the calcium supplementation up. This suggests a partial explanation for the long-standing enigma that hip fracture rates are highest in populations with the greatest milk consumption. Maybe an explanation why they’re not lower, but why would they be higher?\nThis enigma irked a Swedish research team, puzzled because studies again and again had shown a tendency of a higher risk of fracture with a higher intake of milk. Well, there is a rare birth defect called galactosemia, where babies are born without the enzymes needed to detoxify the galactose found in milk, so they end up with elevated levels of galactose in their blood, which can cause bone loss even as kids. So maybe, the Swedish researchers figured, even in normal people who can detoxify the stuff, it might not be good for the bones to be drinking it every day. And galactose doesn’t just hurt the bones. That’s what scientists use to cause premature aging in lab animals They slip them a little galactose and you can shorten their lifespan, cause oxidative stress, inflammation, brain degeneration, just with the equivalent of one to two glasses of milk’s worth of galactose a day. We’re not rats, though—but given the high amount of galactose in milk, recommendations to increase milk intake for prevention of fractures could be a conceivable contradiction. So they decided to put it to the test, looking at milk intake and mortality, as well as fracture risk, to test their theory.\nA hundred thousand men and women followed for up to 20 years; what did they find? Milk-drinking women had higher rates of death, more heart disease, and significantly more cancer for each glass of milk. Three glasses a day was associated with nearly twice the risk of death. And they had significantly more bone and hip fractures too.\nMen in a separate study also had a higher rate of death with higher milk consumption, but at least they didn’t have higher fracture rates. So a dose-dependent higher rate of both mortality and fracture in women, and a higher rate of mortality in men with milk intake, but the opposite for other dairy products like soured milk and yogurt, which would go along with the galactose theory, since bacteria can ferment away some of the lactose. To prove it though, we need a randomized controlled trial to examine the effect of milk intake on mortality and fractures. As the accompanying editorial pointed out, we better figure this out soon, as milk consumption is on the rise around the world.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "CM Schooling. Milk and mortality. BMJ 2014; 349.",
+      "Url": "http://www.bmj.com/content/349/bmj.g6205"
+    },
+    {
+      "Title": "D Feskanich, H A Bischoff-Ferrari, A L Frazier, W C Willet. Milk consumption during teenage years and risk of hip fractures in older adults. JAMA Pediatr. 2014 Jan;168(1):54-60.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24247817"
+    },
+    {
+      "Title": "D Feskanich, W C Willett. Early-Life Milk and Late-Life Fracture Reply. JAMA Pediatr. 2014;168(7):683-684.",
+      "Url": "http://archpedi.jamanetwork.com/article.aspx?articleid=1885687"
+    },
+    {
+      "Title": "H A Bischoff-Ferrari, B Dawson-Hughes, J A Baron, J A Kanis, E J Orav, H B Staehelin, D P Kiel, P Burckhardt, J Henschkowski, D Spiegleman, R Li, J B Wong, D Feskanich, W C Willett. Milk intake and risk of hip fracture in men and women: a meta-analysis of prospective cohort studies.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20949604"
+    },
+    {
+      "Title": "K Michaelsson, A Wolk, S Langenskiold, S Basu, Warensjo Lemming, H Melhus, L Byberg. Milk intake and risk of mortality and fractures in women and men: cohort studies. BMJ. 2014 Oct 28;349:g6015.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25352269"
+    },
+    {
+      "Title": "L A Batey, C K Welt, F Rohr, A Wessel, V Anastasoaie, H A Feldman, C Y Guo, E Rubio-Gozalbo, G Berry, C M Gordon. Skeletal health in adult patients with classic galactosemia. Osteoporos Int. 2013 Feb;24(2):501-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22525982"
+    },
+    {
+      "Title": "Phillip A. Study: Milk may not be very good for bones or the body. The Washington Post. October 31, 2014.",
+      "Url": "http://www.washingtonpost.com/news/to-your-health/wp/2014/10/31/study-milk-may-not-be-very-good-for-bones-or-the-body/"
+    },
+    {
+      "Title": "V Matkovic, P K Goel, N E Badenshop-Stevens, J D Landoll, B Li, J Z Ilich, M Skugor, L A Nagode, S L Mobley, E J Ha, T N Hangartner, A Clairmont. Calcium supplementation and bone mineral density in females from childhood to young adulthood: a randomized controlled trial. Am J Clin Nutr. 2005 Jan;81(1):175-88.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15640478"
+    }
+  ],
+  "Acknowledgements": "Images thanks to 1000 anuncios de publicidad y más… via Flickr.",
+  "Topics": [
+    {
+      "Title": "adolescence",
+      "Url": "https://nutritionfacts.org/topics/adolescence/"
+    },
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "bone fractures",
+      "Url": "https://nutritionfacts.org/topics/bone-fractures/"
+    },
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "bone mineral density",
+      "Url": "https://nutritionfacts.org/topics/bone-mineral-density/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "fermented foods",
+      "Url": "https://nutritionfacts.org/topics/fermented-foods/"
+    },
+    {
+      "Title": "galactose",
+      "Url": "https://nutritionfacts.org/topics/galactose/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "lactose",
+      "Url": "https://nutritionfacts.org/topics/lactose/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "osteoporosis",
+      "Url": "https://nutritionfacts.org/topics/osteoporosis/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    },
+    {
+      "Title": "yogurt",
+      "Url": "https://nutritionfacts.org/topics/yogurt/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What can we do for our bones, then? Weight-bearing exercise such as jumping, weight-lifting, and walking with a weighted vest or backpack may help, along with getting enough calcium (<a href=\"https://nutritionfacts.org/video/alkaline-diets-animal-protein-and-calcium-loss/\">Alkaline Diets, Animal Protein, &amp; Calcium Loss</a>) and vitamin D (<a href=\"https://nutritionfacts.org/video/resolving-the-vitamin-d-bate/\">Resolving the Vitamin D-Bate</a>). Eating beans (<a href=\"https://nutritionfacts.org/video/phytates-for-the-prevention-of-osteoporosis/\">Phytates for the Prevention of Osteoporosis</a>) and avoiding phosphate additives (<a href=\"https://nutritionfacts.org/video/phosphate-additives-in-meat-purge-and-cola/\">Phosphate Additives in Meat Purge and Cola</a>) may also help.</p>\n<p>Maybe the galactose angle can help explain the findings on prostate cancer (<a href=\"https://nutritionfacts.org/video/prostate-cancer-and-organic-milk-vs-almond-milk/\" target=\"_blank\" rel=\"noopener\">Prostate Cancer and Organic Milk vs. Almond Milk</a>) and Parkinson’s disease (<a href=\"https://nutritionfacts.org/video/preventing-parkinsons-disease-with-diet/\">Preventing Parkinson’s Disease with Diet</a>).</p>\n<p>Galactose is a milk sugar. There’s also concern about milk proteins (see my <a href=\"https://nutritionfacts.org/topics/casomorphins/\">casomorphin</a> series) and fats (<a href=\"https://nutritionfacts.org/video/the-saturated-fat-studies-buttering-up-the-public/\">The Saturated Fat Studies: Buttering Up the Public</a> and <a href=\"https://nutritionfacts.org/video/trans-fat-in-meat-and-dairy/\">Trans Fat in Meat and Dairy</a>) as well as the hormones (<a href=\"https://nutritionfacts.org/video/dairy-estrogen-and-male-fertility/\" target=\"_blank\" rel=\"noopener\">Dairy Estrogen and Male Fertility</a>, <a href=\"https://nutritionfacts.org/video/estrogen-in-meat-dairy-and-eggs/\">Estrogen in Meat, Dairy, and Eggs</a> and <a href=\"https://nutritionfacts.org/video/why-do-vegan-women-have-5x-fewer-twins/?/\">Why Do Vegan Women Have 5x Fewer Twins?</a>).</p>\n<p><a href=\"https://nutritionfacts.org/video/is-soy-milk-the-most-nutritious-non-dairy-milk/\">Is Soy Milk the Most Nutritious Non-Dairy Milk?</a> and <a href=\"https://nutritionfacts.org/video/why-do-milk-drinkers-live-shorter-lives-on-average/\">Why Do Milk Drinkers Live Shorter Lives on Average?</a> Check out the videos.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

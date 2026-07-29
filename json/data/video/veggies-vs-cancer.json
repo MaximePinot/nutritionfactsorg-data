@@ -1,0 +1,103 @@
+{
+  "Title": "Veggies vs. Cancer",
+  "Url": "https://nutritionfacts.org/video/veggies-vs-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/RDGU5SFVJt0"
+  },
+  "UpdatedAt": "2009-11-06T14:41:14+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 3",
+    "Url": "https://nutritionfacts.org/volumes/3/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A landmark study pitted 34 common vegetables against 8 different lines of human cancer cells.",
+  "Transcript": "But anyway, back to beans. In terms of nutrient density—nutrients per calorie—are beans the most nutritious class of whole foods? Or is it fruit? Nuts and seeds? Vegetables? Or whole grains? What should go on the base of a healthy eating pyramid? Beans, fruits, nuts, veggies, or grains? Definitely vegetables—but which are the healthiest ones?\nA major advance was made this year ranking vegetables. Graphs like this, which I’ve shared over the years, that compare the antioxidant power of foods, were all based on very primitive methods—basically, just measuring how much a food slows down an oxidation reaction between two chemicals in a machine. That was the best we had. But it required a leap of faith that what was happening in the test tube could be extrapolated to what might actually happen in living human tissue.\nThis year, though, a landmark study was published, pitting 34 common vegetables against eight different types of human cancers. Breast cancer, brain tumors, kidney cancer, lung cancer, childhood brain tumors, pancreatic cancer, prostate cancer, and stomach cancer.\nLet’s look at breast cancer—I’ll cover up the answers. What’s being measured is tumor cell proliferation. Here’s the control. You drip some water on a human breast tumor, and nothing happens; it’s still powering away at 100% growth rate. And these seven vegetables appear useless against breast cancer—no different than placebo.\nBut these six cut the cancer growth rate in half. And these five at the end stopped cancer growth completely; stopped these tumor cells dead in their tracks.\nThe take-home message #1 from this new data is that we need to eat a variety of vegetables. Take radishes, for example; they do nothing against pancreatic cancer. In fact, if anything, they might actually accelerate growth. But against stomach cancer, they completely eliminated tumor cell growth. On the other hand, orange bell peppers don’t do much for stomach cancer, but can cut prostate cancer growth by more than 75%. So we need to eat a variety of vegetables, because they each tend to target different cancers.\nIf you’re particularly concerned about a specific cancer—like if you have a strong family history of breast cancer—then you can narrow it down, and really nail those five or six veggies every day that excel at targeting breast tissue. But otherwise, to fight against any kind of cancer, we’ve got to eat a portfolio of vegetables to cover all our bases.\n \nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "D. Boivin, S. Lamy, S. Lord-Dufour, J. Jackson, E. Beaulieu, M. C^ote, A. Moghrabi, S. Barrette, D. Gingras, and R. Beliveau. Antiproliferative and antioxidant activities of common vegetables: A comparative study. Food Chem., 112(2):374{380, 2009.",
+      "Url": "http://www.sciencedirect.com/science/article/pii/S0308814608006419"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "brain tumors",
+      "Url": "https://nutritionfacts.org/topics/brain-tumors/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "pancreas health",
+      "Url": "https://nutritionfacts.org/topics/pancreas-health/"
+    },
+    {
+      "Title": "pancreatic cancer",
+      "Url": "https://nutritionfacts.org/topics/pancreatic-cancer/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "prostate health",
+      "Url": "https://nutritionfacts.org/topics/prostate-health/"
+    },
+    {
+      "Title": "seeds",
+      "Url": "https://nutritionfacts.org/topics/seeds/"
+    },
+    {
+      "Title": "stomach cancer",
+      "Url": "https://nutritionfacts.org/topics/stomach-cancer/"
+    },
+    {
+      "Title": "stomach health",
+      "Url": "https://nutritionfacts.org/topics/stomach-health/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more videos on diet and cancer:<br/>\n<a href=\"https://nutritionfacts.org/video/which-dietary-factors-affect-breast-cancer-most/\">Which Dietary Factors Affect Breast Cancer Most?</a><br/>\n<a href=\"https://nutritionfacts.org/video/can-diet-protect-against-kidney-cancer/\">Can Diet Protect Against Kidney Cancer?</a><br/>\n<a href=\"https://nutritionfacts.org/video/never-too-late-to-start-eating-healthier/\">Never Too Late to Start Eating Healthier</a><br/>\n<a href=\"https://nutritionfacts.org/video/phytates-for-rehabilitating-cancer-cells/\">Phytates for Rehabilitating Cancer Cells</a><br/>\n<a href=\"https://nutritionfacts.org/blog/boosting-anti-cancer-immunity-with-berries/\">Boosting Anticancer Immunity with Berries</a><br/>\n<a href=\"https://nutritionfacts.org/video/can-flax-seeds-help-prevent-breast-cancer/\">Can Flax Seeds Help Prevent Breast Cancer?</a><br/>\n<a href=\"https://nutritionfacts.org/video/which-nut-fights-cancer-better/\">Which Nut Fights Cancer Better?</a><br/>\n<a href=\"https://nutritionfacts.org/video/starving-cancer-with-methionine-restriction/\">Starving Cancer with Methionine Restriction</a><br/>\n<a href=\"https://nutritionfacts.org/video/lung-cancer-metastases-and-broccoli/\">Lung Cancer Metastases and Broccoli</a><br/>\n<a href=\"https://nutritionfacts.org/video/developing-an-ex-vivo-cancer-proliferation-bioassay/\">Ex Vivo Cancer Proliferation Bioassay</a></p>\n<p>And check out my <a href=\"https://nutritionfacts.org/topics/vegetables/\" rel=\"nofollow\">other videos on vegetables</a> and <a href=\"https://nutritionfacts.org/topics/cancer/\" rel=\"nofollow\">cancer</a>. </p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2013/07/09/blocking-cancer-formation-green-tea-garlic/\">Foods That May Block Cancer Formation</a>, and <a href=\"https://nutritionfacts.org/2013/12/10/which-common-fruit-fights-cancer-better/\">Which Common Fruit Fights Cancer Better?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

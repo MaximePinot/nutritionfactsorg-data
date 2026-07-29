@@ -1,0 +1,123 @@
+{
+  "Title": "Preventing Macular Degeneration with Diet",
+  "Url": "https://nutritionfacts.org/video/preventing-macular-degeneration-with-diet/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/eRA0kAG6DI8"
+  },
+  "UpdatedAt": "2012-05-17T12:00:40+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 8",
+    "Url": "https://nutritionfacts.org/volumes/volume-8/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A healthy diet may not only prevent the complications of diabetes, but also reduce the risk of age-related macular degeneration—another common cause of blindness.",
+  "Transcript": "More than a million Americans are blind. The four common causes are cataracts, glaucoma, age-related macular degeneration, and diabetes.\nThis is normal vision. This is with cataracts. This is with glaucoma. This is with macular degeneration. And this is with diabetic retinopathy. And if left untreated, they all can end up looking like this.\nWe know diabetes—the leading cause of new cases of blindness, and amputations, and kidney failure—can be prevented, managed, treated, and even cured with a plant-based diet. But what about the other three common causes of blindness?\nResearchers recently looked at the connection between overall diet quality and age-related macular degeneration. But diet quality based on whose criteria? They based it on the Alternative Healthy Eating Index, developed by Harvard. You basically get scored 1 through 10, based on each food group. If you consume five servings of vegetables a day, for example, your vegetable score is a 10; four servings of fruits a day gets you a perfect fruit score. If you eat vegetarian, you get a perfect 10 in the meat department, then more whole foods, less trans fats, etc.\nAnd based on these criteria, they concluded that advanced age-related macular degeneration was significantly related to overall diet quality.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Barnard ND, Katcher HI, Jenkins DJ, Cohen J, Turner-McGrievy G. Vegetarian and vegan diets in type 2 diabetes management. Nutr Rev. 2009 May;67(5):255-63.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19386029"
+    },
+    {
+      "Title": "Henry B, Kalynovskyi S. Reversing diabetes and obesity naturally: a NEWSTART lifestyle program. Diabetes Educ. 2004 Jan-Feb;30(1):48-50, 55-6, 58-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14999894"
+    },
+    {
+      "Title": "McCullough ML, Feskanich D, Stampfer MJ, Giovannucci EL, Rimm EB, Hu FB, Spiegelman D, Hunter DJ, Colditz GA, Willett WC. Diet quality and major chronic disease risk in men and women: moving toward improved dietary guidance. Am J Clin Nutr. 2002 Dec;76(6):1261-71.",
+      "Url": "http://www.ajcn.org/content/76/6/1261.full.pdf+html"
+    },
+    {
+      "Title": "Montgomery MP, Kamel F, Pericak-Vance MA, Haines JL, Postel EA, Agarwal A, Richards M, Scott WK, Schmidt S. Overall diet quality and age-related macular degeneration. Ophthalmic Epidemiol. 2010 Jan-Feb;17(1):58-65.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20100101"
+    },
+    {
+      "Title": "Tonstad S, Stewart K, Oda K, Batech M, Herring RP, Fraser GE. Vegetarian diets and incidence of diabetes in the Adventist Health Study-2. Nutr Metab Cardiovasc Dis. 2011 Oct 7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21983060"
+    },
+    {
+      "Title": "Trapp CB, Barnard ND. Usefulness of vegetarian and vegan diets for treating type 2 diabetes. Curr Diab Rep. 2010 Apr;10(2):152-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20425575"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Christine Erber via Wikimedia Commons and the National Eye Institute.",
+  "Topics": [
+    {
+      "Title": "Adventist Health Studies",
+      "Url": "https://nutritionfacts.org/topics/adventist-health-studies/"
+    },
+    {
+      "Title": "cataracts",
+      "Url": "https://nutritionfacts.org/topics/cataracts/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "eye health",
+      "Url": "https://nutritionfacts.org/topics/eye-health/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "glaucoma",
+      "Url": "https://nutritionfacts.org/topics/glaucoma/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "kidney failure",
+      "Url": "https://nutritionfacts.org/topics/kidney-failure/"
+    },
+    {
+      "Title": "macular degeneration",
+      "Url": "https://nutritionfacts.org/topics/macular-degeneration/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    },
+    {
+      "Title": "trans fats",
+      "Url": "https://nutritionfacts.org/topics/trans-fats/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vision",
+      "Url": "https://nutritionfacts.org/topics/vision/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Plant-based diets may help prevent all four major causes of blindness. I’ll cover the other two, glaucoma and cataracts, in <a href=\"https://nutritionfacts.org/video/prevent-glaucoma-and-see-27-miles-farther/\">Prevent Glaucoma and See 27 Miles Farther</a>, and <a href=\"https://nutritionfacts.org/video/preventing-cataracts-with-diet/\">Prevent Cataracts with Diet</a>; my next two videos in this three-part series. And for an alternative Alternative Healthy Eating Index, see <a href=\"https://nutritionfacts.org/video/calculate-your-healthy-eating-score/\" rel=\"nofollow\">Calculate Your Healthy Eating Score</a>. </p>\n<p>Also, be sure to check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/07/19/preserving-vision-through-diet/\" rel=\"nofollow\">Preserving Vision Through Diet</a>, and <a href=\"https://nutritionfacts.org/2012/09/13/dietary-treatment-for-crohns-disease/\" rel=\"nofollow\">Treating Crohn’s Disease With Diet</a>.</p>\n<p data-pm-slice=\"1 1 []\">What are <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/the-benefits-of-saffron-for-treating-age-related-macular-degeneration/\">The Benefits of Saffron for Treating Age-Related Macular Degeneration</a>? Check out the video.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

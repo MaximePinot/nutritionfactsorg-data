@@ -1,0 +1,155 @@
+{
+  "Title": "Safest Source of B12",
+  "Url": "https://nutritionfacts.org/video/safest-source-of-b12/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/mA3XjalOkXM"
+  },
+  "UpdatedAt": "2012-02-06T13:00:08+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Since foods are effectively a package deal, what’s the best way to get vitamin B12 (cobalamin)?",
+  "Transcript": "What’s the best way to get vitamin B12? Well, B12 is not made by plants; it’s not made by animals either. It’s made by certain bacteria, some of which line the guts of animals, of which people eat and drink. But that’s not the best source, because of the baggage that comes along with it.\nJust like we can’t get the iron in beef without the saturated fat, the protein in pork without lard, the calcium in dairy without hormones; we can’t get the B12 in animals without also consuming stuff we don’t want—like cholesterol. For example, to get 47 micrograms of B12 from eggs, because the absorption is so low, we’d have to literally eat hundreds of scrambled eggs a day. 200 to 400 eggs a day! Do you know how much cholesterol that would be? If you got all your B12 from scrambled eggs, you’d consume 69,000 milligrams of cholesterol—practically your entire year’s worth every day.\nSo, yes, chickens harbor bacteria; the bacteria make B12; some of that B12 makes it into the chicken, and then into the egg—but so does the cholesterol. There has to be a better way!\nWhy don’t the bacteria in our colon make B12? They do, actually. It’s just too far downstream to be absorbed. In one of the less appetizing but more brilliant experiments in the field, a Dr. Callender delineated that human colon bacteria make large amounts of B12. Although the B12 is not absorbed through the colon, it is active. How do we know? She found some vegan volunteers with B12 deficiency, collected their stools for 24 hours, and then, you guessed it, bon appetit! And it worked! They were cured. Those are some hardcore vegans. There has to be a better way!\nAnd thankfully, there is: fortified foods and supplements. Not only the safest, but also the most effective. In the U.S. Framingham Offspring Study, one in six meat-eaters between ages 26 to 83 were B12-deficient. The folks with the highest B12 levels weren’t the ones eating the most animal products, but the ones taking supplements, and eating the most fortified breakfast cereal.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is transcript contributed by Bruce A. Hamilton. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Herbert V. Vitamin B-12: plant sources, requirements, and assay. Am J Clin Nutr. 1988 Sep;48(3 Suppl):852-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/3046314"
+    },
+    {
+      "Title": "Levine AS, Doscherholmen A. Vitamin B12 bioavailability from egg yolk and egg white: relationship to binding proteins. Am J Clin Nutr. 1983 Sep;38(3):436-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/6684393"
+    },
+    {
+      "Title": "Raloff, Janet. Scientists find a soup of suspects while probing milk's link to cancer. Science News March 28th 2009; Vol.175 #7.",
+      "Url": "http://www.sciencenews.org/view/generic/id/41720/title/Scientists_find_a_soup_of_suspects_while_probing_milk%E2%80%99s_link_to_cancer"
+    },
+    {
+      "Title": "Watanabe F. Vitamin B12 sources and bioavailability. Exp Biol Med (Maywood). 2007 Nov;232(10):1266-74.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17959839"
+    }
+  ],
+  "Acknowledgements": "Images thanks to National Cancer Institute and professor evil via flickr. Images have been modified.",
+  "Topics": [
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "bile acids",
+      "Url": "https://nutritionfacts.org/topics/bile-acids/"
+    },
+    {
+      "Title": "bowel movements",
+      "Url": "https://nutritionfacts.org/topics/bowel-movements/"
+    },
+    {
+      "Title": "breakfast cereal",
+      "Url": "https://nutritionfacts.org/topics/breakfast-cereal/"
+    },
+    {
+      "Title": "calcium",
+      "Url": "https://nutritionfacts.org/topics/calcium/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "elderly",
+      "Url": "https://nutritionfacts.org/topics/elderly/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "iron",
+      "Url": "https://nutritionfacts.org/topics/iron/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "nutrient absorption",
+      "Url": "https://nutritionfacts.org/topics/nutrient-absorption/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I make a similar “baggage” argument about dairy in <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=441\" rel=\"nofollow\">Plant vs. Cow Calcium</a>. Next, I’m going to get into the nitty-gritty on how much one needs on a weekly basis, in <a href=\"https://nutritionfacts.org/video/cheapest-source-of-vitamin-b12/\">Cheapest Source of Vitamin B12</a>. And then I’ll cover daily dosing in <a href=\"https://nutritionfacts.org/video/daily-source-of-vitamin-b12/\">Daily Source of Vitamin B12</a>. Or, you can skip to <a href=\"https://nutritionfacts.org/questions/what-is-the-best-way-to-get-b12/\" rel=\"nofollow\">Vitamin B12: How Much, How Often?</a></p>\n<p>And for background, see my blog post: <a href=\"https://nutritionfacts.org/blog/2011/08/25/vegan-b12-deficiency-putting-it-into-perspective/\" rel=\"nofollow\">Vegan B12 Deficiency: Putting It into Perspective</a>. For more on how many eggs would be required for other nutrients, see <a href=\"https://nutritionfacts.org/video/egg-industry-blind-spot/\" rel=\"nofollow\">Egg Industry Blind Spot</a>. And those with a thing for vegan bowel movement studies, see <a href=\"https://nutritionfacts.org/video/bowels-of-the-earth/\" rel=\"nofollow\">Bowels of the Earth</a>; and <a href=\"https://nutritionfacts.org/video/food-mass-transit/\" rel=\"nofollow\">Food Mass Transit</a>. </p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/11/01/how-to-enhance-mineral-absorption/\" rel=\"nofollow\"> How to Enhance Mineral Absorption</a>; <a href=\"https://nutritionfacts.org/2012/10/04/preventing-kidney-failure-with-diet/\" rel=\"nofollow\">Preventing and Treating Kidney Failure With Diet</a>; <a href=\"https://nutritionfacts.org/2012/05/03/stool-size-and-breast-cancer-risk/\" rel=\"nofollow\">Stool Size and Breast Cancer Risk</a>; and <a href=\"https://nutritionfacts.org/blog/what-is-the-healthiest-meat/\">What Is the Healthiest Meat?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

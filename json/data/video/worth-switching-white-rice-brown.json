@@ -1,0 +1,155 @@
+{
+  "Title": "Is It Worth Switching from White Rice to Brown?",
+  "Url": "https://nutritionfacts.org/video/worth-switching-white-rice-brown/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/nfxDhpEAgYQ"
+  },
+  "UpdatedAt": "2016-06-13T11:00:54+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 31",
+    "Url": "https://nutritionfacts.org/volumes/volume-31/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What happens when brown rice is put to the test in a randomized controlled crossover trial?",
+  "Transcript": "In 2012, a meta-analysis was published tying white rice consumption to diabetes—especially in Asian countries, as I explored previously. But even in the U.S., where we eat much less, the regular consumption of white rice was associated with higher risk of type 2 diabetes, though brown rice was associated with lower risk, and that was after controlling for other lifestyle and dietary factors, such as smoking, and exercise, and meat, fruit, and vegetable consumption. They estimated that replacing even just a third of a serving per day of white rice with the same amount of brown rice might lower diabetes risk 16%.\nThe meta-analysis was published in 2012.  Since then, a study out of Spain suggested white rice consumption was associated with decreased diabetes risk. But it was a tiny study compared to the others, hundreds compared to hundreds of thousands of people involved. In Spain, rice is usually consumed in the paella, which has a spice, saffron, that may have therapeutic potential against diabetes, and white rice consumers also ate more beans, which appear to have antidiabetic properties as well.\nThis gives you a sense of how difficult it is to infer cause and effect relationships from population studies, since you can’t control for everything. Yes, you can control for weight, smoking, alcohol, exercise, etc. But maybe people who are smart enough to eat brown rice are also smart enough to wear seat belts, and bike helmets, and install smoke detectors, and forgo bungee jumping. What we need is a way to fund randomized interventional studies, where we switch people from white rice to brown rice and see what happens.  Until then, the effect of the consumption of white rice on the development of type 2 diabetes will remain unclear. But we didn’t have such studies, until now. \nOverweight women were randomized into two groups, a weight-loss diet with about a cup of cooked white rice every day, or a cup of cooked brown for six weeks, and then the groups switched. The white rice group ate brown, and vice versa, and when they were eating brown rice, they got significantly more weight loss, particularly around the waist and hips, lower blood pressure, and less inflammation. \nSimilar effects were found for prediabetics: substituting brown rice for white rice led to significantly more weight loss, more waist loss, and better blood pressures.\nAnd brown rice may not just help get rid of tummy fat, but also preserve our artery function. See, high blood sugars can stiffen our arteries, cutting in half their ability to relax within an hour, whether you’re diabetic, have prediabetes, or are nondiabetic—though for diabetics, their arteries go down and stay down. And we know that brown rice can have blood sugar-lowering effects, compared to white rice. \nSo, can switching to brown rice help preserve arterial function? In folks with metabolic syndrome, within an hour of eating about a cup of cooked white rice, we can get a drop in arterial function—but not so with brown rice.\nDespite all the benefits of whole grain rice, Asian people often prefer white rice, considering it softer and tastier than brown. But in a focus group of Chinese adults, only a minority had ever even tried brown rice. Before tasting brown rice, the majority of participants considered it to be inferior to white rice in terms of taste and quality. So, the researchers just served some up, and after actually tasting it and learning about it, most changed their minds.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "B Neal. White rice and risk of type 2 diabetes. BMJ. 2012 Mar 15;344:e2021.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22422873"
+    },
+    {
+      "Title": "B Wang, R Medapalli, X Jin, C Weijingi, C Xue, J C He, J Uribarr. Effects of a whole rice diet on metabolic parameters and inflammatory markers in prediabetes. Clinical Nutrition ESPEN February 2013Volume 8, Issue 1, Pages e15–e20.",
+      "Url": "https://www.sciencedirect.com/science/article/abs/pii/S2212826312000590"
+    },
+    {
+      "Title": "C Kang, H Lee, E S Jung, R Seyedian, M Jo, J Kim, J S Kim, E Kim. Saffron (Crocus sativus L.) increases glucose uptake and insulin sensitivity in muscle cells via multipathway mechanisms. Food Chem. 2012 Dec 15;135(4):2350-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22980812"
+    },
+    {
+      "Title": "E A Hu, A Pan, V Malik, Q Sun. White rice consumption and risk of type 2 diabetes: meta-analysis and systematic review. BMJ. 2012 Mar 15;344:e1454.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22422870"
+    },
+    {
+      "Title": "F Soriguer, N Colomo, G Olveira, E García-Fuentes, I Esteva, M S Ruiz de Adana, S Morcillo, N Porras, S Valdés, G Rojo-Martínez. White rice consumption and risk of type 2 diabetes. Clin Nutr. 2013 Jun;32(3):481-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23200927"
+    },
+    {
+      "Title": "G Zhang, V S Malik, S Pan A, Kumar, M D Holmes, D Spiegelman, X Lin, F B Hu. Substituting brown rice for white rice to lower diabetes risk: a focus-group study in Chinese adults. J Am Diet Assoc. 2010 Aug;110(8):1216-21.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20656097"
+    },
+    {
+      "Title": "H Kawano, T Motoyama, O Hirashima, N Hirai, Y Miyao, T Sakamoto, K Kugiyama, H Ogawa, H Yasue. Hyperglycemia rapidly suppresses flow-mediated endothelium-dependent vasodilation of brachial artery. J Am Coll Cardiol. 1999 Jul;34(1):146-54.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10400004"
+    },
+    {
+      "Title": "L N Panlasigui, L U Thompson. Blood glucose lowering effects of brown rice in normal and diabetic subjects. Int J Food Sci Nutr. 2006 May-Jun;57(3-4):151-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17127465"
+    },
+    {
+      "Title": "M Kazemzadeh, S M Safavi, S Nematollahi, Z Nourieh. Effect of Brown Rice Consumption on Inflammatory Marker and Cardiovascular Risk Factors among Overweight and Obese Non-menopausal Female Adults. Int J Prev Med. 2014 Apr;5(4):478-88.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24829736"
+    },
+    {
+      "Title": "M Shimabukuro, M Higa, R Kinjo, K Yamakawa, H Tanaka, C Kozuka, K Yabiku, S Taira, M Sata, H Masuzaki. Effects of the brown rice diet on visceral obesity and endothelial function: the BRAVO study. Br J Nutr. 2014 Jan 28;111(2):310-20.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23930929"
+    },
+    {
+      "Title": "P Singhal, G Kaushik, P Mathur. Antidiabetic potential of commonly consumed legumes: a review. Crit Rev Food Sci Nutr. 2014;54(5):655-72.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24261538"
+    },
+    {
+      "Title": "Q Sun, D Spiegelman, R M van Dam, M D Holmes, V S Malik, W C Willett, F B Hu. White rice, brown rice, and risk of type 2 diabetes in US men and women. Arch Intern Med. 2010 Jun 14;170(11):961-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20548009"
+    }
+  ],
+  "Acknowledgements": "Image thanks to suc via Pixabay",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "artery function",
+      "Url": "https://nutritionfacts.org/topics/artery-function/"
+    },
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "metabolic syndrome",
+      "Url": "https://nutritionfacts.org/topics/metabolic-syndrome/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "rice",
+      "Url": "https://nutritionfacts.org/topics/rice/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Here’s the link to the video I cited: <a href=\"https://nutritionfacts.org/video/if-white-rice-is-linked-to-diabetes-what-about-china/\">If White Rice is Linked to Diabetes, What About China?</a></p>\n<p>More on the paella spice, saffron:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/saffron-vs-prozac/\">Saffron vs. Prozac</a></li>\n<li><a href=\"https://nutritionfacts.org/video/saffron-for-the-treatment-of-pms/\">Saffron for the Treatment of PMS</a></li>\n<li><a href=\"https://nutritionfacts.org/video/saffron-for-the-treatment-of-alzheimers/\">Saffron for the Treatment of Alzheimer’s</a></li>\n</ul>\n<p>If brown is good, what about all the even more colorful varieties? See <a href=\"https://nutritionfacts.org/video/brown-black-purple-red-unlike-white-rice/\">Brown, Black, Purple and Red Unlike White on Rice</a>.</p>\n<p>For another interventional trial with whole grains, check out <a href=\"https://nutritionfacts.org/video/whole-grains-may-work-as-well-as-drugs/\">Whole Grains May Work As Well As Drugs</a>.</p>\n<p>What about the so-called “rice diet”? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/kempner-rice-diet-whipping-us-into-shape/\">Kempner Rice Diet: Whipping Us Into Shape</a></li>\n<li><a href=\"https://nutritionfacts.org/video/drugs-and-the-demise-of-the-rice-diet/\">Drugs and the Demise of the Rice Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-diabetic-retinopathy-be-reversed/\">Can Diabetic Retinopathy Be Reversed?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/high-blood-pressure-may-be-a-choice/\">High Blood Pressure May Be a Choice</a></li>\n</ul>\n<p>How could the simple difference between whole and refined grains make such a difference? For a clue, you’ll have to wait until my next video: <a href=\"https://nutritionfacts.org/video/gut-dysbiosis-starving-microbial-self/\">Gut Dysbiosis – Starving Our Microbial Self</a>.</p>\n<p>Update: I did a deep-dive into the issue of arsenic in rice in summer 2017. Here are the 13 videos in that series:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/where-does-the-arsenic-in-chicken-come-from/\">Where Does the Arsenic in Chicken Come From?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/where-does-the-arsenic-in-rice-mushrooms-and-wine-come-from/\">Where Does the Arsenic in Rice, Mushrooms, &amp; Wine Come From?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-too-much-arsenic-in-the-diet/\">The Effects of Too Much Arsenic in the Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/cancer-risk-from-arsenic-in-rice-and-seaweed/\">Cancer Risk from Arsenic in Rice &amp; Seaweed</a></li>\n<li><a href=\"https://nutritionfacts.org/video/which-rice-has-less-arsenic-black-brown-red-white-or-wild/\">Which Rice Has Less Arsenic: Black, Brown, Red, White, or Wild?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/which-brands-and-sources-of-rice-have-the-least-arsenic/\">Which Brands &amp; Sources of Rice Have the Least Arsenic?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-cook-rice-to-lower-arsenic-levels/\">How to Cook Rice to Lower Arsenic Levels</a></li>\n<li><a href=\"https://nutritionfacts.org/video/arsenic-in-infant-rice-cereal/\">Arsenic in Infant Rice Cereal</a></li>\n<li><a href=\"https://nutritionfacts.org/video/arsenic-in-rice-milk-rice-krispies-and-brown-rice-syrup/\">Arsenic in Rice Milk, Rice Krispies, &amp; Brown Rice Syrup</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-risky-is-the-arsenic-in-rice/\">How Risky is the Arsenic in Rice?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-arsenic-in-rice-is-too-much/\">How Much Arsenic in Rice is Too Much?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-white-rice-a-yellow-light-or-red-light-food/\">Is White Rice a Yellow-Light or Red-Light Food?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-the-pros-of-brown-rice-outweigh-the-cons-of-arsenic/\">Do the Pros of Brown Rice Outweigh the Cons of Arsenic?</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

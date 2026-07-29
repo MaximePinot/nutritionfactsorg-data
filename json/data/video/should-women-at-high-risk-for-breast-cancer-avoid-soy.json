@@ -1,0 +1,163 @@
+{
+  "Title": "Should Women at High Risk for Breast Cancer Avoid Soy?",
+  "Url": "https://nutritionfacts.org/video/should-women-at-high-risk-for-breast-cancer-avoid-soy/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/PWwCgATx-kU"
+  },
+  "UpdatedAt": "2017-02-03T13:00:52+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 34",
+    "Url": "https://nutritionfacts.org/volumes/volume-34/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Which dietary changes could reduce free radical damage and also improve DNA repair in women with mutated BRCA genes?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nFive studies have been performed on breast cancer survival and soy foods, involving more than 10,000 breast cancer patients. And, those who eat more soy live longer, and have a lower risk of the cancer coming back. But, what about women who carry breast cancer genes? Fewer than 10% of breast cancer cases run in families. But, when they do, it’s most likely mutations to one of the tumor suppressor genes—BRCA1 or BRCA2—that defend the integrity of our genes. They are involved in DNA repair, and so, if either one of them is damaged, or has mutations, chromosomal abnormalities can result, which can set us up for cancer.\nThis idea that we have tumor suppressor genes goes back to famous research in the 60s that showed that if you fuse together a normal cell with a cancer cell, the cancer cell doesn’t turn the normal cell malignant. Rather, the normal cell suppresses the cancerous one. Tumor suppressor genes are typically split up into two types. There are gatekeeper genes that keep cancer cells in check, and caretaker genes that keep the cell from going cancerous in the first place. And, BRCA genes appear able to do both—that’s why their function is so important.\nUntil recently, dietary recommendations for those with mutations focused on reducing DNA damage caused by free radicals, by eating lots of antioxidant-packed fruits and vegetables. If your DNA-repair capacity is low, you want to be extra careful about damaging your DNA in the first place. But, what if we could also boost BRCA function?\nIn my last video on the topic, I showed how, in vitro, soy phytoestrogens could turn back on BRCA protection suppressed by breast cancer, upregulating BRCA expression as much as 1,000% within 48 hours. But, does that translate out of the petri dish and into the person? Apparently so.\nSoy intake was only associated with 27% breast cancer risk reduction in people with normal BRCA genes, but a 73% risk reduction in carriers of BRCA gene mutations. So, a healthy diet may be particularly important in those at high genetic risk. Meat consumption, for example, was linked to twice as much risk in those with BRCA mutations—97% increased risk, instead of just 41% increased risk of breast cancer in those with normal BRCA genes.\nSo, same dietary advice—just more important when there’s more risk.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bosviel R, Dumollard E, Déchelotte P, Bignon YJ, Bernard-Gallon D. Can soy phytoestrogens decrease DNA methylation in BRCA1 and BRCA2 oncosuppressor genes in breast cancer? OMICS. 2012 May;16(5):235-44.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22339411"
+    },
+    {
+      "Title": "Caan BJ, Natarajan L, Parker B, Gold EB, Thomson C, Newman V, Rock CL, Pu M, Al-Delaimy W, Pierce JP. Soy food consumption and breast cancer prognosis. Cancer Epidemiol Biomarkers Prev. 2011 May;20(5):854-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21357380"
+    },
+    {
+      "Title": "Chen FP, Chien MH. Phytoestrogens induce differential effects on both normal and malignant human breast cells in vitro. Climacteric. 2014 Dec;17(6):682-91.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24978400"
+    },
+    {
+      "Title": "Chi F, Wu R, Zeng YC, Xing R, Liu Y, Xu ZG. Post-diagnosis soy food intake and breast cancer survival: a meta-analysis of cohort studies. Asian Pac J Cancer Prev. 2013;14(4):2407-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23725149"
+    },
+    {
+      "Title": "Fan S, Meng Q, Auborn K, Carter T, Rosen EM. BRCA1 and BRCA2 as molecular targets for phytochemicals indole-3-carbinol and genistein in breast and prostate cancer cells. Br J Cancer. 2006 Feb 13;94(3):407-26.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16434996"
+    },
+    {
+      "Title": "Guha N, Kwan ML, Quesenberry CP Jr, Weltzien EK, Castillo AL, Caan BJ. Soy isoflavones and risk of cancer recurrence in a cohort of breast cancer survivors: the Life After Cancer Epidemiology study. Breast Cancer Res Treat. 2009 Nov;118(2):395-405.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19221874"
+    },
+    {
+      "Title": "Harris H, Miller OJ, Klein G, Worst P, Tachibana T. Suppression of malignancy by cell fusion. Nature. 1969 Jul 26;223(5204):363-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/5387828"
+    },
+    {
+      "Title": "Kang X, Zhang Q, Wang S, Huang X, Jin S. Effect of soy isoflavones on breast cancer recurrence and death for patients receiving adjuvant endocrine therapy. CMAJ. 2010 Nov 23;182(17):1857-62.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20956506"
+    },
+    {
+      "Title": "Kelsey JL. A review of the epidemiology of human breast cancer. Epidemiol Rev. 1979;1:74-109.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/398270"
+    },
+    {
+      "Title": "Ko KP, Kim SW, Ma SH, Park B, Ahn Y, Lee JW, Lee MH, Kang E, Kim LS, Jung Y, Cho YU, Lee B, Lin JH, Park SK. Dietary intake and breast cancer among carriers and noncarriers of BRCA mutations in the Korean Hereditary Breast Cancer Study. Am J Clin Nutr. 2013 Dec;98(6):1493-501.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24153343"
+    },
+    {
+      "Title": "Korde LA, Wu AH, Fears T, Nomura AM, West DW, Kolonel LN, Pike MC, Hoover RN, Ziegler RG. Childhood soy intake and breast cancer risk in Asian American women. Cancer Epidemiol Biomarkers Prev. 2009 Apr;18(4):1050-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19318430"
+    },
+    {
+      "Title": "Kotsopoulos J, Narod SA. Towards a dietary prevention of hereditary breast cancer. Cancer Causes Control. 2005 Mar;16(2):125-38.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15868454"
+    },
+    {
+      "Title": "Levitt NC, Hickson ID. Caretaker tumour suppressor genes that defend genome integrity. Trends Mol Med. 2002 Apr;8(4):179-86.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11927276"
+    },
+    {
+      "Title": "Messina M, Messina, VL. Exploring the Soyfood Controversy. Nutrition Today: March/April 2013 - Volume 48 - Issue 2 - p 68–75.",
+      "Url": "http://journals.lww.com/nutritiontodayonline/Abstract/2013/03000/Exploring_the_Soyfood_Controversy.5.aspx"
+    },
+    {
+      "Title": "Mueller SO, Simon S, Chae K, Metzler M, Korach KS. Phytoestrogens and their human metabolites show distinct agonistic and antagonistic properties on estrogen receptor alpha (ERalpha) and ERbeta in human cells. Toxicol Sci. 2004 Jul;80(1):14-25.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15084758"
+    },
+    {
+      "Title": "Oliveira AM, Ross JS, Fletcher JA. Tumor suppressor genes in breast cancer: the gatekeepers and the caretakers. Am J Clin Pathol. 2005 Dec;124 Suppl:S16-28.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16468415"
+    },
+    {
+      "Title": "Paruthiyil S, Parmar H, Kerekatte V, Cunha GR, Firestone GL, Leitman DC. Estrogen receptor beta inhibits human breast cancer cell proliferation and tumor formation by causing a G2 cell cycle arrest. Cancer Res. 2004 Jan 1;64(1):423-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/14729654"
+    },
+    {
+      "Title": "Rock CL, Doyle C, Demark-Wahnefried W, Meyerhardt J, Courneya KS, Schwartz AL, Bandera EV, Hamilton KK, Grant B, McCullough M, Byers T, Gansler T. Nutrition and physical activity guidelines for cancer survivors.  CA Cancer J Clin. 2012 Jul-Aug;62(4):243-74.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22539238"
+    },
+    {
+      "Title": "Setchell KD, Brown NM, Zhao X, Lindley SL, Heubi JE, King EC, Messina MJ. Soy isoflavone phase II metabolism differs between rodents and humans: implications for the effect on breast cancer risk. Am J Clin Nutr. 2011 Nov;94(5):1284-94.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21955647"
+    },
+    {
+      "Title": "Shu XO, Zheng Y, Cai H, Gu K, Chen Z, Zheng W, Lu W. Soy food intake and breast cancer survival. JAMA. 2009 Dec 9;302(22):2437-43.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19996398"
+    },
+    {
+      "Title": "Venkitaraman AR. Linking the cellular functions of BRCA genes to cancer pathogenesis and treatment. Annu Rev Pathol. 2009;4:461-87.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18954285"
+    },
+    {
+      "Title": "Zhang YF, Kang HB, Li BL, Zhang RM. Positive effects of soy isoflavone food on survival of breast cancer patients in China. Asian Pac J Cancer Prev. 2012;13(2):479-82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22524810"
+    }
+  ],
+  "Acknowledgements": "Image credit: KOMUnews via flickr. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "BRCA genes",
+      "Url": "https://nutritionfacts.org/topics/brca-genes/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "phytoestrogens",
+      "Url": "https://nutritionfacts.org/topics/phytoestrogens/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What about women without breast cancer genes or those who have already been diagnosed? See my video <a href=\"https://nutritionfacts.org/video/is-soy-healthy-for-breast-cancer-survivors/\">Is Soy Healthy for Breast Cancer Survivors?</a>. The older video I referred to is <a href=\"https://nutritionfacts.org/video/brca-breast-cancer-genes-and-soy/\">BRCA Breast Cancer Genes and Soy</a>.</p>\n<p>What is in meat that may increase risk? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/zeranol-use-in-meat-and-breast-cancer/\">Zeranol Use in Meat and Breast Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/cholesterol-feeds-breast-cancer-cells/\">Cholesterol Feeds Breast Cancer Cells</a></li>\n<li><a href=\"https://nutritionfacts.org/video/animal-protein-compared-cigarette-smoking/\">Animal Protein Compared to Cigarette Smoking</a></li>\n<li><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=438\">What Is Really in Hot Dogs?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/carcinogens-in-meat/\">Carcinogens in Meat</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-burger-viruses-in-cancer/\">The Role of Burger Viruses in Cancer</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

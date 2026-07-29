@@ -1,0 +1,87 @@
+{
+  "Title": "Amnesic Seafood Poisoning",
+  "Url": "https://nutritionfacts.org/video/amnesic-seafood-poisoning/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/ahDNTXUzHrA"
+  },
+  "UpdatedAt": "2012-05-23T12:00:42+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 9",
+    "Url": "https://nutritionfacts.org/volumes/volume-9/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "There’s a rare toxin, called domoic acid, that can turn up in tuna and other seafood and cause anterograde amnesia, the loss of short-term memory popularized in the movie Memento.",
+  "Transcript": "A review was published recently on domoic acid, a potent neurotoxin found (extremely rarely) in seafood, that can cause seizures, coma, death; like the paralytic fish toxins, but, most interestingly, causes amnesia, permanent short-term memory loss. If anyone’s seen the movie Memento, that’s what they’re talking about, anterograde amnesia.\nSo, here’s kind of a prototypical case. Prior to mussel ingestion, the patient was an entirely self-sufficient small business owner. After supper, he started to get nauseous; up all night vomiting, but then, he started to really deteriorate. Ten days later, he’s in a coma on a ventilator. But then, he recovers. Three months later, he’s back; normal language, judgment, social skills. Didn’t know where he was, or what day it was. In fact, doesn’t remember anything since getting sick, and from then on, was “unable to retain any new information,”—though he could remember everything in his life before that fateful meal.\nThe toxin targets the hippocampus, the part of the brain where memories are laid down. Years later when he died, at the autopsy there was complete neuronal loss (nerve loss) in that part of the brain.\nThis amnesic seafood toxin has been found in tuna, anchovies, mackerel, sole, sardines, halibut. And the diatoms that produce the original toxin that bioaccumulates up the food chain into the fish “appear to be increasing in frequency and toxicity, thereby presenting a continued threat to human health and seafood safety.”\nThe toxin is heat-stable, so “it is clear that cooking will not increase the safety [of the products contaminated with domoic acid].” It does cross the placenta, can enter the brain tissue, and accumulate in amniotic fluid, so particular concern lies in infants and children that may be exposed.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring watch the above video. This is just an approximation of the audio contributed by Serena.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Jeffery B, Barlow T, Moizer K, Paul S, Boyle C. Amnesic shellfish poison. Food Chem Toxicol. 2004 Apr;42(4):545-57",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15019178"
+    },
+    {
+      "Title": "Lefebvre KA, Robertson A. Domoic acid and human exposure risks: a review. Toxicon. 2010 Aug 15;56(2):218-30.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19505488"
+    }
+  ],
+  "Acknowledgements": "Image thanks to John A Beal, PhD via Wikimedia Commons, and Jonathan Ehrich and jetheriot via flickr.",
+  "Topics": [
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "infants",
+      "Url": "https://nutritionfacts.org/topics/infants/"
+    },
+    {
+      "Title": "memory",
+      "Url": "https://nutritionfacts.org/topics/memory/"
+    },
+    {
+      "Title": "nausea",
+      "Url": "https://nutritionfacts.org/topics/nausea/"
+    },
+    {
+      "Title": "neurotoxins",
+      "Url": "https://nutritionfacts.org/topics/neurotoxins/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "sardines",
+      "Url": "https://nutritionfacts.org/topics/sardines/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "tuna",
+      "Url": "https://nutritionfacts.org/topics/tuna/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This video is about natural toxins that bioaccumulate up the food chain, but the same happens with industrial pollutants. Some of the other unusual conditions to strike fish consumers are profiled in <a href=\"https://nutritionfacts.org/video/allergenic-fish-worms/\" rel=\"nofollow\">Allergenic Fish Worms</a>. Also, check out my <a href=\"https://nutritionfacts.org/topics/fish/\" rel=\"nofollow\">other videos on fish.</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

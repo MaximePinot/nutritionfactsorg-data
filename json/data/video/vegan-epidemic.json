@@ -1,0 +1,47 @@
+{
+  "Title": "Vegan Epidemic",
+  "Url": "https://nutritionfacts.org/video/vegan-epidemic/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/SRVrtqy-3NA"
+  },
+  "UpdatedAt": "2011-08-27T11:00:08+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 5",
+    "Url": "https://nutritionfacts.org/volumes/5/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Vitamin B12 deficiency is common among those eating vegetarian and particularly vegan diets because of failure to take B12 supplements or eat B12-fortifed foods.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nHow common is vitamin B12 deficiency among vegans? Last year, a study was published in which B12 levels were measured in the blood of hundreds of British vegans. What percentage do you think were deficient? Less than a quarter? Almost a half? More than a half? Or, were more than three-quarters of vegans testing vitamin B12 deficient?\nNow I’m not talking below average B12, or suboptimal B12 levels, or even what’s clinically called B12 depletion, where your levels place you at high risk for deficiency—but actual bonafide vitamin deficiency, meaning that your levels are so low your biochemistry is screwed up. Your body just isn’t working the way it should.\nAnd the answer is: more than 50%. Meaning, you run into a vegan on the street (or at least on a street in London), odds are they are suffering—whether they know it or not—from vitamin B12 deficiency.\n52% deficient; 21% depleted. What about ovo-lacto vegetarians? 7% [deficient] and 17% [depleted]. One thing I hear from whiny vegans is that B12 deficiency isn’t exclusive to vegetarians. Meat-eaters can get it too. They’re right: 0.4%.\nThere’s still enough in the general population for public health professionals to debate whether or not we should just mandate adding B12 to the grain supply. Until then, though, what could explain this epidemic of vegan B12 deficiency? Easy—only a small fraction of British vegans were taking vitamin B12 supplements. Well, no wonder then! Hopefully, vegans elsewhere are smarter. Everyone eating a plant-based diet must ensure a regular reliable source of vitamin B12.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Gilsing AM, Crowe FL, Lloyd-Wright Z, Sanders TA, Appleby PN, Allen NE, Key TJ. Serum concentrations of vitamin B12 and folate in British male omnivores, vegetarians and vegans: results from a cross-sectional analysis of the EPIC-Oxford cohort study.Eur J Clin Nutr. 2010 Sep;64(9):933-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20648045/"
+    }
+  ],
+  "Acknowledgements": "Images thanks to psdgraphics.com",
+  "Topics": [
+    {
+      "Title": "nutrition myths",
+      "Url": "https://nutritionfacts.org/topics/nutrition-myths/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Want more on B12? Check out these videos:<br/>\n<a href=\"https://nutritionfacts.org/video/vitamin-b12-necessary-for-arterial-health/\">Vitamin B12 Necessary for Arterial Health</a><br/>\n<a href=\"https://nutritionfacts.org/video/daily-source-of-vitamin-b12/\">Daily Source of Vitamin B12</a><br/>\n<a href=\"https://nutritionfacts.org/video/safest-source-of-b12/\">Safest Source of B12</a><br/>\n<a href=\"https://nutritionfacts.org/video/new-vitamin-b12-test/\">New Vitamin B12 Test</a></p>\n<p>For some context, also check out my associated blog posts: <a href=\"https://nutritionfacts.org/optimum-nutrient-recommendations/\" rel=\"nofollow\"> Vitamin B12: how much, how often?</a> and <a href=\"https://nutritionfacts.org/blog/vegan-b12-deficiency-putting-it-into-perspective//\" rel=\"nofollow\">Vegan B12 Deficiency: Putting It into Perspective</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

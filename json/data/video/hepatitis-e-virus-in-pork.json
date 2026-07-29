@@ -1,0 +1,139 @@
+{
+  "Title": "Hepatitis E Virus in Pork",
+  "Url": "https://nutritionfacts.org/video/hepatitis-e-virus-in-pork/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/UtiWoYnRdCg"
+  },
+  "UpdatedAt": "2025-07-02T11:50:13+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 69",
+    "Url": "https://nutritionfacts.org/volumes/volume-69/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "At a retail level, about 10 percent of commercial pork products tested contain the hepatitis E virus.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nYou’ve probably heard of hepatitis A, which you can get from eating unsanitary food in the developing world. Then we discovered hepatitis B, which is spread by infected blood and bodily fluids, and then hepatitis C, mostly from IV drug use. These days we’re up to Hepatitis E, which is actually the main cause of viral hepatitis worldwide.\nIt was first discovered in the early 80s, but we didn’t have a clue where it was coming from until 1997, when it was discovered in more than 90 percent of tested U.S. pig farms. From the viral hepatitis division of the Centers for Disease Control and Prevention, the CDC: “Much meat; much malady.” Hepatitis E is now considered a zoonosis, an animal-to-human disease that causes 20 million human cases a year, primarily from pigs via the consumption of infected pork products.\nThe hepatitis E virus has since been detected on pig farms worldwide, including 80 to 100 percent of U.S. operations, where it is spread via the fecal-oral route. So, it’s no surprise there’s such widespread infection on industrial confinement operations, given how closely packed together the animals are. Though if you test pigs where it counts in terms of food safety—at the slaughterhouse—only six percent of U.S. pigs have active infections, meaning infectious virus flowing through their bloodstreams at the time of slaughter.\nAt a retail level, about 10 percent of commercial pork products tested worldwide contain the hepatitis E virus, found in pork meat and sausage, as well as organ meats, like the liver, with the highest rates found in North America. So, for example in California, though only 12 percent of samples were positive for the virus, most of the retail packages had at least one positive sample—so most were infected with hepatitis E.\nPerhaps this helps explain why there’s an even tighter correlation between pork consumption and liver cirrhosis than there is between alcohol consumption and liver cirrhosis, on a country-by-country basis. But just because there’s infectious virus in retail meat, does that mean it could survive cooking? Unfortunately, it seems that some virus would most likely survive the internal temperatures of rare-cooked meat. So, how can we avoid infection? According to the former chief of the CDC’s viral hepatitis lab, the most expedient way to prevent meats, organ meats, or seafood from conveying hepatitis is to avoid eating them, or in the very least ensuring that they are thoroughly cooked before being consumed.\nUnfortunately, in addition to the potential for the hepatitis E virus to survive some cooking processes, raw blood products are commonly used in ready-cooked foods like ham. Porcine blood—pig’s blood—used as an ingredient in meat products may serve as a vehicle for hepatitis E transmission. Blood components are ingredients used by the meat industry as color enhancers or emulsifiers, and surprisingly, none of these blood products appears to be heat-treated prior to being processed into food. The virus was found in 90 percent of liquid blood products, and 30 percent of powdered blood.\nThat helps explain why the incidence of hepatitis E is significantly lower among blood donors who don’t eat meat, indicating that meat consumption is a major risk factor for hepatitis E infection, with those eating pork products like ham or bacon at about triple the odds of infection. Though some studies found no cases of infection among vegetarians, others just showed a significantly lower prevalence. How might vegetarians be getting hepatitis E?\nIt could be through dairy products. Cows can become infected with the virus too, and their milk contaminated with infectious hepatitis E is now recognized as a new potential for high risk of transmission to humans. Even when infected milk has been fully pasteurized, it was still found to be infectious. But the most likely source of hepatitis E infection in vegetarians may be other people. Once we are infected through our dietary habits, we can transmit it to others via not washing our hands after using the bathroom, or potentially in the bedroom, though this has not yet been confirmed.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Balayan MS, Andjaparidze AG, Savinskaya SS, et al. Evidence for a virus in non-A, non-B hepatitis transmitted via the fecal-oral route. Intervirology. 1983;20(1):23-31.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/6409836/"
+    },
+    {
+      "Title": "Boxman ILA, Jansen CCC, Hägele G, et al. Porcine blood used as ingredient in meat productions may serve as a vehicle for hepatitis E virus transmission. Int J Food Microbiol. 2017;257:225-231.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28692890/"
+    },
+    {
+      "Title": "Bridges FS. Relationship between dietary beef, fat, and pork and alcoholic cirrhosis. Int J Environ Res Public Health. 2009;6(9):2417-2425.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19826553/"
+    },
+    {
+      "Title": "Emerson SU, Arankalle VA, Purcell RH. Thermal stability of hepatitis E virus. J Infect Dis. 2005;192(5):930-933.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16088844/"
+    },
+    {
+      "Title": "Harrison L, Ramos TDM, Wu X, DiCaprio E. Presence of hepatitis E virus in commercially available pork products. Int J Food Microbiol. 2021;339:109033.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33401188/"
+    },
+    {
+      "Title": "Help stop the spread of hepatitis A. Lexington-Fayette County Health Department. April 2018.",
+      "Url": "https://stage.lfchd.org/wp-content/uploads/2018/05/Hep-A-handwashing-ENGLISH.jpg"
+    },
+    {
+      "Title": "Hepatitis B transmission for those newly diagnosed. Hepatitis B Foundation. April 22, 2020.",
+      "Url": "https://www.hepb.org/prevention-and-diagnosis/newly-diagnosed/"
+    },
+    {
+      "Title": "Hepatitis C. Tacoma-Pierce County Health Department.",
+      "Url": "https://tpchd.org/healthy-people/diseases/hepatitis/hepatitis-c/"
+    },
+    {
+      "Title": "Horvatits T, Wißmann JE, Johne R, et al. Hepatitis E virus persists in the ejaculate of chronically infected men. J Hepatol. 2021;75(1):55-63.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33484776/"
+    },
+    {
+      "Title": "Huang F, Li Y, Yu W, et al. Excretion of infectious hepatitis E virus into milk in cows imposes high risks of zoonosis. Hepatology. 2016;64(2):350-359.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27286751/"
+    },
+    {
+      "Title": "Li P, Ji Y, Li Y, Ma Z, Pan Q. Estimating the global prevalence of hepatitis E virus in swine and pork products. One Health. 2022;14:100362.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34977322/"
+    },
+    {
+      "Title": "Meester M, Tobias TJ, Bouwknegt M, Kusters NE, Stegeman JA, van der Poel WHM. Infection dynamics and persistence of hepatitis E virus on pig farms - a review. Porcine Health Manag. 2021;7(1):16.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33546777/"
+    },
+    {
+      "Title": "Meng XJ, Purcell RH, Halbur PG, et al. A novel virus in swine is closely related to the human hepatitis E virus. Proc Natl Acad Sci U S A. 1997;94(18):9860-9865.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9275216/"
+    },
+    {
+      "Title": "Slot E, Zaaijer HL, Molier M, Van den Hurk K, Prinsze F, Hogema BM. Meat consumption is a major risk factor for hepatitis E virus infection. PLoS One. 2017;12(4):e0176414.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28448527/"
+    },
+    {
+      "Title": "Smith I, Said B, Vaughan A, et al. Case-control study of risk factors for acquired hepatitis E virus infections in blood donors, United Kingdom, 2018-2019. Emerg Infect Dis. 2021;27(6):1654-1661.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34013866/"
+    },
+    {
+      "Title": "Sooryanarain H, Heffron CL, Hill DE, et al. Hepatitis E virus in pigs from slaughterhouses, United States, 2017-2019. Emerg Infect Dis. 2020;26(2):354-357.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31961315/"
+    },
+    {
+      "Title": "Takahashi M, Tanaka T, Azuma M, et al. Prolonged fecal shedding of hepatitis E virus (HEV) during sporadic acute hepatitis E: evaluation of infectivity of HEV in fecal specimens in a cell culture system. J Clin Microbiol. 2007;45(11):3671-3679.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17728471/"
+    },
+    {
+      "Title": "Teo CG. Much meat, much malady: changing perceptions of the epidemiology of hepatitis E. Clin Microbiol Infect. 2010;16(1):24-32.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20002688/"
+    },
+    {
+      "Title": "Treagus S, Wright C, Baker-Austin C, Longdon B, Lowther J. The foodborne transmission of hepatitis E virus to humans. Food Environ Virol. 2021;13(2):127-145.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33738770/"
+    },
+    {
+      "Title": "\"Center for Food Security and Public Health, College of Veterinary Medicine, Iowa State University. Hepatitis E virus: fact sheet. Swine Health Information Center. November 2015.\"",
+      "Url": "https://www.swinehealth.org/wp-content/uploads/2021/08/shic-factsheet-hepatitise-virus.pdf"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "bacon",
+      "Url": "https://nutritionfacts.org/topics/bacon/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "ham",
+      "Url": "https://nutritionfacts.org/topics/ham/"
+    },
+    {
+      "Title": "hepatitis",
+      "Url": "https://nutritionfacts.org/topics/hepatitis/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">For more on animal-to-human viruses, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/industry-response-to-bovine-leukemia-virus-in-breast-cancer/\"><span style=\"font-weight: 400\">Industry Response to Bovine Leukemia Virus in Breast Cancer</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/bovine-leukemia-virus-as-a-cause-of-breast-cancer/\"><span style=\"font-weight: 400\">Bovine Leukemia Virus as a Cause of Breast Cancer</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/breast-cancer-and-the-bovine-leukemia-virus-in-meat-and-dairy/\"><span style=\"font-weight: 400\">Breast Cancer and the Bovine Leukemia Virus in Meat and Dairy</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-role-of-poultry-viruses-in-human-cancers/\"><span style=\"font-weight: 400\">The Role of Poultry Viruses in Human Cancers</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=905\"><span style=\"font-weight: 400\">Obesity-Causing Chicken Virus</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

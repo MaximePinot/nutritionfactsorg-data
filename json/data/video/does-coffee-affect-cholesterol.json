@@ -1,0 +1,83 @@
+{
+  "Title": "Does Coffee Affect Cholesterol?",
+  "Url": "https://nutritionfacts.org/video/does-coffee-affect-cholesterol/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/uqKf9UvPDuA"
+  },
+  "UpdatedAt": "2018-08-27T11:50:16+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 43",
+    "Url": "https://nutritionfacts.org/volumes/volume-43/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "New data suggest even paper-filtered coffee may raise “bad” LDL cholesterol.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn a video I did a decade ago—you can tell how ancient it is by the silly graphics—I explained that the “cholesterol-raising factor” in coffee “does not pass [through] a [drip coffee] paper filter.” Give people French press coffee, which is filtered, but without paper, and their cholesterol swells up over time, starting within just two weeks. But switch them to paper-filtered coffee, and their cholesterol comes right back down. Same amount of coffee, but just prepared differently.\n“The cholesterol-raising factor from coffee beans” has since been identified: it’s the fatty substances in the oil within coffee beans. One reason it took us so long to figure that out is that it didn’t raise cholesterol in rats, or hamsters, or even monkeys—but it did in human beings. But, it apparently gets stuck in the paper filter. “This explains why filtered coffee doesn’t affect cholesterol, whereas…’boiled’, [French press], and Turkish coffees do.” Espresso, as well, which has 20 times more of the cholesterol-raising substance cafestol than paper-filtered drip coffee, with Turkish and boiled coffee being the worst—though instant and percolator coffee are pretty low, even without the paper filter.\nNote: if you make drip coffee with one of those metal mesh filters without the paper, it would presumably be just as bad as like the French press.\nSo, the studies in general “appeared to consistently find” that it was this fatty component that was then filtered out by paper. But, “a small number of studies suggested that filtered coffee may also increase cholesterol levels, and began to cast some doubt on what appeared to be a fairly clear picture.” So, yeah, “the cholesterol-raising effects brought about by the consumption of filtered coffee may not be as strong as that of the boiled coffee.” But, maybe we shouldn’t “discard the possibility that filtered coffee may also play a small but important role” in raising cholesterol.\nI knew about this study, where three cups a day of filtered coffee raised total cholesterol, but the rise in LDL “bad” cholesterol was not statistically significant. Same with this study, where stopping filtered coffee reduced total cholesterol, suggesting perhaps only partial removal. But, no one had ever just measured the levels of the cholesterol-raising compounds in the paper filters…until, now.\nThe results showed that most of the cholesterol-raising cafestol was retained by the coffee grounds, rather than getting stuck in the filter itself. In other words, “the principal function of the paper filter” is to not necessarily block the compound itself, but to block any fine particles that are carrying the compound. Like, when you make French press coffee, there’s that fine mesh screen, but you still notice a little sludge at the bottom of the cup; that’s the tiny particles that pass through and can carry some of the risk. But, a little cafestol does get through the filter.\nSo, yeah, you can cut out more than 90% by switching from French press, or one of the metal mesh filters, by using a paper filter. If you use coffee that starts out with a high level of the cafestol compound, you’re still clearing out about 95% with the paper, but there may be enough left to still bump up your LDL. But, you don’t know until you…put it to the test.\nThey started out with a high cafestol coffee. After a month of drinking two cups a day, their LDL cholesterol went up, significantly, even though it was paper-filtered. So, if you have high cholesterol despite eating a healthy diet, you may want to try cutting out coffee, and getting retested.\nOr, you can try switching to a lower-cafestol coffee. There’s all sorts of variables, such as roasting degree or grind size that may affect cafestol levels. One can imagine a smaller particle size would allow for greater extraction. Roasting appears to destroy some of it. So, a really dark roast should have less. But, there’s not much difference between just light and medium roast. Indeed, in this study, there was no significant difference between the rise in cholesterol after a medium light roast and a medium roast. They both raised bad cholesterol.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Christensen B, Mosdol A, Retterstol L, Landaas S, Thelle DS. Abstention from filtered coffee reduces the concentrations of plasma homocysteine and serum cholesterol--a randomized controlled trial. Am J Clin Nutr. 2001;74(3):302-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11522552"
+    },
+    {
+      "Title": "Corrêa TA, Rogero MM, Mioto BM, et al. Paper-filtered coffee increases cholesterol and inflammation biomarkers independent of roasting degree: a clinical trial. Nutrition. 2013;29(7-8):977-81.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23510568"
+    },
+    {
+      "Title": "Fried RE, Levine DM, Kwiterovich PO, et al. The effect of filtered-coffee consumption on plasma lipid levels. Results of a randomized clinical trial. JAMA. 1992;267(6):811-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/1732652"
+    },
+    {
+      "Title": "Rendón MY, Dos santos scholz MB, Bragagnolo N. Is cafestol retained on the paper filter in the preparation of filter coffee?. Food Res Int. 2017;100(Pt 1):798-803.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28873752"
+    },
+    {
+      "Title": "Rodrigues IM, Klein LC. Boiled or filtered coffee? Effects of coffee and caffeine on cholesterol, fibrinogen and C-reactive protein. Toxicol Rev. 2006;25(1):55-69.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16856769"
+    },
+    {
+      "Title": "Urgert R, Katan MB. The cholesterol-raising factor from coffee beans. Annu Rev Nutr. 1997;17:305-24.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9240930"
+    },
+    {
+      "Title": "Urgert R, Meyboom S, Kuilman M, et al. Comparison of effect of cafetière and filtered coffee on serum concentrations of liver aminotransferases and lipids: six month randomised controlled trial. BMJ. 1996;313(7069):1362-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8956701"
+    },
+    {
+      "Title": "Van dusseldorp M, Katan MB, Van vliet T, Demacker PN, Stalenhoef AF. Cholesterol-raising factor from boiled coffee does not pass a paper filter. Arterioscler Thromb. 1991;11(3):586-93.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/2029499"
+    },
+    {
+      "Title": "Zhang C, Linforth R, Fisk ID. Cafestol extraction yield from different coffee brew mechanisms. Food Res Internat. 2012;49:27-31.",
+      "Url": "https://www.sciencedirect.com/science/article/pii/S0963996912002360"
+    }
+  ],
+  "Acknowledgements": "Image credit: Karl Fredrickson via Unsplash. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "coffee",
+      "Url": "https://nutritionfacts.org/topics/coffee/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>In the chapters on liver disease, depression, and Parkinson’s in my book <a href=\"https://nutritionfacts.org/book/\"><em>How Not to Die</em></a>, I discussed the benefits of coffee for the liver, mind, and brain. Coffee drinkers do seem to live longer and have lower cancer rates overall, but coffee may worsen acid reflux disease, bone loss, glaucoma, and urinary incontinence.</p>\n<p>The bottom line is that I don’t recommend drinking coffee, but mainly because every cup of coffee is a lost opportunity to drink something even more healthful, such as a cup of green tea, which wouldn’t have the adverse cholesterol consequences.</p>\n<p>For more on coffee, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/preventing-liver-cancer-with-coffee/\">Preventing Liver Cancer with Coffee</a></li>\n<li><a href=\"https://nutritionfacts.org/video/coffee-and-artery-function/\">Coffee and Artery Function</a></li>\n<li><a href=\"https://nutritionfacts.org/video/coffee-and-mortality/\">Coffee and Mortality</a></li>\n<li><a href=\"https://nutritionfacts.org/video/which-coffee-is-healthier-light-vs-dark-roast/\">Which Coffee Is Healthier: Light vs. Dark Roast?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-low-acid-coffee-cause-less-acid-reflux/\">Does Low-Acid Coffee Cause Less Acid Reflux?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-the-health-benefits-of-coffee-apply-to-everyone/\">Do the Health Benefits of Coffee Apply to Everyone?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-adding-milk-block-the-benefits-of-coffee/\">Does Adding Milk Block the Benefits of Coffee?</a></li>\n</ul>\n<p>For all of our videos on the latest research on cholesterol, visit the <a href=\"https://nutritionfacts.org/topics/cholesterol/\">topic page</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

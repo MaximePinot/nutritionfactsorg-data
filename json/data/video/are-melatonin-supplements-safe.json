@@ -1,0 +1,107 @@
+{
+  "Title": "Are Melatonin Supplements Safe?",
+  "Url": "https://nutritionfacts.org/video/are-melatonin-supplements-safe/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/2q1ln6vaSE0"
+  },
+  "UpdatedAt": "2018-08-31T11:50:43+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 43",
+    "Url": "https://nutritionfacts.org/volumes/volume-43/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Over-the-counter melatonin (“anti-gonad hormone”) supplements tend not to contain what they say they do, and the contaminants could be dangerous.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIf you’re crossing three or more time zones, and you plan on staying at your destination long enough to make it worthwhile, you can adjust your body clock to the new time with a behavioral method or a pharmacological method. The behavioral method is light exposure and light avoidance at specific times of the day, based on which direction you’re going and how many time zones you cross. You may want to take a snapshot of this table for future reference.\nThe pharmacological intervention is melatonin, the so-called ‘‘darkness hormone.” It’s secreted by a little gland in the center of your head as soon as it gets dark, and shuts off when the sun comes up in the morning, thereby helping to set your circadian rhythm. There’s been a lot of research done on treating jet lag, but most of it has been on lab rats instead of people. But, most of the handful of human trials that have been done have found taking melatonin “close to the target bedtime at the destination” to try to sync your body to the new time can effectively decrease jet lag symptoms after long flights. Now, unlike “most or [really] all other drugs, the timing of the dose is critical and determines the effect: given at the wrong time,” it can make your jet lag even worse—for example, if you were to take “melatonin at bedtime when traveling west.”\nDose-wise, taking between 0.5 and 5mg seems to be “similarly effective” in terms of helping with jet lag symptoms. But the higher doses do have more of a sleeping pill-type effect, which appears to plateau at about 5mg, but those are massive doses. Even just taking a 3mg dose produces levels in the bloodstream 50 times higher than normal nightly levels.\nYeah, it works, but we don’t know how safe that is. After all, melatonin in the early days used to be known as the “antigonadal hormone,” with human equivalent doses of just a milligram or two reducing the size of sex organs and impairing fertility in laboratory animals. Now obviously, rats aren’t people, but “[c]onsidering the pronounced effects of…melatonin on reproductive physiology in [other] mammals, to assume that [it] would not have some sexual effects in humans would almost seem naive.” In fact, they speculate that maybe melatonin could one day play a role as some sort of “a contraceptive agent.”\nWouldn’t we know about these effects, though? How? Melatonin is available over the counter as a dietary supplement. So, there’s no post-marketing surveillance like there is with prescription drugs. Then, there’s the purity problem. Supplements are so poorly regulated that you never really know what’s actually in them. “For these reasons, melatonin [supplements] cannot be recommended…”\nIs the purity issue just theoretical, though? You don’t know, until you put it to the test. And, indeed, due to the “poor quality control of over-the-counter melatonin, what they say is often not what you get.” Melatonin is not only one of the most popular supplements among adults, but children too, which makes it even more “egregious” that actual melatonin content varied up to nearly 500% compared to what it said on the label, based on an analysis of 31 different brands, and most had just a fraction of what they said. And, “the most variable sample was a chewable tablet,” which is what kids might take. It said it had 1.5mg, but actually had 9, which could result in like a hundred times higher than natural levels. “In short, there was no guarantee of the strength or purity of [over-the-counter] melatonin,” leading these researchers to suggest it should be regulated as a drug so that, by law, at least it would have what it says on the bottle. Okay, but that’s strength.\nWhat about purity? Four of six melatonin products from health food stores—two-thirds—”contained [unidentified] impurities.” With no exclusive patent, “[n]o pharmaceutical company wants to pay for the [necessary] toxicological studies”—the stuff is just sold so dirt cheap. They recommend buying it from some “large reputable pharmacy chain” and [just] hope for the best.”\nBut, this study suggests it’s not worth the risk. “Contaminants present in” tryptophan supplements were reported to be responsible for a 1980s outbreak of a disease that affected more than a thousand people, and resulted in dozens of deaths. “Given the structural similarities of [tryptophan] and melatonin,” maybe when you’re trying to synthesize melatonin, those same toxic contaminants could be created. And, indeed, here’s the contaminant blamed on the tryptophan epidemic, and here’s what they found in melatonin supplements. That’s a little too close for comfort, suggesting melatonin supplements may just be “another accident [another] [epidemic] waiting to happen.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "(author unknown). Melatonin. The Medical Letter, On Drugs and Therapeutics. 1995;7(962):111-112.",
+      "Url": "https://secure.medicalletter.org/TML-article-962c"
+    },
+    {
+      "Title": "Atkinson G, Batterham AM, Dowdall N, Thompson A, Van drongelen A. From animal cage to aircraft cabin: an overview of evidence translation in jet lag research. Eur J Appl Physiol. 2014;114(12):2459-2468.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25342081"
+    },
+    {
+      "Title": "Grigg-damberger MM, Ianakieva D. Poor Quality Control of Over-the-Counter Melatonin: What They Say Is Often Not What You Get. J Clin Sleep Med. 2017;13(2):163-165.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28095978"
+    },
+    {
+      "Title": "Herxheimer A, Petrie KJ. Melatonin for the prevention and treatment of jet lag. Cochrane Database Syst Rev. 2002;(2):CD001520.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12076414"
+    },
+    {
+      "Title": "Herxheimer A, Waterhouse J. The prevention and treatment of jet lag. BMJ. 2003;326(7384):296-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12574022"
+    },
+    {
+      "Title": "Lathrop NJ, Lentz M. Melatonin, light therapy, and jet lag. Air Med J. 2001;20(5):30-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11552110"
+    },
+    {
+      "Title": "Naylor S, Johnson KL, Williamson BL, Klarskov K, Gleich GJ. Structural characterization of contaminants in commercial preparations of melatonin by on-line HPLC-electrospray ionization-tandem mass spectrometry. Adv Exp Med Biol. 1999;467:769-77.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10721130"
+    },
+    {
+      "Title": "Reilly T, Waterhouse J, Edwards B. Some chronobiological and physiological problems associated with long-distance journeys. Travel Med Infect Dis. 2009;7(2):88-101.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19237142"
+    },
+    {
+      "Title": "Reiter RJ. Pineal melatonin: cell biology of its synthesis and of its physiological interactions. Endocr Rev. 1991;12(2):151-80.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/1649044"
+    },
+    {
+      "Title": "Simmons E, Mcgrane O, Wedmore I. Jet lag modification. Curr Sports Med Rep. 2015;14(2):123-128.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25757008"
+    },
+    {
+      "Title": "Williamson BL, Tomlinson AJ, Naylor S, Gleich GJ. Contaminants in commercial preparations of melatonin. Mayo Clin Proc. 1997;72(11):1094-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9374988"
+    }
+  ],
+  "Acknowledgements": "Image credit: IDA Foundation. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "fatigue",
+      "Url": "https://nutritionfacts.org/topics/fatigue/"
+    },
+    {
+      "Title": "jet lag",
+      "Url": "https://nutritionfacts.org/topics/jet-lag/"
+    },
+    {
+      "Title": "melatonin",
+      "Url": "https://nutritionfacts.org/topics/melatonin/"
+    },
+    {
+      "Title": "sleep",
+      "Url": "https://nutritionfacts.org/topics/sleep/"
+    },
+    {
+      "Title": "sleeping pills",
+      "Url": "https://nutritionfacts.org/topics/sleeping-pills/"
+    },
+    {
+      "Title": "sunlight",
+      "Url": "https://nutritionfacts.org/topics/sunlight/"
+    },
+    {
+      "Title": "tryptophan",
+      "Url": "https://nutritionfacts.org/topics/tryptophan/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the second video in a three-part series on jet lag and melatonin. If you missed the first one, check out <a href=\"https://nutritionfacts.org/video/how-to-treat-jet-lag-with-light/\">How to Treat Jet Lag with Light</a>. Stay tuned for <a href=\"https://nutritionfacts.org/video/how-to-treat-jet-lag-with-melatonin-rich-food/\">How to Treat Jet Lag with Melatonin-Rich Food</a>.</p>\n<p>Interested in learning more about how criminally the supplement industry is under-regulated? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/heavy-metals-in-protein-powder-supplements/\">Heavy Metals in Protein Powder Supplements</a></li>\n<li><a href=\"https://nutritionfacts.org/video/some-dietary-supplements-may-be-more-than-a-waste-of-money/\">Some Dietary Supplements May Be More Than a Waste of Money</a></li>\n<li><a href=\"https://nutritionfacts.org/video/black-raspberry-supplements-put-to-the-test/\">Black Raspberry Supplements Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/dangers-of-dietary-supplement-deregulation/\">Dangers of Dietary Supplement Deregulation</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-vitamin-c-supplements-prevent-colds-but-cause-kidney-stones/\">Do Vitamin C Supplements Prevent Colds but Cause Kidney Stones?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lead-in-calcium-supplements/\">Lead in Calcium Supplements</a></li>\n<li><a href=\"https://nutritionfacts.org/video/industry-response-to-plants-not-pills/\">Industry Response to Plant Not Pills</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

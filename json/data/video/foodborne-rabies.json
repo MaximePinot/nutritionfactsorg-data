@@ -1,0 +1,87 @@
+{
+  "Title": "Foodborne Rabies",
+  "Url": "https://nutritionfacts.org/video/foodborne-rabies/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/hE6pB5xWQMk"
+  },
+  "UpdatedAt": "2013-02-15T12:20:32+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 12",
+    "Url": "https://nutritionfacts.org/volumes/volume-12/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The consumption of cat and dog meat may be playing a role in “massive human rabies epidemics” in Asia. (Some people may find some of the concepts and images in this video disturbing.)",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nNormally, rabies is only contracted by getting bitten by a rabid animal, but case reports have been published of people coming down with rabies without any such history—like these two, from Vietnam. In a truly man-bites-dog story, they both came down with rabies after butchering and consuming a dog or cat.\nThe rabies virus should be killed by proper cooking, but they think it was in the preparation of their brains that may have generated large amounts of virus. The dog’s brains were eaten steamed, but the cat’s brains were pulped with the bare hands to make some special dish. The doctors suggest butchering and consumption of dogs should be really better regulated, as as high as 2% of dogs in slaughterhouses may be infected.  And, about the same percentage has been found infected in China.\nIn fact, the long-distance live animal transport of dogs for the meat trade may be a factor in the massive human rabies epidemics in southern China, where farmers can get as much as $12-15 per dog. The dog meat trade may also be playing a role in the spread of rabies in the Philippines—though again, as a doc with the Department of Health pointed out, “If the animal is cooked, the virus is destroyed, but many are eaten raw.” And even if they are cooked, there may be cross-contamination during handling and preparation. “And anyone cutting up a dead dog can transmit the virus to themselves if they touch their eyes or lips while they have traces of the dog’s fluids on their hands…”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A. K. T. Nguyen, D. V. Nguyen, G. C. Ngo, T. T. Nguyen, S. Inoue, A. Yamada, X. K. Dinh, D. V. Nguyen, T. X. Phan, B. Q. Pham, H. T. Nguyen, H. T. H. Nguyen. Molecular epidemiology of rabies virus in Vietnam (2006-2009). Jpn. J. Infect. Dis. 2011 64(5):391 - 396",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21937820"
+    },
+    {
+      "Title": "C. Wallerstein. Rabies cases increase in the Philippines. BMJ 1999 318(7194):1306",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10323799"
+    },
+    {
+      "Title": "Friedmann E, Katcher AH, Lynch JJ, Thomas SA. Animal companions and one-year survival of patients after discharge from a coronary care unit. Public Health Rep. 1980 Jul-Aug;95(4):307-12.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1422527/pdf/pubhealthrep00128-0003.pdf"
+    },
+    {
+      "Title": "H. F. L. Wertheim, T. Q. Nguyen, K. A. T. Nguyen, M. D. de Jong, W. R. J. Taylor, T. V. Le, H. H. Nguyen, H. T. H. Nguyen, J. Farrar, P. Horby, H. D. Nguyen. Furious rabies after an atypical exposure. PLoS Med. 2009 6(3):e44",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19296718"
+    },
+    {
+      "Title": "Parslow RA, Jorm AF. Pet ownership and risk factors for cardiovascular disease: another look. Med J Aust. 2003 Nov 3;179(9):466-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14583076"
+    },
+    {
+      "Title": "X. Y. Tao, Q. Tang, H. Li, Z. J. Mo, H. Zhang, D. M. Wang, Q. Zhang, M. Song, A. Velasco-Villa, X. Wu, C. E. Rupprecht, G.-D. Liang. Molecular epidemiology of rabies in Southern People's Republic of China. Emerging Infect. Dis. 2009 15(8):1192 - 1198",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19751579"
+    }
+  ],
+  "Acknowledgements": "Images thanks to CDC/Barbara Andrews and Liooneel via Wikimedia, and Mr & Mrs Stickyfingers via flickr",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "cats",
+      "Url": "https://nutritionfacts.org/topics/cats/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "viral infections",
+      "Url": "https://nutritionfacts.org/topics/viral-infections/"
+    },
+    {
+      "Title": "zoonotic disease",
+      "Url": "https://nutritionfacts.org/topics/zoonotic-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Cross-contamination of foodborne pathogens during meat preparation is an issue, regardless of species. See, for example, <a href=\"https://nutritionfacts.org/video/food-poisoning-bacteria-cross-contamination/\">Food Poisoning Bacteria Cross-Contamination</a> and <a href=\"https://nutritionfacts.org/video/unsafe-at-any-feed/\">Unsafe at Any Feed</a>. For a cheerier video, featuring our 13-year-old Lilly, watch <a href=\"https://nutritionfacts.org/video/are-cats-or-dogs-more-protective-for-childrens-health/\">Are Cats or Dogs More Protective For Children’s Health?</a></p>\n<p>More on eating brains in <a href=\"https://nutritionfacts.org/video/avoiding-cholesterol-is-a-no-brainer/\">Avoiding Cholesterol Is a No Brainer</a>.</p>\n<p>And be sure to check out my associated blog post for more context: <a href=\"https://nutritionfacts.org/blog/which-pets-improve-childrens-health/\">Which Pets Improve Children’s Health?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

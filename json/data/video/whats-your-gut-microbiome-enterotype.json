@@ -1,0 +1,103 @@
+{
+  "Title": "What’s Your Gut Microbiome Enterotype?",
+  "Url": "https://nutritionfacts.org/video/whats-your-gut-microbiome-enterotype/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Zc_CncVcJK8"
+  },
+  "UpdatedAt": "2015-12-11T12:00:37+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 28",
+    "Url": "https://nutritionfacts.org/volumes/volume-28/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "There appear to be just two types of people in the world: those who have mostly Bacteroides type bacteria in their gut, and those whose colons are  overwhelmingly home to Prevotella species instead.",
+  "Transcript": "The human gut has a diverse collection of microorganisms making up around 1,000 species, with each individual presenting with their own unique collection. But it wasn’t known whether this variation is on a continuum or if people cluster into specific classifiable types, until this famous study analyzed the gut flora of people across multiple countries and continents and identified three so-called enterotypes. There were people who had lots of Bacteroides in their gut, people who had a predominance of Prevotella species, and people whose stool instead grew out a lot of Runinococcus species; pretty amazing that with so many hundreds of types of bacteria that people settle into just one of three categories. But they figure our guts are like ecosystems. Just like there’s lots of different species of animals on the planet, they aren’t randomly distributed. You don’t find dolphins in the desert. In the desert you find desert species. In the jungle you find jungle species, because each ecosystem has different selective pressures, like rainfall or temperature. Well, this early research suggested there are three types of colon ecosystems. You can split humanity into three types, people whose guts grow out a lot of Bacteroides type bacteria, those whose guts are better homes for Prevotella group bacteria, and those that foster the growth of Ruminococcus.\nAnd if you think it’s amazing they were able to boil it down to fit everyone into one of just three groups, subsequent research on a much larger sample of people was able to fold Ruminococcus into Bacteroides, so now everyone fits into one of just two groups. So, now we know, when it comes to gut flora, there are just two types of people in the world: those that grow out mostly Bacteroides, and those that overwhelmingly are home to Prevotella species. The question is why? It didn’t seem to matter where you live, male or female, how old or skinny you are — what matters is what you eat. This is what’s called a heat map. Each column is a different grouping of bacteria and each row is a food component. Red is like hot, meaning a close correlation between the presence of that particular bacteria and lots of that particular nutrient in the diet. Blue is like cold, meaning you’re way off, a reverse correlation, meaning lots of that nutrient is correlated with very low levels of that bacteria in our gut. They looked at over a 100 different food components and a theme started to arise. This column is Bacteroides, and this column is Prevotella. Note how they’re kind of opposites. When it comes to things like animal fat, cholesterol, animal protein, Bacteriodes is red and Prevotella is blue, and when it comes to plant components like carbohydrates, Prevotella is red and Bacteroides is blue.\nHere’s a simplified version, clearly showing the components found more in animal foods like protein and fat are associated with the Bacteroides enterotpye, and those found almost exclusively in plant foods are associated with Prevotella. So, no surprise African Americans fell into the Bacteroides enterotype, whereas most of the native Africans were Prevotella. The reason this may matter is Bacteroides species are generally associated with increased risk of colon cancer, our second leading cause of cancer death, yet almost unheard of among native Africans. The differences in our gut flora may help explain why Americans appear to have more than 50 times the rate of colon cancer.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "G D Wu, J Chen, C Hoffmann, K Bittinger, Y Y Chen, S A Keilbaugh, M Bewtra, and more. Linking Long-Term Dietary Patterns with Gut Microbial Enterotypes. Science. 2011 Oct 7; 334(6052): 105–108.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3368382/"
+    },
+    {
+      "Title": "J Ou, F Carbonero, E G Zoetendal, J P DeLany, M Wang, K Newton, H R Gaskins, S J O’Keefe. Diet, microbiota, and microbial metabolites in colon cancer risk in rural Africans and African Americans. Am J Clin Nutr. 2013 Jul;98(1):111-20.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23719549"
+    },
+    {
+      "Title": "K M Tuohy, L Conterno, M Gasperotti, R Viola. Up-regulating the human intestinal microbiome using whole plant foods, polyphenols, and/or fiber. J Agric Food Chem. 2012 Sep 12;60(36):8776-82.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22607578"
+    },
+    {
+      "Title": "M Arumugam, J Raes, E Pelletier, D LE Paslier, T Yamada, D R Mende, G R Fernandes, J Tap, T Bruls, J M Batto, M Bertalan, and more. Enterotypes of the human gut microbiome. Nature. 2011 May 12;473(7346):174-80.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21508958"
+    },
+    {
+      "Title": "S J O’Keefe, D Chung, N Mahmoud, A R Sepulveda, M Manafe, J Arch, H Adada, T van der Merwe. Why do African Americans get more colon cancer than Native Africans? J Nutr. 2007 Jan;137(1 Suppl):175S-182S.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17182822"
+    },
+    {
+      "Title": "W E Moore, L H Moore. Intestinal floras of populations that have a high risk of colon cancer. Appl Environ Microbiol. 1995 Sep; 61(9): 3202–3207.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC167598/"
+    }
+  ],
+  "Acknowledgements": "Images thanks to geralt via Pixabay.",
+  "Topics": [
+    {
+      "Title": "Africa",
+      "Url": "https://nutritionfacts.org/topics/africa/"
+    },
+    {
+      "Title": "African Americans",
+      "Url": "https://nutritionfacts.org/topics/african-americans/"
+    },
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "Black Americans",
+      "Url": "https://nutritionfacts.org/topics/black-americans/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "Prevotella",
+      "Url": "https://nutritionfacts.org/topics/prevotella/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If whatever gut flora enterotype we are could play an important role in our risk of developing chronic diet-associated diseases, the next question is can we alter our gut microbome by altering our diet? And the answer is — diet can rapidly and reproducibly alter the bacteria in our gut, the subject of my next video, <a href=\"https://nutritionfacts.org/video/how-to-change-your-enterotype/\">How to Change Your Enterotype</a>.</p>\n<p>These are part of a new expanded series on the microbiome that I’ll be unfolding in the coming months. Make sure you catch the first four in this series:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-to-reduce-carcinogenic-bile-acid-production/\">How to Reduce Carcinogenic Bile Acid Production</a></li>\n<li><a href=\"https://nutritionfacts.org/video/putrefying-protein-and-toxifying-enzymes/\">Putrefying Protein and “Toxifying” Enzymes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/microbiome-the-inside-story/\">Microbiome: The Inside Story</a></li>\n<li><a href=\"https://nutritionfacts.org/video/prebiotics-tending-our-inner-garden/\">Prebiotics: Tending Our Inner Garden</a></li>\n</ul>\n<p>Who we have living in our gut may also play a role in autoimmune diseases. See <a href=\"https://nutritionfacts.org/video/why-do-plant-based-diets-help-rheumatoid-arthritis/\">Why Do Plant-Based Diets Help Rheumatoid Arthritis?</a></p>\n<p>I regularly add new videos on this topic. See them all on the <a href=\"https://nutritionfacts.org/topics/microbiome/\">microbiome topic page</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "Title": "Ochratoxin in Certain Herbs, Spices, and Wine",
+  "Url": "https://nutritionfacts.org/video/ochratoxin-in-certain-herbs-spices-and-wine/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/39HHcESRMoE"
+  },
+  "UpdatedAt": "2021-10-25T11:50:52+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 55",
+    "Url": "https://nutritionfacts.org/volumes/volume-55/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Most food crops are contaminated with fungal mycotoxins, but some foods are worse than others.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nOats can be thought of as uniquely nutritious, and one route they improve human health is by providing prebiotics that increase the growth of beneficial gut microbiota. Of course, there are oats and then there are oats, ranging from steel-cut oats, to, even better, intact oat groats (their form before being cut), all the way down to highly processed cereals such as Honey Nut Cheerios.\nRolling crushes the grain, which may disrupt cell walls and damage starch granules, making them more available for digestion––which is bad, since we want the starch to make it all the way down to our colon to feed our good gut bacteria. Grinding into oat flour to make breakfast cereals is even worse. If you compare the blood sugar and insulin responses, you can see significantly lower spikes with the more intact steel-cut oats.\nOkay, but what about ochratoxin? Oats are the leading source of dietary exposure of this mold contaminant, but they aren’t the only source. There’s a worldwide contamination of food crops with mycotoxins, with some experts throwing around estimates as high as 25 percent of the world’s crops. That statistic is attributed to the Food and Agriculture Organization of the United Nations. But it turns out that statistic is bogus. It’s not 25 percent. Instead, it may be more like 60 to 80 percent. The high occurrence is likely explained by a combination of the improved sensitivity of testing methods, as well as the impact of climate change.\nSpices have been found to have some of the highest concentrations of mycotoxins, but because they are ingested in such small quantities, they’re not considered to be a signiﬁcant source. We can certainly do our part to minimize risk, though. It is also the consumers’ responsibility to keep spices dry after opening sealed containers or packages.\nWhat about dried herbs? Mycotoxins in plant-based dietary supplements: the highest mycotoxin concentrations were found in milk thistle-based supplements. It turns out that wet and humid weather is needed during milk thistle harvest, which evidently is why they end up being so moldy. Considering the fact that milk thistle preparations are mainly used by people who suﬀer from a liver disease, such high intake of compounds toxic to the liver may present some concern.\nWine sourced from the United States also appears to have particularly high levels. In fact, the single highest level found to date around the world is in an American wine, but there’s contamination in wine in general. In fact, some suggest that’s why we see such consistent levels in people’s blood—perhaps because lots of people are regular wine drinkers.\nOchratoxin is said to be a kidney toxin with immunosuppressive, birth defect-causing, and carcinogenic properties. So, what about ochratoxin decontamination—removing the toxin—in wine? Now ideally, we’d try to prevent the contamination in the first place, but since this isn’t always practical, there is increased focus on finding effective methods of detoxification of mycotoxins already present in foods.\nAnd that’s where yeast comes in as a promising solution, because the mycotoxins bind to the yeast cell wall. The thought is that you could strain out the yeast, but another approach would be to eat something like nutritional yeast to prevent the absorption.\nIt works in chickens. Give yeast along with aflatoxin (another mycotoxin), and you diminish the severity of the resulting disease. But using something like nutritional yeast as a binder depends on the stability of the yeast-mycotoxin bond throughout the digestive tract. We know yeasts can remove ochratoxin in foods, but we didn’t have a clue if it would work in the gut until 2016. Yeast was found to bind up to 44 percent of the ochratoxin, but in actuality, it was probably closer to only about a third, since some of the bindings weren’t stable.\nSo, if you’re trying to stay under the maximum daily intake, and you drink a single glass of wine, even if your bar snack is popcorn seasoned with nutritional yeast, you’d still probably exceed the tolerable intake. But what does that mean? How bad is this stuff? We’ll find out next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "De Jesus CL, Bartley A, Welch AZ, Berry JP. High Incidence and Levels of Ochratoxin A in Wines Sourced from the United States. Toxins (Basel). 2017;10(1):1.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29267200/"
+    },
+    {
+      "Title": "Eskola M, Kos G, Elliott CT, Hajšlová J, Mayar S, Krska R. Worldwide contamination of food-crops with mycotoxins: Validity of the widely cited 'FAO estimate' of 25. Crit Rev Food Sci Nutr. 2020;60(16):2773-89.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31478403/"
+    },
+    {
+      "Title": "Iha MH, Trucksess MW. Management of Mycotoxins in Spices. J AOAC Int. 2019;102(6):1732-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31311617/"
+    },
+    {
+      "Title": "Karaman M, Basmacioglu H, Ortatatli M, Oguz H. Evaluation of the detoxifying effect of yeast glucomannan on aflatoxicosis in broilers as assessed by gross examination and histopathology. Br Poult Sci. 2005;46(3):394-400.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16050196/"
+    },
+    {
+      "Title": "Kolakowski B, O'Rourke SM, Bietlot HP, Kurz K, Aweryn B. Ochratoxin A Concentrations in a Variety of Grain-Based and Non-Grain-Based Foods on the Canadian Retail Market from 2009 to 2014. J Food Prot. 2016;79(12):2143-59.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28221957/"
+    },
+    {
+      "Title": "Korczak R, Kocher M, Swanson KS. Effects of oats on gastrointestinal health as assessed by in vitro, animal, and human studies. Nutr Rev. 2020;78(5):343-63.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31638148/"
+    },
+    {
+      "Title": "Mitchell NJ, Chen C, Palumbo JD, et al. A risk assessment of dietary Ochratoxin a in the United States. Food Chem Toxicol. 2017;100:265-73.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28041933/"
+    },
+    {
+      "Title": "Moretti A, Logrieco AF, Susca A. Mycotoxins: An Underhand Food Problem. Methods Mol Biol. 2017;1542:3-12.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27924528/"
+    },
+    {
+      "Title": "Moslehi-Jenabian S, Pedersen LL, Jespersen L. Beneficial effects of probiotic and food borne yeasts on human health. Nutrients. 2010;2(4):449-73.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22254033/"
+    },
+    {
+      "Title": "Petruzzi L, Corbo MR, Sinigaglia M, Bevilacqua A. Ochratoxin A Removal by Yeasts after Exposure to Simulated Human Gastrointestinal Conditions. J Food Sci. 2016;81(11):M2756-60.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27732755/"
+    },
+    {
+      "Title": "Petruzzi L, Sinigaglia M, Corbo MR, Campaniello D, Speranza B, Bevilacqua A. Decontamination of ochratoxin A by yeasts: possible approaches and factors leading to toxin removal in wine. Appl Microbiol Biotechnol. 2014;98(15):6555-67.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24841121/"
+    },
+    {
+      "Title": "Varga J, Kocsubé S, Péteri Z, Vágvölgyi C, Tóth B. Chemical, physical and biological approaches to prevent ochratoxin induced toxicoses in humans and animals. Toxins (Basel). 2010;2(7):1718-50.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22069658/"
+    },
+    {
+      "Title": "Veprikova Z, Zachariasova M, Dzuman Z, et al. Mycotoxins in Plant-Based Dietary Supplements: Hidden Health Risk for Consumers. J Agric Food Chem. 2015;63(29):6633-43.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26168136/"
+    },
+    {
+      "Title": "Wolever TMS, Johnson J, Jenkins AL, Campbell JC, Ezatagha A, Chu Y. Impact of oat processing on glycaemic and insulinaemic responses in healthy humans: a randomised clinical trial. Br J Nutr. 2019;121(11):1264-70.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31068229/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "breakfast cereal",
+      "Url": "https://nutritionfacts.org/topics/breakfast-cereal/"
+    },
+    {
+      "Title": "herbs",
+      "Url": "https://nutritionfacts.org/topics/herbs/"
+    },
+    {
+      "Title": "insulin",
+      "Url": "https://nutritionfacts.org/topics/insulin/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "liver disease",
+      "Url": "https://nutritionfacts.org/topics/liver-disease/"
+    },
+    {
+      "Title": "liver health",
+      "Url": "https://nutritionfacts.org/topics/liver-health/"
+    },
+    {
+      "Title": "mold",
+      "Url": "https://nutritionfacts.org/topics/mold/"
+    },
+    {
+      "Title": "mycotoxins",
+      "Url": "https://nutritionfacts.org/topics/mycotoxins/"
+    },
+    {
+      "Title": "nutritional yeast",
+      "Url": "https://nutritionfacts.org/topics/nutritional-yeast/"
+    },
+    {
+      "Title": "oats",
+      "Url": "https://nutritionfacts.org/topics/oats/"
+    },
+    {
+      "Title": "spices",
+      "Url": "https://nutritionfacts.org/topics/spices/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "wine",
+      "Url": "https://nutritionfacts.org/topics/wine/"
+    },
+    {
+      "Title": "yeast",
+      "Url": "https://nutritionfacts.org/topics/yeast/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the second video in a four-part series on mold toxins. The first one was <a href=\"https://nutritionfacts.org/video/ochratoxin-in-breakfast-cereals/\">Ochratoxin in Breakfast Cereals</a>.</p>\n<p>Stay tuned for <a href=\"https://nutritionfacts.org/video/should-we-be-concerned-about-the-effects-of-ochratoxin/\">Should We Be Concerned About the Effects of Ochratoxin?</a> and <a href=\"https://nutritionfacts.org/video/should-we-be-concerned-about-aflatoxin/\">Should We Be Concerned About Aflatoxin?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

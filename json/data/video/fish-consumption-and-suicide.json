@@ -1,0 +1,211 @@
+{
+  "Title": "Fish Consumption and Suicide",
+  "Url": "https://nutritionfacts.org/video/fish-consumption-and-suicide/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/crVbnU_tHOA"
+  },
+  "UpdatedAt": "2015-07-27T12:00:34+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 25",
+    "Url": "https://nutritionfacts.org/volumes/volume-25/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The mercury content in fish may help explain links found between fish intake and mental disorders, depression, and suicide.",
+  "Transcript": "Depression is a serious and common mental disorder responsible for the majority of suicides, but as I already covered, intake of fruits, vegetables, and naturally occurring antioxidants have been found to be protectively associated with depression. So, they concluded, it may be possible to prevent depression or to lessen its negative effects through dietary intervention.\nBut not so fast. This was a cross-sectional study, meaning a snapshot in time; so, you don’t know whether the poor dietary pattern precedes the development of depression or if depression causes poor dietary intake. Depression and even treatments for depression can affect appetite and dietary intake. Maybe people who feel crappier, just eat crappier, instead of the other way around. What you need is a prospective study, a study performed over time, where you start out with people who are not depressed and follow them for 6 years, and those with higher carotenoid levels in their bloodstream, which is considered a good indicator of fruit and vegetable intake, had a 28% lower risk of becoming depressed within that time. So, the researchers conclude that having low blood levels of those healthy phytonutrients may predict the development of new depressive symptoms, but what about suicide?\nWorldwide, a million people kill themselves every year. In this comparison of European countries, Greece had the lowest rates of suicide. Maybe it’s the balmy weather, but maybe it has something to do with their diet. 10,000 people followed for years, and those following a more Mediterranean diet pattern were less likely to be diagnosed with depression. What was it about the diet that was protective? It wasn’t the red wine, or fish; it was the fruit and nuts and effectively higher plant to animal fat ratio and beans that appeared protective. Conversely, significant adverse trends were observed for dairy and meat consumption.\nA similar protective dietary pattern was found in Japan; a high intake of vegetables, fruit, mushrooms and soy products was associated with a decreased prevalence of depressive symptoms. It was not characterized by a high intake of seafood. 100,000 Japanese men and women were followed for up to 10 years, and they didn’t find evidence of a protective role of higher fish consumption or the long chain omega 3’s EPA and DHA against suicide. In fact, they found a significantly increased risk of suicide among male nondrinkers with high seafood omega 3 intake. This may have just been by chance, but a similar result was found in the Mediterranean. High baseline fish consumption together with an increase in consumption were associated with an increased risk of mental disorders.\nOne possible explanation could be the mercury content of fish. An accumulation of mercury compounds could increase the risk of depression. We know that mercury in fish can cause neurological damage, such as negative effects on Alzheimer disease, memory loss, and autism as well as depression.\nSo, the increased risk of suicide among persons with a high fish intake might be attributable to the harmful effects of mercury in fish.\nThe big Harvard cohorts found similar results; hundreds of thousands followed for up to 20 years, and no evidence that taking fish oil or eating fish lowered risk of suicide, with a trend towards even higher suicide mortality.\nWhat about for the treatment of depression? Neither EPA nor DHA appeared more effective than sugar pills, and the same can be said when one puts all the trials done to date together. We used to think omega-3 supplementation was useful, but several recent studies have tipped the balance the other way. It seems that nearly all of the treatment efficacy observed in the published literature may be attributable to publication bias, meaning the trials that showed no benefit tended not to get published at all, and so all one saw was a bunch of positive studies, but only because a bunch of the negative ones were buried.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A double-blind, randomized controlled clinical trial comparing eicosapentaenoic acid versus docosahexaenoic acid for depression. D Mischolon, A A Nierenberg, P J Schettler, B L Kinkead, K Fehling, M A Martinson, M Hyman Rapaport. J Clin Psychiatry. 2015 Jan;76(1):54-61.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25272149"
+    },
+    {
+      "Title": "A systematic review and meta-analysis of dietary patterns and depression in community-dwelling adults. J S Lai, S Hiles, A Bisquera, A J Hure, M McEvoy, J Attai. Am J Clin Nutr. 2014 Jan;99(1):181-97.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24196402"
+    },
+    {
+      "Title": "Antioxidants as antidepressants: fact or fiction? G Scapagnini, S Davinelli, F Drago, A De Lorenzo, G Oriani. Antioxidants as antidepressants: fact or fiction? CNS Drugs. 2012 Jun 1;26(6):477-90.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22668245"
+    },
+    {
+      "Title": "Association of the Mediterranean dietary pattern with the incidence of depression: the Seguimiento Universidad de Navarra/University of Navarra follow-up (SUN) cohort. A Sanchez-Villegas, M Delgado-Rodriguez, A Alonso, J Schlatter, F Lahortiga, L Serra Majem, M A Martinez-Gonzalez. Arch Gen Psychiatry. 2009 Oct;66(10):1090-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19805699"
+    },
+    {
+      "Title": "Dietary patterns and depressive symptoms among Japanese men and women. A Nanri, Y Kumura, Y Matsushita, M Ohta, M Sato, N Mishima, S Sasaki, T Mizoue. Eur J Clin Nutr. 2010 Aug;64(8):832-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20485303"
+    },
+    {
+      "Title": "Fruit, vegetable, and antioxidant intakes are lower in older adults with depression. M E Payne, S E Steck, R R George, D C Steffens. J Acad Nutr Diet. 2012 Dec;112(12):2022-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23174689"
+    },
+    {
+      "Title": "Long chain n-3 fatty acids intake, fish consumption and suicide in a cohort of Japanese men and women--the Japan Public Health Center-based (JPHC) prospective study. K Poudel-Tandukar, A Nanri, M Iwasaki, T Mizoue, Y Matsushita, Y Takahashi, M Noda, M Inoue, S Tsugane, Japan Public Health Center-based Prospective Study Group. J Affect Disord. 2011 Mar;129(1-3):282-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20692041"
+    },
+    {
+      "Title": "Long chain omega-3 fatty acids intake, fish consumption and mental disorders in the SUN cohort study. A Sanchez-Villegas, P Henriquez, A Figueiras, F Ortuno, F Lahortiga, M A Martinez-Gonzalez. Eur J Nutr. 2007 Sep;46(6):337-46.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17717628"
+    },
+    {
+      "Title": "Omega-3 fatty acids for the treatment of depression: systematic review and meta-analysis. M H Bloch, J Hannestad. Mol Psychiatry. 2012 Dec;17(12):1272-82.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21931319"
+    },
+    {
+      "Title": "Suicide mortality in relation to dietary intake of n-3 and n-6 polyunsaturated fatty acids and fish: equivocal findings from 3 large US cohort studies. A C Tsai, M Lucas, O I Okereke, E J O’Reilly, F Mirzaei, I Kawachi, A Ascherio, W C Willet. Am J Epidemiol. 2014 Jun 15;179(12):1458-66.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24812159"
+    },
+    {
+      "Title": "Suicide mortality in the European Union. P Chishti, D H Stone, P Corcoran, E Williamson, E Petridou, EUROSAVE Working Group. Eur J Public Health. 2003 Jun;13(2):108-14.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/12803408"
+    },
+    {
+      "Title": "The relationship between plasma carotenoids and depressive symptoms in older persons. Y Milaneschi, S Bandinelli, B W Pennix, A M Corsi, F Lauretani, R Vazzana, R D Semba, J M Guralnik, L Ferrucci. World J Biol Psychiatry. 2012 Dec;13(8):588-98.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21929378"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Jared Keener via Flickr.",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "autism",
+      "Url": "https://nutritionfacts.org/topics/autism/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "depression",
+      "Url": "https://nutritionfacts.org/topics/depression/"
+    },
+    {
+      "Title": "DHA",
+      "Url": "https://nutritionfacts.org/topics/dha/"
+    },
+    {
+      "Title": "Europe",
+      "Url": "https://nutritionfacts.org/topics/europe/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "industrial pollutants",
+      "Url": "https://nutritionfacts.org/topics/industrial-pollutants/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "Mediterranean diet",
+      "Url": "https://nutritionfacts.org/topics/mediterranean-diet/"
+    },
+    {
+      "Title": "memory",
+      "Url": "https://nutritionfacts.org/topics/memory/"
+    },
+    {
+      "Title": "mental health",
+      "Url": "https://nutritionfacts.org/topics/mental-health/"
+    },
+    {
+      "Title": "mercury",
+      "Url": "https://nutritionfacts.org/topics/mercury/"
+    },
+    {
+      "Title": "mushrooms",
+      "Url": "https://nutritionfacts.org/topics/mushrooms/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "omega-3 fatty acids",
+      "Url": "https://nutritionfacts.org/topics/omega-3-fatty-acids/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "red wine",
+      "Url": "https://nutritionfacts.org/topics/red-wine/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "suicide",
+      "Url": "https://nutritionfacts.org/topics/suicide/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "wine",
+      "Url": "https://nutritionfacts.org/topics/wine/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This reminds me of my video <a href=\"https://nutritionfacts.org/video/is-fish-oil-just-snake-oil/\">Is Fish Oil Just Snake Oil?</a> Just like we thought omega 3 supplementation could help with mood, we also thought it could help with heart health, but the balance of evidence has decidedly shifted. I still recommend the consumption of pollutant-free sources of preformed long-chain omega 3’s for cognitive health—I have a bunch of videos on their way explaining my rationale.</p>\n<p>For more on the neurotoxic nature of mercury-contaminated seafood, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/nerves-of-mercury/\">Nerves of Mercury</a></li>\n<li><a href=\"https://nutritionfacts.org/video/mercury-vs-omega-3s-for-brain-development/\">Mercury vs. Omega-3s for Brain Development</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-long-to-detox-from-fish-before-pregnancy/\">How Long to Detox From Fish Before Pregnancy?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fish-consumption-associated-with-brain-shrinkage/\">Fish Intake Associated With Brain Shrinkage</a></li>\n</ul>\n<p>What can we do to help our mood? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/antioxidants-and-depression/\">Antioxidants and Depression</a></li>\n<li><a href=\"https://nutritionfacts.org/video/improving-mood-through-diet/\">Improving Mood Through Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/exercise-vs-drugs-for-depression/\">Exercise vs. Drugs for Depression</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fighting-the-blues-with-greens-mao-inhibitors-in-plants/\">Fighting the Blues With Greens?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-dehydration-affect-our-mood/\">Can Dehydration Affect Our Mood?</a></li>\n</ul>\n<p>What about antidepressant drugs. Sometimes they can be absolutely life-saving. Other times they may actually do more harm than good. See my controversial video <a href=\"https://nutritionfacts.org/video/do-antidepressant-drugs-really-work/\">Do Antidepressant Drugs Really Work?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

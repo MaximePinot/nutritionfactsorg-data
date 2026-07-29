@@ -1,0 +1,151 @@
+{
+  "Title": "Does Paratuberculosis in Meat Trigger Type 1 Diabetes?",
+  "Url": "https://nutritionfacts.org/video/does-paratuberculosis-in-meat-trigger-type-1-diabetes/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/emHu0hOHjoo"
+  },
+  "UpdatedAt": "2017-02-13T12:00:39+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 34",
+    "Url": "https://nutritionfacts.org/volumes/volume-34/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The majority of specialists in the field agreed that paraTB in meat and dairy likely represents a risk to human health and should be a high- or medium-priority public health issue.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe compelling finding of MAP bacteria circulating disproportionately within the bloodstream of type 1 diabetics was subsequently confirmed by culturing it straight out of their blood. But, just because being infected and type 1 diabetes appeared to go together, we don’t know what came first.\nYes, maybe the infection made kids more susceptible to diabetes. But, maybe the diabetes made kids more susceptible to infection. Maybe, this bug just likes hanging out in sugary blood. In that case, we might expect to see it in type 2 diabetics too. But no; paratuberculosis infection is not associated with type 2 diabetes—which would make sense, since type 2 is not an autoimmune disease.\nFor this infectious trigger idea to be sound, there would have to be an immune response mounted to the bug. And indeed, there is an extremely significant antibody response against paratuberculosis bacteria in type 1 diabetics. But, do the antibodies attacking the bug cross-react with our own insulin-producing cells to generate that autoimmune reaction? Apparently so. Antibodies recognizing the molecular signatures of mycobacterium paratuberculosis cross-react with the molecular signatures present on our insulin-producing beta cells in our pancreas.\nOkay, but is this just in Sardinia? Or, might we find these same results elsewhere? The same results were found on mainland Italy, with a group of type 1 diabetics with different genetic backgrounds—a strong association between paraTB bacteria exposure and type 1 diabetes. And then, confirmed again, and again in other pediatric populations, as well as a group of type 1 diabetic adults.\nThe paratuberculosis bacteria also explain why type 1 diabetes risk is associated with a specific gene on chromosome 2, called SLC11A1. What does that gene do? It activates the immune cell that eats mycobacteria for breakfast. So, that could explain how a mutation in that gene could increase the susceptibility to type 1 diabetes—by increasing the “susceptibility to mycobacterial infections,” like mycobacterium avium paratuberculosis.\nThis is all part of this accumulating line of evidence pointing to MAP bacteria as a trigger for the development of type 1 diabetes. And, it’s no coincidence. These types of bacteria have evolved to disguise themselves to look like human proteins for the express purpose of avoiding detection by our immune system. These are not the droids you’re looking for. But, if our immune systems see through the disguise and start attacking the bacteria, our similar-looking proteins can become a victim of friendly fire, which is what these studies have all been pointing to. Or, almost all.\nThis 2015 review found that all seven out of seven human studies found an association between type 1 diabetes and paratuberculosis exposure. But, it’s actually only seven out of eight. Since that review, a study in India was published, finding no link. A few possible explanations were offered. Maybe it’s because they have compulsory vaccination for regular TB, which might offer cross-protection against paratuberculosis, as it does with leprosy. Or, maybe because they eat so much less meat.\nOr, maybe it’s because of their “compulsory boiling of milk before consumption.” If you measure the heat inactivation of milk with high concentrations of naturally infected feces, which is probably the main source of milk contamination, pasteurization may not completely inactivate the bacteria. But, sterilization at boiling temperatures should—though this may depend on the degree of fecal clumping. That may be one way MAP bacteria ride out pasteurization—by hiding in tiny fecal clumps. But, only rarely should MAP survive over 100 degrees Celsius—perhaps explaining the disparate India findings. \nBottom line: “To reduce human exposure to MAP via consumption of dairy and meat products [more] studies are needed for estimating” how much MAP is in the milk, meat, and feces, and how much fecal material is in the milk and meat, to figure out what we need to do to kill it. In the meanwhile, what’s the potential public health impact of mycobacterium paratuberculosis? “The majority of specialists [in the field] agree that it’s likely a risk to human health and…[should be] a high- or medium-priority…public health issue. “\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Baptista FM, Nielsen SS, Toft N. Association between the presence of antibodies to Mycobacterium avium subspecies paratuberculosis and somatic cell count. J Dairy Sci. 2008 Jan;91(1):109-18.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18096931"
+    },
+    {
+      "Title": "Bitti ML, Masala S, Capasso F, Rapini N, Piccinini S, Angelini F, Pierantozzi A, Lidano R, Pietrosanti S, Paccagnini D, Sechi LA. Mycobacterium avium subsp. paratuberculosis in an Italian cohort of type 1 diabetes pediatric patients. Clin Dev Immunol. 2012;2012:785262.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22844325"
+    },
+    {
+      "Title": "Eltholth MM, Marsh VR, Van Winden S, Guitian FJ. Contamination of food products with Mycobacterium avium paratuberculosis: a systematic review. J Appl Microbiol. 2009 Oct;107(4):1061-71.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19486426"
+    },
+    {
+      "Title": "Herman L, De Jonghe V, Dumon I, Grijspeerdt K, Naydenski H, D’Haese E. Clumping of Mycobacterium avium subsp. paratuberculosis in milk and feces and growth activation after milk heating. Theme 3b: Implications for Public Health Proceedings of 8ICP 2005.",
+      "Url": "http://www.paratuberculosis.info/images/stories/pdfs/153"
+    },
+    {
+      "Title": "Klijn N, Herrewegh AA, de Jong P. Heat inactivation data for Mycobacterium avium subsp. paratuberculosis: implications for interpretation. J Appl Microbiol. 2001 Oct;91(4):697-704.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11576307"
+    },
+    {
+      "Title": "Masala S, Cossu D, Piccinini S, Rapini N, Mameli G, Manca Bitti ML, Sechi LA. Proinsulin and MAP3865c homologous epitopes are a target of antibody response in new-onset type 1 diabetes children from continental Italy. Pediatr Diabetes. 2015 May;16(3):189-95.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25720593"
+    },
+    {
+      "Title": "Masala S, Cossu D, Piccinini S, Rapini N, Massimi A, Porzio O, Pietrosanti S, Lidano R, Bitti ML, Sechi LA. Recognition of zinc transporter 8 and MAP3865c homologous epitopes by new-onset type 1 diabetes children from continental Italy. Acta Diabetol. 2014 Aug;51(4):577-85.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24496951"
+    },
+    {
+      "Title": "Masala S, Paccagnini D, Cossu D, Brezar V, Pacifico A, Ahmed N, Mallone R, Sechi LA. Antibodies recognizing Mycobacterium avium paratuberculosis epitopes cross-react with the beta-cell antigen ZnT8 in Sardinian type 1 diabetic patients. PLoS One. 2011;6(10):e26931.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22046415"
+    },
+    {
+      "Title": "Musso G, Gambino R, De Michieli F, Cassader M, Rizzetto M, Durazzo M, Fagà E, Silli B, Pagano G. Dietary habits and their relations to insulin resistance and postprandial lipemia in nonalcoholic steatohepatitis. Hepatology. 2003 Apr;37(4):909-16.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12668986"
+    },
+    {
+      "Title": "NATIONAL MASTITIS COUNCIL, INC., BOARD OF DIRECTORS REPORT. HUMAN HEALTH RISKS ASSOCIATED WITH HIGH SOMATIC CELL COUNT MILK. SYMPOSIUM SUMMARY.",
+      "Url": "http://deltechindia.com/Research_n_Studies/scchealthrisks.pdf"
+    },
+    {
+      "Title": "Paccagnini D, Sieswerda L, Rosu V, Masala S, Pacifico A, Gazouli M, Ikonomopoulos J, Ahmed N, Zanetti S, Sechi LA. Linking chronic infection and autoimmune diseases: Mycobacterium avium subspecies paratuberculosis, SLC11A1 polymorphisms and type-1 diabetes mellitus. PLoS One. 2009 Sep 21;4(9):e7109.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19768110"
+    },
+    {
+      "Title": "Rademaker JL, Vissers MM, Te Giffel MC. Effective heat inactivation of Mycobacterium avium subsp. paratuberculosis in raw milk contaminated with naturally infected feces. Appl Environ Microbiol. 2007 Jul;73(13):4185-90.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17496131"
+    },
+    {
+      "Title": "Rani PS, Sechi LA, Ahmed N. Mycobacterium avium subsp. paratuberculosis as a trigger of type-1 diabetes: destination Sardinia, or beyond? Gut Pathog. 2010 Mar 29;2(1):1.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20350307"
+    },
+    {
+      "Title": "Rosu V, Ahmed N, Paccagnini D, Gerlach G, Fadda G, Hasnain SE, Zanetti S, Sechi LA. Specific immunoassays confirm association of Mycobacterium avium Subsp. paratuberculosis with type-1 but not type-2 diabetes mellitus. PLoS One. 2009;4(2):e4386.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19204799"
+    },
+    {
+      "Title": "Rosu V, Ahmed N, Paccagnini D, Pacifico A, Zanetti S, Sechi LA. Mycobacterium avium subspecies paratuberculosis is not associated with type-2 diabetes mellitus. Ann Clin Microbiol Antimicrob. 2008 Apr 22;7:9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18430197"
+    },
+    {
+      "Title": "Sechi LA, Paccagnini D, Salza S, Pacifico A, Ahmed N, Zanetti S. Mycobacterium avium subspecies paratuberculosis bacteremia in type 1 diabetes mellitus: an infectious trigger? Clin Infect Dis. 2008 Jan 1;46(1):148-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18171233"
+    },
+    {
+      "Title": "Sechi LA, Rosu V, Pacifico A, Fadda G, Ahmed N, Zanetti S. Humoral immune responses of type 1 diabetes patients to Mycobacterium avium subsp. paratuberculosis lend support to the infectious trigger hypothesis. Clin Vaccine Immunol. 2008 Feb;15(2):320-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18077612"
+    },
+    {
+      "Title": "Waddell LA, Rajić A, Stärk KD, McEWEN SA. The zoonotic potential of Mycobacterium avium ssp. paratuberculosis: a systematic review and meta-analyses of the evidence. Epidemiol Infect. 2015 Nov;143(15):3135-57.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25989710"
+    },
+    {
+      "Title": "Waddell LA, Rajić A, Stärk KD, McEwen SA. The potential Public Health Impact of Mycobacterium avium ssp. paratuberculosis: Global Opinion Survey of Topic Specialists. Zoonoses Public Health. 2016 May;63(3):212-22.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26272619"
+    }
+  ],
+  "Acknowledgements": "Image credit: Mark Doliner via flickr. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "autoimmune diseases",
+      "Url": "https://nutritionfacts.org/topics/autoimmune-diseases/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "India",
+      "Url": "https://nutritionfacts.org/topics/india/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "pancreas health",
+      "Url": "https://nutritionfacts.org/topics/pancreas-health/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "type 1 diabetes",
+      "Url": "https://nutritionfacts.org/topics/type-1-diabetes/"
+    },
+    {
+      "Title": "vaccines",
+      "Url": "https://nutritionfacts.org/topics/vaccines/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I started speaking out about the link between human disease and paratuberculosis infection in milk and meat 15 years ago. As cynical as I can be at times, even I am shocked that the industry hasn’t done more to clean up its act. It reminds me of the bovine leukemia virus story. See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/is-bovine-leukemia-virus-in-milk-infectious/\">Is Bovine Leukemia Virus in Milk Infectious?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-bovine-leukemia-virus-in-breast-cancer/\">The Role of Bovine Leukemia Virus in Breast Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/industry-response-to-bovine-leukemia-virus-in-breast-cancer/\">Industry Response to Bovine Leukemia Virus in Breast Cancer</a></li>\n</ul>\n<p>If you missed the first two installments in this series, check out <a href=\"https://nutritionfacts.org/video/does-paratuberculosis-in-milk-trigger-type-1-diabetes/\">Does Paratuberculosis in Milk Trigger Type 1 Diabetes?</a> and <a href=\"https://nutritionfacts.org/video/meat-consumption-and-the-development-of-type-1-diabetes/\">Meat Consumption and the Development of Type 1 Diabetes</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

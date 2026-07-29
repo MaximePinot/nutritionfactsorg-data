@@ -1,0 +1,187 @@
+{
+  "Title": "Do NAD+ Levels Decline with Age?",
+  "Url": "https://nutritionfacts.org/video/do-nad-levels-decline-with-age/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/zysl70RCS5M"
+  },
+  "UpdatedAt": "2025-03-19T11:50:46+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 68",
+    "Url": "https://nutritionfacts.org/volumes/volume-68/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What is NAD+ and what role does it play in the aging process?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nNAD+ is an essential co-factor for hundreds of enzymes, including the purported anti-aging activities of sirtuins. In this ten-part series, I will go through the alphabet soup of NAD-boosting supplements on the market: NR, NMN, NA, NAM, NADH, NMNH, NRH, and tryptophan. I will then cover the pros and cons of each, and discuss three ways to naturally boost NAD levels without supplements.\nOur understanding of nicotinamide adenine dinucleotide (NAD+) arose from humble beginnings as a factor noted to enhance yeast fermentation in a 1906 paper unassumingly entitled “The Alcoholic Ferment of Yeast-Juice.” Little did they know that waves of NAD-related discoveries would go on to yield a total of four Nobel Prizes. NAD+ is now known as an essential molecule for all living organisms, required for the function of about 500 enzymes, including, notably, the extraction of metabolic energy from food. The 21st century has produced yet another scientific renaissance for NAD+ with the realization that it was critical for the activity of sirtuins, the “guardians of mammalian healthspan” I detail in my book, How Not to Age.\nNAD+ is one of the most abundant molecules in our body. Once considered relatively stable, it’s now known to be in a constant state of synthesis, recycling, and breakdown. The entire pool of NAD+ in some of our tissues is turned over several times a day. To maintain cellular vitality in the face of this turnover, an adequate supply of NAD+ precursors and sufficiently high enzyme activity synthesizing NAD+ are critical. The importance of NAD+ is exemplified by the devastating consequences of a deficiency of NAD+ precursors like niacin (vitamin B3). The deficiency syndrome, called pellagra, is characterized by the 4 Ds: dermatitis, dementia, diarrhea, and, eventually, death.\nThankfully, since life as we know it couldn’t exist without it, NAD+ and its precursors are found in everything we eat—plant, animal, or fungi—but we need to know how to get at them. The niacin in corn, for instance, is tightly bound up, but it can be released by presoaking in alkaline lime-water. Maize was exported from Latin America to become a dietary staple without the requisite knowledge about traditional processing techniques, though, and an epidemic of pellagra ensued. An estimated 100,000 Americans died from pellagra in the first few decades of the 20th century before bread started to be fortified with niacin in 1938.\nThe pitch for NAD+ boosting as an anti-aging strategy goes as follows. All species, including humans, naturally experience a decline in NAD+ levels over time, and this decline is, in fact, one of the major reasons organisms age. By restoring youthful levels, the argument goes, these age-related disorders can be delayed or even reversed. Two leaders in the field, one from Harvard and the other MIT, have said, respectively, that NAD+ boosters may “hold the promise of increasing the body’s resilience, not just to one disease, but to many, thereby extending healthy human lifespan,” and that sirtuin activation by NAD+ repletion “may be the most actionable item to emerge from aging research.” Of course, they have both been involved in multimillion-dollar dietary supplement companies.\nThe first premise, that NAD+ levels decline with age, has been called into question. For example, this 2022 review “Age-Dependent Decline of NAD+—Universal Truth or Confounded Consensus?” concluded that, despite systemic claims to the contrary, the evidence supporting the premise is very limited. Indeed, the most comprehensive study to date found significant changes in NAD+ levels in less than half of the tested tissues in old versus young mice. The human data are similarly inconsistent.\nNAD+ boosting supplement shills make claims like “By middle age, our NAD+ levels have plummeted to half that of our youth,” but the cited source only shows a drop (in brain levels) of about 13 percent between about the ages 20 to 60. A similar study estimated about an 18 percent drop from age 25 to 70, both broadly consistent with a 14 percent drop in spinal tap fluid samples taken from those over age 45 (average age 71), compared to those under age 45 (average age 34). It’s unclear if such modest differences would have any consequences, and a more recent study found no significant differences at all in brain nor muscle levels between a young group (average age 21) and an older group (average age 69).\nA study of skin samples found a greater than 50 percent drop in young adults, compared to the skin of newborns, and a further drop of about 60 percent from young adults to middle age. However, there did not seem to be a further decline from middle to old age. There was a small study that found the NAD+ levels in the liver samples of six older individuals (average age 66) was about 30 percent lower than that of six younger individuals (average age 39). NAD+ levels also may be lower in macrophage white blood cells in older individuals, but in the blood more generally, half the studies showed a decline with age, and the other half didn’t. By far the largest study (enrolling 10 times more people than the other studies combined) found a slight drop in NAD+ in the aging bloodstreams of men, but no drop in women.\nThe bottom line is that, given the conflicting results from the remarkably few studies on the subject, it’s misleading to say NAD+ universally decreases with age. Regardless, the proof is in the pudding. What about the second premise, that boosting levels late in life can improve health and longevity? We’ll address that question, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bagga P, Hariharan H, Wilson NE, et al. Single-Voxel 1 H MR spectroscopy of cerebral nicotinamide adenine dinucleotide (NAD+ ) in humans at 7T using a 32-channel volume coil. Magn Reson Med. 2020;83(3):806-814.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31502710/"
+    },
+    {
+      "Title": "Bogan KL, Brenner C. Nicotinic acid, nicotinamide, and nicotinamide riboside: a molecular evaluation of NAD+ precursor vitamins in human nutrition. Annu Rev Nutr. 2008;28:115-130.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18429699/"
+    },
+    {
+      "Title": "Chaleckis R, Murakami I, Takada J, Kondoh H, Yanagida M. Individual variability in human blood metabolites identifies age-related differences. Proc Natl Acad Sci U S A. 2016;113(16):4252-4259.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27036001/"
+    },
+    {
+      "Title": "Chini CCS, Tarragó MG, Chini EN. NAD and the aging process: Role in life, death and everything in between. Mol Cell Endocrinol. 2017;455:62-74.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27825999/"
+    },
+    {
+      "Title": "Clement J, Wong M, Poljak A, Sachdev P, Braidy N. The plasma NAD+ metabolome is dysregulated in \"normal\" aging. Rejuvenation Res. 2019;22(2):121-130.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30124109/"
+    },
+    {
+      "Title": "Elhassan YS, Kluckova K, Fletcher RS, et al. Nicotinamide riboside augments the aged human skeletal muscle NAD+ metabolome and induces transcriptomic and anti-inflammatory signatures. Cell Rep. 2019;28(7):1717-1728.e6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31412242/"
+    },
+    {
+      "Title": "Giblin W, Skinner ME, Lombard DB. Sirtuins: guardians of mammalian healthspan. Trends Genet. 2014;30(7):271-286.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24877878/"
+    },
+    {
+      "Title": "Goldstein J. Harvard researcher tied to Shaklee ‘anti-aging tonic’ Vivix. Wall Street Journal. Dec 2008.",
+      "Url": "https://www.wsj.com/amp/articles/BL-HEB-3860"
+    },
+    {
+      "Title": "Guest J, Grant R, Mori TA, Croft KD. Changes in oxidative damage, inflammation and [NAD(H)] with age in cerebrospinal fluid. PLoS One. 2014;9(1):e85335.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24454842"
+    },
+    {
+      "Title": "Harden A, Young WJ. The alcoholic ferment of yeast-juice. Part II.—The coferment of yeast-juice. Proc R Soc Lond B. 1906;78(526):369-375.",
+      "Url": "https://doi.org/10.1098/rspb.1906.0070"
+    },
+    {
+      "Title": "Jacobson MK, Jacobson EL. Vitamin B3 in health and disease: toward the second century of discovery. Methods Mol Biol. 2018;1813:3-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30097857/"
+    },
+    {
+      "Title": "Katsyuba E, Romani M, Hofer D, Auwerx J. NAD+ homeostasis in health and disease. Nat Metab. 2020;2(1):9-31.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32694684/"
+    },
+    {
+      "Title": "Kirkland JB, Meyer-Ficca ML. Niacin. In: adv Food Nutr Res. Vol 83. Elsevier; 2018:83-149.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29477227/"
+    },
+    {
+      "Title": "Liu L, Su X, Quinn WJ, et al. Quantitative analysis of NAD synthesis-breakdown fluxes. Cell Metab. 2018;27(5):1067-1080.e5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29685734/"
+    },
+    {
+      "Title": "Massudi H, Grant R, Braidy N, Guest J, Farnsworth B, Guillemin GJ. Age-associated changes in oxidative stress and NAD+ metabolism in human tissue. PLoS One. 2012;7(7):e42357.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22848760/"
+    },
+    {
+      "Title": "McReynolds MR, Chellappa K, Chiles E, et al. NAD+ flux is maintained in aged mice despite lower tissue concentrations. Cell Syst. 2021;12(12):1160-1172.e4.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34559996/"
+    },
+    {
+      "Title": "Minhas PS, Liu L, Moon PK, et al. Macrophage de novo NAD+ synthesis specifies immune function in aging and inflammation. Nat Immunol. 2019;20(1):50-63.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30478397/"
+    },
+    {
+      "Title": "NAD+ metabolism and signaling. Cell Metab. 2019;30(1):7-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31269430/"
+    },
+    {
+      "Title": "Peluso A, Damgaard MV, Mori MAS, Treebak JT. Age-dependent decline of NAD+ —universal truth or confounded consensus?. Nutrients. 2022;14(1):101.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35010977/"
+    },
+    {
+      "Title": "Pflanzer LR. A startup that's developed an anti-aging supplement just raised $20 million. Insider. Dec 2016.",
+      "Url": "https://www.businessinsider.com/elysium-health-raises-20-million-and-presents-clinical-data-2016-12"
+    },
+    {
+      "Title": "Rajman L, Chwalek K, Sinclair DA. Therapeutic potential of NAD-boosting molecules: the in vivo evidence. Cell Metab. 2018;27(3):529-547.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29514064/"
+    },
+    {
+      "Title": "Reiten OK, Wilvang MA, Mitchell SJ, Hu Z, Fang EF. Preclinical and clinical evidence of NAD+ precursors in health, disease, and ageing. Mech Ageing Dev. 2021;199:111567.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34517020/"
+    },
+    {
+      "Title": "Shade C. The science behind NMN –a stable, reliable NAD+activator and anti-aging molecule. Integr Med (Encinitas). 2020;19(1):12-14.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32549859/"
+    },
+    {
+      "Title": "Soma M, Lalam SK. The role of nicotinamide mononucleotide (NMN) in anti-aging, longevity, and its potential for treating chronic conditions. Mol Biol Rep. 2022;49(10):9737-9748.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35441939/"
+    },
+    {
+      "Title": "Strømland Ø, Diab J, Ferrario E, Sverkeli LJ, Ziegler M. The balance between NAD+ biosynthesis and consumption in ageing. Mech Ageing Dev. 2021;199:111569.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34509469/"
+    },
+    {
+      "Title": "Yang F, Deng X, Yu Y, et al. Association of human whole blood NAD+ contents with aging. Front Endocrinol (Lausanne). 2022;13:829658.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35388296/"
+    },
+    {
+      "Title": "Yang Y, Sauve AA. NAD+ metabolism: bioenergetics, signaling and manipulation for therapy. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics. 2016;1864(12):1787-1800.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27374990/"
+    },
+    {
+      "Title": "Zapata‐Pérez R, Wanders RJA, van Karnebeek CDM, Houtkooper RH. NAD + homeostasis in human health and disease. EMBO Mol Med. 2021;13(7):e13943.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34041853/"
+    },
+    {
+      "Title": "Zhou CC, Yang X, Hua X, et al. Hepatic NAD(+) deficiency as a therapeutic target for non-alcoholic fatty liver disease in ageing. Br J Pharmacol. 2016;173(15):2352-2368.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27174364/"
+    },
+    {
+      "Title": "Zhu XH, Lu M, Lee BY, Ugurbil K, Chen W. In vivo NAD assay reveals the intracellular NAD contents and redox state in healthy human brain and their age dependences. Proc Natl Acad Sci U S A. 2015;112(9):2876-2881.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25730862/"
+    },
+    {
+      "Title": "Ziegler M, Nikiforov AA. NAD on the rise again. Nat Metab. 2020;2(4):291-292.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32694607/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "diarrhea",
+      "Url": "https://nutritionfacts.org/topics/diarrhea/"
+    },
+    {
+      "Title": "How Not to Age",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-age/"
+    },
+    {
+      "Title": "NAD+",
+      "Url": "https://nutritionfacts.org/topics/nad/"
+    },
+    {
+      "Title": "skin health",
+      "Url": "https://nutritionfacts.org/topics/skin-health/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "yeast",
+      "Url": "https://nutritionfacts.org/topics/yeast/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the first video in my NAD+ series. Stay tuned for:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/can-nad-boosters-increase-lifespan-and-healthspan/\"><span style=\"font-weight: 400\">Can NAD+ Boosters Increase Lifespan and Healthspan?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinic-acid-na-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinic Acid (NA), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-nam-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide (NAM), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-riboside-nr-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide Riboside (NR), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-mononucleotide-nmn-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide Mononucleotide (NMN), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/lesser-known-nad-boosting-supplements-tryptophan-nadh-nmnh-and-nrh/\"><span style=\"font-weight: 400\">Lesser-Known NAD+ Boosting Supplements—Tryptophan, NADH, NMNH, and NRH</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-of-nad-boosting-supplements/\"><span style=\"font-weight: 400\">Risks of NAD+ Boosting Supplements</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/which-nad-booster-is-best/\"><span style=\"font-weight: 400\">Which NAD+ Booster Is Best?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-third-way-to-boost-nad/\"><span style=\"font-weight: 400\">The Third Way to Boost NAD+</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on aging, go to your local public library and check out </span><span style=\"font-weight: 400\">my longevity book, </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

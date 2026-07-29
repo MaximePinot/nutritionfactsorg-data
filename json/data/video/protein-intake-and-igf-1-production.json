@@ -1,0 +1,91 @@
+{
+  "Title": "Protein Intake and IGF-1 Production",
+  "Url": "https://nutritionfacts.org/video/protein-intake-and-igf-1-production/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/hcIkhffzrkk"
+  },
+  "UpdatedAt": "2012-10-01T11:20:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 10",
+    "Url": "https://nutritionfacts.org/volumes/volume-10/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Animal protein consumption triggers the release of the cancer-promoting growth hormone IGF-1.",
+  "Transcript": "What is the mechanism by which our diet can affect our levels of this cancer-promoting growth hormone IGF-1? Imagine you’re a kid with some Tinkertoys. Then, Christmas comes early, and you get one of those huge sets dumped down in front of you. All excited with this new load of building raw materials, you may really start scaling up. And basically, it’s the same thing with your liver and insulin-like growth factor 1.\nWhen you dump a load of protein on your body, your liver’s like whoa, look at all this. What are we going to do with all? We can’t just waste it; we’ve got to do something with it. Let’s just start growing stuff; add a few new additions, maybe a new wing. So your liver decides to start pumping out IGF-1 to tell all the cells in the body, it’s growin’ time! Be fruitful and multiply. Spare no expense, go crazy—look how much excess protein we got to work with!\nThe problem, of course, is that some of the new additions may be tumors. When you’re a fully grown adult, cell growth is something we want to slow down—not accelerate. So one might imagine the goal would be to maintain adequate, but non-excessive, overall protein intake—but wait a second.\nStudies have found no association between total protein intake and IGF-1 levels. Doesn’t that just go against everything I just said? Ah, but these studies didn’t take into account animal versus plant protein.\nIn this study of meat-eaters, vegetarians, and vegans, they found no significant difference in IGF levels between people eating lots of protein, compared to people eating less protein. But before ditching the theory that excessive protein intake boosts the levels of IGF-1, they decided to break it down into animal protein versus plant protein.\nHigher IGF-1 levels were just associated with animal protein intake. In fact, the plant protein seemed to decrease IGF-1 levels. So, no wonder there was no net effect of total protein intake. Animal protein appears to send a much different signal to our livers than most plant proteins. So even those vegans eating the same amount of protein as meat-eaters still had lower levels of the cancer-promoting hormone, IGF-1.\nSo, it’s apparently not about excessive protein in general, but animal protein in particular. And I’ll try to explain why tomorrow.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring watch the above video. This is just an approximation of the audio contributed by Kerry Skinner.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Allen NE, Appleby PN, Davey GK, Kaaks R, Rinaldi S, Key TJ. The Associations of Diet with Serum Insulin-like Growth Factor I and Its Main Binding Proteins in 292 Women Meat-Eaters, Vegetarians, and Vegans. Cancer Epidemiol Biomarkers Prev. 2002 Nov;11(11):1441-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12433724/"
+    },
+    {
+      "Title": "Ketelslegers JM, Maiter D, Maes M, Underwood LE, Thissen JP. Nutritional regulation of insulin-like growth factor-I. Metab Clin Exp. 1995;44(10 Suppl 4):50-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/7476312"
+    },
+    {
+      "Title": "Kleinberg DL, Wood TL, Furth PA, Lee AV. Growth hormone and insulin-like growth factor-I in the transition from normal mammary development to preneoplastic mammary lesions. Endocr Rev. 2009;30(1):51-74.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19075184"
+    }
+  ],
+  "Acknowledgements": "Images thanks to: ttrentham, danmachold, and Tinker*Tailor loves Lalka via flickr. Images have been modified.",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For background on IGF-1, see <a href=\"https://nutritionfacts.org/video/igf-1-as-one-stop-cancer-shop/\" rel=\"nofollow\">IGF-1 as One-Stop Cancer Shop</a> and <a href=\"https://nutritionfacts.org/video/cancer-proofing-mutation/\" rel=\"nofollow\">Cancer-Proofing Mutation</a>. In <a href=\"https://nutritionfacts.org/video/the-answer-to-the-pritikin-puzzle/\" rel=\"nofollow\">The Answer to the Pritikin Puzzle</a>, we established that the reason the blood of those eating plant-based diets appeared so much better at fighting cancer cell growth (see <a href=\"https://nutritionfacts.org/video/developing-an-ex-vivo-cancer-proliferation-bioassay/\" rel=\"nofollow\">Ex Vivo Cancer Proliferation Bioassay</a>) is likely due to the drop in IGF-1 levels, especially in those following vegan diets (see <a href=\"https://nutritionfacts.org/video/how-plant-based-to-lower-igf-1/\" rel=\"nofollow\">How Plant-Based to Lower IGF-1?</a>).  Now it appears we know why—their avoidance of animal protein. Let’s go one level deeper, and ask why animal protein preferentially triggers IGF-1 release. Stay tuned for my next video, <a href=\"https://nutritionfacts.org/video/higher-quality-may-mean-higher-risk/\" rel=\"nofollow\">Higher Quality May Mean Higher Risk</a>.</p>\n<p>For further context, be sure to check out my associated blog post: <a href=\"https://nutritionfacts.org/blog/animal-protein-and-igf-1/\"> Animal Protein and the Cancer Promoter IGF-1</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "Title": "Urinary Tract Infections from Eating Chicken",
+  "Url": "https://nutritionfacts.org/video/urinary-tract-infections-from-eating-chicken/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/FIYAu1dKVQE"
+  },
+  "UpdatedAt": "2018-09-24T11:50:28+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 44",
+    "Url": "https://nutritionfacts.org/volumes/volume-44/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Can UTI-causing ExPEC E. coli bacteria be transferred human-to-human from those who eat chicken?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nOnly about one in four people have heard of Campylobacter, compared to 90% familiar with Salmonella. “Although the incidence of these two…gastrointestinal infections is amazingly high,” infecting more than a million Americans every year, “it is…outranked by the incidence of” a bug even fewer people have likely heard of: ExPEC–extraintestinal [meaning outside of the intestines, like as in causing bladder infections] pathogenic [meaning disease-causing] E. coli resulting in millions of infections annually. “[M]ultiple lines of evidence indicat[e] poultry [may be] a major food animal reservoir for [bacteria that cause] urinary tract infections” in people, as I explored about five years ago. This is based not only on studies showing these kinds of E. coli from commercial chicken meat and eggs can cause blood infections, brain infections, and urinary tract infections in mouse models, studies on women with multidrug-resistant urinary tract infections do report significantly more frequent retail chicken consumption. Similarly, elderly chicken eaters were significantly more likely to have Cipro-resistant bladder infections compared to those eating no chicken at all. Pork was also associated with increased risk, but not beef.\n“There have been few observed associations between beef cattle or retail beef and human ExPEC [infections], suggesting that beef cattle are not a reservoir for human” bladder infections, whereas in chickens, of the up to 90% of chicken carcasses harboring E. coli, about 1 in 5 isolates tested “had the potential to cause [urinary tract infections].”\nWhat about eggs? We know retail chicken meat “is contaminated with ExPEC isolates that resemble the strains that cause human infections,” but what about retail chicken eggs? Instead of one in five being ExPEC in chicken meat, it was more like just one in 20 among eggs—closer to down around pork or beef levels.\nResearchers are so sure that chicken is the primary reservoir that when they find the same kind of strain in a vegetarian, they interpret that as people saying they’re vegetarian, but actually eating some chicken, or evidence of “human-to-human transmission,” or even shopping-cart-to-human transmission. Remember how most people fail to sanitize their hands after picking up a package of poultry in the grocery store? And so then, even “[a] shopper who’s not purchasing poultry could still be exposed” to poultry contamination, pushing the same cart after them. \n“It is difficult to estimate how much ExPEC exchange can be attributed to person-to-person contact” after a chicken consumer’s rectum has been colonized. Researchers went swabbing around public restrooms to try to quantify the risk—a thousand samples from 56 public restrooms in 33 establishments. They found lots of evidence of E. coli in general, particularly in public park restrooms and fast food joints—more than gas stations, which surprised me. But this was really surprising—women’s rooms were worse than men’s!\nBut only about 1% of the samples they took were positive for ExPEC bacteria, though they were recovered from non-toilet associated sites, that were not visibly contaminated. So, one might touch it with bare hands after like turning the faucet off after you’ve washed your hands, so the risk may not be fully eliminated by careful handwashing “or avoidance of fecal-appearing debris,” though that’s probably a good idea to avoid anyway. And, “using hand sanitizers after exiting the restroom,” not to mention in the meat aisle “after touching” a package of poultry, may offer additional protection.\nWhat proportion of the seven million bladder infections every year in the U.S. are due to chicken meat? Like, “if no more chicken were consumed, how many E. coli UTIs would be prevented?” “[H]ow much would the prevalence decline?” It’s hard to tell because of “the time lag between the acquisition and asymptomatic colonization of the intestine with an ExPEC organism and the development of an infection.” So, you eat some contaminated chicken today, and the UTI-causing ExPEC bacteria may hang out in your colon for months before making its way into your bladder and triggering an infection. The reason we know it can take that long is by studying the intestinal population dynamics of UTI-causing E. coli between partners. “Increased rectal-rectal transfers… might be explained by the high levels of E. coli present in the urine of an infected woman,” which could then be transferred over depending on….certain intimate practices.\nBottom-line, there is “compelling evidence that retail meat, particularly poultry, serves as an important reservoir for human exposure to antibiotic-resistant E. coli that is causing UTIs”—urinary tract infections. Thus, instead of just UTIs, maybe we should call them foodborne UTIs or “FUTIs”—or maybe pronounced F.U.TIs.\nSure, we could decrease the burden of these foodborne bladder infections by developing some sort of ExPEC vaccine, or we could just cut down our contact with fresh or frozen poultry. No harm; no fowl.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Allerberger F. Poultry and human infections. Clin Microbiol Infect. 2016;22(2):101-102.",
+      "Url": "https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(15)00916-7/abstract"
+    },
+    {
+      "Title": "Donelan AK, Chambers DH, Chambers E, Godwin SL, Cates SC. Consumer Poultry Handling Behavior in the Grocery Store and In-Home Storage. J Food Prot. 2016;79(4):582-588.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27052862"
+    },
+    {
+      "Title": "Foxman B, Manning SD, Tallman P, et al. Uropathogenic Escherichia coli are more likely than commensal E. coli to be shared between heterosexual sex partners. Am J Epidemiol. 2002;156(12):1133-1140.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12480658"
+    },
+    {
+      "Title": "Jones TF, Schaffner W. New perspectives on the persistent scourge of foodborne disease. J Infect Dis. 2005;191(7):1029-1031.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15747234"
+    },
+    {
+      "Title": "Manges AR, Johnson JR, Riley LW. Intestinal population dynamics of UTI-causing Escherichia coli within heterosexual couples. Curr Issues Intest Microbiol. 2004;5(2):49-58.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15460066"
+    },
+    {
+      "Title": "Manges AR, Smith SP, Lau BJ, et al. Retail meat consumption and the acquisition of antimicrobial resistant Escherichia coli causing urinary tract infections: a case-control study. Foodborne Pathog Dis. 2007;4(4):419-431.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18041952"
+    },
+    {
+      "Title": "Manges AR. Escherichia coli and urinary tract infections: the role of poultry-meat. Clin Microbiol Infect. 2016;22(2):122-129.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26679924"
+    },
+    {
+      "Title": "Mellata M, Johnson JR, Curtiss R. Escherichia coli isolates from commercial chicken meat and eggs cause sepsis, meningitis and urinary tract infection in rodent models of human infections. Zoonoses Public Health. 2018;65(1):103-113.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28703468"
+    },
+    {
+      "Title": "Mitchell NM, Johnson JR, Johnston B, Curtiss R, Mellata M. Zoonotic potential of Escherichia coli isolates from retail chicken meat products and eggs. Appl Environ Microbiol. 2015;81(3):1177-1187.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25480753"
+    },
+    {
+      "Title": "Mohamed M, Owens K, Gajewski A, et al. Extraintestinal Pathogenic and Antimicrobial-Resistant Escherichia coli Contamination of 56 Public Restrooms in the Greater Minneapolis-St. Paul Metropolitan Area. Appl Environ Microbiol. 2015;81(13):4498-4506.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25911488"
+    },
+    {
+      "Title": "Mulder M, Kiefte-de Jong JC, Goessens WH, et al. Risk factors for resistance to ciprofloxacin in community-acquired urinary tract infections due to Escherichia coli in an elderly population. J Antimicrob Chemother. 2017;72(1):281-289.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27655855"
+    },
+    {
+      "Title": "Nordstrom L, Liu CM, Price LB. Foodborne urinary tract infections: a new paradigm for antimicrobial-resistant foodborne illness. Front Microbiol. 2013;4:29.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23508293"
+    },
+    {
+      "Title": "Singer RS. Urinary tract infections attributed to diverse ExPEC strains in food animals: evidence and data gaps. Front Microbiol. 2015;6:28.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25699025"
+    },
+    {
+      "Title": "Stromberg ZR, Johnson JR, Fairbrother JM, et al. Evaluation of Escherichia coli isolates from healthy chickens to determine their potential risk to poultry and human health. PLoS ONE. 2017;12(7):e0180599.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28671990"
+    }
+  ],
+  "Acknowledgements": "Image credit: Bill via Adobe Stock Images. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "bladder health",
+      "Url": "https://nutritionfacts.org/topics/bladder-health/"
+    },
+    {
+      "Title": "bladder infections",
+      "Url": "https://nutritionfacts.org/topics/bladder-infections/"
+    },
+    {
+      "Title": "Campylobacter",
+      "Url": "https://nutritionfacts.org/topics/campylobacter/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "E. coli",
+      "Url": "https://nutritionfacts.org/topics/e-coli/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "Salmonella",
+      "Url": "https://nutritionfacts.org/topics/salmonella/"
+    },
+    {
+      "Title": "urinary tract infections",
+      "Url": "https://nutritionfacts.org/topics/urinary-tract-infections/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Here’s the video I referred to: <a href=\"https://nutritionfacts.org/video/how-to-shop-for-handle-and-store-chicken/\">How to Shop for, Handle, &amp; Store Chicken </a></p>\n<p>But wait, who eats undercooked chicken? It’s typically a cross-contamination problem: <a href=\"https://nutritionfacts.org/video/food-poisoning-bacteria-cross-contamination/\">Food-Poisoning Bacteria Cross-Contamination</a></p>\n<p>There is particular concern these days about antibiotic-resistant infections: <a href=\"https://nutritionfacts.org/video/past-the-age-of-miracles-facing-a-post-antibiotic-age/\">Past the Age of Miracles: Facing a Post-Antibiotic Age</a></p>\n<p>Would buying organic be better? See: <a href=\"https://nutritionfacts.org/video/superbugs-in-conventional-vs-organic-chicken/\">Superbugs in Conventional vs. Organic Chicken</a></p>\n<p>What about treating UTIs? <a href=\"https://nutritionfacts.org/video/can-cranberry-juice-treat-bladder-infections/\">Can Cranberry Juice Treat Bladder Infections?</a> and <a href=\"https://nutritionfacts.org/video/what-about-kosher-and-organic-chicken/\">What About Kosher and Organic Chicken?</a> Check out the videos! </p>\n<p>In 2021 and 2022, I released a couple new videos on antibiotic resistance. Check out <a href=\"https://nutritionfacts.org/video/the-human-health-effects-of-cultivated-meat-antibiotic-resistance/\">The Human Health Effects of Cultivated Meat: Antibiotic Resistance</a> and <a href=\"https://nutritionfacts.org/video/antibiotic-resistance-genes-in-the-guts-of-vegetarians-vs-meat-eaters/\">Antibiotic Resistance Genes in the Guts of Vegetarians vs. Meat-Eaters</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

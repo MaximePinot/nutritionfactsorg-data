@@ -1,0 +1,91 @@
+{
+  "Title": "What Is the Best Statin Cholesterol-Lowering Drug?",
+  "Url": "https://nutritionfacts.org/video/what-is-the-best-statin-cholesterol-lowering-drug/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/A4Qmtf71Ig0"
+  },
+  "UpdatedAt": "2025-12-15T12:50:42+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 71",
+    "Url": "https://nutritionfacts.org/volumes/volume-71/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Which is the safest and most effective statin?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nNo fewer than 13 Nobel Prizes have been awarded to scientists researching cholesterol, culminating in a constellation of new cholesterol-lowering modalities. Let me simplify. Here’s your liver, a blood vessel, and bit of your intestine. Our liver can make cholesterol from scratch through a long series of reactions—I’ve shown just two here, which can then be packaged and end up as LDL in our bloodstream to deliver cholesterol throughout the body. Now, we don’t want to have too much, as it can lodge in our artery walls, become oxidized, and trigger inflammation that can lead to atherosclerotic plaque and kill us. So, our liver also has LDL receptors that pull LDL out of the blood, and dispose of the cholesterol through our bile by dumping it into our digestive tract, presuming our intestines will be packed with dietary fiber that will trap it and ultimately flush it away. But if the cholesterol doesn’t get trapped, it can be reabsorbed, and get repackaged as LDL and re-enter our bloodstream. The same if we eat a bunch of cholesterol, but the most important dietary determinant of cholesterol is saturated fat. That reduces the number of LDL receptors; so, more LDL stays in our blood.\nThere’s also a protein called PCSK9, made in our liver, that helps break down LDL receptors. I did a video about longevity syndromes, where people who have a faulty PCSK9 gene luckily leading to more LDL receptors and a 90% drop in heart disease risk. We can also boost our number of LDL receptors to pull more LDL out of our blood by cutting down on saturated fat intake.\nBut where do drugs come in? Well, we can cut down on cholesterol production by blocking formation here or here. That’s where statins come in, or a new kid on the block called bempedoic acid. We could also block the absorption and re-absorption of cholesterol with a drug called ezetimibe. Or, we can block the production of PCSK9, or the activity of PCSK9, so that we can maintain our LDL receptors to pull more LDL out of our blood.\nThese PCSK9 inhibitors cost about $6,000 a year. Inclisiran is more like $10,000 for the first year. And a combo of bempedoic acid and ezetimibe is about $5,000 a year, whereas statins are typically free with insurance, and even out of pocket could just be like 50 bucks a year, especially since you can take the two long-acting ones—atorvastatin and rosuvastatin—every other day, and cut the cost in half. You can see why statins are the first-line treatment and have been for nearly 40 years. We actually just lost Dr. Endo, who discovered the first statin.\nMicrobes are constantly at war with each other. We look to fungus like penicillin for compounds that kill bacteria, and we look to bacteria to find antifungal drugs. Since some microbes rely on cholesterol-like sterols, he was hoping to find some other microbe that produced an anti-sterol production compound, and after years looking at approximately 6,000 different microbes, in 1972, he came across this one––a blue-green mold that produced something that worked. If he had given up after 5,000 attempts, then millions more people may have died prematurely in the ensuing decades.\nIf you are going to start a statin, which one’s best? There are seven on the market, lowering LDL levels from about 20 to 60%, based on brand and dose. In terms of comparative effectiveness and safety for primary prevention, atorvastatin and rosuvastatin were most effective in reducing cardiovascular disease events, while atorvastatin appeared to have the best safety profile. No wonder atorvastatin became the best-selling drug of all time, raking in more than a hundred billion dollars as Lipitor before it went off patent in 2011.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Awad K, Mikhailidis DP, Toth PP, et al. Efficacy and safety of alternate-day versus daily dosing of statins: a systematic review and meta-analysis. Cardiovasc Drugs Ther. 2017;31(4):419-431.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28741244/"
+    },
+    {
+      "Title": "Banach M, Surma S, Toth PP, endorsed by the International Lipid Expert Panel (ILEP). 2023: The year in cardiovascular disease - the year of new and prospective lipid lowering therapies. Can we render dyslipidemia a rare disease by 2024? Arch Med Sci. 2023;19(6):1602-1615.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38058712/"
+    },
+    {
+      "Title": "Endo A. A gift from nature: the birth of the statins. Nat Med. 2008;14(10):1050-1052.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18841147/"
+    },
+    {
+      "Title": "Endo A. The discovery and development of HMG-CoA reductase inhibitors. J Lipid Res. 1992;33(11):1569-1582.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1464741/"
+    },
+    {
+      "Title": "Goldstein JL, Brown MS. Akira Endo, who discovered a “penicillin” for heart attacks (1933 to 2024). Proc Natl Acad Sci USA. 2024;121(40):e2416550121.",
+      "Url": "https://www.pnas.org/doi/10.1073/pnas.2416550121"
+    },
+    {
+      "Title": "HJ Larsen, Bugwood.org.",
+      "Url": "https://www.insectimages.org/browse/detail.cfm?imgnum=5362200"
+    },
+    {
+      "Title": "Mustad VA, Etherton TD, Cooper AD, et al. Reducing saturated fat intake is associated with increased levels of LDL receptors on mononuclear cells in healthy men and women. J Lipid Res. 1997;38(3):459-468.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9101427/"
+    },
+    {
+      "Title": "Paparodis RD, Bantouna D, Livadas S, Angelopoulos N. Statin therapy in primary and secondary cardiovascular disease prevention. Curr Atheroscler Rep. 2024;27(1):21.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/39738779/"
+    },
+    {
+      "Title": "U-Prevent.com",
+      "Url": "https://www.U-Prevent.com"
+    },
+    {
+      "Title": "Yebyo HG, Aschmann HE, Kaufmann M, Puhan MA. Comparative effectiveness and safety of statins as a class and of specific statins for primary prevention of cardiovascular disease: A systematic review, meta-analysis, and network meta-analysis of randomized trials with 94,283 participants. Am Heart J. 2019;210:18-28.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30716508/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "statins",
+      "Url": "https://nutritionfacts.org/topics/statins/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the fourth video in an extended series on the critically important topic of how to lower LDL cholesterol, the primary driver of our primary killer. In this series, we take a deep dive into how to lower cholesterol through diet. We’ll explore the Portfolio Diet, plant sterols, and cholesterol-lowering supplements, foods, herbs, and spices, then conclude with my Portfolio Plus Powder recipe “cooking” video.</span></p>\n<p><span style=\"font-weight: 400\">If you don’t want to wait for all the videos to be released over time, we’ve compiled all the information into my latest book, </span><a href=\"https://nutritionfacts.org/book/portfolio/\"><b>Lower Cholesterol Naturally with Food</b></a><span style=\"font-weight: 400\">, available as a softcover, ebook, and audiobook.</span></p>\n<p><span style=\"font-weight: 400\">If you missed the previous videos in this series, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/why-isnt-everyone-on-cholesterol-lowering-statin-drugs/\"><span style=\"font-weight: 400\">Why Isn’t Everyone on Cholesterol-Lowering Statin Drugs?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-effective-are-statins/\"><span style=\"font-weight: 400\">How Effective Are Statins?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-side-effects-of-statins-are-they-worth-it/\"><span style=\"font-weight: 400\">The Side Effects of Statins: Are They Worth It?</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">Stay tuned for more videos in this extended series coming out in a couple months.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

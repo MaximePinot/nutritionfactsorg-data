@@ -1,0 +1,123 @@
+{
+  "Title": "Food Sources of Flame-Retardant Chemicals",
+  "Url": "https://nutritionfacts.org/video/food-sources-of-flame-retardant-chemicals/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/joQ7Oqxde4U"
+  },
+  "UpdatedAt": "2012-10-29T11:29:13+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Other than pet food and fish (which may be most contaminated), how do fire-retardant chemicals (PBDEs) and polychlorinated naphthalenes (PCNs) concentrate in the American food supply?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhat are they eating in New York? I bet it’s more than just big apples. You may remember me covering this study a few years ago, which showed that the primary sources of flame-retardant chemicals in the American diet (with the exception of infants, who get all the pollution straight from their moms) are meat, fish, dairy, and eggs.\nBut, which kind of meat is the worst? We didn’t know, until recently. We know fish is the worst—and this is for halibut, which is actually one of the least contaminated. But, in terms of other meats, second only to fish in terms of contamination—poultry; then pork; then beef. What’s this one here, though, between chicken and fish? Turkey.\nSo, bottom line: white meat is more contaminated with flame-retardant chemical pollutants than red, though the highest concentrations are actually found in dogs’ and cats’ food.\nWhat about polychlorinated naphthalenes? Until this study was published, “Information on the occurrence of [these] toxicologically significant [industrial pollutants] in food, or on human exposure, [was] sparse.”  “…PCNs…are chlorinated polycyclic aromatic hydrocarbons—a potentially vast group of little-known environmental contaminants of [human] origin,” whose chemical structure “can bestow a dioxin-like mode of toxic action.” Say no more.\nThough banned in many countries, which aisle might we still find the most in the grocery store? The bread shelves? The dairy case? Would it be in the deli? The egg section? Fish counter? Or, would it be in the produce department?\nThe worst was fish, with the worst of the worst—farmed salmon—followed closely by organic salmon. Then comes poultry and eggs. Let’s zoom in a bit here. Red meat has less; the worst being lamb. Then comes dairy.\nAnd, at the bottom of the food chain, vegetables, fruit, and bread. So, about ten times less than meat, dairy, and eggs. And, about a hundred times safer than fish—which gives us an idea of the route we may want to take through the supermarket.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Huwe JK, West M. Polybrominated diphenyl ethers in U.S. Meat and poultry from two statistically designed surveys showing trends and levels from 2002 to 2008. Agric Food Chem. 2011 May 25;59(10):5428-34.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21491934"
+    },
+    {
+      "Title": "Schecter A, Päpke O, Harris TR, Tung KC, Musumba A, Olson J, Birnbaum L. Polybrominated diphenyl ether (PBDE) levels in an expanded market basket survey of U.S. food and estimated PBDE dietary intake by age and sex. Environ Health Perspect. 2006 Oct;114(10):1515-20.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1626425/pdf/ehp0114-001515.pdf"
+    },
+    {
+      "Title": "Venier M, Hites RA. Flame retardants in the serum of pet dogs and in their food. Environ Sci Technol. 2011 May 15;45(10):4602-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21500827"
+    }
+  ],
+  "Acknowledgements": "Images thanks to izik; ed_needs_a_bicycle; Katie@!; edmittance; techvt; goforchris; UGA College of Ag; www.bluewaikiki.com; akeg; Scorpions and Centaurs; ChiaLynn; Dave McLean; rofanator; pyjama; Quinn Dombrowski; and SliceOfChic via flickr",
+  "Topics": [
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "breast milk",
+      "Url": "https://nutritionfacts.org/topics/breast-milk/"
+    },
+    {
+      "Title": "breastfeeding",
+      "Url": "https://nutritionfacts.org/topics/breastfeeding/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "dioxins",
+      "Url": "https://nutritionfacts.org/topics/dioxins/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "industrial pollutants",
+      "Url": "https://nutritionfacts.org/topics/industrial-pollutants/"
+    },
+    {
+      "Title": "infant formula",
+      "Url": "https://nutritionfacts.org/topics/infant-formula/"
+    },
+    {
+      "Title": "lamb",
+      "Url": "https://nutritionfacts.org/topics/lamb/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    },
+    {
+      "Title": "pets",
+      "Url": "https://nutritionfacts.org/topics/pets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "red meat",
+      "Url": "https://nutritionfacts.org/topics/red-meat/"
+    },
+    {
+      "Title": "salmon",
+      "Url": "https://nutritionfacts.org/topics/salmon/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>My mention of New Yorkers is a reference to <a href=\"../video/pollutants-in-californian-breast-tissue\" rel=\"nofollow\">Pollutants in Californian Breast Tissue</a>. The PBDE video I then refer to is <a href=\"../video/flame-retardant-chemical-contamination-2/\" rel=\"nofollow\">Flame-Retardant Chemical Contamination</a>. The highest levels of pollutants in fish should come as no surprise. Everything eventually flows down into our oceans, which have become humanity’s <em>de facto</em> sewer. This is exemplified in videos such as <a href=\"../video/food-sources-of-pcb-chemical-pollutants/\" rel=\"nofollow\">Food Sources of PCB Chemical Pollutants</a>; <a href=\"../video/is-distilled-fish-oil-toxin-free/\" rel=\"nofollow\">Is Distilled Fish Oil Toxin Free?</a>; and <a href=\"../video/xenoestrogens-early-puberty/\" rel=\"nofollow\">Xenoestrogens &amp; Early Puberty</a>. Then, there’s the whole mercury issue. For videos on that, see <a href=\"../video/nerves-of-mercury/\" rel=\"nofollow\">Nerves of Mercury</a>; <a href=\"../video/hair-testing-for-mercury-before-considering-pregnancy/\" rel=\"nofollow\">Hair Testing For Mercury Before Considering Pregnancy</a>; and <a href=\"../video/the-effect-of-canned-tuna-on-future-wages/\" rel=\"nofollow\">The Effect of Canned Tuna on Future Wages</a>. Tomorrow, we look at how much of the banned pesticide DDT we’re still passing along to the next generation in <a href=\"../video/ddt-in-umbilical-cord-blood/\" rel=\"nofollow\">DDT in Umbilical Cord Blood</a>.</p>\n<p>For additional context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2013/03/19/pollutants-in-californian-breast-tissue/\"> Pollutants in Californian Breast Tissue</a>; <a href=\"https://nutritionfacts.org/2013/03/21/protecting-our-babies-from-pollutants/\">Protecting Our Babies From Pollutants</a>; <a href=\"https://nutritionfacts.org/2013/08/15/why-are-children-starting-puberty-earlier/\">Why Are Children Starting Puberty Earlier?</a> and <a href=\"https://nutritionfacts.org/2014/02/11/fukushima-and-radioactivity-in-seafood/\">Fukushima Radiation and Seafood</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

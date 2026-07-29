@@ -1,0 +1,151 @@
+{
+  "Title": "What About Kosher and Organic Chicken?",
+  "Url": "https://nutritionfacts.org/video/what-about-kosher-and-organic-chicken/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/RyP5Cnc-vxk"
+  },
+  "UpdatedAt": "2018-12-24T12:49:30+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 45",
+    "Url": "https://nutritionfacts.org/volumes/volume-45/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Comparing contamination rates for antibiotic-resistant E. coli and ExPEC bacteria that cause urinary tract infections",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMillions of Americans come down with bladder infections—urinary tract infections— every year, including more than a million children. Most cases stay in the bladder, but when the bacteria creep up into the kidneys, or get into the bloodstream, things can get serious. Thankfully, we have antibiotics. But there is now a pandemic of a new multi-drug resistant strain of E. coli. Discovered just in 2008, and now this so-called ST131 strain went from unknown to a leading cause of bladder infections the world over, resistant to even some of our 2nd and 3rd line antibiotics.  And it’s been found in chicken, retail chicken breasts sampled from across the country, documenting a “persisting reservoir of extensively antimicrobial-resistant ExPEC [bacteria],” the extra-intestinal pathogenic E. coli—including the ST131 strain—”in retail chicken products in the United States, suggesting a potential public health threat.”\nSee, urinary tract infections may be foodborne, by which they mean predominantly poultry—chicken and turkey—and so, maybe we shouldn’t be feeding antibiotics to these animals by the ton in poultry production. But wait, foodborne bladder infections? What are you doing with that drumstick? No, eating contaminated chicken can lead to the colonization of the rectum with these bacteria that can then, even months later, crawl up into the bladder to cause an infection.\n“The problem of increasing [anti-microbial resistance] is so dire that some experts are predicting that the era of antibiotics may be coming to an end,…ushering in a ‘post-antibiotic era,’ in which common infections and minor injuries can [once again] kill.” More than 80 percent of E. coli isolated from beef, pork, and poultry “exhibited resistance” to at least one antibiotic, and more than half from poultry were resistant to five different drugs. One of the ways this happens is that viruses, called bacteriophages, can transfer antibiotic resistance genes between bacteria. About a quarter of these viruses isolated from chicken meat were found “able to transduce” antibiotic drug resistance into E. coli. And one of the big problems with this is that “disinfectants used to kill bacteria are, in many cases, not able to eliminate these [viruses].” Some of these viruses are even resistant to bleach at the kinds of concentrations used in the food industry; and likewise, alcohol, which is what you find in many hand sanitizers, also unable to harm most of them.\nThe irony is that the industry has tried to intentionally feed these viruses to chickens. Why would they do that? It can boost egg production in hens, and increase body weight gain in broiler chickens to get them to slaughter weight faster. The only thing that seems to dissuade the industry is if anything affects the taste of the meat. That’s why the industry had to stop spraying chickens with benzene to try to kill off all the parasites. The meat ended up with “a distasteful flavor,” described as “strong, acidic, musty, medicinal, biting, objectionable,” and….hmm, tasty.\nBut, what if you buy organic chicken? For another type of bacteria, enterococcus, antibiotic-resistant bugs were found in both conventional and organically raised chicken, but were less common in organic. Only about one in three contaminated with drug-resistant bugs, compared to nearly one in two. But in a study of hundreds of prepackaged retail chicken breasts tested from 99 grocery stores, being labeled organic or antibiotic-free did not seem to impact the contamination levels of antibiotic-resistant E. coli from fresh retail chicken, though purchasing meat from natural food stores appeared to be safer, regardless of how it was labeled.\nKosher chicken appeared to be the worst, nearly twice the level of antibiotic-resistant E. coli contamination compared to conventional, which goes against the whole concept of kosher. No difference in drug resistance between the E. coli swabbed from conventional chicken versus organic and raised-without-antibiotics- chicken, but either way, kosher was worse. But how could organic and raised-without-antibiotics-chicken not be better? Well, it could be cross-contamination at the slaughter plants; so, bugs just jump from one to the other.\nOr, it could be the organic chicken loophole. USDA organic standards prohibits the use of antibiotics in poultry “starting on day two of the animal’s life. This is an important loophole,” since even antibiotics “considered critical for human health” are “routinely injected” into one-day-old chicks and eggs, which has been directly associated with antibiotic-resistant foodborne infections.\nAnd, there was no difference in the presence of ExPEC bacteria between organic and conventional, the bacteria implicated in urinary tract infections. “These findings suggest that retail chicken products in the United States, even if they are labeled ‘organic,’ pose a potential health threat to consumers because they are contaminated with extensively antibiotic-resistant…E. coli.” And even if we were able to get the poultry industry to stop using antibiotics, the contamination of chicken meat with ExPEC bacteria could still remain a threat.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Adhikari PA, Cosby DE, Cox NA, Lee JH, Kim WK. Effect of dietary bacteriophage supplementation on internal organs, fecal excretion, and ileal immune response in laying hens challenged by Salmonella Enteritidis. Poult Sci. 2017;96(9):3264-3271.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28453774"
+    },
+    {
+      "Title": "Allerberger F. Poultry and human infections. Clin Microbiol Infect. 2016;22(2):101-102.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26493846"
+    },
+    {
+      "Title": "Gadde U, Kim WH, Oh ST, Lillehoj HS. Alternatives to antibiotics for maximizing growth performance and feed efficiency in poultry: a review. Anim Health Res Rev. 2017;18(1):26-45.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28485263"
+    },
+    {
+      "Title": "Hixson E, Muma MH. Effect of Benzene Hexachloride on the Flavor of Poultry Meat. Science. 1947;106(2757):422-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17737972"
+    },
+    {
+      "Title": "Johnson JR, Kuskowski MA, Smith K, O'bryan TT, Tatini S. Antimicrobial-resistant and extraintestinal pathogenic Escherichia coli in retail foods. J Infect Dis. 2005;191(7):1040-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15747237"
+    },
+    {
+      "Title": "Johnson JR, Porter S, Thuras P, Castanheira M. The Pandemic 30 Subclone of Sequence Type 131 (ST131) as the Leading Cause of Multidrug-Resistant Infections in the United States (2011-2012). Open Forum Infect Dis. 2017;4(2):ofx089.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28638846"
+    },
+    {
+      "Title": "Johnson JR, Porter SB, Johnston B, et al. Extraintestinal Pathogenic and Antimicrobial-Resistant Escherichia coli, Including Sequence Type 131 (ST131), from Retail Chicken Breasts in the United States in 2013. Appl Environ Microbiol. 2017;83(6).",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28062464"
+    },
+    {
+      "Title": "Jones TF, Schaffner W. New perspectives on the persistent scourge of foodborne disease. J Infect Dis. 2005;191(7):1029-31.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15747234"
+    },
+    {
+      "Title": "Kilonzo-nthenge A, Brown A, Nahashon SN, Long D. Occurrence and antimicrobial resistance of enterococci isolated from organic and conventional retail chicken. J Food Prot. 2015;78(4):760-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25836402"
+    },
+    {
+      "Title": "Millman JM, Waits K, Grande H, et al. Prevalence of antibiotic-resistant E. coli in retail chicken: comparing conventional, organic, kosher, and raised without antibiotics. F1000Res. 2013;2:155.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24555073"
+    },
+    {
+      "Title": "Mollenkopf DF, Cenera JK, Bryant EM, et al. Organic or antibiotic-free labeling does not impact the recovery of enteric pathogens and antimicrobial-resistant Escherichia coli from fresh retail chicken. Foodborne Pathog Dis. 2014;11(12):920-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25405393"
+    },
+    {
+      "Title": "Nicolas-chanoine MH, Bertrand X, Madec JY. Escherichia coli ST131, an intriguing clonal group. Clin Microbiol Rev. 2014;27(3):543-74.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24982321"
+    },
+    {
+      "Title": "Nordstrom L, Liu CM, Price LB. Foodborne urinary tract infections: a new paradigm for antimicrobial-resistant foodborne illness. Front Microbiol. 2013;4:29.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23508293"
+    },
+    {
+      "Title": "Samant SS, Crandall PG, O'bryan C, Lingbeck JM, Martin EM, Seo HS. Sensory impact of chemical and natural antimicrobials on poultry products: a review. Poult Sci. 2015;94(7):1699-710.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26015590"
+    },
+    {
+      "Title": "Shousha A, Awaiwanont N, Sofka D, et al. Bacteriophages Isolated from Chicken Meat and the Horizontal Transfer of Antimicrobial Resistance Genes. Appl Environ Microbiol. 2015;81(14):4600-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25934615"
+    }
+  ],
+  "Acknowledgements": "Image credit: Dr Graham Beards via Wikipedia. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "benzene",
+      "Url": "https://nutritionfacts.org/topics/benzene/"
+    },
+    {
+      "Title": "bladder health",
+      "Url": "https://nutritionfacts.org/topics/bladder-health/"
+    },
+    {
+      "Title": "bladder infections",
+      "Url": "https://nutritionfacts.org/topics/bladder-infections/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "E. coli",
+      "Url": "https://nutritionfacts.org/topics/e-coli/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "organic foods",
+      "Url": "https://nutritionfacts.org/topics/organic-foods/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "urinary tract infections",
+      "Url": "https://nutritionfacts.org/topics/urinary-tract-infections/"
+    },
+    {
+      "Title": "USDA",
+      "Url": "https://nutritionfacts.org/topics/usda/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Wait, <a href=\"https://nutritionfacts.org/video/urinary-tract-infections-from-eating-chicken/\">Urinary Tract Infections from Eating Chicken</a>? Check out the video!</p>\n<p>Here’s another one on reducing your risk: <a href=\"https://nutritionfacts.org/video/how-to-shop-for-handle-and-store-chicken/\">How to Shop for, Handle, &amp; Store Chicken </a></p>\n<p>Can’t you just cook the meat through? I mean, who eats undercooked chicken? See <a href=\"https://nutritionfacts.org/video/food-poisoning-bacteria-cross-contamination/\">Food Poisoning Bacteria Cross-Contamination</a> for why millions continue to be sickened every year.</p>\n<p>I’ve done some other organic meat vids if you’re interested. See, for example, <a href=\"https://nutritionfacts.org/video/superbugs-in-conventional-vs-organic-chicken/\">Superbugs in Conventional vs. Organic Chicken</a> and <a href=\"https://nutritionfacts.org/video/how-much-lead-is-in-organic-chicken-soup-bone-broth/\">How Much Lead Is in Organic Chicken Soup (Bone Broth)?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

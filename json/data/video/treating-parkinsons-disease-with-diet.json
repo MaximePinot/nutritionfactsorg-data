@@ -1,0 +1,207 @@
+{
+  "Title": "Treating Parkinson’s Disease with Diet",
+  "Url": "https://nutritionfacts.org/video/treating-parkinsons-disease-with-diet/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/fBwU4ElBJxU"
+  },
+  "UpdatedAt": "2013-03-04T12:23:09+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 12",
+    "Url": "https://nutritionfacts.org/volumes/volume-12/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Plant-based diets in general, and certain plant foods in particular, may be used to successfully treat Parkinson’s disease—in part, by boosting L-DOPA levels.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nCaffeine consumption, both in Asian and Western populations, appears to protect against the development of Parkinson’s disease. But, what if you already have it?  \nA new study found that giving folks the equivalent of about two cups of coffee a day worth of caffeine significantly improved symptoms of the disease. Of course, there’s only so much you can charge for coffee, so drug companies took caffeine, and added a side group so they could patent it into new drugs, which appear to work no better than plain caffeine—which is dramatically cheaper, and probably safer.\nSimilarly, other plant foods, such as berries, may be protective. And, plant-based diets, in general, may help prevent Parkinson’s. Animal fat and dairy may increase risk, whereas “a plant-based diet dietary pattern may protect against [Parkinson’s disease].” We don’t know if it’s the animal fat per se, though; it could be the animal protein that’s increasing risk, or maybe it’s the dairy, the mercury in fish, the blood-based heme iron, or less of the protective antioxidants in plant foods and plant-based diets. We didn’t know, until recently.\nThere have been successful case reports, like this one, in which a dietician was struck down with Parkinson’s, and she was able to clear most of her symptoms with a plant-based diet rich in strawberries, whole wheat, and brown rice—rich sources of these two phytonutrients. But, there hasn’t been a formal interventional trial published—until now.\nAt its root, Parkinson’s is a dopamine-deficiency disease, because of a die-off of dopamine-generating cells in the brain. These cells make dopamine from L-dopa, derived from certain amino acids in our diet. But, just like we saw with the serotonin story, the consumption of animal protein may block the transport of L-dopa into the brain, crowding it out.\nSo, at first, researchers tried what’s called a “protein redistribution diet.” Let’s basically only let people eat meat for supper, so that patients are hopefully sleeping by the time the negative effects kick in. But researchers didn’t consider cutting out all animal products altogether, until it was discovered that fiber consumption naturally boosts L-dopa levels. So, hey, “a plant-based diet, particularly in its vegan variant, is expected to raise levodopa bioavailability and bring some advantages in the management of [Parkinson’s] disease through two mechanisms: a reduced protein intake and an increased fiber intake…”\nThat’s why plant protein works best, because that’s where fiber is found. So, they put people on a strictly vegan diet, keeping beans towards the end of the day, and indeed found a significant improvement in symptoms.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Astarloa R, Mena MA, Sánchez V, de la Vega L, de Yébenes JG. Clinical and pharmacokinetic effects of a diet rich in insoluble fiber on Parkinson disease. Clin Neuropharmacol. 1992 Oct;15(5):375-80.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/1330307"
+    },
+    {
+      "Title": "Bracco F, Malesani R, Saladini M, Battistin L. Protein redistribution diet and antiparkinsonian response to levodopa. Eur Neurol. 1991;31(2):68-71.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/2044618"
+    },
+    {
+      "Title": "J. H. Pincus, K. M. Barry. Plasma levels of amino acids correlate with motor fluctuations in parkinsonism. Arch. Neurol. 1987 44(10):1006 - 1009",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/3632370"
+    },
+    {
+      "Title": "K. Tanaka, Y. Miyake, W. Fukushima, S. Sasaki, C. Kiyohara, Y. Tsuboi, T. Yamada, T. Oeda, T. Miki, N. Kawamura, N. Sakae, H. Fukuyama, Y. Hirota, M. Nagai. Intake of Japanese and Chinese teas reduces risk of Parkinson's disease. Parkinsonism Relat. Disord. 2011 17(6):446 - 450",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21458354"
+    },
+    {
+      "Title": "L. Baroni, C. Bonetto, F. Tessan, D. Goldin, L. Cenci, P. Magnanini, G. Zuliani. Pilot dietary study with normoproteic protein-redistributed plant-food diet and motor performance in patients with Parkinson's disease. Nutr Neurosci 2011 14(1):1 - 9",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21535916"
+    },
+    {
+      "Title": "N. Palacios, X. Gao, M. L. McCullough, M. A. Schwarzschild, R. Shah, S. Gapstur, A. Ascherio. Caffeine and risk of Parkinson's disease in a large cohort of men and women. Mov. Disord. 2012 27(10):1276 - 1282",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22927157"
+    },
+    {
+      "Title": "R. B. Postuma, A. E. Lang, R. P. Munhoz, K. Charland, A. Pelletier, M. Moscovich, L. Filla, D. Zanatta, S. R. Romenets, R. Altman, R. Chuang, B. Shah. Caffeine for treatment of Parkinson disease: A randomized controlled trial. Neurology 2012 79(7):651 - 658",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22855866"
+    },
+    {
+      "Title": "T. Bobby, M. F. Beal. Molecular insights into Parkinson's disease. F1000 Med Rep. 2011; 3: 7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096887/pdf/medrep-03-07.pdf"
+    },
+    {
+      "Title": "V. V. Renoudet, P. Costa-Mallen, E. Hopkins. A diet low in animal fat and rich in N-hexacosanol and fisetin is effective in reducing symptoms of Parkinson's disease. J Med Food 2012 15(8):758 - 761",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22846082"
+    },
+    {
+      "Title": "X. Gao, A. Cassidy, M. A. Schwarzschild, E. B. Rimm, A. Ascherio. Habitual intake of dietary flavonoids and risk of Parkinson disease. Neurology 2012 78(15):1138 - 1145",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22491871"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Stirling Noyes.",
+  "Topics": [
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "berries",
+      "Url": "https://nutritionfacts.org/topics/berries/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "caffeine",
+      "Url": "https://nutritionfacts.org/topics/caffeine/"
+    },
+    {
+      "Title": "cheese",
+      "Url": "https://nutritionfacts.org/topics/cheese/"
+    },
+    {
+      "Title": "coffee",
+      "Url": "https://nutritionfacts.org/topics/coffee/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "dopamine",
+      "Url": "https://nutritionfacts.org/topics/dopamine/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "medications",
+      "Url": "https://nutritionfacts.org/topics/medications/"
+    },
+    {
+      "Title": "mercury",
+      "Url": "https://nutritionfacts.org/topics/mercury/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "rice",
+      "Url": "https://nutritionfacts.org/topics/rice/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "strawberries",
+      "Url": "https://nutritionfacts.org/topics/strawberries/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "wheat",
+      "Url": "https://nutritionfacts.org/topics/wheat/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What about preventing the disease in the first place? See my previous video <a href=\"https://nutritionfacts.org/video/preventing-parkinsons-disease-with-diet/\">Preventing Parkinson’s Disease With Diet</a>.</p>\n<p>The serotonin story I mentioned, explaining the crowding out of precursor amino acids at the blood-brain barrier, is described in my three-part series <a href=\"https://nutritionfacts.org/video/the-wrong-way-to-boost-serotonin/\">The Wrong Way to Boost Serotonin</a>, <a href=\"https://nutritionfacts.org/video/a-better-way-to-boost-serotonin/\">A Better Way to Boost Serotonin</a>, and <a href=\"https://nutritionfacts.org/video/the-best-way-to-boost-serotonin/\">The Best Way to Boost Serotonin</a>.</p>\n<p>More on the risks and benefits of coffee and caffeine in <a href=\"https://nutritionfacts.org/video/coffee-and-cancer/\">Coffee and Cancer</a>, and <a href=\"https://nutritionfacts.org/video/what-about-the-caffeine/\">What About the Caffeine?</a></p>\n<p>And more on what fiber can do for us in videos like:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-fiber-lowers-cholesterol/\">How Fiber Lowers Cholesterol</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fawning-over-flora/\">Fawning Over Flora</a></li>\n<li><a href=\"https://nutritionfacts.org/video/boosting-good-bacteria-in-the-colon-without-probiotics/\">Boosting Good Bacteria in the Colon Without Probiotics</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-women-should-eat-to-live-longer/\">What Women Should Eat to Live Longer</a></li>\n</ul>\n<p>For more context, check out my associated blog post: <a href=\"https://nutritionfacts.org/2013/08/29/treating-parkinsons-disease-with-diet/\">Treating Parkinson’s Disease with Diet</a></p>\n<p>Update: In 2022, I did a new video on the coffee-Parkinson’s relationship. See <a href=\"https://nutritionfacts.org/video/coffee-put-to-the-test-for-treating-parkinsons-disease/\">Coffee Put to the Test for Treating Parkinson’s Disease</a>. For all of my most recent videos on Parkinson’s disease, check out the <a href=\"https://nutritionfacts.org/topics/parkinsons-disease/\">topic page</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

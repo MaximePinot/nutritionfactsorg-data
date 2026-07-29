@@ -1,0 +1,91 @@
+{
+  "Title": "Sci-Hub Opens Up a World of Knowledge",
+  "Url": "https://nutritionfacts.org/video/sci-hub-opens-up-a-world-of-knowledge/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/ROkRWuvu5TU"
+  },
+  "UpdatedAt": "2018-05-14T11:50:25+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 41",
+    "Url": "https://nutritionfacts.org/volumes/volume-41/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Sci-Hub is the portal with the quickest, easiest, and greatest access to science, but there’s a catch.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAlexandra Elbakyan, a 20-something grad student, is operating a free “searchable online database of nearly 50 million stolen scholarly journal articles, shattering the $10 billion-per-year paywall of academic publishers”—”an awe-inspiring act of altruism or a massive criminal enterprise, depending on whom you ask.”\nNow up to “60 million papers,” providing “access to nearly all scholarly literature.” Via its websites sci-hub.pub, sci-hub has been able to fill 99.3% of articles requests, all for free. A sister site, Library Genesis, at libgen.io, distributes scientific books and textbooks for free, more than a million of them, also illegally.\n“Who’s downloading pirated papers? Everyone,” concluded this feature in the prestigious journal Science. A survey of potential users suggests for most it’s not some grand political statement, but rather that’s the only way they have access, or feel it’s just so much quicker and easier. Even those who have legitimate institutional access may still choose to use sci-hub, because there’s just so many fewer hoops to jump through.\nSo, you can imagine how sites like sci-hub may be “filling…publishers [that charge for access] with roaring, existential panic.” And they’re not taking it lying down. Elsevier, the largest publisher, notorious for demanding researchers take down free copies of their own work, sued sci-hub, the Library Genesis project, Alexandra, and 99 John Does for copyright infringement, a “willful… disregard of…Elsevier’s rights.”\nKinda hard to take the moral high ground, though, when you’re effectively an international arms dealer. “Can you imagine a tobacco company publishing health journals?…[S]urely, the company’s business mission would be impossibly confused: would the company be in the business of killing people or keeping them alive? But, if you can’t imagine that absurdity,” well welcome to Elsevier, which, in addition to publishing medical journals, is also involved in the global arms trade: running arms fairs where things like cluster bombs are sold, leading to medical journal editorial boards calling for a boycott of Elsevier’s “warmongering [and] health damaging business [practices].”\nIn response to the lawsuit, Alexandra wrote a letter to the judge. She wanted to make it clear that not only did Elsevier not create those papers, but that they don’t pay researchers a penny. So, it’s not like a pirated movie or song where the content creator is losing out—noting that no researcher had ever complained that she was handing out their research.\nIn fact, “[s]cientific authors are typically thrilled when their work” gets more out into the world. That’s the whole point of science, to be shared and built upon. And, “[i]n one fell swoop, [Alexandra created a portal likely offering] a greater level of access to science than any” institution on Earth in history, “literally [opening up] a world of knowledge.”\nAnd, she’s not backing down, citing in her defense Article 27 of the United Nations Universal Declaration of Human Rights—that “[e]veryone [should have] the right [to] freely…participate in the cultural life of the community, [including] shar[ing] in scientific advancement and its benefits.”\nShe realizes she could be arrested and extradited to the U.S. to face charges. She is “fully aware that another computer prodigy-turned-advocate, Aaron Swartz, was arrested…on similar charges after mass downloading academic papers. Facing devastating financial penalties and jail time, Swartz hanged himself.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bohannon J. The frustrated science student behind Sci-Hub. Science. 2016;352(6285):511.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27126021"
+    },
+    {
+      "Title": "Bohannon J. Who's downloading pirated papers? Everyone. Science. 2016;352(6285):508-512.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27126020"
+    },
+    {
+      "Title": "Cabanac G. Bibliogifts in LibGen? A study of a text-sharing platform driven by biblioleaks and crowdsourcing. J Assoc Inf Sci Technol. 2015;67(4):874-884.",
+      "Url": "http://onlinelibrary.wiley.com/doi/10.1002/asi.23445/abstract?hootPostID=a5b369d5fe74ebe84bf9410506a35c27"
+    },
+    {
+      "Title": "Elbakyan A. Elsevier Inc. et al v. Sci-Hub et al. Case No. 1:15-cv-04282-RWS. US District Court Southern District of New York.",
+      "Url": "https://www.plainsite.org/dockets/2lt9206gt/new-york-southern-district-court/elsevier-inc-et-al-v-scihub-et-al/"
+    },
+    {
+      "Title": "Elsevier A. Letter. Stephenmclaughlin.net. 2015.",
+      "Url": "http://www.stephenmclaughlin.net/Elsevier_v_Sci-Hub/2015-09-15/Elsevier_Inc_et_al_v_Sci-Hub_et_al__nysdce-15-04282__0050.0.pdf"
+    },
+    {
+      "Title": "Faust JS. Sci-Hub: a solution to the problem of paywalls, or merely a diagnosis of a broken system? Ann Emerg Med. 2016;68(1):A15-A17.",
+      "Url": "http://www.sciencedirect.com/science/article/pii/S019606441630186X"
+    },
+    {
+      "Title": "Gardner CC, Gardner GJ. Fast and furious (at publishers): the motivations behind crowdsourced research sharing. Coll Res Libr. 2017;78(2):131-149.",
+      "Url": "https://crl.acrl.org/index.php/crl/article/view/16578"
+    },
+    {
+      "Title": "Himmelstein DS, Romero AR, Levernier JG, Munro TA, McLaughlin SR, Greshake Tzovaras B, Greene CS. Sci-Hub provides access to nearly all scholarly literature. PeerJ Preprints. 2018;6:e3100v3",
+      "Url": "https://doi.org/10.7287/peerj.preprints.3100v3"
+    },
+    {
+      "Title": "Oxenham S. Meet the Robin Hood of science. Big Think. 2018.",
+      "Url": "http://bigthink.com/neurobonkers/a-pirate-bay-for-science"
+    },
+    {
+      "Title": "Rosenwald M. This student put 50 million stolen research articles online. And they’re free. Washington Post. 2016.",
+      "Url": "https://www.washingtonpost.com/local/this-student-put-50-million-stolen-research-articles-online-and-theyre-free/2016/03/30/7714ffb4-eaf7-11e5-b0fd-073d5930a7b7_story.html"
+    },
+    {
+      "Title": "Schiermeier Q. Pirate research-paper sites play hide-and-seek with publishers. Nature. 2015.",
+      "Url": "https://www.nature.com/news/pirate-research-paper-sites-play-hide-and-seek-with-publishers-1.18876"
+    },
+    {
+      "Title": "Search screen. Library Genesis.",
+      "Url": "http://libgen.io/"
+    },
+    {
+      "Title": "Smith R. Reed-Elsevier's hypocrisy in selling arms and health. J R Soc Med. 2007;100(3):114-115.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17339299"
+    },
+    {
+      "Title": "Van Noorden R. Nature’s 10: Ten people who mattered this year. Nature. 2016;540:507-515.",
+      "Url": "https://www.nature.com/news/nature-s-10-1.21157"
+    },
+    {
+      "Title": "Young C, Godlee F. Reed Elsevier's arms trade. BMJ. 2007;334(7593):547-548.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17363784"
+    }
+  ],
+  "Acknowledgements": "Image credit: Wikipedia and Wikimedia. Images have been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "Sci-Hub",
+      "Url": "https://nutritionfacts.org/topics/sci-hub/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>How did all of this come about? I discussed the background in my video <a href=\"https://nutritionfacts.org/video/how-to-access-research-articles-for-free/\">How to Access Research Articles for Free</a>.</p>\n<p>The Sci-Hub URL was bumped to <a href=\"https://www.sci-hub.pub/\" target=\"_blank\" rel=\"noopener\">https://www.sci-hub.pub/</a>, and Library Genesis is now at <a href=\"http://libgen.is/\">http://libgen.is/</a>. (Links are provided for educational purposes only—literally!)</p>\n<p>If you’re interested in doing research yourself, I did an entire webinar on techniques, which was captured as an online Continuing Medical Education course through the American College of Lifestyle Medicine. Check it out at <a href=\"https://www.lifestylemed.education/Course/view/624278\">How to Be an Evidence-Based Lifestyle Medicine Practitioner</a>. I’m hoping to have a whole series of courses coming soon, so stay tuned!</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "Title": "Drug Residues in Meat and Their Effect on Antibiotic Resistance",
+  "Url": "https://nutritionfacts.org/video/drug-residues-in-meat-and-their-effect-on-antibiotic-resistance/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/tMkIhra45co"
+  },
+  "UpdatedAt": "2025-07-14T11:50:10+00:00",
+  "Author": "Kristine Dennis PhD, MPH",
+  "Volume": {
+    "Title": "Volume 69",
+    "Url": "https://nutritionfacts.org/volumes/volume-69/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What percentage of meat samples test positive for drug residue violations?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Dennis may be referring, watch the above video.\nAccording to the World Health Organization, more antibiotics are fed to farm animals to prevent disease and fatten them faster than are used to treat sick people. This can foster the growth of antibiotic-resistant superbugs that can then get transmitted to humans. As the UK’s Chief Medical Officer once put it, “every inappropriate or unnecessary use in animals or agriculture is potentially signing a death warrant for a future patient.”\nSo, what are they: miracle drugs or pig food? Here’s how Dr. Greger framed the issue in a debate he had with industry representatives, including from the National Pork Producers Council.\n“To ask if there’s a question between human drug resistance and livestock antibiotic use is like asking if there’s human-induced climate change, or if there’s a link between smoking and lung cancer. There are a few dissenting industry scientists on one side, but then basically every other scientist on the other. Both opposing camps have scientists on their side, but only one really has science on their side. One can just look at who’s on the sides of this debate. In one corner, you have the World Health Organization, the American Medical Association, the American Academy of Pediatrics, the American Public Health Association, and another 100 medical and public health organizations in the country. On the other side, you have the National Turkey Federation, the National Chicken Council, the Sheep Industry Association, the National Pork Producers. It could not be more stark…”\nPreviously, Dr. Greger discussed how feeding millions of pounds of antibiotics to cows, pigs, and chickens every year is dangerous because it fosters antibiotic resistance—not necessarily because there’s a problem with antibiotic drug residues getting into the meat itself. But it turns out, he may be wrong.\nIn 2010, the U.S. Inspector General slammed the U.S. Department of Agriculture for not protecting the American public from the contamination of meat with residual drugs, pesticides, and heavy metals. These drug and chemical residues then find their way to our dinner plates.\nBut in order to safeguard the nation’s food supply from harmful residues, the USDA, Food and Drug Administration, and Environmental Protection Agency are supposed to test for these contaminants and prevent adulterated meat from entering the food supply. But, based on their review, the U.S. Inspector General found that the National Residue Program is not accomplishing its mission of monitoring the food supply for harmful residues. Regulators hadn’t even established threshold values for many dangerous substances, which has resulted in contaminated meat being distributed to consumers.\nWhat potential effects could the drugs and toxic metals in meat have on people who consume it? Gastrointestinal bleeding, ulcers, allergic reactions, serious nerve damage, severe inflammation, skin cancers, internal cancers, jaundice, kidney failure, neurotoxicity, and even death. Doesn’t cooking destroy the drugs, though? No. No amount of cooking will destroy residues. In fact, in some cases, heat may actually break residues down into components that are even more harmful to consumers.\nThe Pew Charitable Trusts point out that chemicals that experts agree pose a significant public health hazard are not routinely tested for, while others that pose little risk are routinely included in sampling plans.\nThe USDA does test for some hazardous drugs though, and found that only about one in 260 samples of animal products had drug residue violations. But that suggests more than 100 million pounds of meat adulterated with drugs is served up every year in the United States alone.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Dryden MS, Cooke J, Davey P. Antibiotic stewardship--more education and regulation not more availability? J Antimicrob Chemother. 2009;64(5):885-888.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19729376/"
+    },
+    {
+      "Title": "Kuehn BM. Antibiotic-resistant “superbugs” may be transmitted from animals to humans. JAMA. 2007;298(18):2125-2126.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18000190/"
+    },
+    {
+      "Title": "Prescott JF. Antibiotics: miracle drugs or pig food? Can Vet J. 1997;38(12):763-766.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9426941/"
+    },
+    {
+      "Title": "The Evolving Threat of Antimicrobial Resistance: Options for Action. World Health Organization; 2012.",
+      "Url": "https://www.afro.who.int/publications/evolving-threat-antimicrobial-resistance-options-action"
+    },
+    {
+      "Title": "The Pew Charitable Trusts. The National Residue Program for meat, poultry, and egg products: an evaluation. March 2016.",
+      "Url": "https://www.pewtrusts.org/-/media/assets/2016/03/the_national_residue_program_for_meat_poultry_and_egg_products.pdf"
+    },
+    {
+      "Title": "U.S. Department of Agriculture, Food Safety and Inspection Service. Annual sampling summary report fiscal year 2023. U.S. Department of Agriculture. 2023.",
+      "Url": "https://www.fsis.usda.gov/sites/default/files/media_file/documents/FY2023-Sampling-Summary-Report.pdf"
+    },
+    {
+      "Title": "U.S. Department of Agriculture, Office of Inspector General. FSIS National Residue Program for cattle. Audit report 24601-08-KC. U.S. Department of Agriculture. March 25, 2010.",
+      "Url": "https://grist.org/wp-content/uploads/2010/04/24601-08-kc.pdf"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "allergies",
+      "Url": "https://nutritionfacts.org/topics/allergies/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "bleeding",
+      "Url": "https://nutritionfacts.org/topics/bleeding/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "heavy metals",
+      "Url": "https://nutritionfacts.org/topics/heavy-metals/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "nerve health",
+      "Url": "https://nutritionfacts.org/topics/nerve-health/"
+    },
+    {
+      "Title": "skin cancer",
+      "Url": "https://nutritionfacts.org/topics/skin-cancer/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p data-pm-slice=\"1 1 []\">A note from Dr. Greger:</p>\n<p>I am thrilled to introduce Dr. Kristine Dennis, our Senior Research Scientist. Dr. Dennis is an experienced nutrition and public health scientist who joined NutritionFacts to expand our research capacity — diving deep into the research, writing scripts, and now, narrating her own videos! You’ll continue to see videos from both of us interspersed in no particular order. I’m so happy Kristine is with NutritionFacts to help expand our capacity and perspectives.</p>\n<p><span style=\"font-weight: 400\">For more on antibiotic resistance, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/antibiotic-resistance-genes-in-the-guts-of-vegetarians-vs-meat-eaters/\"><span style=\"font-weight: 400\">Antibiotic Resistance Genes in the Guts of Vegetarians vs. Meat Eaters</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/antibiotic-resistant-e-coli-and-utis-in-vegetarians-vs-meat-eaters/\"><span style=\"font-weight: 400\">Antibiotic-Resistant E. coli and UTIs in Vegetarians vs. Meat Eaters</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-human-health-effects-of-cultivated-meat-antibiotic-resistance/\"><span style=\"font-weight: 400\">The Human Health Effects of Cultivated Meat: Antibiotic Resistance</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

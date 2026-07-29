@@ -1,0 +1,147 @@
+{
+  "Title": "Fasting for Irritable Bowel Syndrome",
+  "Url": "https://nutritionfacts.org/video/fasting-for-irritable-bowel-syndrome/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/b9MNzCTM2k4"
+  },
+  "UpdatedAt": "2021-09-15T11:50:02+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 55",
+    "Url": "https://nutritionfacts.org/volumes/volume-55/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "More than half of IBS sufferers appear to have a form of atypical food allergy.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIrritable bowel syndrome (IBS) is a chronic gastrointestinal disorder that affects about one in ten. You may have heard about low-FODMAP diets, but they don’t appear to work any better than the standard advice to avoid things like coffee or spicy and fatty foods. In fact, you can hardly tell which is which.\nBut most IBS patients do seem to react to specific foods, such as wheat, dairy, soy sauce, or eggs. Though when you test them for typical food allergies, they may come up negative on skin prick tests. But what you want to know is not what happens on their skin, but inside their gut when they eat them. Enter: confocal laser endomicroscopy. How cool is this? You can snake a microscope down someone’s throat into their gut, and drip on some foods, and watch in real-time as the gut wall becomes inflamed and leaky. You can actually see the cracks forming within minutes. But it had never been tested on a large group of IBS patients––until now.\nUsing this new technology, researchers found that more than half of IBS sufferers have this kind of reaction to various foods, what they call an atypical food allergy that flies under the radar of traditional allergy tests. Exclude those foods from the diet, and you get a significant alleviation of symptoms. But outside of a research setting, there’s no way to know which foods are the culprit without trying your own exclusion diet. And there’s no greater exclusion diet than excluding everything.\nA 25-year-old woman had complained of abdominal pain, bloating, and diarrhea for a year, and drugs didn’t seem to help. But after fasting for 10 days, her symptoms improved considerably, and appeared to stay that way at least 18 months later. And it wasn’t just subjective improvement. They took biopsies that showed the inflammation go down, directly measured her bowel irritability, and stuck expanding balloons and electrodes in her rectum to actually measure changes in her sensitivity to pressure and electrical stimulation. Fasting seemed to kind of reboot her gut.\nBut just because it worked for her doesn’t mean it works for others. Case reports are most useful when they inspire researchers to put it to the test.\nDespite research efforts, medical treatment for this condition is still unsatisfactory. We can try to suppress the symptoms with drugs, but what do we do when even that doesn’t work? In a study of 84 IBS patients, 58 of whom failed basic treatment (which consisted of pharmacotherapy and brief psychotherapy), 36 of the 58 who were still suffering underwent 10 days of fasting, whereas the other 22 stuck with the basic treatment. And those in the fasting group experienced significant improvements in abdominal pain, diarrhea, loss of appetite, nausea, anxiety, and interference with life in general, which was significantly better than the control group. The researchers concluded that fasting therapy could be useful for treating moderate to severe patients with IBS.\nUnfortunately, patient allocation was neither blinded nor randomized; so, the comparison to the control group doesn’t mean much. They were also given IV vitamins—vitamin B1 and vitamin C, which seems typical of these Japanese fasting trials, even though one would not expect vitamin deficiency syndromes—beriberi or scurvy—to present within just 10 days of fasting.\nAnd they were also kept isolated, and maybe that made the psychotherapy work better? It’s hard to tease out just the fasting effects. Psychotherapy alone can provide lasting benefits. In a study, 101 outpatients with irritable bowel syndrome were randomized to medical treatment or medical treatment with three months of psychotherapy. After three months, the psychotherapy group did better, and the difference was even more pronounced a year later—a year after the psychotherapy ended. Better at three months, and even better at 15 months.\nPsychological approaches appear to work about as well as antidepressant drugs for IBS, but the placebo response for IBS is on the order of 40 percent, and that’s whether you’re talking about psychological interventions or drugs or alternative medicine approaches. So essentially nothing—a sugar pill—improves symptoms 40 percent of the time. So, I figure one might as well choose a therapy first that’s cheap, safe, simple, and side effect-free, which extended fasting is most certainly not. But if all else fails, it may be worth exploring under close physician supervision.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Böhn L, Störsrud S, Liljebo T, et al. Diet Low in FODMAPs Reduces Symptoms of Irritable Bowel Syndrome as Well as Traditional Dietary Advice: A Randomized Controlled Trial. Gastroenterology. 2015;149(6):1399-1407.e2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26255043"
+    },
+    {
+      "Title": "Choung RS, Murray JA. The role for food allergies in the pathogenesis of irritable bowel syndrome: understanding mechanisms of intestinal mucosal responses against food antigens. Gastroenterology. 2019;157(1):15-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31145873/"
+    },
+    {
+      "Title": "Flik CE, Bakker L, Laan W, van Rood YR, Smout AJPM, de Wit NJ. Systematic review: The placebo effect of psychological interventions in the treatment of irritable bowel syndrome. World Journal of Gastroenterology. 2017;23(12):2223.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28405151"
+    },
+    {
+      "Title": "Ford AC, Lacy BE, Harris LA, Quigley EMM, Moayyedi P. Effect of Antidepressants and Psychological Therapies in Irritable Bowel Syndrome: An Updated Systematic Review and Meta-Analysis. The American Journal of Gastroenterology. 2019;114(1):21-39.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30177784"
+    },
+    {
+      "Title": "Fritscher-Ravens A, Pflaum T, Mösinger M, et al. Many Patients With Irritable Bowel Syndrome Have Atypical Food Allergies Not Associated With Immunoglobulin E. Gastroenterology. 2019;157(1):109-18.e5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31100380"
+    },
+    {
+      "Title": "Fritscher-ravens A, Schuppan D, Ellrichmann M, et al. Confocal endomicroscopy shows food-associated changes in the intestinal mucosa of patients with irritable bowel syndrome. Gastroenterology. 2014;147(5):1012-20.e4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25083606"
+    },
+    {
+      "Title": "Guerreiro M, Sousa Guerreiro C, Cravo M. Irritable bowel syndrome: how can symptoms and quality of life be improved with diet? Current Opinion in Clinical Nutrition and Metabolic Care. 2019;22(5):377-82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31313689"
+    },
+    {
+      "Title": "Kanazawa M, Fukudo S. Effects of fasting therapy on irritable bowel syndrome. International Journal of Behavioral Medicine. 2006;13(3):214-20.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17078771"
+    },
+    {
+      "Title": "Kano M, Fukudo S, Kanazawa M, et al. Changes in intestinal motility, visceral sensitivity and minor mucosal inflammation after fasting therapy in a patient with irritable bowel syndrome. Journal of Gastroenterology and Hepatology. 2006;21(6):1078-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16725003"
+    },
+    {
+      "Title": "Morbid obesity-long term results of therapeutic fasting. Nutrition Reviews. 2009;36(1):6-7.",
+      "Url": "https://doi.org/10.1111/j.1753-4887.1978.tb03671.x"
+    },
+    {
+      "Title": "Ray K. A window into the gut—real-time visualization of the effects of food intolerance using confocal laser endomicroscopy. Nature Reviews Gastroenterology & Hepatology. 2014;11(10):578.",
+      "Url": "https://doi.org/10.1038/nrgastro.2014.147"
+    },
+    {
+      "Title": "Svedlund J, Ottosson J-O, Sjödin I, Dotevall G. Controlled study of psychotherapy in irritable bowel syndrome. The Lancet. 1983;322(8350):589-92.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/6136745"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "abdominal pain",
+      "Url": "https://nutritionfacts.org/topics/abdominal-pain/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "anxiety",
+      "Url": "https://nutritionfacts.org/topics/anxiety/"
+    },
+    {
+      "Title": "bloating",
+      "Url": "https://nutritionfacts.org/topics/bloating/"
+    },
+    {
+      "Title": "coffee",
+      "Url": "https://nutritionfacts.org/topics/coffee/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diarrhea",
+      "Url": "https://nutritionfacts.org/topics/diarrhea/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fasting",
+      "Url": "https://nutritionfacts.org/topics/fasting/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "FODMAPs",
+      "Url": "https://nutritionfacts.org/topics/fodmaps/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "irritable bowel syndrome",
+      "Url": "https://nutritionfacts.org/topics/irritable-bowel-syndrome/"
+    },
+    {
+      "Title": "mental health",
+      "Url": "https://nutritionfacts.org/topics/mental-health/"
+    },
+    {
+      "Title": "nausea",
+      "Url": "https://nutritionfacts.org/topics/nausea/"
+    },
+    {
+      "Title": "soy sauce",
+      "Url": "https://nutritionfacts.org/topics/soy-sauce/"
+    },
+    {
+      "Title": "spices",
+      "Url": "https://nutritionfacts.org/topics/spices/"
+    },
+    {
+      "Title": "wheat",
+      "Url": "https://nutritionfacts.org/topics/wheat/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Stay tuned for my next video on fasting: <a href=\"https://nutritionfacts.org/video/fasting-for-post-traumatic-brain-injury-headache/\">Fasting for Post Traumatic Brain Injury Headache</a>.</p>\n<p>All of my fasting videos are available in a <a href=\"https://drgreger.org/collections/bundles/products/fasting-bundle-digital\">digital download here</a>.</p>\n<p>These videos on the topic are already on the site:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-3500-calorie-per-pound-rule-is-wrong/\">The 3,500-Calorie-per-Pound Rule Is Wrong</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-reason-weight-loss-plateaus-when-you-diet/\">The Reason Weight Loss Plateaus When You Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-new-calories-per-pound-of-weight-loss-rule/\">The New Calories per Pound of Weight-Loss Rule</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-benefits-of-calorie-restriction-for-longevity/\">The Benefits of Calorie Restriction for Longevity</a></li>\n<li><a href=\"https://nutritionfacts.org/video/potential-pitfalls-of-calorie-restriction/\">Potential Pitfalls of Calorie Restriction</a></li>\n<li><a href=\"https://nutritionfacts.org/video/benefits-of-fasting-for-weight-loss-put-to-the-test/\">Benefits of Fasting for Weight Loss Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-fasting-beneficial-for-weight-loss/\">Is Fasting Beneficial for Weight Loss?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-fasting-for-weight-loss-safe/\">Is Fasting for Weight Loss Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/alternate-day-intermittent-fasting-put-to-the-test/\">Alternate-Day Intermittent Fasting Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-alternate-day-intermittent-fasting-safe/\">Is Alternate-Day Intermittent Fasting Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-intermittent-fasting-increase-human-life-expectancy/\">Does Intermittent Fasting Increase Human Life Expectancy?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-5-2-diet-and-the-fasting-mimicking-diet-put-to-the-test/\">The 5:2 Diet and the Fasting-Mimicking Diet Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/time-restricted-eating-put-to-the-test/\">Time-Restricted Eating Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-benefits-of-early-time-restricted-eating/\">The Benefits of Early Time-Restricted Eating</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fasting-to-treat-depression/\">Fasting to Treat Depression</a></li>\n</ul>\n<p>In 2022, I released my fasting and cancer series. Check it out, starting with <a href=\"https://nutritionfacts.org/video/fasting-for-cancer-what-about-cachexia/\">Fasting for Cancer: What About Cachexia?</a>. </p>\n<p>For more on IBS, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/kiwifruit-for-irritable-bowel-syndrome/\">Kiwifruit for Irritable Bowel Syndrome</a></li>\n<li><a href=\"https://nutritionfacts.org/video/cayenne-pepper-for-irritable-bowel-syndrome-and-chronic-indigestion/\">Cayenne Pepper for Irritable Bowel Syndrome and Chronic Indigestion</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-fiber-an-effective-anti-inflammatory/\">Is Fiber an Effective Anti-Inflammatory?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/cannabis-for-inflammatory-bowel-disease-ibd/\">Cannabis for IBD (Inflammatory Bowel Disease)</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-small-intestinal-bacterial-overgrowth-sibo-tests-valid/\">Are Small Intestinal Bacterial Overgrowth (SIBO) Tests Valid?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fiber-vs-low-fodmap-for-sibo-symptoms/\">Fiber vs. Low FODMAP for SIBO Symptoms</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

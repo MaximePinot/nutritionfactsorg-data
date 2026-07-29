@@ -1,0 +1,127 @@
+{
+  "Title": "Is Water Fluoridation Safe?",
+  "Url": "https://nutritionfacts.org/video/is-water-fluoridation-safe/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/d39N34r5Dv0"
+  },
+  "UpdatedAt": "2024-05-01T11:50:06+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 65",
+    "Url": "https://nutritionfacts.org/volumes/volume-65/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "There have been more than 50 studies showing an association between higher fluoride exposure and lower IQ, but is it cause-and-effect?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nFluoride had been found to be a developmental neurotoxin in rats and mice, leading to learning and memory deficits, which led to an interest in studying human populations. Starting in the 1980s, reports started appearing in Chinese medical journals that found correlations between areas naturally containing higher fluoride levels in water with lower intelligence among children. Dental fluorosis, the fluoride-induced tooth mottling, is widespread in China, with more than 90 million residents affected, often in small pockets surrounding particular small springs or mountain sources. Researchers took advantage of the fact that even adjoining neighborhoods could have wildly different fluoride exposure, setting up a type of natural experiment.\nDue to limited access to Chinese journals at the time, these studies largely escaped the attention of scientists in the West until a meta-analysis of 16 such studies was published in English in 2008. “Fluoride and Children’s Intelligence: A Meta-analysis” found that children living in areas prone to fluorosis had five times higher odds of developing low IQ than those living in areas with little or no fluorosis. So, here we were, thinking dental fluorosis was just a cosmetic blemish, but it may instead be a visual indicator of intellectual deficits. A subsequent meta-analysis in 2012 including about 10 more studies found that the average intelligence gap between high- and low-fluoride exposure areas was about seven IQ points. By far the largest study, involving thousands of children, found that even at fluoride levels below 1 ppm, higher fluoride levels were associated with a large drop in the chances of developing excellent intelligence (defined as an IQ of 130 or higher). Even very mild fluorosis was associated with less than half the odds of reaching such a high IQ.\nBy now, there have been more than 50 studies showing an association between higher fluoride exposure and lower IQ. In the latest systematic review and meta‑analysis, 90 percent of the studies published in the last ten years reported a link between high fluoride exposure and reduced intelligence. However, serious caveats are in order.\nFirst, the fluoride concentrations in most of these studies were well above fluoridation levels. In the 2012 meta-analysis, for example, one study clocked concentrations as high as 11.5 ppm, far exceeding the U.S. target of 0.7 parts per million, as well as the average concentration in the United States, which is around 0.8 ppm in municipal water and 0.3 ppm in well water. Now, to be fair, the 11.5 ppm in the meta-analysis was an outlier. The average elevated level was only about two parts per million, and most found associated IQ decrements below the EPA’s upper limit, its Maximum Contaminant Level Goal of four ppm, which is supposed to represent the level “below which there is no known or expected risk to health.”\nSome studies showed lower intelligence with fluoride concentrations even down at one to two ppm, with one estimate suggesting the smallest harmful concentration, potentially shaving off a single IQ point, would be down around 0.3 ppm––assuming you drink four cups of water a day, while others suggest it’s too early to be able to calculate a threshold for human neurotoxicity due to insufficient available data.\nThe second major caveat is confounding. Nearly all of the studies to date have been performed in rural communities in countries like China, Iran, and Mongolia. Areas within these countries with unusually high fluoride levels may be particularly poor and underdeveloped, since relatively rich communities may be more likely to invest in higher-quality drinking water that filters out fluoride, if only to reduce dental fluorosis. High-fluoride water may also be more likely to be contaminated with other neurotoxins. Fluoride exists in water as a negatively charged particle. To maintain electroneutrality, this may pull into the groundwater positively charged particles such as aluminum, arsenic, lead, or mercury. This doesn’t happen in community water fluoridation, since the negative fluoride ions are balanced out in the water treatment process.\nFinally, most of the older studies were cross-sectional and ecological, meaning they looked at a snapshot-in-time of group level data, rather than individual-exposures-over-time. Just because a child with low IQ lives in a high-fluoride area doesn’t necessarily mean they or their mom actually drank the water, for example. Ideally, we’d be able to measure individual exposure levels and then follow the kids over time to see if those with higher exposure really do grow up with stunted intellects. And that’s exactly what we’ll cover in my next video, entitled “Why I Changed My Mind on Water Fluoridation.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bellinger DC. Is fluoride potentially neurotoxic? JAMA Pediatrics. 2019;173(10):915-917.",
+      "Url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2748626"
+    },
+    {
+      "Title": "Choi AL, Sun G, Zhang Y, Grandjean P. Developmental fluoride neurotoxicity: a systematic review and meta-analysis. Environ Health Perspect. 2012;120(10):1362-1368.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22820538/"
+    },
+    {
+      "Title": "Duan Q, Jiao J, Chen X, Wang X. Association between water fluoride and the level of children’s intelligence: a dose-response meta-analysis. Public Health. 2018;154:87-97.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29220711/"
+    },
+    {
+      "Title": "Grandjean P. Developmental fluoride neurotoxicity: an updated review. Environ Health. 2019;18(1):110.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31856837/"
+    },
+    {
+      "Title": "Guth S, Hüser S, Roth A, et al. Contribution to the ongoing discussion on fluoride toxicity. Arch Toxicol. 2021;95(7):2571-2587.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34095968/"
+    },
+    {
+      "Title": "Guth S, Hüser S, Roth A, et al. Toxicity of fluoride: critical evaluation of evidence for human developmental neurotoxicity in epidemiological studies, animal experiments and in vitro analyses. Arch Toxicol. 2020;94(5):1375-1415.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32382957/"
+    },
+    {
+      "Title": "Hirzy JW, Connett P, Xiang Q, Spittle B, Kennedy D. Developmental neurotoxicity of fluoride: a quantitative risk analysis toward establishing a safe dose for children. Neurotoxins. InTechOpen; 2017.",
+      "Url": "https://www.intechopen.com/chapters/57303"
+    },
+    {
+      "Title": "Jiang C, Zhang S, Liu H, et al. Low glucose utilization and neurodegenerative changes caused by sodium fluoride exposure in rat’s developmental brain. Neuromolecular Med. 2014;16(1):94-105.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23982469/"
+    },
+    {
+      "Title": "National Primary Drinking Water Regulations. EPA. May 2009.",
+      "Url": "https://www.epa.gov/sites/default/files/2016-06/documents/npwdr_complete_table.pdf"
+    },
+    {
+      "Title": "Sun Z, Zhang Y, Xue X, Niu R, Wang J. Maternal fluoride exposure during gestation and lactation decreased learning and memory ability, and glutamate receptor mRNA expressions of mouse pups. Hum Exp Toxicol. 2018;37(1):87-93.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29187078/"
+    },
+    {
+      "Title": "Tang QQ, Du J, Ma HH, Jiang SJ, Zhou XJ. Fluoride and children’s intelligence: a meta-analysis. Biol Trace Elem Res. 2008;126(1-3):115-120.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18695947/"
+    },
+    {
+      "Title": "Till C, Green R, Lanphear B. Association between maternal fluoride exposure and child IQ—reply. JAMA Pediatr. 2020;174(2):216-217.",
+      "Url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jamapediatrics.2019.5251?utm_campaign=articlePDF%26utm_medium=articlePDFlink%26utm_source=articlePDF%26utm_content=jamapediatrics.2019.5251"
+    },
+    {
+      "Title": "USDA National Fluoride Database of selected beverages and foods - release 2(2005). USDA. Oct 2021.",
+      "Url": "https://data.nal.usda.gov/dataset/usda-national-fluoride-database-selected-beverages-and-foods-release-2-2005"
+    },
+    {
+      "Title": "Xiang Q, Liang Y, Chen L, et al. Effect of fluoride in drinking water on children's intelligence. Fluoride. 2003;36(2):84-94.",
+      "Url": "https://eurekamag.com/research/004/121/004121762.php"
+    },
+    {
+      "Title": "Yu X, Chen J, Li Y, et al. Threshold effects of moderately excessive fluoride exposure on children’s health: A potential association between dental fluorosis and loss of excellent intelligence. Environ Int. 2018;118:116-124.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29870912/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "cavities",
+      "Url": "https://nutritionfacts.org/topics/cavities/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "China",
+      "Url": "https://nutritionfacts.org/topics/china/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "dental health",
+      "Url": "https://nutritionfacts.org/topics/dental-health/"
+    },
+    {
+      "Title": "fluoride",
+      "Url": "https://nutritionfacts.org/topics/fluoride/"
+    },
+    {
+      "Title": "neurotoxins",
+      "Url": "https://nutritionfacts.org/topics/neurotoxins/"
+    },
+    {
+      "Title": "toothpaste",
+      "Url": "https://nutritionfacts.org/topics/toothpaste/"
+    },
+    {
+      "Title": "water",
+      "Url": "https://nutritionfacts.org/topics/water/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the third video in a five-part series on water fluoridation. The first two were </span><a href=\"https://nutritionfacts.org/video/why-is-there-fluoride-in-water-is-it-effective/\"><span style=\"font-weight: 400\">Why Is There Fluoride in Water? Is It Effective?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/side-effects-of-water-fluoridation-dental-fluorosis/\"><span style=\"font-weight: 400\">Side Effects of Water Fluoridation: Dental Fluorosis</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">The next video is </span><a href=\"https://nutritionfacts.org/video/why-i-changed-my-mind-on-water-fluoridation/\"><span style=\"font-weight: 400\">Why I Changed My Mind on Water Fluoridation</span></a><span style=\"font-weight: 400\">, and the series will wrap up with </span><a href=\"https://nutritionfacts.org/video/medicines-response-to-the-changing-science-on-fluoride-safety/\"><span style=\"font-weight: 400\">Medicine’s Response to the Changing Science on Fluoride Safety</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

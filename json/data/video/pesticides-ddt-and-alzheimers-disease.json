@@ -1,0 +1,135 @@
+{
+  "Title": "Pesticides (DDT) and Alzheimer’s Disease",
+  "Url": "https://nutritionfacts.org/video/pesticides-DDT-and-alzheimers-disease/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/7ze3488pxrg"
+  },
+  "UpdatedAt": "2022-04-11T11:50:37+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 57",
+    "Url": "https://nutritionfacts.org/volumes/volume-57/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How can we avoid the breakdown product of pesticides that may increase the risk of Alzheimer’s disease as much as if you carried APOE e4, the so-called Alzheimer’s gene?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAlthough there is a growing list of Alzheimer’s disease susceptibility genes, even if you put them all altogether, they account for less than half of all Alzheimer’s cases. The single most compelling piece of data on the potential control we have over the disease is the fact that if you have identical twins, with the exact same genes, even if one gets Alzheimer’s, the other usually does not. So, we have to think about all the other contributing factors beyond just genetics.\nIn my video on pesticides and cancer, I talked about this study. There’s a list of chlorinated pesticides, including DDE (a metabolite of DDT), that are classified by the EPA as probable human carcinogens. But in the study, blood levels of DDE and others were associated not with increased cancer mortality, but increased risk of other-cause mortality. This led researchers to speculate this may be due to an associated increased risk of diabetes or dementia. I’ve talked previously about the diabetes link. What about dementia? One study: “Elevated Serum Pesticide Levels and Risk for Alzheimer Disease.”\nA research team at Rutgers found significantly higher blood levels of DDE in Alzheimer’s disease patients compared to controls, and autopsy studies show blood levels are a good proxy for brain levels. Those with the highest levels were at about four times the odds of being demented with Alzheimer’s. And in a petri dish, DDE increases amyloid precursor protein levels in human brain cells, providing a potential mechanism. Here are the levels of the sticky protein implicated in the development of Alzheimer’s disease before and after some DDE is added at the levels one finds circulating in highly exposed individuals in the general population.\nPut all these studies together, and there does indeed seem to be a link, consistent with data showing about a doubling of risk for developing dementia among those acutely pesticide poisoned. Among U.S. elders, DDT and its breakdown product DDE are also associated with increased risk of cognitive decline in general.\nDDT was extensively used in the United States from the 1940s through the 1960s. At its peak, we were churning out 180 million pounds a year. And it’s still in our bodies to this day, contaminating the bloodstreams of more than 90 percent of Americans, and DDE, the pesticide linked to quadrupling the odds of Alzheimer’s, were at the highest levels.\nIt’s still in our bodies because it’s still in the food supply. In my last video on the topic, I noted that the levels of DDT, DDE, and other banned pesticides and pollutants were much lower in the breast milk from a vegetarian mother compared to breast milk of her non-vegetarian sister. And the largest difference was noted for DDE, which was four times lower in the vegetarian sister.\nThis is what you see across the board for these kinds of pollutants. Food samples were collected from supermarkets across the U.S. Here’s what they found for dioxins and PCBs in beef, chicken, pork, processed meat, eggs, fish, all plant-foods put together, and dairy products. These toxins build up in the food chain; so, it makes sense that the most contaminated foods are meat, fish, and dairy products. There are 5 to 10 times higher levels in meat, eggs, fish, and dairy than what they found in plant foods. And unfortunately, cooking doesn’t destroy pollutants like DDE—in fact it may make them even more concentrated. And this is for a pesticide that may increase the risk of Alzheimer’s disease as much as if you carried the so-called Alzheimer’s gene APOE e4.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Dekosky ST, Gandy S. Environmental exposures and the risk for Alzheimer disease: can we identify the smoking guns?. JAMA Neurol. 2014;71(3):273-5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24473699/"
+    },
+    {
+      "Title": "Fry K, Power MC. Persistent organic pollutants and mortality in the United States, NHANES 1999-2011. Environ Health. 2017;16(1):105.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29017533/"
+    },
+    {
+      "Title": "Kim KS, Lee YM, Lee HW, Jacobs DR Jr, Lee DH. Associations between organochlorine pesticides and cognition in U.S. elders: National Health and Nutrition Examination Survey 1999-2002. Environ Int. 2015;75:87-92.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25461417/"
+    },
+    {
+      "Title": "Lin JN, Lin CL, Lin MC, et al. Increased Risk of Dementia in Patients With Acute Organophosphate and Carbamate Poisoning: A Nationwide Population-Based Cohort Study. Medicine (Baltimore). 2015;94(29):e1187.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26200627/"
+    },
+    {
+      "Title": "Norén K. Levels of organochlorine contaminants in human milk in relation to the dietary habits of the mothers. Acta Paediatr Scand. 1983;72(6):811-6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/6424401/"
+    },
+    {
+      "Title": "Planche C, Ratel J, Blinet P, et al. Effects of pan cooking on micropollutants in meat. Food Chem. 2017;232:395-404.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28490090/"
+    },
+    {
+      "Title": "Richardson JR, Roy A, Shalat SL, et al. Elevated serum pesticide levels and risk for Alzheimer disease. JAMA Neurol. 2014;71(3):284-90.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24473795/"
+    },
+    {
+      "Title": "Schecter A, Cramer P, Boggess K, Stanley J, Olson JR. Levels of dioxins, dibenzofurans, PCB and DDE congeners in pooled food samples collected in 1995 at supermarkets across the United States. Chemosphere. 1997;34(5-7):1437-47.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9134677/"
+    },
+    {
+      "Title": "Yan D, Zhang Y, Liu L, Yan H. Pesticide exposure and risk of Alzheimer's disease: a systematic review and meta-analysis. Sci Rep. 2016;6:32222.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27581992/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "dioxins",
+      "Url": "https://nutritionfacts.org/topics/dioxins/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "memory",
+      "Url": "https://nutritionfacts.org/topics/memory/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    },
+    {
+      "Title": "pesticides",
+      "Url": "https://nutritionfacts.org/topics/pesticides/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>The video I mentioned is <a href=\"https://nutritionfacts.org/video/pesticides-and-cancer-risk/\">Pesticides and Cancer Risk</a>.</p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/does-aluminum-cause-alzheimers-disease/\">Does Aluminum Cause Alzheimer’s Disease?</a> Check out the video.</p>\n<p>For more videos on Alzheimer’s disease, check out the Alzheimer’s <a href=\"https://nutritionfacts.org/topics/alzheimers-disease/\">topic page</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

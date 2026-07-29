@@ -1,0 +1,103 @@
+{
+  "Title": "Protein and Heart Disease",
+  "Url": "https://nutritionfacts.org/video/protein-and-heart-disease/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/zYuxGs49k-o"
+  },
+  "UpdatedAt": "2012-11-09T12:30:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Why is the intake of animal protein associated with heart disease—even independent of saturated fat—and the intake of plant protein protective?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWe know that the quality and quantity of fat is tightly correlated with the risk of our #1 killer—heart disease. But, what about protein? Out of Harvard recently: “Dietary protein and risk of ischemic heart disease in middle-aged men.”\nIndependent of source, and independent of fat, do you think total protein intake was associated with more heart disease? Less heart disease? Or, no difference? And, the answer they found was, no difference. The quantity didn’t seem to matter.\nBut, what about the quality—the source of the protein?\n“[They] observed no association between [total] dietary protein and risk of total [heart disease] in this group of men. However, higher intake of animal protein may be associated with an increased risk of [ischemic heart disease] in ‘healthy’ men” [meaning those without hypertension, high cholesterol or diabetes].” “Healthy” only in quotes though, given their higher risk of heart disease, due to their consumption of animal protein.\nThey also observed “a significant inverse association between higher vegetable protein intake and risk of fatal heart disease.” So, more plants; less heart disease. Meaning, the more plants, and fewer animals, one eats would appear to be better for the heart—even independent of the fat issue.\nSo, the benefits of a plant-based diet may extend beyond just avoiding saturated animal fat.\nBut, isn’t protein just protein, though? I mean, how does your body know if it’s coming from a plant, or an animal? Well, proteins are made up of a string of amino acids, and there are some amino acids more common in plants than in animals—particularly glutamic acid, which a study published in the Journal of the American Heart Association was found, for example, to potentially “have independent [blood pressure]-lowering effects, which may contribute to the inverse relation [between] vegetable protein to [blood pressure],”—meaning high plants; low pressure.\nTheir data “generally reinforce current recommendations for a high intake of vegetable products as a part of comprehensive nutritional/lifestyle approaches to preventing and controlling major established cardiovascular risk factors and epidemic cardiovascular disease.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Preis SR, Stampfer MJ, Spiegelman D, Willett WC, Rimm EB. Dietary protein and risk of ischemic heart disease in middle-aged men. Am J Clin Nutr. 2010 Nov;92(5):1265-72.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954454/pdf/ajcn9251265.pdf"
+    },
+    {
+      "Title": "Stamler J, Brown IJ, Daviglus ML, Chan Q, Kesteloot H, Ueshima H, Zhao L, Elliott P; INTERMAP Research Group. Glutamic acid, the main dietary amino acid, and blood pressure: the INTERMAP Study (International Collaborative Study of Macronutrients, Micronutrients and Blood Pressure). Circulation. 2009 Jul 21;120(3):221-8.",
+      "Url": "http://circ.ahajournals.org/content/120/3/221.full.pdf+html"
+    }
+  ],
+  "Acknowledgements": "Images thanks to National Human Genome Research Institute; This Girl Lel; and Bludgeoner86 via flickr",
+  "Topics": [
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetable protein",
+      "Url": "https://nutritionfacts.org/topics/vegetable-protein/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p style=\"text-align: left\">This is another reason plant protein is preferable (see <a href=\"https://nutritionfacts.org/video/plant-protein-preferable/\">Plant Protein Preferable</a>). Cheaper, too! See <a href=\"https://nutritionfacts.org/video/eating-healthy-on-the-cheap/\">Eating Healthy on the Cheap</a>. Other healthier sources of protein, such as nuts, also lower heart disease risk via a variety of mechanisms. See, for example, <a href=\"https://nutritionfacts.org/video/how-do-nuts-prevent-sudden-cardiac-death/\">How Do Nuts Prevent Sudden Cardiac Death?</a> More landmark research for Harvard in <a href=\"https://nutritionfacts.org/video/harvards-meat-and-mortality-studies/\">Harvard’s Meat and Mortality Studies</a>, and <a href=\"https://nutritionfacts.org/video/what-women-should-eat-to-live-longer/\">What Women Should Eat to Live Longer</a>.</p>\n<p>For further context, check out my associated blog post: <a href=\"https://nutritionfacts.org/2012/05/03/stool-size-and-breast-cancer-risk/\">Stool Size and Breast Cancer Risk</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

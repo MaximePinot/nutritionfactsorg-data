@@ -1,0 +1,147 @@
+{
+  "Title": "Vinegar Mechanisms and Side Effects",
+  "Url": "https://nutritionfacts.org/video/vinegar-mechanisms-side-effects/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/wFaFHs3ZUWg"
+  },
+  "UpdatedAt": "2016-05-11T12:20:57+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 30",
+    "Url": "https://nutritionfacts.org/volumes/volume-30/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Does vinegar work by slowing stomach emptying, acting as a starch blocker, or improving insulin sensitivity? What might be the downsides?",
+  "Transcript": "As I note in my chapter on greens in my book, How Not to Die, vinegar may be one condiment that’s actually good for you. Randomized controlled trials involving both diabetic and non-diabetic individuals found that adding two teaspoons of vinegar to a meal may improve blood sugar control—effectively blunting the blood sugar spike after a meal by about 20 percent. But how?\nOriginally, we thought it was because vinegar delayed the gastric emptying rate, slowing the speed at which a meal leaves your stomach, which makes sense, because there are acid receptors in the first part of the small intestine where the stomach acid is neutralized. And so, if there is excess acid, the body slows down stomach emptying to give the intestine time to buffer it all. So, the acid in vinegar was thought to slow the rate at which food leaves the stomach, resulting in a blunted sugar spike.\nBut then, studies like this were published, where taking apple cider vinegar before bedtime resulted in lower blood sugars the next morning. How does that work? That’s obviously not some acid-induced stomach-slowing effect. And indeed, anyone who actually went to the trouble of sticking an ultrasound probe on someone’s stomach could have told you that—no difference in stomach-emptying times comparing vinegar to neutralized vinegar. So, it’s not just an acid effect. Back to square one.\nStudies like this offered the next clue. Vinegar appeared to have no effect on blood sugars, but this was after giving people a straight glucose solution. Glucose is a byproduct of sugar and starch digestion, and so, if vinegar blunts the blood sugar spike from cotton candy and Wonder Bread, but not glucose, maybe it works by suppressing the enzymes that digest sugars and starches. And indeed, vinegar appears to block the enzyme that breaks down table sugar. But it wasn’t just an acid effect; there appears to be something unique about acetic acid, the acid in vinegar. But this was based on intestinal cells in a petri dish. What about in people? Feed people some mashed potatoes with and without vinegar, and glucose flows into the bloodstream at the same rate either way; so, there’s another theory shot down.\nSo, let’s figure this out. If sugar enters the bloodstream at the same rate with or without vinegar, but vinegar leads to significantly less sugar in the blood, then logically it must be leaving the bloodstream faster. And indeed, vinegar ingestion appears to enhance sugar disposal by lowering insulin resistance, which is the cause of type 2 diabetes, and indeed, vinegar ingestion does appear to improve the action of insulin in diabetics. The mystery of how vinegar works appears to have been solved, at least in part.\nSo, diabetics can add vinegar to their mashed potatoes, or just not eat mashed potatoes. If you add vinegar to a high-fiber meal, nothing happens, explaining results like this. No effects of vinegar in diabetics in response to a meal. No surprise, because the meal was mostly beans. But if you are going to eat high glycemic index foods like refined grains, vinegar can help, though there are some caveats.\nDon’t drink vinegar straight, as it may cause intractable hiccups and can burn your esophagus, as can apple cider vinegar tablets, if they get lodged in your throat—not that apple cider vinegar tablets necessarily actually have any apple cider vinegar in them at all. Don’t pour it on your kid’s head to treat head lice. It’s not harmful—except when it leaks onto the face and penetrates the eyes, and it turns out it doesn’t even work. Can cause third degree burns if you soak a bandage with it and leave it on.\nThough as many as a total of six tablespoons a day of vinegar were not associated with any side effects in the short term, until we know more, maybe we’d want to stick with more common culinary-type doses, like two tablespoons max a day. For example, drinking 2,000 cups of vinegar was found to be a bad idea.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A D Salbe, C S Johnston, M A Buyukbese, P D Tsitouras, S M Harman. Vinegar lacks antiglycemic action on enteral carbohydrate absorption in human subjects. Nutr Res. 2009 Dec;29(12):846-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19963157"
+    },
+    {
+      "Title": "A M White, C S Johnston. Vinegar ingestion at bedtime moderates waking glucose concentrations in adults with well-controlled type 2 diabetes. Diabetes Care. 2007 Nov;30(11):2814-5. Epub 2007 Aug 21.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17712024"
+    },
+    {
+      "Title": "C H Chung. Corrosive oesophageal injury following vinegar ingestion. Hong Kong Med J. 2002 Oct;8(5):365-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/12376715"
+    },
+    {
+      "Title": "C S Johnston, I Steplewska, C A Long, L N Harris, R H Ryals. Examination of the antiglycemic properties of vinegar in healthy adults. Ann Nutr Metab. 2010;56(1):74-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20068289"
+    },
+    {
+      "Title": "E Petsiou, P Mitrou, S A Raptis, G D Dimitriadis. Effect and mechanisms of action of vinegar on glucose metabolism, lipid profile, and body weight. Nutr Rev. 2014 Oct;72(10):651-61.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25168916"
+    },
+    {
+      "Title": "F Brighenti, G Castellani, L Benini, M C Casiraghi, E Leopardi, R Crovetti, G Testolin. Effect of neutralized and native vinegar on blood glucose and acetate responses to a mixed meal in healthy subjects. Eur J Clin Nutr. 1995 Apr;49(4):242-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/7796781"
+    },
+    {
+      "Title": "H Liljeberg, I Björck. Delayed gastric emptying rate may explain improved glycaemia in healthy subjects to a starchy meal with added vinegar. Eur J Clin Nutr. 1998 May;52(5):368-71.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9630389"
+    },
+    {
+      "Title": "J N Hunt, M T Knox. The regulation of gastric emptying of meals containing citric acid and salts of citric acid. J Physiol. 1962 Aug;163:34-45.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14450029"
+    },
+    {
+      "Title": "J W van Dijk, K Tummers, H M Hamer, L J van Loon. Vinegar co-ingestion does not improve oral glucose tolerance in patients with type 2 diabetes. J Diabetes Complications. 2012 Sep-Oct;26(5):460-1.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22699111"
+    },
+    {
+      "Title": "K Lhotta, G Höfle, R Gasser, G Finkenstedt. Hypokalemia, hyperreninemia and osteoporosis in a patient ingesting large amounts of cider vinegar. Nephron. 1998 Oct;80(2):242-3.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9736833"
+    },
+    {
+      "Title": "L L Hill, L H Woodruff, J C Foote, M Barreto-Alcoba. Esophageal injury by apple cider vinegar tablets and subsequent evaluation of products. J Am Diet Assoc. 2005 Jul;105(7):1141-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15983536"
+    },
+    {
+      "Title": "M Takano-Lee, J D Edman, B A Mullens, J M Clark. Home remedies to control head lice: assessment of home remedies to control the human head louse, Pediculus humanus capitis (Anoplura: Pediculidae). J Pediatr Nurs. 2004 Dec;19(6):393-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15637580"
+    },
+    {
+      "Title": "N Kahraman, B. Kuzeyli; Mesci; A. Oguz. The Effect of Vinegar on Postprandial Glycemia: Does the amount matter? Acta Endocrinologica (1841-0987);Oct-Dec2011, 7(4): 577.",
+      "Url": "http://connection.ebscohost.com/c/articles/70125180/effect-vinegar-postprandial-glycemia-does-amount-matter"
+    },
+    {
+      "Title": "N Ogawa, H Satsu, H Watanabe, M Fukaya, Y Tsukamoto, Y Miyamoto, M Shimizu. Acetic acid suppresses the increase in disaccharidase activity that occurs during culture of caco-2 cells.J Nutr. 2000 Mar;130(3):507-13.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10702577"
+    },
+    {
+      "Title": "N Varvarelis, H Khallafi, B Pappachen, M Krishnamurthy. Natural therapies--when ignorance is not bliss!!  J Am Geriatr Soc. 2007 Nov;55(11):1892-3.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17979912"
+    },
+    {
+      "Title": "P Benmeir, S Lusthaus, A Weinberg, A Neuman, A Eldad. Facial chemical burn. Burns. 1994 Jun;20(3):282.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/8054153"
+    },
+    {
+      "Title": "P Mitrou, E Petsiou, E Papakonstantinou, E Maratou, V Lambadiari, P Dimitriadis, F Spanoudi, S A Raptis, G Dimitriadis.  Vinegar Consumption Increases Insulin-Stimulated Glucose Uptake by the Forearm Muscle in Humans with Type 2 Diabetes. J Diabetes Res. 2015;2015:175204.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/26064976"
+    },
+    {
+      "Title": "P Mitrou, E Petsiou, E Papakonstantinou, E Maratou, V Lambadiari, P Dimitriadis, F Spanoudi, S A Raptis, G Dimitriadis. The role of acetic acid on glucose uptake and blood flow rates in the skeletal muscle in humans with impaired glucose tolerance.Eur J Clin Nutr. 2015 Jun;69(6):734-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25626409"
+    },
+    {
+      "Title": "S Kuniyuki, H Oonishi. Chemical burn from acetic acid with deep ulceration. Contact Dermatitis. 1997 Mar;36(3):169-70.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9145276"
+    },
+    {
+      "Title": "S Liatis, S Grammatikou, K A Poulia, D Perrea, K Makrilakis, E Diakoumopoulou, N Katsilambros. Vinegar reduces postprandial hyperglycaemia in patients with type II diabetes when added to a high, but not to a low, glycaemic index meal. Eur J Clin Nutr. 2010 Jul;64(7):727-32.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20502468"
+    }
+  ],
+  "Acknowledgements": "Image thanks to amarosy / 123rf",
+  "Topics": [
+    {
+      "Title": "apple cider vinegar",
+      "Url": "https://nutritionfacts.org/topics/apple-cider-vinegar/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "glycemic index",
+      "Url": "https://nutritionfacts.org/topics/glycemic-index/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "potatoes",
+      "Url": "https://nutritionfacts.org/topics/potatoes/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "vinegar",
+      "Url": "https://nutritionfacts.org/topics/vinegar/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>It’s worth noting that the time period in the final case report in the video was six years—so at a cup of apple cider vinegar a day, she drank more than 2,000 cups!</p>\n<p>Other good-for-you condiments include (salt-free) mustard and horseradish. You may be interested in my <a href=\"https://nutritionfacts.org/video/second-strategy-to-cooking-broccoli/\">Second Strategy to Cooking Broccoli</a> video.</p>\n<p>This is the final installment of my five-part video series on vinegar. If you missed any, here they are:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/apple-cider-vinegar-help-weight-loss/\">Does Apple Cider Vinegar Help with Weight Loss?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vinegar-artery-function/\">Vinegar and Artery Function</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-vinegar-help-with-blood-sugar-control/\">Can Vinegar Help with Blood Sugar Control?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/optimal-vinegar-dose/\">Optimal Vinegar Dose</a></li>\n</ul>\n<p data-pm-slice=\"1 1 [&#34;list&#34;,null,&#34;list_item&#34;,{&#34;indent&#34;:1,&#34;type&#34;:&#34;numbered&#34;}]\">2023 Update: I recently put out new videos on vinegar. Check out <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/vinegar-for-blood-sugar-control-and-polycystic-ovary-syndrome-pcos-treatment/\">Vinegar for Blood Sugar Control and Polycystic Ovary Syndrome (PCOS) Treatment</a> and <a href=\"https://nutritionfacts.org/video/topical-apple-cider-vinegar-for-treating-varicose-veins/\">Topical Apple Cider Vinegar for Treating Varicose Veins</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

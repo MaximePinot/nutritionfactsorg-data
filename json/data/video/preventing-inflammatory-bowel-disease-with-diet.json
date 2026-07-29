@@ -1,0 +1,163 @@
+{
+  "Title": "Preventing Inflammatory Bowel Disease with Diet",
+  "Url": "https://nutritionfacts.org/video/preventing-inflammatory-bowel-disease-with-diet/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/GAlXptTD8iY"
+  },
+  "UpdatedAt": "2021-04-21T11:50:12+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 53",
+    "Url": "https://nutritionfacts.org/volumes/volume-53/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Eating a diet filled with animal products can disrupt your microbiome faster than taking an antibiotic.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIf you go online and search for Crohn’s disease and diet, or ulcerative colitis and diet, the top results are a hodgepodge of conflicting advice. What does the science say? If you do a systematic review of the medical literature on dietary intake and the risk of developing inflammatory bowel disease, Crohn’s disease is associated with the intake of fat and meat, whereas dietary fiber and fruits appear protective. The same foods are associated with the other major inflammatory bowel disease, ulcerative colitis: fat and meat, with a protective association found for vegetable intake.\nWhy, according to this meta-analysis of nine separate studies, do meat consumers have about a 50 percent greater risk for inflammatory bowel disease? One possibility is that meat may be a vehicle for bacteria that play a role in the development of such diseases. Meat contains huge amounts of Yersinia, for example. Yes, maybe antibiotic residues in the meat could be theoretically mucking with our microbiome, but Yersinia are so-called psychotropic bacteria, meaning they’re able to grow at fridge temperatures. It has been found to be significantly associated with inflammatory bowel disease, supporting this concept that Yersinia infection may be a trigger of chronic inflammatory bowel disease.\nOne reason why speciﬁcally animal protein was associated with triple the risk of inflammatory bowel disease, but plant protein was not, is because it can lead to the formation of toxic bacterial end products, such as the rotten egg gas, hydrogen sulfide. Hydrogen sulfide is not just one of the main “malodorous compounds in human flatus;” it’s a poison that has been implicated in ulcerative colitis. So, go on some meat-heavy, low-carb diet, and we’re not just talking about some “malodorous rectal ﬂatus,” but increased risk of irritable bowel, inflammatory bowel syndrome, and eventually, colorectal cancer.\nHydrogen sulfide in the colon comes from sulphur-containing amino acids like methionine that are concentrated in animal proteins, though there are also sulfites added as preservatives to some nonorganic wine and nonorganic dried fruit. It’s the sulphur-containing amino acids that may be the more important of the two. Give people increasing quantities of meat, and you can get an exponential rise in fecal sulfides.\nSpecific bacteria, like Biophilia wadsworthia, can take this sulfur that ends up in our colon and produce hydrogen sulfide. And give people an animal product-based diet packed with meat, eggs, and dairy, and you can specifically increase the growth of this bacteria. People underestimate the dramatic effect diet can have on our gut bacteria. Give people a fecal transplant, and it can take three days to shift your microbiome. Take a powerful antibiotic like Cipro, and it can take a week. But start packin’ in the meat and eggs, and within a single day you can change your microbiome—and not for the better. You can more than double the bad bacterial machinery that churns out hydrogen sulfide, consistent with the thinking that diet-induced changes to the gut flora may contribute to the development of inflammatory bowel disease. In other words, the increase in sulfur compounds in the colon when you eat meat is “not only of interest in the field of flatology,” the study of human farts.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Andersen V, Olsen A, Carbonnel F, Tjønneland A, Vogel U. Diet and risk of inflammatory bowel disease. Dig Liver Dis. 2012;44(3):185-94.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22055893/"
+    },
+    {
+      "Title": "Berg D, Clemente JC, Colombel JF. Can inflammatory bowel disease be permanently treated with short-term interventions on the microbiome? Expert Rev Gastroenterol Hepatol. 2015;9(6):781-95.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25665875/"
+    },
+    {
+      "Title": "David LA, Maurice CF, Carmody RN, et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature. 2014;505(7484):559-63.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24336217/"
+    },
+    {
+      "Title": "Ge J, Han TJ, Liu J, et al. Meat intake and risk of inflammatory bowel disease: A meta-analysis. Turk J Gastroenterol. 2015;26(6):492-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26575042/"
+    },
+    {
+      "Title": "Geypens B, Claus D, Evenepoel P, et al. Influence of dietary protein supplements on the formation of bacterial metabolites in the colon. Gut. 1997;41(1):70-6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9274475/"
+    },
+    {
+      "Title": "Hou JK, Abraham B, El-Serag H. Dietary intake and risk of developing inflammatory bowel disease: A systematic review of the literature. Am J Gastroenterol. 2011;106(4):563-73.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21468064/"
+    },
+    {
+      "Title": "Hou JK, Lee D, Lewis J. Diet and inflammatory bowel disease: Review of patient-targeted recommendations. Clin Gastroenterol Hepatol. 2014;12(10):1592-1600.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24107394/"
+    },
+    {
+      "Title": "Hugot JP, Alberti C, Berrebi D, Bingen E, Cézard JP. Crohn's disease: The cold chain hypothesis. Lancet. 2003;362(9400):2012-5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14683664/"
+    },
+    {
+      "Title": "Jantchou P, Morois S, Clavel-Chapelon F, Boutron-Ruault M, Carbonnel F. Animal protein intake and risk of inflammatory bowel disease: The E3N Prospective Study. Am J Gastroenterol. 2010;105(10):2195-201.",
+      "Url": "https://doi.org/10.1038/ajg.2010.192"
+    },
+    {
+      "Title": "Jowett SL, Seal CJ, Pearce MS, et al. Influence of dietary factors on the clinical course of ulcerative colitis: A prospective cohort study. Gut. 2004;53(10):1479-84.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15361498/"
+    },
+    {
+      "Title": "Magee EA, Richardson CJ, Hughes R, Cummings JH. Contribution of dietary protein to sulfide production in the large intestine: An in vitro and a controlled feeding study in humans. Am J Clin Nutr. 2000;72(6):1488-94.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11101476/"
+    },
+    {
+      "Title": "Saebo A, Vik E, Lange OJ, Matuszkiewicz L. Inflammatory bowel disease associated with Yersinia enterocolitica O:3 infection. Eur J Intern Med. 2005;16(3):176-82.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15967332/"
+    },
+    {
+      "Title": "Tilg H, Kaser A. Diet and relapsing ulcerative colitis: Take off the meat? Gut. 2004;53(10):1399-401.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15361484/"
+    },
+    {
+      "Title": "Yao CK, Muir JG, Gibson PR. Review article: Insights into colonic protein fermentation, its modulation and potential health implications. Aliment Pharmacol Ther. 23016;43(2):181-96.",
+      "Url": "https://doi.org/10.1111/apt.13456"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "Bilophilia wadsworthia",
+      "Url": "https://nutritionfacts.org/topics/bilophilia-wadsworthia/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "colorectal cancer",
+      "Url": "https://nutritionfacts.org/topics/colorectal-cancer/"
+    },
+    {
+      "Title": "Crohn's disease",
+      "Url": "https://nutritionfacts.org/topics/crohns-disease/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fecal transplant",
+      "Url": "https://nutritionfacts.org/topics/fecal-transplant/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "inflammatory bowel disease",
+      "Url": "https://nutritionfacts.org/topics/inflammatory-bowel-disease/"
+    },
+    {
+      "Title": "low-carb diets",
+      "Url": "https://nutritionfacts.org/topics/low-carb-diets/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "ulcerative colitis",
+      "Url": "https://nutritionfacts.org/topics/ulcerative-colitis/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the first in a three-part video series. Stay tuned for <a href=\"https://nutritionfacts.org/video/the-best-diet-for-ulcerative-colitis-treatment/\">The Best Diet for Ulcerative Colitis Treatment</a> and <a href=\"https://nutritionfacts.org/video/the-best-diet-for-crohns-disease-treatment/\">The Best Diet for Crohn’s Disease Treatment</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

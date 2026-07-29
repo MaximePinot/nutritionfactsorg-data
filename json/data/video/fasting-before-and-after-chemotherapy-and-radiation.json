@@ -1,0 +1,115 @@
+{
+  "Title": "Fasting Before and After Chemotherapy and Radiation",
+  "Url": "https://nutritionfacts.org/video/fasting-before-and-after-chemotherapy-and-radiation/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/egcXOpa8znA"
+  },
+  "UpdatedAt": "2022-09-21T11:50:11+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 59",
+    "Url": "https://nutritionfacts.org/volumes/volume-59/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Might short-term fasting during cancer treatment minimize side effects while boosting efficacy?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: A few weeks ago, I released two videos on the general effectiveness of chemotherapy. What happens when you add fasting to the mix? This is the first in a three-video series exploring that very question.\nFor the past 50 years, chemotherapy has been a major medical treatment for a wide range of cancers. Its main strategy has been largely based on targeting cancer cells, by means of DNA damage caused in part by the production of free radicals. Although these drugs were first believed to be quite selective for tumor cells, we now know that normal cells also experience severe chemotherapy-dependent damage, leading to dose-limiting side effects, including bone marrow and immune system suppression, fatigue, vomiting, diarrhea, and in some cases, even death. And if you do survive, the DNA damage to normal cells can even lead to new cancers down the road. There are cell-protecting drugs that have been tried to reduce the side effects so you can pump in higher chemo doses, but these drugs have not been shown to increase survival––in part because they may also be protecting the cancer cells. What about instead using fasting for cellular protection during cancer treatment?\nFasting may have an unrecognized role in cancer prevention and treatment. Short-term fasting before and immediately after chemotherapy may minimize side effects, while at the same time may actually make cancer cells more sensitive to treatment. That’s exciting. During nutrient deprivation, healthy cells switch from growth to maintenance and repair, but tumor cells are unable to slow down their unbridled growth due to growth-promoting mutations that led them to become cancer cells in the first place. This inability to adapt to starvation may represent an important Achilles’ heel for many types of cancer cells.\nAs a consequence of these differential responses of healthy versus cancer cells to short-term fasting, chemotherapy causes more DNA damage and cell suicide in tumor cells, while potentially leaving healthy cells unharmed. Thus, short-term fasting may protect healthy cells against the toxic properties of chemotherapy and render tumor cells more sensitive––or at least that’s the theory. Let’s test it out.\nTyrosine kinase inhibitors are a group of chemo drugs that are now the mainstay of treatment in many types of cancer. Let’s see them in action. These are petri dishes filled with cancer cells that have been dyed pink. Two types of lung cancer cells, and one type of colorectal cancer. This is the before, and this the after, exposed to the chemo drugs erlotinib, gefitinib, crizotinib, and regorafenib. See how there’s less pink? That shows how many cancer cells the chemo killed off. Starve the cells for 24 hours first, though, and the drugs work even better. Even the starvation alone, without the drugs, killed off a bunch of them. The researchers conclude that these TKI drugs that are commonly administered for treating solid tumors become potentiated in their activity by 24 hours of starvation––but that’s in a petri dish.\nSimilar results were found for breast cancer and a chemo drug called doxorubicin. Here’s five days of unhindered growth of breast cancer in a petri dish: from 150,000 cancer cells to 800,000 in under a week. Dripping on a little chemo can knock it down to around 600,000, but starve those cells for 48 hours first, and the chemo can completely keep them in check. Even the short-term starvation alone can restrain growth. Short-term fasting raises the possibility that you could get twice the effect, for half the dose, which may be particularly important for a drug as toxic as doxorubicin, which causes heart failure in as many as one in three at higher doses. Again, though, these are just in vitro studies in a petri dish.\nThen, researchers moved to mice, and found the same dual benefit: less toxic chemo, yet at the same time more effective, and not just by a little. A high enough chemo dose to kill 100 percent in less than a week. But after being starved for 60 hours, after the same dose, 100 percent survived. Okay, that’s the toxicity. What about efficacy? Here’s tumor growth without chemo, growth with chemo, and with chemo after short-term fasting, and this translated into improved survival.\nInterestingly, fasting alone appeared to work as well as the chemo, and the same thing with radiation. Unbridled tumor growth knocked down by radiation therapy, and even more so after the combination of radiation and alternate-day fasting. But alternate-day fasting alone seemed to do as well as the radiation. Okay, but that’s breast cancer in mice. I’m sure Mickey is thrilled for Minnie, but what about in people? We’ll explore that next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Caffa I, D’Agostino V, Damonte P, et al. Fasting potentiates the anticancer activity of tyrosine kinase inhibitors by strengthening MAPK signaling inhibition. Oncotarget. 2015;6(14):11820-32.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25909220"
+    },
+    {
+      "Title": "Dirks-Naylor AJ, Kouzi SA, Yang S, Tran NT, Bero JD, Mabolo R, Phan DT, Whitt SD, Taylor HN. Can short-term fasting protect against doxorubicin-induced cardiotoxicity? World J Biol Chem. 2014 Aug 26;5(3):269-74. doi: 10.4331/wjbc.v5.i3.269. PMID: 25225594",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25225594/"
+    },
+    {
+      "Title": "Hine C, Mitchell JR. Saying no to drugs: fasting protects hematopoietic stem cells from chemotherapy and aging. Cell Stem Cell. 2014;14(6):704-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24905161"
+    },
+    {
+      "Title": "Lee C, Longo VD. Fasting vs dietary restriction in cellular protection and cancer treatment: from model organisms to patients. Oncogene. 2011;30(30):3305-16.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21516129"
+    },
+    {
+      "Title": "Lee C, Raffaghello L, Brandhorst S, et al. Fasting cycles retard growth of tumors and sensitize a range of cancer cell types to chemotherapy. Sci Transl Med. 2012;4(124):124ra27.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22323820"
+    },
+    {
+      "Title": "Lemon PW, Mullin JP. Effect of initial muscle glycogen levels on protein catabolism during exercise. J Appl Physiol Respir Environ Exerc Physiol. 1980;48(4):624-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/7380688"
+    },
+    {
+      "Title": "Raffaghello L, Lee C, Safdie FM, et al. Starvation-dependent differential stress resistance protects normal but not cancer cells against high-dose chemotherapy. Proc Natl Acad Sci U S A. 2008;105(24):8215-20.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18378900"
+    },
+    {
+      "Title": "Rizzo S, Cangemi A, Galvano A, et al. Analysis of miRNA expression profile induced by short term starvation in breast cancer cells treated with doxorubicin. Oncotarget. 2017;8(42):71924-32.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29069757"
+    },
+    {
+      "Title": "Sailaja BS, He XC, Li L. Stem cells matter in response to fasting. Cell Rep. 2015;13(11):2325-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26705824"
+    },
+    {
+      "Title": "Saleh AD, Simone BA, Palazzo J, et al. Caloric restriction augments radiation efficacy in breast cancer. Cell Cycle. 2013;12(12):1955-63.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23708519"
+    },
+    {
+      "Title": "de Groot S, Pijl H, van der Hoeven JJM, Kroep JR. Effects of short-term fasting on cancer treatment. J Exp Clin Cancer Res. 2019;38(1):209.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31113478"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "colorectal cancer",
+      "Url": "https://nutritionfacts.org/topics/colorectal-cancer/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fasting",
+      "Url": "https://nutritionfacts.org/topics/fasting/"
+    },
+    {
+      "Title": "free radicals",
+      "Url": "https://nutritionfacts.org/topics/free-radicals/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "radiation",
+      "Url": "https://nutritionfacts.org/topics/radiation/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the second video in a four-part series on fasting and cancer. In case you missed the first video, see </span><a href=\"https://nutritionfacts.org/video/fasting-for-cancer-what-about-cachexia/\"><span style=\"font-weight: 400\">Fasting for Cancer: What About Cachexia?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">The next two videos in the series are </span><a href=\"https://nutritionfacts.org/video/fasting-before-and-after-chemotherapy-put-to-the-test/\"><span style=\"font-weight: 400\">Fasting Before and After Chemotherapy Put to the Test</span></a> and <a href=\"https://nutritionfacts.org/video/fasting-mimicking-diet-before-and-after-chemotherapy/\"><span style=\"font-weight: 400\">Fasting-Mimicking Diet Before and After Chemotherapy</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">And, be sure to watch my overview videos on chemotherapy:</span> <a href=\"https://nutritionfacts.org/video/how-effective-is-chemotherapy/\"><span style=\"font-weight: 400\">How Effective Is Chemotherapy?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/how-much-does-chemotherapy-improve-survival/\"><span style=\"font-weight: 400\">How Much Does Chemotherapy Improve Survival?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p data-pm-slice=\"1 1 []\">2023 Update: I have two new videos you might be interested in – <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/a-case-of-stage-3-cancer-reversal-with-fasting/\">A Case of Stage 3 Cancer Reversal with Fasting</a> and <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/spontaneous-regression-of-cancer-with-fasting/\">Spontaneous Regression of Cancer with Fasting</a>. </p>\n<p><span style=\"font-weight: 400\">All of my videos on fasting can be found on this </span><a href=\"https://nutritionfacts.org/topics/fasting/\"><span style=\"font-weight: 400\">topic page</span></a><span style=\"font-weight: 400\">, or in the recordings of my </span><a href=\"https://drgreger.org/collections/videos/products/fasting-bundle-digital\"><span style=\"font-weight: 400\">fasting webinar series</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

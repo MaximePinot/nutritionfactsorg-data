@@ -1,0 +1,87 @@
+{
+  "Title": "The New Calories per Pound of Weight Loss Rule",
+  "Url": "https://nutritionfacts.org/video/the-new-calories-per-pound-of-weight-loss-rule/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/h_H-SQnueOI"
+  },
+  "UpdatedAt": "2019-10-07T11:50:05+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 48",
+    "Url": "https://nutritionfacts.org/volumes/volume-48/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Losing a pound of fat can take as few as 10 calories a day or as many as 55, depending on whether you’re improving food quality or just restricting food quantity.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIf the “3500 calories per pound” weight loss rule is bunk, what’s the alternative? How many fewer calories do you have to eat, or how many more do you have to burn, to lose a pound of fat?\nThere are validated mathematical models that take into account the dynamic changes that occur when you cut calories, such as the metabolic slowdown, and they’ve been turned into free online calculators that you can use to make personalized estimates. There’s the Body Weight Planner from the National Institutes of Health, and the Pennington Biomedical Research Center’s Weight Loss Predictor out of Louisiana State University. Here are the two direct links: the NIH Body Weight Planner and LSU Weight Loss Predictor.  Here are some shortened URLs: http://bit.ly/NIHcalculator.\nThe NIH Body Weight Planner has been found to be more accurate, since the LSU model appears to overestimate the drop in physical activity, but they both have their own pluses and minuses. The Body Weight Planner tells you how many calories you need to restrict and/or how much more exercise you need to do to achieve a specific weight loss goal by a specific date. If you click on the “Switch to Expert Mode” button you can get a graph and exportable chart showing your day-to-day weight loss trajectory. So, if you’re a middle-aged, sedentary average height woman obese at 175 pounds who wants to be closer to her ideal weight within a year, 2,000 calories a day would prevent future weight gain, about 1,400 calories a day would bring your weight down like this, and then you could maintain that lower weight at 1,700 calories a day. If, in addition, you walked a mile a day, it would give you a little more calorie leeway.\nThe LSU Weight Loss Predictor, on the other hand, doesn’t allow you to tweak physical activity, but the advantage is that you don’t have to choose a goal or time frame. Just put in different calorie changes, and it graphs out your expected course.\nIs there any easy rule of thumb you can use? Yes. Every permanent 10-calorie drop in daily intake will eventually lead to about one pound of weight loss, though it takes about a year to achieve half the total weight change, and about three years to completely settle into the new weight. So, cutting 500 calories a day can cause the 50-pound weight loss predicted by the 3,500 calorie rule—but that’s the total weight loss at which you plateau, not an annual drop, and it takes about three years to get there. A 500-calorie deficit would be expected to cause about a 25-pound weight loss the first year, and then an additional 25 over years two and three. That’s only if you can maintain the 500-calorie deficit, though.\nIf you’re eating the same diet that led to the original weight problem, but just in smaller servings, you should expect your appetite to rev up about 45 calories per pound lost. So, if you were cutting 500 calories a day through portion control alone, before you were down even a dozen pounds, you’d feel so famished that you’d be driven to eat 500 calories more a day, and your weight loss could vanish. That’s why if you’re dead set on eating the same diet, the same foods, but just in smaller quantities, you have to cut down an additional 45 calories per pound of desired weight loss to offset your hunger drive.\nSo, to get that one pound off, instead of just 10 calories less per day using the 10 calories per pound rule, you’d have to eat 10 calories less on top of the 45 less to account for the revving of your appetite, so, 45 +10 = 55. So, just changing diet quantity and not quality, it takes 55 calories less per day to lose a pound. So, that 500-calorie daily deficit would only net you about a 9-pound weight loss over time, instead of 50. That’s why portion control methods can be such a frustrating failure for so many people.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Guo J, Brager DC, Hall KD. Simulating long-term human weight-loss dynamics in response to calorie restriction. Am J Clin Nutr. 2018;107(4):558–565.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248630"
+    },
+    {
+      "Title": "Hall KD, Chow CC. Why is the 3500 kcal per pound weight loss rule wrong?. Int J Obes (Lond). 2013;37(12):1614.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23774459"
+    },
+    {
+      "Title": "Hall KD, Sacks G, Chandramohan D, et al. Quantification of the effect of energy imbalance on bodyweight. Lancet. 2011;378(9793):826-37.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21872751"
+    },
+    {
+      "Title": "Hall KD, Schoeller DA, Brown AW. Reducing Calories to Lose Weight. JAMA. 2018;319(22):2336-2337.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29896621"
+    },
+    {
+      "Title": "National Institute of Diabetest and Digestive and Kidney Diseases. Body Weight Planner.",
+      "Url": "https://www.niddk.nih.gov/bwp"
+    },
+    {
+      "Title": "Thomas DM, Martin CK, Lettieri S, et al. Can a weight loss of one pound a week be achieved with a 3500-kcal deficit? Commentary on a commonly accepted rule. Int J Obes (Lond). 2013;37(12):1611-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23628852"
+    },
+    {
+      "Title": "Weight Loss Predictor. Pennington Biomedical Research Center.",
+      "Url": "https://www.pbrc.edu/research-and-faculty/calculators/weight-loss-predictor"
+    }
+  ],
+  "Acknowledgements": "Image credit: Vidmir Raic via pixabay. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "caloric restriction",
+      "Url": "https://nutritionfacts.org/topics/caloric-restriction/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "metabolism",
+      "Url": "https://nutritionfacts.org/topics/metabolism/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "weight gain",
+      "Url": "https://nutritionfacts.org/topics/weight-gain/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you missed the first two videos about calories per pound, check out <a href=\"https://nutritionfacts.org/video/the-3500-calorie-per-pound-rule-is-wrong/\">The 3,500 Calorie per Pound Rule Is Wrong</a> and <a href=\"https://nutritionfacts.org/video/the-reason-weight-loss-plateaus-when-you-diet/\">The Reason Weight Loss Plateaus When You Diet</a>.</p>\n<p>Here are those body weight calculators I mentioned: <a href=\"https://www.niddk.nih.gov/bwp\">NIH Body Weight Planner</a> and <a href=\"https://www.pbrc.edu/research-and-faculty/calculators/weight-loss-predictor/\">LSU Weight Loss Predictor</a>.</p>\n<p>I have tons more weight-loss videos, which you can find here on the <a href=\"https://nutritionfacts.org/topics/weight-loss/\">topic page</a>, and I cover weight extensively in my book <a href=\"https://nutritionfacts.org/book/how-not-to-diet/\"><em>How Not to Diet</em></a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

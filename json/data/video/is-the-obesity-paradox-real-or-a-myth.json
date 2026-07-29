@@ -1,0 +1,175 @@
+{
+  "Title": "Is the Obesity Paradox Real or a Myth?",
+  "Url": "https://nutritionfacts.org/video/is-the-obesity-paradox-real-or-a-myth/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/9QIjcOZgu2c"
+  },
+  "UpdatedAt": "2021-01-04T12:50:11+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 52",
+    "Url": "https://nutritionfacts.org/volumes/volume-52/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How do we explain studies that suggest overweight individuals live longer?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMartin Luther King, Jr. warned that human progress is neither automatic nor inevitable, and the same may be true of the human lifespan. In the 1800s, life expectancy was less than 40, but has been steadily increasing over the last two centuries, gaining about two years per decade. That is, until recently. Longevity gains have faltered or even reversed. Thanks to the obesity epidemic, we may now be raising the first American generation to live shorter lives than their parents.\nThe downward trend in longevity is expected to accelerate as the current younger generation (who started out heavier and earlier than ever before) ages into adulthood. If the obesity epidemic continues unchecked, current trends signal a potential “looming social and economic catastrophe.” In the coming decades, some predict we may lose two to five or more years of life expectancy in the United States. To put that into perspective, a miracle cure for all forms of cancer would only add 3.5 years to the average American lifespan. In other words, reversing the obesity epidemic might save more lives than curing cancer.\nThe evidence that being overweight increases your risk for debilitating diseases like diabetes is considered indisputable, but surprisingly, there’s controversy surrounding body weight and overall mortality. In 2013, CDC scientists published a meta-analysis in the Journal of the American Medical Association suggesting being overweight was actually advantageous. Yes, grade 2 or 3 obesity (like being average height, 5’6″, and weighing about 215+ pounds) was associated with living a shorter life, but grade 1 obesity (between about 185-215 pounds at that height) was not, and just being overweight (155-185 pounds) appeared to be protective compared to those who were normal weight (115 to 155 pounds). The overweight individuals—BMI 25 to 30—appeared to live the longest.\nHeadline writers were giddy: Being overweight can your extend life, “Dreading your diet? Don’t worry… plump people live LONGER.” Extra pounds might mean lower chance of death. Not surprisingly, the study ignited a firestorm of controversy in the public health community. The study was called “ludicrous,” “flawed,” “misleading.” The chair of nutrition at Harvard lost his cool, calling the study “really a pile of rubbish,” fearing the food industry might exploit this study in the same way the petroleum industry misuses “controversy” over climate change.\nPublic health advocates can’t just dismiss data they find inconvenient, though. Science is science. But how could being overweight increase the risk of life-threatening diseases, yet at the same time make you live longer? This became known as the “obesity paradox.” The solution to the puzzle appears to lie with two major sources of bias, the first being confounding by smoking.\nThe nicotine in tobacco can lead to weight loss. So, if you’re skinnier because you smoke, then no wonder you’d live a shorter life with a slimmer waist. The failure to control for the effect of smoking in studies purporting to show an “obesity paradox” leads to the dangers of obesity being “grossly underestimated.”\nThe second major source of bias is reverse causality. Instead of lower weight leading to life-threatening diseases, isn’t it more likely that life-threatening diseases are leading to lower weight? Conditions such as hidden tumors, chronic heart or lung disease, alcoholism, and depression can all cause unintentional weight loss months or even years before they are even diagnosed. It’s normal to be overweight in this country. So, people who are “abnormally” thin (in other words, ideal weight) could actually be taking care of themselves, but may be heavy smokers, elderly and frail, or seriously ill with weight loss from their disease.\nTo put the obesity paradox issue to the test once and for all, the Global BMI Mortality Collaboration was formed, reviewing data from more than 10 million people from hundreds of studies in dozens of countries—the largest evaluation of BMI and mortality in history. To help eliminate bias, they omitted smokers and those with known chronic disease, and then excluded the first five years of follow-up to try to remove from the analysis those with undiagnosed conditions who lost weight due to an impending death. And…the results were clear: being overweight, and all grades of obesity, were associated with a significantly greater risk of dying prematurely. So, adjusting for these biases leads to “eliminating the obesity paradox altogether.” In other words, the so-called obesity paradox appears to be just a myth.\nIndeed, when intentional weight loss is actually put to the test, people live longer. There are bariatric surgery studies like the SOS trial that show weight loss reduces long-term mortality, and randomizing people to weight loss though lifestyle changes shows the same thing. Losing a dozen pounds through diet and exercise was found to be associated with a 15 percent drop in overall mortality. Now, exercise alone may extend lifespan even without weight loss, but there also appears to be a similar longevity benefit of weight loss through dietary means alone.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Barry VW, Caputo JL, Kang M. The joint association of fitness and fatness on cardiovascular disease mortality: a meta-analysis. Prog Cardiovasc Dis. 2018;61(2):136-41.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29981352"
+    },
+    {
+      "Title": "Beck M. A few extra pounds won’t kill you-really. Wall Street Journal. January 1, 2013.",
+      "Url": "https://www.wsj.com/articles/SB10001424127887323635504578215801377387088"
+    },
+    {
+      "Title": "Berrigan D, Troiano RP, Graubard BI. BMI and mortality: the limits of epidemiological evidence. Lancet. 2016;388(10046):734-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27423263"
+    },
+    {
+      "Title": "Flegal KM, Ioannidis JPA. The Obesity Paradox: A Misleading Term That Should Be Abandoned. Obesity (Silver Spring). 2018;26(4):629-30.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29570246/"
+    },
+    {
+      "Title": "Flegal KM, Kit BK, Orpana H, Graubard BI. Association of all-cause mortality with overweight and obesity using standard body mass index categories: a systematic review and meta-analysis. JAMA. 2013;309(1):71-82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23280227"
+    },
+    {
+      "Title": "Global BMI Mortality Collaboration, Di Angelantonio E, Bhupathiraju SN, et al. Body-mass index and all-cause mortality: individual-participant-data meta-analysis of 239 prospective studies in four continents. Lancet. 2016;388(10046):776-86.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27423262"
+    },
+    {
+      "Title": "Hales CM, Carroll MD, Fryar CD, Ogden CL. Prevalence of Obesity Among Adults and Youth: United States, 2015-2016. NCHS Data Brief No. 288. October 2017.",
+      "Url": "https://www.cdc.gov/nchs/data/databriefs/db288.pdf"
+    },
+    {
+      "Title": "Hennekens CH, Andreotti F. Leading avoidable cause of premature deaths worldwide: case for obesity. Am J Med. 2013;126(2):97-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23331433"
+    },
+    {
+      "Title": "Hughes V. The big fat truth. Nature. May 22, 2013.",
+      "Url": "https://www.nature.com/news/the-big-fat-truth-1.13039"
+    },
+    {
+      "Title": "Kritchevsky SB, Beavers KM, Miller ME, et al. Intentional weight loss and all-cause mortality: a meta-analysis of randomized clinical trials. PLoS ONE. 2015;10(3):e0121993.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25794148"
+    },
+    {
+      "Title": "Ludwig DS. Lifespan weighed down by diet. JAMA. 2016;315(21):2269-70.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27043490"
+    },
+    {
+      "Title": "Macrae F. Dreading your diet? Don't worry... plump people live LONGER than their skinnier counterparts (but only if they're a few pounds overweight). DailyMail. January 1, 2013.",
+      "Url": "https://www.dailymail.co.uk/health/article-2255685/Dreading-diet-Dont-worry--plump-people-live-LONGER-skinnier-counterparts.html?ito=feeds-newsxml"
+    },
+    {
+      "Title": "Mann CC. Public health. Provocative study says obesity may reduce U.S. life expectancy. Science. 2005;307(5716):1716-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15774742"
+    },
+    {
+      "Title": "Mathers JC. Obesity and mortality: is childhood obesity shortening life expectancy? Maturitas. 2015;81(1):1-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25708225"
+    },
+    {
+      "Title": "Obesity paradox? Just a myth. Harv Heart Lett. 2014;24(8):8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25108936"
+    },
+    {
+      "Title": "Olshansky SJ, Passaro DJ, Hershow RC, et al. A potential decline in life expectancy in the United States in the 21st century. N Engl J Med. 2005;352(11):1138-45.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15784668"
+    },
+    {
+      "Title": "Overweight people 'live longer' study claims. NHS. January 2, 2013.",
+      "Url": "https://www.nicswell.co.uk/health-news/overweight-people-live-longer-study-claims"
+    },
+    {
+      "Title": "Pontiroli AE, Morabito A. Long-term prevention of mortality in morbid obesity through bariatric surgery. A systematic review and meta-analysis of trials performed with gastric banding and gastric bypass. Ann Surg. 2011;253(3):484-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21245741"
+    },
+    {
+      "Title": "Shea MK, Houston DK, Nicklas BJ, et al. The effect of randomization to weight loss on total mortality in older overweight and obese adults: the ADAPT Study. J Gerontol A Biol Sci Med Sci. 2010;65(5):519-25.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20080875"
+    },
+    {
+      "Title": "Stokes A, Preston SH. Smoking and reverse causation create an obesity paradox in cardiovascular disease. Obesity (Silver Spring). 2015;23(12):2485-90.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26421898"
+    },
+    {
+      "Title": "Tobias DK, Hu FB. Does being overweight really reduce mortality? Obesity (Silver Spring). 2013;21(9):1746-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24078231"
+    },
+    {
+      "Title": "Willett WC, Dietz WH, Colditz GA. Guidelines for healthy weight. N Engl J Med. 1999;341(6):427-34.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10432328"
+    },
+    {
+      "Title": "Willett WC, Hu FB, Thun M. Overweight, obesity, and all-cause mortality. JAMA. 2013;309(16):1681.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23613066"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "lifestyle medicine",
+      "Url": "https://nutritionfacts.org/topics/lifestyle-medicine/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "weight gain",
+      "Url": "https://nutritionfacts.org/topics/weight-gain/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you missed the previous videos in my series on the ABCs of obesity, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-best-knee-replacement-alternative-for-osteoarthritis-treatment/\">The Best Knee Replacement Alternative for Osteoarthritis Treatment</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-obesity-on-back-pain-blood-pressure-cancer-and-diabetes/\">The Effects of Obesity on Back Pain, Blood Pressure, Cancer, and Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-obesity-on-dementia-brain-function-and-fertility/\">The Effects of Obesity on Dementia, Brain Function, and Fertility</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-obesity-on-gallstones-acid-reflux-and-cardiovascular-disease/\">The Effects of Obesity on Gallstones, Acid Reflux, and Cardiovascular Disease</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-obesity-on-the-immune-system-and-kidney-and-liver-disease/\">The Effects of Obesity on the Immune System and Kidney and Liver Disease</a>s</li>\n</ul>\n<p>Check out the final two videos in this series: <a href=\"https://nutritionfacts.org/video/whats-the-ideal-bmi/\">What’s the Ideal BMI?</a> and <a href=\"https://nutritionfacts.org/video/whats-the-ideal-waist-size/\">What’s the Ideal Waist Size?</a></p>\n<p>I cover all of this and more at length in my book <a href=\"https://nutritionfacts.org/how-not-to-diet/\"><em>How Not to Diet</em></a>. And its companion—the brand-new <em><a href=\"https://nutritionfacts.org/book/how-not-to-diet-cookbook/\">How Not to Diet Cookbook</a></em>—has more than 100 delicious Green-Light recipes that incorporate some of my <a href=\"https://nutritionfacts.org/video/trailer-for-how-not-to-diet-dr-gregers-guide-to-weight-loss/\">21 Tweaks</a> for the acceleration of body fat loss.</p>\n<p>Why are people obese in the first place? I have a whole series of videos on that topic! See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-diet-vs-exercise-in-the-obesity-epidemic/\">The Role of Diet vs. Exercise in the Obesity Epidemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-genes-in-the-obesity-epidemic/\">The Role of Genes in the Obesity Epidemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-thrifty-gene-theory-survival-of-the-fattest/\">The Thrifty Gene Theory: Survival of the Fattest</a></li>\n<li><a href=\"https://nutritionfacts.org/video/cut-the-calorie-rich-and-processed-foods/\">Cut the Calorie-Rich-And-Processed Foods</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-processed-foods-in-the-obesity-epidemic/\">The Role of Processed Foods in the Obesity Epidemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-taxpayer-subsidies-in-the-obesity-epidemic/\">The Role of Taxpayer Subsidies in the Obesity Epidemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-marketing-in-the-obesity-epidemic/\">The Role of Marketing in the Obesity Epidemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-food-advertisements-in-the-obesity-epidemic/\">The Role of Food Advertisements in the Obesity Epidemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-personal-responsibility-in-the-obesity-epidemic/\">The Role of Personal Responsibility in the Obesity Epidemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-corporate-influence-in-the-obesity-epidemic/\">The Role of Corporate Influence in the Obesity Epidemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-the-toxic-food-environment-in-the-obesity-epidemic/\">The Role of the Toxic Food Environment in the Obesity Epidemic</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

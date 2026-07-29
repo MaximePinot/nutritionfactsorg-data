@@ -1,0 +1,83 @@
+{
+  "Title": "Do Mobile Phones Affect Sleep?",
+  "Url": "https://nutritionfacts.org/video/do-mobile-phones-affect-sleep/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Ye_3NLBKi6c"
+  },
+  "UpdatedAt": "2019-02-18T12:50:28+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 45",
+    "Url": "https://nutritionfacts.org/volumes/volume-45/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The effects of cell phone radiation on sleep quantity and quality.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Sleep is crucial to the development of physically and psychologically healthy children,” but a number of factors have been identified as interfering with sufficient sleep, including the use of electronic media devices. These days, most children, and nearly all adolescents, “have at least 1 [such] device in their sleep environment, with most used near bedtime.” And such use is associated with “inadequate sleep quantity [and] quality, with resultant excessive daytime sleepiness.” So, there are calls “to minimize device access at bedtime.” But, wait a second; not so fast; “which comes first, media use or sleep problem?” Are they not sleeping because they’re on their phone, or are they on their phone because they can’t sleep?\n“Higher media use has been consistently associated with [all sorts of] sleeping problems.” Is it because they’re so caught up they push back their bedtime? Or does it so key them up that they have trouble falling asleep? In college-age students it may be more of the reverse: the not sleeping leading to pulling out their screens instead of just staring at the ceiling—though in early childhood it may be a bit of both. How might screen time interfere with sleep?\nIt may not just be pushing back bedtimes and overstimulation. “[T]he light emitted from devices [may] affect…circadian timing” by interfering with the production of melatonin, the sleepiness hormone that starts ramping up as soon as the sun goes down. But put a screen in someone’s face, and the excess light at night may confuse your brain. Of course, if you’re sitting there checking email with the lights on, then you’re already overexposed, and the little extra from the screen may not make much difference. But if you are sitting in the dark and need to send off that final text, then having the light settings tweaked to yellow your screen may help.\nBut what about the cell phone radiation? Might leaving your phone on the nightstand somehow affect your sleep? There’s an enzyme called ß-trace protein that makes a sleep-promoting neurohormone in the brain, and researchers found that those with greater long-term cell or cordless phone exposure tended to have lower levels of this enzyme in their bloodstream. So, the thinking is that the emissions “may affect the release” from the tissues surrounding the brain, especially those right up under the skull, closest to the phone. So, there is a possible mechanism if cell phones do indeed affect sleep, but you simply don’t know until…you put to the test.\nStudy participants were exposed to 30 minutes of a cell phone in talk, listen, standby, or off modes. All the lights and speakers were disabled. There was insulation used to prevent them from feeling if it was heating up or anything, so the participants didn’t know which group they were in. After the exposure, they took the phone away, shut off the lights, and told them to try to fall asleep. Those exposed to the phone when it was off, or in listen or standby mode fell asleep within about 20 to 30 minutes, but after being exposed to the same phone in talk mode, it took an average of closer to 50 minutes to fall asleep.\nThe reason for the significant difference between talking and listening might be due to the fact that the typical SAR value, the specific absorption rate—how much cell phone energy your body absorbs—is about nine times higher when you’re talking than when you’re just listening to someone else talk.\nWhen you do finally get to sleep, though, what are the effects of cell phone exposure on sleep quality? There’s been about 20 studies, split about half and half in terms of whether cell phone exposure affected sleep parameters, and not all in a negative way. It reminds me of the brain function data. Yeah, an increase in the excitability in the brain cortex—the outer layer of the brain—in response to exposure to cell phone emissions might disrupt sleep, but that increased excitability may mean like faster reaction times.\nSimilarly, in affected study subjects, those exposed to an active cell phone showed significantly more R sleep. But R stands for REM, so they got like 4 percent more potential dream time; so, that’s not necessarily a bad thing.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Carter B, Rees P, Hale L, Bhattacharjee D, Paradkar MS. Association Between Portable Screen-Based Media Device Access or Use and Sleep Outcomes: A Systematic Review and Meta-analysis. JAMA Pediatr. 2016;170(12):1202-1208.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27802500"
+    },
+    {
+      "Title": "Danker-hopfe H, Dorn H, Bolz T, et al. Effects of mobile phone exposure (GSM 900 and WCDMA/UMTS) on polysomnography based sleep quality: An intra- and inter-individual perspective. Environ Res. 2016;145:50-60.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26618505"
+    },
+    {
+      "Title": "Dijk DJ. Not so fast: sleep and media use. J Sleep Res. 2014;23(4):363.",
+      "Url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jsr.12212"
+    },
+    {
+      "Title": "Hardell L, Söderqvist F, Carlberg M, Zetterberg H, Mild KH. Exposure to wireless phone emissions and serum beta-trace protein. Int J Mol Med. 2010;26(2):301-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20596612"
+    },
+    {
+      "Title": "Hung CS, Anderson C, Horne JA, Mcevoy P. Mobile phone 'talk-mode' signal delays EEG-determined sleep onset. Neurosci Lett. 2007;421(1):82-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17548154"
+    },
+    {
+      "Title": "Oh JH, Yoo H, Park HK, Do YR. Analysis of circadian properties and healthy levels of blue light from smartphones at night. Sci Rep. 2015;5:11325.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26085126"
+    },
+    {
+      "Title": "Tavernier R, Willoughby T. Sleep problems: predictor or outcome of media use among emerging adults at university?. J Sleep Res. 2014;23(4):389-96.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24552437"
+    },
+    {
+      "Title": "Zhang J, Sumich A, Wang GY. Acute effects of radiofrequency electromagnetic field emitted by mobile phone on brain function. Bioelectromagnetics. 2017;38(5):329-338.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28426166"
+    }
+  ],
+  "Acknowledgements": "Image credit: StockSnap via Pixabay. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "adolescence",
+      "Url": "https://nutritionfacts.org/topics/adolescence/"
+    },
+    {
+      "Title": "cell phones",
+      "Url": "https://nutritionfacts.org/topics/cell-phones/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "melatonin",
+      "Url": "https://nutritionfacts.org/topics/melatonin/"
+    },
+    {
+      "Title": "radiation",
+      "Url": "https://nutritionfacts.org/topics/radiation/"
+    },
+    {
+      "Title": "sleep",
+      "Url": "https://nutritionfacts.org/topics/sleep/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is part of my extended video series on cell phones. Sometimes my research team takes on non-nutrition topics for which there appears to be controversy and powerful moneyed interests trying to tip the scales. Here’s the rest of the series:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/does-cell-phone-radiation-cause-cancer/\">Does Cell Phone Radiation Cause Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/cell-phone-brain-tumor-risk/\">Cell Phone Brain Tumor Risk?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-mobile-phones-affect-brain-function/\">Do Mobile Phones Affect Brain Function?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-cell-phones-and-bluetooth-on-nerve-function/\">The Effects of Cell Phones &amp; Bluetooth on Nerve Function</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-electromagnetic-hypersensitivity-real/\">Is Electromagnetic Hypersensitivity Real?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-cell-phones-cause-salivary-gland-tumors/\">Do Cell Phones Cause Salivary Gland Tumors</a></li>\n</ul>\n<p>Some of my sleep videos (with more to come!):</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/tart-cherries-for-insomnia/\">Tart Cherries for Insomnia</a></li>\n<li><a href=\"https://nutritionfacts.org/video/kiwifruit-for-insomnia/\">Kiwifruit for Insomnia</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-treat-jet-lag-with-light/\">How to Treat Jet Lag with Light</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-melatonin-supplements-safe/\">Are Melatonin Supplements Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-treat-jet-lag-with-melatonin-rich-food/\">How to Treat Jet Lag with Melatonin-Rich Food</a></li>\n</ul>\n<p data-pm-slice=\"1 1 []\">Should you take <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/melatonin-supplements-for-sleep-and-anti-aging/\">Melatonin Supplements for Sleep and Anti-Aging?</a> Check out the video.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

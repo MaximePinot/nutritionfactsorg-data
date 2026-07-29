@@ -1,0 +1,147 @@
+{
+  "Title": "Do Vitamin B12 Supplements Cause Bone Fractures and Lung Cancer?",
+  "Url": "https://nutritionfacts.org/video/do-vitamin-B12-supplements-cause-bone-fractures-and-lung-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/KjDYAyr8K6w"
+  },
+  "UpdatedAt": "2020-12-02T12:50:47+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 52",
+    "Url": "https://nutritionfacts.org/volumes/volume-52/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What do randomized controlled trials of high-dose daily vitamin B12 supplementation show about the effects on cancer risk, death, and longevity?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn 2019, a study found an “Association Between High Intakes of Vitamins B6 and B12 From Food and Supplements With [the] Risk of Hip Fracture Among Postmenopausal Women in the Harvard Nurses’ Health Study.” But note, it was only the combined high intake of vitamins B6 and B12. We know that treatment with high doses of vitamin B6 may alone increase hip fracture risk. After a decade or so, those who had been taking high-dose B6 supplements had about a 40 percent higher hip fracture risk––but not in those taking B12.\nAnd that’s what the Harvard study found too—high intake of vitamin B12 alone was not associated with increased risk. In fact, some observational studies suggest slightly lower fracture risk at high B12 blood levels. But what we care about most are interventional studies, where people are randomized to B12 so we can see what happens. And when you do that, no increased fracture risk among those given B12. In conclusion, based on randomized controlled trials, high doses of vitamin B12 have not been shown to be associated with the risk of fractures.\nOkay, but what about this? In 2017, a study found that men taking vitamin B12 supplements appeared to have an increase in lung cancer risk. Now, they didn’t find any such an association in women, and it was mostly among smoking men. Could it be that B12 was like feeding some budding tumors? I mean, it’s hard to imagine a vitamin being carcinogenic on its own, and especially somehow only in men but not women. The bottom line is that replication of these ﬁndings with additional studies is necessary, and indeed, when you put all the observational studies together, there was no signiﬁcant correlation between the levels of B12 in the blood and lung cancer––whether you smoked or not. If anything, most studies seemed to be trending towards higher B12 levels being protective.\nBut then, in 2018, a new study found an association between overall lung cancer risk and higher circulating levels of B12, again appearing to be more of a smoker thing. Now, this was another observational study. Those with higher B12 levels were just observed to have higher cancer levels; and so, those of you who have been following my work know the drill. There are two potential issues that arise in observational studies that prevent you from ascribing cause-and-effect: confounding factors, also known as “lurker variables,” and reverse causation.\nWhat might be a lurker variable in this case––a third factor associated with both higher B12 levels and cancer––that may be the true cause? Well, who has higher levels of B12 circulating in their blood? Those who eat lots of meat and dairy––in fact, probably the most important contributors. And those who eat more meat do tend to have more lung cancer––about 35 percent more risk for about every daily quarter-pound burger, and 20 percent increased risk for each like, breakfast sausage link. So, no wonder those with higher B12 levels in their blood could have more lung cancer. The B12 could just be a marker for meat intake.\nAnd, if you remember, reverse causation is when instead of X leading to Y, maybe Y is instead leading to X. So, instead of high B12 blood levels leading to cancer, maybe cancer leads to high blood levels. And indeed, nearly three-quarters of cancer patients exhibit elevated B12 levels. So, elevated B12 levels may just be a marker for cancer. There are all sorts of things beyond just taking extra B12 that can raise your levels: liver problems, kidney problems, bone marrow problems, and cancer. So, high levels may just be a marker of a brewing, not-yet-diagnosed, cancer.\nYeah, but what about observational studies specifically linking supplement use to lung cancer? That too could be reverse causation, where being at risk for cancer—in other words, being a smoker—makes you more likely to take vitamins to try to decrease your risk. Basically, any behavior tied to smoking could be indirectly tied to lung cancer, but it’s the smoking itself, of course, that’s the real lung cancer risk. So, we’re left with this chicken-or-the-egg causality dilemma, which is why ideally, we need randomized controlled trials to see if there’s any cause-and-effect. This became even more urgent with genetic evidence suggesting that those just born with higher lifelong levels may be at increased risk. Thankfully, we do have randomized controlled trials—over a dozen randomized controlled trials randomizing thousands of people up to 2,000 micrograms of B12 every single day for years and…vitamin B supplementation does not have any effect on getting cancer, dying from cancer, or dying overall––and this includes specifically looking at lung cancer. In fact, if anything, vitamin B supplements may actually lower the risk of the most dangerous form of skin cancer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Arendt JF, Pedersen L, Nexo E, Sørensen HT. Elevated plasma vitamin B12 levels as a marker for cancer: a population-based cohort study. J Natl Cancer Inst. 2013;105(23):1799-805.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24249744"
+    },
+    {
+      "Title": "Arendt JFH, Sørensen HT, Horsfall LJ, Petersen I. Elevated Vitamin B12 Levels and Cancer Risk in UK Primary Care: A THIN Database Cohort Study. Cancer Epidemiol Biomarkers Prev. 2019;28(4):814-821.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30642843"
+    },
+    {
+      "Title": "Brasky TM, White E, Chen CL. Long-Term, Supplemental, One-Carbon Metabolism-Related Vitamin B Use in Relation to Lung Cancer Risk in the Vitamins and Lifestyle (VITAL) Cohort. J Clin Oncol. 2017;35(30):3440‐3448.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28829668"
+    },
+    {
+      "Title": "Brasky TM, White E, Chen CL. Reply to R. Obeid et al. J Clin Oncol. 2018;36(6):627‐628.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29283749/"
+    },
+    {
+      "Title": "Brouwer-brolsma EM, Dhonukshe-rutten RA, Van wijngaarden JP, Zwaluw NL, Velde Nv, De groot LC. Dietary Sources of Vitamin B-12 and Their Association with Vitamin B-12 Status Markers in Healthy Older Adults in the B-PROOF Study. Nutrients. 2015;7(9):7781-97.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26389945"
+    },
+    {
+      "Title": "Fanidi A, Carreras-torres R, Larose TL, et al. Is high vitamin B12 status a cause of lung cancer?. Int J Cancer. 2019;145(6):1499-1503.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30499135"
+    },
+    {
+      "Title": "Garcia lopez M, Baron JA, Omsland TK, Søgaard AJ, Meyer HE. Homocysteine-Lowering Treatment and the Risk of Fracture: Secondary Analysis of a Randomized Controlled Trial and an Updated Meta-Analysis. JBMR Plus. 2018;2(5):295-303.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30283911"
+    },
+    {
+      "Title": "Garcia lopez M, Bønaa KH, Ebbing M, et al. B Vitamins and Hip Fracture: Secondary Analyses and Extended Follow-Up of Two Large Randomized Controlled Trials. J Bone Miner Res. 2017;32(10):1981-1989.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28574605"
+    },
+    {
+      "Title": "Meyer HE, Willett WC, Fung TT, Holvik K, Feskanich D. Association of High Intakes of Vitamins B6 and B12 From Food and Supplements With Risk of Hip Fracture Among Postmenopausal Women in the Nurses' Health Study. JAMA Netw Open. 2019;2(5):e193591.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31074816"
+    },
+    {
+      "Title": "Obeid R, Pietrzik K. Smoking, B Vitamins, and Lung Cancer: The Chicken or the Egg Causality Dilemma. J Clin Oncol. 2018;36(6):626‐627.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29283790/"
+    },
+    {
+      "Title": "Oh HK, Lee JY, Eo WK, Yoon SW, Han SN. Elevated Serum Vitamin B Levels as a Prognostic Factor for Survival Time in Metastatic Cancer Patients: A Retrospective Study. Nutr Cancer. 2018;70(1):37-44.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29220583"
+    },
+    {
+      "Title": "Shipton MJ, Thachil J. Vitamin B12 deficiency - A 21st century perspective. Clin Med (Lond). 2015;15(2):145‐150.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25824066/"
+    },
+    {
+      "Title": "Van wijngaarden JP, Doets EL, Szczecińska A, et al. Vitamin B12, folate, homocysteine, and bone health in adults and elderly people: a systematic review with meta-analyses. J Nutr Metab. 2013;2013:486186.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23509616"
+    },
+    {
+      "Title": "Xue XJ, Gao Q, Qiao JH, Zhang J, Xu CP, Liu J. Red and processed meat consumption and the risk of lung cancer: a dose-response meta-analysis of 33 published studies. Int J Clin Exp Med. 2014;7(6):1542-53.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25035778"
+    },
+    {
+      "Title": "Yang J, Li H, Deng H, Wang Z. Association of One-Carbon Metabolism-Related Vitamins (Folate, B6, B12), Homocysteine and Methionine With the Risk of Lung Cancer: Systematic Review and Meta-Analysis. Front Oncol. 2018;8:493.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30430082"
+    },
+    {
+      "Title": "Zhang SL, Chen TS, Ma CY, et al. Effect of vitamin B supplementation on cancer incidence, death due to cancer, and total mortality: A PRISMA-compliant cumulative meta-analysis of randomized controlled trials. Medicine (Baltimore). 2016;95(31):e3485.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27495015"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "bone fractures",
+      "Url": "https://nutritionfacts.org/topics/bone-fractures/"
+    },
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    },
+    {
+      "Title": "vitamin B6",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b6/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you missed my previous video, check out <a href=\"https://nutritionfacts.org/video/do-vitamin-b12-supplements-cause-acne/\">Do Vitamin B12 Supplements Cause Acne?</a>.</p>\n<p>Watch my other B12 updates:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-symptoms-of-vitamin-b12-deficiency/\">The Symptoms of Vitamin B12 Deficiency</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-optimal-vitamin-b12-dosage-for-adults/\">The Optimal Vitamin B12 Dosage for Adults </a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-healthiest-food-sources-of-vitamin-b12/\">Healthiest Food Sources of Vitamin B12</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-optimal-vitamin-b12-dosage-for-kids-pregnancy-and-seniors/\">The Optimal Vitamin B12 Dosage for Kids, Pregnancy, and Seniors</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-type-of-vitamin-b12-cyanocobalamin-or-methylcobalamin/\">The Best Type of Vitamin B12: Cyanocobalamin or Methylcobalamin?</a></li>\n</ul>\n<p>All of these videos can be found in one digital download: <a href=\"https://drgreger.org/collections/videos/products/b12-recommendations-digital\">Latest Vitamin B12 Recommendations</a>.</p>\n<p>I’ve also explored vitamin B12’s role in stroke risk. See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/vegetarians-and-stroke-risk-factors-vitamin-b12-homocysteine/\">Vegetarians and Stroke Risk Factors: Vitamin B12 and Homocysteine?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-test-for-functional-vitamin-b12-deficiency/\">How to Test for Functional Vitamin B12 Deficiency</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-vegetarians-take-creatine-to-normalize-homocysteine/?/\">Should Vegetarians Take Creatine to Normalize Homocysteine?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-efficacy-and-safety-of-creatine-for-high-homocysteine/\">The Efficacy and Safety of Creatine for High Homocysteine</a></li>\n</ul>\n<p>That series is also available for digital download: <a href=\"https://drgreger.org/collections/videos/products/vegetarian-stroke-risk-digital\">Why Do Vegetarians Have Higher Stroke Risk?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

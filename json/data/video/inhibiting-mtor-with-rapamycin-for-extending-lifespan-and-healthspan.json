@@ -1,0 +1,147 @@
+{
+  "Title": "Inhibiting mTOR with Rapamycin for Extending Lifespan and Healthspan",
+  "Url": "https://nutritionfacts.org/video/inhibiting-mtor-with-rapamycin-for-extending-lifespan-and-healthspan/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/FWMHyS3iU70"
+  },
+  "UpdatedAt": "2024-11-20T12:50:27+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 67",
+    "Url": "https://nutritionfacts.org/volumes/volume-67/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Rapamycin appears to be a universal anti-aging drug, extending the lifespan of all animals tested to date; it’s the only known drug to do so.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe soil bacteria on Easter Island weren’t making rapamycin to slow down aging, but rather to slow down the growth of its natural enemy, soil fungi (just like fungi make penicillin to wipe out competing bacteria). Fungi from yeast on up, like all plants and animals, have mTOR genes. This target of the rapamycin enzyme is the universal growth regulator of advanced lifeforms. So, while rapamycin originally drew attention as an antifungal drug, we soon learned it had many other effects.\nDozens of published studies have demonstrated that rapamycin, by slowing down mTOR, extends both the average and maximum lifespans of laboratory mice. In fact, rapamycin appears to be a universal anti-aging drug, extending the lifespan of all animals and organisms tested to date—the only known drug to do so. It can even work when started in midlife.\nThe original National Institute on Aging Interventions Testing Program experiment in 2009 was delayed because the researchers were having difficulty keeping rapamycin stable in the mouse food pelleting process. (It can’t just be dissolved in their drinking water because it’s fat soluble.) By the time they were up and running, the allotted batch of mice were 600 days old, which is equivalent to about 60 years of age in humans. Even though the mice started the drug so late in life, their lifespans were still extended by about 12 percent, which could equate to more than an added seven years of human life.\nInitially, it was debated whether rapamycin was a true anti-aging intervention or “merely” a potent anticancer agent, lengthening lifespans by just preventing cancer formation. Note that mTOR signaling is hyperactive in up to 80 percent of human cancers, where it plays a pivotal role in sustaining tumor growth. Rapamycin is used clinically to prevent the rejection of organ transplants (by suppressing the proliferation of immune cells that attack the new organ), and a peculiar side effect was found. In a set of 15 patients who had biopsy-proven Kaposi’s sarcoma (a cancer that often affects the skin), all sarcoma skin lesions disappeared in all patients within three months after starting rapamycin therapy. The cancer just vanished. As TOR is the master regulator of cellular growth, the cancer remission was not completely unsurprising, but subsequent rapamycin studies showed it can do so much more.\nIn animal models, rapamycin extends healthspan too. Rapamycin can ameliorate age-related declines in cognitive function and physical function, prevent hearing loss, artery dysfunction and tendon stiffening, regenerate the periodontal bone that holds teeth in place, and even rejuvenate the hearts of aged mice. Remarkably, health and longevity benefits could be achieved with intermittent or transient dosing, like getting one dose every five days, or for just a few months during middle age.\nAs a dog dad, I was excited to read about the Dog Aging Project, where people brought their middle-aged companion canines to be randomized to low-dose rapamycin or placebo for 10 weeks. Like in the mouse studies, rapamycin appeared to at least partially reverse some of the age-related heart dysfunction without any untoward side effects. Anecdotally, most of the owners of the dogs who covertly got the rapamycin reported their dogs displayed increased activity and energy compared to only a minority of the owners of the pooches slipped the placebos.\nIt was time to try rapamycin out in humans, which I’ll cover next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Altschuler RA, Kanicki A, Martin C, Kohrman DC, Miller RA. Rapamycin but not acarbose decreases age-related loss of outer hair cells in the mouse Cochlea. Hear Res. 2018;370:11-15.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30245283/"
+    },
+    {
+      "Title": "An JY, Kerns KA, Ouellette A, et al. Rapamycin rejuvenates oral health in aging mice. Elife. 2020;9:e54318.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32342860/"
+    },
+    {
+      "Title": "Arriola Apelo SI, Lamming DW. Rapamycin: an inhibitor of aging emerges from the soil of easter island. J Gerontol A Biol Sci Med Sci. 2016;71(7):841-849.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27208895/"
+    },
+    {
+      "Title": "Arriola Apelo SI, Pumper CP, Baar EL, Cummings NE, Lamming DW. Intermittent administration of rapamycin extends the life span of female C57BL/6J mice. J Gerontol A Biol Sci Med Sci. 2016;71(7):876-881.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27091134/"
+    },
+    {
+      "Title": "Bitto A, Ito TK, Pineda VV, et al. Transient rapamycin treatment can increase lifespan and healthspan in middle-aged mice. Elife. 2016;5:e16351.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27549339/"
+    },
+    {
+      "Title": "Blagosklonny MV. Does rapamycin slow down time? Oncotarget. 2018;9(54):30210-30212.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30100983/"
+    },
+    {
+      "Title": "Blagosklonny MV. Rapamycin for longevity: opinion article. Aging (Albany NY). 2019;11(19):8048-8067.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31586989/"
+    },
+    {
+      "Title": "Dai DF, Karunadharma PP, Chiao YA, et al. Altered proteome turnover and remodeling by short-term caloric restriction or rapamycin rejuvenate the aging heart. Aging Cell. 2014;13(3):529-539.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24612461/"
+    },
+    {
+      "Title": "Fleming A. On the antibacterial action of cultures of a penicillium, with special reference to their use in the isolation of b. Influenzæ. Br J Exp Pathol. 1929;10(3):226-236.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2048009/"
+    },
+    {
+      "Title": "Kaeberlein M, Creevy KE, Promislow DEL. The dog aging project: translational geroscience in companion animals. Mamm Genome. 2016;27(7-8):279-288.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27143112/"
+    },
+    {
+      "Title": "Kaeberlein M, Kennedy BK. Ageing: a midlife longevity drug? Nature. 2009;460(7253):331-332.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19606132/"
+    },
+    {
+      "Title": "Lesniewski LA, Seals DR, Walker AE, et al. Dietary rapamycin supplementation reverses age-related vascular dysfunction and oxidative stress, while modulating nutrient-sensing, cell cycle, and senescence pathways. Aging Cell. 2017;16(1):17-26.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27660040/"
+    },
+    {
+      "Title": "Liu GY, Sabatini DM. mTOR at the nexus of nutrition, growth, ageing and disease. Nat Rev Mol Cell Biol. 2020;21(4):183-203.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31937935/"
+    },
+    {
+      "Title": "Majumder S, Caccamo A, Medina DX, et al. Lifelong rapamycin administration ameliorates age-dependent cognitive deficits by reducing IL-1β and enhancing NMDA signaling. Aging Cell. 2012;11(2):326-335.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22212527/"
+    },
+    {
+      "Title": "Sharp ZD, Strong R. The role of mTOR signaling in controlling mammalian life span: what a fungicide teaches us about longevity. J Gerontol A Biol Sci Med Sci. 2010;65(6):580-589.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20083554/"
+    },
+    {
+      "Title": "Stallone G, Schena A, Infante B, et al. Sirolimus for Kaposi's sarcoma in renal-transplant recipients. N Engl J Med. 2005 Mar 31;352(13):1317-1323.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15800227/"
+    },
+    {
+      "Title": "Swindell WR. Meta-analysis of 29 experiments evaluating the effects of rapamycin on life span in the laboratory mouse. J Gerontol A Biol Sci Med Sci. 2017;72(8):1024-1032.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27519886/"
+    },
+    {
+      "Title": "Urfer SR, Kaeberlein TL, Mailheau S, et al. A randomized controlled trial to establish effects of short-term rapamycin treatment in 24 middle-aged companion dogs. Geroscience. 2017;39(2):117-127.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28374166/"
+    },
+    {
+      "Title": "Weber JD, Gutmann DH. Deconvoluting mTOR biology. Cell Cycle. 2012;11(2):236-248.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22214661/"
+    },
+    {
+      "Title": "Wei Y, Zhang YJ, Cai Y. Growth or longevity: the TOR’s decision on lifespan regulation. Biogerontology. 2013;14(4):353-363.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23740528/"
+    },
+    {
+      "Title": "Weichhart T. mTOR as regulator of lifespan, aging, and cellular senescence: a mini-review. Gerontology. 2018;64(2):127-134.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29190625/"
+    },
+    {
+      "Title": "Wilkinson JE, Burmeister L, Brooks SV, et al. Rapamycin slows aging in mice. Aging Cell. 2012;11(4):675-682.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22587563/"
+    },
+    {
+      "Title": "Zaseck LW, Miller RA, Brooks SV. Rapamycin attenuates age-associated changes in tibialis anterior tendon viscoelastic properties. J Gerontol A Biol Sci Med Sci. 2016;71(7):858-865.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26809496/"
+    },
+    {
+      "Title": "Zhang Y, Zhang J, Wang S. The role of rapamycin in healthspan extension via the delay of organ aging. Ageing Res Rev. 2021;70:101376.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34089901/"
+    },
+    {
+      "Title": "van Dam TJP, Zwartkruis FJT, Bos JL, Snel B. Evolution of the TOR pathway. J Mol Evol. 2011;73(3-4):209-220.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22057117/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the second video in a three-part series. If you missed the first one, check out </span><a href=\"https://nutritionfacts.org/video/the-enzyme-mtor-as-an-engine-of-aging/\"><span style=\"font-weight: 400\">The Enzyme mTOR as an Engine of Aging</span></a><span style=\"font-weight: 400\">, and stay tuned for </span><a href=\"https://nutritionfacts.org/video/is-rapamycin-a-universal-anti-aging-drug/\"><span style=\"font-weight: 400\">Is Rapamycin a Universal Anti-Aging Drug?</span></a><span style=\"font-weight: 400\">. </span></p>\n<p data-pm-slice=\"1 3 []\">For more on anti-aging, check out my NAD+ series:</p>\n<ul>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/do-nad-levels-decline-with-age/\">Do NAD+ Levels Decline with Age?</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/can-nad-boosters-increase-lifespan-and-healthspan/\">Can NAD+ Boosters Increase Lifespan and Healthspan?</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinic-acid-na-a-nad-booster/\">Risks and Benefits of Nicotinic Acid (NA), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-nam-a-nad-booster/\">Risks and Benefits of Nicotinamide (NAM), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-riboside-nr-a-nad-booster/\">Risks and Benefits of Nicotinamide Riboside (NR), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-mononucleotide-nmn-a-nad-booster/\">Risks and Benefits of Nicotinamide Mononucleotide (NMN), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/lesser-known-nad-boosting-supplements-tryptophan-nadh-nmnh-and-nrh/\">Lesser-Known NAD+ Boosting Supplements—Tryptophan, NADH, NMNH, and NRH</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-of-nad-boosting-supplements/\">Risks of NAD+ Boosting Supplements</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/which-nad-booster-is-best/\">Which NAD+ Booster Is Best?</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/the-third-way-to-boost-nad/\">The Third Way to Boost NAD+</a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on longevity, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/is-longevity-genetic/\"><span style=\"font-weight: 400\">Is Longevity Genetic?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/dietary-sources-of-the-longevity-vitamin-ergothioneine/\"><span style=\"font-weight: 400\">Dietary Sources of the “Longevity Vitamin” Ergothioneine</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/apoe-the-single-most-important-gene-for-longevity/\"><span style=\"font-weight: 400\">APOE—The Single Most Important Gene for Longevity</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on aging, visit your local public library or book seller and check out </span><span style=\"font-weight: 400\">my longevity book, </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

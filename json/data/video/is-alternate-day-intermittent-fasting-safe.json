@@ -1,0 +1,203 @@
+{
+  "Title": "Is Alternate-Day Intermittent Fasting Safe?",
+  "Url": "https://nutritionfacts.org/video/is-alternate-day-intermittent-fasting-safe/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/MKFWvYtm6Ck"
+  },
+  "UpdatedAt": "2019-11-13T12:50:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 48",
+    "Url": "https://nutritionfacts.org/volumes/volume-48/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Eating every other day can raise your cholesterol.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAre there any downsides to fasting every other day? For example, might going all day without eating impair your ability to think clearly? Surprisingly, the results appear to be equivocal. Some studies show no measurable effects, and the ones that do fail to agree on which cognitive domains are affected. Might the fasting/feasting cycles cause eating disorder-type behavior like bingeing? So far, no harmful psychological effects have been found. In fact, there may actually be some benefit, though the studies that have put it to the test specifically excluded those with a documented history of eating disorders—for whom the effects may differ.\nWhat about bone health? No change in bone mineral density was noted after six months of alternate-day fasting, despite about 16 pounds of weight loss, which would typically result in a dip in bone mass. There were no skeletal changes noted in the control group either, however, that lost a similar amount of weight using continuous calorie restriction. The researchers suggest that this is because both groups tended to be more physically active than the average obese individuals by one or two thousand steps a day.\nProponents of intermittent fasting suggest it can better protect lean body mass. But most of the intermittent trials have employed less accurate methods of body composition analysis, whereas the majority of continuous caloric restriction trials used vastly more accurate technologies. So, to date, it’s not clear if there’s a difference in lean mass preservation.\nImprovements in blood pressure and triglycerides have been noted on intermittent fasting regimens, though this is presumed to be due to the reduction in body fat, since the effect appears to be weight-loss dependent. Alternate-day fasting can improve artery function too, though it does depend on what you’re eating on the non-fasting day. Randomized to an alternate-day diet high in saturated fat, artery function worsened, despite a 15-pound weight loss (whereas it improved, as expected, in the lower-fat group). The decline in artery function was presumed to be because of the pro-inflammatory nature of saturated fat.\nA concern has been raised about the effects of alternate-day fasting on cholesterol. After 24 hours without food, LDL cholesterol may temporarily bump up, but this is presumably just because so much fat is being released into the system by the fast. An immediate negative effect on carbohydrate tolerance may stem from the same phenomenon: the repeated elevations of free fat floating around in the blood stream. After a few weeks, though, LDL levels start to drop as the weight comes off. However, results from the largest and longest trial of alternate-day fasting have given me pause.\nA hundred obese men and women were randomized into one of three groups: alternate-day modified fasting (25 percent of their baseline calories on fasting days, 125 percent calories on eating days), continuous daily calorie restriction (75 percent of baseline), or a control group instructed to maintain their regular diet. So, for those going into the trial eating 2,000 calories a day, in the control group they would have continued to eat 2,000 calories a day. The calorie restriction group would have started at 1,500 a day every day, and the intermittent-restriction group would alternate between 500 calories a day and 2,500 calories a day.\nWith the same overall average prescribed calorie cutting in both weight-loss groups, they both lost about the same amount of weight, but, surprisingly, the cholesterol effects were different. In the continuous calorie-restriction group, the LDL dropped as expected compared to the control group as the pounds came off. But in the alternate-day modified fasting group, they didn’t. At the end of the year, the LDL cholesterol in the intermittent fasting group ended up 10 percent higher than the constant calorie-restriction group despite the exact same loss of body fat. Given that LDL cholesterol is a prime causal risk factor for our number one killer, heart disease— or even the prime risk factor for our number one killer—this strikes a significant blow against alternate-day fasting. If you do want to try it anyway, I would advise you to have your cholesterol monitored to make sure it comes down with your weight.\nIf you’re a diabetic, it’s critical you talk to your physician about medication adjustment for any changes in diet, including fasting of any duration. Even with proactive medication reduction, advice to immediately break the fast should sugars drop too low, and weekly medical supervision, type 2 diabetics fasting even just two days a week were twice as likely to suffer from hypoglycemic episodes compared to an unfasted control group. We still don’t know the best way to tweak blood sugar meds to prevent blood sugars dropping too low on fasting days.\nEven just fasting for a day can significantly slow the clearance of some drugs (like the blood-thinning drug coumadin) or increase the clearance of others (like caffeine). Fasting for 36 hours can cut your caffeine buzz by 20 percent. So, consultation with your medical professional before fasting is an especially good idea for anyone on any kind of medication.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Anton SD, Moehl K, Donahoo WT, et al. Flipping the metabolic switch: understanding and applying the health benefits of fasting. Obesity (Silver Spring). 2018;26(2):254-268.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29086496"
+    },
+    {
+      "Title": "Antoni R, Johnston KL, Collins AL, Robertson MD. Investigation into the acute effects of total and partial energy restriction on postprandial metabolism among overweight/obese participants. Br J Nutr. 2016;115(6):951-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26819200"
+    },
+    {
+      "Title": "Barnosky A, Kroeger CM, Trepanowski JF, et al. Effect of alternate day fasting on markers of bone metabolism: an exploratory analysis of a 6-month randomized controlled trial. Nutr Healthy Aging. 2017;4(3):255-263.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29276795"
+    },
+    {
+      "Title": "Benau EM, Orloff NC, Janke EA, Serpell L, Timko CA. A systematic review of the effects of experimental fasting on cognition. Appetite. 2014;77:52-61.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24583414"
+    },
+    {
+      "Title": "Bhutani S, Klempel MC, Kroeger CM, Trepanowski JF, Phillips SA, Norkeviciute E, Varady KA. Alternate day fasting with or without exercise: effects on endothelial function and adipokines in obese humans. e-SPEN J. 2013;8(5):e205-e209.",
+      "Url": "https://www.sciencedirect.com/science/article/pii/S2212826313000778"
+    },
+    {
+      "Title": "Corley BT, Carroll RW, Hall RM, Weatherall M, Parry-Strong A, Krebs JD. Intermittent fasting in Type 2 diabetes mellitus and the risk of hypoglycaemia: a randomized controlled trial. Diabet Med. 2018;35(5):588-594.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29405359"
+    },
+    {
+      "Title": "Ference BA, Ginsberg HN, Graham I, et al. Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel. Eur Heart J. 2017;38(32):2459-2472.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28444290"
+    },
+    {
+      "Title": "Golbidi S, Daiber A, Korac B, Li H, Essop MF, Laher I. Health benefits of fasting and caloric restriction. Curr Diab Rep. 2017;17(12):123.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29063418"
+    },
+    {
+      "Title": "Hoddy KK, Kroeger CM, Trepanowski JF, Barnosky AR, Bhutani S, Varady KA. Safety of alternate day fasting and effect on disordered eating behaviors. Nutr J. 2015;14:44.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25943396"
+    },
+    {
+      "Title": "Horne BD, Muhlestein JB, Anderson JL. Health effects of intermittent fasting: hormesis or harm? A systematic review. Am J Clin Nutr. 2015 Aug;102(2):464-70. doi: 10.3945/ajcn.115.109553. Epub 2015 Jul 1. PMID: 26135345.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26135345/"
+    },
+    {
+      "Title": "Horne BD, Muhlestein JB, Anderson JL. Health effects of intermittent fasting: hormesis or harm? A systematic review. Am J Clin Nutr. 2015;102(2):464-70.",
+      "Url": "https://scholar.google.com/scholar_lookup?hl=en&volume=63&publication_year=2014&pages=A591&journal=Diabetes&author=BD+Horne&author=JB+Muhlestein&author=AR+Butler&author=H+Brown&author=JL.+Anderson&title=Effects+of+water-only+fasting+among+pre-diabetic+patients+%5Babstract%5D."
+    },
+    {
+      "Title": "Horne BD, Muhlestein JB, Butler AR, Brown H, Anderson JL. Effects of water-only fasting among pre-diabetic patients. Behavioral Medicine, Clinical Nutrition, Education, And Exercise. 2014;63 (Suppl 1):A590 (abstr).",
+      "Url": "https://scholar.google.com/scholar_lookup?hl=en&volume=63&publication_year=2014&pages=A591&journal=Diabetes&author=BD+Horne&author=JB+Muhlestein&author=AR+Butler&author=H+Brown&author=JL.+Anderson&title=Effects+of+water-only+fasting+among+pre-diabetic+patients+%5Babstract%5D."
+    },
+    {
+      "Title": "Klempel MC, Kroeger CM, Norkeviciute E, Goslawski M, Phillips SA, Varady KA. Benefit of a low-fat over high-fat diet on vascular health during alternate day fasting. Nutr Diabetes. 2013;3:e71.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23712283"
+    },
+    {
+      "Title": "Lammers LA, Achterbergh R, De Vries EM, et al. Short-term fasting alters cytochrome P450-mediated drug metabolism in humans. Drug Metab Dispos. 2015;43(6):819-28.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25795462"
+    },
+    {
+      "Title": "Roberts WC. It's the cholesterol, stupid! Am J Cardiol. 2010;106(9):1364-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21029840"
+    },
+    {
+      "Title": "Schaumberg K, Anderson DA, Reilly EE, Anderson LM. Does short-term fasting promote pathological eating patterns? Eat Behav. 2015;19:168-72.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26431904"
+    },
+    {
+      "Title": "St-onge MP, Ard J, Baskin ML, et al. Meal Timing and Frequency: Implications for Cardiovascular Disease Prevention: A Scientific Statement From the American Heart Association. Circulation. 2017;135(9):e96-e121. St-onge MP, Ard J, Baskin ML, et al. Meal Timing and Frequency: Implications for Cardiovascular Disease Prevention: A Scientific Statement From the American Heart Association. Circulation. 2017;135(9):e96-e121.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28137935"
+    },
+    {
+      "Title": "Stockman MC, Thomas D, Burke J, Apovian CM. Intermittent fasting: is the wait worth the weight? Curr Obes Rep. 2018;7(2):172-185.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29700718"
+    },
+    {
+      "Title": "Trepanowski JF, Kroeger CM, Barnosky A, et al. Effect of Alternate-Day Fasting on Weight Loss, Weight Maintenance, and Cardioprotection Among Metabolically Healthy Obese Adults: A Randomized Clinical Trial. JAMA Intern Med. 2017;177(7):930-938.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28459931"
+    },
+    {
+      "Title": "Varady KA. Intermittent versus daily calorie restriction: which diet regimen is more effective for weight loss? Obes Rev. 2011;12(7):e593-601.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21410865"
+    }
+  ],
+  "Acknowledgements": "Image credit: Debby Hudson via unsplash. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "artery function",
+      "Url": "https://nutritionfacts.org/topics/artery-function/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "bone mineral density",
+      "Url": "https://nutritionfacts.org/topics/bone-mineral-density/"
+    },
+    {
+      "Title": "caffeine",
+      "Url": "https://nutritionfacts.org/topics/caffeine/"
+    },
+    {
+      "Title": "caloric restriction",
+      "Url": "https://nutritionfacts.org/topics/caloric-restriction/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "fasting",
+      "Url": "https://nutritionfacts.org/topics/fasting/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "metabolism",
+      "Url": "https://nutritionfacts.org/topics/metabolism/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "triglycerides",
+      "Url": "https://nutritionfacts.org/topics/triglycerides/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you missed the last video, check out <a href=\"https://nutritionfacts.org/video/alternate-day-intermittent-fasting-put-to-the-test/\">Alternate-Day Intermittent Fasting Put to the Test</a>.</p>\n<p>So with ambiguous cognitive, lean mass, and bone effects, plus the cholesterol findings, I wouldn’t suggest it for weight loss, but that’s not the only thing alternate-day fasting is purported to do. It’s purported to have a variety of health benefits. Stay tuned for <a href=\"https://nutritionfacts.org/video/does-intermittent-fasting-increase-human-life-expectancy/\">Does Intermittent Fasting Increase Human Life Expectancy?</a></p>\n<p>Then we cover the other types of intermittent fasting:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-5-2-diet-and-the-fasting-mimicking-diet-put-to-the-test/\">The 5:2 Diet and the Fasting-Mimicking Diet Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/time-restricted-eating-put-to-the-test/\">Time-Restricted Eating Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-benefits-of-early-time-restricted-eating/\">The Benefits of Early Time-Restricted Eating</a></li>\n</ul>\n<p>What about total fasting? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/benefits-of-fasting-for-weight-loss-put-to-the-test/\">Benefits of Fasting for Weight Loss Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-fasting-beneficial-for-weight-loss/\">Is Fasting Beneficial for Weight Loss?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-fasting-for-weight-loss-safe/\">Is Fasting for Weight Loss Safe?</a></li>\n</ul>\n<p data-pm-slice=\"1 1 []\">All of my fasting videos can be found on the <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/topics/fasting/\">topic page</a>. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

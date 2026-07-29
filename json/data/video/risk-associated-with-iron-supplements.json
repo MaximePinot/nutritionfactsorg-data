@@ -1,0 +1,187 @@
+{
+  "Title": "Risk Associated with Iron Supplements",
+  "Url": "https://nutritionfacts.org/video/risk-associated-with-iron-supplements/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/S7tcNrHSJRU"
+  },
+  "UpdatedAt": "2012-07-27T11:09:16+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 9",
+    "Url": "https://nutritionfacts.org/volumes/volume-9/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Iron is a double-edged sword. If we don’t absorb enough, we risk anemia; but if absorb too much, we may increase our risk of cancer, heart disease, and a number of inflammatory conditions. Because the human body has no mechanism to rid itself of excess iron, one should choose plant-based (non-heme) sources, over which our body has some control.",
+  "Transcript": "Iron is a double-edged sword. If we don’t absorb enough, we risk anemia. But if we absorb too much, we may be increasing our risk of colorectal cancer, heart disease, infection, neurodegenerative disorders, and inflammatory conditions. Other conditions that have been associated with high iron intake include Alzheimer’s, Parkinson’s, arthritis, and diabetes.\nBecause the human body has no mechanism to rid itself of excess iron, we evolved to tightly regulate the absorption of iron. If our iron stores are low, our intestines boost the absorption of iron, and if our iron stores are topped off, our intestines block the absorption of iron to maintain us in that sweet spot. But this only works with the primary source of iron in the human diet—the iron found in plant foods. Our digestive system cannot regulate the iron in ingested blood—heme iron. The iron in animal foods can just zip right through our intestinal barrier—even if we already have too much in our system; we have no control over it.\nIn fact, some guess that iron overload may be a reason that meat consumption has been tied to breast cancer risk. Iron is a pro-oxidant, and can induce oxidative stress, and DNA damage. “A high intake of iron in developed societies may, over time, lead to a physiologic state of iron overload in postmenopausal women, who are no longer losing blood every month. Iron overload favors the production of free radicals, fat oxidation, DNA damage, and may contribute to breast [cancer development] carcinogenesis independently or by potentiating the effects of [other carcinogens].”\nOnly people with a confirmed diagnosis of iron deficiency anemia should consider supplementing their iron intake, and even then, it can be risky. A recent study found that a significant increase in oxidative stress happened within the bodies of women on iron supplements.\nAnd so, before going on iron supplements, I would suggest talking to your physician about first trying to treat it through diet alone—by eating lots of healthy iron-rich foods, like chickpeas and pumpkin seeds, while consuming vitamin C-rich foods at the same meal, such as citrus, tropical fruits, broccoli, bell peppers, which improve plant iron absorption, while at the same time avoiding drinking tea and coffee with your meals, which can impair iron absorption.\nSince organic acids like vitamin C can boost iron absorption, the Coca Cola company commissioned a study to see if drinking Coke would do the same thing. And the answer is: no.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Serena.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Collings R, Fairweather-Tait SJ, Dainty JR, Roe MA. Low-pH cola beverages do not affect women's iron absorption from a vegetarian meal. J Nutr. 2011 May; 141(5):805-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21389184"
+    },
+    {
+      "Title": "Geissler C, Singh M. Iron, Meat and Health . Nutrients. 2011 Mar; 3(3):283-316.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257743/pdf/nutrients-03-00283.pdf"
+    },
+    {
+      "Title": "Sharp PA. Intestinal iron absorption: regulation by dietary & systemic factors. Int J Vitam Nutr Res. 2010 Oct; 80(4-5):231-42.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21462105"
+    },
+    {
+      "Title": "Steele TM, Frazer DM, Anderson GJ. Systemic regulation of intestinal iron absorption. IUBMB Life. 2005 Jul; 57(7):499-503.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16081371"
+    },
+    {
+      "Title": "West AR, Oates PS. Mechanisms of heme iron absorption: Current questions and controversies. World J Gastroenterol. 2008 Jul 14; 14(26):4101-10.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725368/pdf/WJG-14-4101.pdf"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Søren Niedziella and Thirteen Of Clubs via flickr. Images have been modified.",
+  "Topics": [
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "anemia",
+      "Url": "https://nutritionfacts.org/topics/anemia/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "arthritis",
+      "Url": "https://nutritionfacts.org/topics/arthritis/"
+    },
+    {
+      "Title": "bell peppers",
+      "Url": "https://nutritionfacts.org/topics/bell-peppers/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "chickpeas",
+      "Url": "https://nutritionfacts.org/topics/chickpeas/"
+    },
+    {
+      "Title": "citrus",
+      "Url": "https://nutritionfacts.org/topics/citrus/"
+    },
+    {
+      "Title": "Coca-Cola",
+      "Url": "https://nutritionfacts.org/topics/cocacola/"
+    },
+    {
+      "Title": "coffee",
+      "Url": "https://nutritionfacts.org/topics/coffee/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "colon health",
+      "Url": "https://nutritionfacts.org/topics/colon-health/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heme iron",
+      "Url": "https://nutritionfacts.org/topics/heme-iron/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "iron",
+      "Url": "https://nutritionfacts.org/topics/iron/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "menopause",
+      "Url": "https://nutritionfacts.org/topics/menopause/"
+    },
+    {
+      "Title": "menstruation",
+      "Url": "https://nutritionfacts.org/topics/menstruation/"
+    },
+    {
+      "Title": "nutrient absorption",
+      "Url": "https://nutritionfacts.org/topics/nutrient-absorption/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "pumpkin seeds",
+      "Url": "https://nutritionfacts.org/topics/pumpkin-seeds/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "tea",
+      "Url": "https://nutritionfacts.org/topics/tea/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is another reason why I consider <a href=\"https://nutritionfacts.org/video/plant-protein-preferable/\" rel=\"nofollow\">Plant Protein Preferable</a>. For more on nutrient bioavailability, see <a href=\"https://nutritionfacts.org/video/new-mineral-absorption-enhancers-found/\" rel=\"nofollow\">New Mineral Absorption Enhancers Found</a>, along with <a href=\"https://nutritionfacts.org/video/garden-variety-anti-inflammation/\" rel=\"nofollow\">Garden Variety Anti-Inflammation</a>; <a href=\"https://nutritionfacts.org/video/take-vitamin-d-supplements-with-meals/\" rel=\"nofollow\">Take Vitamin D Supplements With Meals</a>; <a href=\"https://nutritionfacts.org/video/calcium-absorption-soy-milk-versus-cow-milk/\" rel=\"nofollow\">Calcium Absorption: Soy Milk Versus Cow Milk</a>; and <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=814\" rel=\"nofollow\">Raw Food Nutrient Absorption</a>. For more on breast cancer, see <a href=\"https://nutritionfacts.org/video/relieving-yourself-of-excess-estrogen/\" rel=\"nofollow\">Relieving Yourself of Excess Estrogen</a>; <a href=\"https://nutritionfacts.org/video/flax-and-fecal-flora/\" rel=\"nofollow\">Flax and Fecal Flora</a>; <a href=\"https://nutritionfacts.org/video/broccoli-versus-breast-cancer-stem-cells/\" rel=\"nofollow\">Broccoli Versus Breast Cancer Stem Cells</a>, and all my <a href=\"https://nutritionfacts.org/topics/breast-cancer/\" rel=\"nofollow\">other videos related to breast cancer</a>.</p>\n<p>And be sure to check out my associated blog posts for more context: <a href=\"https://nutritionfacts.org/2012/11/01/how-to-enhance-mineral-absorption/\" rel=\"nofollow\"> How to Enhance Mineral Absorption</a>; <a href=\"https://nutritionfacts.org/2012/09/27/is-caffeinated-tea-really-dehydrating/\" rel=\"nofollow\">Is Caffeinated Tea Really Dehydrating?</a>; <a href=\"https://nutritionfacts.org/blog/eating-green-to-prevent-cancer/\">Eating Green to Prevent Cancer</a>; <a href=\"https://nutritionfacts.org/2013/05/14/how-tumors-use-meat-to-grow/\">How Tumors Use Meat to Grow</a>; and <a href=\"https://nutritionfacts.org/2013/08/27/want-to-help-prevent-parkinsons-disease-avoid-this/\">Avoiding Dairy to Prevent Parkinson’s</a>.</p>\n<p>For all of the most recent videos on iron, visit the <a href=\"https://nutritionfacts.org/topics/iron/\">topic page</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

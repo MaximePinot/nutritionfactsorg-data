@@ -1,0 +1,131 @@
+{
+  "Title": "Avoiding Glycotoxins in Food",
+  "Url": "https://nutritionfacts.org/video/avoiding-a-sugary-grave/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/S91x9kTo1aI"
+  },
+  "UpdatedAt": "2011-12-29T13:00:22+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "500 foods were tested for advanced glycation end products (AGEs).",
+  "Transcript": "Now that we know the major source of glycotoxins is our diet, the remaining question is which foods do we need to avoid? The major barrier to progress in this field has been the lack of a large reference database of these toxins in various foods, until now. For the first time ever, 549 foods tested for AGE content.\nThey tested nuts and seeds, oils, beef, poultry, pork, fish, cheese, soy, eggs, breads, cereals, beans, grains, veggies, crackers, cookies, fruit, dairy, juice, Big Macs, and Hot Pockets, hummus and veggie burgers, candy, soups, condiments, and miscellaneous—from Budweiser to breast milk, coffee and Coke, Jell-O to vodka.\nHere were the top 15 most contaminated foods:  chicken, bacon, chicken, hot dog, chicken, beef, chicken, chicken, beef, chicken, turkey, chicken, fish, beef, and chicken.\nNow, cooking method does matter. For example, boiled chicken is safer than baked chicken. But more important is plant versus animal. Yes, baked apples have three times more than raw apples, but the amounts are totally negligible.\nHere’s a McDonald’s hamburger; here’s a veggie burger fried the same way. Whereas cooking is known to drive the generation of new AGEs in foods, it’s interesting to note that even uncooked animal-derived foods can contain large amounts of dietary AGEs, these so-called glycotoxins.\nTypical New Yorker gets about 15,000 units a day. What’s a safe intake? No clue, but there are studies suggesting cutting one’s intake in half may extend one’s lifespan. How might one do that? Well, those who are regularly consuming lower-meat meals, prepared with moist heat (such as soups and stews), as part of a diet rich in plant foods, could realistically consume half.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring watch the above video. This is just an approximation of the audio contributed by MaryAnn Allison.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Koschinsky T, He CJ, Mitsuhashi T, Bucala R, Liu C, Buenting C, Heitmann K, Vlassara H. Orally absorbed reactive glycation products (glycotoxins): an environmental risk factor in diabetic nephropathy. Proc Natl Acad Sci U S A. 1997 Jun 10;94(12):6474-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC21074/pdf/pq006474.pdf"
+    },
+    {
+      "Title": "Krautwald M, Münch G. Advanced glycation end products as biomarkers and gerontotoxins - A basis to explore methylglyoxal-lowering agents for Alzheimer's disease? Exp Gerontol. 2010 Oct;45(10):744-51. Epub 2010 Mar 6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/%2020211718"
+    },
+    {
+      "Title": "Semba RD, Nicklett EJ, Ferrucci L. Does accumulation of advanced glycation end products contribute to the aging phenotype? J Gerontol A Biol Sci Med Sci. 2010 Sep;65(9):963-75. Epub 2010 May 17.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2920582/pdf/glq074.pdf"
+    },
+    {
+      "Title": "Sgarbieri VC, Amaya J, Tanaka M, Chichester CO. Response of rats to amino acid supplementation of brown egg albumin. J Nutr. 1973 Dec;103(12):1731-8.",
+      "Url": "http://jn.nutrition.org/content/103/12/1731.full.pdf"
+    },
+    {
+      "Title": "Uribarri J, Woodruff S, Goodman S, Cai W, Chen X, Pyzik R, Yong A, Striker GE, Vlassara H. Advanced glycation end products in foods and a practical guide to their reduction in the diet. J Am Diet Assoc. 2010 Jun;110(6):911-16.e12.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20497781"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Brian Ferrell and Janne Karaste via Wikimedia Commons.",
+  "Topics": [
+    {
+      "Title": "advanced glycation end-products (AGEs)",
+      "Url": "https://nutritionfacts.org/topics/advanced-glycation-end-products/"
+    },
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "bacon",
+      "Url": "https://nutritionfacts.org/topics/bacon/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "cheese",
+      "Url": "https://nutritionfacts.org/topics/cheese/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "glycotoxins",
+      "Url": "https://nutritionfacts.org/topics/glycotoxins/"
+    },
+    {
+      "Title": "hamburgers",
+      "Url": "https://nutritionfacts.org/topics/hamburgers/"
+    },
+    {
+      "Title": "hot dogs",
+      "Url": "https://nutritionfacts.org/topics/hot-dogs/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "processed meat",
+      "Url": "https://nutritionfacts.org/topics/processed-meat/"
+    },
+    {
+      "Title": "red meat",
+      "Url": "https://nutritionfacts.org/topics/red-meat/"
+    },
+    {
+      "Title": "safety limits",
+      "Url": "https://nutritionfacts.org/topics/safety-limits/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "veggie burgers",
+      "Url": "https://nutritionfacts.org/topics/veggie-burgers/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Be sure to check out <a href=\"https://nutritionfacts.org/video/glycotoxins/\" rel=\"nofollow\">Glycotoxins</a>, the first video of this series on AGEs.  </p>\n<p>For further context, check out my associated blog post: <a href=\"https://nutritionfacts.org/2012/03/15/harvards-meat-and-mortality-studies/\" rel=\"nofollow\">Harvard’s Meat and Mortality Studies</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

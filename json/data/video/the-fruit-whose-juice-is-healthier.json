@@ -1,0 +1,87 @@
+{
+  "Title": "The Fruit Whose Juice Is Healthier",
+  "Url": "https://nutritionfacts.org/video/the-fruit-whose-juice-is-healthier/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/s4f4wKBTI7Y"
+  },
+  "UpdatedAt": "2012-04-26T12:00:05+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 8",
+    "Url": "https://nutritionfacts.org/volumes/volume-8/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Can you name a fruit whose processed juice is healthier than just eating the fruit itself?",
+  "Transcript": "Can you name a fruit whose processed juice is healthier than just eating the fruit itself?\n Here’s the VCEAC of fruits, and their juice. The black bars are the fruit; the white bars are the juice. VCEAC stands for vitamin C equivalent antioxidant capacity.\nSo, for example, even though apples don’t actually contain 150mg of vitamin C itself, they have other antioxidants that add up to the equivalent of that much antioxidant power. As you can see, across the board, as you go from fruit to juice, the antioxidant capacity is slashed. In fact, the only reason the grape juice was even that high is because it happened to have extra vitamin C added to it—so it kind of cheated.\nBut wait a second; what is this? A fruit’s juice that has significantly more antioxidants, and even greater phytonutrient availability? And the answer is: tomato juice. About twice the antioxidant power of tomatoes, and five times the phytonutrient lycopene.\nAnd no, it was not a trick question. You may use it as a vegetable, but it is a fruit, because it’s got seeds. Don’t tell that to the Supreme Court, though, who, having nothing better to do, ruled in 1893 that tomatoes were vegetables—though they were only a batch of Justices away from those who ruled Mr. Scott was not a citizen, so I wouldn’t listen to them.\nArkansas decided to have it both ways, declaring tomatoes both the official state fruit, and the official state vegetable.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Burton-Freeman B. Tomato Consumption and Health: Emerging Benefits. American Journal of Lifestyle Medicine. 2011 Mar/Apr:Vol. 5 no. 2:182-191.",
+      "Url": "http://ajl.sagepub.com/content/5/2/182.short"
+    },
+    {
+      "Title": "Floegel A, Kim DO, Chung SJ, Song WO, Fernandez ML, Bruno RS, Koo SI, Chun OK. Development and validation of an algorithm to establish a total antioxidant capacity database of the US diet. Int J Food Sci Nutr. 2010 Sep;61(6):600-23.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20377495"
+    }
+  ],
+  "Acknowledgements": "Images thanks to ComùnicaTI via Flickr, and Missouri Historical Society, St. Louis via Wikimedia. Commons.",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "apple juice",
+      "Url": "https://nutritionfacts.org/topics/apple-juice/"
+    },
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "fruit juice",
+      "Url": "https://nutritionfacts.org/topics/fruit-juice/"
+    },
+    {
+      "Title": "grape juice",
+      "Url": "https://nutritionfacts.org/topics/grape-juice/"
+    },
+    {
+      "Title": "grapes",
+      "Url": "https://nutritionfacts.org/topics/grapes/"
+    },
+    {
+      "Title": "juice",
+      "Url": "https://nutritionfacts.org/topics/juice/"
+    },
+    {
+      "Title": "lycopene",
+      "Url": "https://nutritionfacts.org/topics/lycopene/"
+    },
+    {
+      "Title": "nutrient absorption",
+      "Url": "https://nutritionfacts.org/topics/nutrient-absorption/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "tomato juice",
+      "Url": "https://nutritionfacts.org/topics/tomato-juice/"
+    },
+    {
+      "Title": "tomatoes",
+      "Url": "https://nutritionfacts.org/topics/tomatoes/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>In general, though, whole foods are best. See my <a href=\"https://nutritionfacts.org/topics/processed-foods/\" rel=\"nofollow\">other videos on processed foods</a>. For more on the bioavailability of phytonutrients, check out my videos <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=814\" rel=\"nofollow\">Raw Food Nutrient Absorption</a>, and <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=242\" rel=\"nofollow\">Raw Food Diet Myths</a>. Everything on this website is free!</p>\n<p>For more context, be sure to check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/eating-green-to-prevent-cancer/\"> Eating Green to Prevent Cancer</a>; <a href=\"https://nutritionfacts.org/2013/06/25/apple-peels-turn-on-anticancer-genes/\">Apple Peels Turn On Anticancer Genes</a>; and <a href=\"https://nutritionfacts.org/2013/08/22/the-science-on-acai-berries/\">The Science on Açaí Berries</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

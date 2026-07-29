@@ -1,0 +1,159 @@
+{
+  "Title": "Microplastic Contamination and Seafood Safety",
+  "Url": "https://nutritionfacts.org/video/microplastic-contamination-and-seafood-safety/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/qbOPQDeAYAA"
+  },
+  "UpdatedAt": "2019-04-24T11:50:14+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 46",
+    "Url": "https://nutritionfacts.org/volumes/volume-46/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Can ingested plastic particles from fish get into our bloodstream?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn 1869, a patent was taken out for a new substance to replace elephant ivory in the production of billiard balls, and the plastics industry was born. Ironically, what started out as a conservation-minded measure has turned into an environmental problem. Hundreds of thousands of tons of trillions of tiny plastic particles “are [now] floating on the surface of the sea.” This is how it works, either from plastic objects, like water bottles, that get worn down into tinier and tinier pieces, or plastic microbeads flowing down into the sewers from our sinks.\n“Plastic microbeads are often used as a scrubbing agent in personal care and cosmetic products, such as facial cleansers, shower gel and toothpaste,” and “up to 94,500 microbeads could go down the drain in a single wash.” Then, when you trawl the oceans, you can find the same beads you find in the facial scrubs. Billions “are emitted into aquatic habitats every day in the United States.” Laid end to end, the United States emits enough microbeads to “wrap around the planet” more than seven times.\nThe reason this may be a problem is that the plastic then accumulates toxic compounds from the water and then shuttles them, along with any chemicals originally in the plastic, “into marine organisms,” concentrating up the food chain, and eventually ending up on our plates. “The potential hazardous effects on humans” then evidently include “alterations in chromosomes which lead to infertility, obesity, and cancer.”\nWait; let’s take a step back, and review the evidence. Plastic gets into the oceans, but does it even get into the fish? Yes: “Microplastics have been shown to be ingested” by fish and other seafood. But: “Are we [then actually] eating plastic-ingesting fish? Yes, we are eating plastic-ingesting fish.” But don’t we just poop the plastic out?\nSmall enough microparticles may actually be able to get absorbed through the intestinal wall and into our bloodstream. This “[u]ptake of ingested microparticles into small intestinal tissues and on to secondary organs has moved from being an anecdotal phenomenon to a recognized and quantifiable process.” But that’s in rodents. Just because it’s been demonstrated across a variety of lab animals, you don’t know if it happens in people…until you put it to the test. The closest we have is working with human placentas after childbirth, and what they found is that plastic microparticles could indeed “cross the placental barrier” from the maternal bloodstream. So, if it could get into a pregnant woman’s circulation it might get into her baby’s circulation as well.\nThe reason this is concerning is that plastic debris can be a source of toxic chemicals, both chemical additives in the plastic itself, and then pollutants the plastic sucks up from the water that can then be later released into the body. BPA is one of the chemical additives that can originate from the plastic itself. Given that BPA concentrations have been measured in plastic debris, microplastics “may be a major source of BPA in seafood.” But no one’s really looked into it…until now: “[BPA levels] in edible part of seafood.”\nYes, “fish and seafood…present one of the highest BPA contamination” levels. But is that just because they were looking at canned fish products, like tuna and sardines? Manufacturers may use BPA in the lining of food cans directly. Yes, “BPA may also leach from plastic in oceans, causing a direct contamination of fish.” In fact, “[s]ome…argue that the BPA environmental contamination in fish” could be worse than the BPA from the cans themselves, but you don’t know…until you put it to the test.\nHere are the BPA levels found in canned seafood. You can see the highest levels were found in like tuna, cockles, sardines, and blue crab. But, these were all canned; so, you don’t know how much is from the can versus the seafood itself, until you look at non-canned seafood, and sometimes found even higher levels in some fresh mollusks, clams, flounder, and cod.\nThat’s not good, since plastics chemicals, such as BPA, “are known endocrine disruptors,” meaning known hormone disrupters. And “[b]esides that, [fat-soluble] pollutants [from seawater] [can glom] onto microplastic surfaces,” and potentially present additional risk—which we’ll cover next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Carr KE, Smyth SH, McCullough MT, Morris JF, Moyes SM. Morphological aspects of interactions between microparticles and mammalian cells: intestinal uptake and onward movement. Prog Histochem Cytochem. 2012;46(4):185-252.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22240063"
+    },
+    {
+      "Title": "Cheung PK, Fok L. Evidence of microbeads from personal care product contaminating the sea. Mar Pollut Bull. 2016;109(1):582-585.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27237038/"
+    },
+    {
+      "Title": "Engler RE. The complex interaction between marine debris and toxic chemicals in the ocean. Environ Sci Technol. 2012;46(22):12302-12315.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23088563"
+    },
+    {
+      "Title": "Erren TC, Gross JV, Steffany F, Meyer-Rochow VB. \"Plastic ocean\": What about cancer?. Environ Pollut. 2015;207:436-437.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26074024"
+    },
+    {
+      "Title": "Hussain N, Jaitley V, Florence AT. Recent advances in the understanding of uptake of microparticulates across the gastrointestinal lymphatics. Adv Drug Deliv Rev. 2001;50(1-2):107-142.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11489336"
+    },
+    {
+      "Title": "Hyatt JW Jr. U.S. Patent US88633A. Washington, DC: US Patent and Trademark Office. 1869.",
+      "Url": "https://patents.google.com/patent/US88633A/en"
+    },
+    {
+      "Title": "Miranda DA, De Carvalho-Souza GF. Are we eating plastic-ingesting fish?. Mar Pollut Bull. 2016;103(1-2):109-114.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26763323"
+    },
+    {
+      "Title": "Repossi A, Farabegoli F, Gazzotti T, Zironi E, Pagliuca G. Bisphenol A in Edible Part of Seafood. Ital J Food Saf. 2016;5(2):5666.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27800447"
+    },
+    {
+      "Title": "Rochman CM, Kross SM, Armstrong JB, et al. Correction to Scientific Evidence Supports a Ban on Microbeads. Environ Sci Technol. 2015;49(24):14740.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26565431"
+    },
+    {
+      "Title": "Seltenrich N. New link in the food chain? Marine plastic pollution and seafood safety. Environ Health Perspect. 2015;123(2):A34-A41.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25643424"
+    },
+    {
+      "Title": "Sharma S, Chatterjee S. Microplastic pollution, a threat to marine ecosystem and human health: a short review. Environ Sci Pollut Res Int. 2017;24(27):21530-21547.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28815367"
+    },
+    {
+      "Title": "Vandermeersch G, Van Cauwenberghe L, Janssen CR, et al. A critical view on microplastic quantification in aquatic organisms. Environ Res. 2015;143(Pt B):46-55.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26249746"
+    },
+    {
+      "Title": "Wick P, Malek A, Manser P, et al. Barrier capacity of human placenta for nanosized materials. Environ Health Perspect. 2010;118(3):432-436.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20064770"
+    }
+  ],
+  "Acknowledgements": "Image credit: efes via pixabay. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "BPA",
+      "Url": "https://nutritionfacts.org/topics/bpa/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cans",
+      "Url": "https://nutritionfacts.org/topics/cans/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "endocrine disruptors",
+      "Url": "https://nutritionfacts.org/topics/endocrine-disruptors/"
+    },
+    {
+      "Title": "environment",
+      "Url": "https://nutritionfacts.org/topics/environment/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "infants",
+      "Url": "https://nutritionfacts.org/topics/infants/"
+    },
+    {
+      "Title": "infertility",
+      "Url": "https://nutritionfacts.org/topics/infertility/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    },
+    {
+      "Title": "plastic",
+      "Url": "https://nutritionfacts.org/topics/plastic/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "sardines",
+      "Url": "https://nutritionfacts.org/topics/sardines/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "toothpaste",
+      "Url": "https://nutritionfacts.org/topics/toothpaste/"
+    },
+    {
+      "Title": "tuna",
+      "Url": "https://nutritionfacts.org/topics/tuna/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the first in a three-video series on microplastics. Stay tuned for <a href=\"https://nutritionfacts.org/video/are-microplastics-in-seafood-a-cancer-risk/\">Are Microplastics in Seafood a Cancer Risk?</a> and <a href=\"https://nutritionfacts.org/video/how-much-microplastic-is-found-in-fish-fillets/\">How Much Microplastic Is Found in Fish Fillets?</a>.</p>\n<p>I’ve previously covered BPA in:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/bpa-plastic-and-male-sexual-dysfunction/\">BPA Plastic and Male Sexual Dysfunction</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-bpa-hasnt-been-banned/\">Why BPA Hasn’t Been Banned</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-canned-fruit-as-healthy/\">Is Canned Fruit as Healthy?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/bpa-on-receipts-getting-under-our-skin/\">BPA on Receipts: Getting Under Our Skin</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-avoid-the-obesity-related-plastic-chemical-bpa/\">How to Avoid the Obesity-Related Plastic Chemical BPA</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-the-bpa-free-alternatives-safe/\">Are the BPA-Free Alternatives Safe?</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

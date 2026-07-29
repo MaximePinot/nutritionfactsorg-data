@@ -1,0 +1,159 @@
+{
+  "Title": "Observational Studies Show Similar Results to Randomized Controlled Trials",
+  "Url": "https://nutritionfacts.org/video/observational-studies-show-similar-results-to-randomized-controlled-trials/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/aWy76TMfJCU"
+  },
+  "UpdatedAt": "2022-07-04T11:50:34+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 58",
+    "Url": "https://nutritionfacts.org/volumes/volume-58/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How legitimate is the common corporate criticism of the scientific nutrition literature that the credibility of observational studies is questionable?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhile randomized controlled trials are highly reliable in assessing interventions like drugs, they’re harder to do with diet. Dietary diseases can take decades to develop. It’s not like you can give people placebo food, and it’s hard to get people to stick to assigned diets, especially for the years it would take to observe effects on hard endpoints like heart disease or cancer. That’s why we have to use observational studies of large numbers of people and their diets over time to see which foods appear to be linked to which diseases. And interestingly, if you compare data obtained from observational population studies versus randomized trials, on average, there is little evidence for signiﬁcant differences between the findings. Not just in the same direction of effect, but of the same general magnitude of the effect, in about 90 percent of the treatments they looked at.\nBut wait, what about the hormone replacement therapy disparity I talked about in the last video? It turns out when you go back and look at the data, it was just a difference in timing in terms of when the Premarin was started, and they actually showed the same results after all.\nBut even if observational trials did provide lower-quality evidence, maybe we don’t need the same level of certainty when we’re telling someone to eat more broccoli or drink less soda, compared to whether or not you want to prescribe someone some drug. After all, prescription drugs are the third leading cause of death in the United States. It goes heart disease, cancer, then doctors. About 100,000 Americans are wiped out every year from the side effects of prescription drugs taken as directed. So, given the massive risks, you better have rock-solid evidence that there are benefits that outweigh the risks. You are playing with fire; so, darn right I want randomized double-blind, placebo-controlled trials for drugs. But when you’re just telling people to cut down on doughnuts, you don’t need the same level of proof.\nIn the end, the industry-funded sugar paper concluding that the dietary guidelines telling people to cut down aren’t trustworthy, because they’re based on such “low-quality evidence,” is an example of the inappropriate use of the drug trial paradigm in nutrition research. You say yeah, but what were the authors supposed to do? If GRADE is the way you judge guidelines, then you can’t blame them. But no, there are other tools––like for example, NutriGrade, a scoring system specifically designed to assess and judge the level of evidence in nutrition research.\nOne of the things I like about NutriGrade is that it specifically takes funding bias into account, so industry-funded trials are downgraded—no wonder the industry-funded authors chose the inappropriate drug method instead. HEALM is another one, Hierarchies of Evidence Applied to Lifestyle Medicine, specifically designed because existing tools such as GRADE are not viable options when it comes to questions that you can’t fully address through randomized controlled trials (RCTs). Each research method has its unique contribution. In a lab, you can explore the exact mechanisms, RCTs can prove cause and effect, and huge population studies can study hundreds of thousands of people at a time for decades.\nTake the trans fat story, for example. We had randomized controlled trials showing trans fats increased risk factors for heart disease, and we had population studies showing that the more trans fats people ate, the more heart disease they had. So, taken together, these studies forged a strong case for the harmful effects of trans fat consumption on heart disease, and as a consequence, it was largely removed from the U.S. food supply, preventing as many as 200,000 heart attacks every year. Now, it’s true that we never had randomized controlled trials looking at hard endpoints, like heart attacks and death, because that would take years of randomizing people to eat like canisters of Crisco every day. You can’t let the perfect be the enemy of the good when there are tens of thousands of lives at stake.\nPublic health ofﬁcials have to work with the best available balance of evidence there is. It’s like when we set tolerable upper limits for lead exposure or PCBs. It’s not like we randomized kids to drink different levels of lead, and saw who grew up to have tolerable brain damage. You can’t run those kinds of experiments; so, you have to just pull in evidence from as many sources as possible and make your best approximation.\n“Even if RCTs are unavailable or impossible to conduct, there is plenty of evidence from observational studies on the nutritional causes of many cancers, such as on red meat increasing the risk of colorectal cancer.“ So, if dietary guidelines aiming at cancer prevention were to be assessed with the drug-designed GRADE approach, they’d reach the same conclusion that the sugar paper did—low quality evidence. And so, it’s no surprise a meat-industry-funded institution hired the same dude who helped conceive and design the sugar-industry funded study. And boom, lead author saying we can ignore the dietary guidelines to reduce red and processed meat consumption, because they used GRADE methods to rate the certainty of evidence, and though current dietary guidelines recommend limiting meat consumption, their results predictably demonstrated that the evidence was of low quality.\nBefore I dive deep into the meat papers, there’s one last irony about the sugar paper. The authors used the inconsistency of the exact recommendations across sugar guidelines over a 20-year period to raise concerns about the quality of the guidelines. Now obviously, we would expect guidelines to evolve, but the most recent guidelines show remarkable consistency, with one exception: the 2002 Institute of Medicine guideline that said a quarter of your diet could be straight sugar without running into deficiencies. But that outlier was partly funded by the Coke, PepsiCo, cookie, candy-funded institute that is now saying see, since recommendations are all over the place (thanks in part to us), they can’t be trusted.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Anglemyer A, Horvath HT, Bero L. Healthcare outcomes assessed with observational study designs compared with those assessed in randomized trials. Cochrane Database Syst Rev. 2014;(4):MR000034.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24782322/"
+    },
+    {
+      "Title": "Benson K, Hartz AJ. A comparison of observational studies and randomized, controlled trials. N Engl J Med. 2000;342(25):1878-86.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10861324/"
+    },
+    {
+      "Title": "Blumberg J, Heaney RP, Huncharek M, et al. Evidence-based criteria in the nutritional context. Nutr Rev. 2010;68(8):478-84.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20646225/"
+    },
+    {
+      "Title": "Erickson J, Sadeghirad B, Lytvyn L, Slavin J, Johnston BC. The scientific basis of guideline recommendations on sugar intake. Ann Intern Med. 2016;166(4):257-67.",
+      "Url": "https://www.acpjournals.org/doi/10.7326/m16-2020"
+    },
+    {
+      "Title": "Gøtzsche PC. Our prescription drugs kill us in large numbers. Pol Arch Med Wewn. 2014;124(11):628-34.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25355584/"
+    },
+    {
+      "Title": "Heaney RP. Nutrition, chronic disease, and the problem of proof. Am J Clin Nutr. 2006;84(3):471-2.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16960157/"
+    },
+    {
+      "Title": "Johnston BC, Zeraatkar D, Han MA, et al. Unprocessed red meat and processed meat consumption: dietary guideline recommendations from the nutritional recommendations (Nutrirecs) consortium. Ann Intern Med. 2019;171(10):756-64.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31569235/"
+    },
+    {
+      "Title": "Jukola S. On the evidentiary standards for nutrition advice. Stud Hist Philos Biol Biomed Sci. 2019;73:1-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29866402/"
+    },
+    {
+      "Title": "Katz DL, Karlsen MC, Chung M, et al. Hierarchies of evidence applied to lifestyle Medicine (Healm): introduction of a strength-of-evidence approach based on a methodological systematic review. BMC Med Res Methodol. 2019;19(1):178.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31429718/"
+    },
+    {
+      "Title": "Mozaffarian D, Katan MB, Ascherio A, Stampfer MJ, Willett WC. Trans fatty acids and cardiovascular disease. N Engl J Med. 2006;354(15):1601-13.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16611951/"
+    },
+    {
+      "Title": "Qian F, Riddle MC, Wylie-Rosett J, Hu FB. Red and processed meats and health risks: how strong is the evidence? Diabetes Care. 2020;43(2):265-71.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31959642/"
+    },
+    {
+      "Title": "Sadeghirad B, Johnston BC. The scientific basis of guideline recommendations on sugar intake. Ann Intern Med. 2017;167(3):219.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28761953"
+    },
+    {
+      "Title": "Satija A, Yu E, Willett WC, Hu FB. Understanding nutritional epidemiology and its role in policy. Adv Nutr. 2015;6(1):5-18.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25593140/"
+    },
+    {
+      "Title": "Schillinger D, Kearns C. Guidelines to limit added sugar intake: junk science or junk food? Ann Intern Med. 2016;166(4):305-6.",
+      "Url": "https://www.acpjournals.org/doi/10.7326/m16-2754"
+    },
+    {
+      "Title": "Schwingshackl L, Knüppel S, Schwedhelm C, et al. Perspective: nutrigrade: a scoring system to assess and judge the meta-evidence of randomized controlled trials and cohort studies in nutrition research. Adv Nutr. 2016;7(6):994-1004.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28140319/"
+    },
+    {
+      "Title": "Starfield B. Is US health really the best in the world? JAMA. 2000;284(4):483-5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10904513/"
+    },
+    {
+      "Title": "Texas A&M University. August 21, 2019.",
+      "Url": "https://nutritionfacts.box.com/s/gry875vbhgajpch3kkpw6f7a81enyamp"
+    },
+    {
+      "Title": "Vandenbroucke JP. The HRT controversy: observational studies and RCTs fall in line. Lancet. 2009;373(9671):1233-5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19362661/"
+    },
+    {
+      "Title": "Zeraatkar D, Han MA, Guyatt GH, et al. Red and processed meat consumption and risk for all-cause mortality and cardiometabolic outcomes: a systematic review and meta-analysis of cohort studies. Ann Intern Med. 2019;171(10):703-10.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31569213/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "candy",
+      "Url": "https://nutritionfacts.org/topics/candy/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "iatrogenic",
+      "Url": "https://nutritionfacts.org/topics/iatrogenic/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "lifestyle medicine",
+      "Url": "https://nutritionfacts.org/topics/lifestyle-medicine/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "trans fats",
+      "Url": "https://nutritionfacts.org/topics/trans-fats/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the third in an eight-part series on how industries impact dietary and health guidelines. The first two videos introduced what happened when the 2015 Dietary Guidelines committee recommended reducing sugar consumption: <a href=\"https://nutritionfacts.org/video/how-big-sugar-undermines-dietary-guidelines/\">How Big Sugar Undermines Dietary Guidelines</a> and <a href=\"https://nutritionfacts.org/video/how-big-sugar-manipulated-the-science-for-dietary-guidelines/\">How Big Sugar Manipulated the Science for Dietary Guidelines</a>.                         </p>\n<p>Next, we will look at the recent articles in the <em>Annals of Internal Medicine</em> on meat consumption:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/failing-grade-for-annals-of-internal-medicine-meat-studies/\">Failing GRADE for <em>Annals of Internal Medicine</em> Meat Studies</a></li>\n<li><a href=\"https://nutritionfacts.org/video/conflicts-of-interest-in-the-annals-of-internal-medicine-meat-studies/\">Conflicts of Interest in the <em>Annals of Internal Medicine</em> Meat Studies</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-health-risks-vs-benefits-of-meat-consumption/\">The Health Risks vs. Benefits of Meat Consumption</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-big-meat-manipulated-the-science/\">How Big Meat Manipulated the Science</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-does-meat-affect-longevity/\">How Much Does Meat Affect Longevity?</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

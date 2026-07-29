@@ -1,0 +1,167 @@
+{
+  "Title": "Best Cooking Method",
+  "Url": "https://nutritionfacts.org/video/best-cooking-method/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/CblEnrysVIA"
+  },
+  "UpdatedAt": "2010-09-10T19:26:09+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 4",
+    "Url": "https://nutritionfacts.org/volumes/4/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Which are the gentlest cooking methods for preserving nutrients, and which vegetables have more antioxidants cooked than raw?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nYou may remember back in Volume 2, I compared the effects of different cooking methods on the phytonutrients in broccoli. Well, last year, food scientists outdid themselves. They looked at 20 different vegetables, six different cooking methods, and then, looked at three separate measures of antioxidant activity. That’s over 300 separate experiments to figure out what’s the best way to cook our vegetables.\nFirst, though, let’s figure out the worst, in terms of loss of antioxidant content. Baking, boiling, frying, George Foreman, nuking, or pressure cooking? The worst is boiling.\nWhat’s the second worst? The pressure cooking. When we use these wet cooking methods, some of the nutrition is lost into the cooking water. It may be less than you think, though. Averaged over those 20 vegetables, boiling removes only about 14% of the antioxidants. So, if you really like boiled broccoli, fine—just eat one more floret. Seven florets of boiled broccoli has all the antioxidant power of six florets of raw broccoli.\nSo, the best way to eat your veggies is really whichever way will get you to eat the most of them, with the exception of frying; that just adds way too many empty calories.\nWhat’s the gentlest cooking method, though? Out of these remaining four, which preserves antioxidants the best? It was the microwave; preserving 97.3% of the antioxidants.\nBut that’s on average, across 20 vegetables. There was one vegetable whose antioxidants get clobbered, no matter how you cook it; up to 75% of the antioxidant power gone. Which is the one vegetable really best to eat raw? Artichoke hearts? Asparagus, beets, broad beans, broccoli, I hope we don’t have to eat raw Brussels sprouts, cauliflower, carrots, celery, eggplant, garlic, green beans, leeks, corn on the cob, onions, peas, bell peppers, spinach, Swiss chard, or zucchini? The most vulnerable vegetable is bell peppers. Do try to eat those raw.\nOn the other hand, there were three vegetables that weren’t affected by cooking at all. You could even boil them, and lose no antioxidants. Can you guess at least one of the three? The three were artichokes, beets, and onions. Boil away. Asparagus actually gets honorable mention here. Unaffected by all but frying, so you can boil asparagus, too.\nFinal question, and perhaps the most interesting. There are two vegetables that, no matter what you do to them, they increase in antioxidant value. They become healthier. Which two are they?\nFirst, the honorable mention: green beans. With the exception of boiling and pressure cooking, they actually increase in antioxidant power when you cook them, so microwaved green beans are actually healthier than raw green beans.\nBut which two vegetables always increase in value, no matter how you cook them? Carrots and celery. So, when we make a nice vegetable soup, we’re actually boosting the nutrition.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Howard LR, Castrodale C, Brownmiller C, Mauromoustakos A. Jam processing and storage effects on blueberry polyphenolics and antioxidant capacity. J Agric Food Chem. 2010 Apr 14;58(7):4022-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20055410"
+    },
+    {
+      "Title": "Jiménez-Monreal AM, García-Diz L, Martínez-Tomé M, Mariscal M, Murcia MA. Influence of Cooking Methods on Antioxidant Activity of Vegetables. J Food Sci. 2009 Apr;74(3):H97-H103.",
+      "Url": "http://onlinelibrary.wiley.com/doi/10.1111/j.1750-3841.2009.01091.x/full"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "artichokes",
+      "Url": "https://nutritionfacts.org/topics/artichokes/"
+    },
+    {
+      "Title": "asparagus",
+      "Url": "https://nutritionfacts.org/topics/asparagus/"
+    },
+    {
+      "Title": "baking",
+      "Url": "https://nutritionfacts.org/topics/baking/"
+    },
+    {
+      "Title": "beets",
+      "Url": "https://nutritionfacts.org/topics/beets/"
+    },
+    {
+      "Title": "bell peppers",
+      "Url": "https://nutritionfacts.org/topics/bell-peppers/"
+    },
+    {
+      "Title": "boiling",
+      "Url": "https://nutritionfacts.org/topics/boiling/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "Brussels sprouts",
+      "Url": "https://nutritionfacts.org/topics/brussels-sprouts/"
+    },
+    {
+      "Title": "carrots",
+      "Url": "https://nutritionfacts.org/topics/carrots/"
+    },
+    {
+      "Title": "cauliflower",
+      "Url": "https://nutritionfacts.org/topics/cauliflower/"
+    },
+    {
+      "Title": "celery",
+      "Url": "https://nutritionfacts.org/topics/celery/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "corn",
+      "Url": "https://nutritionfacts.org/topics/corn/"
+    },
+    {
+      "Title": "eggplant",
+      "Url": "https://nutritionfacts.org/topics/eggplant/"
+    },
+    {
+      "Title": "frying",
+      "Url": "https://nutritionfacts.org/topics/frying/"
+    },
+    {
+      "Title": "garlic",
+      "Url": "https://nutritionfacts.org/topics/garlic/"
+    },
+    {
+      "Title": "green beans",
+      "Url": "https://nutritionfacts.org/topics/green-beans/"
+    },
+    {
+      "Title": "microwaving",
+      "Url": "https://nutritionfacts.org/topics/microwaving/"
+    },
+    {
+      "Title": "nutrient absorption",
+      "Url": "https://nutritionfacts.org/topics/nutrient-absorption/"
+    },
+    {
+      "Title": "nutrition myths",
+      "Url": "https://nutritionfacts.org/topics/nutrition-myths/"
+    },
+    {
+      "Title": "oils",
+      "Url": "https://nutritionfacts.org/topics/oils/"
+    },
+    {
+      "Title": "onions",
+      "Url": "https://nutritionfacts.org/topics/onions/"
+    },
+    {
+      "Title": "peas",
+      "Url": "https://nutritionfacts.org/topics/peas/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "pressure cooking",
+      "Url": "https://nutritionfacts.org/topics/pressure-cooking/"
+    },
+    {
+      "Title": "raw food",
+      "Url": "https://nutritionfacts.org/topics/raw-food/"
+    },
+    {
+      "Title": "soup",
+      "Url": "https://nutritionfacts.org/topics/soup/"
+    },
+    {
+      "Title": "spinach",
+      "Url": "https://nutritionfacts.org/topics/spinach/"
+    },
+    {
+      "Title": "Swiss chard",
+      "Url": "https://nutritionfacts.org/topics/swiss-chard/"
+    },
+    {
+      "Title": "vegetable oil",
+      "Url": "https://nutritionfacts.org/topics/vegetable-oil/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "zucchini",
+      "Url": "https://nutritionfacts.org/topics/zucchini/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Also check out <a href=\"https://nutritionfacts.org/video/second-strategy-to-cooking-broccoli/\">Second Strategy to Cooking Broccoli</a>, and for more videos on nutrient absorption you can check out <a href=\"https://nutritionfacts.org/video/raw-veggies-versus-cooked-for-heart-disease/\">Raw Veggies vs. Cooked for Heart Disease</a>.</p>\n<p>And check out my <a href=\"https://nutritionfacts.org/topics/cooking-methods/\" target=\"_blank\" rel=\"noopener noreferrer\">other videos on cooking methods</a>. </p>\n<p>For more context, also see my associated blog posts: <a href=\"https://nutritionfacts.org/blog/2012/04/19/breast-cancer-stem-cells-vs-broccoli/\"> Breast Cancer Stem Cells vs. Broccoli</a>, <a href=\"https://nutritionfacts.org/2012/01/25/acai-to-zucchini-antioxidant-food-rankings/\">Açaí to Zucchini: antioxidant food rankings</a>, and <a href=\"https://nutritionfacts.org/blog/latest-science-on-rooibos-nettle-tea/\">Rooibos &amp; Nettle Tea</a>. </p>\n<p>Update: In 2019, I started doing a few more cooking method videos. Here’s one of them: <a href=\"https://nutritionfacts.org/video/best-way-to-cook-vegetables/\">Best Way to Cook Vegetables</a>. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

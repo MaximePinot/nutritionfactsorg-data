@@ -1,0 +1,99 @@
+{
+  "Title": "U.S. Meat Supply Flying at Half Staph",
+  "Url": "https://nutritionfacts.org/video/u-s-meat-supply-flying-at-half-staph/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/SDxSV0zhnWk"
+  },
+  "UpdatedAt": "2011-11-21T13:00:17+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 6",
+    "Url": "https://nutritionfacts.org/volumes/6/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "An investigation finds 47% of U.S. retail meat tested is contaminated with staph (Staphylococcus) bacteria. Turkey appears most likely to harbor contagion.",
+  "Transcript": "In May 2011, researchers published an investigation into the prevalence of multidrug-resistant staph bacteria in the U.S. meat supply. Antibiotics are used extensively in food animal production for growth promotion and disease prevention, due to the stressful, overcrowded, and unhygienic conditions in which they’re often confined.\nSurveys conducted by NARMS, the CDC monitoring system, “indicate that retail meat and poultry products are frequently contaminated with multidrug-resistant Campylobacter, Salmonella, Enterococcus, and E. coli.\nBut what about staph infections, which, in people, can cause everything from skin infections to pneumonia and meningitis?\nResearchers “collected and tested a total of 136 meat and poultry samples from 5 US cities, encompassing 80 unique brands from 26 grocery stores.” They tested retail beef, chicken, pork, and turkey. Any guess as to which was most contaminated?\nStaph “contamination was most common among turkey samples, followed by pork, chicken, and [then] beef. ” Three-quarters of retail turkey tested positive, and overall, 47% of U.S. retail meat tested was found contaminated with staph, and “multidrug resistance was common.”\nHere are 18 different common clinical antibiotics used in human medicine, across the top. Important drugs, like erythromycin, penicillin, ampicillin, ceftriazone. And then, going down, these are some of the staph bacteria they found in turkey, pork, chicken, and beef. Orange means intermediate resistance to the antibiotic; red means complete resistance; and black is multidrug resistant to three or more classes of antibiotics.\nThese bugs were not from from some hospital ICU, but right off of grocery store shelves.\nConclusion: “Conventional concentrated animal feeding operations (CAFOs [or, so-called factory farms]) provide all the necessary components for the emergence and proliferation of multidrug-resistant zoonotic [or animal-to-human] pathogens. In the United States, billions of food animals are raised in densely stocked CAFOs, where antibiotics are routinely administered in feed and water for extended periods to healthy animals. [The CDC] has shown that multidrug-resistant E. coli and Enterococcus species are prevalent among US meat and poultry products. Our findings indicate that multidrug-resistant Staph aureus should be added to the list of [antibiotic]-resistant pathogens that routinely now contaminate our food supply.”\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Peter Mellor. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Waters AE, Contente-Cuomo T, Buchhagen J, Liu CM, Watson L, Pearce K, Foster JT, Bowers J, Driebe EM, Engelthaler DM, Keim PS, Price LB. Multidrug-Resistant Staphylococcus aureus in US Meat and Poultry. Clin Infect Dis. 2011 May;52(10):1227-30.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3079400/pdf/cir181.pdf"
+    }
+  ],
+  "Acknowledgements": "Image thanks to UGA College of Ag & Environmental Sciences / Flickr",
+  "Topics": [
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "Campylobacter",
+      "Url": "https://nutritionfacts.org/topics/campylobacter/"
+    },
+    {
+      "Title": "CDC",
+      "Url": "https://nutritionfacts.org/topics/cdc/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "E. coli",
+      "Url": "https://nutritionfacts.org/topics/e-coli/"
+    },
+    {
+      "Title": "factory farming practices",
+      "Url": "https://nutritionfacts.org/topics/factory-farming-practices/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "pneumonia",
+      "Url": "https://nutritionfacts.org/topics/pneumonia/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "Salmonella",
+      "Url": "https://nutritionfacts.org/topics/salmonella/"
+    },
+    {
+      "Title": "staph infection",
+      "Url": "https://nutritionfacts.org/topics/staph-infection/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "zoonotic disease",
+      "Url": "https://nutritionfacts.org/topics/zoonotic-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Check out my associated blog posts for more context: <a href=\"https://nutritionfacts.org/blog/2011/11/21/talking-turkey-9-out-of-10-retail-turkey-samples-contaminated-with-fecal-bacteria/\" rel=\"nofollow\">Talking Turkey: 9 out of 10 retail turkey samples contaminated with fecal bacteria</a>; <a href=\"https://nutritionfacts.org/2012/08/23/why-is-unsafe-meat-legal/\" rel=\"nofollow\">Why is it Legal to Sell Unsafe Meat?</a>; <a href=\"https://nutritionfacts.org/blog/treating-an-enlarged-prostate-with-diet/\">Treating an Enlarged Prostate With Diet</a>; <a href=\"https://nutritionfacts.org/2013/04/25/bugs-drugs-in-pork-yersinia-and-ractopamine/\">Bugs &amp; Drugs in Pork: Yersinia and Ractopamine</a>; and <a href=\"https://nutritionfacts.org/2013/12/26/probiotics-and-diarrhea/\">Probiotics and Diarrhea</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

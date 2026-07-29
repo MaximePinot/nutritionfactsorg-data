@@ -1,0 +1,131 @@
+{
+  "Title": "The Diet Shown to Slow Age-Related Hearing Loss",
+  "Url": "https://nutritionfacts.org/video/the-diet-shown-to-slow-age-related-hearing-loss/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/cTWWkYXWfFs"
+  },
+  "UpdatedAt": "2023-10-18T11:50:29+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 63",
+    "Url": "https://nutritionfacts.org/volumes/volume-63/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "An interventional trial found that dietary changes may slow or even reverse the loss of hearing.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nA 2021 scoping review on the role of nutrition in the development and prevention of age-related hearing loss screened thousands of papers and concluded: “Diets rich in saturated fats and cholesterol have deleterious effects on hearing that could be prevented by lower consumption.” The case of the Mabaan I noted before makes for a compelling story, but on what exactly are they basing their conclusion? It’s true that in laboratory animals you can prove it. Randomize rats to added saturated fat or chinchillas to added dietary cholesterol, and scientists can show atherosclerosis-inducing diets exacerbate inner ear damage and hearing loss, even without noise exposure. But that doesn’t necessarily mean the same is true in people.\nThere is cogent epidemiological data. For example, a study of thousands of twins was able to draw a significant link between a high cholesterol diet and hearing impairment. In the Blue Mountains Hearing Study, which enrolled thousands of older men and women to study age-related hearing loss, dietary cholesterol was the nutrient component most associated with hearing loss. Those eating about two eggs worth of cholesterol a day had 34 percent greater odds of hearing loss compared to those only getting about a single egg’s worth. Consistent with a vascular cause, those on statins, and particularly those at higher doses, appeared to be at lower risk. The researchers suggest that high cholesterol intake may interfere with the circulation within the inner ear itself, or atherosclerotic inflammatory changes could reduce blood flow to the tiny arteries feeding the inner ear. But how about looking inside the arteries to see if this is actually true?\nThe extent and severity of coronary artery disease in the heart, as determined by angiogram, was found to closely correlate to hearing loss. Since atherosclerosis is a systemic disease affecting the entire arterial tree, this has relevance for the arteries feeding the inner ear. The same was found for the amount of atherosclerotic plaque found in the carotid arteries in the neck. The greater the plaque, the poorer the hearing, and the more plaque they found, the greater risk of further hearing impairment measured over the subsequent five years. Getting closer, but how about the arteries that directly supply the inner ear? Early autopsy data suggested sclerotic changes in the blood vessels of older ears contribute to inner ear degeneration, and these days, direct imaging studies correlate the degree of hearing loss with atherosclerotic narrowing of those inner ear arteries.\nNow all we need is an interventional trial to wrap it all up in a bow. Yes, high-cholesterol and high saturated fat diets have been shown to kill off those critical inner ear cells and cause hearing loss in lab animals, but it’s not like you can lock hundreds of people up for a few years and force them to eat different amounts of saturated fat and see what happens to their hearing. Oh, but you can, and they did:  The Finnish Mental Hospital Study.\nIn 1960, one of two mental hospitals near Helsinki had their menus changed to decrease their intake of saturated animal fat. Then, after a few years, the two hospitals switched their menus over. It was one of the first interventional trials of its kind suggesting that you could decrease heart disease deaths by decreasing saturated fat intake. Ah, but what happened to their hearing? It followed the exact same pattern. As their heart disease got worse, so did their hearing. And then when the hospitals switched, the reverse happened. And not just by a little. Those in their 50s in the lower saturated fat hospital ended up with significantly better hearing than the group in the control hospital that was ten years younger. The researchers concluded: “our audiological studies lead us to conclude that diet is an important factor in the prevention of hearing loss.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Croll PH, Bos D, Vernooij MW, et al. Carotid atherosclerosis is associated with poorer hearing in older adults. J Am Med Dir Assoc. 2019;20(12):1617-1622.e1.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31399361/"
+    },
+    {
+      "Title": "Erkan AF, Beriat GK, Ekici B, Doğan C, Kocatürk S, Töre HF. Link between angiographic extent and severity of coronary artery disease and degree of sensorineural hearing loss. Herz. 2015;40(3):481-486.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24357091/"
+    },
+    {
+      "Title": "Fischer ME, Schubert CR, Nondahl DM, et al. Subclinical atherosclerosis and increased risk of hearing impairment. Atherosclerosis. 2015;238(2):344-349.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25555266/"
+    },
+    {
+      "Title": "Gopinath B, Flood VM, Teber E, McMahon CM, Mitchell P. Dietary intake of cholesterol is positively associated and use of cholesterol-lowering medication is negatively associated with prevalent age-related hearing loss. J Nutr. 2011;141(7):1355-1361.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21613455/"
+    },
+    {
+      "Title": "Hearing loss and coronary heart disease. JAMA. 1965;194(4):452.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/5897421/"
+    },
+    {
+      "Title": "Momi SK, Wolber LE, Fabiane SM, MacGregor AJ, Williams FMK. Genetic and environmental factors in age-related hearing impairment. Twin Res Hum Genet. 2015;18(4):383-392.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26081266/"
+    },
+    {
+      "Title": "Pillsbury HC. Hypertension, hyperlipoproteinemia, chronic noise exposure: is there synergism in cochlear pathology? Laryngoscope. 1986;96(10):1112-1138.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/3762287/"
+    },
+    {
+      "Title": "Puga AM, Pajares MA, Varela-Moreiras G, Partearroyo T. Interplay between nutrition and hearing loss: state of art. Nutrients. 2018;11(1):35.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30586880/"
+    },
+    {
+      "Title": "Rodrigo L, Campos-Asensio C, Rodríguez MÁ, Crespo I, Olmedillas H. Role of nutrition in the development and prevention of age-related hearing loss: A scoping review. J Formos Med Assoc. 2021;120(1 Pt 1):107-120.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32473863/"
+    },
+    {
+      "Title": "Rosen S, Olin P, Rosen HV. Dietary prevention of hearing loss. Acta Oto-Laryngologica. 1970;70(4):242-247.",
+      "Url": "https://www.tandfonline.com/doi/abs/10.3109/00016487009181884"
+    },
+    {
+      "Title": "Saito T, Sato K, Saito H. An experimental study of auditory dysfunction associated with hyperlipoproteinemia. Arch Otorhinolaryngol. 1986;243(4):242-245.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/3778299/"
+    },
+    {
+      "Title": "Sikora MA, Morizono T, Ward WD, Paparella MM, Leslie K. Diet-induced hyperlipidemia and auditory dysfunction. Acta Otolaryngol. 1986;102(5-6):372-381.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/3788535/"
+    },
+    {
+      "Title": "Turpeinen O. Effect of cholesterol-lowering diet on mortality from coronary heart disease and other causes. Circulation. 1979;59(1):1-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/758101/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "atherosclerosis",
+      "Url": "https://nutritionfacts.org/topics/atherosclerosis/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cardiovascular health",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-health/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "hearing",
+      "Url": "https://nutritionfacts.org/topics/hearing/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "statins",
+      "Url": "https://nutritionfacts.org/topics/statins/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the last in a three-video series on hearing loss. If you missed the first two, see </span><a href=\"https://nutritionfacts.org/video/age-related-hearing-loss-is-preventable-so-what-causes-it/\"><span style=\"font-weight: 400\">Age-Related Hearing Loss Is Preventable—What Causes It?</span></a> <span style=\"font-weight: 400\">and</span> <a href=\"https://nutritionfacts.org/video/the-supplement-shown-to-slow-age-related-hearing-loss/\"><span style=\"font-weight: 400\">The Supplement Shown to Slow Age-Related Hearing Loss</span></a><span style=\"font-weight: 400\">.</span></p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/are-there-any-benefits-to-ear-candling/\">Are There Any Benefits to Ear Candling?</a> And what is <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/the-best-way-to-remove-ear-wax/\">The Best Way to Remove Ear Wax</a>? Check out the videos.</p>\n<p><span style=\"font-weight: 400\">For more on how to live your longest, healthiest life, preorder my new book </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">. (As always, all proceeds I receive from all of </span><a href=\"https://nutritionfacts.org/books/\"><span style=\"font-weight: 400\">my books</span></a><span style=\"font-weight: 400\"> are donated to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "Title": "Vegetables vs. Breast Cancer",
+  "Url": "https://nutritionfacts.org/video/vegetables-versus-breast-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/nCTA6fGK2wM"
+  },
+  "UpdatedAt": "2011-09-20T12:00:01+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 5",
+    "Url": "https://nutritionfacts.org/volumes/5/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Mushrooms may help prevent breast cancer by acting as an aromatase inhibitor to block breast tumor estrogen production.",
+  "Transcript": "What new developments are there in the battle against breast cancer? Well, most breast tumors are estrogen receptor positive, meaning they respond to estrogen; estrogen makes them grow. The problem for tumors in postmenopasal women is that there isn’t much estrogen around—unless, of course, you take it in a drug like Premarin, made from pregnant mares’ urine, found not to affect the quality of women’s lives, just the quantity—increasing the risk of strokes, heart attacks, blood clots, and breast cancer.\nThankfully, millions of women stopped taking it in 2002, and we saw a nice dip in breast cancer rates. But, unfortunately, those rates have since stagnated. Hundreds of thousands of American women continue to get this dreaded diagnosis every year. So, what’s next?\nWell, with no estrogen around, many breast tumors devise a nefarious plan: they’ll just make their own. 70% of breast cancer cells synthesize estrogen themselves using an enzyme called aromatase, which converts testosterone to estrogen; blue to pink. And so, drug companies have produced a number of aromatase inhibitor drugs, which are used as chemotherapy agents. Of course, by the time you’re on chemo, it can be too late, so researchers started screening hundreds of natural dietary components in hopes of finding something that targets this enzyme.\nNow, to do this, you need a lot of human tissue; where you going to get it from? To study skin, for example, researchers use discarded human foreskins. They’re just being thrown away; might as well use them. Where are you going to get discarded female tissue, though? Placentas. Human placentas. So they got a bunch of women to donate their placentas after giving birth, to further this critical line of research.\nAfter years of searching, they found seven vegetables with significant anti-aromatase activity. And here they are: seven different vegetables, dropping aromatase activity about 20%, except for this one: that’s like a 60 to 65% drop inhibition. Which one was it? Was it the bell pepper, broccoli, carrots, celery, green onions, mushrooms, or spinach? Well, it wasn’t green onion, not celery, not carrots, not peppers, nor broccoli—that would have been my guess—not spinach, but, X marks the spot: mushrooms.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Dianne Moore. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Adams LS, Chen S. Phytochemicals for breast cancer prevention by targeting aromatase. Front Biosci. 2009 Jan 1;14:3846-63.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed?term=19273315"
+    },
+    {
+      "Title": "Brunner RL, Gass M, Aragaki A, Hays J, Granek I, Woods N, Mason E, Brzyski R, Ockene J, Assaf A, LaCroix A, Matthews K, Wallace R; Women's Health Initiative Investigators. Effects of Conjugated Equine Estrogen on Health-Related Quality of Life in Postmenopausal Women With Hysterectomy: Results from the Women's Health Initiative Randomized Clinical Trial. Arch Intern Med. 2005 Sep 26;165(17):1976-86.",
+      "Url": "http://archinte.ama-assn.org/cgi/reprint/165/17/1976"
+    },
+    {
+      "Title": "Desantis C, Howlader N, Cronin KA, Jemal A. Breast cancer incidence rates in U.S. Women are no longer declining. Cancer Epidemiol Biomarkers Prev. 2011 May;20(5):733-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21357727"
+    },
+    {
+      "Title": "Ghosh D, Griswold J, Erman M, Pangborn W. Structural basis for androgen specificity and oestrogen synthesis in human aromatase. Nature. 2009 Jan 8;457(7226):219-23.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19129847/"
+    },
+    {
+      "Title": "Grube BJ, Eng ET, Kao YC, Kwon A, Chen S. White Button Mushroom Phytochemicals Inhibit Aromatase Activity and Breast Cancer Cell Proliferation. J Nutr. 2001 Dec;131(12):3288-93.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11739882/"
+    },
+    {
+      "Title": "Johnston SR. New Strategies in Estrogen Receptor–Positive Breast Cancer. Clin Cancer Res. 2010 Apr 1;16(7):1979-87.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20332324/"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Renee Comet at the National Cancer Institute, Miansari66 via Wikimedia Commons, BogHog and By User:Slashme and User:Mikael Häggström (Self-made using bkchem and inkscape) [GFDL or CC-BY-SA-3.0] via Wikimedia Commons",
+  "Topics": [
+    {
+      "Title": "bell peppers",
+      "Url": "https://nutritionfacts.org/topics/bell-peppers/"
+    },
+    {
+      "Title": "blood clots",
+      "Url": "https://nutritionfacts.org/topics/blood-clots/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "broccoli",
+      "Url": "https://nutritionfacts.org/topics/broccoli/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "carrots",
+      "Url": "https://nutritionfacts.org/topics/carrots/"
+    },
+    {
+      "Title": "celery",
+      "Url": "https://nutritionfacts.org/topics/celery/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "estrogen",
+      "Url": "https://nutritionfacts.org/topics/estrogen/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "menopause",
+      "Url": "https://nutritionfacts.org/topics/menopause/"
+    },
+    {
+      "Title": "mushrooms",
+      "Url": "https://nutritionfacts.org/topics/mushrooms/"
+    },
+    {
+      "Title": "Premarin",
+      "Url": "https://nutritionfacts.org/topics/premarin/"
+    },
+    {
+      "Title": "spinach",
+      "Url": "https://nutritionfacts.org/topics/spinach/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    },
+    {
+      "Title": "testosterone",
+      "Url": "https://nutritionfacts.org/topics/testosterone/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more on breast cancer, check out these videos:<br/>\n<a href=\"https://nutritionfacts.org/video/can-flax-seeds-help-prevent-breast-cancer/\">Can Flax Seeds Help Prevent Breast Cancer?</a><br/>\n<a href=\"https://nutritionfacts.org/video/brca-breast-cancer-genes-and-soy/\">BRCA Breast Cancer Genes and Soy</a><br/>\n<a href=\"https://nutritionfacts.org/video/cholesterol-feeds-breast-cancer-cells/\">Cholesterol Feeds Breast Cancer Cells</a><br/>\n<a href=\"https://nutritionfacts.org/video/is-it-the-diet-the-exercise-or-both/\">Is It the Diet, the Exercise, or Both?</a><br/>\n<a href=\"https://nutritionfacts.org/video/which-dietary-factors-affect-breast-cancer-most/\">Which Dietary Factors Affect Breast Cancer Most?</a><br/>\n<a href=\"https://nutritionfacts.org/video/phytates-for-rehabilitating-cancer-cells/\">Phytates for Rehabilitating Cancer Cells</a></p>\n<p>And be sure to check out my <a href=\"https://nutritionfacts.org/topics/breast-cancer/\" rel=\"nofollow\">other videos on breast cancer</a>. </p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/stool-size-and-breast-cancer-risk/\" rel=\"nofollow\"> Stool Size and Breast Cancer Risk</a>; <a href=\"https://nutritionfacts.org/blog/the-most-anti-inflammatory-mushroom/\" rel=\"nofollow\">The Most Anti-Inflammatory Mushroom</a>; <a href=\"https://nutritionfacts.org/blog/mushrooms-for-breast-cancer-prevention/\">Mushrooms for Breast Cancer Prevention</a>; and <a href=\"https://nutritionfacts.org/blog/breast-cancer-alcohol-how-much-is-safe/\">Breast Cancer &amp; Alcohol: How Much Is Safe?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

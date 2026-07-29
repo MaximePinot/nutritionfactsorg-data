@@ -1,0 +1,127 @@
+{
+  "Title": "Eating Green to Prevent Cancer",
+  "Url": "https://nutritionfacts.org/video/eating-green-to-prevent-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/7PaBJ-i144g"
+  },
+  "UpdatedAt": "2012-10-16T11:30:40+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 10",
+    "Url": "https://nutritionfacts.org/volumes/volume-10/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Chlorophyll, the most ubiquitous plant pigment in the world, may protect our DNA against mutation by intercepting carcinogens.",
+  "Transcript": "Why do people who eat more plants get less cancer? We’ve talked about some phytonutrients that can act as antioxidants to douse free radicals, how some can boost our liver’s own detoxifying enzymes, and some that even boost our DNA repair enzymes, to patch up any damage done. But 22 years ago, the interceptor molecule hypothesis was postulated. Serving as a first line of defense, interceptors bind to mutagens and carcinogens, and thereby block them from coming in contact with our DNA in the first place.\nSee, many carcinogens, shown here in blue, have a flat ring system narrow enough to slip into the spine of our DNA, causing mutations. But if some interceptor were able to glom onto the carcinogen first, it may no longer fit into our DNA. So, the search was on, combing for the existence of carcinogen-binding molecules, and in 2007, we discovered one such amazing molecule was chlorophyll! The most ubiquitous plant pigment in the world, that which makes dark green leafy vegetables dark green.\nIn subsequent years, the ability of chlorophyll to “totally abolish” DNA damage of human cells exposed to carcinogens was documented in a petri dish. But what we really need to see is does it work in people. But you can’t just give people carcinogens—unless, you pay them enough. “Effects of Chlorophyll on Low-Dose Aflatoxin in Human Volunteers.”\nThey had people drink a solution of radioactive aflatoxin, the carcinogen that used to be a problem in peanut butter—with or without spinach chlorophyll. Here’s the big spike in their bloodstream of aflatoxin without spinach in their stomach, and this is with. Apparently, the chlorophyll bound to the aflatoxin and prevented its absorption into the bloodstream. “In sum, these studies provide substantial evidence that chlorophylls can strongly inhibit uptake of aflatoxins in the whole animal”—which, in this case, was us.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Kerry Skinner.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Hartman PE, Shankel DM. Antimutagens and anticarcinogens: a survey of putative interceptor molecules. Environ Mol Mutagen. 1990;15(3):145-82.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/2185012"
+    },
+    {
+      "Title": "Jubert C, Mata J, Bench G, Dashwood R, Pereira C, Tracewell W, Turteltaub K, Williams D, Bailey G. Effects of chlorophyll and chlorophyllin on low-dose aflatoxin B(1) pharmacokinetics in human volunteers. Cancer Prev Res (Phila). 2009 Dec;2(12):1015-22.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19952359"
+    },
+    {
+      "Title": "Mario G. Ferruzzi, Joshua Blakeslee. Digestion, absorption, and cancer preventative activity of dietary chlorophyll derivatives. Nutrition Research. January 2007;27(1):1-12.",
+      "Url": "http://www.nrjournal.com/article/S0271-5317%2806%2900293-4/abstract"
+    },
+    {
+      "Title": "Osowski A, Pietrzak M, Wieczorek Z, Wieczorek J.J. Natural compounds in the human diet and their ability to bind mutagens prevents DNA-mutagen intercalation. Toxicol Environ Health A. 2010;73(17-18):1141-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20706936"
+    },
+    {
+      "Title": "Pietrzak M, Halicka HD, Wieczorek Z, Wieczorek J, Darzynkiewicz Z. Attenuation of acridine mutagen ICR-191--DNA interactions and DNA damage by the mutagen interceptor chlorophyllin. Biophys Chem. 2008 Jun;135(1-3):69-75.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2645045/pdf/nihms76819.pdf"
+    },
+    {
+      "Title": "Rohs R, Bloch I, Sklenar H, Shakked Z. Molecular flexibility in ab initio drug docking to DNA: binding-site and binding-mode transitions in all-atom Monte Carlo simulations. Nucleic Acids Res. 2005 Dec 13;33(22):7048-57.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1312361/pdf/gki1008.pdf"
+    },
+    {
+      "Title": "Tan AC, Konczak I, Sze DM, Ramzan I. Molecular pathways for cancer chemoprevention by dietary phytochemicals. Nutr Cancer. 2011;63(4):495-505.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21500099"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Gigillo83 and Jynto via Wikimedia Commons",
+  "Topics": [
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "chlorophyll",
+      "Url": "https://nutritionfacts.org/topics/chlorophyll/"
+    },
+    {
+      "Title": "collard greens",
+      "Url": "https://nutritionfacts.org/topics/collard-greens/"
+    },
+    {
+      "Title": "detoxification",
+      "Url": "https://nutritionfacts.org/topics/detoxification/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "kale",
+      "Url": "https://nutritionfacts.org/topics/kale/"
+    },
+    {
+      "Title": "mustard greens",
+      "Url": "https://nutritionfacts.org/topics/mustard-greens/"
+    },
+    {
+      "Title": "peanut butter",
+      "Url": "https://nutritionfacts.org/topics/peanut-butter/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "spinach",
+      "Url": "https://nutritionfacts.org/topics/spinach/"
+    },
+    {
+      "Title": "Swiss chard",
+      "Url": "https://nutritionfacts.org/topics/swiss-chard/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more on the antioxidant mechanism, see <a href=\"https://nutritionfacts.org/video/antioxidant-power-of-plant-foods-versus-animal-foods/\" rel=\"nofollow\">Antioxidant Power of Plant Foods Versus Animal Foods</a>.  For more on boosting our liver’s ability to detoxify carcinogens, see <a href=\"https://nutritionfacts.org/video/the-best-detox/\" rel=\"nofollow\">The Best Detox</a>, and for more on boosting our DNA repair enzymes, see <a href=\"https://nutritionfacts.org/video/kiwifruit-and-dna-repair/\" rel=\"nofollow\">Kiwifruit and DNA Repair</a>. These are but a few of the various beneficial roles played by <a href=\"https://nutritionfacts.org/video/phytochemicals-the-nutrition-facts-missing-from-the-label/\" rel=\"nofollow\">Phytochemicals: The Nutrition Facts Missing From the Label</a>, and it’s not just the green pigments. There are <a href=\"https://nutritionfacts.org/video/prevent-glaucoma-and-see-27-miles-farther/\" rel=\"nofollow\">yellow ones</a>; <a href=\"https://nutritionfacts.org/video/golden-glow/\" rel=\"nofollow\">orange ones</a>; <a href=\"https://nutritionfacts.org/video/the-fruit-whose-juice-is-healthier/\" rel=\"nofollow\">red ones</a>; and <a href=\"https://nutritionfacts.org/video/tipping-the-balance-of-firmicutes-to-bacteroidetes/\" rel=\"nofollow\">blue ones</a>. Sounds like a Dr. Seuss book! That’s it for <a href=\"https://nutritionfacts.org/blog/new-latest-nutrition-dvd-now-available-proceeds-to-charity/\" rel=\"nofollow\">Volume 10</a>—thanks for everyone’s continued interest in my work. <a href=\"https://nutritionfacts.org/?p=6976\" rel=\"nofollow\">Volume 11</a> is next!</p>\n<p>For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/eating-green-to-prevent-cancer/\">Eating Green to Prevent Cancer</a>; and <a href=\"https://nutritionfacts.org/2013/07/09/blocking-cancer-formation-green-tea-garlic/\">Foods That May Block Cancer Formation</a>. </p>\n<p>If you’re wondering about the oxalates in spinach and other greens, I have a couple of videos that came out after this one was released: <a href=\"https://nutritionfacts.org/video/oxalates-in-spinach-and-kidney-stones-should-we-be-concerned/\">Oxalates in Spinach and Kidney Stones: Should We Be Concerned?</a> and <a href=\"https://nutritionfacts.org/video/kidney-stones-and-spinach-chard-and-beet-greens-dont-eat-too-much/\">Kidney Stones and Spinach, Chard, &amp; Beet Greens: Don’t Eat Too Much</a>. See all of my more recent videos on greens <a href=\"https://nutritionfacts.org/topics/greens/\">here</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

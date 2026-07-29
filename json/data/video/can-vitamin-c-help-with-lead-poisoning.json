@@ -1,0 +1,163 @@
+{
+  "Title": "Can Vitamin C Help with Lead Poisoning?",
+  "Url": "https://nutritionfacts.org/video/can-vitamin-c-help-with-lead-poisoning/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/0YeQ1HfGBJc"
+  },
+  "UpdatedAt": "2017-06-05T11:50:56+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 36",
+    "Url": "https://nutritionfacts.org/volumes/volume-36/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Those who have higher vitamin C levels tend to have less lead in their bloodstream, but what happens when people are given vitamin C supplements to put it to the test?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Even if a nutritional manipulation is proven effective in reducing blood lead levels, reliance on such an intervention places most of the burden for prevention on those most affected and least responsible for the underlying environmental causes…. Nutritional interventions, therefore, must never substitute for efforts to reduce lead exposure to safe[r] levels. On the other hand, when used as an adjunct…, some nutritional changes may prove to have benefits beyond…lead toxicity.” For example, vitamin C-rich foods may help with a bunch of things, in addition to perhaps influencing lead toxicity through an effect on absorption of lead, elimination of lead, transport within the body, tissue binding, or just helping ameliorate some of the damage. But, based on what?\nWell, in 1939, a remarkable study was published, entitled “Vitamin C Treatment in Lead Poisoning,” in which 17 lead industry workers were given 100mg of vitamin C a day, the amount found in one or two oranges, and “with practically all of them, there was a marked gain in vigor, color of skin, cheerfulness, [their blood], appetite, and ability to sleep….” Now, they were chosen because they seemed in pretty bad shape, maybe even had scurvy; so, no wonder a little vitamin C helped. But vitamin C is an antioxidant, and oxidation is “an important mechanism underlying lead toxicity”; so, it’s conceivable that it may have mediated some of the harm. But the vitamin C didn’t appear to just reduce the damage from the lead, but reduced the lead itself. This is the amount of lead a painter was peeing out over a month after starting 200mg of vitamin C a day—a five-fold drop, suggesting he was absorbing less of the lead into his body. And, he was one of three painters they tried it on, and evidently all their levels dropped. The researchers concluded that those exposed to lead should be advised to include in their diet plenty of vitamin C-rich foods, such as tomatoes, citrus, spinach, turnips, bell peppers, cantaloupe, etc.\nNow, this was just three painters, and they didn’t have a control group of painters that didn’t take vitamin C. So, maybe everyone’s lead levels would have dropped regardless, for some reason, or it was just a coincidence. You don’t know until you put it to the test.\nThese original data were so compelling that other researchers decided to replicate the study. I mean, if it actually worked, they could start handing out grapefruits at the factory door. The earlier study didn’t have a good control group, but they weren’t going to make that same mistake this time. Half the group got 100mg of vitamin C a day, not just for a month but for a year. The other group got nothing, and “[c]areful study of [the] group…failed to reveal any effect [of vitamin C] on the lead concentration in [their] blood…or urine.” “No difference…in [their] physical condition,” no changes in their blood work; and so, “No reason…for recommending the use of [vitamin C] to minimize effects of lead absorption.” Bummer. Oh, it looked so promising.\nWhenever I study a topic, I try to read the research chronologically, so as to experience the discoveries as they happened throughout history, but I was so tempted at this point to just jump to a recent review to see what had happened in the intervening 74 years since this was published, but I didn’t want to spoiler alert myself. There were in vitro studies where they dripped antioxidants on lead-exposed cells, and it seemed to help. So, they jumped on the cantaloupe bandwagon too, but these were test tube studies.\nThe first population study was published in 1999, and they did find that those with high vitamin C levels in their blood tended to have lower lead levels. Youths with the highest vitamin C levels had a nearly 90% lower prevalence of having elevated blood lead levels, compared to those with the lowest C. Now, this was a cross-sectional study, just a snapshot in time; so, we don’t know if the vitamin C caused a drop in lead. Maybe the lead caused a drop in vitamin C. Lead is a pro-oxidant; so, maybe it just ate up the vitamin C. And hey, who has higher vitamin C levels? Those who can afford to have higher vitamin C levels—those who eat lots of fruits and vegetables. Maybe the lower vitamin C levels were just a proxy for being poor, and that was the real reason for their higher lead levels. Lots of good reasons to be eating more fruits and vegetables, and we should be eating more spinach regardless. But, it would be nice to know if it actually helps with lead poisoning or not. And, to know that, we need to put it to the test.\nUnfortunately, most of the published interventions are like this: what are the “[e]ffects of dietary vitamin C supplementation on lead-treated sea cucumbers”? Well, that’s not very helpful. And, there’s a surprising number of articles on the effects of C supplementation on mouse testicles, but that’s because lead may impair male fertility. Lead workers appear to have a reduced likelihood of fathering children. This may, in part, be due to “oxidative stress.” So, how about giving an antioxidant, like vitamin C, and putting it to the testes? No, not rat testes. No, not frog testes. No, not crab testes (I didn’t even know crabs had testicles). Here we go, the “[c]linical relevance of vitamin C among lead-exposed infertile men”—human men, which I’ll cover, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Darwish WS, Ikenaka Y, Nakayama SM, Mizukawa H, Ishizuka M. Constitutive Effects of Lead on Aryl Hydrocarbon Receptor Gene Battery and Protection by β-carotene and Ascorbic Acid in Human HepG2 Cells. J Food Sci. 2016 Jan;81(1):T275-81.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26630500"
+    },
+    {
+      "Title": "Evans, EE, Norwood WD, Kehoe, RA, Machle W. The Effects of Ascorbic Acid in Relation to Lead Absorption. JAMA. 1943;121(7):501-504.",
+      "Url": "http://jamanetwork.com/journals/jama/article-abstract/259981"
+    },
+    {
+      "Title": "Holmes HN, Amberg EJ, Campbell K. VITAMIN C TREATMENT IN LEAD POISONING. Science. 1939;89(2310):322-3.",
+      "Url": "http://science.sciencemag.org/content/89/2310/322"
+    },
+    {
+      "Title": "Houston DK, Johnson MA. Does vitamin C intake protect against lead toxicity? Nutr Rev. 2000 Mar;58(3 Pt 1):73-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10812921"
+    },
+    {
+      "Title": "Li N, Hou YH, Ma DD, Jing WX, Dahms HU, Wang L. Lead accumulation, oxidative damage and histopathological alteration in testes and accessory glands of freshwater crab, Sinopotamon henanense, induced by acute lead exposure. Ecotoxicol Environ Saf. 2015 Jul;117:20-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25828889"
+    },
+    {
+      "Title": "Lin S, Hwang SA, Marshall EG, Stone R, Chen J. Fertility rates among lead workers and professional bus drivers: a comparative study. Ann Epidemiol. 1996 May;6(3):201-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8827155"
+    },
+    {
+      "Title": "Lopes AC, Peixe TS, Mesas AE, Paoliello MM. Lead Exposure and Oxidative Stress: A Systematic Review. Rev Environ Contam Toxicol. 2016;236:193-238.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26423075"
+    },
+    {
+      "Title": "Matte TD. Reducing blood lead levels: benefits and strategies. JAMA. 1999 Jun 23-30;281(24):2340-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10386560"
+    },
+    {
+      "Title": "Sen Gupta R, Sen Gupta E, Dhakal BK, Thakur AR, Ahnn J. Vitamin C and vitamin E protect the rat testes from cadmium-induced reactive oxygen species. Mol Cells. 2004 Feb 29;17(1):132-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15055539"
+    },
+    {
+      "Title": "Shan G, Tang T, Zhang X. The protective effect of ascorbic acid and thiamine supplementation against damage caused by lead in the testes of mice. J Huazhong Univ Sci Technolog Med Sci. 2009 Feb;29(1):68-72.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19224166"
+    },
+    {
+      "Title": "Simon JA, Hudes ES. Relationship of ascorbic acid to blood lead levels. JAMA. 1999 Jun 23-30;281(24):2289-93.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10386552"
+    },
+    {
+      "Title": "Vani K, Kurakula M, Syed R, Alharbi K. Clinical relevance of vitamin C among lead-exposed infertile men. Genet Test Mol Biomarkers. 2012 Sep;16(9):1001-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/%2022731648"
+    },
+    {
+      "Title": "Vigeh M, Smith DR, Hsu PC. How does lead induce male infertility? Iran J Reprod Med. 2011 Winter;9(1):1-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25356074"
+    },
+    {
+      "Title": "Wang J, Ren T, Han Y, Zhao Y, Liao M, Wang F, Jiang Z. Effects of dietary vitamin C supplementation on lead-treated sea cucumbers, Apostichopus japonicus. Ecotoxicol Environ Saf. 2015 Aug;118:21-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25890051"
+    },
+    {
+      "Title": "Wang MZ, Jia XY. Low levels of lead exposure induce oxidative damage and DNA damage in the testes of the frog Rana nigromaculata. Ecotoxicology. 2009 Jan;18(1):94-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18766441"
+    }
+  ],
+  "Acknowledgements": "Icons created by James Keuning from the Noun Project.\nImage credit: Jon Bunting via Flickr. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "bell peppers",
+      "Url": "https://nutritionfacts.org/topics/bell-peppers/"
+    },
+    {
+      "Title": "cantaloupe",
+      "Url": "https://nutritionfacts.org/topics/cantaloupe/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "citrus",
+      "Url": "https://nutritionfacts.org/topics/citrus/"
+    },
+    {
+      "Title": "fertility",
+      "Url": "https://nutritionfacts.org/topics/fertility/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grapefruit",
+      "Url": "https://nutritionfacts.org/topics/grapefruit/"
+    },
+    {
+      "Title": "heavy metals",
+      "Url": "https://nutritionfacts.org/topics/heavy-metals/"
+    },
+    {
+      "Title": "infertility",
+      "Url": "https://nutritionfacts.org/topics/infertility/"
+    },
+    {
+      "Title": "lead",
+      "Url": "https://nutritionfacts.org/topics/lead/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "spinach",
+      "Url": "https://nutritionfacts.org/topics/spinach/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "tomatoes",
+      "Url": "https://nutritionfacts.org/topics/tomatoes/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I’m always conflicted about doing these kinds of videos. I can imagine some just want “the answer,” but those with vested and commercial interests often exploit that natural impulse. This is a problem with science in general, but perhaps particularly in nutrition. When it comes to something as life-or-death important as what to feed ourselves and our families, we shouldn’t just follow someone’s opinions or beliefs on the matter. We should demand to see the science. That’s what I try to do: Present the available data as fairly and even-handedly as possible, and let you make up your own mind. You can imagine how easily someone could cherry-pick just one or two studies and present a distorted but compelling case for or against, in this case, vitamin C supplements. That’s why I feel it’s important to present each study in its historical context. Stay tuned for the thrilling conclusion in my video <a href=\"https://nutritionfacts.org/video/yellow-bell-peppers-for-male-infertility-and-lead-poisoning/\">Yellow Bell Peppers for Male Infertility and Lead Poisoning?</a>.</p>\n<p>For those of you who are thinking, <em>Why should I care about lead? I don’t eat paint chips or use leaded gasoline. Anyway, what’s the big deal?</em>, check out my full series of lead videos for information on how we got into this mess and some of the ways we can dig ourselves out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-the-lead-paint-industry-got-away-with-it/\">How the Lead Paint Industry Got Away with It</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lead-in-drinking-water/\">Lead in Drinking Water</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-the-leaded-gas-industry-got-away-with-it/\">How the Leaded Gas Industry Got Away with It</a></li>\n<li><a href=\"https://nutritionfacts.org/video/normal-blood-lead-levels-can-be-toxic/\">“Normal” Blood Lead Levels Can Be Toxic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-low-level-lead-exposure-in-adults/\">The Effects of Low-Level Lead Exposure in Adults</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-lower-lead-levels-with-diet-thiamine-fiber-iron-fat-fasting/\">How to Lower Lead Levels with Diet: Thiamine, Fiber, Iron, Fat, Fasting?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-lower-lead-levels-with-diet-breakfast-whole-grains-milk-tofu/\">How to Lower Lead Levels with Diet: Breakfast, Whole Grains, Milk, Tofu?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/best-foods-for-lead-poisoning-chlorella-cilantro-tomatoes-moringa/\">Best Foods for Lead Poisoning: Chlorella, Cilantro, Tomatoes, Moringa?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/best-food-for-lead-poisoning-garlic/\">Best Food for Lead Poisoning: Garlic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-lipstick-safe-given-the-lead-contamination/\">Is Lipstick Safe Given the Lead Contamination?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-saunas-detoxify-lead-from-the-body/\">Can Saunas Detoxify Lead from the Body?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-lead-is-in-organic-chicken-soup-bone-broth/\">How Much Lead Is in Organic Chicken Soup (Bone Broth)?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lead-in-calcium-supplements/\">Lead in Calcium Supplements</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-pregnant-women-take-calcium-supplements-to-lower-lead-levels/\">Should Pregnant Women Take Calcium Supplements to Lower Lead Levels?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-rise-in-blood-lead-levels-at-pregnancy-and-menopause/\">The Rise in Blood Lead Levels at Pregnancy and Menopause</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lead-contamination-in-fish-and-game/\">Lead Contamination in Fish and Game</a></li>\n<li><a href=\"https://nutritionfacts.org/video/lead-contamination-in-hot-sauces/\">Lead Contamination in Hot Sauces</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

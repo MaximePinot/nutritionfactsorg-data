@@ -1,0 +1,119 @@
+{
+  "Title": "What Causes Insulin Resistance?",
+  "Url": "https://nutritionfacts.org/video/what-causes-insulin-resistance/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Aw8hufhIDu0"
+  },
+  "UpdatedAt": "2017-01-06T13:00:35+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 33",
+    "Url": "https://nutritionfacts.org/volumes/volume-33/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Prediabetes and type 2 diabetes are caused by a drop in insulin sensitivity blamed on “intramyocellular lipid,” the buildup of fat inside our muscle cells.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nStudies dating back nearly a century noted a striking finding. If you take young, healthy people and split them up into two groups, half on a fat-rich diet, and the other half on a carb-rich diet, within just two days, this is what happens. The glucose intolerance skyrockets in the fatty diet group. In response to the same sugar water challenge, the group that had been shoveling in fat ended up with twice the blood sugar. As the amount of fat in the diet goes up, one’s blood sugar spikes. It would take scientists nearly seven decades to unravel this mystery, but it would end up holding the key to our current understanding of the cause of type 2 diabetes.\nWhen athletes carb-load before a race, they’re trying to build up the fuel supply within their muscles. They break down the starch into glucose in their digestive tract. It circulates as blood glucose—blood sugar—and is taken up by our muscles, to be stored and burned for energy.\nBlood sugar, though, is like a vampire. It needs an invitation to come into our cells. And, that invitation is insulin. Here’s a muscle cell. Here’s some blood sugar outside, waiting patiently to come in. Insulin is the key that unlocks the door to let sugar in our blood enter the muscle cell. When insulin attaches to the insulin receptor, it activates an enzyme, which activates another enzyme, which activates two more enzymes, which finally activate glucose transport, which acts as a gateway for glucose to enter the cell. So, insulin is the key that unlocks the door into our muscle cells.\nWhat if there was no insulin, though? Well, blood sugar would be stuck out in the bloodstream, banging on the door to our muscles, and not able to get inside. And so, with nowhere to go, sugar levels would rise and rise.\nThat’s what happens in type 1 diabetes; the cells in the pancreas that make insulin get destroyed, and without insulin, sugar in the blood can’t get out of the blood into the muscles, and blood sugar rises.\nBut, there’s a second way we could end up with high blood sugar. What if there’s enough insulin, but the insulin doesn’t work? The key is there, but something’s gummed up the lock. This is called insulin resistance. Our muscle cells become resistant to the effect of insulin. What’s gumming up the door locks on our muscle cells, preventing insulin from letting sugar in? Fat. What’s called intramyocellular lipid, or fat inside our muscle cells.\nFat in the bloodstream can build up inside the muscle cells, create toxic fatty breakdown products and free radicals that can block the signaling pathway process. So, no matter how much insulin we have out in our blood, it’s not able to open the glucose gates, and blood sugar levels build up in the blood.\nThis mechanism, by which fat (specifically saturated fat) induces insulin resistance, wasn’t known until fancy MRI techniques were developed to see what was happening inside people’s muscles as fat was infused into their bloodstream. And, that’s how scientists found that elevation of fat levels in the blood “causes insulin resistance by inhibition of glucose transport” into the muscles.\nAnd, this can happen within just three hours. One hit of fat can start causing insulin resistance, inhibiting glucose uptake after just 160 minutes.\nSame thing happens to adolescents. You infuse fat into their bloodstream. It builds up in their muscles, and decreases their insulin sensitivity—showing that increased fat in the blood can be an important contributor to insulin resistance.\nThen, you can do the opposite experiment. Lower the level of fat in people’s blood, and the insulin resistance comes right down. Clear the fat out of the blood, and you can clear the sugar out of the blood. So, that explains this finding. On the high-fat diet, the ketogenic diet, insulin doesn’t work as well. Our bodies are insulin-resistant.\nBut, as the amount of fat in our diet gets lower and lower, insulin works better and better. This is a clear demonstration that the sugar tolerance of even healthy individuals can be “impaired by administering a low-carb, high-fat diet.” But, we can decrease insulin resistance—the cause of prediabetes, the cause of type 2 diabetes—by decreasing saturated fat intake.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A T Santomauro, G Boden, M E Silva, D M Rocha, FR F Santos, M J Ursich, P G Strassmann, B L Wajchenberg. Overnight lowering of free fatty acids with Acipimox improves insulin resistance and glucose tolerance in obese diabetic and nondiabetic subjects. Diabetes. 1999 Sep;48(9):1836-41.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/0010480616"
+    },
+    {
+      "Title": "E W Kraegen, G J Cooney. Free fatty acids and skeletal muscle insulin resistance. Curr Opin Lipidol. 2008 Jun;19(3):235-41.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18460913"
+    },
+    {
+      "Title": "H P Himsworth, E M Marshall. The diet of diabetics prior to the onset of the disease. Clinical Science 2, 95-115, 1935. NA.",
+      "Url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiGw4ug-a_YAhVIr1QKHadyAfgQFggoMAA&url=https%3A%2F%2Fwww.cabdirect.org%2Fcabdirect%2Fabstract%2F19351404498&usg=AOvVaw3vrWkc8yF4aTxRloQEzBMd"
+    },
+    {
+      "Title": "H P Himsworth. The dietetic factor determining the glucose tolerance and senility to insulin of healthy men. Clinical Science 2, 67-94.",
+      "Url": "https://www.semanticscholar.org/paper/The-dietetic-factor-determining-the-glucose-and-to-Himsworth/7cde57446201579976dae593b2ff24ea65e414e9"
+    },
+    {
+      "Title": "HP Himsworth. The dietetic factor determining the glucose tolerance and sensitivity to insulin of healthy men. J Physiol. 1934 Mar 29; 81(1): 29–48.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1394223/"
+    },
+    {
+      "Title": "J Shirley Sweeney. DIETARY FACTORS THAT INFLUENCE THE DEXTROSE TOLERANCE TEST A PRELIMINARY STUDY. JAMA Int Med, Dec, 1927, Vol 40, No. 6.",
+      "Url": "http://archinte.jamanetwork.com/article.aspx?articleid=535594"
+    },
+    {
+      "Title": "M Krssak, K Falk Petersen, A Dresner, L Dipetro, S M Vogel, D L Rothman, M Roden, G I Shulman. Intramyocellular lipid concentrations are correlated with insulin sensitivity in humans: a 1H NMR spectroscopy study. Diabetologia. 1999 Jan;42(1):113-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10027589"
+    },
+    {
+      "Title": "M Roden, K Krssak, H Stingl, S Gruber, A Hofer, C Furnsinn, E Moser, W Waldhausl. Rapid impairment of skeletal muscle glucose transport/phosphorylation by free fatty acids in humans.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10334314"
+    },
+    {
+      "Title": "M Roden, T B Price, G Perseghin, K F Petersen, D L Rothman, G W Cline, G I Shulman. Mechanism of free fatty acid-induced insulin resistance in humans. J Clin Invest. Jun 15, 1996; 97(12): 2859–2865.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC507380/"
+    },
+    {
+      "Title": "S Lee, C Boesch, J L Kuk, S Arsianian. Effects of an overnight intravenous lipid infusion on intramyocellular lipid content and insulin sensitivity in African-American versus Caucasian adolescents. Metabolism. 2013 Mar;62(3):417-23.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23122836"
+    }
+  ],
+  "Acknowledgements": "Animation provided courtesy of Scientific Animations.\nImage credits: Mohamed Ibrahim via clker, and Eugene Bochkarev and bowie15 via 123RF. Images have been modified.",
+  "Topics": [
+    {
+      "Title": "athletes",
+      "Url": "https://nutritionfacts.org/topics/athletes/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "insulin",
+      "Url": "https://nutritionfacts.org/topics/insulin/"
+    },
+    {
+      "Title": "keto diet",
+      "Url": "https://nutritionfacts.org/topics/keto-diet/"
+    },
+    {
+      "Title": "lipotoxicity",
+      "Url": "https://nutritionfacts.org/topics/lipotoxicity/"
+    },
+    {
+      "Title": "low-carb diets",
+      "Url": "https://nutritionfacts.org/topics/low-carb-diets/"
+    },
+    {
+      "Title": "muscle health",
+      "Url": "https://nutritionfacts.org/topics/muscle-health/"
+    },
+    {
+      "Title": "pancreas health",
+      "Url": "https://nutritionfacts.org/topics/pancreas-health/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If this video sounds familiar, it’s because it’s a redux of a video that I put out last year. But, it lacked this fancy new animation, courtesy of Scientific Animations: <a href=\"http://www.scientificanimations.com/\">www.scientificanimations.com</a>. They contacted me, and graciously offered to donate an animation to us—I love it! If there is anyone else out there who would like to kindly offer their services to help us better help others, we’d love to see it.</p>\n<p>This was the first of a three-part video series on the cause of type 2 diabetes, so as to better understand dietary interventions to prevent and treat the epidemic. The follow-up videos are <a href=\"https://nutritionfacts.org/video/the-spillover-effect-links-obesity-to-diabetes/\">The Spillover Effect Links Obesity to Diabetes</a>, in which I talk about how that fat can come either from our diet or excess fat stores; and <a href=\"https://nutritionfacts.org/video/lipotoxicity-how-saturated-fat-raises-blood-sugar/\">Lipotoxicity: How Saturated Fat Raises Blood Sugar</a>, where I show how not all fats are equally to blame.</p>\n<p>I mentioned low-carb diets in the video. For more on their potential health effects, see videos like <a href=\"https://nutritionfacts.org/video/low-carb-diets-and-coronary-blood-flow/\">Low-Carb Diets and Coronary Blood Flow</a>.    </p>\n<p>Here are some of my most popular diabetes videos, for those who want to do a deep dive:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-diets-and-diabetes/\">Plant-Based Diets &amp; Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-diabetic-retinopathy-be-reversed/\">Can Diabetic Retinopathy Be Reversed?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/diabetes-as-a-disease-of-fat-toxicity/\">Diabetes as a Disease of Fat Toxicity</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-causes-diabetes/\">What Causes Diabetes?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-is-meat-a-risk-factor-for-diabetes/\">Why is Meat a Risk Factor for Diabetes?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-may-plants-protect-against-diabetes/\">How May Plants Protect Against Diabetes?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-diets-for-diabetes/\">Plant-Based Diets for Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/turmeric-curcumin-for-prediabetes/\">Turmeric Curcumin for Prediabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/eggs-and-diabetes/\">Eggs &amp; Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fish-and-diabetes/\">Fish &amp; Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/diabetics-should-take-their-pulses/\">Diabetics Should Take their Pulses</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-prevent-prediabetes-from-turning-into-diabetes/\">How to Prevent Prediabetes from Turning into Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/curing-painful-diabetic-neuropathy/\">Curing Painful Diabetic Neuropathy</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-vinegar-help-with-blood-sugar-control/\">Can Vinegar Help with Blood Sugar Control?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/when-drugs-diets-dont-lower-diabetes-deaths/\">When Drugs &amp; Diets Don’t Lower Diabetes Deaths</a></li>\n<li><a href=\"https://nutritionfacts.org/video/reversing-diabetes-with-food/\">Reversing Diabetes with Food</a></li>\n<li><a href=\"https://nutritionfacts.org/video/diabetes-reversal-is-it-the-calories-or-the-food/\">Diabetes Reversal: Is it the Calories or the Food?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-not-to-die-from-diabetes/\">How Not to Die from Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/benefits-of-a-macrobiotic-diet-for-diabetes/\">Benefits of a Macrobiotic Diet for Diabetes</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

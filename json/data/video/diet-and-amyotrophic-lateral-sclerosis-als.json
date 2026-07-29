@@ -1,0 +1,143 @@
+{
+  "Title": "Diet & Amyotrophic Lateral Sclerosis (ALS)",
+  "Url": "https://nutritionfacts.org/video/diet-and-amyotrophic-lateral-sclerosis-als/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/wcGr1WUCIf4"
+  },
+  "UpdatedAt": "2015-03-30T11:00:42+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 23",
+    "Url": "https://nutritionfacts.org/volumes/volume-23/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A neurotoxin called BMAA that concentrates in seafood may help explain clusters of Lou Gehrig’s disease.",
+  "Transcript": "These data on BMAA neurotoxin concentrations in animals in South Florida waters indicate that the situation in Guam is not unique. Looks like BMAA could be found in high concentrations in aquatic animals in many areas of the world.\nThis could explain ALS clustering around lakes in New Hampshire: up to 25 times the expected rate of ALS with some families eating fish several times a week. Or in New Hampshire, where the most significant ALS risk factor was the past consumption of fish out of Lake Michigan. Or clustering in Finland’s Lakeland district, or maybe seafood eaters in France, or around the Baltic Sea, building up particularly in fish, mussels and oysters.\nWhen I think of algae blooms, I think of the Chesapeake Bay near where I live, which gets choked off thanks in part to the poultry industry pollution. And indeed there was a recent report linking BMAA exposure to ALS in Maryland. The ALS victims living within a half mile of each other raised some eyebrows at the Hopkins ALS center, all of whom ate Chesapeake Bay blue crabs every week. And so they tested a few, and two out of three crabs tested positive for BMAA, indicating that the neurotoxin is present in the aquatic food chain of the Chesapeake Bay, and a potential route for human exposure.\nTo bring the story full circle, things in Guam are looking up. The ALS epidemic there may have been triggered by their acquisition of guns. But now, the epidemic appears to be over, thanks to near extinction of the fruit bats due to over-hunting. But while the rates decline in Guam, neurodegenerative diseases like ALS around the rest of the world are on the rise.\nIt’s plausible that humans have been exposed to some level of BMAA throughout their evolutionary history. But the increase in algae blooms as a result of human activities is probably increasing this exposure.\nThere is a general consensus that harmful algal blooms are increasing worldwide thanks in part to industrialized agriculture. More people means more sewage, fertilizer, and manure, which may mean more algae, which may mean more exposure to this neurotoxin, leading to a possible increased incidence of neurodegenerative diseases such as Alzheimer’s, Parkinson’s, and ALS. BMAA is a strong contender as the cause of, or at least a major contributor to the cause, of both endemic and sporadic ALS and Alzheimer’s disease, and possibly conferring risk for Parkinson’s disease as well. The ramifications of this discovery are enormous.\nWith substantial and ever growing evidence that BMAA does play a role in the onset and progression of neurodegenerative diseases, the most important question is, what mode of activity does BMAA exert? What? No it’s not. The most important question is how do we reduce our risk.\nWe know that the presence of BMAA in aquatic food chains could be a significant human health hazard. There may even be a synergistic toxicity between mercury and BMAA, making certain fish even riskier. Until more is known about the possible link of BMAA to Alzheimer’s and ALS, it may be prudent to limit exposure of BMAA in the human diet.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A S Chiu, M M Gehringer, J H Welch, B A Neilan. Does α-amino-β-methylaminopropionic acid (BMAA) play a role in neurodegeneration? Int J Environ Res Public Health. 2011 Sep;8(9):3728-46.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22016712"
+    },
+    {
+      "Title": "C E Sabel, P J Boyle, M Löytönen, A C Gatrell, M Jokelainen, R Flowerdew, P Maasilta. Spatial clustering of amyotrophic lateral sclerosis in Finland at place of birth and place of death. Am J Epidemiol. 2003 May 15;157(10):898-905.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/12746242"
+    },
+    {
+      "Title": "D G Sienko, J P Davis, J A Taylor, B R Brooks. Amyotrophic lateral sclerosis. A case-control study following detection of a cluster in a small Wisconsin community. Arch Neurol. 1990 Jan;47(1):38-41.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/2294892"
+    },
+    {
+      "Title": "E Masseret, S Banack, F Boumédiène, E Abadie, L Brient, F Pernet, R Juntas-Morales, N Pageot, J Metcalf, P Cox, W Camu; Dietary BMAA exposure in an amyotrophic lateral sclerosis cluster from southern France.  French Network on ALS Clusters Detection and Investigation. PLoS One. 2013 Dec 13;8(12):e83406. doi: 10.1371/journal.pone.0083406. eCollection 2013.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24349504"
+    },
+    {
+      "Title": "K Mondo, N Hammerschlag, M Basile, J Pablo, S A Banack, D C Mash. Cyanobacterial neurotoxin β-N-methylamino-L-alanine (BMAA) in shark fins. Mar Drugs. 2012 Feb;10(2):509-20.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22412816"
+    },
+    {
+      "Title": "L E Brand, J Pablo, A Compton, N Hammerschlag, D C Mash.Cyanobacterial Blooms and the Occurrence of the neurotoxin beta-N-methylamino-L-alanine (BMAA) in South Florida Aquatic Food Webs. Harmful Algae. 2010 Sep 1;9(6):620-635.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21057660"
+    },
+    {
+      "Title": "N C Field, J S Metcalf, T A Caller, S A Banack, P A Cox, E W Stommel. Linking β-methylamino-L-alanine exposure to sporadic amyotrophic lateral sclerosis in Annapolis, MD.Toxicon. 2013 Aug;70:179-83.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23660330"
+    },
+    {
+      "Title": "S A Banack, T A Caller, E W Stommel. The cyanobacteria derived toxin Beta-N-methylamino-L-alanine and amyotrophic lateral sclerosis. Toxins (Basel). 2010 Dec;2(12):2837-50.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22069578"
+    },
+    {
+      "Title": "S Jonasson, J Eriksson, L Berntzon, Z Spácil, L L Ilag, L O Ronnevi, U Rasmussen, B Bergman. Transfer of a cyanobacterial neurotoxin within a temperate aquatic ecosystem suggests pathways for human exposure. Proc Natl Acad Sci U S A. 2010 May 18;107(20):9252-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20439734"
+    },
+    {
+      "Title": "Session 6A Beyond Guam: New Aspects of the BMAA Hypothesis. Amyotrophic Lateral Sclerosis. 2011;12(Suppl. 1):20-2.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19929726"
+    },
+    {
+      "Title": "T A Caller, J W Doolin, J F Haney, A J Murby, K G West, H E Farrar, A Ball, B T Harris, E W Stommel. A cluster of amyotrophic lateral sclerosis in New Hampshire: a possible role for toxic cyanobacteria blooms. Amyotroph Lateral Scler. 2009;10 Suppl 2:101-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19929741"
+    },
+    {
+      "Title": "T Rush, X Liu, D Lobner. Synergistic toxicity of the environmental neurotoxins methylmercury and β-N-methylamino-L-alanine. Neuroreport. 2012 Mar 7;23(4):216-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22314682"
+    },
+    {
+      "Title": "The Pew Environment Group. Big Chicken: Pollution and Industrial Poultry Production in America. The Pew Charitable Trusts. 2011 Jul 27.",
+      "Url": "http://www.pewtrusts.org/~/media/legacy/uploadedfiles/peg/publications/report/PEGBigChickenJuly2011pdf.pdf"
+    },
+    {
+      "Title": "W G Bradley, D C Mash. Beyond Guam: the cyanobacteria/BMAA hypothesis of the cause of ALS and other neurodegenerative diseases. Amyotroph Lateral Scler. 2009;10 Suppl 2:7-20.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19929726"
+    }
+  ],
+  "Acknowledgements": "Images thanks to PublicDomainPictures via Pixabay.",
+  "Topics": [
+    {
+      "Title": "algae",
+      "Url": "https://nutritionfacts.org/topics/algae/"
+    },
+    {
+      "Title": "ALS",
+      "Url": "https://nutritionfacts.org/topics/als/"
+    },
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "BMAA",
+      "Url": "https://nutritionfacts.org/topics/bmaa/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "Finland",
+      "Url": "https://nutritionfacts.org/topics/finland/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "industrial pollutants",
+      "Url": "https://nutritionfacts.org/topics/industrial-pollutants/"
+    },
+    {
+      "Title": "Lou Gehrig's disease",
+      "Url": "https://nutritionfacts.org/topics/lou-gehrigs-disease/"
+    },
+    {
+      "Title": "mercury",
+      "Url": "https://nutritionfacts.org/topics/mercury/"
+    },
+    {
+      "Title": "neurotoxins",
+      "Url": "https://nutritionfacts.org/topics/neurotoxins/"
+    },
+    {
+      "Title": "oysters",
+      "Url": "https://nutritionfacts.org/topics/oysters/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Most NutritionFacts.org videos can stand on their own, but to understand this one you have to see the prequel, <a href=\"https://nutritionfacts.org/video/als-lou-gehrigs-disease-fishing-for-answers/\" target=\"_blank\">ALS (Lou Gehrig’s Disease): Fishing for Answers</a>.</p>\n<p>For other neurotoxins found in the food supply, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/amnesic-seafood-poisoning/\">Amnesic Seafood Poisoning</a></li>\n<li><a href=\"https://nutritionfacts.org/video/essential-tremor-and-diet/\">Essential Tremor and Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/ciguatera-poisoning-chronic-fatigue-syndrome/\">Ciguatera Poisoning &amp; Chronic Fatigue Syndrome</a>                </li>\n</ul>\n<p>Other toxic substances can also build up in the aquatic food chain, for example:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/food-sources-of-flame-retardant-chemicals/\">Food Sources of Flame Retardant Chemicals</a></li>\n<li><a href=\"https://nutritionfacts.org/video/food-sources-of-perfluorochemicals/\">Food Sources of Perfluorochemicals</a></li>\n<li><a href=\"https://nutritionfacts.org/video/pollutants-in-salmon-and-our-own-fat/\">Pollutants in Salmon and Our Own Fat</a></li>\n<li><a href=\"https://nutritionfacts.org/video/dioxins-in-u-s-farm-raised-catfish/\">Dioxins in U.S. Farm-Raised Catfish</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

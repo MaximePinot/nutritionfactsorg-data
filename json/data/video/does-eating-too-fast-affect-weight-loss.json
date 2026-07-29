@@ -1,0 +1,95 @@
+{
+  "Title": "Does Eating Too Fast Affect Weight Loss?",
+  "Url": "https://nutritionfacts.org/video/does-eating-too-fast-affect-weight-loss/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/ITnDG3A38FY"
+  },
+  "UpdatedAt": "2026-07-06T11:50:59+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 73",
+    "Url": "https://nutritionfacts.org/volumes/volume-73/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Extending meal duration by even four minutes may facilitate weight loss.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nEating slowly is often advised for weight management, but does it really matter how fast we eat? If you give people a meal, but half are given small spoons and told to eat slowly and the other half are given big spoons and told to eat quickly, an amazing thing happens. The slow group not only ended up feeling more satiated at the end of their meal, but they did so after eating less of it. They felt more full eating less.\nProlonged meal duration can allow more time for our body’s own “I’m full” satiety signals to develop before an excess of calories have been consumed. The slower we eat, the more time our body has to catch up. As Harvard’s “Healthy Weight Checklist” puts it: “Slowing down at meals…can help avoid overeating by giving the brain time to tell the stomach when it’s had enough food.” We evolved for millions of years trying to extract calories from undomesticated fruits and vegetables, which were much tougher and more fibrous. Our body is built to expect us to take our time when eating.\nWhen we eat, “anorexigenic”–meaning “to suppress appetite”– hormones, such as GLP-1 and PYY, are released from cells lining our intestines into our bloodstream. These hormones then have to travel to our brain to flick the satiety switch to get us to slow down. This process takes time. Preload studies, where you feed people a small first course 1, 5, 15, 30, or 60 minutes before the main meal, show that this fullness feedback loop can take between 15 and 30 minutes to fully tamp down their appetites. This helps explain the eating-fast-or-slow study results. The fast group was done eating in under nine minutes. The slow group, on the other hand, stopped after 29 minutes. Even though they ended up eating less overall, their brain had time to kick in, thereby giving them a stronger sense of satiety.\nIn a meta-analysis of eating rate and obesity, every one of the population studies found that those who eat faster are at higher risk of obesity (approximately doubling their odds). In a behavioral treatment program for obesity, those who were able to extend their average meal length just four minutes lost more weight over a seven-month period. There’s lots of ways you can extend meal duration, like taking smaller bites, chewing longer, or choosing foods that just take longer to eat.\nThe “cephalic phase” of digestion starts before food even hits our stomach. Cephalic means in the head. There are nerves traveling straight from your brain to your mouth. That’s how even the thought of food can get us salivating. And the nerves are a two-way street. Signals coming from your mouth can tip off your brain to what’s coming down the pike.\nTo test the effect of this back-and-forth on appetite, you can insert a tube down someone’s throat to compare regular eating to sneaking the same amount of food directly into their stomach. Removing the experience of the taste, smell, and texture of the food left people feeling significantly less full even though they ended up with the exact same amount of food in their stomach. This wasn’t just a psychological effect. Objective measures, such as slowed stomach emptying times, prove that sensations from the mouth translate into physical fullness.\nAnother way to study the cephalic phase response is to use “sham feeding,” less delicately known as the “chew-and-spit” technique. You can double the insulin levels in people’s blood within 15 minutes just having people chew on some pizza, even if they don’t swallow any of it. Based on the signals coming from the mouth, your brain can anticipate how much insulin is going to be needed to handle the coming load and tries to get a head start.\nYou can see how the cephalic phase response could work in concert with the digestive hormone feedback loop. It would take the average person about 20 minutes to eat 10 cups (1 kg) of apple slices, whereas drinking the same number of calories of apple juice would take about two minutes. Not only would the 20 minutes allow time for your “stop-eating” hormones to make it up your brain, the apples offer 18 more minutes of oral exposure, and more than 10 times the signals directly from the mouth to the brain that you’re chowing down.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Andrade AM, Greene GW, Melanson KJ. Eating slowly led to decreases in energy intake within meals in healthy women. J Am Diet Assoc. 2008;108(7):1186-1191.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18589027/"
+    },
+    {
+      "Title": "Cecil JE, Francis J, Read NW. Relative contributions of intestinal, gastric, oro-sensory influences and information to changes in appetite induced by the same liquid meal. Appetite. 1998;31(3):377-390.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9920689/"
+    },
+    {
+      "Title": "Kokkinos A, le Roux CW, Alexiadou K, et al. Eating slowly increases the postprandial response of the anorexigenic gut hormones, peptide YY and glucagon-like peptide-1. J Clin Endocrinol Metab. 2010;95(1):333-337.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19875483/"
+    },
+    {
+      "Title": "Ohkuma T, Hirakawa Y, Nakamura U, Kiyohara Y, Kitazono T, Ninomiya T. Association between eating rate and obesity: a systematic review and meta-analysis. Int J Obes (Lond). 2015;39(11):1589-1596.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26100137/"
+    },
+    {
+      "Title": "Preventing Obesity. The Nutrition Source. Harvard T.H. Chan.",
+      "Url": "https://nutritionsource.hsph.harvard.edu/obesity/preventing-obesity/"
+    },
+    {
+      "Title": "Robertson MD, Jackson KG, Williams CM, Fielding BA, Frayn KN. Prolonged effects of modified sham feeding on energy substrate mobilization. Am J Clin Nutr. 2001;73(1):111-117.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11124759/"
+    },
+    {
+      "Title": "Smeets PA, Erkner A, de Graaf C. Cephalic phase responses and appetite. Nutr Rev. 2010;68(11):643-655.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20961295/"
+    },
+    {
+      "Title": "Spetter MS, Mars M, Viergever MA, de Graaf C, Smeets PA. Taste matters - effects of bypassing oral stimulation on hormone and appetite responses. Physiol Behav. 2014;137:9-17.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25008799/"
+    },
+    {
+      "Title": "Spiegel TA, Wadden TA, Foster GD. Objective measurement of eating rate during behavioral treatment of obesity. Behav Ther. 1991;22(1):61-67.",
+      "Url": "https://www.sciencedirect.com/science/article/pii/S0005789405802448"
+    },
+    {
+      "Title": "Viskaal-van Dongen M, Kok FJ, de Graaf C. Eating rate of commonly consumed foods promotes food and energy intake. Appetite. 2011;56(1):25-31.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21094194/"
+    },
+    {
+      "Title": "Walike BC, Jordan HA, Stellar E. Preloading and the regulation of food intake in man. J Comp Physiol Psychol. 1969;68(3):327-333.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/5808805/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "fruit juice",
+      "Url": "https://nutritionfacts.org/topics/fruit-juice/"
+    },
+    {
+      "Title": "GLP-1",
+      "Url": "https://nutritionfacts.org/topics/glp-1/"
+    },
+    {
+      "Title": "pizza",
+      "Url": "https://nutritionfacts.org/topics/pizza/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><a href=\"https://nutritionfacts.org/video/how-to-maximize-the-cephalic-phase-of-digestion-to-lose-weight/\"><span style=\"font-weight: 400\">How to Maximize the Cephalic Phase of Digestion to Lose Weight</span></a><span style=\"font-weight: 400\">? Check out the next video. </span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

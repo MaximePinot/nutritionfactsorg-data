@@ -1,0 +1,135 @@
+{
+  "Title": "Donating Blood to Prevent Heart Disease?",
+  "Url": "https://nutritionfacts.org/video/donating-blood-to-prevent-heart-disease/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/FQjcukHk3KM"
+  },
+  "UpdatedAt": "2017-01-25T13:00:33+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 34",
+    "Url": "https://nutritionfacts.org/volumes/volume-34/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "An extraordinary thing happened when those at high risk for heart disease were randomized to give blood—and it had nothing to do with their heart.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nBack in the early 80s, a pathologist in Florida suggested that the reason premenopausal women are protected from heart disease is that they have lower stores of iron in their body. The thought was since oxidized “cholesterol is important in atherosclerosis, and oxidation is catalyzed by iron,” maybe the “lower iron stores of [menstruating] women reduce their risk” of coronary heart disease. This novel suggestion, that “the longevity enjoyed by women over men might relate to the monthly [blood] loss [was] remarkable.” But, is it true?\nWell, the consumption of heme iron—the iron found in blood and muscle—is “associated with…increased risk” of heart disease. Each milligram a day was “associated with a 27% increase in risk.” But, heme iron is found mainly in meat. So, it’s possible some of the other “constituents…in meat such as saturated fat and cholesterol are responsible” for the apparent link between heme iron and heart disease. If only we could find a way to get men to menstruate. Then, we could finally put the theory to the test.\nWell, what about blood donations? Why just lose a little every month, when you can donate a whole unit at a time? This study, in Nebraska, suggested that blood donors seemed to have reduced risk. Another study, in Boston, failed to show any connection.\nTo resolve this question once and for all, one would really have to put it to the test. Take people at high risk for heart disease, randomly bleed half of them, and then follow them all over time, and see who gets more heart attacks. Maybe, it could turn the old “bloodletting” of the past into “bleeding edge technology.” And, that was actually what was suggested in the original paper, as a way to test this idea. It took twenty years, but researchers finally did it. Why did it take so long? Well, there isn’t much money in bloodletting these days. The leech lobby just isn’t as powerful as it used to be.\nWhat did they find? It didn’t work. The blood donors ended up having the same number of heart attacks as the non-donor group. But, something extraordinary happened. The cancer rates dropped. A 37% reduction in overall cancer incidence, and those who developed cancer had a significantly reduced risk of death. An editorial in the Journal of the National Cancer Institute responded with near disbelief;  the “results almost seem to be too good to be true.” Strikingly, they started to see cancer reduction benefits within six months, after just giving blood once. Here’s cancer mortality as the study progressed. As you can see, the cancer death rates started to diverge within just six months. This is consistent with the spike in cancer rates we see within just six months of getting blood, getting a blood transfusion. Maybe, that influx of iron accelerated the growth of hidden tumors.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Ascherio A, Rimm EB, Giovannucci E, Willett WC, Stampfer MJ. Blood donations and risk of coronary heart disease in men. Circulation. 2001;103(1):52-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11136685"
+    },
+    {
+      "Title": "DePalma RG, Hayes VW, Zacharski LR. Bloodletting: past and present. J Am Coll Surg. 2007 Jul;205(1):132-44.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17617342"
+    },
+    {
+      "Title": "Edgren G, Nyrén O, Melbye M. Cancer as a ferrotoxic disease: are we getting hard stainless evidence? J Natl Cancer Inst. 2008 Jul 16;100(14):976-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18612127"
+    },
+    {
+      "Title": "Hjalgrim H1, Edgren G, Rostgaard K, Reilly M, Tran TN, Titlestad KE, Shanwell A, Jersild C, Adami J, Wikman A, Gridley G, Wideroff L, Nyrén O, Melbye M. Cancer incidence in blood transfusion recipients. J Natl Cancer Inst. 2007 Dec 19;99(24):1864-74.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18073377"
+    },
+    {
+      "Title": "Meyers DG, Strickland D, Maloley PA, Seburg JK, Wilson JE, McManus BF. Possible association of a reduction in cardiovascular events with blood donation. Heart. 1997 Aug;78(2):188-93.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9326996"
+    },
+    {
+      "Title": "Meyers DG. The iron hypothesis--does iron cause atherosclerosis? Clin Cardiol. 1996 Dec;19(12):925-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8957595"
+    },
+    {
+      "Title": "Sullivan JL. Iron and the sex difference in heart disease risk. Lancet. 1981 Jun 13;1(8233):1293-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/6112609"
+    },
+    {
+      "Title": "Van tellingen C. Bleeding-edge technology in cardiology - or the mixed blessings of phlebotomy throughout the ages. Neth Heart J. 2010;18(4):218-22.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20428422"
+    },
+    {
+      "Title": "Yang W, Li B, Dong X, Zhang XQ, Zeng Y, Zhou JL, Tang YH, Xu JJ. Is heme iron intake associated with risk of coronary heart disease? A meta-analysis of prospective studies. Eur J Nutr. 2014;53(2):395-400.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23708150"
+    },
+    {
+      "Title": "Yuan XM, Brunk UT. Iron and LDL-oxidation in atherogenesis. APMIS. 1998 Sep;106(9):825-42.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9808409"
+    },
+    {
+      "Title": "Zacharski LR, Chow BK, Howes PS, Shamayeva G, Baron JA, Dalman RL, Malenka DJ, Ozaki CK, Lavori PW. Decreased cancer risk after iron reduction in patients with peripheral arterial disease: results from a randomized trial. J Natl Cancer Inst. 2008 Jul 16;100(14):996-1002.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18612130"
+    },
+    {
+      "Title": "Zacharski LR, Chow BK, Howes PS, Shamayeva G, Baron JA, Dalman RL, Malenka DJ, Ozaki CK, Lavori PW. Reduction of iron stores and cardiovascular outcomes in patients with peripheral arterial disease: a randomized controlled trial. JAMA. 2007 Feb 14;297(6):603-10.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17299195"
+    }
+  ],
+  "Acknowledgements": "Image credit: Ahmad Ardity via Pixabay. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "blood donation",
+      "Url": "https://nutritionfacts.org/topics/blood-donation/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heme iron",
+      "Url": "https://nutritionfacts.org/topics/heme-iron/"
+    },
+    {
+      "Title": "iron",
+      "Url": "https://nutritionfacts.org/topics/iron/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "menopause",
+      "Url": "https://nutritionfacts.org/topics/menopause/"
+    },
+    {
+      "Title": "menstruation",
+      "Url": "https://nutritionfacts.org/topics/menstruation/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "National Cancer Institute",
+      "Url": "https://nutritionfacts.org/topics/national-cancer-institute/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I continue this wild story in my next video <a href=\"https://nutritionfacts.org/video/donating-blood-to-prevent-cancer/\">Donating Blood to Prevent Cancer?</a>.</p>\n<p>What if you feel faint when you give blood? Don’t worry. I’ve got you covered. Check out <a href=\"https://nutritionfacts.org/video/how-to-prevent-fainting/\">How to Prevent Fainting</a>.</p>\n<p>What might iron have to do with disease? See <a href=\"https://nutritionfacts.org/video/the-safety-of-heme-vs-non-heme-iron/\">The Safety of Heme vs Non-Heme Iron</a> and<a href=\"https://nutritionfacts.org/video/risk-associated-with-iron-supplements/\"> Risk Associated with Iron Supplements.</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

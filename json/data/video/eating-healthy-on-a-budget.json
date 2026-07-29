@@ -1,0 +1,139 @@
+{
+  "Title": "Eating Healthy on a Budget",
+  "Url": "https://nutritionfacts.org/video/eating-healthy-on-a-budget/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/8-7wGkX5wcQ"
+  },
+  "UpdatedAt": "2013-05-03T11:53:45+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 13",
+    "Url": "https://nutritionfacts.org/volumes/volume-13/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "When measured on a cost-per-serving, cost-per-weight, or cost-per-nutrition basis, fruits and vegetables beat out meat and junk food.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMost Americans don’t even meet the watered-down “Federal dietary recommendations.” But, is it because healthy foods are more expensive? “Are Healthy Foods Really More Expensive? It Depends on How You Measure the Price.”\nFor over a century, the value of food has been measured in cost per calorie. If you were a bricklayer in Massachusetts in 1894, you may have needed more than 8,000 calories a day. So, the emphasis was on cheap calories. So, while beans and sugar both cost the same back then—about 5 cents a pound—sugar beat out beans for fuel value; more calories per unit cost.\nOf course, food offers much more than just calories. But, they can be excused for their ignorance, since vitamins and minerals hadn’t even been discovered yet. But, even to this day, when the cost of foods are related to their nutritional value, the value they’re talking about is cheap calories. And, you know, when you rank foods like that, then indeed, junk food and meat is cheaper per calorie than fruits and vegetables.\nBut, that doesn’t take serving size into account. If you measure foods in cost per serving, or cost per pound, then fruits and vegetables are actually cheaper. For all metrics except for the price of food calories, the USDA researchers found that “healthy foods cost less than less healthy foods.”\nHere’s a hundred calories of cheese, a hundred calories of candy, a hundred calories of chicken, chips, bread, oil, fruits, vegetables. Which hundred calories is going to fill you up more? Most importantly, though, which is going to have the most nutrition? Here’s the average nutrient density of fruits, vegetables, refined grains, meats, milk, and empty-calorie foods.\nSo, while junk food may be four times cheaper than vegetables, you get twenty times less nutrition. For meat, we’d be spending three times more, to get sixteen times less. More money for less nutrition.\nConclusion: “Educational messages focusing on a complete diet should consider the role of food costs and provide specific recommendations for increasing nutrient-dense foods by replacing [some of] the meat…with…lower-cost nutrient-dense foods. Beans and raw vegetables are less expensive,” nutrient-dense, and may be more satiating.\nSo, for example, incorporating “more beans/legumes and less meat may…be a cost-effective way to improve diet quality.” Not only for low-income populations, I might add, but for everybody.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A. Drewnowski. The cost of US foods as related to their nutritive value. Am. J. Clin. Nutr. 2010 92(5):1181 - 1188",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20720258"
+    },
+    {
+      "Title": "C. L. Connell, J. M. Zoellner, M. K. Yadrick, S. C. Chekuri, L. B. Crook, M. L. Bogle. Energy density, nutrient adequacy, and cost per serving can provide insight into food choices in the lower Mississippi Delta. J Nutr Educ Behav 2012 44(2):148 - 153",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21907624"
+    },
+    {
+      "Title": "Carlson, Andrea, and Elizabeth Frazão. Are Healthy Foods Really More Expensive? It depends on How You Measure the Price, EIB-96, U.S. Department of Agriculture, Economic Research Service, May 2012.",
+      "Url": "https://www.ers.usda.gov/webdocs/publications/44678/19980_eib96.pdf"
+    },
+    {
+      "Title": "W. O. Atwater. Foods: Nutritive Value and Cost. USDA 1894 NA(NA):1 - 30",
+      "Url": "http://www.ars.usda.gov/SP2UserFiles/Place/12355000/pdf/hist/oes_1894_farm_bul_23.pdf"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Daniel Oines via flickr; Fir0002, Onef9day, Evan-Amos, Hrushi3030, Pingpongwill via Wikimedia Commons; Renee Comet via National Cancer Institute; and Maxím Fetissenko.",
+  "Topics": [
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "bread",
+      "Url": "https://nutritionfacts.org/topics/bread/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "candy",
+      "Url": "https://nutritionfacts.org/topics/candy/"
+    },
+    {
+      "Title": "cheese",
+      "Url": "https://nutritionfacts.org/topics/cheese/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "cost savings",
+      "Url": "https://nutritionfacts.org/topics/cost-savings/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "legumes",
+      "Url": "https://nutritionfacts.org/topics/legumes/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "oils",
+      "Url": "https://nutritionfacts.org/topics/oils/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "potato chips",
+      "Url": "https://nutritionfacts.org/topics/potato-chips/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "USDA",
+      "Url": "https://nutritionfacts.org/topics/usda/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p class=\"p1\"><span class=\"s1\">I have some other videos along the same vein:</span></p>\n<ul class=\"ul1\">\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/eating-healthy-on-the-cheap/\"><span class=\"s3\">Eating Healthy on the Cheap</span></a></span></li>\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/biggest-nutrition-bang-for-your-buck/\"><span class=\"s3\">Biggest Nutrition Bang for Your Buck</span></a></span></li>\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/cheapest-source-of-vitamin-b12/\"><span class=\"s3\">Cheapest Source of Vitamin B12</span></a></span></li>\n<li class=\"li2\"><span class=\"s2\"><a href=\"https://nutritionfacts.org/video/the-effect-of-canned-tuna-on-future-wages/\"><span class=\"s3\">The Effect of Canned Tuna on Future Wages</span></a></span></li>\n</ul>\n<p class=\"p1\"><span class=\"s1\">Hasn’t the nutrition of our crops declined over the decades, though? Or, is that just supplement manufacturer propaganda? Find out in <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=903\"><span class=\"s4\">Crop Nutrient Decline</span></a>. And, if you want to strive to maximize the nutrient density of your diet, check out <a href=\"https://nutritionfacts.org/video/calculate-your-healthy-eating-score/\"><span class=\"s4\">Calculate Your Healthy Eating Score</span></a>.</span></p>\n<p class=\"p1\"><span class=\"s1\">For further context, check out my associated blog post: <span class=\"s4\"><a href=\"https://nutritionfacts.org/2013/11/26/best-nutrition-bang-for-your-buck/\">Best Nutrition Bang for Your Buck</a>.</span></span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

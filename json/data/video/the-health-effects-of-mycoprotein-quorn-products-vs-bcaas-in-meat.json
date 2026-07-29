@@ -1,0 +1,263 @@
+{
+  "Title": "The Health Effects of Mycoprotein (Quorn) Products vs. BCAAs in Meat",
+  "Url": "https://nutritionfacts.org/video/the-health-effects-of-mycoprotein-quorn-products-vs-bcaas-in-meat/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/YdH6hWFdVfU"
+  },
+  "UpdatedAt": "2021-02-10T12:50:36+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 52",
+    "Url": "https://nutritionfacts.org/volumes/volume-52/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Clinical trials on Quorn show that it can improve satiety and help people control cholesterol, blood sugar, and insulin levels.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nYou may have heard about meat made out of wheat protein, meat made out of soybean protein, and meats made out of pea protein, but mycoprotein is a relatively new addition. Meat made from the mushroom kingdom, popular in Europe, commercialized as Quorn, which makes not just meat-free beef, but chicken-free chicken, fish-less fish, and pig-free pork––just in case someone would like to eat plant-based, but can’t give up their cocktail weenies.\nEnvironmental impact-wise, Quorn beef has at least a 10 times smaller carbon footprint than that of beef; Quorn chicken at least four times better than chicken-chicken. And health-wise, it’s high in protein and ﬁber, and low in fat, cholesterol, sodium, and sugar, as one would expect. But, most importantly, there have been clinical trials showing it may help people control cholesterol, blood sugar, and insulin levels, and improve satiety. No surprise given that not only the fiber but the mycoprotein itself is fermentable by our good gut bugs, so can also act as a prebiotic for our friendly flora.\nThere have been rare authenticated reports of people with mycoprotein allergies, and even more with unvalidated complaints, but given how many billions of packages have been sold, the rate of allergic reactions may be on the order of like 1 in 9 million.\nHere’s the cholesterol data, converted into U.S. numbers. So, significant drops in total and LDL cholesterol—more than 30 points within eight weeks.\nIn terms of satiety, as I noted in my Evidence-Based Weight Loss presentation, both tofu and Quorn have been found to have satiating qualities that are stronger than chicken; for Quorn, among both lean subjects and overweight and obese individuals, cutting down on subsequent meal intake hours later.\nYou know, it’s funny, when the meat industry funds obesity studies on chicken, they choose for their head-to-head comparison foods like cookies and “sugar-coated chocolates.” This is a classic drug industry trick where you make your product look better by comparing it against something worse. (Apparently, just regular chocolate was not enough to make chicken look better.) But what happens when chicken is pitted against a real control, like chicken without the actual chicken? Chicken chickens out.\nFor example, feed people a chicken and rice lunch, and four and a half hours later, they eat 18 percent more of a dinner buffet than those who instead got a Quorn and rice lunch––cutting about 200 calories on average.\nPart of the reason plant-based meats may be less fattening is that they cause less of an insulin spike. A meat-free chicken like Quorn causes up to 41 percent less of an immediate insulin reaction. It turns out animal protein causes almost exactly as much insulin release as pure sugar.\nJust adding some egg whites to your diet can increase insulin output 60 percent within four days. And fish may be even worse.\nWhy would adding tuna to mashed potatoes spike up insulin levels, but adding broccoli instead drop the insulin response by about 40 percent? It’s not the fiber, since giving the same amount of broccoli fiber alone provided no significant benefit. So, why does animal protein make things worse, but plant protein makes things better?\nPlant proteins tend to be lower in the branched-chain amino acids, which are associated with insulin resistance—the cause of type 2 diabetes. You can show this experimentally. Give some vegans branched-chain amino acids, and you can make them as insulin-resistant as omnivores. Or, take omnivores and put them through even a 48-hour vegan diet challenge, and within two days you can see the opposite—significant improvements in metabolic signatures. Why? Because “decreased consumption of branched-chain amino acids improves metabolic health.”\nCheck this out. Those randomized to restrict their protein intake were averaging literally hundreds more calories per day; so, they should have become fatter, right? But no, they actually lost more body fat. Restricting their protein enabled them to eat more calories, while at the same time they lost more weight. More calories, yet a loss of body fat! And this magic “protein restriction”? They were just having people eat the recommended amount of protein. So, maybe they should have just called this the normal protein group, or the recommended protein group, and the group that was eating more typical American protein levels, and suffering because of it, the excess protein group.\nGiven the “restoration of metabolic health by decreased consumption of branched-chain amino acids,” leaders in the field have suggested the invention of drugs to block their absorption, to “promote metabolic health and treat diabetes and obesity without reducing caloric intake.” Or, we can just try not to eat so many branched-chain amino acids in the first place.\nThey are found mostly in meat, including chicken and fish, dairy products, and eggs, perhaps explaining why animal protein has been associated with higher diabetes risk, whereas plant protein appears protective. So, defining the “appropriate upper limits” of animal protein intake “may offer a great chance for the prevention of type 2 diabetes and obesity.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Ballance S, Knutsen SH, Fosvold ØW, Wickham M, Trenado CD, Monro J. Glyceamic and insulinaemic response to mashed potato alone, or with broccoli, broccoli fibre or cellulose in healthy adults. Eur J Nutr. 2018;57(1):199-207.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27655525"
+    },
+    {
+      "Title": "Bottin JH, Swann JR, Cropp E, et al. Mycoprotein reduces energy intake and postprandial insulin release without altering glucagon-like peptide-1 and peptide tyrosine-tyrosine concentrations in healthy overweight and obese adults: a randomised-controlled trial. Br J Nutr. 2016;116(2):360-74.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27198187"
+    },
+    {
+      "Title": "Burley VJ, Paul AW, Blundell JE. Influence of a high-fibre food (myco-protein) on appetite: effects on satiation (within meals) and satiety (following meals). Eur J Clin Nutr. 1993;47(6):409-18.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8396025/"
+    },
+    {
+      "Title": "Cummings NE, Williams EM, Kasza I, et al. Restoration of metabolic health by decreased consumption of branched-chain amino acids. J Physiol. 2018;596(4):623-45.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29266268/"
+    },
+    {
+      "Title": "Draper CF, Vassallo I, Di Cara A, et al. A 48-Hour Vegan Diet Challenge in Healthy Women and Men Induces a BRANCH-Chain Amino Acid Related, Health Associated, Metabolic Signature. Mol Nutr Food Res. 2018;62(3).",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29087622"
+    },
+    {
+      "Title": "Finnigan TJA, Needham L, Abbot C. Mycoprotein: a healthy new protein with a low environmental impact. In: Nadathur SR, Wanasundara JPD, Scanlin L. eds. Sustainable Protein Sources. London: Academic Press; 2017:305-25.",
+      "Url": "https://www.worldcat.org/title/sustainable-protein-sources/oclc/1041333546&referer=brief_results"
+    },
+    {
+      "Title": "Finnigan TJA, Wall BT, Wilde PJ, Stephens FB, Taylor SL, Freedman MR. Mycoprotein: The Future of Nutritious Nonmeat Protein, a Symposium Review. Curr Dev Nutr. 2019;3(6):nzz021.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31187084"
+    },
+    {
+      "Title": "Fontana L, Cummings NE, Arriola Apelo SI, et al. Decreased Consumption of Branched-Chain Amino Acids Improves Metabolic Health. Cell Rep. 2016;16(2):520-30.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27346343/"
+    },
+    {
+      "Title": "Fontana L, Cummings NE, Arriola Apelo SI, et al. Decreased Consumption of Branched-Chain Amino Acids Improves Metabolic Health. Supplementary Info. Cell Rep. 2016;16(2):520-30.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4947548/bin/NIHMS800719-supplement-supp.pdf"
+    },
+    {
+      "Title": "Gojda J, Rossmeislová L, Straková R, et al. Chronic dietary exposure to branched chain amino acids impairs glucose disposal in vegans but not in omnivores. Eur J Clin Nutr. 2017;71(5):594-601.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28145418"
+    },
+    {
+      "Title": "Gulliford MC, Bicknell EJ, Scarpello JH. Differential effect of protein and fat ingestion on blood glucose responses to high- and low-glycemic-index carbohydrates in noninsulin-dependent diabetic subjects. Am J Clin Nutr. 1989;50(4):773-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/2679037"
+    },
+    {
+      "Title": "Harris HC, Edwards CA, Morrison DJ. Short Chain Fatty Acid Production from Mycoprotein and Mycoprotein Fibre in an In Vitro Fermentation Model. Nutrients. 2019;11(4):800.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30965613"
+    },
+    {
+      "Title": "Hoff M, Trüeb RM, Ballmer-Weber BK, Vieths S, Wuethrich B. Immediate-type hypersensitivity reaction to ingestion of mycoprotein (Quorn) in a patient allergic to molds caused by acidic ribosomal protein P2. J Allergy Clin Immunol. 2003;111(5):1106-10.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12743577"
+    },
+    {
+      "Title": "Isanejad M, LaCroix AZ, Thomson CA, et al. Branched-chain amino acid, meat intake and risk of type 2 diabetes in the Women's Health Initiative. Br J Nutr. 2017;117(11):1523-30.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28721839"
+    },
+    {
+      "Title": "Jacobson MF, DePorter J. Self-reported adverse reactions associated with mycoprotein (Quorn-brand) containing foods. Ann Allergy Asthma Immunol. 2018;120(6):626-30.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29567357"
+    },
+    {
+      "Title": "Mahon AK, Flynn MG, Stewart LK, et al. Protein intake during energy restriction: effects on body composition and markers of metabolic and cardiovascular health in postmenopausal women. J Am Coll Nutr. 2007;26(2):182-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17536130"
+    },
+    {
+      "Title": "Mann H, Djulbegovic B. Comparator bias: why comparisons must address genuine uncertainties. J R Soc Med. 2013;106(1):30-3.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23358277/"
+    },
+    {
+      "Title": "Melnik BC. Leucine signaling in the pathogenesis of type 2 diabetes and obesity. World J Diabetes. 2012;3(3):38-53.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22442749/"
+    },
+    {
+      "Title": "Nuttall FQ, Mooradian AD, Gannon MC, Billington C, Krezowski P. Effect of protein ingestion on the glucose and insulin response to a standardized oral glucose load. Diabetes Care. 1984;7(5):465-70.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/6389060"
+    },
+    {
+      "Title": "Pal S, Ellis V. The acute effects of four protein meals on insulin, glucose, appetite and energy intake in lean men. Br J Nutr. 2010;104(8):1241-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20456814"
+    },
+    {
+      "Title": "Remer T, Pietrzik K, Manz F. A moderate increase in daily protein intake causing an enhanced endogenous insulin secretion does not alter circulating levels or urinary excretion of dehydroepiandrosterone sulfate. Metabolism. 1996;45(12):1483-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8969280"
+    },
+    {
+      "Title": "Tian S, Xu Q, Jiang R, Han T, Sun C, Na L. Dietary Protein Consumption and the Risk of Type 2 Diabetes: A Systematic Review and Meta-Analysis of Cohort Studies. Nutrients. 2017;9(9):982.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28878172"
+    },
+    {
+      "Title": "Turnbull WH, Leeds AR, Edwards DG. Mycoprotein reduces blood lipids in free-living subjects. Am J Clin Nutr. 1992;55(2):415-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/1734679"
+    },
+    {
+      "Title": "Walker P, Rhubart-Berg P, McKenzie S, Kelling K, Lawrence RS. Public health implications of meat production and consumption. Public Health Nutr. 2005;8(4):348-56.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15975179"
+    },
+    {
+      "Title": "Williamson DA, Geiselman PJ, Lovejoy J, et al. Effects of consuming mycoprotein, tofu or chicken upon subsequent eating behaviour, hunger and safety. Appetite. 2006;46(1):41-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16364496"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "climate change",
+      "Url": "https://nutritionfacts.org/topics/climate-change/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fake meat",
+      "Url": "https://nutritionfacts.org/topics/fake-meat/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "hamburgers",
+      "Url": "https://nutritionfacts.org/topics/hamburgers/"
+    },
+    {
+      "Title": "insulin",
+      "Url": "https://nutritionfacts.org/topics/insulin/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "meat substitutes",
+      "Url": "https://nutritionfacts.org/topics/meat-substitutes/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "peas",
+      "Url": "https://nutritionfacts.org/topics/peas/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "prebiotics",
+      "Url": "https://nutritionfacts.org/topics/prebiotics/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "Quorn",
+      "Url": "https://nutritionfacts.org/topics/quorn/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "veggie burgers",
+      "Url": "https://nutritionfacts.org/topics/veggie-burgers/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    },
+    {
+      "Title": "wheat",
+      "Url": "https://nutritionfacts.org/topics/wheat/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is part of a nine-video series on plant-based meats. If you’ve missed any of the previous installments, check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-environmental-impacts-of-plant-based-meat-substitutes/\">The Environmental Impacts of Plant-Based Meat Substitutes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-beyond-meat-and-the-impossible-burger-healthy/\">Are Beyond Meat and the Impossible Burger Healthful?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-protein-are-pea-and-soy-protein-isolates-harmful/\">Are Pea and Soy Protein Isolates Harmful?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-meat-substitutes-put-to-the-test/\">Plant-Based Meat Substitutes Put to the Test</a></li>\n</ul>\n<p>Up next:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/what-about-the-heme-in-impossible-burgers/\">What About the Heme in Impossible Burgers?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-heme-iron-cause-cancer/\">Does Heme Iron Cause Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/heme-induced-n-nitroso-compounds-and-fat-oxidation/\">Heme-Induced N-Nitroso Compounds and Fat Oxidation</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-heme-iron-the-reason-meat-is-carcinogenic/\">Is Heme the Reason Meat Is Carcinogenic?</a></li>\n</ul>\n<p>I mentioned my Evidence-Based Weight Loss presentation, which you can <a href=\"https://nutritionfacts.org/video/evidence-based-weight-loss-live-presentation/\">watch here</a>.</p>\n<p>If you want all of nine of the videos in this plant-based meat series in one place, you can get them right now in a <a href=\"https://drgreger.org/collections/videos/products/plant-based-and-cultivated-meat-digital\">digital download</a> from my webinar a few months ago.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

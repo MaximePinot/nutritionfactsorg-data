@@ -1,0 +1,127 @@
+{
+  "Title": "The Downside to Banana Smoothies for Polyphenol Absorption",
+  "Url": "https://nutritionfacts.org/video/the-downside-to-banana-smoothies-for-polyphenol-absorption/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/MkjaMvF1Y0g"
+  },
+  "UpdatedAt": "2024-09-16T11:50:07+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 67",
+    "Url": "https://nutritionfacts.org/volumes/volume-67/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "An enzyme in bananas can destroy some of the phytonutrients in berries and cocoa, but there is a way to reduce the effect.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThere are recommended daily intakes of essential nutrients like vitamins to prevent deficiencies, but recently the first dietary recommendation for a bioactive food compound was published. Bioactives are food compounds that are not necessary for basic human needs, but may have health benefits––for example, plant metabolites called flavonoids. Flavonoids are a type of polyphenol, of which the most commonly consumed are flavan-3-ols, also known as just flavanols.\nA review of the literature suggested that the intake of 400 to 600 mg a day of flavanols would be beneficial for cardiometabolic protection, potentially helping to improve blood pressure, cholesterol, and blood sugars. Note, it’s specified that these are food guidelines, not supplement guidelines––though really, they’re more like beverage guidelines, as tea—green or black—would be by far the easiest way to reach those levels, though there are also certainly some in a variety of berries and cocoa.\nHowever, there is an enzyme called polyphenol oxidase that can break down polyphenols like flavanols. That’s what causes certain fruits and vegetables to brown when you cut into them, like bananas and potatoes. Why would a plant do that to itself? Apparently as a defense mechanism, part of the plant’s own immune system. When exposed to oxygen, polyphenol oxidase can oxidize polyphenols into breakdown products with antimicrobial activity. So, when a banana gets bruised, or you cut open an avocado, the polyphenol oxidase can start oxidizing polyphenols into defensive compounds that can glom together and form a brown compound called melanin. The same class of compounds that darkens the skin of a banana darkens our skin too.\nOkay, no problem, we can just not eat brown bananas, as that’s visual evidence that many of the polyphenols have been lost. But what if you mixed that banana, which you know is filled with the polyphenol oxidase enzyme, into a smoothie with polyphenol-rich foods, like berries or cocoa? Might you end up with less nutrition? Big Chocolate-funded researchers sought to find out. They put about half a cup (40 g) of cocoa’s worth of cocoa flavanols into a smoothie containing banana, compared to the same amount in a berry smoothie with no bananas.\nHere’s a measure of how many of the chocolate flavanols made it into the bloodstream within hours of drinking the chocolatey berry smoothie, compared to the same amount of cocoa blended into a banana smoothie. It’s almost as if you hardly put any cocoa in there at all, presumably because the banana enzymes chopped up all the chocolate goodies. Let’s not presume, though. They blended up the chocolatey banana smoothie again—banana, almond milk, and cocoa flavanols—and then just measured the level of flavanols as the smoothie sat for an hour. Check it out. The cocoa flavanols plummeted, more than a 90 percent drop, a half-life of like 10 minutes, so every 10 minutes or so the levels drop in half. How do they know for sure it was the polyphenol oxidase enzyme? Because when they added specific enzyme blockers, they blocked the effect.\nOkay, no problem; if you’re adding bananas to your smoothies, can’t you just chug is quickly before the enzyme does its job? Presumably, the enzyme would be deactivated when it hit the acid bath of the stomach, but let’s not presume. You don’t know, until you put it to the test. I love that the researchers did all these extra steps. This time they made study participants alternate sips between a straight banana-almond milk smoothie and like chocolate milk, cocoa flavanols plus almond milk. So, there was no premixing in the blender between the banana enzyme and the flavanols, just mixing in the stomach. Here’s how many cocoa flavanols make it into your bloodstream when sipping the chocolate milk alone. Mixed in the stomach with banana, and you get this: 37 percent less in your bloodstream, which shows that the banana enzyme can still do some polyphenol damage in the stomach. And, yes, in simulated stomach acid conditions, the polyphenol oxidase enzyme is indeed down, but not out.\nSo yeah, if you drink a smoothie with banana in it, it’s better to not let it sit around. But even if you drink it immediately, you may still get less polyphenols in your system than if you would have skipped the banana. But banana makes smoothies so rich and creamy. Is there anything we can add to the smoothie to counter the banana enzyme’s effects? That’s exactly what I’ll cover next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Almeida ME, Nogueira JN. The control of polyphenol oxidase activity in fruits and vegetables. A study of the interactions between the chemical compounds used and heat treatment. Plant Foods Hum Nutr. 1995;47(3):245-256.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7659702/"
+    },
+    {
+      "Title": "Crowe-White KM, Evans LW, Kuhnle GGC, et al. Flavan-3-ols and cardiometabolic health: first ever dietary bioactive guideline. Adv Nutr. 2022;13(6):2070-2083.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36190328/"
+    },
+    {
+      "Title": "Fuerst EP, Okubara PA, Anderson JV, Morris CF. Polyphenol oxidase as a biochemical seed defense mechanism. Front Plant Sci. 2014;5:689.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25540647/"
+    },
+    {
+      "Title": "Meccariello R, D’Angelo S. Impact of polyphenolic-food on longevity: an elixir of life. An overview. Antioxidants (Basel). 2021;10(4):507.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33805092/"
+    },
+    {
+      "Title": "Moon KM, Kwon EB, Lee B, Kim CY. Recent trends in controlling the enzymatic browning of fruit and vegetable products. Molecules. 2020;25(12):2754.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32549214/"
+    },
+    {
+      "Title": "Ottaviani JI, Ensunsa JL, Fong RY, et al. Impact of polyphenol oxidase on the bioavailability of flavan-3-ols in fruit smoothies: a controlled, single blinded, cross-over study. Food Funct. 2023;14(18):8217-8228.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37615673/"
+    }
+  ],
+  "Acknowledgements": "Image credit: Wikipedia\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "almond milk",
+      "Url": "https://nutritionfacts.org/topics/almond-milk/"
+    },
+    {
+      "Title": "avocados",
+      "Url": "https://nutritionfacts.org/topics/avocados/"
+    },
+    {
+      "Title": "bananas",
+      "Url": "https://nutritionfacts.org/topics/bananas/"
+    },
+    {
+      "Title": "berries",
+      "Url": "https://nutritionfacts.org/topics/berries/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "black tea",
+      "Url": "https://nutritionfacts.org/topics/black-tea/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "chocolate",
+      "Url": "https://nutritionfacts.org/topics/chocolate/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "cocoa",
+      "Url": "https://nutritionfacts.org/topics/cocoa/"
+    },
+    {
+      "Title": "flavonoids",
+      "Url": "https://nutritionfacts.org/topics/flavonoids/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "green tea",
+      "Url": "https://nutritionfacts.org/topics/green-tea/"
+    },
+    {
+      "Title": "potatoes",
+      "Url": "https://nutritionfacts.org/topics/potatoes/"
+    },
+    {
+      "Title": "smoothies",
+      "Url": "https://nutritionfacts.org/topics/smoothies/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vitamins",
+      "Url": "https://nutritionfacts.org/topics/vitamins/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">I did a </span><a href=\"https://www.youtube.com/watch?v=8grTXcdeZ-E&amp;t=22s\"><span style=\"font-weight: 400\">Bananas in Smoothies</span></a><span style=\"font-weight: 400\"> live presentation with Q&amp;A in November, if you want to check it out. Bottom line: Mixing bananas with certain healthy foods, like cocoa powder and possibly berries, may reduce some of their benefits. </span></p>\n<p><span style=\"font-weight: 400\">For more on smoothies, check out the </span><a href=\"https://nutritionfacts.org/topics/smoothies/\"><span style=\"font-weight: 400\">topic page</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

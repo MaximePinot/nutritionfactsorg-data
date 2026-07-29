@@ -1,0 +1,67 @@
+{
+  "Title": "Unsafe at Any Feed",
+  "Url": "https://nutritionfacts.org/video/unsafe-at-any-feed/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/W2FdpOXwHCE"
+  },
+  "UpdatedAt": "2012-06-19T12:00:35+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 9",
+    "Url": "https://nutritionfacts.org/volumes/volume-9/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "In a national survey, fewer than half of the participants realized meat contaminated with fecal food-poisoning bacteria, such as Salmonella, can still legally be sold. Rather than producing safe products, the meat industry shifts the responsibility for safety onto the consumer.",
+  "Transcript": "Most of the U.S. population suffers an “acute diarrheal illness” every year, and, according to a recent survey, most people correctly identified food as the most common source. But, fewer than half, 45%, believed it’s legal for grocery stores to sell meat with food-poisoning bacteria on it. It must be illegal, right? You can’t sell unsafe cars; you can’t sell unsafe toys. How could they possibly sell unsafe meat?\nYet it’s totally legal for most food-poisoning bugs. They do it by blaming the consumer. As USDA poultry microbiologist Nelson Cox said, “Raw meats are not idiot-proof. They can be mishandled and when they are, it’s like handling a hand grenade. If you pull the pin, somebody’s going to get hurt.” See, if we get sick, it’s our fault—not the meat industry, for selling meat contaminated with crap.\nWhile some may question the wisdom of selling hand grenades in the supermarket, the USDA poultry expert disagrees: “I think the consumer has the most responsibility but refuses to accept it.” That’s like a car company saying, “Yeah, we installed faulty brakes, but it’s your fault for not putting your kid in a seatbelt.”\nPatricia Griffin, director of Epidemiological Research at the Centers for Disease Control, responded famously to this kind of blame-the-victim attitude. “Is it reasonable,” she asked of the meat industry, “that if a consumer undercooks a hamburger…their three-year-old dies?”\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Serena.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Gina Kolata. Detective Work and Science Reveal a New Lethal Bacteria, New York Times. 1998 Jan. 25.",
+      "Url": "http://www.nytimes.com/1998/01/06/us/detective-work-and-science-reveal-a-new-lethal-bacteria.html?pagewanted=all&src=pm"
+    },
+    {
+      "Title": "Jones TF, Grimm K. Public knowledge and beliefs about diarrheal disease. Foodborne Pathog Dis. 2011 Jan; 8(1):165-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20932083"
+    },
+    {
+      "Title": "Madeline Drexler. Secret Agents: The Menace of Emerging Infections. Joseph Henry Press. 2002.",
+      "Url": "http://www.nap.edu/catalog.php?record_id=10232"
+    }
+  ],
+  "Acknowledgements": "Image thanks to sahlgoode / flickr",
+  "Topics": [
+    {
+      "Title": "CDC",
+      "Url": "https://nutritionfacts.org/topics/cdc/"
+    },
+    {
+      "Title": "diarrhea",
+      "Url": "https://nutritionfacts.org/topics/diarrhea/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "hamburgers",
+      "Url": "https://nutritionfacts.org/topics/hamburgers/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "USDA",
+      "Url": "https://nutritionfacts.org/topics/usda/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Industry experts, in fact, admit it’s too expensive for the industry not to sell contaminated chicken—see <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=863\" rel=\"nofollow\">Fecal Bacteria Survey</a>. For questionable steps the meat industry is taking to mediate the threat, see <a href=\"https://nutritionfacts.org/video/viral-meat-spray/\" rel=\"nofollow\">Viral Meat Spray</a>, and <a href=\"https://nutritionfacts.org/video/maggot-meat-spray/\" rel=\"nofollow\">Maggot Meat Spray</a>. The risks of handling fresh meat are discussed in <a href=\"https://nutritionfacts.org/video/food-poisoning-bacteria-cross-contamination/\" rel=\"nofollow\">Food Poisoning Bacteria Cross-Contamination</a>. You can also check out my <a href=\"https://nutritionfacts.org/topics/food-poisoning/\" rel=\"nofollow\">other videos on food poisoning</a>.</p>\n<p>And be sure to see my associated blog posts for more context: <a href=\"https://nutritionfacts.org/2012/08/23/why-is-unsafe-meat-legal/\" rel=\"nofollow\">Why is it Legal to Sell Unsafe Meat?</a>; <a href=\"https://nutritionfacts.org/2013/07/30/is-coconut-oil-good-for-you/\">Is Coconut Oil Bad For You?</a>; <a href=\"https://nutritionfacts.org/blog/which-pets-improve-childrens-health/\">Which Pets Improve Children’s Health?</a>; <a href=\"https://nutritionfacts.org/2013/10/01/why-is-selling-salmonella-tainted-chicken-still-legal/\">Why Is Selling Salmonella-Tainted Chicken Legal?</a>; and <a href=\"https://nutritionfacts.org/2013/12/26/probiotics-and-diarrhea/\">Probiotics and Diarrhea</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

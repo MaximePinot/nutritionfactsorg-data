@@ -1,0 +1,159 @@
+{
+  "Title": "Power Plants",
+  "Url": "https://nutritionfacts.org/video/power-plants/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/9eTWaHxi5dk"
+  },
+  "UpdatedAt": "2012-01-16T13:00:14+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Many of the most powerful drugs in modern medicine’s arsenal came from natural products, from penicillin to the chemotherapy agents Taxol® and vincristine.",
+  "Transcript": "Doctors are skeptical of the ability of plant foods to treat disease. We have no problem believing a drug like lovastatin can lower cholesterol, but red yeast rice? Come on! It has been used in Chinese herbal medicine for over a thousand years; but what did they know back in the Tang Dynasty in the year 800?\nBut guess what’s in red yeast rice? Lovastatin; literally, the exact drug. Instead of us synthesizing it in a lab, some purplish mold synthesizes it on rice, and has since forever. Now, the drug levels in the moldy rice are too variable to be reliable, so I don’t recommend anyone take red yeast rice supplements. I don’t recommend people take lovastatin either; I recommend eating healthy enough that you don’t need either one. But it is an illustration of the power of plants; or in this case, a fungus.\nDoctors prescribe diabetes drugs like candy (even though some may increase the risk of heart failure, heart attacks, and death), but at the same time are skeptical that cinnamon could possibly help with blood sugar, because it’s just some dried bark scraped from some tree.\nWell, guess what Taxol is—the revolutionary chemotherapy drug that’s routinely used against half a dozen human cancers? It’s some dried bark scraped from the Pacific yew tree. Now, we just grow tree cells in a tank, and make it that way. But originally, they were just scraping thousands of trees.\nStill don’t think plants can be powerful? This is where cocaine comes from; morphine. This makes a glaucoma drug; anesthesia; this shrub cures malaria. This is where aspirin came from; digoxin; colchicine; quinine; ipecac. This is where we get a drug to treat emphysema; Alzheimer’s; Parkinson’s. Periwinkle is what we use to treat childhood leukemia, even though on the bottle we call it vincristine.\nIn the middle ages, they rubbed moldy bread into infected wounds; it was a staple European folk remedy. What quacks! Until a couple hundred years later, when penicillin went on to become the greatest discovery in all of medicine.\nThanks to a moldy cantaloupe found in a market in Peoria, Illinois—no joke—the United States went from having just enough penicillin in 1942 to treat ten people, to two million doses in time for the invasion of Normandy.\nOver the last 25 years, about half of new drug discoveries have come from natural products. Plants can powerfully affect our health.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by MaryAnn Allison.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Gordon RY, Cooperman T, Obermeyer W, Becker DJ. Marked variability of monacolin levels in commercial red yeast rice products: buyer beware! Arch Intern Med. 2010 Oct 25;170(19):1722-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20975018"
+    },
+    {
+      "Title": "Loke YK, Kwok CS, Singh S. Comparative cardiovascular effects of thiazolidinediones: systematic review and meta-analysis of observational studies. BMJ. 2011 Mar 17;342:d1309. doi: 10.1136/bmj.d1309.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21415101"
+    },
+    {
+      "Title": "Montori VM, Shah ND. What have we learnt from the rosiglitazone saga? BMJ. 2011 Mar 17;342:d1354. doi: 10.1136/bmj.d1354.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21415102"
+    },
+    {
+      "Title": "Newman DJ, Cragg GM. Natural products as sources of new drugs over the last 25 years. J Nat Prod. 2007 Mar;70(3):461-77. Epub 2007 Feb 20.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17309302"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Robin, FotoosVanRobi, jakobnewman, Angie and Selena N. B. H. via flickr; CatherineMunro, Sten Porse, Zyance, Onderwijsgek, Fabelfroh, BerndH, MichaelMaggs, Polimerek, Lestat via wikimedia; and Forest & Kim Starr. Images have been modified.",
+  "Topics": [
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "aspirin",
+      "Url": "https://nutritionfacts.org/topics/aspirin/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "bread",
+      "Url": "https://nutritionfacts.org/topics/bread/"
+    },
+    {
+      "Title": "cantaloupe",
+      "Url": "https://nutritionfacts.org/topics/cantaloupe/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "cinnamon",
+      "Url": "https://nutritionfacts.org/topics/cinnamon/"
+    },
+    {
+      "Title": "complementary medicine",
+      "Url": "https://nutritionfacts.org/topics/complementary-medicine/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "eye health",
+      "Url": "https://nutritionfacts.org/topics/eye-health/"
+    },
+    {
+      "Title": "glaucoma",
+      "Url": "https://nutritionfacts.org/topics/glaucoma/"
+    },
+    {
+      "Title": "heart failure",
+      "Url": "https://nutritionfacts.org/topics/heart-failure/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "leukemia",
+      "Url": "https://nutritionfacts.org/topics/leukemia/"
+    },
+    {
+      "Title": "medications",
+      "Url": "https://nutritionfacts.org/topics/medications/"
+    },
+    {
+      "Title": "mold",
+      "Url": "https://nutritionfacts.org/topics/mold/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "nutrition myths",
+      "Url": "https://nutritionfacts.org/topics/nutrition-myths/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "rice",
+      "Url": "https://nutritionfacts.org/topics/rice/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "spices",
+      "Url": "https://nutritionfacts.org/topics/spices/"
+    },
+    {
+      "Title": "statins",
+      "Url": "https://nutritionfacts.org/topics/statins/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "wound healing",
+      "Url": "https://nutritionfacts.org/topics/wound-healing/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Be sure to check out my <a href=\"https://nutritionfacts.org/topics/medications/\" rel=\"nofollow\">other videos on medications</a>, and don’t miss all my <a href=\"https://nutritionfacts.org/topics/nutrition-myths/\" rel=\"nofollow\">videos on nutrition myths</a>.</p>\n<p>Also, check out my associated blog posts for more context: <a href=\"https://nutritionfacts.org/2012/01/17/amla-indian-gooseberries-versus-cancer-diabetes-and-cholesterol/\" rel=\"nofollow\">Amla: Indian gooseberries vs. cancer, diabetes, and cholesterol</a>; <a href=\"https://nutritionfacts.org/2012/09/27/is-caffeinated-tea-really-dehydrating/\" rel=\"nofollow\">Is Caffeinated Tea Really Dehydrating?</a>; <a href=\"https://nutritionfacts.org/2012/05/03/stool-size-and-breast-cancer-risk/\" rel=\"nofollow\">Stool Size and Breast Cancer Risk</a>; <a href=\"https://nutritionfacts.org/blog/treating-pms-with-saffron/\"> Treating PMS with Saffron</a>; <a href=\"https://nutritionfacts.org/2013/04/23/increasing-muscle-strength-with-fenugreek/\">Increasing Muscle Strength with Fenugreek</a>; and <a href=\"https://nutritionfacts.org/2013/10/29/cinnamon-for-diabetes/\">Cinnamon for Diabetes</a>,</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

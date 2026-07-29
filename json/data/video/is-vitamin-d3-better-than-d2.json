@@ -1,0 +1,103 @@
+{
+  "Title": "Is Vitamin D3 Better Than D2?",
+  "Url": "https://nutritionfacts.org/video/is-vitamin-d3-better-than-d2/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/u00SQjID5E0"
+  },
+  "UpdatedAt": "2013-02-13T12:19:43+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 12",
+    "Url": "https://nutritionfacts.org/volumes/volume-12/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Vitamin D3—sourced from sunlight exposure, animal, and plant sources—may be preferable to vitamin D2 sourced from fungi.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nYears ago, it was shown that vitamin D isn’t just the sunshine vitamin for us, but for mushrooms, as well. You take some shiitakes, for example, put them under a sun lamp for an hour, and they make vitamin D—just like we do, lounging at the pool.\nNow, most mushrooms you buy at the store don’t have any vitamin D, because they’re grown in the dark. But, there are now sun-bathed varieties on the market that boost significant levels—even now available in sprinkle form. Some mushrooms grown outside in the wild may have some as well—but, only about 12% of one’s recommended daily allowance per cup.\nIs the vitamin D in mushrooms bioavailable, though? In 2008, there was a case report of a dark-skinned individual living in England in the winter, who—like the other nine out of ten South Asians living in the UK—was vitamin D-deficient. His physician prescribed a vitamin D supplement; “however, after doing his own research [this] patient decided to self-treat. He bought a UV[B] bulb from a local hardware shop and proceeded to shine this directly onto” two cups of regular mushrooms a day, before stir-frying and consuming them. “He repeated this on a daily basis for 3 months.” And, indeed his vitamin D levels shot up, and he was cured. So, it’s reasonable to assume that such mushrooms may be able to provide a source of vitamin D for those at risk for deficiency. This was only one person, though, so further studies are necessary.\nAnd, finally, those studies have been done. “Bioavailability of vitamin D from [ultraviolet light]-irradiated button mushrooms in healthy adults deficient in [serum 25-hydroxy]vitamin D: a randomized controlled trial.” They compared the mushrooms to vitamin D supplements, to placebo. And, both the mushrooms and the supplements were equally effective in raising D levels, compared to placebo.\nThe type of vitamin D made by mushrooms, though, is vitamin D2, which is typically derived from yeast, and is the form traditionally prescribed by doctors to cure vitamin D deficiency. Most supplements, though, are D3, which is the type found in plants and animals, and typically derived from sheep’s wool.\nBack in 2008, it was established that vitamin D2 was effective as D3 in maintaining one’s vitamin D levels at standard daily doses. Whether folks were given D2, D3, or a combination of half D2/half D3, it didn’t seem to matter much, in terms of improving vitamin D levels in their bloodstreams.\nBut that was five years ago—what’s the update? Is vitamin D2 better than vitamin D3? It apparently depends on how much you take, and what your starting levels are. Taken daily, in doses up to 4,000 units a day, there appears to be no significant difference in the ability of D2 or D3 to raise vitamin D levels. But, if you take megadoses on a weekly or monthly basis, in doses up to 50,000 units at a time, D3 works better than D2. \nAnd, if you’re not vitamin D-deficient; if your vitamin D levels are normal—for example, you live in California and get enough sun—then D2 from mushrooms or supplements doesn’t appear to raise your levels further.\nBut, if your levels are fine, why take supplements in the first place? The only reason we care about the levels in our blood is because of the benefits we expect to get from those levels—such as a longer lifespan. The latest Cochrane review on vitamin D and mortality found that while D3 supplementation may be able to reduce mortality, other forms of D (including D2) did not. This may be because most of the D2 trials used megadosing regimens—up to 300,000 units injected into people.\nBut, you know, until we have good data suggesting D2 supplementation can actually extend one’s life, D3—the type of vitamin D found in animals and plants—may be preferable to vitamin D2, the vitamin derived from fungi.\nThe best animal to get D3 from is—yourself. But, if you live at a latitude where you’re not able to make enough, then there are both animal and non-animal sources of vitamin D3 supplements.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A. Ozzard, G. Hear, G. Morrison, M. Hoskin. Vitamin D deficiency treated by consuming UVB-irradiated mushrooms. Br J Gen Pract 2008 58(554):644 - 645",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18801283"
+    },
+    {
+      "Title": "C. B. Stephensen, M. Zerofsky, D. J. Burnett, Y.-P. Lin, B. D. Hammock, L. M. Hall, T. McHugh. Ergocalciferol from mushrooms or supplements consumed with a standard meal increases 25-hydroxyergocalciferol but decreases 25-hydroxycholecalciferol in the serum of healthy adults. J. Nutr. 2012 142(7):1246 - 1252",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22623385"
+    },
+    {
+      "Title": "G. Bjelakovic, L. L. Gluud, D. Nikolova, K. Whitfield, J. Wetterslev, R.G. Simonetti, M. Bjelakovic, C. Gluud. Vitamin D supplementation for prevention of mortality in adults. Cochrane Database Syst Rev. 2011 Jul 6;(7):CD007470.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21735411"
+    },
+    {
+      "Title": "K. M. Phillips, D. M. Ruggio, R. L. Horst, B. Minor, R. R. Simon, M. J. Feeney, W. C. Byrdwell, D. B. Haytowitz. Vitamin D and sterol composition of 10 types of mushrooms from retail suppliers in the United States. J. Agric. Food. Chem. 2011 59(14):7841 - 7853",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21663327"
+    },
+    {
+      "Title": "L. Tripkovic, H. Lambert, K. Hart, C. P. Smith, G. Bucca, S. Penson, G. Chope, E. Hyppönen, J. Berry, R. Vieth, S. Lanham-New. Comparison of vitamin D2 and vitamin D3 supplementation in raising serum 25-hydroxyvitamin D status: A systematic review and meta-analysis. Am. J. Clin. Nutr. 2012 95(6):1357 - 1364",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22552031"
+    },
+    {
+      "Title": "M. F. Holick, R. M. Biancuzzo, T. C. Chen, E. K. Klein, A. Young, D. Bibuld, R. Reitz, W. Salameh, A. Ameri, A. D. Tannenbaum. Vitamin D2 is as effective as vitamin D3 in maintaining circulating concentrations of 25-hydroxyvitamin D. J. Clin. Endocrinol. Metab. 2008 93(3):677 - 681",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18089691"
+    },
+    {
+      "Title": "O. S. Atik. Is vitamin D2 better than vitamin D3? Eklem Hastalik Cerrahisi 2012 23(2):61",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22765481"
+    },
+    {
+      "Title": "P. Urbain, F. Singler, G. Ihorst, H.-K. Biesalski, H. Bertz. Bioavailability of vitamin D₂ from UV-B-irradiated button mushrooms in healthy adults deficient in serum 25-hydroxyvitamin D: A randomized controlled trial. Eur J Clin Nutr 2011 65(8):965 - 971",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21540874"
+    },
+    {
+      "Title": "Ricardo Boland, Mario Skliar, Alejandro Curino, Lorena Milanesi. Vitamin D compounds in plants. Plant Science 164 (2003) 357 {'A}/369 2003 164(NA):357-369",
+      "Url": "http://www.sciencedirect.com/science/article/pii/S016894520200420X"
+    },
+    {
+      "Title": "Viraj J. Jasinghe, Conrad O. Perera. Distribution of ergosterol in different tissues of mushrooms and its effect on the conversion of ergosterol to vitamin D2 by UV irradiation. Food Chemistry 2005 92(NA):541­-546",
+      "Url": "http://www.sciencedirect.com/science/article/pii/S0308814604006612"
+    }
+  ],
+  "Acknowledgements": "Images thanks to bark, Jim of JimOnLight, chimothy27, & eyesore9 via flickr; and Evan-Amos & Ben Mills via Wikimedia",
+  "Topics": [
+    {
+      "Title": "dietary guidelines",
+      "Url": "https://nutritionfacts.org/topics/dietary-guidelines/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "mushrooms",
+      "Url": "https://nutritionfacts.org/topics/mushrooms/"
+    },
+    {
+      "Title": "sunlight",
+      "Url": "https://nutritionfacts.org/topics/sunlight/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    },
+    {
+      "Title": "yeast",
+      "Url": "https://nutritionfacts.org/topics/yeast/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>How much D should those who can’t get enough sun take? I now recommend 2,000 IU a day (see <a href=\"https://nutritionfacts.org/optimum-nutrient-recommendations/\">Optimum Nutrition Recommendations</a>). That’s not what the Institute of Medicine says, though. I justify my recommendation on a two-week video series that begins with <a href=\"https://nutritionfacts.org/video/vitamin-d-recommendations-changed/\">Vitamin D Recommendations Changed</a>, and ends with <a href=\"https://nutritionfacts.org/video/resolving-the-vitamin-d-bate/\">Resolving the Vitamin D-Bate</a>. I also recommend to <a href=\"https://nutritionfacts.org/video/take-vitamin-d-supplements-with-meals/\">Take Vitamin D Supplements With Meals</a>. What’s that bit about vitamin D and longevity? See <a href=\"https://nutritionfacts.org/video/vitamin-d-and-mortality-may-be-a-u-shaped-curve/\">Vitamin D and Mortality May Be a U-shaped Curve</a>. You know I’m averse to mentioning brand names, but please feel free to leave any recommendations in the comments for cheap sources.</p>\n<p>I still think people should eat mushrooms, though! For starters, see:</p>\n<ul>\n<li style=\"list-style-type: none\">\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-vs-mushrooms/\">Breast Cancer vs. Mushrooms</a></li>\n<li><a href=\"https://nutritionfacts.org/video/making-our-arteries-less-sticky/\">Making Our Arteries Less Sticky</a></li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<p>For additional context, see my blog post <a href=\"https://nutritionfacts.org/2013/08/01/vitamin-d-from-mushrooms-sun-or-supplements/\">Vitamin D from Mushrooms, Sun, or Supplements?</a> And be sure to check out my <a href=\"https://nutritionfacts.org/?fwp_search=mushrooms&amp;fwp_content_type=post%2Cvideo/\">other videos and posts on mushrooms.</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

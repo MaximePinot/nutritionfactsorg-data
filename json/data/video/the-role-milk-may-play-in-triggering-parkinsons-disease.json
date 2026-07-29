@@ -1,0 +1,103 @@
+{
+  "Title": "The Role Milk May Play in Triggering Parkinson’s Disease",
+  "Url": "https://nutritionfacts.org/video/the-role-milk-may-play-in-triggering-parkinsons-disease/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/mrJXXMFJ4_Y"
+  },
+  "UpdatedAt": "2022-01-05T12:50:41+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 56",
+    "Url": "https://nutritionfacts.org/volumes/volume-56/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Is the brain damage associated with milk consumption due to the banned pesticide heptachlor or the milk sugar galactose?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nParkinson’s disease is a neurodegenerative brain disorder that affects millions of people. What causes it? Well, if you look at lifestyle factors associated with Parkinson’s disease, the strongest dietary association with increased risk of Parkinson’s disease is dairy consumption. In fact, dairy products are the only food group that has been consistently associated with a high risk of developing Parkinson’s. Five large prospective studies have confirmed the link…including the two Harvard cohorts, the Harvard Nurse’s Health Study and other Health Professionals, which followed more than a hundred thousand people, followed for decades, in the largest analysis of dairy and Parkinson’s disease to date, analyzing more than 1,000 newly diagnosed cases––and all the studies found a link between dairy and Parkinson’s, most finding a significant link. About 50 percent increase in risk overall in those drinking the most milk compared to those drinking the least, at a p value of less than 0.00001, meaning less than 1 in 100,000. You’d only get a finding that extreme by chance. Okay, but why is there a link at all?\nDespite clear-cut associations between milk intake and Parkinson’s disease incidence, there is no rational explanation, concluded one review. A year later though, we got a clue. Midlife milk consumption and substantia nigra neuron density at death. What does that mean? Parkinson’s is caused when most of the nerve cells in a critical part of the brain are killed off. And so, if you go back and see how much milk people were drinking in their 40s, 50s, and 60s, and then look at their brains on autopsy and count how many of those critical neurons they had left, in every single quadrant, neuron density was maximized in those who consumed no milk, and lowest in those who consumed the most milk. Even after removing the Parkinson’s cases, those drinking two cups of milk a day had up to 40 percent fewer nerve cells in that critical brain region. What’s in milk that could be wiping out brain cells? Among those who drank the most milk, residues of the pesticide heptachlor epoxide were found in nine out of 10 brains. Aha, so maybe the ﬁnding of pesticide residues more commonly in the brains of those who drank the most milk could explain how milk could be cause-and-effect related to Parkinson’s disease risk.\nNow that’s not the only potential explanation. Remember my video on how meat contains that clumpy neurotoxic protein alpha-synuclein? Well, dairy products may contain trace amounts as well, but we don’t have confirmation of that. Could the milk sugar galactose be the missing link? That’s what lactose in milk breaks down into in the body, and galactose is what’s used to induce aging, to experimentally cause aging in the brain. When you drink it, the galactose is picked up by your brain within a few hours, and for doses above 100 mg/kg, it appears that galactose can cause pathological alterations in brain cells, similar to those observed in Parkinson’s disease. And these quantities can be reached and surpassed with the simple daily consumption of two glasses of milk, the main dietary source of galactose in humans. And of all your brain cells, those dopaminergic neurons, the ones that you need to retain to prevent Parkinson’s may be more vulnerable to galactose-induced damage; galactose-induced oxidative stress.\nGalactose may also explain the findings linking milk-drinking with higher death rates. Now, you may be thinking, well duh, the saturated butterfat is just cutting people’s life short. But higher mortality with high milk consumption is observed irrespective of the milk fat content. Skim milk might be fat-free, but it’s not lactose-free.\nCan’t you just use lactose-free milk? What about Lactaid? That has the lactase enzyme added to make lactose-free milk. But it just breaks down lactose into galactose in the carton rather than in your gut. So, you’re still ingesting the same amount of galactose. No wonder then, perhaps, that greater milk intake at midlife may be associated with a greater rate of cognitive decline. I mean, researchers use galactose to create brain aging in the laboratory. Administration of D-galactose, a metabolic derivative of lactose, has been extensively used to mimic cognitive aging through oxidative stress in animal models. Compared to those who said they “almost never” drink milk, those drinking more than a glass a day appear more likely to suffer a global decline in their cognitive function.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Abbott RD, Ross GW, Petrovitch H, et al. Midlife milk consumption and substantia nigra neuron density at death. Neurology. 2016;86(6):512-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26658906/"
+    },
+    {
+      "Title": "Ascherio A, Schwarzschild MA. The epidemiology of Parkinson’s disease: risk factors and prevention. Lancet Neurol. 2016;15(12):1257-72.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27751556/"
+    },
+    {
+      "Title": "Ball N, Teo W-P, Chandra S, Chapman J. Parkinson’s disease and the environment. Front Neurol. 2019;10:218.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30941085/"
+    },
+    {
+      "Title": "Belvisi D, Pellicciari R, Fabbrini G, Tinazzi M, Berardelli A, Defazio G. Modifiable risk and protective factors in disease development, progression and clinical subtypes of Parkinson’s disease: What do prospective studies suggest? Neurobiol Dis. 2020;134:104671.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31706021/"
+    },
+    {
+      "Title": "Di Giovanni G. A diet for dopaminergic neurons? J Neural Transm Suppl. 2009;(73):317-31.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20411790/"
+    },
+    {
+      "Title": "Hughes KC, Gao X, Kim IY, et al. Intake of dairy foods and risk of Parkinson disease. Neurology. 2017;89(1):46-52.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28596209/"
+    },
+    {
+      "Title": "Killinger BA, Labrie V. Vertebrate food products as a potential source of prion-like α-synuclein. NPJ Parkinsons Dis. 2017;3:33.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29184902/"
+    },
+    {
+      "Title": "Kistner A, Krack P. Parkinson’s disease: no milk today? Front Neurol. 2014;5:172.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25250013/"
+    },
+    {
+      "Title": "Michaëlsson K, Byberg L. Mixing of apples and oranges in milk research: a cohort analysis of non-fermented milk intake and all-cause mortality. Nutrients. 2020;12(5):1393.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32413977/"
+    },
+    {
+      "Title": "Michaëlsson K, Wolk A, Langenskiöld S, et al. Milk intake and risk of mortality and fractures in women and men: cohort studies. BMJ. 2014;349:g6015.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25352269/"
+    },
+    {
+      "Title": "Nag N, Jelinek GA. A narrative review of lifestyle factors associated with parkinson’s disease risk and progression. Neurodegener Dis. 2019;19(2):51-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31487721/"
+    },
+    {
+      "Title": "Petruski-Ivleva N, Kucharska-Newton A, Palta P, et al. Milk intake at midlife and cognitive decline over 20 years. The atherosclerosis risk in communities (Aric) study. Nutrients. 2017;9(10):1134.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29039795/"
+    },
+    {
+      "Title": "Sarni AR, Baroni L. Milk and Parkinson disease: Could galactose be the missing link. MNM. 2019;12(1):91-118.",
+      "Url": "https://www.cabdirect.org/globalhealth/abstract/20193233006"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "Harvard Nurses' Health Study",
+      "Url": "https://nutritionfacts.org/topics/harvard-nurses-health-study/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Here’s the meat video I mentioned: <a href=\"https://nutritionfacts.org/video/the-role-meat-may-play-in-triggering-parkinsons-disease/\">The Role Meat May Play in Triggering Parkinson’s Disease</a>.</p>\n<p>You may remember that I’ve explored this before in <a href=\"https://nutritionfacts.org/video/could-lactose-explain-the-milk-and-parkinsons-disease-link/\">Could Lactose Explain the Milk and Parkinson’s Disease Link?</a> Uric acid may also be a contender. See my video <a href=\"https://nutritionfacts.org/video/parkinsons-disease-and-the-uric-acid-sweet-spot/\">Parkinson’s Disease and the Uric Acid Sweet Spot</a>.</p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/is-there-really-pus-in-milk/\">Is There Really Pus in Milk?</a> Check out the video.</p>\n<p>Other videos on Parkinson’s disease include:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/preventing-parkinsons-disease-with-diet/\">Preventing Parkinson’s Disease with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-parkinsons-disease-with-diet/\">Treating Parkinson’s Disease with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-something-in-tobacco-protective-against-parkinsons-disease/\">Is Something in Tobacco Protective Against Parkinson’s Disease?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/peppers-and-parkinsons-the-benefits-of-smoking-without-the-risks/\">Peppers and Parkinson’s: The Benefits of Smoking Without the Risks?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/low-protein-diets-for-parkinsons-disease/\">Low-Protein Diets for Parkinson’s Disease</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "Title": "Pros and Cons of a Macrobiotic Diet",
+  "Url": "https://nutritionfacts.org/video/pros-and-cons-of-a-macrobiotic-diet/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Jr64u6Xg2gA"
+  },
+  "UpdatedAt": "2018-10-10T11:50:49+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 44",
+    "Url": "https://nutritionfacts.org/volumes/volume-44/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What happens when you put diabetics on a diet composed of largely whole grains, vegetables, and beans?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMacrobiotic diets have been described by the American Medical Association as “one of the most dangerous dietary regimens, posing not only serious hazards to the health of the individual but even to  life itself.” After all, macrobiotic diets are “predominantly vegetarian with a great emphasis…placed on whole grain[s].” What’s wrong with that? Well, they also used to tell people to not drink water, which isn’t good, and to avoid fruit—so much so that it’s resulted in modern-day cases of scurvy.\nNow thankfully, “[t]he macrobiotic diet has evolved over the past 30 years. This is the more contemporary version: an emphasis on whole grains, vegetables, and beans, while minimizing most meat, eggs, and dairy. I don’t like them restricting fruits; don’t like all the added salt; but compared to the standard American diet, it’s got a lot of things going for it. Only a quarter of the saturated fat intake, less than half the sugar intake. A very respectable fiber intake, two-and-a-half times the national average, but actually taking in more sodium. So, while the macrobiotic diet is an anti-inflammatory diet—has a negative dietary inflammatory index score, as opposed to the pro-inflammatory American diet—some of the most anti-inflammatory foods are herbs and spices. So, instead of adding all that sea salt and soy sauce, the macrobiotic diet could be improved by using natural seasonings instead.\nOkay, but has the macrobiotic diet ever been put to the test? Yes, for diabetes. The restriction on water probably wouldn’t help, as “higher plain water [consumption] is associated with lower type 2 diabetes risk”—though part of that may be because they’re drinking less soda. And, fruit restriction is probably not helpful, since fruit consumption “is associated with a significantly reduced risk of type 2 diabetes” as well. But same with green leafy vegetables, which is where the macrobiotic diet can really shine: it includes lots of greens. Look, you can do randomized, double-blind, placebo-controlled, crossover studies of kale, and show that it suppresses the after-a-meal increase in blood sugars. Eat a meal of white rice, chicken, and eggs and get a big spike in blood sugar—though significantly less adding just a tablespoon of dried kale powder, as opposed to some kind of placebo powder (though the effect is visually exaggerated by their y-axis shenanigans).\nAnd macrobiotic diets use whole grains, which can significantly improve insulin sensitivity compared to refined grains, which may be due in part to all the wonderful things fiber can do to help our good gut bacteria thrive—which could potentially lower inflammation, and decrease diabetes risk. But you don’t know…until you put it to the test.\nJust three weeks on a strictly plant-based diet composed mostly of whole grains, vegetables, and beans and… they got about a 10% drop in blood pressure, a whopping 35% drop in LDL (bad) cholesterol, and a 38% drop in fasting blood sugars—in just 21 days. Were these changes statistically significant? Here’s some three-month P values for you.  Those are my kind of P values. In other words, yes, the changes were significant in every possible way.\nSimilarly, short-term interventional studies on diabetics with these so-called Ma-Pi 2 macrobiotic diets have been performed across four continents. The “Ma-Pi” comes from the guy that came up with the diet, Mario Pianesi, a strictly plant-based diet based mostly on whole grains and vegetables, with legumes and some seeds, and decaf green tea as the preferred beverage. Look at these extraordinary numbers: a near 40% drop in fasting blood sugars; near 27% drop in LDL cholesterol in 21 days.\nNow, they did lose weight, a few pounds a week, but those kinds of results were way more than one would expect with weight loss, and—here’s the kicker—that 40% drop in blood sugars was after cutting their insulin in half! So those numbers greatly underestimate the effects. Better results, on fewer drugs. That’s the power of plants. All we need now is a randomized, controlled clinical trial to really seal the deal—which we’ll cover next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Carroll HA, Davis MG, Papadaki A. Higher plain water intake is associated with lower type 2 diabetes risk: a cross-sectional study in humans. Nutr Res. 2015;35(10):865-872.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26255759"
+    },
+    {
+      "Title": "Harmon BE, Carter M, Hurley TG, Shivappa N, Teas J, Hébert JR. Nutrient Composition and Anti-inflammatory Potential of a Prescribed Macrobiotic Diet. Nutr Cancer. 2015;67(6):933-940.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26212923"
+    },
+    {
+      "Title": "Kondo S, Suzuki A, Kurokawa M, Hasumi K. Intake of kale suppresses postprandial increases in plasma glucose: A randomized, double-blind, placebo-controlled, crossover study. Biomed Rep. 2016;5(5):553-558.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27882216"
+    },
+    {
+      "Title": "Lappi J, Kolehmainen M, Mykkänen H, Poutanen K. Do large intestinal events explain the protective effects of whole grain foods against type 2 diabetes?. Crit Rev Food Sci Nutr. 2013;53(6):631-640.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23627504"
+    },
+    {
+      "Title": "Lerman RH. The macrobiotic diet in chronic disease. Nutr Clin Pract. 2010;25(6):621-626.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21139126"
+    },
+    {
+      "Title": "Li M, Fan Y, Zhang X, Hou W, Tang Z. Fruit and vegetable intake and risk of type 2 diabetes mellitus: meta-analysis of prospective cohort studies. BMJ Open. 2014;4(11):e005497.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25377009"
+    },
+    {
+      "Title": "Pereira MA, Jacobs DR, Pins JJ, et al. Effect of whole grains on insulin sensitivity in overweight hyperinsulinemic adults. Am J Clin Nutr. 2002;75(5):848-855.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11976158"
+    },
+    {
+      "Title": "Porrata-Maury C, Hernández-Triana M, Rodríguez-Sotero E, et al. Medium- and short-term interventions with ma-pi 2 macrobiotic diet in type 2 diabetic adults of bauta, havana. J Nutr Metab. 2012;2012:856342.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23097695"
+    },
+    {
+      "Title": "Porrata-Maury C, Hernández-Triana M, Ruiz-Álvarez V, et al. Ma-Pi 2 macrobiotic diet and type 2 diabetes mellitus: pooled analysis of short-term intervention studies. Diabetes Metab Res Rev. 2014;30 Suppl 1:55-66.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24532293"
+    },
+    {
+      "Title": "Sherlock P, Rothschild EO. Scurvy produced by a Zen macrobiotic diet. JAMA. 1967;199(11):794-798.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/6071292"
+    },
+    {
+      "Title": "Soare A, Khazrai YM, Del Toro R, et al. The effect of the macrobiotic Ma-Pi 2 diet vs. the recommended diet in the management of type 2 diabetes: the randomized controlled MADIAB trial. Nutr Metab (Lond). 2014;11:39.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25302069"
+    },
+    {
+      "Title": "Zen macrobiotic diets. JAMA. 1971;218(3):397.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/5109865"
+    }
+  ],
+  "Acknowledgements": "Image credit: Char Beck via Unsplash. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "American Medical Association",
+      "Url": "https://nutritionfacts.org/topics/american-medical-association/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "green tea",
+      "Url": "https://nutritionfacts.org/topics/green-tea/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "herbs",
+      "Url": "https://nutritionfacts.org/topics/herbs/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "insulin",
+      "Url": "https://nutritionfacts.org/topics/insulin/"
+    },
+    {
+      "Title": "kale",
+      "Url": "https://nutritionfacts.org/topics/kale/"
+    },
+    {
+      "Title": "legumes",
+      "Url": "https://nutritionfacts.org/topics/legumes/"
+    },
+    {
+      "Title": "macrobiotic diet",
+      "Url": "https://nutritionfacts.org/topics/macrobiotic-diet/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "rice",
+      "Url": "https://nutritionfacts.org/topics/rice/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "scurvy",
+      "Url": "https://nutritionfacts.org/topics/scurvy/"
+    },
+    {
+      "Title": "seeds",
+      "Url": "https://nutritionfacts.org/topics/seeds/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "soy sauce",
+      "Url": "https://nutritionfacts.org/topics/soy-sauce/"
+    },
+    {
+      "Title": "spices",
+      "Url": "https://nutritionfacts.org/topics/spices/"
+    },
+    {
+      "Title": "standard American diet",
+      "Url": "https://nutritionfacts.org/topics/standard-american-diet/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "water",
+      "Url": "https://nutritionfacts.org/topics/water/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Stay tuned for the thrilling conclusion in <a href=\"https://nutritionfacts.org/video/benefits-of-a-macrobiotic-diet-for-diabetes/\">Benefits of a Macrobiotic Diet for Diabetes</a>.</p>\n<p>The pros and cons remind me of a video I did on four ways of <a href=\"https://nutritionfacts.org/video/improving-on-the-mediterranean-diet/\">Improving on the Mediterranean Diet</a>.</p>\n<p>I’ve got dozens of other videos on preventing and treating diabetes with diet. <a href=\"https://nutritionfacts.org/video/how-not-to-die-from-diabetes/\">How Not to Die from Diabetes</a> is a good place to start.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

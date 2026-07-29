@@ -1,0 +1,123 @@
+{
+  "Title": "Banana vs. Mango Smoothies for Polyphenol Absorption",
+  "Url": "https://nutritionfacts.org/video/banana-vs-mango-smoothies-for-polyphenol-absorption/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/-m1bDpv9KNg"
+  },
+  "UpdatedAt": "2024-09-18T11:50:34+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 67",
+    "Url": "https://nutritionfacts.org/volumes/volume-67/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How can you mediate the phytonutrient-destroying enzyme in avocados, bananas, and mushrooms?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThere is one food that has more polyphenol oxidase activity than a banana, and it’s a vegetable that’s not a potato. What vegetable turns brown that’s not a white potato? A white mushroom. White button mushrooms are packed with that polyphenol-munching enzyme—even more so than bananas. Now for those of you thinking, don’t worry, I don’t expect to be putting mushrooms in my smoothies anytime soon, some people add avocado to smoothies, or make a chocolate avocado pudding. Here’s a question: What if you eat mushrooms with a meal packed with polyphenol-rich foods? Might they mix in your stomach, and decrease the absorption of the anthocyanins in red cabbage or the berries in dessert, for instance? You could also imagine having some potatoes or eggplant in a meal. But note, this is for fresh produce. The enzyme is destroyed by cooking. And remember, we should be cooking our white mushrooms anyway because of the agaritine, right? So, problem solved.\nWho wants to cook their bananas, though? What else can we put in a smoothie? My favorite is mango, which you can buy frozen when it’s not in season. Do we have to worry about it having polyphenol-eating enzymes? Well, what happens when you cut open a mango? Does it go brown? No, so it’s probably fine. And indeed, when researchers measured polyphenol oxidase activity in a bunch of fruits and vegetables, mango had 500 times less than banana. The apple doesn’t surprise me, since it goes brown so fast, but what’s with the beet greens? It’s better to use something like kale for your green smoothies instead, where enzyme activity is undetectable.\nThis study raises so many interesting questions. Should you not add bananas to your oatmeal? I no longer add it to my cran-chocolate pomegranate breakfast bowl, since I don’t want to lose any of the polyphenols. But what if you’re not making something chocolatey? The study only tested the effects of the enzyme on cocoa flavanols. They didn’t check to see if mixing bananas with berries would affect the berry phytonutrients, but the presumption is that it would. And what does this mean for bottled smoothie drinks that you buy off the shelf in the store? Well, if they’ve been pasteurized, then it should be okay, since the heat should destroy the enzyme. That’s why vegetables are blanched before they’re frozen—to destroy the enzymes.\nEven just heating banana to 70°C (160°F), which is like the temperature of hot tea, for two minutes in the presence of vitamin C and citric acid (which might come from lemon juice), would suppress the enzyme by 80 percent. I’m not suggesting drinking hot smoothies, but rather that, depending on the ingredients, pasteurized smoothie drinks may not share the same problem as fresh-made smoothies. \nWhat about just the vitamin C and citric acid alone, like putting lemon juice in your smoothie? That only cuts the enzyme activity down by 13 percent. It works wonders on a cut apple, though, slashing enzyme activity nearly in half––which explains why lemon juice can keep your fruit salad from turning brown.\nIs there anything we can add to a banana smoothie to inhibit the enzyme? Sulfites used to be put on fresh fruits and vegetables until they were banned in 1986 following cases of sulfite-induced asthma. They’re still used in dried fruit, though, to prevent browning. What about natural agents? Onion extracts can prevent the browning of pears––both fresh and cooked onion juice. But there’s got to be a better option for your smoothie. Pineapple seems to help keep apples from browning, and bananas too, but that was after soaking in pineapple juice for three days, so it’s not clear if it would work right away. There was a study comparing lemon juice and white wine to prevent browning in pastry dough. You’ve heard of hard cider, hard seltzer? The lemon juice beat out the wine, though, so better a lemon squeeze than drinking a hard smoothie.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Almeida ME, Nogueira JN. The control of polyphenol oxidase activity in fruits and vegetables. A study of the interactions between the chemical compounds used and heat treatment. Plant Foods Hum Nutr. 1995;47(3):245-256.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7659702/"
+    },
+    {
+      "Title": "Chaisakdanugull C, Theerakulkait C, Wrolstad RE. Pineapple juice and its fractions in enzymatic browning inhibition of banana [Musa (AAA group) Gros Michel]. J Agric Food Chem. 2007;55(10):4252-4257.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17439237/"
+    },
+    {
+      "Title": "Cheng X f, Zhang M, Adhikari B. The inactivation kinetics of polyphenol oxidase in mushroom (Agaricus bisporus) during thermal and thermosonic treatments. Ultrason Sonochem. 2013;20(2):674-679.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23102768/"
+    },
+    {
+      "Title": "Moon KM, Kwon EB, Lee B, Kim CY. Recent trends in controlling the enzymatic browning of fruit and vegetable products. Molecules. 2020;25(12):2754.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32549214/"
+    },
+    {
+      "Title": "Ottaviani JI, Ensunsa JL, Fong RY, et al. Impact of polyphenol oxidase on the bioavailability of flavan-3-ols in fruit smoothies: a controlled, single blinded, cross-over study. Food Funct. 2023;14(18):8217-8228.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37615673/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "avocados",
+      "Url": "https://nutritionfacts.org/topics/avocados/"
+    },
+    {
+      "Title": "bananas",
+      "Url": "https://nutritionfacts.org/topics/bananas/"
+    },
+    {
+      "Title": "berries",
+      "Url": "https://nutritionfacts.org/topics/berries/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "cabbage",
+      "Url": "https://nutritionfacts.org/topics/cabbage/"
+    },
+    {
+      "Title": "chocolate",
+      "Url": "https://nutritionfacts.org/topics/chocolate/"
+    },
+    {
+      "Title": "cocoa",
+      "Url": "https://nutritionfacts.org/topics/cocoa/"
+    },
+    {
+      "Title": "eggplant",
+      "Url": "https://nutritionfacts.org/topics/eggplant/"
+    },
+    {
+      "Title": "lemons",
+      "Url": "https://nutritionfacts.org/topics/lemons/"
+    },
+    {
+      "Title": "mango",
+      "Url": "https://nutritionfacts.org/topics/mango/"
+    },
+    {
+      "Title": "mushrooms",
+      "Url": "https://nutritionfacts.org/topics/mushrooms/"
+    },
+    {
+      "Title": "oatmeal",
+      "Url": "https://nutritionfacts.org/topics/oatmeal/"
+    },
+    {
+      "Title": "onions",
+      "Url": "https://nutritionfacts.org/topics/onions/"
+    },
+    {
+      "Title": "pears",
+      "Url": "https://nutritionfacts.org/topics/pears/"
+    },
+    {
+      "Title": "potatoes",
+      "Url": "https://nutritionfacts.org/topics/potatoes/"
+    },
+    {
+      "Title": "smoothies",
+      "Url": "https://nutritionfacts.org/topics/smoothies/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">The mushroom video I mentioned is </span><a href=\"https://nutritionfacts.org/video/is-it-safe-to-eat-raw-mushrooms/\"><span style=\"font-weight: 400\">Is It Safe to Eat Raw Mushrooms?</span></a><span style=\"font-weight: 400\">, and here is the breakfast recipe: </span><a href=\"https://nutritionfacts.org/video/dr-greger-in-the-kitchen-cran-chocolate-pomegranate-brol-bowl/\"><span style=\"font-weight: 400\">Cran-Chocolate Pomegranate BROL Bowl</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">If you’re interested, check out my </span><a href=\"https://www.youtube.com/watch?v=8grTXcdeZ-E&amp;t=22s\"><span style=\"font-weight: 400\">Bananas in Smoothies</span></a><span style=\"font-weight: 400\"> live presentation with Q&amp;A from last November. </span></p>\n<p><span style=\"font-weight: 400\">For more on smoothies, check out the </span><a href=\"https://nutritionfacts.org/topics/smoothies/\"><span style=\"font-weight: 400\">topic page</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

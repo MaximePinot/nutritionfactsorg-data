@@ -1,0 +1,183 @@
+{
+  "Title": "Does Aspartame Cause Cancer?",
+  "Url": "https://nutritionfacts.org/video/does-aspartame-cause-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/0smauGspMm4"
+  },
+  "UpdatedAt": "2017-03-01T12:00:31+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 34",
+    "Url": "https://nutritionfacts.org/volumes/volume-34/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How should we parse the conflicting human data on intake of aspartame (Nutrasweet) and non-Hodgkin’s lymphoma, multiple myeloma, leukemia, and pancreatic cancer?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe approval of aspartame has a controversial history. The FDA Commissioner concluded that there was “reasonable certainty that human [exposure] of aspartame…[would] not pose a risk of brain damage resulting in mental retardation, [hormonal] dysfunction, or both; and…will not cause brain tumors.” However, the FDA’s own Public Board of Inquiry withdrew their approval over cancer concerns. “Further[more], several FDA scientists advised against the approval, citing [the aspartame company’s] own brain tumor tests.” The Commissioner approved aspartame anyway, before he left the FDA, and enjoyed a “$1,000/day” consultancy position with the aspartame company’s PR firm. Then, “the FDA…actually prevented the National Toxicology Program…from doing” further cancer testing.\nSo, we were left with people battling over different rodent studies, some of which showed increased cancer risk, and some of which didn’t. Reminds me of the whole saccharin story, where it caused bladder cancer in rats, but not mice, leaving us with unanswerable questions like: so, are we more like a rat? Or, a mouse? We obviously had to put the aspartame question to the test in people, but the longest human safety study lasted only 18 weeks. We needed better human data.\nSince the largest rat study highlighted lymphomas and leukemias, the NIH-AARP study tracked blood cancer diagnoses. And, “[h]igher levels of aspartame intake were not associated with the risk of…cancer.” It’s a massive study, but was criticized for only evaluating relatively short-term exposure; people were only studied for five years. Hey—better than 18 weeks. But, how about 18 years?\nAll eyes then turned to Harvard, which started following the health and diets of medical professionals since before aspartame even came on the market. “In the most comprehensive long-term [population] study to evaluate the association between aspartame intake and cancer risk in humans,” they did find an “association between [both] diet soda and total aspartame intake and [the risk] of [both non-Hodgkin’s lymphoma] and multiple myeloma in men and leukemia in both men and women.”\nOkay, but, why more cancer in men than women? A similar result was found for pancreatic cancer and diet soda, but not soda in general. In fact, the only sugar tied to pancreatic cancer risk here was the “milk sugar lactose.” It was the diet soda. So, the female/male discrepancy could have just been a statistical fluke. But, they decided to dig a little deeper.\nAspartame is broken down into methanol, and the methanol is turned into formaldehyde, “a documented human carcinogen” by this enzyme here, alcohol dehydrogenase. The same enzyme that detoxifies regular alcohol is the same enzyme that converts methanol to formaldehyde.\nIs it possible men just have higher levels of this enzyme than women? Yes, that’s why women get higher blood alcohol levels drinking the same amount of alcohol. If you look at liver samples from men and women, there’s significantly greater enzyme activity in the men. So, maybe that explains the increased cancer risk in men—the higher conversion rates from aspartame to formaldehyde. But how do we test it?\nWell, ethanol—regular alcohol—competes with methanol for this same enzyme’s attention. In fact, regular alcohol is actually “used as an antidote for methanol poisoning.” So, men who don’t drink may have higher formaldehyde conversion rates from aspartame if this whole formaldehyde theory is correct, and indeed, consistent with this line of reasoning, it was the men that drank the least alcohol that appeared to have the greatest cancer risk from aspartame.\nA third cohort study has since been published, and found no increased lymphoma risk associated with diet soda during a ten-year follow-up period. So, no risk detected in the 18-week study, the 5-year study, or the 10-year study—only in the 18-year study. What should we make of all this?\nSome have called for a “re-evaluation” of the safety of aspartame. The horse is kind of out of the barn at this point, with “34,000,000 pounds” of the stuff produced annually, but that doesn’t mean we have to eat it—especially, perhaps, pregnant women and children.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Aune D. Soft drinks, aspartame, and the risk of cancer and cardiovascular disease. Am J Clin Nutr. 2012 Dec;96(6):1249-51.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23134894"
+    },
+    {
+      "Title": "Chan JM, Wang F, Holly EA. Sweets, sweetened beverages, and risk of pancreatic cancer in a large population-based case-control study. Cancer Causes Control. 2009 Aug;20(6):835-46.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19277880"
+    },
+    {
+      "Title": "Chrostek L, Jelski W, Szmitkowski M, Puchalski Z. Gender-related differences in hepatic activity of alcohol dehydrogenase isoenzymes and aldehyde dehydrogenase in humans. J Clin Lab Anal. 2003;17(3):93-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12696080"
+    },
+    {
+      "Title": "Cohen SM. Cell proliferation in the bladder and implications for cancer risk assessment. Toxicology. 1995 Sep 1;102(1-2):149-59.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/7482550"
+    },
+    {
+      "Title": "Davis DL, Ganter L, Weinkle J. Aspartame and incidence of brain malignancies. Cancer Epidemiol Biomarkers Prev. 2008 May;17(5):1295-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18483354"
+    },
+    {
+      "Title": "Frezza M, di Padova C, Pozzato G, Terpin M, Baraona E, Lieber CS. High blood alcohol levels in women. The role of decreased gastric alcohol dehydrogenase activity and first-pass metabolism. N Engl J Med. 1990 Jan 11;322(2):95-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/2248624"
+    },
+    {
+      "Title": "Hantson P, Wittebole X, Haufroid V. Ethanol therapy for methanol poisoning: duration and problems. Eur J Emerg Med. 2002 Sep;9(3):278-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12394629"
+    },
+    {
+      "Title": "Huff J, LaDou J. Aspartame bioassay findings portend human cancer hazards. Int J Occup Environ Health. 2007 Oct-Dec;13(4):446-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18085058"
+    },
+    {
+      "Title": "Lim U, Subar AF, Mouw T, Hartge P, Morton LM, Stolzenberg-Solomon R, Campbell D, Hollenbeck AR, Schatzkin A. Consumption of aspartame-containing beverages and incidence of hematopoietic and brain malignancies. Cancer Epidemiol Biomarkers Prev. 2006 Sep;15(9):1654-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16985027"
+    },
+    {
+      "Title": "Mallikarjun S, Sieburth RM. Aspartame and Risk of Cancer: A Meta-analytic Review. Arch Environ Occup Health. 2015;70(3):133-41.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24965331"
+    },
+    {
+      "Title": "McCullough ML, Teras LR, Shah R, Diver WR, Gaudet MM, Gapstur SM. Artificially and sugar-sweetened carbonated beverage consumption is not associated with risk of lymphoid neoplasms in older men and women. J Nutr. 2014 Dec;144(12):2041-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25342696"
+    },
+    {
+      "Title": "Roy M, Bailey B, Chalut D, Senécal PE, Gaudreault P. What are the adverse effects of ethanol used as an antidote in the treatment of suspected methanol poisoning in children? J Toxicol Clin Toxicol. 2003;41(2):155-61.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12733853"
+    },
+    {
+      "Title": "Schernhammer ES, Bertrand KA, Birmann BM, Sampson L, Willett WC, Feskanich D. Consumption of artificial sweetener- and sugar-containing soda and risk of lymphoma and leukemia in men and women. Am J Clin Nutr. 2012 Dec;96(6):1419-28.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23097267"
+    },
+    {
+      "Title": "Soffritti M, Belpoggi F, Degli Esposti D, Lambertini L, Tibaldi E, Rigano A. First experimental demonstration of the multipotential carcinogenic effects of aspartame administered in the feed to Sprague-Dawley rats. Environ Health Perspect. 2006 Mar;114(3):379-85.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16507461"
+    },
+    {
+      "Title": "Soffritti M, Padovani M, Tibaldi E, Falcioni L, Manservisi F, Belpoggi F. The carcinogenic effects of aspartame: The urgent need for regulatory re-evaluation. Am J Ind Med. 2014 Apr;57(4):383-97.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24436139"
+    },
+    {
+      "Title": "Supplemental Table 1. Multivariable relative risks of non-Hodgkin lymphoma, multiple myeloma, and leukemia by frequency of diet soda consumption, stratified by median alcohol intake, among men in the Health Professionals Follow-up Study, 1986-2006.",
+      "Url": "https://academic.oup.com/ajcn/article/96/6/1419/4571485#supplementary-data"
+    }
+  ],
+  "Acknowledgements": "Image credits: Emw via Wikipedia and WikimediaImages via pixabay. Images have been modified.",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "artificial sweeteners",
+      "Url": "https://nutritionfacts.org/topics/artificial-sweeteners/"
+    },
+    {
+      "Title": "aspartame",
+      "Url": "https://nutritionfacts.org/topics/aspartame/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "brain tumors",
+      "Url": "https://nutritionfacts.org/topics/brain-tumors/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    },
+    {
+      "Title": "food additives",
+      "Url": "https://nutritionfacts.org/topics/food-additives/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "lactose",
+      "Url": "https://nutritionfacts.org/topics/lactose/"
+    },
+    {
+      "Title": "leukemia",
+      "Url": "https://nutritionfacts.org/topics/leukemia/"
+    },
+    {
+      "Title": "lymphoma",
+      "Url": "https://nutritionfacts.org/topics/lymphoma/"
+    },
+    {
+      "Title": "multiple myeloma",
+      "Url": "https://nutritionfacts.org/topics/multiple-myeloma/"
+    },
+    {
+      "Title": "non-Hodgkin lymphoma",
+      "Url": "https://nutritionfacts.org/topics/non-hodgkin-lymphoma/"
+    },
+    {
+      "Title": "pancreatic cancer",
+      "Url": "https://nutritionfacts.org/topics/pancreatic-cancer/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    },
+    {
+      "Title": "saccharin",
+      "Url": "https://nutritionfacts.org/topics/saccharin/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "sweeteners",
+      "Url": "https://nutritionfacts.org/topics/sweeteners/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more information on the effects of aspartame, watch my videos <a href=\"https://nutritionfacts.org/video/aspartame-and-the-brain/\">Aspartame and the Brain</a> and <a href=\"https://nutritionfacts.org/video/aspartame-induced-fibromyalgia/\">Aspartame-Induced Fibromyalgia</a>. Interested in learning more about the effects of consuming diet soda? See, for example:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/diet-soda-and-preterm-birth/\">Diet Soda and Preterm Birth</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-diet-soda-increase-stroke-risk-as-much-as-regular-soda/\">Does Diet Soda Increase Stroke Risk as Much as Regular Soda?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-diet-soda-could-make-us-gain-weight/\">How Diet Soda Could Make Us Gain Weight</a></li>\n</ul>\n<p>What about Splenda? Or monk fruit sweetener? I’ve covered those, too: <a href=\"https://nutritionfacts.org/video/effect-of-sucralose-splenda-on-the-microbiome/\">Effect of Sucralose (Splenda) on the Microbiome</a> and <a href=\"https://nutritionfacts.org/video/is-monk-fruit-sweetener-safe/\">Is Monk Fruit Sweetener Safe?</a>.</p>\n<p>That said, it’s probably better if we get away from intense sweeteners—artificial or not. See <a href=\"https://nutritionfacts.org/video/unsweetening-the-diet/\">Unsweetening the Diet</a> for more on this.</p>\n<p>See <a href=\"https://nutritionfacts.org/video/eating-more-to-weigh-less/\">Eating More to Weigh Less</a> for a different calorie-reduction strategy.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

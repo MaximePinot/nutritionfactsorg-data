@@ -1,0 +1,123 @@
+{
+  "Title": "Do Vegans Have Lower Bone Mineral Density and Higher Risk of Osteoporosis?",
+  "Url": "https://nutritionfacts.org/video/do-vegans-have-lower-bone-mineral-density-and-higher-risk-of-osteoporosis/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/YPTSY7osQuo"
+  },
+  "UpdatedAt": "2022-09-12T11:50:52+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 59",
+    "Url": "https://nutritionfacts.org/volumes/volume-59/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Those eating plant-based tend to be so much slimmer that their bone mass may suffer.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: How does a vegan or vegetarian diet affect bone density, and what other factors contribute? Watch the video to find out.\nOsteoporosis is estimated to affect 200 million people worldwide. Literally meaning “porous bone”, osteo-porosis is a disease characterized by reduced bone formation, excessive bone loss, or a combination of both, leading to bone fragility and an increased risk of fractures. And bone mineral density is the most robust and consistent predictor of osteoporotic fracture. What can we eat to boost our bone density? Well, we know that increased consumption of plant foods is associated with increased bone mineral density.\nThere’s an extensive range of micronutrients and phytochemicals packaged within plants that can be powerful promoters of bone health. So, healthcare professionals should be encouraged to advise the increased consumption of plant-based foods, particularly in mid-life, irrespective of the clients’ underlying dietary pattern––meaning no matter how much meat or junk they eat, adding more healthy plant foods may help prevent the development of osteoporosis. \nOn the other hand, a more animal-source nutrient pattern has been associated with a higher risk of fractures, suggesting that a more animal-based diet is related to bone fragility. So, one would expect less osteoporosis in those eating plant-based diets. But you don’t know, until you put it to the test.\nThe “Incidence of Osteoporosis in Vegetarians and Omnivores”, the first study, published nearly 50 years ago, and…the density of the bones that were measured was significantly greater in the vegetarians than in the omnivores. In fact, the average bone densities of the vegetarians in their 70s was greater than the densities of the meat-eaters in their 50s. Bottom line, these results suggest that there is less likelihood of vegetarians developing osteoporosis in old age. \nTurns out, though, that the researchers screwed up. DEXA scanning, which is what we use now, didn’t come online until the 1980s. So, the researchers were just using regular x-rays, and they confused the readings, such that darker bones on x-rays got a higher score. But, that actually means less bone; so, their conclusion should have been the opposite of what they claimed. So, vegetarians had worse bone mineral density.\nFast forward about 40 years, by which time nine studies had been done on thousands of individuals. And all in all, the results suggest that vegetarian diets—particularly vegan diets––are associated with lower bone mineral density. But, the magnitude of the association is clinically insigniﬁcant, meaning the difference was so small as to not really matter out in the real world, reinforcing the fact that vegetarian diets have no clinically detrimental effect on bone health.\nAnd it is important to note that the findings of lower bone mineral density didn’t fully control for key confounding factors, such as for differences in body weight. We know that people who are obese have stronger bones. Why? Because they’re weight-lifting 50 pounds all day every day. Maybe 100 pounds. If you walked around with a 100-pound backpack every day, your bones would grow stronger, too. That’s how you build strong bones: weight-bearing exercise. So, people who weigh more have denser bones. And vegetarians, and especially vegans, have such low rates of obesity that no wonder, on average, they would have lower bone density, on average. They didn’t take weight into account, but if the difference they found isn’t even clinically significant, who cares? As of 2009, the answer to the question, “Is vegetarianism a serious risk factor for osteoporotic fracture?” The answer was no. Vegetarianism is not a serious risk factor.\nBy 2018, the latest meta-analysis on veganism, vegetarianism, and bone mineral density, we were up to 20 studies, involving tens of thousands of participants, and…, lower bone mineral density was found in studies of vegetarians and vegans compared to meat-eaters. The researchers conclude that vegetarian and vegan diets need to be appropriately planned to preserve their bones. But wait, did they account for the obesity thing?\nNo, they did not. They just used what are called crude risk ratios, meaning no adjustments for confounding factors like weight. So, they didn’t control for things like age, smoking, obesity, exercise, and so their results are really uninterpretable. But no one had gone through the trouble of going back through all those studies and making the proper adjustments, until now.\nThe title gives it away: “Differences in Bone Mineral Density between Vegetarians and Nonvegetarians Become Marginal when Accounting for Differences in Body Size Factors.” Yes, bone mineral density values were significantly lower among vegetarians than among nonvegetarians, just like is the case with nearly every study on bone mineral density and excess body weight. But forget clinical significance; these differences even lost statistical significance upon adjustment for body size factors, suggesting that lower bone mass among vegetarians is in larger parts explained by their lower BMI and waist circumference. Thus, it’s not so much the composition of the diets of vegetarians and vegans as much as it is the fact that they become so much slimmer.\nNow, a small but statistically significant difference remained for total lower spine density––a difference of 0.03. This was dismissed as having little clinical relevance, but is that true? If you look at the reproducibility of bone mineral density measurements in daily medical practice, you can see, if you do repeat tests back to back, there’s some scatter in the measurements. And so, a significant difference really has to be more than the inherent variation, and indeed, expressed as the smallest detected difference, you really need a BMD disparity of at least 0.05 at the spine before it can be considered a significant change. And so indeed, there does appear to be little clinical relevance. However, even if vegetarians and vegans basically have the same bone density at the same weight, everyone who is skinny is at risk. Low BMI is a risk factor for fractures; so, all persons in a low body weight category consuming any kind of diet should be monitored for osteoporosis.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Appleby PN, Key TJA. Letter: Veganism, vegetarianism, bone mineral density, and fracture risk: a systematic review and meta-analysis. Nutr Rev. 2019;77(6):451.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31222366/"
+    },
+    {
+      "Title": "Berg J, Seyedsadjadi N, Grant R. Increased Consumption of Plant Foods Is Associated with Increased Bone Mineral Density. J Nutr Health Aging. 2020;24(4):388-97.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32242206/"
+    },
+    {
+      "Title": "Ellis FR, Holesh S, Ellis JW. Incidence of osteoporosis in vegetarians and omnivores. Am J Clin Nutr. 1972;25(6):555-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/5033736/"
+    },
+    {
+      "Title": "Ho-Pham LT, Nguyen ND, Nguyen TV. Effect of vegetarian diets on bone mineral density: a Bayesian meta-analysis. Am J Clin Nutr. 2009;90(4):943-50.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19571226/"
+    },
+    {
+      "Title": "Iguacel I, Miguel-Berges ML, Gómez-Bruton A, Moreno LA, Julián C. Veganism, vegetarianism, bone mineral density, and fracture risk: a systematic review and meta-analysis. Nutr Rev. 2019;77(1):1-18.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30376075/"
+    },
+    {
+      "Title": "Karavasiloglou N, Selinger E, Gojda J, Rohrmann S, Kühn T. Differences in Bone Mineral Density between Adult Vegetarians and Nonvegetarians Become Marginal when Accounting for Differences in Anthropometric Factors. J Nutr. 2020;150(5):1266-71.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32055831/"
+    },
+    {
+      "Title": "Lanham-New SA. Is \"vegetarianism\" a serious risk factor for osteoporotic fracture?. Am J Clin Nutr. 2009;90(4):910-1.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19726592/"
+    },
+    {
+      "Title": "Lodder MC, Lems WF, Ader HJ, et al. Reproducibility of bone mineral density measurement in daily practice. Ann Rheum Dis. 2004;63(3):285-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14962964/"
+    },
+    {
+      "Title": "Meema HE. What's good for the heart is not good for the bones? J Bone Miner Res. 1996;11(5):704.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9157787/"
+    },
+    {
+      "Title": "Melaku YA, Gill TK, Appleton SL, Taylor AW, Adams R, Shi Z. Prospective Associations of Dietary and Nutrient Patterns with Fracture Risk: A 20-Year Follow-Up Study. Nutrients. 2017;9(11):1198.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29088104/"
+    },
+    {
+      "Title": "Qiao D, Li Y, Liu X, et al. Association of obesity with bone mineral density and osteoporosis in adults: a systematic review and meta-analysis. Public Health. 2020;180:22-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31837611/"
+    },
+    {
+      "Title": "Shapses SA. Do We Need to Be Concerned about Bone Mineral Density in Vegetarians and Vegans? J Nutr. 2020;150(5):983-4.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32271915/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "body weight",
+      "Url": "https://nutritionfacts.org/topics/body-weight/"
+    },
+    {
+      "Title": "bone fractures",
+      "Url": "https://nutritionfacts.org/topics/bone-fractures/"
+    },
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "bone loss",
+      "Url": "https://nutritionfacts.org/topics/bone-loss/"
+    },
+    {
+      "Title": "bone mineral density",
+      "Url": "https://nutritionfacts.org/topics/bone-mineral-density/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "osteoporosis",
+      "Url": "https://nutritionfacts.org/topics/osteoporosis/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This video sets the stage for my later videos, where I go into more detail on bone fracture rates: <a href=\"https://nutritionfacts.org/video/do-vegans-have-lower-bone-density-and-more-fractures/\">Do Vegans Have Lower Bone Density and More Fractures?</a> and <a href=\"https://nutritionfacts.org/video/vitamin-d-may-explain-higher-bone-fracture-risk-in-vegans/\">Vitamin D May Explain Higher Bone Fracture Risk in Vegans</a>.</p>\n<p><span style=\"font-weight: 400\">For more on bone health, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/alkaline-diets-animal-protein-and-calcium-loss/\"><span style=\"font-weight: 400\">Alkaline Diets, Animal Protein, and Calcium Loss</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/phytates-for-the-prevention-of-osteoporosis/\"><span style=\"font-weight: 400\">Phytates for the Prevention of Osteoporosis</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/is-milk-good-for-our-bones/\"><span style=\"font-weight: 400\">Is Milk Good for Our Bones?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/are-calcium-supplements-safe/\"><span style=\"font-weight: 400\">Are Calcium Supplements Safe?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/are-calcium-supplements-effective/\"><span style=\"font-weight: 400\">Are Calcium Supplements Effective?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/almonds-for-osteoporosis/\"><span style=\"font-weight: 400\">Almonds for Osteoporosis</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/prunes-for-osteoporosis/?queryID=0c77739e18c62aee013893077a68c3ea/\"><span style=\"font-weight: 400\">Prunes for Osteoporosis</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/fall-prevention-is-the-most-important-thing-for-preventing-osteoporosis-bone-fractures/\">Fall Prevention Is the Most Important Thing for Preventing Osteoporosis Bone Fractures</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

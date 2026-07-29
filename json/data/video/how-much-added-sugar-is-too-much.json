@@ -1,0 +1,115 @@
+{
+  "Title": "How Much Added Sugar Is Too Much?",
+  "Url": "https://nutritionfacts.org/video/how-much-added-sugar-is-too-much/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/zbfx6qRPidA"
+  },
+  "UpdatedAt": "2014-11-21T12:00:29+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 21",
+    "Url": "https://nutritionfacts.org/volumes/volume-21/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Are table sugar and high fructose corn syrup just empty calories or can they be actively harmful?",
+  "Transcript": "In 1776—at the time of the American Revolution—Americans consumed about 4 lbs of sugar per person each year. By 1850, this had risen to 20 lbs, and by 1994, to 120 lbs, and now we’re closer to 160. Half of that is fructose, taking up about 10% of our diet. This is not from eating apples, but rather the fact that we’re each guzzling the equivalent of 16-oz soft drink every day; that’s about 50 gallons a year.\nEven researchers paid by the likes of the Dr. Pepper Snapple Group and The Coca- Cola Company, acknowledge that sugar is empty calories, containing no essential micronutrients, and therefore if we’re trying to reduce calorie intake, reducing sugar consumption is obviously the place to start.\nConcern has been raised, though, that sugar calories may be worst than just empty. A growing body of scientific evidence suggests that the fructose added to foods and beverages in the form of table sugar and high fructose corn syrup in large enough amounts can trigger processes that lead to liver toxicity and other chronic diseases.\nFructose hones in like a laser beam on the liver, and like alcohol, fructose can increase the fat in the liver, increasing the risk for nonalcoholic fatty liver disease, which is one of the most remarkable medical developments over the past 3 decades—the emergence of fatty liver inflammation as a public health problem here and around the globe.\nThese may not be messages that the sugar industry or beverage makers want to hear. In response, the director-general of the industry front group World Sugar Research Organization, replied “Overconsumption of anything is harmful, including of water and air.” Yes, the overconsumption of sugar compared to breathing too much.\nAs one author expressed, I suppose it is natural for the vast and powerful sugar interests to seek to protect themselves, since sugar takes up the single greater percentage of our daily caloric intake.\nThe American Heart Association is trying to change that. Under their new sugar guidelines, most American women should consume no more than 100 calories per day from added sugars, and most American men should eat or drink no more than 150. That means one can of soda could take us over the top for the day. The new draft guidelines from the World Health Organization suggests we could benefit from restricting added sugars to under 5% of calories. That’s about 6 spoonfuls of added sugar. I don’t know why they don’t just recommend zero as optimal, but you can get a sense of how radical their proposal is given that this is how many we consume right now.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "B Owens. Storm brewing over WHO sugar proposal. Nature. 2014 Mar 13;507(7491):150.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24622183"
+    },
+    {
+      "Title": "D S Ludwig. The glycemic index: physiological mechanisms relating to obesity, diabetes, and cardiovascular disease. JAMA. 2002 May 8;287(18):2414-23.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11988062"
+    },
+    {
+      "Title": "G A Bray, B M Popkin. Dietary sugar and body weight: have we reached a crisis in the epidemic of obesity and diabetes?: health be damned! Pour on the sugar. Diabetes Care. 2014 Apr;37(4):950-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24652725"
+    },
+    {
+      "Title": "G A Bray. Energy and fructose from beverages sweetened with sugar or high-fructose corn syrup pose a health risk for some people. Adv Nutr. 2013 Mar 1;4(2):220-5.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23493538"
+    },
+    {
+      "Title": "M K Hellerstein. Mitigating factors and metabolic mechanisms in fructose-induced nonalcoholic fatty liver disease: the next challenge. Am J Clin Nutr. 2012 Nov;96(5):951-2.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23053554"
+    },
+    {
+      "Title": "R C Cottrell. Sugar: an excess of anything can harm. Nature. 2012 Mar 8;483:158.",
+      "Url": "http://www.nature.com/nature/journal/v483/n7388/full/483158d.html"
+    },
+    {
+      "Title": "R H Lustig, L A Schmidt, C D Brindis. Public health: The toxic truth about sugar. Nature. 2012 Feb 2;482: 27–29.",
+      "Url": "http://www.nature.com/nature/journal/v482/n7383/full/482027a.html%3FWT.ec_id=NATURE-20120202?message-global=remove&WT.ec_id=NATURE-20120202"
+    },
+    {
+      "Title": "R K Johnson, M Brands, B V Howard, M Lefebre, R H Lustig, F Sacks, L M Steffen, J Wylie-Rosett: American Heart Association Nutrition Committee of the Council on Nutrition, Physical Activity, and Metabolism and the Council on Epidemiology and Prevention. Dietary sugars intake and cardiovascular health: a scientific statement from the American Heart Association. Circulation. 2009 Sep 15;120(11):1011-20.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19704096"
+    },
+    {
+      "Title": "R Kahn, J L Sievenpiper. Dietary sugar and body weight: have we reached a crisis in the epidemic of obesity and diabetes?: we have, but the pox on sugar is overwrought and overworked. Diabetes Care. 2014 Apr;37(4):957-62.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24652726"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "Coca-Cola",
+      "Url": "https://nutritionfacts.org/topics/cocacola/"
+    },
+    {
+      "Title": "fatty liver disease",
+      "Url": "https://nutritionfacts.org/topics/fatty-liver-disease/"
+    },
+    {
+      "Title": "fructose",
+      "Url": "https://nutritionfacts.org/topics/fructose/"
+    },
+    {
+      "Title": "high fructose corn syrup",
+      "Url": "https://nutritionfacts.org/topics/high-fructose-corn-syrup/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "liver inflammation",
+      "Url": "https://nutritionfacts.org/topics/liver-inflammation/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "World Health Organization",
+      "Url": "https://nutritionfacts.org/topics/world-health-organization/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This underscores why a whole foods, plant-based diet is preferable to a plant-based diet that includes processed junk.</p>\n<p>I’ve touched on the harm of refined sugars before in:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/flesh-and-fructose/\">Flesh and Fructose</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-sugary-foods-addictive/\">Are Sugary Foods Addictive?</a></li>\n<li><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=530\">Mercury in Corn Syrup?</a>               </li>\n<li><a href=\"https://nutritionfacts.org/video/dietary-guidelines-pushback-from-the-sugar-salt-and-meat-industries/\">Dietary Guidelines: Pushback from the Sugar, Salt, and Meat Industries</a></li>\n</ul>\n<p>But what about the <a href=\"https://nutritionfacts.org/video/if-fructose-is-bad-what-about-fruit/\">fructose in fruit</a>? How much <a href=\"https://nutritionfacts.org/video/how-much-fruit-is-too-much/\">fruit is too much</a>? I also have a newer video on the epidemic of <a href=\"https://nutritionfacts.org/video/prevent-non-alcoholic-fatty-liver-disease/\">nonalcoholic fatty liver disease</a> and what we can do about it.</p>\n<p>And check out my new 2019 video, <a href=\"https://nutritionfacts.org/video/does-sugar-lead-to-weight-gain/\">Does Sugar Lead to Weight Gain</a>? And in 2020, I did a new video on added sugar: <a class=\"textEditor-link\" href=\"https://nutritionfacts.org/video/the-recommended-daily-added-sugar-intake/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" data-is-link=\"https://nutritionfacts.org/video/the-recommended-daily-added-sugar-intake/\">The Recommended Added Daily Sugar Intake</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

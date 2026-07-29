@@ -1,0 +1,131 @@
+{
+  "Title": "Vegetarians and Stroke Risk Factors—Vitamin D?",
+  "Url": "https://nutritionfacts.org/video/vegetarians-and-stroke-risk-factors-vitamin-d/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/w1yl-v7Z5I4"
+  },
+  "UpdatedAt": "2020-08-10T11:50:06+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 50",
+    "Url": "https://nutritionfacts.org/volumes/volume-50/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Could the apparent increased stroke risk in vegetarians be reverse causation? And what about vegetarians versus vegans?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe risks of heart disease and stroke in meat eaters versus vegetarians over 18 years of follow-up. Not surprisingly, vegetarian diets were associated with less heart disease––10 fewer cases per 1,000 people per decade compared to meat-eaters––but vegetarian diets were associated with three more cases of stroke. So, eating vegetarian appears to lower the risk of cardiovascular disease by seven overall. But why the extra stroke risk? Could it just be reverse causation?\nFor example, when studies have shown higher mortality among those who quit smoking compared to continuing smokers, we suspect reverse causality. When we see a link between quitting smoking and dying, instead of quitting smoking leading to people dying, more likely dying led people to quit smoking. It’s the same reason why nondrinkers can appear to have more liver cirrhosis, because it was their failing liver that led them to stop drinking. This is the so-called “sick-quitter effect.” And you can see it when people quit meat too.\nSee how new vegetarians can appear to have more heart disease than non-vegetarians? Well, why would some older person all of a sudden start eating vegetarian? Maybe it’s because they’ve just been diagnosed with heart disease; so, that may be why there appears to be higher rates at first: the sick quitter effect. To control for that, you can throw out the first five years of data to make sure the diet has a chance to start working, and indeed, when you do that, the true effect comes clear: a significant drop in heart disease risk\nSo, does that likely explain the apparent increased stroke risk? No, because they still found higher stroke risk, even after the first five years. Huh, okay; then what’s going on? Let’s dive deeper into the data to look for clues. This is what you get when you break down the results by type of stroke and type of vegetarian—vegetarian versus vegan.\nThere are two main types of strokes: ischemic strokes and hemorrhagic stroke. Most are ischemic strokes, or clotting strokes, where an artery in the brain gets clogged off, as opposed to hemorrhagic strokes, or bleeding strokes, where a blood vessel in the brain ruptures. In the United States, it’s about 90:10; 9 out of 10 strokes are clotting, one out of 10 the bleeding type. And that’s what the vegetarians appeared to have significantly more of. Now the vegans didn’t, in fact, statistically have significantly higher risk of any kind of stroke. But that’s terrible news for vegans—vegans have the same stroke risk as meat-eaters? What’s going on? What’s so increasing their stroke risk that it’s offsetting all their natural advantages? And the same could be asked of vegetarians.\nEven though this was the first study of vegetarian stroke incidence, there have been about a half dozen studies on stroke mortality, and the various meta-analyses have consistently found significantly lower heart disease risk, but the lower stroke mortality was not statistically significant. Now, with this new study, vegetarians can take comfort in the fact that at least they don’t have a higher risk of dying from stroke. But that’s terrible news for vegetarians—statistically vegetarians have the same stroke death rate as meat-eaters? What’s going on? What’s so increasing their stroke risk that it’s offsetting all their natural advantages?\nLet’s run through a couple possibilities. If you look at the vitamin D levels of vegetarians and vegans, they do tend to run consistently lower than meat-eaters, and lower vitamin D status is associated with an increased risk of stroke. But who has higher levels of the sunshine vitamin? Those who are outside running around and exercising, and maybe that’s why their stroke risk is better. What we need are randomized studies, and when you look at people who have been effectively randomized at birth to have lifelong lower vitamin D levels just genetically, you do not see a clear indicator of increased stroke risk; so, the link between vitamin D and stroke is probably not cause-and-effect.\nAnd so, in terms of an answer to our question, vitamin D doesn’t seem to fit. We’ll explore some other possibilities, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Afzal S, Nordestgaard BG. Vitamin D, Hypertension, and Ischemic Stroke in 116 655 Individuals From the General Population: A Genetic Study. Hypertension. 2017;",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28760944"
+    },
+    {
+      "Title": "Benjamin EJ, Muntner P, Alonso A, et al. Heart Disease and Stroke Statistics-2019 Update: A Report From the American Heart Association. Circulation. 2019;139(10):e56-e528.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30700139"
+    },
+    {
+      "Title": "Crowe FL, Steur M, Allen NE, Appleby PN, Travis RC, Key TJ. Plasma concentrations of 25-hydroxyvitamin D in meat eaters, fish eaters, vegetarians and vegans: results from the EPIC-Oxford study. Public Health Nutr. 2011;14(2):340-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20854716"
+    },
+    {
+      "Title": "Dinu M, Abbate R, Gensini GF, Casini A, Sofi F. Vegetarian, vegan diets and multiple health outcomes: A systematic review with meta-analysis of observational studies. Crit Rev Food Sci Nutr. 2017;57(17):3640-3649.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26853923"
+    },
+    {
+      "Title": "Doll R, Peto R, Boreham J, Sutherland I. Mortality from cancer in relation to smoking: 50 years observations on British doctors. Br J Cancer. 2005;92(3):426-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15668706"
+    },
+    {
+      "Title": "Kim J, Fann DY, Seet RC, Jo DG, Mattson MP, Arumugam TV. Phytochemicals in Ischemic Stroke. Neuromolecular Med. 2016;18(3):283-305.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27193940"
+    },
+    {
+      "Title": "Mann JI. Optimizing the plant-based diet. Asia Pac J Clin Nutr. 2000;9 Suppl 1:S60-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24398280"
+    },
+    {
+      "Title": "Rehm J, Taylor B, Mohapatra S, et al. Alcohol as a risk factor for liver cirrhosis: a systematic review and meta-analysis. Drug Alcohol Rev. 2010;29(4):437-45.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20636661"
+    },
+    {
+      "Title": "Satija A, Hu FB. Plant-based diets and cardiovascular health. Trends Cardiovasc Med. 2018;28(7):437-441.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29496410"
+    },
+    {
+      "Title": "Tong TYN, Appleby PN, Bradbury KE, et al. Risks of ischaemic heart disease and stroke in meat eaters, fish eaters, and vegetarians over 18 years of follow-up: results from the prospective EPIC-Oxford study. BMJ. 2019;366:l4897.",
+      "Url": "https://ora.ox.ac.uk/objects/uuid:fe7592b6-c85c-4dbe-af3b-70a4ae17da01/download_file?file_format=pdf&safe_filename=EPIC_Oxford_Supplementary_BMJ_R5_final.pdf&type_of_work=Journal+article"
+    },
+    {
+      "Title": "Tong TYN, Appleby PN, Bradbury KE, et al. Risks of ischaemic heart disease and stroke in meat eaters, fish eaters, and vegetarians over 18 years of follow-up: results from the prospective EPIC-Oxford study. BMJ. 2019;366:l4897.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31484644"
+    },
+    {
+      "Title": "Zhou R, Wang M, Huang H, Li W, Hu Y, Wu T. Lower Vitamin D Status Is Associated with an Increased Risk of Ischemic Stroke: A Systematic Review and Meta-Analysis. Nutrients. 2018;10(3)",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29495586"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "liver health",
+      "Url": "https://nutritionfacts.org/topics/liver-health/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>So far in this series, we’ve looked at <a href=\"https://nutritionfacts.org/video/what-to-eat-for-stroke-prevention/\">what to eat</a> and <a href=\"https://nutritionfacts.org/video/what-not-to-eat-for-stroke-prevention/\">not eat</a> for stroke prevention, and whether <a href=\"https://nutritionfacts.org/video/do-vegetarians-really-have-higher-stroke-risk/\">vegetarians really do have a higher stroke risk</a>.</p>\n<p>It may be worth reiterating that vegetarians don’t have a higher risk of <em>dying</em> from a stroke, but do appear to be at higher risk of <em>having</em> a stroke. How is that possible? Meat is a risk factor for stroke, so how could cutting out meat lead to more strokes? There must be something about eating plant-based that so increases our stroke risk it counterbalances the meat-free benefit. Might it be because we don’t eat fish? We turn to omega 3s next: <a style=\"background-color: #ffffff;font-size: 1rem\" href=\"https://nutritionfacts.org/video/vegetarians-and-stroke-risk-factors-omega-3s/\">Vegetarians and Stroke Risk Factors—Omega 3s?</a></p>\n<p>And then, coming up:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/vegetarians-and-stroke-risk-factors-vegan-junk-food/\">Vegetarians and Stroke Risk Factors—Vegan Junk Food?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vegetarians-and-stroke-risk-factors-saturated-fat/\">Vegetarians and Stroke Risk Factors—Saturated Fat?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vegetarians-and-stroke-risk-factors-animal-protein/\">Vegetarians and Stroke Risk Factors—Animal Protein?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vegetarians-and-stroke-risk-factors-vitamin-b12-homocysteine/\">Vegetarians and Stroke Risk Factors—Vitamin B12 &amp; Homocysteine?</a></li>\n</ul>\n<p>If you want to just get to the conclusion, these videos are all available on a digital download <a href=\"https://drgreger.org/collections/downloads/products/vegetarian-stroke-risk-digital\">here</a>.</p>\n<p>2023 Update: I recently put out a new video, <a href=\"https://nutritionfacts.org/video/update-on-vegetarian-stroke-risk/\">Update on Vegetarian Stroke Risk</a>. </p>\n<p>There certainly are benefits to vitamin D, though.  Here is a sampling of videos where I explore the evidence:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/will-you-live-longer-if-you-take-vitamin-d-supplements/\">Will You Live Longer if You Take Vitamin D Supplements?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-vit-d-supplements-help-diabetes-weight-loss-blood-pressure/\">Do Vitamin D Supplements Help with Diabetes, Weight Loss, &amp; Blood Pressure?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-vitamin-d-should-you-take/\">How Much Vitamin D Should You Take?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-optimal-dose-of-vitamin-d-based-on-natural-levels/\">The Optimal Dose of Vitamin D Based on Natural Levels</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-way-to-get-vitamin-d-sun-supplements-or-salons/\">The Best Way to Get Vitamin D: Sun, Supplements, or Salons?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-risks-and-benefits-of-sensible-sun-exposure/\">The Risks and Benefits of Sensible Sun Exposure</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-vitamin-d-supplements-be-taken-to-prevent-falls/\">Should Vitamin D Supplements Be Taken to Prevent Falls in the Elderly?</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

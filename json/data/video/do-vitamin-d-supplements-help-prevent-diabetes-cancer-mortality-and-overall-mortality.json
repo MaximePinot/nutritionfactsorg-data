@@ -1,0 +1,155 @@
+{
+  "Title": "Do Vitamin D Supplements Help Prevent Diabetes, Cancer Mortality, and Overall Mortality?",
+  "Url": "https://nutritionfacts.org/video/do-vitamin-d-supplements-help-prevent-diabetes-cancer-mortality-and-overall-mortality/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/xhT3XIBWuJc"
+  },
+  "UpdatedAt": "2023-12-13T12:50:07+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 64",
+    "Url": "https://nutritionfacts.org/volumes/volume-64/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Randomized interventional trials are necessary to establish cause-and-effect.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe VITAL study was a randomized trial to test whether vitamin D supplementation could prevent cardiovascular disease or cancer. It also tested fish oil, and convincingly showed that the use of omega 3s is not effective in preventing cardiovascular disease. But normal-weight study participants randomized to vitamin D did end up having a lower incidence of cancer––over a period of five years, a 24 percent lower risk of getting cancer. But overweight or obese individuals did not. The dose used in the study—2,000 international units a day—may not have led to similar results in overweight and obese participants due to the higher vitamin D requirements of such individuals. Two thousand IU a day may be enough to get normal weight people up to target, but obese adults may need at least two to three times more, a dose closer to 3,000 to 6,000 IU a day to reach the same blood levels.\nA similar result was found in the largest-ever vitamin D diabetes trial, where prediabetics randomized to take 4,000 IU a day reduced their risk of slipping into full-blown diabetes by 29 percent. But it seemed to work only if they were not obese. That’s why, in the future, perhaps vitamin D clinical trials should be based on achieved vitamin D concentrations in the blood, rather than one-size-fits-all dosing.\nFor example, if you look at vitamin D concentrations achieved in breast cancer trials, regardless of which group the subjects were randomized to, there was a whopping 82 percent lower incidence rate of breast cancer for women with vitamin D concentrations equal to 60 ng/ml and greater, vs less than 20 ng/ml. And the higher their levels were, the lower their breast cancer risk seemed to fall. But if you just lump everyone together, it’s no longer a randomized controlled trial, and we get back to the issue of confounding––like maybe the women only had higher levels of the sunshine vitamin because they were outside jogging every day. And we know that physical activity alone may decrease breast cancer risk.\nThe finding of benefit in certain subgroups of study individuals, like less cancer among those who are not overweight, or less diabetes for those who are not obese, are examples of secondary analyses, where you go back after the trial is over to see whether it may have worked in some subset even if the intervention had flopped overall. This isn’t uncommon, but such results must be interpreted cautiously, because you can slice and dice practically any data set and come up with some sort of spurious fluke if you try hard enough. But if you put all the randomized controlled trials on vitamin D supplementation for the prevention of type 2 diabetes together, daily supplementation with 1,000 or more IU of vitamin D does indeed reduce the risk of diabetes among prediabetics. In the three large trials that were specifically designed and conducted for the prevention of diabetes, vitamin D supplementation reduced the risk of developing diabetes by about 10 percent overall.\nWhat about putting all  the randomized controlled vitamin D studies together for cancer prevention? Those randomized to take vitamin D supplements were 13 percent less likely to die from cancer over the subsequent 3 to 10 years. Now, vitamin D supplementation wasn’t able to reduce the risk of getting cancer, but it was shown to significantly reduce the risk of dying from cancer. It’s a tiny benefit, basically taking these people’s chances of dying from cancer over a span of a few years from around 24 in 1,000 to like 21 in 1,000. But it’s a beneficial effect on lowering cancer mortality, nonetheless, based on a comprehensive analysis of 10 randomized controlled trials involving more than 80,000 participants.\nNote that a 13 percent reduction in cancer mortality doesn’t necessarily mean you live any longer. Since vitamin D supplements don’t help heart disease, killer #1, you would only expect your lifespan to significantly benefit if your heart disease risk is really low. Only if you’re protected from heart disease would killer #2 take on a more prominent role, or if there was some other reason you were at particularly high cancer risk.\nFor those getting inadequate sunshine, I recommend 2,000 IU a day of vitamin D3. Daily dosing is important, since taking monthly or yearly mega-doses doesn’t seem to work for reducing cancer mortality. And vitamin D3 may be preferable. Historically, it has been suggested that there is no difference in terms of effectiveness between the two types you can buy––vitamins D2 or D3. But it turns out that vitamin D3 may work better, as it can increase vitamin D levels by about 75 percent, compared to the same dose of vitamin D2 only increasing levels by about a third. So, it looks like vitamin D3 is about twice as effective at raising blood levels.\nDoes it matter if you get powder-filled capsules, oil-based preparations, or water-based preparations of vitamin D? Nope, they all appear to raise your vitamin D levels the same.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Barbarawi M, Zayed Y, Barbarawi O, et al. Effect of vitamin d supplementation on the incidence of diabetes mellitus. J Clin Endocrinol Metab. 2020;105(8):dgaa335.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32491181/"
+    },
+    {
+      "Title": "Chen X, Wang Q, Zhang Y, Xie Q, Tan X. Physical activity and risk of breast cancer: a meta-analysis of 38 cohort studies in 45 study reports. Value Health. 2019;22(1):104-128.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30661625/"
+    },
+    {
+      "Title": "Grant WB, Boucher BJ, Bhattoa HP, Lahore H. Why vitamin D clinical trials should be based on 25-hydroxyvitamin D concentrations. J Steroid Biochem Mol Biol. 2018;177:266-269.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28842142/"
+    },
+    {
+      "Title": "Grant WB, Boucher BJ. Health outcomes with vitamin D supplementation. JAMA. 2020;323(16):1619.",
+      "Url": "https://jamanetwork.com/journals/jama/article-abstract/2764991"
+    },
+    {
+      "Title": "Grant WB, Boucher BJ. Why Secondary Analyses in Vitamin D Clinical Trials Are Important and How to Improve Vitamin D Clinical Trial Outcome Analyses-A Comment on \"Extra-Skeletal Effects of Vitamin D, Nutrients 2019, 11, 1460\". Nutrients. 2019;11(9):2182.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31514355/"
+    },
+    {
+      "Title": "Grant WB. The latest evidence from vitamin D intervention trials for non-skeletal outcomes. Calcif Tissue Int. 2020;106(5):574-575.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32034453/"
+    },
+    {
+      "Title": "Infante M, Ricordi C, Baidal DA, et al. VITAL study: an incomplete picture? Eur Rev Med Pharmacol Sci. 2019;23(7):3142-3147.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31002167/"
+    },
+    {
+      "Title": "Keaney JF, Rosen CJ. VITAL signs for dietary supplementation to prevent cancer and heart disease. N Engl J Med. 2019;380(1):91-93.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30415594/"
+    },
+    {
+      "Title": "Keum N, Chen QY, Lee DH, Manson JE, Giovannucci E. Vitamin D supplementation and total cancer incidence and mortality by daily vs. infrequent large-bolus dosing strategies: a meta-analysis of randomised controlled trials. Br J Cancer. 2022;127(5):872-878.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35676320/"
+    },
+    {
+      "Title": "Keum N, Lee DH, Greenwood DC, Manson JE, Giovannucci E. Vitamin D supplementation and total cancer incidence and mortality: a meta-analysis of randomized controlled trials. Ann Oncol. 2019;30(5):733-743.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30796437/"
+    },
+    {
+      "Title": "Manson JE, Bassuk SS, Buring JE, VITAL Research Group. Principal results of the VITamin D and OmegA-3 TriaL (VITAL) and updated meta-analyses of relevant vitamin D trials. J Steroid Biochem Mol Biol. 2020;198:105522.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31733345/"
+    },
+    {
+      "Title": "Manson JE, Cook NR, Lee IM, et al. Vitamin D supplements and prevention of cancer and cardiovascular disease. N Engl J Med. 2019;380(1):33-44.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30415629/"
+    },
+    {
+      "Title": "McDonnell SL, Baggerly CA, French CB, et al. Breast cancer risk markedly lower with serum 25-hydroxyvitamin D concentrations ≥60 vs <20 ng/ml (150 vs 50 nmol/L): Pooled analysis of two randomized trials and a prospective cohort. PLoS One. 2018;13(6):e0199265.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29906273/"
+    },
+    {
+      "Title": "Pittas AG, Jorde R, Kawahara T, Dawson-Hughes B. Vitamin D supplementation for prevention of type 2 diabetes mellitus: to D or not to D? J Clin Endocrinol Metab. 2020;105(12):3721-3733.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32844212/"
+    },
+    {
+      "Title": "Tripkovic L, Wilson LR, Hart K, et al. Daily supplementation with 15 μg vitamin D2 compared with vitamin D3 to increase wintertime 25-hydroxyvitamin D status in healthy South Asian and white European women: a 12-wk randomized, placebo-controlled food-fortification trial. Am J Clin Nutr. 2017;106(2):481-490.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28679555/"
+    },
+    {
+      "Title": "Tripkovic L. Vitamin D 2 vs. vitamin D 3 : Are they one and the same?: Vitamin D 2 vs. Vitamin D 3. Nutr Bull. 2013;38(2):243-248.",
+      "Url": "https://onlinelibrary.wiley.com/doi/10.1111/nbu.12029"
+    },
+    {
+      "Title": "Zhang X, Niu W. Meta-analysis of randomized controlled trials on vitamin D supplement and cancer incidence and mortality. Biosci Rep. 2019;39(11):BSR20190369.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31696224/"
+    },
+    {
+      "Title": "Žmitek K, Hribar M, Hristov H, Pravst I. Efficiency of vitamin D supplementation in healthy adults is associated with body mass index and baseline serum 25-hydroxyvitamin D level. Nutrients. 2020;12(5):1268.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32365732/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cardiovascular health",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-health/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "omega-3 fatty acids",
+      "Url": "https://nutritionfacts.org/topics/omega-3-fatty-acids/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">My other recent video on vitamin D is</span> <a href=\"https://nutritionfacts.org/video/vitamin-d-supplements-tested-for-copd-heart-disease-depression-obesity-and-cancer-survival/\"><span style=\"font-weight: 400\">Vitamin D Supplements Tested for COPD, Heart Disease, Depression, Obesity, and Cancer Survival</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">Our</span> <a href=\"https://nutritionfacts.org/optimum-nutrient-recommendations/\"><span style=\"font-weight: 400\">Optimum Nutrient Recommendations page</span></a><span style=\"font-weight: 400\"> has more information on vitamin D supplementation.</span></p>\n<p><span style=\"font-weight: 400\">You may also be interested in these videos on the topic:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-optimal-dose-of-vitamin-d-based-on-natural-levels/\"><span style=\"font-weight: 400\">The Optimal Dose of Vitamin D Based on Natural Levels</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-best-way-to-get-vitamin-d-sun-supplements-or-salons/\"><span style=\"font-weight: 400\">The Best Way to Get Vitamin D: Sun, Supplements, or Salons?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-risks-and-benefits-of-sensible-sun-exposure/\"><span style=\"font-weight: 400\">The Risks and Benefits of Sensible Sun Exposure</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

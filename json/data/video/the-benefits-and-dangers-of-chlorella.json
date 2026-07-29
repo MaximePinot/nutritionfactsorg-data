@@ -1,0 +1,127 @@
+{
+  "Title": "The Benefits and Dangers of Chlorella",
+  "Url": "https://nutritionfacts.org/video/the-benefits-and-dangers-of-chlorella/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/hg7l7FnO1LA"
+  },
+  "UpdatedAt": "2024-10-21T11:50:06+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 67",
+    "Url": "https://nutritionfacts.org/volumes/volume-67/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "I explain why I no longer consume chlorella.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nPreviously I’ve talked about chlorella’s potential benefits for preserving the immune function of athletes and improving some cardiovascular risk factors, such as dropping blood pressures by a few points or lowering LDL cholesterol about 8 points. Remember that green eggs and ham study, where taking chlorella with eggs appeared to blunt the rise in cholesterol? It may help detoxify some dietary cholesterol, but what about the toxins found contaminating many algae supplements?\nBlue-green algae like AFA can make their own toxins, but even if the green algae chlorella can’t, when chlorella is skimmed off of ponds, the presence of other algae and microorganisms is unavoidable, and can pose a hazard. When you actually look at commercial algae supplements under a microscope, the provided labels are usually inaccurate, as factual contents usually do not match. They may be contaminated with fungus, other algae and bacteria, and it seems the contamination was more frequent in the organic versus conventional products. One product advertised as 100 percent organic chlorella contained both liver toxins and neurotoxins.\nI’ve talked about a case report of apparent chlorella-induced psychosis. There’s also been a case of kidney damage reported, as well as an apparent chlorella-induced drop in platelet count. Some reactions are hard to miss, like a whole-body rash or nausea, headache, dizziness, fatigue, abdominal pain and general weakness that rapidly resolved after stopping. In these cases, though, it was a mixed algae product.\nEven without contamination, if you cultivate pure chlorella it can still significantly induce DNA damage in human cells. Yeah, but those are all cells in a petri dish. Yes, but they were colon lining cells, so cells presumably exposed directly to chlorella when you eat it.\nThough chlorella has been marketed for “detoxification,” it can be contaminated with toxin-producing algae, and end up exceeding safety limits. For more irony, chlorella can sometimes be contaminated in a good way. Chlorella species can’t make vitamin B12, but they may mix with B12-synthesizing bacteria, such that if you give chlorella to some vegetarians and vegans with a suspected vitamin B12 deficiency, most seem to get a little improvement in their B12-status. But after two months of supplementation, they were still, on average, deficient. Note that chlorella is not considered to be a reliable, sufficient source of vitamin B12. The same with spirulina, which was once thought to contain B12. But it’s actually mostly pseudo-B12, a form of B12 unusable by humans, and therefore not a suitable B12 source. What about spirulina as a source of toxins? I’ll address just that question next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Costa ML, Rodrigues JA, Azevedo J, Vasconcelos V, Eiras E, Campos MG. Hepatotoxicity induced by paclitaxel interaction with turmeric in association with a microcystin from a contaminated dietary supplement. Toxicon. 2018;150:207-211.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29857089/"
+    },
+    {
+      "Title": "Fallah AA, Sarmast E, Habibian Dehkordi S, et al. Effect of Chlorella supplementation on cardiovascular risk factors: a meta-analysis of randomized controlled trials. Clin Nutr. 2018;37(6 Pt A):1892-1901.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29037431/"
+    },
+    {
+      "Title": "Gille A, Trautmann A, Gomez MR, Bischoff SC, Posten C, Briviba K. Photoautotrophically grown chlorella vulgaris shows genotoxic potential but no apoptotic effect in epithelial cells. J Agric Food Chem. 2019;67(31):8668-8676.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31271028/"
+    },
+    {
+      "Title": "Kim S, Kim J, Lim Y, Kim YJ, Kim JY, Kwon O. A dietary cholesterol challenge study to assess Chlorella supplementation in maintaining healthy lipid levels in adults: a double-blinded, randomized, placebo-controlled study. Nutr J. 2016;15(1):54.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27177615/"
+    },
+    {
+      "Title": "Kittaka-Katsura H, Fujita T, Watanabe F, Nakano Y. Purification and characterization of a corrinoid compound from Chlorella tablets as an algal health food. J Agric Food Chem. 2002;50(17):4994-4997.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12166996/"
+    },
+    {
+      "Title": "Lyon-Colbert A, Su S, Cude C. A systematic literature review for evidence of aphanizomenon flos-aquae toxigenicity in recreational waters and toxicity of dietary supplements: 2000-2017. Toxins (Basel). 2018;10(7):254.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29933577/"
+    },
+    {
+      "Title": "Merchant RE, Phillips TW, Udani J. Nutritional supplementation with chlorella pyrenoidosa lowers serum methylmalonic acid in vegans and vegetarians with a suspected vitamin b12 deficiency. J Med Food. 2015;18(12):1357-1362.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26485478/"
+    },
+    {
+      "Title": "Rhoades J, Fotiadou S, Paschalidou G, et al. Microbiota and cyanotoxin content of retail spirulina supplements and spirulina supplemented foods. Microorganisms. 2023;11(5):1175.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37317149/"
+    },
+    {
+      "Title": "Sherafati N, Bideshki MV, Behzadi M, Mobarak S, Asadi M, Sadeghi O. Effect of supplementation with Chlorella vulgaris on lipid profile in adults: a systematic review and dose-response meta-analysis of randomized controlled trials. Complement Ther Med. 2022;66:102822.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35331862/"
+    },
+    {
+      "Title": "Sánchez-Parra E, Boutarfa S, Aboal M. Are cyanotoxins the only toxic compound potentially present in microalgae supplements? Results from a study of ecological and non-ecological products. Toxins (Basel). 2020;12(9):552.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32872271/"
+    },
+    {
+      "Title": "The multidisciplinary approach to safety and toxicity assessment of microalgae-based food supplements following clinical cases of poisoning. Harmful Algae. 2015;46:34-42.",
+      "Url": "https://www.sciencedirect.com/science/article/abs/pii/S1568988315000669?via%3Dihub"
+    },
+    {
+      "Title": "Watanabe F, Katsura H, Takenaka S, et al. Pseudovitamin B(12) is the predominant cobamide of an algal health food, spirulina tablets. J Agric Food Chem. 1999;47(11):4736-4741.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10552882/"
+    },
+    {
+      "Title": "Yavasoglu I, Turgutkaya A, Bolaman Z. Chlorella-induced thrombocytopenia. Sao Paulo Med J. 2018;136(6):602-603.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30569955/"
+    },
+    {
+      "Title": "Yim HE, Yoo KH, Seo WH, Won NH, Hong YS, Lee JW. Acute tubulointerstitial nephritis following ingestion of Chlorella tablets. Pediatr Nephrol. 2007;22(6):887-888.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17273860/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "cardiovascular health",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-health/"
+    },
+    {
+      "Title": "chlorella",
+      "Url": "https://nutritionfacts.org/topics/chlorella/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "headaches",
+      "Url": "https://nutritionfacts.org/topics/headaches/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "nausea",
+      "Url": "https://nutritionfacts.org/topics/nausea/"
+    },
+    {
+      "Title": "rash",
+      "Url": "https://nutritionfacts.org/topics/rash/"
+    },
+    {
+      "Title": "spirulina",
+      "Url": "https://nutritionfacts.org/topics/spirulina/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the second in a three-video series. If you missed the previous video, check out </span><a href=\"https://nutritionfacts.org/video/toxins-in-blue-green-algae-like-klamath-lake-afa-aphanizomenon-flos-aquae/\"><span style=\"font-weight: 400\">Toxins in Blue-Green Algae, Like Klamath Lake AFA, (Aphanizomenon ﬂos-aquae</span></a><span style=\"font-weight: 400\">). Stay tuned for </span><a href=\"https://nutritionfacts.org/video/the-benefits-and-side-effects-of-spirulina/\"><span style=\"font-weight: 400\">The Benefits and Side Effects of Spirulina</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">These are the older videos on chlorella that I mentioned:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/preserving-athlete-immunity-with-chlorella-2/\"><span style=\"font-weight: 400\">Preserving Athlete Immunity with Chlorella</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/treating-hepatitis-c-with-chlorella/\"><span style=\"font-weight: 400\">Treating Hepatitis C with Chlorella</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/detoxifying-with-chlorella/\"><span style=\"font-weight: 400\">Detoxifying with Chlorella</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

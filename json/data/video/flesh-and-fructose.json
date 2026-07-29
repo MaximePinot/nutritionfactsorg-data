@@ -1,0 +1,171 @@
+{
+  "Title": "Flesh and Fructose",
+  "Url": "https://nutritionfacts.org/video/flesh-and-fructose/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/89IJg-4BZyg"
+  },
+  "UpdatedAt": "2013-01-04T12:35:24+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Meat and sugar increase uric acid levels, which are associated with increased risk of gout, hypertension (high blood pressure), obesity, prediabetes, diabetes, kidney disease and cardiovascular disease.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn modern times, we want to keep our uric acid levels as low as possible. How are we going to do that?\nWell, there are two main things that raise your uric acid levels: purines and fructose, which means mostly meat and sugar. Everything from bacon and brains, to fish, poultry, shrimp, and veal, and then, both sugar and high fructose corn syrup are both about half fructose—which leads to uric acid production in the body. \nThat explains why a spoonful of sugar helps the blood pressure go up, along with the risk of gout in men, and the risk of gout in women. And the risk of hypertension, obesity, prediabetes, diabetes, kidney disease, and cardiovascular disease. \nWe went from eating about four pounds of added sugars a year to now about 100 pounds per person. That’s like third-pound of sugar a day. This could be playing a role in the dramatic rise in chronic disease over the last century, as argued in this award-winning recent paper, “The Evolution of Obesity: Insights from the mid-Miocine.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Choi HK, Curhan G.Soft drinks, fructose consumption, and the risk of gout in men: prospective cohort study. BMJ. 2008 Feb 9;336(7639):309-12.",
+      "Url": "http://www.bmj.com/content/336/7639/309.pdf%2Bhtml"
+    },
+    {
+      "Title": "Choi HK, Willett W, Curhan G. Fructose-rich beverages and risk of gout in women. JAMA. 2010 Nov 24;304(20):2270-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3058904/pdf/nihms-243492.pdf"
+    },
+    {
+      "Title": "Ghaemi-Oskouie F, Shi Y. The role of uric acid as an endogenous danger signal in immunity and inflammation. Curr Rheumatol Rep. 2011 Apr;13(2):160-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093438/pdf/nihms279732.pdf"
+    },
+    {
+      "Title": "Johnson RJ, Andrews P, Benner SA, Oliver W. Theodore E. Woodward award. The evolution of obesity: insights from the mid-Miocene. Trans Am Clin Climatol Assoc. 2010;121:295-305; discussion 305-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917125/pdf/tacca121000295.pdf"
+    },
+    {
+      "Title": "Johnson RJ, Sautin YY, Oliver WJ, Roncal C, Mu W, Gabriela Sanchez-Lozada L, Rodriguez-Iturbe B, Nakagawa T, Benner SA. Lessons from comparative physiology: could uric acid represent a physiologic alarm signal gone awry in western society? J Comp Physiol B. 2009 Jan;179(1):67-76.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2684327/pdf/nihms109060.pdf"
+    },
+    {
+      "Title": "Nguyen S, Lustig RH. Just a spoonful of sugar helps the blood pressure go up. Expert Rev Cardiovasc Ther. 2010 Nov;8(11):1497-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21090921/"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Caro Wallis and revedavion.com via flickr, and Stephan Guyenet.",
+  "Topics": [
+    {
+      "Title": "bacon",
+      "Url": "https://nutritionfacts.org/topics/bacon/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "caloric restriction",
+      "Url": "https://nutritionfacts.org/topics/caloric-restriction/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "fructose",
+      "Url": "https://nutritionfacts.org/topics/fructose/"
+    },
+    {
+      "Title": "gout",
+      "Url": "https://nutritionfacts.org/topics/gout/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "high fructose corn syrup",
+      "Url": "https://nutritionfacts.org/topics/high-fructose-corn-syrup/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "paleolithic diets",
+      "Url": "https://nutritionfacts.org/topics/paleolithic-diets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "sweeteners",
+      "Url": "https://nutritionfacts.org/topics/sweeteners/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "uric acid",
+      "Url": "https://nutritionfacts.org/topics/uric-acid/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What does the Miocene Era have to do with anything? Make sure you see the “prequel” to this video <a href=\"https://nutritionfacts.org/video/miocene-meteorites-and-uric-acid/\">Miocene Meteorites and Uric Acid</a>. No surprise that the meat and sugar industries both got upset with the latest round of dietary guidance from the federal government. See <a href=\"https://nutritionfacts.org/video/dietary-guidelines-pushback-from-the-sugar-salt-and-meat-industries/\">Dietary Guidelines: Pushback From the Sugar, Salt and Meat Industries</a> and <a href=\"https://nutritionfacts.org/video/dietary-guidelines-corporate-guidance/\">Dietary Guidelines: Corporate Guidance</a>. Is the sugar in fruit juice as bad as the sugar in the sugar bowl? The title of the next video of the day kind of gives it away: <a href=\"https://nutritionfacts.org/video/apple-juice-may-be-worse-than-sugar-water/\">Apple Juice May Be Worse Than Sugar Water</a>.</p>\n<p>For more context, please check out my associated blog post:  <a href=\"https://nutritionfacts.org/2013/06/20/uric-acid-caused-by-meat-and-sugar/\">Uric Acid From Meat and Sugar</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

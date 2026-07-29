@@ -1,0 +1,131 @@
+{
+  "Title": "Are There Risks to Energy Drinks?",
+  "Url": "https://nutritionfacts.org/video/are-there-risks-to-energy-drinks/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/gjhPkPbLs6s"
+  },
+  "UpdatedAt": "2018-10-24T11:50:28+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 44",
+    "Url": "https://nutritionfacts.org/volumes/volume-44/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Red Bull and Rockstar brand energy drinks are put to the test.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe first energy drink dates back more than a half century: Dr. Enuf, launched in 1949. Now, there are more than 100 brands—an industry now selling $50 billion of the stuff a year. They’re popular on military bases, but some military leaders have questioned their safety, based on data like this: the skyrocketing number of energy drink-related emergency room visits over recent years. But, if you look at some of the reports, you see cases like this: 24-year-old guy who didn’t feel well after drinking a can of energy drink and three bottles of vodka.\nBecause energy drinks are often co-consumed with other substances, it’s hard to tease out the culprit. Same problem with population studies. Sure, “[a]dolescents drinking energy drinks are at risk of a wide range of negative outcomes,” but energy-drink consumers are also more likely to drink soda and have other unhealthy habits, are more likely to binge drink, take diet pills, and engage in other risky behaviors. So, the only way to tease out the energy drink component is…to put it to the test.\nOne of the concerns that has been raised by public health advocates in terms of potential negative effects is increased blood pressure. But have people chug a can of Red Bull and 30 minutes later, no significant change in blood pressure. Okay, but that was the little eight-ounce can. What about the 16-ounce big cans of Red Bull? Forty minutes later, no significant change there, either. So, concerns about energy drinks raising blood pressure were dismissed as overblown…until the bomb dropped in 2014.\nRed Bull did indeed significantly raise blood pressure after all. The reason the earlier studies missed it is because the spike doesn’t start peaking until like an hour after consumption. So, if you just look at like 30 minutes after consumption, all seems fine. But the worst is yet to come. And, the big shocker was that cerebral blood flow velocity—blood flow in the brain—took a dive. Energy drinks are promoted as having “beneficial effects,” but this instead would suggest they’re “potentially harmful because of the extra cardiac work load and the decreased [brain] blood flow velocity…”\nResearchers subsequently looked at other brands. Here’s Rockstar brand energy drink—significantly elevating blood pressure within just 30 minutes. Yeah, but wait a second. Is it just the caffeine? Is it any different than just drinking a cup of coffee? To figure that out, you’d have to compare the effects of an energy drink with just a plain drink with the exact same amount of caffeine. But there’s never been such a study…until now.\nA “randomized, double-blind, controlled, crossover study” in which “young, healthy volunteers” were randomized to drink two large cans of an energy drink or a control drink that had the sugar and the same amount of caffeine, but none of the other “proprietary blend ingredients” like taurine, carnitine, ginseng, guarana, and all the other stuff they add.\nAnd, it turns out it wasn’t just the caffeine: significantly higher blood pressure on the energy drink than the exact same amount of caffeine in the control group. What’s this higher “QT interval” thing, though? On an EKG, it’s the distance from the beginning of the downward Q wave to the end of the bump of the T wave. Okay, so who cares? “QT…prolongation,” which is what the energy drink did—but not the caffeine—”is a recognized marker of increased risk for [oh] fatal arrhythmias,” fatal heart rhythms. That doesn’t sound good. Okay, but by how much? “Prolongation of the QT…interval by more than 60 [milliseconds] is a marker for life-threatening arrhythmias.” And, the energy drink only prolonged it by about 10. But there have been drugs pulled from the market—profitable drugs, bringing in billions of dollars—because of a 5- to 10-millisecond prolongation. So, we really need to start investigating some of these other ingredients in energy drinks.\nFor example, in 2008, authorities found cocaine in Red Bull drinks. The Red Bull manufacturer “insisted,” however, that they were just adding the coca leaf for flavor, and that all the active cocaine was removed.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Al-shaar L, Vercammen K, Lu C, Richardson S, Tamez M, Mattei J. Health Effects and Public Health Concerns of Energy Drink Consumption in the United States: A Mini-Review. Front Public Health. 2017;5:225.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28913331"
+    },
+    {
+      "Title": "Alford C, Cox H, Wescott R. The effects of red bull energy drink on human performance and mood. Amino Acids. 2001;21(2):139-50.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11665810"
+    },
+    {
+      "Title": "Ali F, Rehman H, Babayan Z, Stapleton D, Joshi DD. Energy drinks and their adverse health effects: A systematic review of the current evidence. Postgrad Med. 2015;127(3):308-22.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25560302"
+    },
+    {
+      "Title": "Baum M, Weiß M. The influence of a taurine containing drink on cardiac parameters before and after exercise measured by echocardiography. Amino Acids. 2001;20:75– 82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11310932"
+    },
+    {
+      "Title": "Fletcher EA, Lacey CS, Aaron M, Kolasa M, Occiano A, Shah SA. Randomized Controlled Trial of High-Volume Energy Drink Versus Caffeine Consumption on ECG and Hemodynamic Parameters. J Am Heart Assoc. 2017;6(5).",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28446495"
+    },
+    {
+      "Title": "Grasser EK, Yepuri G, Dulloo AG, Montani JP. Cardio- and cerebrovascular responses to the energy drink Red Bull in young adults: a randomized cross-over study. Eur J Nutr. 2014;53(7):1561-71.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24474552"
+    },
+    {
+      "Title": "Holubcikova J, Kolarcik P, Madarasova geckova A, Reijneveld SA, Van dijk JP. Regular energy drink consumption is associated with the risk of health and behavioural problems in adolescents. Eur J Pediatr. 2017;176(5):599-605.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28229268"
+    },
+    {
+      "Title": "Larson N, Laska MN, Story M, Neumark-sztainer D. Sports and energy drink consumption are linked to health-risk behaviours among young adults. Public Health Nutr. 2015;18(15):2794-803.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25683863"
+    },
+    {
+      "Title": "Manchester J, Eshel I, Marion DW. The Benefits and Risks of Energy Drinks in Young Adults and Military Service Members. Mil Med. 2017;182(7):e1726-e1733.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28810965"
+    },
+    {
+      "Title": "Seifert SM, Schaechter JL, Hershorin ER, Lipshultz SE. Health effects of energy drinks on children, adolescents, and young adults. Pediatrics. 2011;127(3):511-28.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21321035"
+    },
+    {
+      "Title": "Svatikova A, Covassin N, Somers KR, et al. A Randomized Trial of Cardiovascular Responses to Energy Drink Consumption in Healthy Adults. JAMA Letters. 2015; 314(19):2079-82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26547226"
+    },
+    {
+      "Title": "Thorlton J, Colby DA, Devine P. Proposed actions for the US Food and Drug Administration to implement to minimize adverse effects associated with energy drink consumption. Am J Public Health. 2014;104(7):1175-80.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24832439"
+    }
+  ],
+  "Acknowledgements": "Image credit: Simon Desmarais via Wikimedia Commons and Luke Freeman via flickr. Images have been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "caffeine",
+      "Url": "https://nutritionfacts.org/topics/caffeine/"
+    },
+    {
+      "Title": "carnitine",
+      "Url": "https://nutritionfacts.org/topics/carnitine/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "coffee",
+      "Url": "https://nutritionfacts.org/topics/coffee/"
+    },
+    {
+      "Title": "energy drinks",
+      "Url": "https://nutritionfacts.org/topics/energy-drinks/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "Red Bull",
+      "Url": "https://nutritionfacts.org/topics/red-bull/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "sports drinks",
+      "Url": "https://nutritionfacts.org/topics/sports-drinks/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "water",
+      "Url": "https://nutritionfacts.org/topics/water/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Stay tuned for my next video <a href=\"https://nutritionfacts.org/video/are-there-benefits-of-energy-drinks/\">Are There Benefits of Energy Drinks?</a>.</p>\n<p>What about coconut water? Here you go: <a href=\"https://nutritionfacts.org/video/coconut-water-for-athletic-performance-vs-sports-drinks/\">Coconut Water for Athletic Performance vs. Sports Drinks</a></p>\n<p>If energy drinks are risky, what about the original energy drink, coffee? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/coffee-and-cancer/\">Coffee &amp; Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/preventing-liver-cancer-with-coffee/\">Preventing Liver Cancer with Coffee?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/coffee-and-artery-function/\">Coffee &amp; Artery Function</a></li>\n<li><a href=\"https://nutritionfacts.org/video/coffee-and-mortality/\">Coffee &amp; Mortality</a></li>\n</ul>\n<p>Anything we can consume that improve blood pressure? Check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/hibiscus-tea-vs-plant-based-diets-for-hypertension/\">Hibiscus Tea vs. Plant-Based Diets for Hypertension</a></li>\n<li><a href=\"https://nutritionfacts.org/video/flax-seeds-for-hypertension/\">Flax Seeds for Hypertension</a></li>\n<li><a href=\"https://nutritionfacts.org/video/oxygenating-blood-with-nitrate-rich-vegetables/\">Oxygenating Blood with Nitrate-Rich Vegetables</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-not-to-die-from-high-blood-pressure/\">How Not to Die from High Blood Pressure</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

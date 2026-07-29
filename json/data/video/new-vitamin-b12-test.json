@@ -1,0 +1,107 @@
+{
+  "Title": "New Vitamin B12 Test",
+  "Url": "https://nutritionfacts.org/video/new-vitamin-b12-test/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/48IYo8XSGQM"
+  },
+  "UpdatedAt": "2012-02-09T13:00:23+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Who should get tested for vitamin B12 (cobalamin) deficiency, and which is the best test to use: serum B12, methylmalonic acid (MMA), or holotranscobalamin levels?",
+  "Transcript": "Should people who eat plant-based diets be tested for vitamin B12 deficiency? In my opinion, medical tests should only be ordered if the results, one way or the other, are going to change what you do. If your test came back showing your B12 levels were low, what would you do? You’d insure a regular, reliable source of vitamin B12. If your tests came back showing your levels were okay, what would you do? You’d ensure a regular, reliable source of B12, because you wouldn’t want them to become not okay.\nSo, if it’s not going to matter either way, I wouldn’t worry about it—with two exceptions. I recommend anyone with unexplained neurological, psychiatric, or developmental symptoms be tested—especially in infants, toddlers, vegans, and anyone over 50. And, out of an abundance of caution, I’ve always tested all my pregnant and breastfeeding vegan patients, just because the consequences of deficiency are so potentially devastating.\nBetter than getting a serum B12 level drawn, though, which most doctors do, a methylmalonic acid level is a superior test for B12 deficiency, which can be blood or urine. You can just pee in a cup for it.\nHere’s why measuring MMA levels is better. About 50 people started eating vegan. Within a few years, half became B12-deficient. But look at their B12 levels. All these vegans had functional B12 deficiency, despite normal levels of B12 in their blood—showing that MMA is a more effective test.\nNow, there has been a case report published of someone with apparent B12 deficiency, who had normal B12 and MMA levels. So, we’re always looking for a better test, and it looks like HoloTC is it, measuring Holotranscobalamin levels; shown to be more sensitive and specific, meaning fewer false negatives and false positives. If your level is under 20, you start treatment. If it’s over 30, you can be pretty sure you’re okay. And if it’s in the middle, you follow up with a second-line test.\nIf you are deficient, you can be treated with a ruby-red mad-scientist-looking injection of B12. The color is from the cobalt in the molecule. But one of medicine’s best kept secrets is the efficacious use of high-dose oral B12 — safer, cheaper. 2,000 microgram supplements every day for two weeks should do it, before having patients starting or resuming their regular, reliable regimen of B12.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is transcript contributed by Bruce A. Hamilton. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Donaldson MS. Metabolic vitamin B12 status on a mostly raw vegan diet with follow-up using tablets, nutritional yeast, or probiotic supplements. Ann Nutr Metab. 2000;44(5-6):229-34.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11146329"
+    },
+    {
+      "Title": "Graham ID, Jette N, Tetroe J, Robinson N, Milne S, Mitchell SL. Oral cobalamin remains medicine's best kept secret. Arch Gerontol Geriatr. 2007 Jan-Feb;44(1):49-59.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16672168"
+    },
+    {
+      "Title": "National Institutes of Health. Vitamin  B12.",
+      "Url": "http://ods.od.nih.gov/factsheets/vitaminb12#h5"
+    },
+    {
+      "Title": "Shojania AM. Cobalamin-responsive disorders and unreliability of cobalamin, methylmalonic acid, and homocysteine testing. Blood. 2005 Aug 1;106(3):1136.",
+      "Url": "http://bloodjournal.hematologylibrary.org/content/106/3/1136.1.full.pdf+html"
+    },
+    {
+      "Title": "Valente E, Scott JM, Ueland PM, Cunningham C, Casey M, Molloy AM. Diagnostic accuracy of holotranscobalamin, methylmalonic acid, serum cobalamin, and other indicators of tissue vitamin B₁₂ status in the elderly. Clin Chem. 2011 Jun;57(6):856-63.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21482749"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Bobjgalindo via Wikimedia Commons",
+  "Topics": [
+    {
+      "Title": "breast milk",
+      "Url": "https://nutritionfacts.org/topics/breast-milk/"
+    },
+    {
+      "Title": "breastfeeding",
+      "Url": "https://nutritionfacts.org/topics/breastfeeding/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "elderly",
+      "Url": "https://nutritionfacts.org/topics/elderly/"
+    },
+    {
+      "Title": "infants",
+      "Url": "https://nutritionfacts.org/topics/infants/"
+    },
+    {
+      "Title": "mental health",
+      "Url": "https://nutritionfacts.org/topics/mental-health/"
+    },
+    {
+      "Title": "nerve health",
+      "Url": "https://nutritionfacts.org/topics/nerve-health/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "prenatal vitamins",
+      "Url": "https://nutritionfacts.org/topics/prenatal-vitamins/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This concludes our five-part video series on B12 this week. If you’re new to the issue, <a href=\"https://nutritionfacts.org/blog/2011/08/25/vegan-b12-deficiency-putting-it-into-perspective/\" rel=\"nofollow\">Vegan B12 Deficiency: Putting It into Perspective</a>, and <a href=\"https://nutritionfacts.org/video/safest-source-of-b12/\" rel=\"nofollow\">Safest Source of B12</a> are good places to start. The consequences of B12 deficiency can be grave. But getting enough is easy; B12 can be taken weekly (see <a href=\"https://nutritionfacts.org/video/cheapest-source-of-vitamin-b12/\" rel=\"nofollow\">Cheapest Source of Vitamin B12</a>), or daily (see <a href=\"https://nutritionfacts.org/video/daily-source-of-vitamin-b12/\" rel=\"nofollow\">Daily Source of Vitamin B12</a>). See my <a href=\"https://nutritionfacts.org/2011/09/12/dr-greger%E2%80%99s-2011-optimum-nutrition-recommendations/\" rel=\"nofollow\">full recommendations</a>.</p>\n<p><strong>2019 Update:</strong>  My vitamin B12 recommendations have changed to reflect the latest science and labeling changes. If you’re relying on getting all your B12 from fortified foods, make sure you get at least one serving at each meal containing at least 190% of the Daily Value listed on the nutrition facts label (based on the new labeling mandated to start January 1, 2020–the target is 4.5 mcg three times a day). Probably easier to just follow my supplement recommendations instead, which have also changed: at least 50 micrograms of cyanocobalamin once a day or 2000 micrograms of cyanocobalamin once a week.</p>\n<p><strong>I put out some new B12 videos in 2020. Please see all of my newest videos on the <a href=\"https://nutritionfacts.org/topics/vitamin-b12/\">topic page</a>. </strong></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

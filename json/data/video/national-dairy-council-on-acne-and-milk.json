@@ -1,0 +1,79 @@
+{
+  "Title": "National Dairy Council on Acne and Milk",
+  "Url": "https://nutritionfacts.org/video/national-dairy-council-on-acne-and-milk/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/K4TrLFI-VVI"
+  },
+  "UpdatedAt": "2012-05-10T12:00:34+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 8",
+    "Url": "https://nutritionfacts.org/volumes/volume-8/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The Harvard Nurses’ Study found an association between high school dairy intake and severe physician-diagnosed acne.",
+  "Transcript": "The National Dairy Council denies that milk intake causes acne, citing the American Academy of Dermatology. Let’s take a peek, shall we, at the official journal of the American Academy of Dermatology. The Harvard Nurses’ Study, no less. A study, in fact, supported by the National Dairy Council itself! “High school dietary dairy intake and teenage acne.” They studied 47,000 women. What did they find? “We found a positive association with acne for intake of total milk and skim milk. We hypothesize that the association with milk may be because of the presence of hormones and bioactive molecules in milk.”\nYeah, but there’s a difference between association and causation. From the accompanying editorial in the Journal of the American Academy of Dermatology:\n“The papers from the Harvard School of Public Health establish an association between milk consumption and acne. But how could milk cause acne? Because drinking milk and consuming dairy products from pregnant cows exposes us to the hormones produced by the cows’ pregnancy, hormones that we were not designed to consume during our teenage and adult years. It is no secret that teenagers’ acne closely parallels hormonal activity… So what happens if exogenous hormones are added to the normal endogenous load? And what exactly is the source of these hormones? Consider that, in nature, milk is consumed from a mother, whether human or bovine, until weaning occurs. Normally, the mother then ceases lactation before the next pregnancy occurs— so that consuming milk from a mother pregnant with her next offspring is not a common occurrence. We’ve all seen nature films of animals chasing their offspring away to encourage weaning at the appropriate time. Further, in nature the offspring consumes only the milk of its own species—but both of these natural rules are broken by humans. Viewed objectively, human consumption of large volumes of another species’ milk, especially when that milk comes mainly from pregnant cows during the human’s normally post-weaned years, is essentially unnatural.”\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Adebamowo CA, Spiegelman D, Berkey CS, Danby FW, Rockett HH, Colditz GA, Willett WC, Holmes MD. Milk consumption and acne in teenaged boys. J Am Acad Dermatol. 2008 May;58(5):787-93.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18194824"
+    },
+    {
+      "Title": "Adebamowo CA, Spiegelman D, Danby FW, Frazier AL, Willett WC, Holmes MD. High school dietary dairy intake and teenage acne. J Am Acad Dermatol. 2005 Feb;52(2):207-14.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15692464"
+    },
+    {
+      "Title": "Danby FW. Acne and milk, the diet myth, and beyond. J Am Acad Dermatol. 2005 Feb;52(2):360-2.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15692488"
+    },
+    {
+      "Title": "Misperceptions Regarding Dairy Foods: A Review of the Evidence. Dairy Council Digest. Volume 81, Number 1 January/February 2010.",
+      "Url": "http://www.nationaldairycouncil.org/Research/DairyCouncilDigestArchives/Pages/dcd81-1Page1.aspx"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Dave Hamster / Flickr",
+  "Topics": [
+    {
+      "Title": "acne",
+      "Url": "https://nutritionfacts.org/topics/acne/"
+    },
+    {
+      "Title": "adolescence",
+      "Url": "https://nutritionfacts.org/topics/adolescence/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "Harvard Nurses' Health Study",
+      "Url": "https://nutritionfacts.org/topics/harvard-nurses-health-study/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "skim milk",
+      "Url": "https://nutritionfacts.org/topics/skim-milk/"
+    },
+    {
+      "Title": "skin health",
+      "Url": "https://nutritionfacts.org/topics/skin-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the first of a three-video series on the latest evidence on the link between acne and milk (particularly skim, which has higher hormone levels). The next two videos in this series are <a href=\"https://nutritionfacts.org/video/skim-milk-and-acne/\">Skim Milk and Acne</a> and <a href=\"https://nutritionfacts.org/video/the-acne-promoting-effects-of-milk/\">The Acne-Promoting Effects of Milk</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

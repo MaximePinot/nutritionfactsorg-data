@@ -1,0 +1,131 @@
+{
+  "Title": "The Carcinogen Glycidol in Cooking Oils",
+  "Url": "https://nutritionfacts.org/video/the-carcinogen-glycidol-in-cooking-oils/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/z0E8Um5LN3g"
+  },
+  "UpdatedAt": "2022-01-31T12:50:33+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 56",
+    "Url": "https://nutritionfacts.org/volumes/volume-56/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Glycidol may help explain why people who eat fried foods get more cancer.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“The main purpose of frying is to produce foods with good consumer acceptability. However, not all acceptable foods are safe.” Food chemists have been keenly interested in the newly-discovered toxic compounds produced by frying.\nWe’ve been refining vegetables oils for more than a century, but only recently have we discovered that this can produce concerning compounds such as 3-MCPD, and even worse, glycidol. I talked previously about 3-MCPD. It’s considered a nongenotoxic carcinogen with a tolerable daily intake, whereas glycidol is a known genotoxic carcinogen––meaning it can cause cancer by directly damaging our DNA. If a compound is not directly DNA-damaging, it is assumed that it acts through a mechanism which exhibits a threshold. A so-called no-effect level may exist, a level below which it may not be harmful.\nBut if a compound does damage DNA, historically a non-threshold mechanism is assumed, and no ‘safe level of intake’ can be derived, because it may only take DNA mutation to start the march towards cancer. So, such substances are not permitted to be added intentionally to foods. For so-called unavoidable contaminants, the ‘ALARA’ principle is applied, meaning that the level should be as low as reasonably achievable or as low as reasonably practicable. Since that’s what glycidol appears to be, we should try to avoid it as much as possible.\nAn excess lifetime cancer risk of 1 in 100,000 is often used as a figure for “acceptable” risk in a population. Based on lab animal data, this might be exceeded if someone weighing about 150 pounds consumed less than a microgram a day. Thanks to the use of refined oils in so many food products, the average glycidol exposure may be more than 50 micrograms. And in children, the level of intake may exceed acceptable cancer risk by 200-fold.\nSo, do people who eat more fried food get more cancer? There is said to be strong evidence that there may be a higher risk of developing chronic disease among frequent consumers of fried foods, but that’s talking largely about cardiovascular health. For example, in a study of more than 100,000 women, frequent consumption of fried foods, especially fried chicken and fried fish, was associated with a higher risk of all-cause mortality, meaning such consumers lived, on average, significantly shorter lives. But that was due to largely to cardiovascular mortality, whereas fried food consumption was not generally associated with dying from cancer. In men, however, a larger intake of fried food was associated with a 35 percent increased risk of prostate cancer. “Therefore, a suggestion may be put forward that subjects at increased risk of prostate cancer should as a precaution limit the consumption of fried foods.”\nThese refined oils are also used in infant formulas, which presents a problem for babies who aren’t breastfed. The German Federal Institute for Risk Assessment has come to the conclusion that infants who are fed exclusively industrially-prepared infant milk formula would take in harmful levels of glycidol. And they have comparable levels of glycidol contamination in U.S. formulas as they do over in Europe. Yet another reason that breast is absolutely best. Meanwhile, there are calls on the manufacturers of these products to do everything they can to reduce levels as far as possible.\nBut evidently, the industry has yet to find a way to refine vegetable oils without creating these kinds of by-products “while at the same time maintaining the quality.” It was therefore concluded that there are no easy solutions to this problem, but I disagree. We can choose to avoid the use of oils and fried foods.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Aasa J, Granath F, Törnqvist M. Cancer risk estimation of glycidol based on rodent carcinogenicity studies, a multiplicative risk model and in vivo dosimetry. Food Chem Toxicol. 2019;128:54-60.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30914355/"
+    },
+    {
+      "Title": "Aasa J, Vryonidis E, Abramsson-Zetterberg L, Törnqvist M. Internal doses of glycidol in children and estimation of associated cancer risk. Toxics. 2019;7(1):E7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30717263/"
+    },
+    {
+      "Title": "Abraham K, Hielscher J, Kaufholz T, Mielke H, Lampen A, Monien B. The hemoglobin adduct N-(2,3-dihydroxypropyl)-valine as biomarker of dietary exposure to glycidyl esters: a controlled exposure study in humans. Arch Toxicol. 2019;93(2):331-40.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30535712/"
+    },
+    {
+      "Title": "Bakhiya N, Abraham K, Gürtler R, Appel KE, Lampen A. Toxicological assessment of 3-chloropropane-1,2-diol and glycidol fatty acid esters in food. Mol Nutr Food Res. 2011;55(4):509-21.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21351250/"
+    },
+    {
+      "Title": "Federal Institute for Risk Assessment (BfR). Initial evaluation of the assessment of levels of glycidol fatty acid esters detected in refined vegetable fats (in German). BfR Opinion No. 007/2009, 10 March. 2009.",
+      "Url": "https://www.bfr.bund.de/cm/349/initial_evaluation_of_the_assessment_of_levels_of_glycidol_fatty_acid_esters.pdf"
+    },
+    {
+      "Title": "Gadiraju TV, Patel Y, Gaziano JM, Djoussé L. Fried food consumption and cardiovascular health: a review of current evidence. Nutrients. 2015;7(10):8424-30.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26457715/"
+    },
+    {
+      "Title": "Larsen JC. ILSI Europe Report Series: 3-MCPD esters in food products. Summary report of a workshop held in February 2009 in International Life Sciences Institute, Brussels, Belgium. ILSI Europe. October 2009.",
+      "Url": "https://ilsi.eu/publication/3-mcpd-esters-in-food-products-summary-report/"
+    },
+    {
+      "Title": "Lippi G, Mattiuzzi C. Fried food and prostate cancer risk: systematic review and meta-analysis. Int J Food Sci Nutr. 2015;66(5):587-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26114920/"
+    },
+    {
+      "Title": "Spungen JH, MacMahon S, Leigh J, et al. Estimated US infant exposures to 3-MCPD esters and glycidyl esters from consumption of infant formula. Food Addit Contam Part A Chem Anal Control Expo Risk Assess. 2018;35(6):1085-92.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29620437/"
+    },
+    {
+      "Title": "Sun Y, Liu B, Snetselaar LG, et al. Association of fried food consumption with all cause, cardiovascular, and cancer mortality: prospective cohort study. BMJ. 2019;364:k5420.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30674467/"
+    },
+    {
+      "Title": "Tritscher AM. Human health risk assessment of processing-related compounds in food. Toxicol Lett. 2004;149(1-3):177-86.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15093263/"
+    },
+    {
+      "Title": "Zeb A. Toxicity of food frying. In: Food Frying. John Wiley & Sons, Ltd; 2019:365-406.",
+      "Url": "https://onlinelibrary.wiley.com/doi/10.1002/9781119468417.ch12"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "breast milk",
+      "Url": "https://nutritionfacts.org/topics/breast-milk/"
+    },
+    {
+      "Title": "breastfeeding",
+      "Url": "https://nutritionfacts.org/topics/breastfeeding/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "frying",
+      "Url": "https://nutritionfacts.org/topics/frying/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "infant formula",
+      "Url": "https://nutritionfacts.org/topics/infant-formula/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "oils",
+      "Url": "https://nutritionfacts.org/topics/oils/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I previously talked about 3-MCPD in <a href=\"https://nutritionfacts.org/video/the-side-effects-of-3-mcpd-in-braggs-liquid-aminos/\">The Side Effects of 3-MCPD in Bragg’s Liquid Aminos</a> and <a href=\"https://nutritionfacts.org/video/3-mcpd-in-refined-cooking-oils/\">3-MCPD in Refined Cooking Oils</a>.</p>\n<p>There is no substitute for human breast milk. Adoptive families or those who use surrogates may want to look for a nearby <a href=\"https://www.hmbana.org/find-a-milk-bank/overview.html\">milk bank</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

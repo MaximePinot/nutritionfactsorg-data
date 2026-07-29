@@ -1,0 +1,135 @@
+{
+  "Title": "Cancer Risk from CT Scan Radiation",
+  "Url": "https://nutritionfacts.org/video/cancer-risk-from-ct-scan-radiation/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/e-L28fyueVI"
+  },
+  "UpdatedAt": "2013-06-19T11:21:19+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 13",
+    "Url": "https://nutritionfacts.org/volumes/volume-13/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Pediatric CAT scans are estimated to cause hundreds of cancer deaths every year.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe greatest radiation exposure risk comes not from Fukushima fallout, or the polonium naturally found in seafood, but from doctors. This was the study that really shook things up. “Estimated Risks of Radiation-Induced Fatal Cancer from Pediatric [CAT scans],” which concluded that the best available risk estimates suggest that pediatric CT scans will result in significantly increased lifetime cancer risk.\nHow increased? Well, in the United States, of the approximately 600,000 abdominal and head CT scans annually performed in children under the age of 15, 500 of these individuals might ultimately not just get cancer, but die from cancer attributable to that CAT scan radiation. In response to this revelation, the editor-in-chief of the leading radiology journal admitted that radiologists have not been “watching out for children.”\nThese estimates were based on data from Japanese atomic bomb survivors, in terms of how many cancer deaths one can expect from what kind of radiation dose. But, there’s never been a study actually documenting the excess cancers—until now.\nTurns out the X-rays released by CAT scanners might be twice as carcinogenic as the higher energy gamma rays released from the atomic bombs. A few CT scans may triple the risk of brain tumors and leukemia in children. Other studies are being performed around the world to quantify the risk, and should be out in the next few years.\nUntil then, what can we do? Well, first of all, we should only get X-rays when absolutely necessary. Good evidence suggests that between a fifth and a half of CAT scans aren’t necessary at all; they could be replaced with another type of imaging, or just not done—period. That’s a lot of added cancer risk, for no added benefit.\nNow, this kind of CAT scan is okay, but this kind carries risks. The risk of developing cancer after a single CT scan may be as high as one in a hundred for a baby girl. It can take years for cancer to develop, so that’s why the risk is lower in the elderly, since they have fewer years to live. The diagnostic medical radiation dealt out in one year is estimated to cause 2,800 breast cancers among women in the United States, and 25,000 or so other cancers. That’s doctors causing cancer.\nOne chest CT scan is like getting four hundred chest X-rays, and a stress test heart scan can be like getting over a thousand X-rays. Doctors need to communicate the risks of these procedures. For example, the risk of a chest CT is like the risk of having a car crash during 2,500 miles of highway driving, or of smoking 700 cigarettes. You pick up a pack of cigarettes, and there’s a warning label. But then, you go in for a thallium heart scan, and no one minds telling you that the risk corresponds to smoking 1,400 cigarettes. One in every 270 middle-aged women that gets an angiogram may get cancer because of that one test.\nThe best way to avoid the risks of radiation scans is the same way to best avoid the risks of medication—living and eating healthy enough to help avoid the need for them in the first place.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A. B. de González, M. Mahesh, K.-P. Kim, M. Bhargavan, R. Lewis, F. Mettler, C. Land. Projected cancer risks from computed tomographic scans performed in the United States in 2007. Arch. Intern. Med. 2009 169(22):2071 - 2077",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20008689"
+    },
+    {
+      "Title": "A. J. Einstein. Beyond the bombs: Cancer risks of low-dose medical radiation. Lancet 2012 380(9840):455 - 457",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22681861"
+    },
+    {
+      "Title": "C. W. Schmidt. CT scans: Balancing health risks and medical benefits. Environ. Health Perspect. 2012 120(3):A118 - 21",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22382352"
+    },
+    {
+      "Title": "D. Brenner, C. Elliston, E. Hall, W. Berdon. Estimated risks of radiation-induced fatal cancer from pediatric CT. AJR Am J Roentgenol 2001 176(2):289 - 296",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11159059"
+    },
+    {
+      "Title": "E. Picano. Informed consent and communication of risk from radiological and nuclear medicine examinations: How to escape from a communication inferno. BMJ 2004 329(7470):849 - 851",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC521582/"
+    },
+    {
+      "Title": "J. Malone, R. Guleria, C. Craven, P. Horton, H. Järvinen, J. Mayo, G. O'reilly, E. Picano, D. Remedios, J. Le Heron, M. Rehani, O. Holmberg, R. Czarwinski. Justification of diagnostic medical exposures: Some practical issues. Report of an International Atomic Energy Agency Consultation. Br J Radiol. 2012 85(1013):523 - 538",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21343316"
+    },
+    {
+      "Title": "L. F. Rogers. Taking care of children: Check out the parameters used for helical CT. AJR Am J Roentgenol 2001 176(2):287",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11159057"
+    },
+    {
+      "Title": "M. S. Pearce, J. A. Salotti, M. P. Little, K. McHugh, C. Lee, K. P. Kim, N. L. Howe, C. M. Ronckers, P. Rajaraman, A. W. S. Craft, L. Parker, A. B. de González. Radiation exposure from CT scans in childhood and subsequent risk of leukaemia and brain tumours: A retrospective cohort study. Lancet 2012 380(9840):499 - 505",
+      "Url": "http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2812%2960815-0/abstract"
+    },
+    {
+      "Title": "National Academy of Sciences. Breast Cancer and the Environment: A Life Course Approach. National Academy of Sciences 2011 NA(NA):1 - 469",
+      "Url": "https://www.nap.edu/read/13263/chapter/1"
+    },
+    {
+      "Title": "R. Bertell, L. H. Ehrle, I. Schmitz-Feuerhake. Pediatric CT research elevates public health concerns: low-dose radiation issues are highly politicized. Int J Health Serv. 2007. 37(3):419-439.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17844927"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Tabbymom Jen via flickr and Jacopo Werther via Wikimedia",
+  "Topics": [
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "brain tumors",
+      "Url": "https://nutritionfacts.org/topics/brain-tumors/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "CT scan",
+      "Url": "https://nutritionfacts.org/topics/ct-scan/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "iatrogenic",
+      "Url": "https://nutritionfacts.org/topics/iatrogenic/"
+    },
+    {
+      "Title": "infants",
+      "Url": "https://nutritionfacts.org/topics/infants/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "leukemia",
+      "Url": "https://nutritionfacts.org/topics/leukemia/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "radiation",
+      "Url": "https://nutritionfacts.org/topics/radiation/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    },
+    {
+      "Title": "X-rays",
+      "Url": "https://nutritionfacts.org/topics/x-rays/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>As I explain in my full-length live presentation on preventing, arresting, and reversing the 15 top killers (see <a href=\"https://nutritionfacts.org/video/uprooting-the-leading-causes-of-death/\">Uprooting the Leading Causes of Death</a>), adverse drug reactions from prescription medications are estimated to cause more than 100,000 deaths in the United States every year, making doctors the sixth leading cause of death. That’s not counting other “iatrogenic” (physician-caused) harm—such as medication errors, or infections acquired in hospitals. My profession needs to do a better job of offering fully informed consent, clearly and comprehensively explaining the risks and benefits of each alternate course of action.</p>\n<p>The risk associated with the thallium heart scans was shocking to me. By eating healthy, we may not only eliminate the death and disability associated with heart disease, and its treatment (such as open heart surgery), but also the risks associated with heart disease diagnosis. See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/our-number-one-killer-can-be-stopped/\">Our #1 Killer Can Be Stopped</a></li>\n<li><a href=\"https://nutritionfacts.org/video/china-study-on-sudden-cardiac-death/\">China Study on Sudden Cardiac Death</a></li>\n<li><a href=\"https://nutritionfacts.org/video/eliminating-the-1-cause-of-death/\">Eliminating the #1 Cause of Death</a></li>\n<li><a href=\"https://nutritionfacts.org/video/heart-attacks-and-cholesterol-purely-a-question-of-diet/\">Heart Attacks &amp; Cholesterol: Purely a Question of Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-tomato-effect/\">The Tomato Effect</a></li>\n</ul>\n<p>What was that about radioactive polonium in seafood? See <a href=\"https://nutritionfacts.org/video/fukushima-and-radioactivity-in-seafood/\">Fukushima &amp; Radioactivity in Seafood</a>.</p>\n<p>And what about getting X-rays at the dentist? See <a href=\"https://nutritionfacts.org/video/do-dental-x-rays-cause-brain-tumors/\">Do Dental X-Rays Cause Brain Tumors?</a></p>\n<p>For further context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/how-risky-are-ct-scans/\">How Risky Are CT Scans?</a>; <a href=\"https://nutritionfacts.org/blog/are-dental-x-rays-safe/\">Are Dental X-Rays Safe?</a>; <a href=\"https://nutritionfacts.org/blog/dealing-with-air-travel-radiation-exposure/\">Dealing with Air Travel Radiation Exposure</a>; and <a href=\"https://nutritionfacts.org/blog/ginger-lemon-balm-for-radiation-exposure/\">Ginger &amp; Lemon Balm for Radiation Exposure</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

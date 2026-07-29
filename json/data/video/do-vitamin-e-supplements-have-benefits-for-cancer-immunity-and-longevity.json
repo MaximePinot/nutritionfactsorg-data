@@ -1,0 +1,179 @@
+{
+  "Title": "Do Vitamin E Supplements Have Benefits for Cancer, Immunity, and Longevity?",
+  "Url": "https://nutritionfacts.org/video/do-vitamin-e-supplements-have-benefits-for-cancer-immunity-and-longevity/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/EJAxRjS3acg"
+  },
+  "UpdatedAt": "2024-12-16T12:50:00+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 68",
+    "Url": "https://nutritionfacts.org/volumes/volume-68/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Those who buy vitamin E supplements may in effect be paying to live a shorter life.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nRandomized controlled trials show that daily vitamin D supplementation appears to reduce risk of acute respiratory infections in children and adolescents, but it does not seem to make a difference in adults. Nor does vitamin D appear effective for boosting antibody responses to influenza vaccination.\nWhat about vitamin E? In most places, you’ll read that there are eight different tocopherols and tocotrienols that are collectively known as vitamin E, but only alpha-tocopherol has been shown to protect against human vitamin E deficiency. So, alpha-tocopherol is the only bona fide vitamin E, and is the one found in vitamin E supplements.\nThere are observational data suggesting those self-reporting supplementation with vitamin E have, for example, better pneumonia outcomes. But only interventional trials can prove if this is the case. Compared to placebo supplements, vitamin E was able to significantly boost immunity to hepatitis B and tetanus vaccinations (though not to diphtheria or pneumonia). One randomized controlled trial found that vitamin E supplementation of the elderly did not cut down on lower respiratory tract infections (like pneumonia), but did reduce the incidence of upper respiratory tract infections (like the common cold) by about 20 percent over one year. But another study using the same dose found no preventive benefit, and vitamin E supplementation actually made the infections they did get worse––with a greater number and severity of symptoms, including a greater likelihood of fever and activity restriction.\nBy far the largest study on vitamin E and respiratory infections was the Alpha-Tocopherol, Beta-Carotene Cancer Prevention (ATBC) Study that randomized nearly 15,000 smokers to vitamin E or placebo for about five years. No overall effect was found either way between the vitamin E and placebo groups. But upon subgroup analysis, it appeared that while lighter smokers living in cities appeared to benefit with about a 50 percent lower risk of catching the common cold, vitamin E appeared to be a detriment to heavier smokers living outside of cities––resulting in about a 50 percent increased risk. “Accordingly,” concluded the investigators, “caution should be maintained in public health recommendations on vitamin E supplementation until its effects are better understood.”\nThe pneumonia results from the same study took a similar turn. No overall effect of vitamin E compared to placebo, but upon further analysis, vitamin E appeared to decrease pneumonia risk among lighter smokers who exercised, yet it increased pneumonia risk among heavier smokers who did not. Higher pneumonia rates were also noted in those randomized to vitamin D, and were either low or high body weight––but only, apparently, among those with high dietary vitamin C intake. Heavy smokers who got a lot of vitamin C also seemed to have higher tuberculosis rates on vitamin E compared to placebo. This kind of slicing and dicing of data is frowned upon, as it can spawn spurious connections, and so these findings are regarded only as exploratory for further research directions.\nOverall mortality in the ATBC Study was similar between the vitamin E and placebo groups, though again there were subgroups that appeared to have their lives cut short or extended. There have been dozens of controlled clinical trials on vitamin E, and most meta-analyses found a small but apparent real increase in the risk of mortality among those randomized to vitamin E. In other words, those who buy vitamin E supplements may be in effect paying to live a shorter life. Across 46 trials, 12 percent died in the vitamin E groups, versus about 10 percent in the placebo groups. (This is similar to the increase in mortality seen with beta carotene supplementation—approximately 14 percent versus 11 percent across 26 randomized trials.)\nThe goal of the ATBC Study was to see if taking antioxidant supplements like vitamin E or beta carotene could help prevent lung cancer in smokers. Vitamin E had no effect on lung cancer, and beta-carotene unexpectedly actually increased lung cancer rates. But vitamin E did, incidentally, appear to reduce incident prostate cancer rates. This helped inspire the SELECT study, the largest cancer prevention trial ever performed. More than 35,000 men were randomized to take vitamin E, selenium, both, or neither (just placebos). The selenium didn’t appear to matter, but those randomized to the straight vitamin E group ended up with a 17 percent greater risk of developing prostate cancer. If 100 men took vitamin E for a decade, we would expect to see one or two of them be diagnosed with prostate cancer that they otherwise wouldn’t have gotten had they wasted their money on sugar pills instead.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Albanes D, Heinonen OP, Huttunen JK, et al. Effects of alpha-tocopherol and beta-carotene supplements on cancer incidence in the Alpha-Tocopherol Beta-Carotene Cancer Prevention Study. Am J Clin Nutr. 1995;62(6 Suppl):1427S-1430S.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7495243/"
+    },
+    {
+      "Title": "Alpha-Tocopherol, Beta Carotene Cancer Prevention Study Group. The effect of vitamin E and beta carotene on the incidence of lung cancer and other cancers in male smokers. N Engl J Med. 1994;330(15):1029-1035.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8127329/"
+    },
+    {
+      "Title": "Azzi A. Tocopherols, tocotrienols and tocomonoenols: Many similar molecules but only one vitamin E. Redox Biol. 2019;26:101259.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31254734/"
+    },
+    {
+      "Title": "Bjelakovic G, Nikolova D, Gluud LL, Simonetti RG, Gluud C. Antioxidant supplements for prevention of mortality in healthy participants and patients with various diseases. Cochrane Database Syst Rev. 2012;2012(3):CD007176.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22419320/"
+    },
+    {
+      "Title": "Curtis AJ, Bullen M, Piccenna L, McNeil JJ. Vitamin E supplementation and mortality in healthy people: a meta-analysis of randomised controlled trials. Cardiovasc Drugs Ther. 2014;28(6):563-573.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25398301/"
+    },
+    {
+      "Title": "Freemantle N. Interpreting the results of secondary end points and subgroup analyses in clinical trials: should we lock the crazy aunt in the attic? BMJ. 2001;322(7292):989-991.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11312237/"
+    },
+    {
+      "Title": "Goncalves-Mendes N, Talvas J, Dualé C, et al. Impact of vitamin d supplementation on influenza vaccine response and immune functions in deficient elderly persons: a randomized placebo-controlled trial. Front Immunol. 2019;10:65.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30800121/"
+    },
+    {
+      "Title": "Graat JM, Schouten EG, Kok FJ. Effect of daily vitamin E and multivitamin-mineral supplementation on acute respiratory tract infections in elderly persons: a randomized controlled trial. JAMA. 2002;288(6):715-721.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12169075/"
+    },
+    {
+      "Title": "Hemilä H, Kaprio J, Albanes D, Heinonen OP, Virtamo J. Vitamin C, vitamin E, and beta-carotene in relation to common cold incidence in male smokers. Epidemiology. 2002;13(1):32-37.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11805583/"
+    },
+    {
+      "Title": "Hemilä H, Kaprio J. Modification of the effect of vitamin E supplementation on the mortality of male smokers by age and dietary vitamin C. Am J Epidemiol. 2009;169(8):946-953.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19218294/"
+    },
+    {
+      "Title": "Hemilä H, Kaprio J. Subgroup analysis of large trials can guide further research: a case study of vitamin E and pneumonia. Clin Epidemiol. 2011;3:51-59.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21386974/"
+    },
+    {
+      "Title": "Hemilä H, Kaprio J. Vitamin E supplementation and pneumonia risk in males who initiated smoking at an early age: effect modification by body weight and dietary vitamin C. Nutr J. 2008;7:33.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19019244/"
+    },
+    {
+      "Title": "Hemilä H, Kaprio J. Vitamin E supplementation may transiently increase tuberculosis risk in males who smoke heavily and have high dietary vitamin C intake. Br J Nutr. 2008;100(4):896-902.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18279551/"
+    },
+    {
+      "Title": "Hemilä H, Virtamo J, Albanes D, Kaprio J. The effect of vitamin E on common cold incidence is modified by age, smoking and residential neighborhood. J Am Coll Nutr. 2006;25(4):332-339.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16943455/"
+    },
+    {
+      "Title": "Hemilä H, Virtamo J, Albanes D, Kaprio J. Vitamin E and beta-carotene supplementation and hospital-treated pneumonia incidence in male smokers. Chest. 2004;125(2):557-565.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14769738/"
+    },
+    {
+      "Title": "Hemilä H. Vitamin E administration may decrease the incidence of pneumonia in elderly males. Clin Interv Aging. 2016;11:1379-1385.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27757026/"
+    },
+    {
+      "Title": "Jolliffe DA, Camargo CA, Sluyter JD, et al. Vitamin D supplementation to prevent acute respiratory infections: a systematic review and meta-analysis of aggregate data from randomised controlled trials. Lancet Diabetes Endocrinol. 2021;9(5):276-292.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33798465/"
+    },
+    {
+      "Title": "Klein EA, Thompson IM, Tangen CM, et al. Vitamin E and the risk of prostate cancer: the Selenium and Vitamin E Cancer Prevention Trial(SELECT). JAMA. 2011;306(14):1549-1556.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21990298/"
+    },
+    {
+      "Title": "Klein EA. Selenium and vitamin E: interesting biology and dashed hope. J Natl Cancer Inst. 2009;101(5):283-285.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19244172/"
+    },
+    {
+      "Title": "Meydani SN, Leka LS, Fine BC, et al. Vitamin E and respiratory tract infections in elderly nursing home residents: a randomized controlled trial. JAMA. 2004;292(7):828-836.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15315997/"
+    },
+    {
+      "Title": "Meydani SN, Meydani M, Blumberg JB, et al. Vitamin E supplementation and in vivo immune response in healthy elderly subjects. A randomized controlled trial. JAMA. 1997;277(17):1380-1386.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9134944/"
+    },
+    {
+      "Title": "Neupane B, Walter SD, Krueger P, Marrie T, Loeb M. Predictors of inhospital mortality and re-hospitalization in older adults with community-acquired pneumonia: a prospective cohort study. BMC Geriatr. 2010;10:22.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20459844/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "common cold",
+      "Url": "https://nutritionfacts.org/topics/common-cold/"
+    },
+    {
+      "Title": "fever",
+      "Url": "https://nutritionfacts.org/topics/fever/"
+    },
+    {
+      "Title": "hepatitis",
+      "Url": "https://nutritionfacts.org/topics/hepatitis/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "pneumonia",
+      "Url": "https://nutritionfacts.org/topics/pneumonia/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "selenium",
+      "Url": "https://nutritionfacts.org/topics/selenium/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vaccines",
+      "Url": "https://nutritionfacts.org/topics/vaccines/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    },
+    {
+      "Title": "vitamin D",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d/"
+    },
+    {
+      "Title": "vitamin E",
+      "Url": "https://nutritionfacts.org/topics/vitamin-e/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><a href=\"https://nutritionfacts.org/video/can-vitamin-e-or-selenium-supplements-prevent-or-treat-alzheimers/\"><span style=\"font-weight: 400\">Can Vitamin E or Selenium Supplements Prevent or Treat Alzheimer’s?</span></a><span style=\"font-weight: 400\"> Check out the video.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "Title": "Microbiome Manipulation with Oligomannate for Treating Dementia",
+  "Url": "https://nutritionfacts.org/video/microbiome-manipulation-with-oligomannate-for-treating-dementia/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/G_sRUsaWP-Y"
+  },
+  "UpdatedAt": "2025-03-03T12:50:03+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 68",
+    "Url": "https://nutritionfacts.org/volumes/volume-68/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A prebiotic derived from a type of brown seaweed is used for mild to moderate Alzheimer’s dementia in China. Does it work?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn 2020, a remarkable case report was published entitled “Rapid Improvement in Alzheimer’s Disease Symptoms Following Fecal Microbiota Transplantation: A Case Report.” The FDA allows the use of fecal transplants for the treatment of recalcitrant infections of a bad bug known as C diff. Serendipitous improvements following such transplants across a range of conditions have been reported, including autism, baldness, and multiple sclerosis.\nThe dementia report involved an 82-year-old man with a five-year history of gradually declining memory and cognition. His Mini-Mental State Examination score was 20 (out of 30), indicating mild cognitive impairment. But two months after receiving a fecal transplant from his wife, his score was 26, which is considered normal cognition. By month six post-transplant, the patient achieved a near perfect score of 29, and he also reported a marked improvement in mood, social interaction, and expressiveness.\nThe potential role of gut flora in Alzheimer’s is not completely out of left field. Butyrate, which is what our good gut bugs produce when we eat fiber, is absorbed from our colon into our bloodstream, and can cross the blood-brain barrier and improve the memory function of mice and rats. In people, the microbiomes of Alzheimer’s patients have been found to have fewer good bugs—butyrate-producing bugs—and more bad bugs—pro-inflammatory bugs. One reason this isn’t just dismissed as a simple consequence of poorer (lower fiber) diets is that mice transplanted with stool from an Alzheimer’s patient perform significantly worse on cognitive tasks than those fed fecal samples from a non-demented individual. Could it be that fecal transplants actually help? We’ll find out soon, as a randomized, double-blind, placebo-controlled trial of fecal transplants for Alzheimer’s disease is currently underway.\nThere have been about two dozen studies of prebiotics, probiotics, and fermented foods for cognition. Most reported improvements in certain specific tasks, but the findings were inconsistent such that, overall, there was no significant improvement in global cognition, nor in any single cognitive domain. Of course, differences in dosing and formulations make it hard to draw conclusions from such heterogenous data points. There was a randomized, double-blind, placebo-controlled trial published that purported to show a significant improvement in Mini-Mental State Exam scores, but the validity of the data was later called into question. Similar concerns haunt oligomannate, a prebiotic conditionally approved to treat mild-to-moderate Alzheimer’s disease in China in 2019.\nTraditional Japanese eating patterns have been associated with better cognitive function in the elderly, and lower risk of dementia. That was evidently the inspiration to try oligomannate––a prebiotic derived from a type of brown seaweed––on a mouse model of Alzheimer’s disease. Cognition improved in the mice, but a subsequent 24-week human trial in Alzheimer’s patients failed to offer a significant benefit. Not to be discouraged, the Shanghai Green Valley Pharmaceutical Company, the developers of oligomannate, funded another human trial, a 36-week multicenter, randomized, double-blind, placebo-controlled trial of more than 800 patients with mild-to-moderate Alzheimer’s dementia. Significant improvements in cognition were noted, starting within four weeks in those randomized to oligomannate compared to placebo. Based on that trial, it went on sale in China in December 2019 for about $500 a month.\nCurrently, oligomannate is not marketed outside of China, but a similar phase 3 clinical trial is underway in North America, with trial completion expected in 2026. A safety analysis found that the overall incidence of adverse reactions did not differ significantly between those getting the active and placebo groups. Tempering enthusiasm is the shady history of Shanghai Green Valley Pharmaceutical Company, accused of a “whirlpool of … bribery and fraud” for illegally marketing supposed anti-cancer miracle drugs. A leading Chinese academic suggested oligomannate could “become the largest fraud case in China in the 21st century.” The lead developer of oligomannate joined hundreds of other Chinese researchers who have been accused of data falsification, though a Chinese Ministry of Science and Technology investigation concluded that only a “small amount of misused pictures were found.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Akbari E, Asemi Z, Daneshvar Kakhaki R, et al. Effect of probiotic supplementation on cognitive function and metabolic status in Alzheimer’s disease: a randomized, double-blind and controlled trial. Front Aging Neurosci. 2016;8:256.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27891089/"
+    },
+    {
+      "Title": "Bou Zerdan M, Hebbo E, Hijazi A, El Gemayel M, Nasr J, Nasr D, Yaghi M, Bouferraa Y, Nagarajan A. The gut microbiome and Alzheimer's disease: a growing relationship. Curr Alzheimer Res. 2022;19(12):808-818.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36578263/"
+    },
+    {
+      "Title": "Frontiers Editorial Office. Expression of concern: effect of probiotic supplementation on cognitive function and metabolic status in Alzheimer’s disease: a randomized, double-blind and controlled trial. Front Aging Neurosci. 2020;12:602204.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33192496/"
+    },
+    {
+      "Title": "Fujii Y, Nguyen TTT, Fujimura Y, et al. Fecal metabolite of a gnotobiotic mouse transplanted with gut microbiota from a patient with Alzheimer’s disease. Biosci Biotechnol Biochem. 2019;83(11):2144-2152.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31327302/"
+    },
+    {
+      "Title": "Govindarajan N, Agis-Balboa RC, Walter J, Sananbenesi F, Fischer A. Sodium butyrate improves memory function in an Alzheimer’s disease mouse model when administered at an advanced stage of disease progression. J Alzheimers Dis. 2011;26(1):187-197.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21593570/"
+    },
+    {
+      "Title": "Haran JP, Bhattarai SK, Foley SE, et al. Alzheimer’s disease microbiome is associated with dysregulation of the anti-inflammatory p-glycoprotein pathway. mBio. 2019;10(3):e00632-19.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31064831/"
+    },
+    {
+      "Title": "Hazan S. Rapid improvement in Alzheimer’s disease symptoms following fecal microbiota transplantation: a case report. J Int Med Res. 2020;48(6):300060520925930.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32600151/"
+    },
+    {
+      "Title": "Kang DW, Adams JB, Coleman DM, et al. Long-term benefit of Microbiota Transfer Therapy on autism symptoms and gut microbiota. Sci Rep. 2019;9(1):5821.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30967657/"
+    },
+    {
+      "Title": "Liu Q, Sylvia S. Academic integrity disputes in China: a narrative case study. Hist Philos Med. 2022;4(2):12.",
+      "Url": "https://www.tmrjournals.com/article.html?J_num=8&a_id=1998"
+    },
+    {
+      "Title": "Makkawi S, Camara-Lemarroy C, Metz L. Fecal microbiota transplantation associated with 10 years of stability in a patient with SPMS. Neurol Neuroimmunol Neuroinflamm. 2018;5(4):e459.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29619403/"
+    },
+    {
+      "Title": "Marx W, Scholey A, Firth J, et al. Prebiotics, probiotics, fermented foods and cognitive outcomes: a meta-analysis of randomized controlled trials. Neurosci Biobehav Rev. 2020;118:472-484.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32860802/"
+    },
+    {
+      "Title": "Okubo H, Inagaki H, Gondo Y, et al. Association between dietary patterns and cognitive function among 70-year-old Japanese elderly: a cross-sectional analysis of the SONIC study. Nutr J. 2017;16(1):56.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28893250/"
+    },
+    {
+      "Title": "Ozawa M, Ninomiya T, Ohara T, et al. Dietary patterns and risk of dementia in an elderly Japanese population: the Hisayama Study. Am J Clin Nutr. 2013;97(5):1076-1082.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23553168/"
+    },
+    {
+      "Title": "Rebello D, Wang E, Yen E, Lio PA, Kelly CR. Hair growth in two alopecia patients after fecal microbiota transplant. ACG Case Rep J. 2017;4:e107.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28932754/"
+    },
+    {
+      "Title": "Reolon GK, Maurmann N, Werenicz A, et al. Posttraining systemic administration of the histone deacetylase inhibitor sodium butyrate ameliorates aging-related memory decline in rats. Behav Brain Res. 2011;221(1):329-332.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21421011/"
+    },
+    {
+      "Title": "Sodium Oligomannate (GV-971). Alzheimer's Drug Discovery Foundation. Aug 2023.",
+      "Url": "https://www.alzdiscovery.org/uploads/cognitive_vitality_media/Sodium_Oligomannate_(GV-971).pdf"
+    },
+    {
+      "Title": "Syed YY. Sodium oligomannate: first approval. Drugs. 2020;80(4):441-444.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32020555/"
+    },
+    {
+      "Title": "Wang T, Kuang W, Chen W, et al. A phase II randomized trial of sodium oligomannate in Alzheimer’s dementia. Alzheimers Res Ther. 2020;12(1):110.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32928279/"
+    },
+    {
+      "Title": "Wang X, Sun G, Feng T, et al. Sodium oligomannate therapeutically remodels gut microbiota and suppresses gut bacterial amino acids-shaped neuroinflammation to inhibit Alzheimer’s disease progression. Cell Res. 2019;29(10):787-803.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31488882/"
+    },
+    {
+      "Title": "Xiao S, Chan P, Wang T, et al. A 36-week multicenter, randomized, double-blind, placebo-controlled, parallel-group, phase 3 clinical trial of sodium oligomannate for mild-to-moderate Alzheimer’s dementia. Alzheimers Res Ther. 2021;13(1):62.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33731209/"
+    },
+    {
+      "Title": "von Reuss T, Gubar M, Resovski N. Oligomannate: finally new drug to treat Alzheimer’s disease. BioPharma Media. Apr 2022.",
+      "Url": "https://biopharma.media/oligomannate-finally-new-drug-to-treat-alzheimers-disease-426/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "butyrate",
+      "Url": "https://nutritionfacts.org/topics/butyrate/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "fecal transplant",
+      "Url": "https://nutritionfacts.org/topics/fecal-transplant/"
+    },
+    {
+      "Title": "fermented foods",
+      "Url": "https://nutritionfacts.org/topics/fermented-foods/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "memory",
+      "Url": "https://nutritionfacts.org/topics/memory/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "prebiotics",
+      "Url": "https://nutritionfacts.org/topics/prebiotics/"
+    },
+    {
+      "Title": "probiotics",
+      "Url": "https://nutritionfacts.org/topics/probiotics/"
+    },
+    {
+      "Title": "seaweed",
+      "Url": "https://nutritionfacts.org/topics/seaweed/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Check out these videos on brain health and food:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/benefits-of-grapes-for-brain-health/\"><span style=\"font-weight: 400\">Benefits of Grapes for Brain Health</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-to-prevent-alzheimers-with-diet/\"><span style=\"font-weight: 400\">How to Prevent Alzheimer’s with Diet</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/saffron-vs-memantine-namenda-for-alzheimers/\"><span style=\"font-weight: 400\">Saffron vs. Memantine (Namenda) for Alzheimer’s</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on our microbiome, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-to-cultivate-a-healthy-gut-microbiome-with-food/\"><span style=\"font-weight: 400\">How to Cultivate a Healthy Gut Microbiome with Food</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/how-to-keep-your-microbiome-healthy-with-prebiotic-foods/\"><span style=\"font-weight: 400\">How to Keep Your Microbiome Healthy with Prebiotic Foods</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/gut-dysbiosis-starving-microbial-self/\"><span style=\"font-weight: 400\">Gut Dysbiosis: Starving Our Microbial Self</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/whats-your-gut-microbiome-enterotype/\"><span style=\"font-weight: 400\">What’s Your Gut Microbiome Enterotype?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/microbiome-the-inside-story/\"><span style=\"font-weight: 400\">Microbiome: The Inside Story</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

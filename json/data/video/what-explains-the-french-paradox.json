@@ -1,0 +1,151 @@
+{
+  "Title": "What Explains the French Paradox?",
+  "Url": "https://nutritionfacts.org/video/what-explains-the-french-paradox/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/YxBk_76Q8BU"
+  },
+  "UpdatedAt": "2015-12-23T13:00:20+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 28",
+    "Url": "https://nutritionfacts.org/volumes/volume-28/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Why do heart attack rates appear lower than expected in France, given their saturated fat and cholesterol intake? Is it their red wine consumption, their vegetable consumption, or something else?",
+  "Transcript": "The so-called French Paradox is a term coined back in the 80’s by three Frenchmen to explain a curious finding. If you chart death from heart attack versus the amount of saturated fat and cholesterol countries consume, there appears to be a straight line. The more animal foods populations eat, the higher their death rates appear to be. Conversely, maybe if we got meat, egg, and dairy low enough, we could bring coronary death rates down to zero. But two countries fell outside the line. Finland seemed to be doing worse than expected, and France appeared to be doing better. Hence, the paradox. How could France have saturated fat and cholesterol intake similar to Finland, but five times fewer fatal heart attacks?\nEveryone had their pet theories. Was it the wining? Was it the dining? Yes, animal foods were associated with coronary heart disease mortality, but plant foods appeared protective. So, maybe the fact that the French were eating four times as many vegetables helps account for their lower death rates. But it turns out there’s apparently no paradox at all. As Marion Nestle astutely pointed out, the French had just recently started eating so unhealthy, and chronic diseases take decades to develop. The U.S. had been eating this way for 40 years, whereas the French had just picked it up. It’s like if we all started smoking today and found no measurable increase in lung cancer tomorrow, it wouldn’t mean smoking doesn’t cause lung cancer; it just takes a while. \n\nSo, what happens when you actually run the numbers? If you compare coronary death rates to the amount of animal fat and cholesterol levels at the time, France does seem unusually protected, and if you compare death rates to what they were eating two decades before, they’re still pretty far off the line. Ah, but it turns out French physicians under-report ischemic heart disease deaths on the death certificates by as much as 20%, according to a World Health Organization investigation.\nSo, if you correct for that, then, France basically comes right back in line with the death versus animal fat and death versus cholesterol lines, with about four times the fatal heart attack rates as Japan decades after four times the animal fat consumption.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A Evans. The French paradox and other ecological fallacies. Int J Epidemiol. 2011 Dec;40(6):1486-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22268235"
+    },
+    {
+      "Title": "J Ferrieres. The French paradox: lessons for other countries. Heart. 2004 Jan; 90(1): 107–111.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1768013/"
+    },
+    {
+      "Title": "M H Criquil, B L Ringel. Does diet or alcohol explain the French paradox? Lancet. 1994 Dec 24-31;344(8939-8940):1719-23.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/7996999"
+    },
+    {
+      "Title": "M L Burr. Explaining the French paradox. J R Soc Health. 1995 Aug;115(4):217-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/7562866"
+    },
+    {
+      "Title": "M Law, N Wald. Why heart disease mortality is low in France: the time lag explanation. BMJ. 1999 May 29; 318(7196): 1471–1480.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1115846/"
+    },
+    {
+      "Title": "S M Artaud-Wild, S L Connor, G Sexton, W E Connor. Differences in coronary mortality can be explained by differences in cholesterol and saturated fat intakes in 40 countries but not in France and Finland. A paradox. Circulation. 1993 Dec;88(6):2771-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/8252690"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Ross Websdale via Flickr.",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "Finland",
+      "Url": "https://nutritionfacts.org/topics/finland/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "red wine",
+      "Url": "https://nutritionfacts.org/topics/red-wine/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    },
+    {
+      "Title": "wine",
+      "Url": "https://nutritionfacts.org/topics/wine/"
+    },
+    {
+      "Title": "World Health Organization",
+      "Url": "https://nutritionfacts.org/topics/world-health-organization/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you’re wondering about those meta-analyses that show saturated fat is not associated with disease and you thought “butter was back,” check out my videos, <a href=\"https://nutritionfacts.org/video/the-saturated-fat-studies-set-up-to-fail/\">The Saturated Fat Studies: Set Up to Fail</a> and <a href=\"https://nutritionfacts.org/video/the-saturated-fat-studies-buttering-up-the-public/\">The Saturated Fat Studies: Buttering Up the Public</a>.</p>\n<p>What about the egg industry studies claiming dietary cholesterol is benign? See <a href=\"https://nutritionfacts.org/video/does-cholesterol-size-matter/\">Does Cholesterol Size Matter?</a> and <a href=\"https://nutritionfacts.org/video/how-the-egg-board-designs-misleading-studies/\">How the Egg Board Designs Misleading Studies</a> for more on this.</p>\n<p>Were you hoping the lower heart attack rates in France were thanks to red wine? What about that resveratrol compound in grape skins? See my video, <a href=\"https://nutritionfacts.org/video/resveratrol-impairs-exercise-benefits/\">Resveratrol Impairs Exercise Benefits</a>.</p>\n<p>And, for an overview of heart disease, see <a href=\"https://nutritionfacts.org/video/how-not-to-die-from-heart-disease/\">How Not to Die from Heart Disease</a>. </p>\n<p>In 2018, I released a new series on alcohol. Check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/can-alcohol-cause-cancer/\">Can Alcohol Cause Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-source-of-resveratrol/\">The Best Source of Resveratrol</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-it-better-to-drink-little-alcohol-than-none-at-all/\">Is It Better to Drink a Little Alcohol than None at All?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-any-benefits-of-alcohol-outweigh-the-risks/\">Do Any Benefits of Alcohol Outweigh the Risks?</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

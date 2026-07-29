@@ -1,0 +1,239 @@
+{
+  "Title": "The Safety of Heme vs. Non-Heme Iron",
+  "Url": "https://nutritionfacts.org/video/the-safety-of-heme-vs-non-heme-iron/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/cq84RZVR_C0"
+  },
+  "UpdatedAt": "2015-06-05T11:00:45+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 25",
+    "Url": "https://nutritionfacts.org/volumes/volume-25/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Heme iron, the type found predominantly in blood and muscle, is absorbed better than the non-heme iron that predominates in plants, but may increase the risk of cancer, stroke, heart disease, and metabolic syndrome.",
+  "Transcript": "Iron in Plant-Based Diets\nIt is commonly thought that those who eat plant-based diets may be more prone to iron deficiency, but it turns out that they’re no more likely to suffer from iron deficiency anemia than anybody else. This may be because not only do those eating meat-free diets tend to get more fiber, and magnesium, and vitamins like A, C, and E; they also get more iron. But the iron found in plants is non-heme iron. Those eating meat-free diets don’t get any of the heme iron found in blood and muscle, which may be a good thing. The avoidance of heme iron may be one of the key elements of plant-based protection against metabolic syndrome, and may also be beneficial in lowering heart disease risk.\nIron and Heart Disease and Stroke Risk\nThe link between iron intake and coronary heart disease has been contentiously debated, but the inconsistency of the evidence may be because the majority of total dietary iron comes mostly from plants and so total iron intake is associated with lower heart disease risk. But if you just look at iron intake from meat, it’s associated with significantly higher risk for heart disease. This is thought to be because iron can act as a pro-oxidant contributing to the development of atherosclerosis by oxidizing cholesterol with free radicals. The risk has been quantified as a 27% increase in coronary heart disease risk for every one milligram of heme iron consumed daily.\nThe same has been found for stroke risk. The studies on iron intake and stroke have had conflicting results, but that may be because they had never separated out heme from non-heme iron, until this study, which found that the intake of heme iron–but not non-heme iron–was associated with an increased risk of stroke, as well as diabetes. Higher heme iron (animal iron) intake was significantly associated with greater risk for type 2 diabetes, but not total or non-heme iron (plant iron); 16% increase in risk for every daily milligram of heme iron consumed. And the same for cancer, with up to 12% increased risk for every milligram of daily heme iron exposure. In fact, you can actually tell how much meat someone is eating by looking at their tumors. To characterize the mechanisms underlying meat-related lung cancer development, they asked lung cancer patients how much meat they ate, and examined the gene expression patterns in their tumors, and identified a signature pattern of heme-related gene expression. Though they just looked at lung cancer, they expect these meat-related gene expression changes may occur in other cancers as well.\nWeird Ways to Boost Iron Intake\nWe do need to get enough iron. Only about 3% of premenopausal white women have iron deficiency anemia these days, but the rates are worse in African- and Mexican-Americans. Taking our leading killers into account—heart disease, cancer, diabetes—the healthiest source of iron appears to be non-heme iron, found naturally in abundance in whole grains, beans, split peas, chickpeas, and lentils, dark green leafy vegetables, dried fruits, and nuts and seeds. But how much money can be made on beans? So the industry came up with a blood-based crispbread, made out of rye and cattle and pig blood–one of the most concentrated sources of heme iron, about two thirds more than chicken blood. If blood-based crackers don’t sound appetizing, there’s always cow-blood cookies and blood-filled biscuits. The filling ends up a dark-colored, chocolate-flavored paste with a very pleasant taste; dark-colored because spray-dried pig blood can have a darkening effect on the food product’s color. But the worry is not the color or taste; it’s the heme iron, which, because of its potential cancer risk, is not considered safe to add to foods intended for the general population.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A Fonseca-Nunes, P Jakszyn, A Agudo. Iron and cancer risk--a systematic review and meta-analysis of the epidemiological evidence. Cancer Epidemiol Biomarkers Prev. 2014 Jan;23(1):12-31. doi: 10.1158/1055-9965.EPI-13-0733",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24243555"
+    },
+    {
+      "Title": "A V Saunders, W J Craig, S K Baines, J S Posen. Iron and vegetarian diets. Med J Aust. 2013 Aug 19;199(4 Suppl):S11-6. doi: 10.1016/j.ijcard.2013.12.176.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25369923"
+    },
+    {
+      "Title": "B Farmer, B T Larson, V L Fulgoni 3rd, A J Rainville, G U Liepa. A vegetarian dietary pattern as a nutrient-dense approach to weight management: an analysis of the national health and nutrition examination survey 1999-2004. J Am Diet Assoc. 2011 Jun;111(6):819-27. doi: 10.1016/j.jada.2011.03.012.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21616194"
+    },
+    {
+      "Title": "B Farmer. Nutritional adequacy of plant-based diets for weight management: observations from the NHANES. Am J Clin Nutr. 2014 Jul;100 Suppl 1:365S-8S. doi: 10.3945/ajcn.113.071308.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24871478"
+    },
+    {
+      "Title": "EFSA Panel on Food Additives and Nutrient Sources added to Food. Scientific Opinion on the safety of heme iron (blood peptonates) for the proposed uses as a source of iron added for nutritional purposes to foods for the general population, including food supplements. EFSA Journal 2010;8(4):1585 [31pp.]. doi:10.2903/j.efsa.2010.1585",
+      "Url": "http://www.efsa.europa.eu/en/efsajournal/pub/1585.htm"
+    },
+    {
+      "Title": "G González-Rosendo, J Polo, J J Rodríguez-Jerez, R Puga-Díaz, E G Reyes-Navarrete, A G Quintero-Gutiérrez. Bioavailability of a heme-iron concentrate product added to chocolate biscuit filling in adolescent girls living in a rural area of Mexico. J Food Sci. 2010 Apr;75(3):H73-8. doi: 10.1111/j.1750-3841.2010.01523.x.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20492296"
+    },
+    {
+      "Title": "G Turner-McGrievy, M Harris. Key elements of plant-based diets associated with reduced risk of metabolic syndrome. Curr Diab Rep. 2014;14(9):524. doi: 10.1007/s11892-014-0524-y.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25084991"
+    },
+    {
+      "Title": "J Hunnicutt, K He, P Xun. Dietary iron intake and body iron stores are associated with risk of coronary heart disease in a meta-analysis of prospective cohort studies. J Nutr. 2014 Mar;144(3):359-66 doi: 10.3945/jn.113.185124.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24401818"
+    },
+    {
+      "Title": "J Kaluza, A Wolk, SC Larsson. Heme iron intake and risk of stroke: a prospective study of men. Stroke. 2013 Feb;44(2):334-9. doi: 10.1161/STROKEAHA.112.679662.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23306319"
+    },
+    {
+      "Title": "J Kaluza, S C Larsson, N Håkansson, A Wolk. Heme iron intake and acute myocardial infarction: a prospective study of men. Int J Cardiol. 2014 Mar 1;172(1):155-60. doi: 10.1016/j.ijcard.2013.12.176.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24456871"
+    },
+    {
+      "Title": "M Hoppe, B Brün, M P Larsson, L Moraeus, L Hulthén. Heme iron-based dietary intervention for improvement of iron status in young women. Nutrition. 2013 Jan;29(1):89-95. doi: 10.1016/j.nut.2012.04.013.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22951158"
+    },
+    {
+      "Title": "R Kongkachuichai, P Napatthalung, R Charoensiri. Heme and nonheme iron content of animal products commonly consumed in Thailand. J Food Comp Anal, 2002 15(4), 389",
+      "Url": "http://www.sciencedirect.com/science/article/pii/S088915750291080X"
+    },
+    {
+      "Title": "S E Cusick, Z Mei, D S Freedman, A C Looker, C L Ogden, E Gunter, M E Cogswell. Unexplained decline in the prevalence of anemia among US children and women between 1988-1994 and 1999-2002. Am J Clin Nutr. 2008 Dec;88(6):1611-7. doi: 10.3945/ajcn.2008.25926.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19064522"
+    },
+    {
+      "Title": "T K Lam, M Rotunno, B M Ryan, A C Pesatori, P A Bertazzi, M Spitz, N E Caporaso, M T Landi. Heme-related gene expression signatures of meat intakes in lung cancer tissues. Mol Carcinog. 2014 Jul;53(7):548-56. doi: 10.1002/mc.22006.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23681825"
+    },
+    {
+      "Title": "T Walter, E Hertrampf, F Pizarro, M Olivares, S Llaguno, A Letelier, V Vega, A Stekel. Effect of bovine-hemoglobin-fortified cookies on iron status of schoolchildren: a nationwide program in Chile. Am J Clin Nutr. 1993 Feb;57(2):190-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/8424387"
+    },
+    {
+      "Title": "W Bao, Y Rong, S Rong, L Liu. Dietary iron intake, body iron stores, and the risk of type 2 diabetes: a systematic review and meta-analysis. BMC Med. 2012 Oct 10;10:119. doi: 10.1186/1741-7015-10-119.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23046549"
+    },
+    {
+      "Title": "W Yang, B Li, X Dong, X Q Zhang, Y Zeng, J L Zhou, Y H Tang, J J Xu. Is heme iron intake associated with risk of coronary heart disease? A meta-analysis of prospective studies. Eur J Nutr. 2014;53(2):395-400. doi: 10.1007/s00394-013-0535-5.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23708150"
+    }
+  ],
+  "Acknowledgements": "Images thanks to JD Hancock via Flickr and Adobe.",
+  "Topics": [
+    {
+      "Title": "African Americans",
+      "Url": "https://nutritionfacts.org/topics/african-americans/"
+    },
+    {
+      "Title": "anemia",
+      "Url": "https://nutritionfacts.org/topics/anemia/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "Black Americans",
+      "Url": "https://nutritionfacts.org/topics/black-americans/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "chickpeas",
+      "Url": "https://nutritionfacts.org/topics/chickpeas/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "cruciferous vegetables",
+      "Url": "https://nutritionfacts.org/topics/cruciferous-vegetables/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "dried fruit",
+      "Url": "https://nutritionfacts.org/topics/dried-fruit/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heme iron",
+      "Url": "https://nutritionfacts.org/topics/heme-iron/"
+    },
+    {
+      "Title": "iron",
+      "Url": "https://nutritionfacts.org/topics/iron/"
+    },
+    {
+      "Title": "legumes",
+      "Url": "https://nutritionfacts.org/topics/legumes/"
+    },
+    {
+      "Title": "lentils",
+      "Url": "https://nutritionfacts.org/topics/lentils/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "magnesium",
+      "Url": "https://nutritionfacts.org/topics/magnesium/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "metabolic syndrome",
+      "Url": "https://nutritionfacts.org/topics/metabolic-syndrome/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "rye",
+      "Url": "https://nutritionfacts.org/topics/rye/"
+    },
+    {
+      "Title": "seeds",
+      "Url": "https://nutritionfacts.org/topics/seeds/"
+    },
+    {
+      "Title": "split peas",
+      "Url": "https://nutritionfacts.org/topics/split-peas/"
+    },
+    {
+      "Title": "vitamin A",
+      "Url": "https://nutritionfacts.org/topics/vitamin-a/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    },
+    {
+      "Title": "vitamin E",
+      "Url": "https://nutritionfacts.org/topics/vitamin-e/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I’ve previously touched on the double-edged iron sword in <a href=\"https://nutritionfacts.org/video/risk-associated-with-iron-supplements/\">Risk Associated With Iron Supplements</a> and <a href=\"https://nutritionfacts.org/video/phytates-for-the-prevention-of-cancer/\">Phytates for the Prevention of Cancer</a>. It may even help explain <a href=\"https://nutritionfacts.org/video/why-was-heart-disease-rare-in-the-mediterranean/\">Why Was Heart Disease Rare in the Mediterranean?</a></p>\n<p>Those eating plant-based diets get more of most nutrients since whole plant foods are so nutrient dense. See <a href=\"https://nutritionfacts.org/video/nutrient-dense-approach-to-weight-management/\">Nutrient-Dense Approach to Weight Management</a>.</p>\n<p>2021 Update: I just did a new series on plant-based meats that also looks at heme iron. Check it out: </p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/what-about-the-heme-in-impossible-burgers/\">What About the Heme in Impossible Burgers?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-heme-iron-cause-cancer/\">Does Heme Iron Cause Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/heme-induced-n-nitroso-compounds-and-fat-oxidation/\">Heme-Induced N-Nitroso Compounds and Fat Oxidation</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-heme-iron-the-reason-meat-is-carcinogenic/\">Is Heme Iron the Reason Meat Is Carcinogenic?</a></li>\n</ul>\n<p>And <a href=\"https://nutritionfacts.org/video/does-coffee-inhibit-iron-absorption-what-are-the-effects-of-having-too-much-iron/\">Does Coffee Inhibit Iron Absorption? What Are the Effects of Having Too Much Iron?</a> Watch the video to find out.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

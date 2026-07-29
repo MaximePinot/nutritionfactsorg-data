@@ -1,0 +1,123 @@
+{
+  "Title": "Side Effects of Metformin as a Life-Extension Drug",
+  "Url": "https://nutritionfacts.org/video/side-effects-of-metformin-as-a-life-extension-drug/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/HijDsW8ITUk"
+  },
+  "UpdatedAt": "2024-07-24T11:50:47+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 66",
+    "Url": "https://nutritionfacts.org/volumes/volume-66/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "As a mild mitochondrial poison, metformin carries a variety of downsides.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe apparent reductions in mortality from all causes put together, and diseases of aging associated with metformin use, suggest that the drug metformin could be extending life and healthspans by acting as a geroprotective, or anti-aging, agent. What might the downsides be? Gastrointestinal side effects, such as ﬂatulence, indigestion, and abdominal discomfort are relatively common. More than half starting metformin report diarrhea, for example, and a quarter experience nausea or vomiting. About 10 percent unknowingly taking the placebo report similar symptoms, though. So, the actual proportion of people suffering such symptoms due to the drug is probably more like one in three. Most of these effects tend to be transient, though, and can be minimized by taking metformin with food, and starting at a suboptimal dose, increasing gradually to target over a period of weeks. Once-a-day extended-release versions also tend to be more tolerable.\nThe most dreaded side effect, though, is lactic acidosis––the potentially fatal buildup of acid in the blood. I mean, poisoning of the mitochondria is kind of the whole point. That’s what activates AMPK––but it’s supposed to be a mild mitochondrial poison. But sometimes it evidently poisons a bit too much. Thankfully, metformin-induced lactic acidosis is extremely rare. It has a fatality rate of 50 percent, but only occurs at a rate of about 0.03 cases per 1,000 patient years. That means taking metformin for a year only has about a one in 67,000 chance of killing you.\nLactic acidosis is primary caused by insufficient metformin clearance by the kidneys. So, risk can be minimized by, for example, temporarily stopping the drug when undergoing procedures that place the kidneys at risk––such as major surgery, or intravenous contrast dyes used for certain imaging procedures. Those with mild to moderate kidney disease can still benefit from metformin at an adjusted dose. Elderly individuals should have their kidney function tested before starting metformin, and regularly monitored. Excess alcohol consumption is also believed to increase the risk of fatal metformin-induced lactic acidosis.\nOne of the more insidious side effects is B12 deficiency, affecting as many as one in three long-term metformin users, but can start as early as a few months. The mechanism is still unclear, but routine monitoring of B12 status has been recommended, and B12 supplementation has been suggested.\nAnother adverse consequence of metformin is less side effect than main effect. Remember how metformin is a mild mitochondrial poison? The way metformin boosts AMPK is by impairing our body’s ability to produce energy. What might that mean for athletic performance? Healthy men and women were found to suffer a significant decline in peak aerobic capacity after only about a week on metformin. The average hit was only 3 percent, though, which could be meaningful for an elite athlete, but would be unlikely to impede recreational physical activity. However, some individuals lost as much as 10 percent, which could be noticeably fatiguing. Note these detriments were only found at or near maximal workloads, and so, most active individuals would be unlikely to experience an impairment of routine activity. Over the long term, though, metformin may undercut physical fitness.\nOlder adults were randomized to 12 weeks of supervised aerobic exercise on or off metformin. They trained for 45 minutes three times a week on a treadmill, bike, or elliptical, ramping up to a vigorous target of 85 percent of their maximal heart rate. Unfortunately, metformin attenuated the improvement in physiological function after exercise training. Cardiovascular fitness is so important; yet, after three months, metformin cut their improvement in cardiorespiratory fitness in half compared to placebo––though this didn’t reach statistical significance. Metformin did, however, significantly blunt their improvement in whole-body insulin sensitivity, which normally improves with physical activity.\nAerobic exercise (or “cardio”) is critical for maintaining cardiovascular fitness, whereas resistance exercise (also known as strength training, for example, with weights or bands) is essential for maintaining muscle mass as we age. In 2019, the so-called MASTERS trial was published, investigating what metformin might do to muscle gains, and the title of the paper gives it away: “Metformin blunts muscle hypertrophy in response to progressive resistance exercise training in older adults.” After 14 weeks of progressive resistance training, men and women in the placebo group accrued significant lean body mass, but those randomized to the metformin group did not. For example, about a four percent gain in thigh muscle mass in the placebo group, versus virtually none in the metformin group. The differences in strength, however, did not reach statistical significance.\nSo, might the benefits of metformin outweigh the risks for expanding the healthspan and lifespan of even nondiabetics? The investigators reviewing the evidence that diabetics taking metformin live longer, on average, than nondiabetics, concluded their “results suggest that metformin could be an effective intervention to extend the lifespans of people who do not have diabetes.” You can’t know, though, until you put it to the test, which I’ll explore, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Braun B, Eze P, Stephens BR, et al. Impact of metformin on peak aerobic capacity. Appl Physiol Nutr Metab. 2008;33(1):61-67.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18347654/"
+    },
+    {
+      "Title": "Campbell JM, Bellman SM, Stephenson MD, Lisy K. Metformin reduces all-cause mortality and diseases of ageing independent of its effect on diabetes control: A systematic review and meta-analysis. Ageing Res Rev. 2017;40:31-44.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28802803/"
+    },
+    {
+      "Title": "Chapman LE, Darling AL, Brown JE. Association between metformin and vitamin B12 deficiency in patients with type 2 diabetes: A systematic review and meta-analysis. Diabetes Metab. 2016;42(5):316-327.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27130885/"
+    },
+    {
+      "Title": "Fujita Y, Inagaki N. Metformin: new preparations and nonglycemic benefits. Curr Diab Rep. 2017;17(1):5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28116648"
+    },
+    {
+      "Title": "GLUCOPHAGE® (metformin hydrochloride tablets). Bristol-Myers Squibb Company.",
+      "Url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2000/21202lbl.pdf"
+    },
+    {
+      "Title": "Hu Y, Lei M, Ke G, et al. Metformin use and risk of all-cause mortality and cardiovascular events in patients with chronic kidney disease-a systematic review and meta-analysis. Front Endocrinol (Lausanne). 2020;11:559446.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33117278/"
+    },
+    {
+      "Title": "Ingram DK, Roth GS. Calorie restriction mimetics: can you have your cake and eat it, too? Ageing Res Rev. 2015;20:46-62.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25530568/"
+    },
+    {
+      "Title": "Konopka AR, Laurin JL, Schoenberg HM, et al. Metformin inhibits mitochondrial adaptations to aerobic exercise training in older adults. Aging Cell. 2019;18(1):e12880.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30548390/"
+    },
+    {
+      "Title": "López-Otín C, Blasco MA, Partridge L, Serrano M, Kroemer G. The hallmarks of aging. Cell. 2013;153(6):1194-1217.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23746838/"
+    },
+    {
+      "Title": "Soukas AA, Hao H, Wu L. Metformin as anti-aging therapy: is it for everyone? Trends Endocrinol Metab. 2019;30(10):745-755.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31405774/"
+    },
+    {
+      "Title": "Varjabedian L, Bourji M, Pourafkari L, Nader ND. Cardioprotection by metformin: beneficial effects beyond glucose reduction. Am J Cardiovasc Drugs. 2018;18(3):181-193.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29478240/"
+    },
+    {
+      "Title": "Walton RG, Dungan CM, Long DE, et al. Metformin blunts muscle hypertrophy in response to progressive resistance exercise training in older adults: A randomized, double-blind, placebo-controlled, multicenter trial: The MASTERS trial. Aging Cell. 2019;18(6):e13039.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31557380/"
+    },
+    {
+      "Title": "Yang W, Cai X, Wu H, Ji L. Associations between metformin use and vitamin B12 levels, anemia, and neuropathy in patients with diabetes: a meta-analysis. J Diabetes. 2019;11(9):729-743.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30615306/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "AMPK",
+      "Url": "https://nutritionfacts.org/topics/ampk/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "diarrhea",
+      "Url": "https://nutritionfacts.org/topics/diarrhea/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "kidney function",
+      "Url": "https://nutritionfacts.org/topics/kidney-function/"
+    },
+    {
+      "Title": "metformin",
+      "Url": "https://nutritionfacts.org/topics/metformin/"
+    },
+    {
+      "Title": "nausea",
+      "Url": "https://nutritionfacts.org/topics/nausea/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the fourth video in a five-part series. If you missed any so far, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/naturally-boosting-ampk-with-caloric-restriction-for-life-extension/\"><span style=\"font-weight: 400\">Naturally Boosting AMPK with Caloric Restriction for Life Extension</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/naturally-boosting-ampk-with-exercise-for-life-extension/\"><span style=\"font-weight: 400\">Naturally Boosting AMPK with Exercise for Life Extension</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-metformin-work-as-a-life-extension-drug/\">Does Metformin Work as a Life-Extension Drug?</a></li>\n</ul>\n<p><span style=\"font-weight: 400\">And stay tuned for </span><a href=\"https://nutritionfacts.org/video/the-tame-trial-targeting-aging-with-metformin/\"><span style=\"font-weight: 400\">The TAME Trial: Targeting Aging with Metformin</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">AMPK is one of the anti-aging pathways I highlight in my longevity book, </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

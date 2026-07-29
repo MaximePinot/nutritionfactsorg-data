@@ -1,0 +1,163 @@
+{
+  "Title": "Do Potatoes Increase the Risk of Diabetes?",
+  "Url": "https://nutritionfacts.org/video/do-potatoes-increase-the-risk-of-diabetes/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/pxNEWkar_o0"
+  },
+  "UpdatedAt": "2022-02-07T12:50:57+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 56",
+    "Url": "https://nutritionfacts.org/volumes/volume-56/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Does the link between white potatoes and diabetes extend to non-fried potatoes without butter or sour cream?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe trouble for white potatoes began in 2006, when the Harvard Nurses’ Health Study, which had followed the diets and diseases of tens of thousands of women for 20 years, found that greater potato intake was associated with a greater likelihood of getting type 2 diabetes. Okay, but wait. Of the hundred or so pounds of potatoes Americans eat every year, most are in the deep-fried form of potato chips or French fries. What happened when they looked specifically at mashed or baked potatoes?  They found the same link with diabetes. Okay, but what might potato eaters eat more of? I’ll give you a hint by rephrasing that as: what might meat-and-potatoes people eat more of? Indeed, people who ate more potatoes ate more meat, and we know that animal protein on its own is associated with increased diabetes risk. But the researchers tried to statistically adjust for that and still found increased risk with potatoes.\nWell, what do people put on baked and mashed potatoes? Butter and sour cream. Again, the researchers tried to adjust for other dietary factors like these, as well as effectively looking at the ratio between plant and animal fats, and whether potato-eaters drank more soda, or maybe skimped on other vegetables. And still there seemed to be this potato/diabetes association.\nOkay, but that was just one study. By 2015, Harvard researchers had also looked into other cohorts, including the all-male Health Professionals Follow-up Study to complement the all-female Nurse’s studies, and they continued to find a small increased diabetes risk associated with baked, boiled, or mashed potatoes––though French fries do indeed appear nearly five times worse. The authors concluded that potatoes are considered to be a healthful vegetable in dietary guidelines; however, the current ﬁndings cast serious doubts on that classiﬁcation. Walt Willett, the chair of Harvard’s nutrition department at the time, went a step further, suggesting potatoes should be siloed up there with candy.\nA meta-analysis of potato consumption and risk of type 2 diabetes published in 2018 combined all six of the prospective studies that have been done to date, and they found about a 20 percent increase in diabetes risk associated with each serving of potatoes a day, concluding long-term high consumption of potato may be strongly associated with increased risk of diabetes. But, again, the great majority of this potato consumption was fried, and we know there are all sorts of nasty things like advanced glycation end products in deep fried foods. The researchers weren’t able to assess French fries versus non-fried potatoes. Even just three servings of fries a week is associated with nearly 20 percent greater risk of type 2 diabetes, whereas there was only a tiny associated risk with potatoes in general, and that included the fries mixed in.\nThe world’s largest manufacturer of frozen French fries took issue with this conclusion. Laying claim to one in three fries eaten on planet Earth to the tune of billions of dollars, they have the money to fund reviews like this one to cast doubt on the science. But they do have an actual point. Observational studies can never prove cause-and-effect, and maybe potato consumption, even baked potato consumption, may just be a marker for an unhealthy diet in general. As much as researchers try to adjust for these other factors, as the journal of the Potato Association of America (American Journal of Potato Research) is quick to remind us, it’s not possible to completely separate the effects of potatoes and French fries from the effects of the overall crappy Standard American Diet.\nIf only there was a country where potato consumption was associated with a healthy diet. If potato consumption was still associated with diabetes there, then that would be concerning.  But here we go…a seventh study, but this time out of Iran, where not only is most of their potato consumption from boiled potatoes, but those who eat potatoes had the healthiest diets and ate the most whole plant foods—fruits, vegetables, whole grains, and beans. And though the researchers tried to tease out those other dietary factors, those eating the most boiled potatoes had only half the odds of developing diabetes. This supports the notion that it may be hard to completely separate out just the potatoes. The bottom line, this systematic review concluded, is that we really don’t have convincing evidence to date that the intake of potatoes in general is linked to type 2 diabetes, but we should still probably hold the fries.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Beals KA. Potatoes, nutrition and health. Am J Potato Res. 2019;96(2):102-10.",
+      "Url": "https://link.springer.com/article/10.1007/s12230-018-09705-4"
+    },
+    {
+      "Title": "Bidel Z, Teymoori F, Davari SJ, Nazarzadeh M. Potato consumption and risk of type 2 diabetes: A dose-response meta-analysis of cohort studies. Clin Nutr ESPEN. 2018;27:86-91.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30144898/"
+    },
+    {
+      "Title": "Borch D, Juul-Hindsgaul N, Veller M, Astrup A, Jaskolowski J, Raben A. Potatoes and risk of obesity, type 2 diabetes, and cardiovascular disease in apparently healthy adults: a systematic review of clinical intervention and observational studies. Am J Clin Nutr. 2016;104(2):489-98.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27413134/"
+    },
+    {
+      "Title": "Chiuve SE, Willett WC. The 2005 Food Guide Pyramid: an opportunity lost? Nat Clin Pract Cardiovasc Med. 2007;4(11):610-20.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17957208/"
+    },
+    {
+      "Title": "Decker EA, Ferruzzi MG. Innovations in food chemistry and processing to enhance the nutrient profile of the white potato in all forms. Adv Nutr. 2013;4(3):345S-50S.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23674803/"
+    },
+    {
+      "Title": "Farhadnejad H, Teymoori F, Asghari G, Mirmiran P, Azizi F. The association of potato intake with risk for incident type 2 diabetes in adults. Can J Diabetes. 2018;42(6):613-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29909965/"
+    },
+    {
+      "Title": "Halton TL, Willett WC, Liu S, Manson JE, Stampfer MJ, Hu FB. Potato and french fry consumption and risk of type 2 diabetes in women. Am J Clin Nutr. 2006;83(2):284-90.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16469985/"
+    },
+    {
+      "Title": "McCain Foods.",
+      "Url": "https://www.mccain.com/"
+    },
+    {
+      "Title": "McGill CR, Kurilich AC, Davignon J. The role of potatoes and potato components in cardiometabolic health: a review. Ann Med. 2013;45(7):467-73.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23855880/"
+    },
+    {
+      "Title": "Muraki I, Rimm EB, Willett WC, Manson JE, Hu FB, Sun Q. Potato consumption and risk of type 2 diabetes: results from three prospective cohort studies. Diabetes Care. 2016;39(3):376-84.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26681722/"
+    },
+    {
+      "Title": "Osella AR, Veronese N, Notarnicola M, et al. Potato consumption is not associated with higher risk of mortality: a longitudinal study among southern italian older adults. J Nutr Health Aging. 2018;22(6):726-30.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29806862/"
+    },
+    {
+      "Title": "Zhang Y, You D, Lu N, et al. Potatoes consumption and risk of type 2 diabetes: a meta-analysis. Iran J Public Health. 2018;47(11):1627-35.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30581777/"
+    },
+    {
+      "Title": "Zhao L-G, Zhang Q-L, Liu X-L, Wu H, Zheng J-L, Xiang Y-B. Dietary protein intake and risk of type 2 diabetes: a dose-response meta-analysis of prospective studies. Eur J Nutr. 2019;58(4):1351-67.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29858629/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "advanced glycation end-products (AGEs)",
+      "Url": "https://nutritionfacts.org/topics/advanced-glycation-end-products/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "butter",
+      "Url": "https://nutritionfacts.org/topics/butter/"
+    },
+    {
+      "Title": "carbohydrates",
+      "Url": "https://nutritionfacts.org/topics/carbohydrates/"
+    },
+    {
+      "Title": "cooking methods",
+      "Url": "https://nutritionfacts.org/topics/cooking-methods/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "Dr. Walter Willett",
+      "Url": "https://nutritionfacts.org/topics/dr-walter-willett/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "french fries",
+      "Url": "https://nutritionfacts.org/topics/french-fries/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "Harvard Nurses' Health Study",
+      "Url": "https://nutritionfacts.org/topics/harvard-nurses-health-study/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "potato chips",
+      "Url": "https://nutritionfacts.org/topics/potato-chips/"
+    },
+    {
+      "Title": "potatoes",
+      "Url": "https://nutritionfacts.org/topics/potatoes/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the first in a five-part series on potatoes. Stay tuned for:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/do-potatoes-increase-the-risk-of-high-blood-pressure-and-death/\">Do Potatoes Increase the Risk of High Blood Pressure and Death?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/glycemic-index-of-potatoes-why-you-should-chill-and-reheat-them/\">Glycemic Index of Potatoes: Why You Should Chill and Reheat Them</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-reduce-the-glycemic-impact-of-potatoes/\">How to Reduce the Glycemic Impact of Potatoes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-healthiest-type-of-potato/\">The Healthiest Type of Potato</a></li>\n</ul>\n<p>Interested in a sampling of diabetes videos? Check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/diabetes-as-a-disease-of-fat-toxicity/\">Diabetes as a Disease of Fat Toxicity</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-causes-diabetes/\">What Causes Diabetes?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-diets-for-diabetes/\">Plant-Based Diets for Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/turmeric-curcumin-for-prediabetes/\">Turmeric Curcumin for Prediabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/eggs-and-diabetes/\">Eggs and Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fish-and-diabetes/\">Fish and Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/diabetics-should-take-their-pulses/\">Diabetics Should Take Their Pulses</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-vinegar-help-with-blood-sugar-control/\">Can Vinegar Help with Blood Sugar Control?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/when-drugs-diets-dont-lower-diabetes-deaths/\">When Drugs and Diets Don’t Lower Diabetes Deaths</a></li>\n<li><a href=\"https://nutritionfacts.org/video/reversing-diabetes-with-food/\">Reversing Diabetes with Food</a></li>\n<li><a href=\"https://nutritionfacts.org/video/diabetes-reversal-is-it-the-calories-or-the-food/\">Diabetes Reversal: Is It the Calories or the Food?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-not-to-die-from-diabetes/\">How Not to Die from Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-ginger-beneficial-in-a-diabetic-diet/\">Is Ginger Beneficial in a Diabetic Diet?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/benefits-of-a-macrobiotic-diet-for-diabetes/\">Benefits of a Macrobiotic Diet for Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-a-ketogenic-diet-help-diabetes-or-make-it-worse/\">Does a Ketogenic Diet Help Diabetes or Make It Worse?</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

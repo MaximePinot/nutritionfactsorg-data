@@ -1,0 +1,71 @@
+{
+  "Title": "Food Mass Transit",
+  "Url": "https://nutritionfacts.org/video/food-mass-transit/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/YiZm7dESVs0"
+  },
+  "UpdatedAt": "2011-09-27T12:00:03+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 5",
+    "Url": "https://nutritionfacts.org/volumes/5/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Most women experience a four-day intestine transit time; likely too long to meet the target 200 gram (half pound) minimum fecal output for cancer prevention.",
+  "Transcript": "How long it takes food to get from one end to the other depends on gender and eating style. If you’re a vegetarian male, it should just be a day or two, though if you eat meat, it could end up being five days. Female vegetarians, also mostly one or two days, but those who eat meat are most likely looking at four days.\nIf it’s just 24, 36 hours, your daily stool weight, which is what’s flushing out all that excess estrogen and cholesterol, is probably going to hit that half-pound target—though if it’s a couple days, you’ll likely never make it.\nNow, if you have a really good bathroom scale, you can measure stool weight directly, to see if you hit that half pound minimum—by, of course, weighing yourself before and after.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Dianne Moore. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Burkitt DP, Walker AR, Painter NS. Effect of dietary fibre on stools and the transit-times, and its role in the causation of disease. Lancet. 1972 Dec 30;2(7792):1408-12.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed?term=4118696%5Buid%5D"
+    },
+    {
+      "Title": "Gear JS, Brodribb AJ, Ware A, Mann JI. Fibre and bowel transit times. Br J Nutr. 1981 Jan;45(1):77-82.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed?term=6258626%5Buid%5D"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Fuzzy Gerdes via Flickr",
+  "Topics": [
+    {
+      "Title": "bowel movements",
+      "Url": "https://nutritionfacts.org/topics/bowel-movements/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "colon health",
+      "Url": "https://nutritionfacts.org/topics/colon-health/"
+    },
+    {
+      "Title": "constipation",
+      "Url": "https://nutritionfacts.org/topics/constipation/"
+    },
+    {
+      "Title": "estrogen",
+      "Url": "https://nutritionfacts.org/topics/estrogen/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "stool size",
+      "Url": "https://nutritionfacts.org/topics/stool-size/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more on this topic, check out:<br/>\n<a href=\"https://nutritionfacts.org/video/stool-ph-and-colon-cancer/\">Stool pH and Colon Cancer</a><br/>\n<a href=\"https://nutritionfacts.org/video/bulking-up-on-antioxidants/\">Bulking Up on Antioxidants</a><br/>\n<a href=\"https://nutritionfacts.org/video/preventing-ulcerative-colitis-with-diet/\">Preventing Ulcerative Colitis with Diet</a><br/>\n<a href=\"https://nutritionfacts.org/video/bowel-wars-hydrogen-sulfide-vs-butyrate/\">Bowel Wars: Hydrogen Sulfide vs. Butyrate</a><br/>\n<a href=\"https://nutritionfacts.org/video/prunes-vs-metamucil-vs-vegan-diet/\">Prunes vs. Metamucil vs. Vegan Diet</a></p>\n<p>Be sure to check out my <a href=\"https://nutritionfacts.org/topics/bowel-movements/\" rel=\"nofollow\">other videos on bowel movements</a>. </p>\n<p>For more context, check out my associated blog posts: <a title=\"Stool Size and Breast Cancer Risk\" href=\"https://nutritionfacts.org/blog/2012/05/03/stool-size-and-breast-cancer-risk/\" rel=\"nofollow\">Stool Size and Breast Cancer Risk</a>; <a href=\"https://nutritionfacts.org/blog/2011/09/29/bowel-movements-the-scoop-on-poop/\" rel=\"nofollow\">Bowel Movements: the scoop on poop</a>; <a href=\"https://nutritionfacts.org/2012/10/18/kiwi-fruit-for-irritable-bowel-syndrome/\" rel=\"nofollow\">Kiwi Fruit for Irritable Bowel Syndrome</a>; <a href=\"https://nutritionfacts.org/2012/12/20/best-phytosterol-dose-and-source/\" rel=\"nofollow\">Optimal Phytosterol Dose and Source</a>; and <a href=\"https://nutritionfacts.org/2013/09/17/prunes-metamucil-or-a-plant-based-diet/\">Best Treatment for Constipation</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

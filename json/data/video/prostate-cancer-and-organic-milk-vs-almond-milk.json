@@ -1,0 +1,123 @@
+{
+  "Title": "Prostate Cancer and Organic Milk vs. Almond Milk",
+  "Url": "https://nutritionfacts.org/video/prostate-cancer-and-organic-milk-vs-almond-milk/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/qAnD9XKI7J4"
+  },
+  "UpdatedAt": "2014-01-24T12:20:35+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 16",
+    "Url": "https://nutritionfacts.org/volumes/volume-16/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Does the hormonal stimulation of human prostate cancer cells by cow milk in a petri dish translate out clinically in studies of human populations?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Concern has been expressed about the fact that cows’ milk contains estrogens and could stimulate the growth of hormone-sensitive tumors”—concern that the “consumption of dairy products could [both] promote the conversion of precancerous lesions or mutated cells to invasive cancer and enhance the progression of hormone-dependent tumors.”\nThis was initially postulated based on suggestive population-scale data like this: 25-fold increase in prostate cancer in Japan since the war. What was happening to their diets during that period? A 5-, 10-, 20-fold increase in eggs, meat, and dairy consumption, whereas the rest of their diet remained pretty stable.\nBut, diet wasn’t the only major change in Japanese lifestyles over the latter half century. Similarly, even though countries with higher milk consumption tend to have more prostate cancer deaths, and countries with lower milk consumption fewer deaths, there could be hundreds of confounding variables. But, it certainly does spur interest in studying the possibility.\nThis recent study represents the other extreme, controlling for as many factors as possible by just isolating prostate cancer cells out of the body in a petri dish, and dripping cow milk on them directly. They chose organic cows’ milk because they wanted to exclude the effect of added hormones, and just test the effect of all the growth and sex hormones found naturally in all milk.\nThey found that “[c]ows’ milk stimulated the growth of [human] prostate cancer cells in each of 14 separate experiments, producing an average increase in [cancer] growth rate of over 30%. In contrast, almond milk suppressed the growth of these cancer cells by over 30%.”\nBut, just because something happens in a petri dish, or a test tube, doesn’t mean the same thing happens in a person. It’s just suggestive evidence that can be used in a grant application or something to get money to study actual people. There’s kind of two main ways that’s done—retrospective studies looking back, where you take prostate cancer patients, and figure out what they ate in the past, and prospective studies looking forward, where you look at people’s diets first, and then follow them for a few years, and see who gets cancer. The looking-back kind are called case-control studies, because they look at cases of cancer, and compare their diets to controls. And the forward-looking kind are called cohort studies, because you’re following a cohort of people forward. Then, if you want to get fancy, you can do a so-called meta-analysis, where you combine all the best studies done to date into one, and see what the balance of available evidence shows. Okay, so, here we go:\nThe latest meta-analysis of all the best case control studies ever done on the matter concludes that milk consumption is a risk factor for prostate cancer. And the latest meta-analysis of all the best cohort studies ever done also concludes that milk consumption is a risk factor for prostate cancer. An even newer study suggests that milk intake during adolescence may be particularly risky in terms of potentially setting one up for cancer later in life.\nDespite hormone-related cancers being among our top killers, as pointed out in the Journal of the National Cancer Institute, “We simply do not know which hormones, and how much, are in the food [that] we ingest. More effort has been directed at the investigation of illicit use of designer steroids by Olympians and ballplayers than to the investigation of the effect of dietary hormones on cancer, and other diseases that affect millions.” A proposal is therefore made “to monitor levels of steroid and other hormones and growth factors in all dairy and meat-containing foods”—though, to date, this has not been done.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "D. Ganmaa, X. M. Li, L. Q. Qin, P. Y. Wang, M. Takeda, A. Sato. The experience of Japan as a clue to the etiology of testicular and prostatic cancers. Med. Hypotheses. 2003 60(5):724 - 730.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/12710911"
+    },
+    {
+      "Title": "D. Ganmaa, X.-M. Li, J. Wang, L.-Q. Qin, P.-Y. Wang, A. Sato. Incidence and mortality of testicular and prostatic cancers in relation to world dietary practices. Int. J. Cancer. 2002 98(2):262 - 267.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11857417"
+    },
+    {
+      "Title": "F. W. Danby. Re: Endogenous sex hormones and prostate cancer: a collaborative analysis of 18 prospective studies. JNCI J Natl Cancer Inst. 2008 100(19):1412-1413.",
+      "Url": "http://jnci.oxfordjournals.org/content/100/19/1412.full"
+    },
+    {
+      "Title": "J. E. Torfadottir, L. Steingrimsdottir, L. Mucci, T. Aspelund, J. L. Kasperzyk, O. Olafsson, K. Fall, L. Tryggvadottir, T. B. Harris, L. Launer, E. Jonsson, H. Tulinius, M. Stampfer, H.-O. Adami, V. Gudnason, U. A. Valdimarsdottir. Milk intake in early life and risk of advanced prostate cancer. Am. J. Epidemiol. 2012 175(2):144 - 153.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249408/"
+    },
+    {
+      "Title": "L.-Q. Qin, J.-Y. Xu, P.-Y. Wang, J. Tong, K. Hoshi. Milk consumption is a risk factor for prostate cancer in Western countries: Evidence from cohort studies. Asia Pac J Clin Nutr. 2007 16(3):467 - 476.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17704029"
+    },
+    {
+      "Title": "L.-Q. Qin, J.-Y. Xu, P.-Y. Wang, T. Kaneko, K. Hoshi, A. Sato. Milk consumption is a risk factor for prostate cancer: Meta-analysis of case-control studies. Nutr Cancer. 2004 48(1):22 - 27.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15203374"
+    },
+    {
+      "Title": "P. L. Tate, R. Bibb, L. L. Larcom. Milk stimulates growth of prostate cancer cells in culture. Nutr Cancer. 2011 63(8):1361 - 1366.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22043817"
+    },
+    {
+      "Title": "X. M. Li, D. Ganmaa, A. Sato. The experience of Japan as a clue to the etiology of breast and ovarian cancers: Relationship between death from both malignancies and dietary practices. Med. Hypotheses. 2003 60(2):268 - 275.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/12606246"
+    }
+  ],
+  "Acknowledgements": "Images thanks to theimpulsivebuy and David Guo’s Master via flickr, and Boston University School of Public Health. Thanks to Ellen Reid for her image-finding expertise, and Jeff Thomas for his Keynote help.",
+  "Topics": [
+    {
+      "Title": "almond milk",
+      "Url": "https://nutritionfacts.org/topics/almond-milk/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "estrogen",
+      "Url": "https://nutritionfacts.org/topics/estrogen/"
+    },
+    {
+      "Title": "factory farming practices",
+      "Url": "https://nutritionfacts.org/topics/factory-farming-practices/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "organic foods",
+      "Url": "https://nutritionfacts.org/topics/organic-foods/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "prostate health",
+      "Url": "https://nutritionfacts.org/topics/prostate-health/"
+    },
+    {
+      "Title": "steroids",
+      "Url": "https://nutritionfacts.org/topics/steroids/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p class=\"p1\"><span class=\"s1\">I touched previously on the prostate cancer data in one of my oldest videos, <a href=\"https://nutritionfacts.org/video/slowing-the-growth-of-cancer-3/\"><span class=\"s2\">Slowing the Growth of Cancer</span></a>. Other factors may play into the link between cancer and dairy consumption, including IGF-1 (see <a href=\"https://nutritionfacts.org/video/how-plant-based-to-lower-igf-1/\"><span class=\"s2\">How Plant-Based to Lower IGF-1?</span></a>). But for more on the hormones in dairy, see:</span></p>\n<ul class=\"ul1\">\n<li class=\"li2\"><span class=\"s3\"><a href=\"https://nutritionfacts.org/video/national-dairy-council-on-acne-and-milk/\"><span class=\"s4\">National Dairy Council on Acne &amp; Milk</span></a></span></li>\n<li class=\"li2\"><span class=\"s3\"><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=915\"><span class=\"s4\">Dairy &amp; Sexual Precocity</span></a></span></li>\n</ul>\n<p class=\"p1\"><span class=\"s1\">What about all the studies suggesting milk “does a body good”? See my video <a href=\"https://nutritionfacts.org/video/food-industry-funding-effect/\"><span class=\"s2\">Food Industry “Funding Effect”</span></a>.</span></p>\n<p>Update: you may also be interested in a video I released in 2019: <a href=\"https://nutritionfacts.org/video/the-effects-of-hormones-in-dairy-milk-on-cancer/\">The Effects of Hormones in Dairy Milk on Cancer</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

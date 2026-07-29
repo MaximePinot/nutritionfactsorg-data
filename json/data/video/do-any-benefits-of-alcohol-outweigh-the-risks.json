@@ -1,0 +1,151 @@
+{
+  "Title": "Do Any Benefits of Alcohol Outweigh the Risks?",
+  "Url": "https://nutritionfacts.org/video/do-any-benefits-of-alcohol-outweigh-the-risks/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/-bYzB6hCofc"
+  },
+  "UpdatedAt": "2018-04-06T11:50:39+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 41",
+    "Url": "https://nutritionfacts.org/volumes/volume-41/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What would happen if you effectively randomized people at birth to drink more or less alcohol their whole lives? Would they get more or less heart disease?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nOnce you remove from studies on alcohol and mortality the systematic error of misclassifying former drinkers as if they were lifelong abstainers, moderate alcohol consumption, like a glass of wine a day, does not appear to be protective after all. “The immediate implication from this [new research] is that clinicians need to be highly sceptical about the hypothesized health benefits of alcohol consumption and should not advise their patients to drink to improve their life expectancy. This is especially important given increasing awareness of cancer risks from even moderate alcohol use.” Given the cancer risk, if there’s just harms and no benefits, then the ideal alcohol intake on a routine day-to-day basis should really be zero, potentially making it a red-light beverage.\nThe problem was that many of these population studies classified those that quit drinking in response to ill-health as nondrinkers. This is the problem of reverse causation: instead of abstaining leading to poor health, poor health may have lead to abstaining. It’s like when studies show those who sit around and watch TV have worse health; is more TV leading to illness? Or, is illness leading to more TV? That’s one of the reasons why, if you look at the “hierarchy of evidence,” where higher on the pyramid means stronger evidence, interventional trials—like randomized, controlled trials—tend to offer better evidence than observational studies of populations, which can suffer from both reverse causation and confounding factors. For example, light drinkers as a group may be more likely to drink their glass of wine with a salad than a cheeseburger, and that’s why the wine appeared protective. But, sometimes it’s hard to do randomized, controlled trials—like, you can’t randomize people to smoke a pack a day for a few decades. So, sometimes you have to base your decisions on observational studies. But now, we have a new tool: “Mendelian randomization.”\n“In cases where [randomized, controlled trials] are not feasible or practical,” this new tool “can provide reliable evidence on the [cause-and-effect] relationship between exposures and risks of disease.”\nIt’s like the HDL story. Alcohol does raise your HDL “good” cholesterol levels. But, unfortunately, it seems good cholesterol isn’t any good at lowering heart disease risk after all, based in part on Mendelian randomization studies, where people who were randomly assigned higher HDL levels genetically from birth don’t appear to be protected. Is there any way to study people who were randomly assigned since conception to not drink as much? Remarkably, yes.\nAlcohol is detoxified in the liver to carbon dioxide and water by two enzymes. But, in the process, a toxic intermediate metabolite is produced, called acetaldehyde, which can cause unpleasant nausea and flushing sensations. So, if people are born with a slow variant of this enzyme, or a superfast variant of this enzyme, acetaldehyde can build up, making alcohol drinking for these people a relatively unpleasant experience throughout their lives. So, they are born less likely to drink as much. So, do they have an increased risk of heart disease, like the original observational studies would suggest? No, they have a reduced risk of heart disease. “This suggests that reduction of alcohol consumption, even for light to moderate drinkers, is beneficial for cardiovascular health.”\nSo, this just “sheds [further] doubt on [the] protective association…between ‘moderate’ alcohol consumption and…heart disease,” which was already plagued with the confounding and bias. “…[N]ow the scientific pillars on which it is based appear increasingly shaky,” leading some to suggest “the leaning tower of presumed health benefits from ‘moderate’ alcohol use has finally collapsed.” “Given the harms attributed to alcohol use, it is not surprising that reports [suggesting] benefits attracted enthusiasm among consumers, the media, and [of course] the alcohol industry. [But] [t]hese apparent benefits are now evaporating.”\n“What conclusions should we draw from this emerging evidence…? Firstly, in health as elsewhere, if something looks too good to be true [like “butter is back”], it should be treated with great caution. Secondly, health professionals should discourage [drinking]. Thirdly, health advice should come from health authorities, not from the alcohol industry…[which] should remove [all] misleading references to [purported] health benefits,” which are increasingly looking more like “a triumph of spin-doctoring” than good science, “as contrived as the alleged split among scientists over climate change,” advanced by the petroleum industry.\n“As an intoxicating, addictive, toxic, carcinogenic drug, alcohol is not a [great] choice as a therapeutic agent,” even if it does help. There are better ways to prevent heart attacks—namely, diet and exercise (and drugs when necessary). “In contrast to that of alcohol, effectiveness of lifestyle interventions has been demonstrated and [as a bonus, these interventions have] no abuse potential.” There’s a reason there’s no Appleholics Anonymous.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Chikritzhs T, Stockwell T, Naimi T, Andreasson S, Dangardt F, Liang W. Has the leaning tower of presumed health benefits from 'moderate' alcohol use finally collapsed?. Addiction. 2015;110(5):726-727.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25613200"
+    },
+    {
+      "Title": "Chikritzhs TN, Naimi TS, Stockwell TR, Liang W. Mendelian randomisation meta-analysis sheds doubt on protective associations between 'moderate' alcohol consumption and coronary heart disease. Evid Based Med. 2015;20(1):38.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25371403"
+    },
+    {
+      "Title": "Connor J. Why do alcohol's assumed benefits have any role in policymaking?. J Stud Alcohol Drugs. 2016;77(2):201-202.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26997176"
+    },
+    {
+      "Title": "Costantino G, Montano N, Casazza G. When should we change our clinical practice based on the results of a clinical study? The hierarchy of evidence. Intern Emerg Med. 2015;10(6):745-747.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25860505"
+    },
+    {
+      "Title": "Daube M. Alcohol's evaporating health benefits. BMJ. 2015;350:h407.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25670722"
+    },
+    {
+      "Title": "Fillmore KM, Stockwell T, Chikritzhs T, Bostrom A, Kerr W. Moderate alcohol use and reduced mortality risk: systematic error in prospective studies and new hypotheses. Ann Epidemiol. 2007;17(5 Suppl):S16-23.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17478320"
+    },
+    {
+      "Title": "Goulden R. Moderate alcohol consumption is not associated with reduced all-cause mortality. Am J Med. 2016;129(2):180-186.e4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26524703"
+    },
+    {
+      "Title": "Holmes MV, Dale CE, Zuccolo L, et al. Association between alcohol and cardiovascular disease: Mendelian randomisation analysis based on individual participant data. BMJ. 2014;349:g4164.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25011450"
+    },
+    {
+      "Title": "Huynh K. Risk factors. Reducing alcohol intake improves heart health. Nat Rev Cardiol. 2014;11(9):495.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25072907"
+    },
+    {
+      "Title": "Sattar N, Preiss D. Reverse causality in cardiovascular epidemiological research: more common than imagined?. Circulation. 2017;135(24):2369-2372.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28606949"
+    },
+    {
+      "Title": "Stockwell T, Naimi T. Study raises new doubts regarding the hypothesised health benefits of 'moderate' alcohol use. Evid Based Med. 2016;21(4):156.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27388802"
+    },
+    {
+      "Title": "Stockwell T. How do we formulate low-risk drinking guidelines if zero consumption is lowest risk?. Addiction. 2013;108(9):1547-1548.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23947727"
+    },
+    {
+      "Title": "Zuccolo L, Holmes MV. Commentary: Mendelian randomization-inspired causal inference in the absence of genetic data. Int J Epidemiol. 2017;46(3):962-965.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28025256"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "beer",
+      "Url": "https://nutritionfacts.org/topics/beer/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "HDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/hdl-cholesterol/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "liver health",
+      "Url": "https://nutritionfacts.org/topics/liver-health/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "nutrition myths",
+      "Url": "https://nutritionfacts.org/topics/nutrition-myths/"
+    },
+    {
+      "Title": "red wine",
+      "Url": "https://nutritionfacts.org/topics/red-wine/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "wine",
+      "Url": "https://nutritionfacts.org/topics/wine/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If, like me, you’re interested in the cool, nerdy world of Mendelian randomization—which isn’t only cool and nerdy because it was named after a Gregor!—check out my video <a href=\"https://nutritionfacts.org/video/coconut-oil-and-the-boost-in-hdl-good-cholesterol/\">Coconut Oil and the Boost in HDL “Good” Cholesterol</a>.</p>\n<p>In case you missed the first three videos in this four-part series, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/can-alcohol-cause-cancer/\">Can Alcohol Cause Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-source-of-resveratrol/\">The Best Source of Resveratrol</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-it-better-to-drink-little-alcohol-than-none-at-all/\">Is It Better to Drink a Little Alcohol Than None at All?</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

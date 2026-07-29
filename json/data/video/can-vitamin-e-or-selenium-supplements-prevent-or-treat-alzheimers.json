@@ -1,0 +1,103 @@
+{
+  "Title": "Can Vitamin E or Selenium Supplements Prevent or Treat Alzheimer’s?",
+  "Url": "https://nutritionfacts.org/video/can-vitamin-e-or-selenium-supplements-prevent-or-treat-alzheimers/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/77vVd6EL3l8"
+  },
+  "UpdatedAt": "2024-07-03T11:50:34+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 66",
+    "Url": "https://nutritionfacts.org/volumes/volume-66/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The Prevention of Alzheimer’s Disease by Vitamin E and Selenium trial randomized more than 7,500 older men to take vitamin E, selenium, both, or neither (just placebos) for five years.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nOxidative stress from free radicals is the one of the pathways implicated in the development and deterioration of Alzheimer’s brains, given the evidence of excess of oxidative DNA damage on autopsy. So, what about trying an antioxidant? Vitamin E levels tend to be lower in the bloodstreams of those with cognitive impairment or dementia, but which came first? Maybe Alzheimer’s disease led to poor eating, rather than poor eating leading to Alzheimer’s disease. Greater vitamin E intake from foods is clearly associated with lower risk of developing Alzheimer’s, but greater vitamin E intake from supplements is not. But that didn’t stop researchers from including a vitamin E arm in the largest primary prevention study of Alzheimer’s disease to date.\nThe Prevention of Alzheimer’s Disease by Vitamin E and Selenium trial randomized more than 7,500 older men to take vitamin E, selenium, both, or neither—just placebos—for five years. To quote from the conclusion: “Neither supplement prevented dementia.” A separate long-term vitamin E supplementation trial of older women similarly found no protection against cognitive decline. Neither did vitamin E appear to benefit those with mild cognitive impairment. But the trials on Alzheimer’s patients themselves started to get more interesting.\nThe first trial, published in the New England Journal of Medicine, randomized more than 150 Alzheimer’s patients to vitamin E or placebo to see if vitamin E could slow the progression of the disease. The primary outcome was the number of days until of one of any of the following happened: death, institutionalization, loss of the ability to perform basic activities of daily living, or sliding into severe dementia, where you suffer a complete loss of sense of time or place. On first analysis, vitamin E flopped: no significant slowing of progression. Digging deeper, the researchers realized that despite the random allotment, the placebo group just by chance ended up with patients with milder disease. After taking that into account, the difference in outcomes between the vitamin E and placebo groups widened substantially. Now, this kind of unplanned post-hoc analysis is heavily frowned upon, but the effect seemed so sizable they went ahead and published it. In the placebo group, the adjusted time to death or loss of independence was 440 days. But in the vitamin E group, after the baseline cognition was normalized, it was 670 days––more than seven months later. However, given the unorthodox analysis, the scientific world waited for the study to be replicated.\nAnd here we go: more than 600 patients with mild to moderate Alzheimer’s disease were subsequently randomized to vitamin E supplements, the drug memantine, both, or neither (just placebos) for two years. Although there was no slowing of cognitive decline after adjusting for multiple comparisons, there was a slowing of functional decline, in terms of managing daily activities like bathing and dressing. The vitamin E group appeared to only suffer about 1.5 years of functional deterioration in the two years’ time, resulting in approximately two hours less caregiver time required each day compared to the drug group.\nIf those were the only two clinical vitamin E trials, I would give vitamin E serious consideration for those with Alzheimer’s disease. But, there’s a third, a six-month trial, that suggested vitamin E may be detrimental to cognition in some Alzheimer’s patients. Obviously, more research needs to be done.\nIn my next video, I’ll cover other antioxidants that have been put to the test, including vitamin C, beta carotene, Centrum multivitamin, and the minerals zinc and calcium.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Browne D, McGuinness B, Woodside JV, McKay GJ. Vitamin E and Alzheimer’s disease: what do we know so far? Clin Interv Aging. 2019;14:1303-1317.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31409980/"
+    },
+    {
+      "Title": "Dysken MW, Sano M, Asthana S, et al. Effect of vitamin E and memantine on functional decline in Alzheimer disease: the TEAM-AD VA cooperative randomized trial. JAMA. 2014;311(1):33-44.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24381967/"
+    },
+    {
+      "Title": "Kang JH, Cook N, Manson J, Buring JE, Grodstein F. A randomized trial of vitamin E supplementation and cognitive function in women. Arch Intern Med. 2006;166(22):2462-2468.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17159011/"
+    },
+    {
+      "Title": "Kryscio RJ, Abner EL, Caban-Holt A, et al. Association of antioxidant supplement use and dementia in the Prevention of Alzheimer’s Disease by Vitamin E and Selenium trial (PREADViSE). JAMA Neurol. 2017;74(5):567-573.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28319243/"
+    },
+    {
+      "Title": "Lin X, Kapoor A, Gu Y, et al. Contributions of DNA damage to Alzheimer’s disease. Int J Mol Sci. 2020;21(5):1666.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32121304/"
+    },
+    {
+      "Title": "Lloret A, Badía MC, Mora NJ, Pallardó FV, Alonso MD, Viña J. Vitamin E paradox in Alzheimer’s disease: it does not prevent loss of cognition and may even be detrimental. J Alzheimers Dis. 2009;17(1):143-149.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19494439/"
+    },
+    {
+      "Title": "Petersen RC, Thomas RG, Grundman M, et al. Vitamin E and donepezil for the treatment of mild cognitive impairment. N Engl J Med. 2005;352(23):2379-2388.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15829527/"
+    },
+    {
+      "Title": "Sano M, Ernesto C, Thomas RG, et al. A controlled trial of selegiline, alpha-tocopherol, or both as treatment for Alzheimer’s disease. The Alzheimer’s Disease Cooperative Study. N Engl J Med. 1997;336(17):1216-1222.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9110909/"
+    },
+    {
+      "Title": "Wang W, Li J, Zhang H, Wang X, Zhang X. Effects of vitamin E supplementation on the risk and progression of AD: a systematic review and meta-analysis. Nutr Neurosci. 2021;24(1):13-22.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30900960/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "free radicals",
+      "Url": "https://nutritionfacts.org/topics/free-radicals/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "selenium",
+      "Url": "https://nutritionfacts.org/topics/selenium/"
+    },
+    {
+      "Title": "vitamin E",
+      "Url": "https://nutritionfacts.org/topics/vitamin-e/"
+    },
+    {
+      "Title": "vitamins",
+      "Url": "https://nutritionfacts.org/topics/vitamins/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Check out my next video, </span><a href=\"https://nutritionfacts.org/video/centrum-multivitamin-vitamin-c-beta-carotene-souvenaid-zinc-or-calcium-supplements-for-preventing-alzheimers/\"><span style=\"font-weight: 400\">Centrum Multivitamin, Vitamin C, Beta Carotene, Souvenaid, Zinc, or Calcium Supplements for Preventing Alzheimer’s</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">For more on brain health and vitamins, check out </span><a href=\"https://nutritionfacts.org/video/preventing-brain-loss-with-b-vitamins/\"><span style=\"font-weight: 400\">Preventing Brain Loss with B Vitamins?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/does-lions-mane-mushroom-powder-have-benefits-for-dementia/\">Does Lion’s Mane Mushroom Powder Have Benefits for Dementia?</a> Check out the video.</p>\n<p><span style=\"font-weight: 400\">Preserving Your Mind is the largest chapter of my book </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">. Check it out at your local public library, or listen to me read it on audiobook. (All proceeds I receive from the sales of all my books go to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

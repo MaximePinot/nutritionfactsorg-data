@@ -1,0 +1,163 @@
+{
+  "Title": "Do Vegetarians Have More or Less Depression and Anxiety?",
+  "Url": "https://nutritionfacts.org/video/do-vegetarians-have-more-or-less-depression-and-anxiety/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/BHu6Sd29GHU"
+  },
+  "UpdatedAt": "2026-05-06T11:50:14+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 72",
+    "Url": "https://nutritionfacts.org/volumes/volume-72/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Snapshot-in-time cross-sectional studies are mixed when it comes to vegetarian diets and mental health outcomes.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMental illness is among the leading causes of disability. Pharmacotherapy and psychotherapy, such as antidepressants and Cognitive Behavioral Therapy, are cornerstones of treatment. However, they avert less than half of the disease burden, suggesting that additional strategies to prevent and treat mental disorders are needed. A new field of nutritional psychiatry provides evidence for diet quality as a modifiable risk factor for mental illnesses.\nCited mechanisms include chronic low-grade inflammation. That’s been implicated in the development of depression, schizophrenia, and bipolar disorder. Oxidative stress—free radicals may also be relevant to mental illness. And then, there’s compelling evidence, though predominantly from animal studies, indicating the gut microbiome can affect the brain. What kind of compelling evidence? Fecal transplant studies found that feeding rats feces from depressed people induces depression-like behavior. Now, if I got force-fed feces every day, I might be depressed too—but rats fed feces from non-depressed people didn’t act as depressed.\nHow might we sow the seeds of good mental health through our microbiome? Dietary factors that help our good gut bugs include eating more Mediterranean, more plant-based, fruits and vegetables, fermented foods, nuts, fiber and other prebiotics, plant-based proteins, predominantly plant-based fats, and polyphenols, which are also plant-based compounds. Bad for our microbiome is the Western diet, animal protein, saturated fat, which is concentrated in meat, dairy, and junk, and sweeteners and emulsifiers, which may help explain why greater ultra-processed food intake is associated with increased risk of subsequent depression. And the animal protein and animal fat may help explain why greater meat consumption is also associated with a higher risk of depression.\nSo, if plants may be good and meat bad, then vegetarians must be feeling great! But some compilations of studies found that vegetarians tend to show higher depression scores than non-vegetarians, and not just reviews funded by the National Cattlemen’s Beef Association. Other systematic reviews of vegetarian diets and risk of depression, anxiety, and stress found no significant associations with depression or anxiety, and the only study finding a significant difference in stress found a lower level of stress in those eating strictly plant-based.\nOther reviews found mixed findings––for example, higher rates of depression, but lower rates of anxiety. Basically, the evidence on the effect of plant-based diets on depression is contradictory. For example, out of 25 studies, 11 found higher rates of depression, seven found lower rates of depression, and another seven found no overall correlation. If you drill down, though, and just consider the best quality studies, of the four, one found that veg diets had either no risk or a higher risk of depression (depending on the population), and the other three good studies found a lower risk of depression among those eating more plant-based.\nDrilling down geographically, vegetarianism was not associated with mental health in the United States, Russia, or Germany, but was associated with anxiety and depression in China––though the association was small, explaining less than 1% of the variance in depression and anxiety between individuals. And if you drill down by type of vegetarian, only the so-called semi-vegetarians, or flexitarians, had higher rates of depression, rather than actual vegetarians and vegans.\nStudy results suggested that semi- and pesco-vegetarians, who include fish and/or poultry, had a higher risk for depression, whereas no significant association was found for lacto-ovo vegetarians who eat no meat. And there were similar findings with studies using relative mood scoring, though technically, none of the groups achieved statistical significance.\nThe bottom line is that some systematic reviews have shown no association between vegan and vegetarian diets and mental health outcomes, whereas others have shown associations between vegetarian diets and more depression, while others associate vegetarian diets with less depression.\nAnd even if it did go one way or the other, the majority of the studies were just snapshot-in-time cross-sectional studies. So, they are unable to determine cause and effect. Even if following a vegetarian diet was consistently associated with higher or lower rates of depression, there is the possibility of reverse causation. Maybe being depressed leads people to eat vegetarian, rather than eating vegetarian leads to depression. What we need are studies over time to see which came first and interventional studies to put it to the test, both of which I’ll explore, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Askari M, Daneshzad E, Darooghegi Mofrad M, Bellissimo N, Suitor K, Azadbakht L. Vegetarian diet and the risk of depression, anxiety, and stress symptoms: a systematic review and meta-analysis of observational studies. Crit Rev Food Sci Nutr. 2022;62(1):261-271.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32885996/"
+    },
+    {
+      "Title": "Beezhold B, Radnitz C, Rinne A, DiMatteo J. Vegans report less stress and anxiety than omnivores. Nutr Neurosci. 2015;18(7):289-296.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25415255/"
+    },
+    {
+      "Title": "Berding K, Vlckova K, Marx W, et al. Diet and the microbiota-gut-brain axis: sowing the seeds of good mental health. Adv Nutr. 2021;12(4):1239-1285.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33693453/"
+    },
+    {
+      "Title": "Dobersek U, Teel K, Altmeyer S, Adkins J, Wy G, Peak J. Meat and mental health: A meta-analysis of meat consumption, depression, and anxiety. Crit Rev Food Sci Nutr. 2023;63(19):3556-3573.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34612096/"
+    },
+    {
+      "Title": "Fazelian S, Sadeghi E, Firouzi S, Haghighatdoost F. Adherence to the vegetarian diet may increase the risk of depression: a systematic review and meta-analysis of observational studies. Nutr Rev. 2022;80(2):242-254.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33822140/"
+    },
+    {
+      "Title": "Iguacel I, Huybrechts I, Moreno LA, Michels N. Vegetarianism and veganism compared with mental health and cognitive outcomes: a systematic review and meta-analysis. Nutr Rev. 2021;79(4):361-381.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32483598/"
+    },
+    {
+      "Title": "Jain R, Larsuphrom P, Degremont A, Latunde-Dada GO, Philippou E. Association between vegetarian and vegan diets and depression: A systematic review. Nutr Bull. 2022;47(1):27-49.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36045075/"
+    },
+    {
+      "Title": "Kelly JR, Borre Y, O’ Brien C, et al. Transferring the blues: Depression-associated gut microbiota induces neurobehavioural changes in the rat. J Psychiatr Res. 2016;82:109-118.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27491067/"
+    },
+    {
+      "Title": "Lane MM, Gamage E, Travica N, et al. Ultra-processed food consumption and mental health: a systematic review and meta-analysis of observational studies. Nutrients. 2022;14(13):2568.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35807749/"
+    },
+    {
+      "Title": "Lavallee K, Zhang XC, Michalak J, Schneider S, Margraf J. Vegetarian diet and mental health: Cross-sectional and longitudinal analyses in culturally diverse samples. J Affect Disord. 2019;248:147-154.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30731282/"
+    },
+    {
+      "Title": "Lee MF, Eather R, Best T. Plant-based dietary quality and depressive symptoms in Australian vegans and vegetarians: a cross-sectional study. BMJ Nutr Prev Health. 2021;4(2):479-486.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35028517/"
+    },
+    {
+      "Title": "Marx W, Moseley G, Berk M, Jacka F. Nutritional psychiatry: the present state of the evidence. Proc Nutr Soc. 2017;76(4):427-436.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28942748/"
+    },
+    {
+      "Title": "Ocklenburg S, Borawski J. Vegetarian diet and depression scores: A meta-analysis. J Affect Disord. 2021;294:813-815.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34375207/"
+    },
+    {
+      "Title": "Zhang Y, Yang Y, Xie MS, et al. Is meat consumption associated with depression? A meta-analysis of observational studies. BMC Psychiatry. 2017;17(1):409.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29282023/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "anxiety",
+      "Url": "https://nutritionfacts.org/topics/anxiety/"
+    },
+    {
+      "Title": "bipolar disorder",
+      "Url": "https://nutritionfacts.org/topics/bipolar-disorder/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "depression",
+      "Url": "https://nutritionfacts.org/topics/depression/"
+    },
+    {
+      "Title": "fecal transplant",
+      "Url": "https://nutritionfacts.org/topics/fecal-transplant/"
+    },
+    {
+      "Title": "fermented foods",
+      "Url": "https://nutritionfacts.org/topics/fermented-foods/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fruits",
+      "Url": "https://nutritionfacts.org/topics/fruits/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "prebiotics",
+      "Url": "https://nutritionfacts.org/topics/prebiotics/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "schizophrenia",
+      "Url": "https://nutritionfacts.org/topics/schizophrenia/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Stay tuned for </span><a href=\"https://nutritionfacts.org/video/why-might-vegetarians-develop-less-depression/\"><span style=\"font-weight: 400\">Why Might Vegetarians Develop Less Depression</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/diets-and-foods-shown-to-improve-depression-in-randomized-controlled-trials/\"><span style=\"font-weight: 400\">Diets and Foods Shown to Improve Depression in Randomized Controlled Trials</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">For more on depression, check out:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/fasting-to-treat-depression/?queryID=1651f88aad28e44a9c087a21327fb894\"><span style=\"font-weight: 400\">Fasting to Treat Depression</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/coconut-water-and-depression/?queryID=1651f88aad28e44a9c087a21327fb894\"><span style=\"font-weight: 400\">Coconut Water and Depression</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/anti-inflammatory-diet-for-depression/?queryID=1651f88aad28e44a9c087a21327fb894\"><span style=\"font-weight: 400\">Anti-Inflammatory Diet for Depression</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/antioxidants-and-depression/?queryID=1651f88aad28e44a9c087a21327fb894\"><span style=\"font-weight: 400\">Antioxidants and Depression</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

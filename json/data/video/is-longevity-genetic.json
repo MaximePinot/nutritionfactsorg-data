@@ -1,0 +1,111 @@
+{
+  "Title": "Is Longevity Genetic?",
+  "Url": "https://nutritionfacts.org/video/is-longevity-genetic/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/SZHPt8T_hiE"
+  },
+  "UpdatedAt": "2024-03-04T12:50:24+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 64",
+    "Url": "https://nutritionfacts.org/volumes/volume-64/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Based on a study of thousands of twin pairs, only about 25 percent of the difference in lifespan among people is genetically determined.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: This is one of the many videos that arose out of my research for my new book, How Not to Age. This video and the next are going to talk about the amount of influence genetics has on longevity.\nIt has long been said that the best hope for a long life is to choose your parents wisely. After all, doesn’t longevity just run in the family? Centenarians are people who live to be at least 100, and their siblings are certainly more likely to become centenarians themselves, and the parents of centenarians have been found to be more likely to have lived to at least 90 years old. On the other hand, the lifespans of spouses sometimes correlate as much as—or even more than—those of genetic relatives. Your partner may have as much of an impact as your parent. After all, genes aren’t the only things that get passed down. Perhaps Grandma’s healthy recipes, or even a lifelong love of running, runs in the family too. To tease out the role of genetics, researchers turn to twin studies, comparing differences between identical twins and fraternal twins.\nFor example, imagine you’re trying to determine the role of genetics in cancer—the role played by genes versus other factors that we may have control over. Since identical twins share 100 percent of their genes, whereas, on average, regular twins only share 50 percent, if genes played a large role, then you’d expect that identical twins would be more likely to share the same fate than fraternal twins, right? If there was no difference in the chances that both sets of twins got the same disease, then it would appear there’s no genetic contribution.\nIt turns out that the overwhelming contributor to the causation of cancer is not genetics, but rather what we’re exposed to. Primary genetic factors may only account for 5 to 10 percent of all cancers. The BRCA genes, popularized by Angelina Jolie, for example, may account for as little as 2 percent of breast cancers. If one identical twin gets breast cancer, the likelihood the other will too is only 13 percent, despite having essentially identical DNA. Now, that’s higher than shared rates among nonidentical twin women. So, there is a genetic component, but genes only appear to make a minor contribution to cancer risk. This is consistent with the rates of common cancers profoundly differing by as much as 200-fold around the world.\nWhat do twin studies have to say about the heritability of lifespan? Based on a study of thousands of twin pairs, the heritability of longevity was 26 percent for men, and 23 percent for women. Subsequent twin studies have arrived at a similar estimate. Approximately 25 percent of our lifespan is determined by our genetic differences, which means how we live our lives may determine the bulk of our destiny. Estimates using other methods tend to fall in the 15 to 30 percent range. For example, an analysis of millions of family trees from 86 million public profiles in an online genealogy database led to an estimate of 16 percent, though due to so-called “assortative mating,” meaning the fact that we tend to pair up with mates similar to ourselves (rather than at random), that may actually be an overestimate. Chosen partners often have similar lifestyles; so, some of that 16 percent estimate may have been influenced by families sharing similar diets and healthy habits, and not exclusively their genes. Taking that into account, the actual heritability of lifespan may even be well below 10 percent.\nTo leverage the lifespan leeway we have beyond the relatively small genetic component, we must first understand the aging pathways that account for the nine hallmarks of aging. The term “antiaging” has been much abused in popular culture, attached to all manner of unproven products and procedures. The term should probably be reserved for things that can delay or reverse aging through the targeting of one or more of the established aging mechanisms. In a landmark paper cited nearly 7,000 times in the biomedical literature, “The Hallmarks of Aging” delineates nine common denominators of the aging process. They are Genomic Instability, the accumulation of DNA damage; Telomere Attrition, the loss of the protective caps at the end of our DNA strands; Epigenetic Alterations, changes in the way our genes are expressed; Loss of Proteostasis, the buildup of misfolded proteins; Deregulated Nutrient Sensing, metabolic alterations particularly sensitive to diet; Mitochondrial Dysfunction, the declining efficiency of our cellular powerplants; Cellular Senescence, the arrest of cell replication; Stem Cell Exhaustion, the loss of the potential of our tissues to regenerate; and Altered Intercellular Communication, the rise in proinflammatory signals. I’m going to be covering each of them, and what we can do to slow, stop, or reverse each one, in my book, How Not to Age.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Hemminki K, Lorenzo Bermejo J, Försti A. The balance between heritable and environmental aetiology of human disease. Nat Rev Genet. 2006;7(12):958-965.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17139327/"
+    },
+    {
+      "Title": "Herskind AM, McGue M, Holm NV, Sørensen TI, Harvald B, Vaupel JW. The heritability of human longevity: a population-based study of 2872 Danish twin pairs born 1870-1900. Hum Genet. 1996;97(3):319-323.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8786073/"
+    },
+    {
+      "Title": "Kaplanis J, Gordon A, Shor T, et al. Quantitative analysis of population-scale family trees with millions of relatives. Science. 2018;360(6385):171-175.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29496957/"
+    },
+    {
+      "Title": "Kirkwood T. How can we live forever? BMJ. 1996;313(7072):1571.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8990987/"
+    },
+    {
+      "Title": "Lee MB, Hill CM, Bitto A, Kaeberlein M. Antiaging diets: Separating fact from fiction. Science. 2021;374(6570):eabe7365.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34793210/"
+    },
+    {
+      "Title": "Lichtenstein P, Holm NV, Verkasalo PK, et al. Environmental and heritable factors in the causation of cancer--analyses of cohorts of twins from Sweden, Denmark, and Finland. N Engl J Med. 2000;343(2):78-85.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10891514/"
+    },
+    {
+      "Title": "López-Otín C, Blasco MA, Partridge L, Serrano M, Kroemer G. The hallmarks of aging. Cell. 2013;153(6):1194-1217.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23746838/"
+    },
+    {
+      "Title": "Milman S, Barzilai N. Dissecting the mechanisms underlying unusually successful human health span and life span. Cold Spring Harb Perspect Med. 2015;6(1):a025098.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26637439/"
+    },
+    {
+      "Title": "Ruby JG, Wright KM, Rand KA, et al. Estimates of the heritability of human longevity are substantially inflated due to assortative mating. Genetics. 2018;210(3):1109-1124.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30401766/"
+    },
+    {
+      "Title": "Skytthe A, Pedersen NL, Kaprio J, et al. Longevity studies in GenomEUtwin. Twin Res. 2003;6(5):448-454.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14624729/"
+    },
+    {
+      "Title": "Syrjäkoski K, Vahteristo P, Eerola H, et al. Population-based study of BRCA1 and BRCA2 mutations in 1035 unselected Finnish breast cancer patients. J Natl Cancer Inst. 2000;92(18):1529-1531.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10995809/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "BRCA genes",
+      "Url": "https://nutritionfacts.org/topics/brca-genes/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "telomeres",
+      "Url": "https://nutritionfacts.org/topics/telomeres/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Stay tuned for the next video </span><a href=\"https://nutritionfacts.org/video/apoe-the-single-most-important-gene-for-longevity/\"><i><span style=\"font-weight: 400\">APOE</span></i><span style=\"font-weight: 400\">—The Single Most Important Gene for Longevity</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">My new book, </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, is all about aging and longevity, and you can get your copy now at your local public library or wherever books are sold. If you haven’t seen them yet, check out the </span><a href=\"https://nutritionfacts.org/video/book-trailer-for-how-not-to-age/\"><span style=\"font-weight: 400\">book trailer</span></a><span style=\"font-weight: 400\"> and my <a href=\"https://nutritionfacts.org/video/how-not-to-age-live-presentation/\">new presentation</a>. (As always, all proceeds I receive from all of </span><a href=\"https://nutritionfacts.org/books/\"><span style=\"font-weight: 400\">my books</span></a><span style=\"font-weight: 400\"> are donated to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "Title": "Caveats and Side Effects of Taurine Supplements",
+  "Url": "https://nutritionfacts.org/video/caveats-and-side-effects-of-taurine-supplements/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/f2yOwXHV9SI"
+  },
+  "UpdatedAt": "2025-10-27T11:50:05+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 70",
+    "Url": "https://nutritionfacts.org/volumes/volume-70/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the downsides of taurine supplementation?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nTo taurine or not to taurine, that’s the question. Taurine is an ingredient in some so-called energy drinks, which some people consume to improve physical performance, although there is little evidence that taurine per se exerts any beneficial effects in healthy individuals or animals without taurine depletion. But that was written before this seminal study, published in one of our most prestigious scientific journals, showed that taurine supplementation starting in middle-age can significantly improve the healthspan and lifespan of a number of different animals.\nNow, not all animal studies have shown benefit. Lifelong taurine supplementation induced retardation of learning in mice, for example, and low doses of taurine significantly enhanced lung tumor growth in mice, which led the authors to suggest that lung cancer patients may want to stay away from drinks with taurine.\nYou probably wouldn’t want to consume too much taurine if you have kidney failure either, since taurine levels are normally regulated by our kidneys. The acute symptoms of taurine overload, mainly dizziness, were relatively mild and rapidly disappeared after stopping taurine, but researchers suggested there should be warning-type labels on beverages containing taurine to caution patients with kidney failure from drinking them.\nSimilarly, patients who have bleeding disorders may not want to take taurine since it might thin our blood. Psoriasis patients may also want to steer clear, as taurine evidently causes a predictable intense itching response that can last a day or two, making skin lesions worse. It even caused the same reaction in psoriasis patients in remission.\nPregnant and lactating women are pretty much encouraged to stay away from any and all supplements not specifically prescribed for pregnancy. Similarly, individuals with specific health conditions, such as bipolar disorder, epilepsy, or kidney problems may want to be cautious. The only bipolar problem I could find were a few case reports of mania blamed on Red Bull. This guy drank 20 cans of Red Bull—that would make me manic too! But of course, Red Bull has more than just taurine. Caffeine alone may do it.\nThe epilepsy concern may have to do with taurine inhibiting detoxifying enzymes in the liver that are responsible for breaking down many commonly used drugs, including anti-seizure drugs. It could also be because of adverse reactions reported by some patients with epilepsy who took 1.5 grams a day, including nausea, headache, dizziness, nose-bleed, and mild walking disturbances, but the epilepsy seems incidental. That may just be what may sometimes be seen at higher doses. Potential side effects of excessive consumption of taurine supplements beyond recommended doses include gastrointestinal disturbances (such as nausea, vomiting, and diarrhea) and neurological symptoms (like dizziness, tremors, and headaches). What are the recommended doses?\nA proposed tolerated upper safety limit based on human clinical trials is up to three grams a day, but the longest trial at that dose was only up to four months. In my last video, I talked about an analogy with another conditionally non-essential amino acid called arginine that similarly looked good in short-term trials, but by six months appeared to be killing people—oopsie—so, the study was shut down.\nSo, who knows if the supposed safe level of three grams a day is actually safe? The dose used in that promising animal study might be equivalent to dosing people with even more than that, and higher doses aren’t necessarily better. In this study on inflammation and oxidative stress, the lower doses—three grams or less—appeared to work better. The thought is that high doses of taurine could downregulate our own synthesis of taurine. Why would that be a problem? Well, our body makes taurine from another amino acid called cysteine; so, if we’re no longer churning out taurine, that may cause our levels of cysteine to build up—at least, that’s what happens in mice. And that might be bad, because chronically high levels of cysteine have been closely associated with a whole list of disease states including rheumatoid arthritis, Parkinson’s, Alzheimer’s, lupus, cardiovascular disease, and adverse pregnancy outcomes. On the other hand, taurine may inhibit our absorption of another amino acid called methionine, since taurine and methionine share the same absorption transporter through our intestinal lining. That would be presumed to be a good thing, since lowering methionine intake is considered a feasible strategy against chronic and ageing-related diseases, as I discussed in How Not to Age.\nAnd finally, the animal study didn’t address the impact of taurine dietary supplementation on the gut microbiome, which I’ll cover, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bode-Böger SM, Muke J, Surdacki A, Brabant G, Böger RH, Frölich JC. Oral L-arginine improves endothelial function in healthy individuals older than 70 years. Vasc Med. 2003;8(2):77-81.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14518608/"
+    },
+    {
+      "Title": "Caine JJ, Geracioti TD. Taurine, energy drinks, and neuroendocrine effects. Cleve Clin J Med. 2016;83(12):895-904.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27938518/"
+    },
+    {
+      "Title": "Casas-Gómez C, Muñoz-Molero MJ, Guerrero-Sánchez R, Martínez-León F. Mania and energy drinks. Actas Esp Psiquiatr. 2018;46(4):156-158.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30079930/"
+    },
+    {
+      "Title": "Faghfouri AH, Seyyed Shoura SM, Fathollahi P, et al. Profiling inflammatory and oxidative stress biomarkers following taurine supplementation: a systematic review and dose-response meta-analysis of controlled trials. Eur J Clin Nutr. 2022;76(5):647-658.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34584225/"
+    },
+    {
+      "Title": "Frigerio S, Strawbridge R, Young AH. The impact of caffeine consumption on clinical symptoms in patients with bipolar disorder: A systematic review. Bipolar Disord. 2021;23(3):241-251.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32949106/"
+    },
+    {
+      "Title": "Ho KM, Lee A, Wu W, et al. Flattening the biological age curve by improving metabolic health: to taurine or not to taurine, that’s the question. J Geriatr Cardiol. 2023;20(11):813-823.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38098466/"
+    },
+    {
+      "Title": "Kendler BS. Taurine: an overview of its role in preventive medicine. Prev Med. 1989;18(1):79-100.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/2496406/"
+    },
+    {
+      "Title": "Liang TL, Pan HD, Yan PY, et al. Serum taurine affects lung cancer progression by regulating tumor immune escape mediated by the immune microenvironment. J Adv Res. Sept 5, 2024:S2090-1232(24)00389-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/39243941"
+    },
+    {
+      "Title": "Machado-Vieira R, Viale CI, Kapczinski F. Mania associated with an energy drink: the possible role of caffeine, taurine, and inositol. Can J Psychiatry. 2001;46(5):454-455.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11441790/"
+    },
+    {
+      "Title": "Pimenta AI, Bernardino RM, Pereira IAC. Role of sulfidogenic members of the gut microbiota in human disease. Adv Microb Physiol. 2024;85:145-200.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/39059820/"
+    },
+    {
+      "Title": "Roe DA, Weston MO. Potential significance of free taurine in the diet. Nature. 1965;205:287-288.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14270716/"
+    },
+    {
+      "Title": "Santulli G, Kansakar U, Varzideh F, Mone P, Jankauskas SS, Lombardi A. Functional role of taurine in aging and cardiovascular health: an updated overview. Nutrients. 2023;15(19):4236.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37836520/"
+    },
+    {
+      "Title": "Scalera F, Closs EI, Flick E, et al. Paradoxical effect of L-arginine: acceleration of endothelial cell senescence. Biochem Biophys Res Commun. 2009;386(4):650-655.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19545540/"
+    },
+    {
+      "Title": "Schulman SP, Becker LC, Kass DA, et al. L-arginine therapy in acute myocardial infarction: the Vascular Interaction With Age in Myocardial Infarction (VINTAGE MI) randomized clinical trial. JAMA. 2006;295(1):58-64.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16391217/"
+    },
+    {
+      "Title": "Shao A, Hathcock JN. Risk assessment for the amino acids taurine, L-glutamine and L-arginine. Regul Toxicol Pharmacol. 2008;50(3):376-399.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18325648/"
+    },
+    {
+      "Title": "Singh P, Gollapalli K, Mangiola S, et al. Taurine deficiency as a driver of aging. Science. 2023;380(6649):eabn9257.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37289866/"
+    },
+    {
+      "Title": "Stipanuk MH, Dominy JE, Lee JI, Coloso RM. Mammalian cysteine metabolism: new insights into regulation of cysteine metabolism. J Nutr. 2006;136(6 Suppl):1652S-1659S.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16702335/"
+    },
+    {
+      "Title": "Suge R, Hosoe N, Furube M, et al. Specific timing of taurine supplementation affects learning ability in mice. Life Sci. 2007;81(15):1228-1234.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17884103/"
+    },
+    {
+      "Title": "Suliman ME, Bárány P, Filho JCD, Lindholm B, Bergström J. Accumulation of taurine in patients with renal failure. Nephrol Dial Transplant. 2002;17(3):528-529.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11865115/"
+    },
+    {
+      "Title": "Wesseling S, Koeners MP, Joles JA. Taurine: red bull or red herring? Hypertension. 2009;53(6):909-911.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19398654/"
+    },
+    {
+      "Title": "Wu G, Xu J, Wang Q, et al. Methionine-restricted diet: a feasible strategy against chronic or aging-related diseases. J Agric Food Chem. 2023;71(1):5-19.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36571820/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "caffeine",
+      "Url": "https://nutritionfacts.org/topics/caffeine/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "energy drinks",
+      "Url": "https://nutritionfacts.org/topics/energy-drinks/"
+    },
+    {
+      "Title": "epilepsy",
+      "Url": "https://nutritionfacts.org/topics/epilepsy/"
+    },
+    {
+      "Title": "How Not to Age",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-age/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "kidney failure",
+      "Url": "https://nutritionfacts.org/topics/kidney-failure/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "lupus",
+      "Url": "https://nutritionfacts.org/topics/lupus/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "rheumatoid arthritis",
+      "Url": "https://nutritionfacts.org/topics/rheumatoid-arthritis/"
+    },
+    {
+      "Title": "skin health",
+      "Url": "https://nutritionfacts.org/topics/skin-health/"
+    },
+    {
+      "Title": "taurine",
+      "Url": "https://nutritionfacts.org/topics/taurine/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I don’t know if that helped at all. Not all rodent studies are positive, including adverse cognitive effects with lifelong supplementation, and an acceleration of lung tumor growth. So those with lung cancer might not want to be popping taurine, nor those with kidney failure, bleeding disorders, psoriasis, if you’re pregnant or lactating, and ask your doctor or pharmacist about interactions with critical drugs like anti-seizure medications. Okay, but what if you don’t have any of that?</p>\n<p>The human dose equivalents used in that anti-aging study were three to six grams a day, but the safe upper limit is considered three grams. But that’s just based on a four-month study, so we don’t even know if <i>that</i> amount is safe long term. Remember, the arginine took six months before it apparently killed enough people to stop the trial.</p>\n<p>Taurine supplementation might decrease the absorption of one potentially harmful amino acid, methionine, but boost the production of another potentially harmful amino acid, cystine. We are really not getting much a clear picture here. Before I get to the microbiome angle, if, based on what we’ve covered so far, you <i>do</i> want to start supplementing your diet with taurine, what might be the best source, dose, and frequency? We’ll start with dose next.</p>\n<p><span style=\"font-weight: 400\">This is the fourth in a seven-part video series on taurine. If you missed the previous ones, check out:</span></p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/what-is-taurine-in-energy-drinks-does-it-benefit-cognitive-or-athletic-performance/\">What Is Taurine in Energy Drinks? Does It Benefit Cognitive or Athletic Performance?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/taurine-supplementation-increases-lifespan-and-healthspan-in-animals/\">Taurine Supplementation Increases Lifespan and Healthspan in Animals</a></li>\n<li><a href=\"https://nutritionfacts.org/video/randomized-controlled-trials-of-taurine-supplementation-in-humans/\">Randomized Controlled Trials of Taurine Supplementation in Humans</a></li>\n</ul>\n<p><span style=\"font-weight: 400\">Stay tuned for:</span></p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-best-daily-dose-of-taurine/\">The Best Daily Dose of Taurine</a></li>\n<li><a href=\"https://nutritionfacts.org/video/where-to-find-taurine-and-the-best-source/\">Where to Find Taurine and the Best Source</a></li>\n<li><a href=\"https://nutritionfacts.org/video/like-beet-juice-taurine-supplementation-may-only-be-safe-in-the-context-of-a-plant-based-diet/\">Like Beet Juice, Taurine Supplementation May Only Be Safe in the Context of a Plant-Based Diet</a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on longevity, go to your local public library and check out </span><span style=\"font-weight: 400\">my book, </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

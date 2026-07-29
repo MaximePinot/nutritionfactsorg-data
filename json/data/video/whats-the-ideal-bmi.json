@@ -1,0 +1,147 @@
+{
+  "Title": "What’s the Ideal BMI?",
+  "Url": "https://nutritionfacts.org/video/whats-the-ideal-bmi/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/5GMdGexw5eo"
+  },
+  "UpdatedAt": "2021-01-06T12:50:01+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 52",
+    "Url": "https://nutritionfacts.org/volumes/volume-52/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Is there a unisex chart to see what your optimal weight might be based on your height?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWe seem to have become inured to the mortal threat of obesity. If you go back in the medical literature a half century or so, when obesity wasn’t just run-of-the-mill, the descriptions are much more grim: “Obesity is always tragic, and its hazards are terrifying.” But it’s not just obesity. Of the four million deaths every year attributed to excess body fat, nearly 40 percent of the victims are just overweight, not obese. According to two famous Harvard studies, weight gain of as little as 11 pounds from early adulthood through middle age increases the risk of major chronic diseases, such as diabetes, cardiovascular disease, and cancer. The flip side, though, is that even modest weight loss can have major health benefits.\nWhat’s the optimal BMI? The largest studies in the United States and around the world found that having a normal body mass index, a BMI from 20 to 25, is associated with the longest lifespan. Put all the best available studies with the longest follow-up together, and that can be narrowed down even further to a BMI of 20 to 22. That would be about between 124 to 136 pounds for someone who stands 5’6″. You can pause the video here to use this unisex chart to see what your optimal weight might be based on your height.\nBut, even within a normal BMI, the risk of developing chronic diseases, such as type 2 diabetes, heart disease, and several types of cancer starts to rise towards the upper end, even starting as low as a BMI of 21. A BMI of 18.5 and 24.5 are both considered within the normal range, but a BMI of 24.5 may be associated with twice the heart disease risk compared to 18.5. Look at this diabetes graph among women: a five-fold difference in diabetes rates, all within the so-called ideal range under 25.\nJust as there are gradations of risk within a normal BMI range, there is a spectrum within obesity. Class III obesity, a BMI over 40, can be associated with the loss of a decade of life or more. At a BMI greater than 45, such as a 5’6″ person at 280 pounds, life expectancy may shrink to that of a cigarette smoker.\nThere are, however, so-called “obesity skeptics” that argue that the health consequences of obesity are unclear, or even greatly exaggerated. They are a motley bunch, ranging from feminists, queer theorists, and new ageists to “far right wing, pro-gun, pro-America websites where the idea [is] that obesity alarmists are nanny-state communists who simply want to stop us from having fun….”\nUnlike activists who, for example, organized to raise consciousness and stamp out the AIDS epidemic, the size acceptance movement appears to have the opposite goal, rallying for less public awareness and treatment of the problem. (They do have good slogans though: “We’re here, we’re sphere, get used to it!”). I’m all for fighting size stigma and discrimination—I have a whole section on weight stigma in my new book—but the adverse health consequences of obesity are an established scientific fact.\nCan’t you be fat but fit? In a study of more than 600 centenarians (those living over 100), only about one percent of the women, and not a single one of the men, were obese. But there does appear to be a rare subgroup of obese individuals who don’t suffer the typical metabolic costs, such as high blood pressure and cholesterol. This raises the possibility that there may be such thing as “benign obesity” or “healthy obesity.” It may just be a matter of time, though, before the risk factors develop. And even if they don’t, followed long enough, even “metabolically healthy” obese individuals are at increased risk of diabetes, and fatty liver disease, and cardiovascular events, such as heart attacks, and/or premature death. Bottom line: there is strong evidence that so-called “healthy obesity” is a myth.\nMany “fat-activists” try to downplay the risks of obesity, even as they may be among the epidemic’s greatest victims. Lynn McAfee is the director of medical advocacy for the Council on Size and Weight Discrimination, and routinely takes part in obesity conferences and government panels on obesity. “I’m not actually particularly that interested in [health],” she is quoted as saying, “and God I hate science.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Afshin A, Forouzanfar MH, Reitsma MB, et al. Health effects of overweight and obesity in 195 countries over 25 years. N Engl J Med. 2017;377(1):13-27.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28604169"
+    },
+    {
+      "Title": "Appleton SL, Seaborn CJ, Visvanathan R, et al. Diabetes and cardiovascular disease outcomes in the metabolically healthy obese phenotype: a cohort study. Diabetes Care. 2013;36(8):2388-94.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23491523"
+    },
+    {
+      "Title": "Aune D, Sen A, Prasad M, et al. BMI and all cause mortality: systematic review and non-linear dose-response meta-analysis of 230 cohort studies with 3.74 million deaths among 30.3 million participants. BMJ. 2016;353:i2156.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27146380"
+    },
+    {
+      "Title": "Bell JA, Kivimaki M, Hamer M. Metabolically healthy obesity and risk of incident type 2 diabetes: a meta-analysis of prospective cohort studies. Obes Rev. 2014;15(6):504-15.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24661566"
+    },
+    {
+      "Title": "Berrington de Gonzalez A, Hartge P, Cerhan JR, et al. Body-mass index and mortality among 1.46 million white adults. N Engl J Med. 2010;363(23):2211-9.",
+      "Url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1000367"
+    },
+    {
+      "Title": "Brown RE, Kuk JL. Consequences of obesity and weight loss: a devil’s advocate position. Obes Rev. 2015;16(1):77-87.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25410935"
+    },
+    {
+      "Title": "Chang Y, Jung HS, Cho J, et al. Metabolically healthy obesity and the development of nonalcoholic fatty liver disease. Am J Gastroenterol. 2016;111(8):1133-40.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27185080"
+    },
+    {
+      "Title": "Fontana L, Hu FB. Optimal body weight for health and longevity: bridging basic, clinical, and population research. Aging Cell. 2014;13(3):391-400.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24628815"
+    },
+    {
+      "Title": "Gard M. Truth, belief and the cultural politics of obesity scholarship and public health policy. Crit Public Health. 2011;21(1):37-48.",
+      "Url": "https://www.researchgate.net/publication/233268857_Truth_belief_and_the_cultural_politics_of_obesity_scholarship_and_public_health_policy"
+    },
+    {
+      "Title": "Greger M. How Not to Diet. Pan Books Ltd, 2019.",
+      "Url": "https://www.worldcat.org/title/how-not-to-diet/oclc/1124851322"
+    },
+    {
+      "Title": "Hill JO, Wyatt HR. The myth of healthy obesity. Ann Intern Med. 2013;159(11):789-90.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24297199"
+    },
+    {
+      "Title": "Kitahara CM, Flint AJ, Berrington de Gonzalez A, et al. Association between class III obesity (BMI of 40-59 kg/m2) and mortality: a pooled analysis of 20 prospective studies. PLoS Med. 2014;11(7):e1001673.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25003901"
+    },
+    {
+      "Title": "Kramer CK, Zinman B, Retnakaran R. Are metabolically healthy overweight and obesity benign conditions? A systematic review and meta-analysis. Ann Intern Med. 2013;159(11):758-69.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24297192"
+    },
+    {
+      "Title": "Pellagra: secondary to antiobesity diet. Postgrad Med. 1955;17(3):37.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/14371224"
+    },
+    {
+      "Title": "Saguy AC, Riley KW. Weighing both sides: morality, mortality, and framing contests over obesity. J Health Polit Policy Law. 2005;30(5):869-921.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16477791"
+    },
+    {
+      "Title": "Santos-Lozano A, Pareja-Galeano H, Fuku N, et al. Implications of obesity in exceptional longevity. Ann Transl Med. 2016;4(20):416.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27867968"
+    },
+    {
+      "Title": "Serafine AE. \"Let's Get Together and Chew the FAT\": Women, Size and Community in Modern America. Dissertations. 2017.",
+      "Url": "https://ecommons.luc.edu/luc_diss/2852/"
+    },
+    {
+      "Title": "Zheng Y, Manson JE, Yuan C, et al. Associations of weight gain from early to middle adulthood with major health outcomes later in life. JAMA. 2017;318(3):255-69.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28719691"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "Harvard",
+      "Url": "https://nutritionfacts.org/topics/harvard/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "liver disease",
+      "Url": "https://nutritionfacts.org/topics/liver-disease/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "weight gain",
+      "Url": "https://nutritionfacts.org/topics/weight-gain/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you missed the previous videos in this obesity series, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-best-knee-replacement-alternative-for-osteoarthritis-treatment/\">The Best Knee Replacement Alternative for Osteoarthritis Treatment</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-obesity-on-back-pain-blood-pressure-cancer-and-diabetes/\">The Effects of Obesity on Back Pain, Blood Pressure, Cancer, and Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-obesity-on-dementia-brain-function-and-fertility/\">The Effects of Obesity on Dementia, Brain Function, and Fertility</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-obesity-on-gallstones-acid-reflux-and-cardiovascular-disease/\">The Effects of Obesity on Gallstones, Acid Reflux, and Cardiovascular Disease</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-effects-of-obesity-on-the-immune-system-and-kidney-and-liver-diseases/\">The Effects of Obesity on the Immune System and Kidney and Liver Diseases</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-the-obesity-paradox-real-or-a-myth/\">Is the Obesity Paradox Real or a Myth?</a></li>\n</ul>\n<p><span style=\"font-weight: 400\">As a reminder, BMI doesn’t take composition of weight into account (fat versus muscle). I dive into this topic in my next video</span>: <a href=\"https://nutritionfacts.org/video/whats-the-ideal-waist-size/\">What’s the Ideal Waist Size?</a></p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/does-drinking-more-water-help-you-lose-weight/\">Does Drinking More Water Help You Lose Weight?</a> and <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/how-much-water-should-you-drink-every-day-to-lose-weight/\">How Much Water Should You Drink Every Day to Lose Weight?</a> Check out the videos.</p>\n<p><span style=\"font-weight: 400\">While we should not understate the health risks that obesity raises—all of which are outlined in my series on the ABCs of obesity—we also recognize the effects that stigma against body size has on one’s health. We will have several videos to be released within the next few months covering issues of body shaming and how it affects not only mental health, but also access to healthcare.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

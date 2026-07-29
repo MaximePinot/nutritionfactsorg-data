@@ -1,0 +1,139 @@
+{
+  "Title": "What Are the Best Foods?",
+  "Url": "https://nutritionfacts.org/video/what-are-the-best-foods/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/g7z3UZy4rww"
+  },
+  "UpdatedAt": "2020-03-30T11:50:34+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 49",
+    "Url": "https://nutritionfacts.org/volumes/volume-49/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A review of reviews on the health effects of animal foods versus plant foods.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nInstead of just looking at individual studies, or individual reviews of studies, what if you looked at a review of reviews? In my last video, I covered the beverages, with the majority of reviews that found some effects either way…finding at least some benefits to tea, coffee, wine, and milk––but not to sweetened beverages, such as soda. As I explored in depth, this approach isn’t perfect. It doesn’t take into account things like conflicts of interest, such as industry funding of studies, but can offer an interesting bird’s-eye view on what’s out there in the medical literature. What did the data show for food groups?\nYou’ll note the first thing the authors did was split it up into plant-based foods and animal-based foods. For the broadest takeaway, we can look at the totals. The vast majority of studies on whole plant foods show either protective or, at the very least, neutral effects, whereas most reviews of animal-based foods identified deleterious health effects or, at best, neutral effects.\nLet’s break these down, though. The plant foods consistently rate uniformly well, reflecting the total, but the animal foods vary considerably. As you can see, if it wasn’t for dairy and fish, the animal foods total would swing almost entirely neutral or negative.\nI talked about the effects of dairy industry funding in my last video, as well as substitution effects. Those who drink milk may be less likely to drink soda, a beverage even more universally condemned. So, the protective effects may be relative, arising not necessarily from what they’re consuming, but rather from what they’re avoiding. This may best explain the fish findings. After all, the prototypical choice is between chicken and fish, not chicken and chickpeas.\nAnd, not a single review found a single protective effect of poultry consumption. Even the soda industry could come up with 14% protective effects, but despite all the funding from the National Chicken Council, and the American Egg Board, chicken and eggs got big fat goose eggs.\nAlso, like the calcium in dairy, there are healthful components of fish: the long-chain omega-3 fatty acids. Not for heart health. In the most extensive systematic assessment of effects of omega-3 fats on cardiovascular health to date, increasing the fish oil fats had little or no effect on cardiovascular health. In fact, if anything, it was the plant-based omega-3s found in flaxseeds and walnuts that was protective. But the long-chain omega-3s are important for brain health. Thankfully, just like there are best-of-both-worlds non-dairy sources of calcium, there are pollutant-free sources of the long chain omega-3s, EPA and DHA, as well.\nThe bottom line is that when it comes to diet-related diseases such as obesity, type 2 diabetes, mental health, bone health, cardiovascular disease, and cancers, even if you lump all the animal foods together, and ignore any industry funding effects, and just take the existing body of evidence at face value, nine out of ten study compilations show that whole plant foods are, in the very least, not bad, whereas about eight out of ten of the reviews on animal products show them to be not good.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Abdelhamid AS, Brown TJ, Brainard JS, et al. Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease. Cochrane Database Syst Rev. 2018;7:CD003177.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30019766"
+    },
+    {
+      "Title": "Fardet A, Boirie Y. Associations between food and beverage groups and major diet-related chronic diseases: an exhaustive review of pooled/meta-analyses and systematic reviews. Nutr Rev. 2014;72(12):741-62.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25406801"
+    },
+    {
+      "Title": "Gonzales JF, Barnard ND, Jenkins DJ, et al. Applying the precautionary principle to nutrition and cancer. J Am Coll Nutr. 2014;33(3):239-46.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24870117"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "calcium",
+      "Url": "https://nutritionfacts.org/topics/calcium/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "chickpeas",
+      "Url": "https://nutritionfacts.org/topics/chickpeas/"
+    },
+    {
+      "Title": "coffee",
+      "Url": "https://nutritionfacts.org/topics/coffee/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "flaxseeds",
+      "Url": "https://nutritionfacts.org/topics/flax-seeds/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "omega-3 fatty acids",
+      "Url": "https://nutritionfacts.org/topics/omega-3-fatty-acids/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "soda",
+      "Url": "https://nutritionfacts.org/topics/soda/"
+    },
+    {
+      "Title": "tea",
+      "Url": "https://nutritionfacts.org/topics/tea/"
+    },
+    {
+      "Title": "walnuts",
+      "Url": "https://nutritionfacts.org/topics/walnuts/"
+    },
+    {
+      "Title": "wine",
+      "Url": "https://nutritionfacts.org/topics/wine/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This reminds me of my <a href=\"https://nutritionfacts.org/video/what-are-the-healthiest-foods/\">What Are the Healthiest Foods?</a> video, which is helpful for some broad takeaways.</p>\n<p>If you missed the previous video, check out <a href=\"https://nutritionfacts.org/video/what-are-the-best-beverages/\">What Are the Best Beverages?</a></p>\n<p>PS: The omega-3s video I mentioned is: <a href=\"https://nutritionfacts.org/video/should-vegans-take-dha-to-preserve-brain-function/\">Should Vegans Take DHA to Preserve Brain Function?</a></p>\n<p>For more on eggs, see, for example:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/who-says-eggs-arent-healthy-or-safe/\">Eggs: Who Says They Aren’t Healthy or Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-the-egg-board-designs-misleading-studies/\">How the Egg Board Designs Misleading Studies</a></li>\n<li><a href=\"https://nutritionfacts.org/video/when-low-risk-means-high-risk/\">When Low Risk Means High Risk</a></li>\n<li><a href=\"https://nutritionfacts.org/video/eggs-and-arterial-function/\">Eggs &amp; Arterial Function</a></li>\n<li><a href=\"https://nutritionfacts.org/video/debunking-egg-industry-myths/\">Debunking Egg Industry Myths</a></li>\n<li><a href=\"https://nutritionfacts.org/video/eggs-and-diabetes/\">Eggs &amp; Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/egg-industry-response-to-choline-and-tmao/\">Egg Industry Response to Choline &amp; TMAO</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-our-gut-bacteria-can-use-eggs-to-accelerate-cancer/\">How Our Gut Bacteria Can Use Eggs to Accelerate Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/eggs-and-breast-cancer/\">Eggs &amp; Breast Cancer: The Latest Research</a></li>\n</ul>\n<p>For more on fish, see, for example:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/fish-consumption-and-suicide/\">Fish Consumption &amp; Suicide</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fish-and-diabetes/\">Fish &amp; Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/california-children-are-contaminated/\">California Children Are Contaminated</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-long-to-detox-from-fish-before-pregnancy/\">How Long to Detox from Fish Before Pregnancy</a></li>\n<li><a href=\"https://nutritionfacts.org/video/omega-3s-and-the-eskimo-fish-tale/\">Omega-3s and the Eskimo Fish Tale</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fish-brain-food-older-adults/\">Is Fish “Brain Food” for Older Adults?</a></li>\n</ul>\n<p>For more on poultry, see, for example:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/chicken-dioxins-viruses-or-antibiotics/\">Chicken Dioxins, Viruses, or Antibiotics?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/past-the-age-of-miracles-facing-a-post-antibiotic-age/\">Past the Age of Miracles: Facing a Post-Antibiotic Age</a></li>\n<li><a href=\"https://nutritionfacts.org/video/superbugs-in-conventional-vs-organic-chicken/\">Superbugs in Conventional vs. Organic Chicken</a></li>\n<li><a href=\"https://nutritionfacts.org/video/urinary-tract-infections-from-eating-chicken/\">Urinary Tract Infections from Eating Chicken</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-about-kosher-and-organic-chicken/\">What About Kosher and Organic Chicken?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/chicken-big-poultry-and-obesity/\">Chicken Big: Poultry and Obesity</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-poultry-viruses-in-human-cancers/\">The Role of Poultry Viruses in Human Cancers</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

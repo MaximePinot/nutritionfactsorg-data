@@ -1,0 +1,187 @@
+{
+  "Title": "What Causes Cancer to Metastasize?",
+  "Url": "https://nutritionfacts.org/video/what-causes-cancer-to-metastasize/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Yduu8wBUtW0"
+  },
+  "UpdatedAt": "2021-06-07T11:50:39+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 54",
+    "Url": "https://nutritionfacts.org/volumes/volume-54/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Palmitic acid, a saturated fat concentrated in meat and dairy, can boost the metastatic potential of cancer cells through the fat receptor CD36.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: This is the first in a three-part series on cancer metastasis. In this series, I’ll look at what dietary components contribute to the spread of cancer, and what dietary interventions—and even specific foods—can lessen the risk of spread, therefore increasing the chances of survival. Let’s go find out.\nMetastasis formation is the leading cause of death in cancer patients. That’s how most people die of cancer. It’s not the primary tumor, but the cancer spreading through the body. “[It’s] estimated that metastasis is responsible for [90 percent] of cancer deaths”, with little progress made in stopping the spread despite our modern medical armamentarium. In fact, we can sometimes make it worse: Therapy-Induced Metastasis. All the typical cancer treatments, radiation, chemotherapy, surgery—even just poking the tumors with fine needle biopsies—have the potential to contribute to the problem. I mean, you can imagine how cutting around a tumor, severing the blood vessels, might lead to the migration of residual tumor cells. But why chemotherapy? How might chemo exacerbate metastases? Despite reducing the size of primary tumors, chemotherapy can change the surrounding tissues, resulting in an increased escape of cancer cells into the blood stream. Sometimes chemo/surgery/radiation are entirely justified, but sometimes these treatments can make things worse. If only we had a way to treat the cause of the cancer spreading.\nThe development of antimetastatic therapies has been hampered by the fact that we haven’t been able to identity the cells that initiate metastasis.  But then, this landmark study was published. Researchers found a subpopulation of human cancer cells “unique in their ability to initiate metastasis”, all expressing high levels of a fat receptor known as CD36, dubbed “the fat controller.” It turns out palmitic acid or a high-fat diet specifically boosts the metastatic potential of these cancer cells. Where do you find palmitic acid? Although originally discovered in palm oil, it’s most concentrated in meat and dairy. “Emerging evidence shows that palmitic acid . . . serves as a signaling molecule regulating the progression and development of many diseases at the molecular level”––and that’s the saturated fat that is recognized by the CD36 receptor on the cancer cells. And we know that’s to blame, because if you block the CD36 receptor, you block the metastases.\nNow this was for a human cancer; however, it was a human cancer implanted into mice, but clinically (meaning in cancer patients), the presence of these CD36-studded metastasis-initiating cells does indeed correlate with a poor prognosis. For example, CD36 appears to drive the progression of brain tumors. If you look at the survival curves, those with tumors with less CD36 expression lived significantly longer. The same with breast cancer mortality. No surprise, since “CD36 [appears to play] a critical role in [the] proliferation, migration, and…growth of…breast cancer cells.” Inhibit CD36, and you can inhibit “the migration and invasion of the breast cancer cells.” Cancer cell migration and invasion before and after CD36 inhibition.\nAnd not just in “human melanoma- and breast cancer-derived tumors.” Now we suspect that “…CD36…drives ovarian cancer progression and metastasis” too, since we can inhibit ovarian cancer cell invasion and migration and block both lymph node and blood-borne metastasis by blocking CD36. We see the same kind of effect with prostate cancer. Suppress the uptake of fat by prostate cancer cells, and you can suppress the tumor. This was all studied with receptor-blocking drugs and antibodies in a laboratory setting, though. If these metastasis-initiating cancer cells particularly rely on dietary fat to promote the spread of cancer, why not just block the dietary fat in the first place?\nCancer cells love fat and cholesterol. The reason why fat metabolism may fuel cancer’s spread is because there is so much energy stored in fat. “Hence, … metastatic cells might take advantage of this feature to obtain the high amount of energy that is likely to be required for them to anchor and [set up shop throughout the body].”\n“The time when sugar was considered as the major, if not only, fuel to support cancer cell proliferation is over.” There appears to be “a fatter way to metastasize”. No wonder “…high-fat [diets may] …play a crucial role in increasing the risk of different cancer types, …[including] several advanced cancers.” Okay, if dietary fat may be “greasing the wheels of the cancer machine,” might there be speciﬁc dietary regimens we could use to starve cancers of dietary fat? You don’t know until you put it to the test, which we’ll cover next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Carta G, Murru E, Banni S, Manca C. Palmitic acid: Physiological role, metabolism and nutritional implications. Front Physiol. 2017;8:902.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29167646/"
+    },
+    {
+      "Title": "Chlebowski RT, Blackburn GL, Thomson CA, et al. Dietary fat reduction and breast cancer outcome: Interim efficacy results from the Women's Intervention Nutrition Study. J Natl Cancer Inst. 2006;98(24):1767-76.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17179478/"
+    },
+    {
+      "Title": "Corbet C, Feron O. Emerging roles of lipid metabolism in cancer progression. Curr Opin Clin Nutr Metab Care. 2017;20(4):254-60.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28403011/"
+    },
+    {
+      "Title": "Elia I, Doglioni G, Fendt S-M. Metabolic hallmarks of metastasis formation. Trends Cell Biol. 2018;28(8):673-84.",
+      "Url": "https://doi.org/10.1016/j.tcb.2018.04.002"
+    },
+    {
+      "Title": "Fatima S, Hu X, Gong RH, et al. Palmitic acid is an intracellular signaling molecule involved in disease development. Cell Mol Life Sci. 2019;76(13):2547-57.",
+      "Url": "https://doi.org/10.1007/s00018-019-03092-7"
+    },
+    {
+      "Title": "Hale JS, Otvos B, Sinyuk M, et al. Cancer stem cell-specific scavenger receptor CD36 drives glioblastoma progression. Stem Cells. 2014;32(7):1746-58.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24737733/"
+    },
+    {
+      "Title": "Ladanyi A, Mukherjee A, Kenny HA, et al. Adipocyte-induced CD36 expression drives ovarian cancer progression and metastasis. Oncogene. 2018;37(17):2285-301.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29398710/"
+    },
+    {
+      "Title": "Lee W-C, Kopetz S, Wistuba II, Zhang J. Metastasis of cancer: when and how? Ann Oncol. 2017;28(9):2045-7.",
+      "Url": "https://doi.org/10.1093/annonc/mdx327"
+    },
+    {
+      "Title": "Li Z, Kang Y. Lipid metabolism fuels cancer's spread. Cell Metab. 2017;25(2):228-30.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28178563/"
+    },
+    {
+      "Title": "Liang Y, Han H, Liu L, et al. CD36 plays a critical role in proliferation, migration and tamoxifen-inhibited growth of ER-positive breast cancer cells. Oncogenesis. 2018;7:98.",
+      "Url": "https://doi.org/10.1038/s41389-018-0107-x"
+    },
+    {
+      "Title": "Martin OA, Anderson RL. Editorial: Therapy-induced metastasis. Clin Exp Metastasis. 2018;35(4):219-21.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29971590/"
+    },
+    {
+      "Title": "Middleton JD, Stover DG, Hai T. Chemotherapy-exacerbated breast cancer metastasis: A paradox explainable by dysregulated adaptive-response. Int J Mol Sci. 2018;19(11):3333.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30373101/"
+    },
+    {
+      "Title": "Pascual G, Avgustinova A, Mejetta S, et al. Targeting metastasis-initiating cells through the fatty acid receptor CD36. Nature. 2017;541(7635):41-5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27974793/"
+    },
+    {
+      "Title": "Snaebjornsson MT, Janaki-Raman S, Schulze A. Greasing the wheels of the cancer machine: The role of lipid metabolism in cancer. Cell Metab. 2020;31(1):62-76.",
+      "Url": "https://doi.org/10.1016/j.cmet.2019.11.010"
+    },
+    {
+      "Title": "Villanueva MT. Metastasis: The fat controller. Nat Rev Cancer. 2017;17(2):76-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28127046/"
+    },
+    {
+      "Title": "Watt MJ, Clark AK, Selth LA, et al. Suppressing fatty acid uptake has therapeutic effects in preclinical models of prostate cancer. Sci Transl Med. 2019;11(478):eaau5758.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30728288/"
+    },
+    {
+      "Title": "Yeudall WA, Shahoumi L. A fatter way to metastasize. Oral Dis. 2018;24(5):679-81.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28258602/"
+    },
+    {
+      "Title": "Zaoui M, Morel M, Ferrand N, et al. Breast-associated adipocytes secretome induce fatty acid uptake and invasiveness in breast cancer cells via CD36 independently of body mass index, menopausal status and mammary density. Cancers (Basel). 2019;11(12):2012.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31847105/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "brain tumors",
+      "Url": "https://nutritionfacts.org/topics/brain-tumors/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "melanoma",
+      "Url": "https://nutritionfacts.org/topics/melanoma/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "ovarian cancer",
+      "Url": "https://nutritionfacts.org/topics/ovarian-cancer/"
+    },
+    {
+      "Title": "palm oil",
+      "Url": "https://nutritionfacts.org/topics/palm-oil/"
+    },
+    {
+      "Title": "palmitic acid",
+      "Url": "https://nutritionfacts.org/topics/palmitic-acid/"
+    },
+    {
+      "Title": "prostate cancer",
+      "Url": "https://nutritionfacts.org/topics/prostate-cancer/"
+    },
+    {
+      "Title": "radiation",
+      "Url": "https://nutritionfacts.org/topics/radiation/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "surgery",
+      "Url": "https://nutritionfacts.org/topics/surgery/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the first video in a three-part series on cancer metastasis. The next two are:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-to-help-control-cancer-metastasis-with-diet/\">How to Help Control Cancer Metastasis with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-food-that-can-downregulate-a-metastatic-cancer-gene/\">The Food That Can Downregulate the Metastatic Cancer Gene</a></li>\n</ul>\n<p>This reminds me of my video <a href=\"https://nutritionfacts.org/video/cholesterol-feeds-breast-cancer-cells/\">Cholesterol Feeds Breast Cancer Cells</a>. I’ve got scores of other cancer videos, and if you’re looking for a good overview, check out <a href=\"https://nutritionfacts.org/video/how-not-to-die-from-cancer/\">How Not to Die from Cancer</a>.</p>\n<p>Update: In 2022, I released another video on cancer metastasis. See <a href=\"https://nutritionfacts.org/video/blocking-the-cancer-metastasis-enzyme-mmp-9-with-beans-and-chickpeas/\">Blocking the Cancer Metastasis Enzyme MMP-9 with Beans and Chickpeas</a>.</p>\n<p><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/how-to-slow-cancer-growth/\">How to Slow Cancer Growth</a>? Check out the video. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

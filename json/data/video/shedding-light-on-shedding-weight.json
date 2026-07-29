@@ -1,0 +1,139 @@
+{
+  "Title": "Shedding Light on Shedding Weight",
+  "Url": "https://nutritionfacts.org/video/shedding-light-on-shedding-weight/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/NrkcNUnWPDw"
+  },
+  "UpdatedAt": "2020-02-19T12:50:43+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 49",
+    "Url": "https://nutritionfacts.org/volumes/volume-49/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Randomized, controlled trials of phototherapy (morning bright light) for weight loss.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIf weakening our circadian rhythm can cause weight gain, might strengthening it facilitate weight loss? In our child’s swing analogy, regular morning meals can give our cycles a little daily push, but the biggest shove comes from our exposure to bright morning light. Similarly, exposure to light at night could be analogous to nighttime eating. Yes, we’ve had candles to illuminate our nights for 5,000 years, but flames from candles, campfires, and oil lamps are skewed towards the red end of the light spectrum, and it’s the shorter blue wavelengths that specially set our circadian clocks. Even incandescent electric lighting starting a little over a century ago consisted of mainly low-level yellow wavelengths, replaced over just the last few decades with fluorescents and LED lights that now contain extra blue wavelengths, which is more similar to morning sunlight, and has the strongest effect on our circadian rhythms.\nUsing wrist meters to measure ambient light exposure, researchers found that increased evening and nighttime light exposure correlated with a subsequent increased risk of developing obesity over time. This was presumed to be due to circadian misalignment, but may be instead a sign that they’re not sleeping as much, and maybe that’s the real reason they grew heavier. This was controlled for in a study of more than 100,000 women, which found that the odds of obesity trended with higher nighttime light exposure independent of sleep duration.\nCompared to women who reported their rooms at night were too dark to see their hand in front of their face, or at least too dark to see across the room, those who reported that it was light enough to see across their bedrooms at night were significantly heavier. It’s not that they were all sleeping with nightlights on; without blackout curtains on the windows, many neighborhoods may be bright enough to cause circadian disruption. Using satellite imagery, scientists have even been able to correlate higher obesity rates with brighter communities. There’s so much light at night these days that, outside of a blackout, the only Milky Way our children will likely ever see is in a candy wrapper.\nAlthough sleep quantity could be controlled for, what about sleep quality? Maybe people sleeping in less dim bedrooms don’t sleep as soundly, leaving them too tired to exercise the next day or something. You can’t know for sure if nocturnal light exposure is harmful in and of itself––until you put it to the test. When that was done, those randomized to exposure to bright light for a few hours in the evenings, or even a single night, suffered adverse metabolic consequences.\nThe more intriguing question then becomes: can circadian syncing with morning bright light therapy be a viable weight-loss strategy? Insufficient morning light may be the circadian equivalent of breakfast-skipping. Indoor lighting is too bright at night, but may be too dim in the day to robustly boost our daily rhythm. Light exposure from getting outdoors in the morning, even on an overcast day, is correlated to lower body weight, compared to typical office lighting. So, some doctors started trying “phototherapy” to treat obesity. The first case reports started to be published back in the nineties. Three out of four women lost an average of about four pounds over six weeks of morning bright light exposure, but there was no control group to confirm the effect.\nTen years later, the first randomized controlled trial was published. Overweight individuals were randomized to an exercise intervention with or without an hour a day of bright morning light. Compared to normal indoor lighting, the bright light group lost more body fat, but it’s possible the light just stimulated them to exercise harder. Studies show that bright light exposure, even the day prior to exercise, may boost performance. In a handgrip endurance test, exposure to hours of bright light increased the number of contractions until exhaustion from about 770 to 860 the next day. While light-induced improvements in activity or mood can be helpful in their own right, it would be years later still before we finally learned whether the light exposure itself could boost weight loss.\nFollowing an unpublished study in Norway purporting to show a dozen-pound weight loss advantage to 8 weeks of 30 minutes of daily daylight compared to indoor lighting, researchers tried three weeks of 45-minute morning bright light, compared to the same time sitting in front of “ion generator” that appeared to turn on, but was secretly deactivated. The three weeks of light beat out the placebo, but the average difference in body fat reduction was only about a pound. This slight edge didn’t seem to correlate with mood changes, but bright light alone can stimulate serotonin production in the human brain, and cause the release of adrenaline-type hormones, both of which could benefit body fat, aside from any circadian effects.\nRegardless of the mechanism, bright morning daylight exposure could present a novel weight-loss strategy straight out of the clear blue sky.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Albreiki MS, Middleton B, Hampton SM. A single night light exposure acutely alters hormonal and metabolic responses in healthy participants. Endocr Connect. 2017;6(2):100-110.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28270559"
+    },
+    {
+      "Title": "Broussard JL, Van cauter E. Disturbances of sleep and circadian rhythms: novel risk factors for obesity. Curr Opin Endocrinol Diabetes Obes. 2016;23(5):353-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27584008"
+    },
+    {
+      "Title": "Bylesjö EI, Boman K, Wetterberg L. Obesity treated with phototherapy: four case studies. Int J Eat Disord. 1996;20(4):443-46.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8953334"
+    },
+    {
+      "Title": "Cheung IN, Zee PC, Shalman D, Malkani RG, Kang J, Reid KJ. Morning and evening blue-enriched light exposure alters metabolic function in normal weight adults. PLoS ONE. 2016;11(5):e0155601.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27191727"
+    },
+    {
+      "Title": "Danilenko KV, Mustafina SV, Pechenkina EA. Bright light for weight loss: results of a controlled crossover trial. Obes Facts. 2013;6(1):28-38.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23429094"
+    },
+    {
+      "Title": "Dunai A, Novak M, Chung SA, et al. Moderate exercise and bright light treatment in overweight and obese individuals. Obesity (Silver Spring). 2007;15(7):1749-57.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17636093"
+    },
+    {
+      "Title": "Gangwisch JE. Invited commentary: nighttime light exposure as a risk factor for obesity through disruption of circadian and circannual rhythms. Am J Epidemiol. 2014;180(3):251-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24875372"
+    },
+    {
+      "Title": "Koo YS, Song JY, Joo EY, et al. Outdoor artificial light at night, obesity, and sleep health: Cross-sectional analysis in the KoGES study. Chronobiol Int. 2016;33(3):301-14.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26950542"
+    },
+    {
+      "Title": "Kräuchi K, Cajochen C, Werth E, Wirz-Justice A. Alteration of internal circadian phase relationships after morning versus evening carbohydrate-rich meals in humans. J Biol Rhythms. 2002;17(4):364-76.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12164252"
+    },
+    {
+      "Title": "Lambert GW, Reid C, Kaye DM, Jennings GL, Esler MD. Effect of sunlight and season on serotonin turnover in the brain. Lancet. 2002;360(9348):1840-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12480364"
+    },
+    {
+      "Title": "Mcfadden E, Jones ME, Schoemaker MJ, Ashworth A, Swerdlow AJ. The relationship between obesity and exposure to light at night: cross-sectional analyses of over 100,000 women in the Breakthrough Generations Study. Am J Epidemiol. 2014;180(3):245-50.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24875371"
+    },
+    {
+      "Title": "Nelson RJ, Chbeir S. Dark matters: effects of light at night on metabolism. Proc Nutr Soc. 2018;77(3):223-229.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29747703"
+    },
+    {
+      "Title": "Obayashi K, Saeki K, Kurumatani N. Ambient Light Exposure and Changes in Obesity Parameters: A Longitudinal Study of the HEIJO-KYO Cohort. J Clin Endocrinol Metab. 2016;101(9):3539-47.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27383113"
+    },
+    {
+      "Title": "Poggiogalle E, Jamshed H, Peterson CM. Circadian regulation of glucose, lipid, and energy metabolism in humans. Metab Clin Exp. 2018;84:11-27.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29195759"
+    },
+    {
+      "Title": "Reid KJ, Santostasi G, Baron KG, Wilson J, Kang J, Zee PC. Timing and intensity of light correlate with body weight in adults. PLoS ONE. 2014;9(4):e92251.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24694994"
+    },
+    {
+      "Title": "Stevens RG, Zhu Y. Electric light, particularly at night, disrupts human circadian rhythmicity: is that a problem?. Philos Trans R Soc Lond B Biol Sci. 2015;370(1667).",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25780233"
+    },
+    {
+      "Title": "Stoica E, Enulescu O. Catecholamine response to light in migraine. Cephalalgia. 1988;8(1):31-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/3359482"
+    },
+    {
+      "Title": "Van Someren EJ, Riemersma-Van Der Lek RF. Live to the rhythm, slave to the rhythm. Sleep Med Rev. 2007;11(6):465-84.",
+      "Url": "https://www.researchgate.net/publication/5825078_Live_to_the_rhythm_slave_to_the_rhythm"
+    },
+    {
+      "Title": "Zhang P, Tokura H. Influence of two different light intensities during daytime on endurance performance of handgrip exercise. Eur J Appl Physiol Occup Physiol. 1996;74(4):318-21.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8911823"
+    }
+  ],
+  "Acknowledgements": "Image credit: Free-Photos via Pixabay. Image has been modified.\nVideo production by Glass Entertainment.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "chronobiology",
+      "Url": "https://nutritionfacts.org/topics/chronobiology/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "mood",
+      "Url": "https://nutritionfacts.org/topics/mood/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "serotonin",
+      "Url": "https://nutritionfacts.org/topics/serotonin/"
+    },
+    {
+      "Title": "sleep",
+      "Url": "https://nutritionfacts.org/topics/sleep/"
+    },
+    {
+      "Title": "weight gain",
+      "Url": "https://nutritionfacts.org/topics/weight-gain/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I have a whole series now on chronobiology; you can see all of the videos <a href=\"https://nutritionfacts.org/topics/chronobiology/\" target=\"_blank\" rel=\"noopener\">here</a>. The last few help paint the full picture of how our environment can affect our circadian rhythms:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-circadian-rhythms-affect-blood-sugar-levels/\">How Circadian Rhythms Affect Blood Sugar Levels</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-sync-your-central-circadian-clock-to-your-peripheral-clocks/\">How to Sync Your Central Circadian Clock to Your Peripheral Clocks</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-metabolic-harms-of-night-shifts-and-irregular-meals/\">The Metabolic Harms of Night Shifts and Irregular Meals</a></li>\n</ul>\n<p>There’s one more, coming up next: <a href=\"https://nutritionfacts.org/video/why-people-gain-weight-in-the-fall/\">Why People Gain Weight in the Fall</a>.</p>\n<p>For more on weight loss, check out my recent series:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-3500-calorie-per-pound-rule-is-wrong/\">The 3,500 Calorie per Pound Rule Is Wrong</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-reason-weight-loss-plateaus-when-you-diet/\">The Reason Weight Loss Plateaus When You Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-new-calories-per-pound-of-weight-loss-rule/\" target=\"_blank\" rel=\"noopener\">The New Calories per Pound of Weight Loss Rule</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-sugar-lead-to-weight-gain/\">Does Sugar Lead to Weight Gain?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-benefits-of-calorie-restriction-for-longevity/\">The Benefits of Calorie Restriction for Longevity</a></li>\n<li><a href=\"https://nutritionfacts.org/video/potential-pitfalls-of-calorie-restriction/\">Potential Pitfalls of Calorie Restriction </a></li>\n<li><a href=\"https://nutritionfacts.org/video/benefits-of-fasting-for-weight-loss-put-to-the-test/\">Benefits of Fasting for Weight Loss Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-fasting-beneficial-for-weight-loss/\">Is Fasting Beneficial for Weight Loss?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-fasting-for-weight-loss-safe/\">Is Fasting for Weight Loss Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-weight-loss-supplements-safe/\">Are Weight-Loss Supplements Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-weight-loss-supplements-effective/\">Are Weight-Loss Supplements Effective?</a></li>\n</ul>\n<p>Or browse all of my weight loss videos <a href=\"https://nutritionfacts.org/topics/weight-loss/\">here</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

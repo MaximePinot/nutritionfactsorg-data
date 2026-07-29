@@ -1,0 +1,95 @@
+{
+  "Title": "Animalistic Plant Proteins",
+  "Url": "https://nutritionfacts.org/video/animalistic-plant-proteins/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/pyeS7_kL7sU"
+  },
+  "UpdatedAt": "2012-10-03T07:25:45+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 10",
+    "Url": "https://nutritionfacts.org/volumes/volume-10/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "While animal proteins increase levels of the cancer-promoting growth hormone IGF-1, and most plant proteins bring levels down, “high quality” plant proteins, such as soy, may not significantly affect levels in either direction. This, however, may depend on the quantity consumed.",
+  "Transcript": "If animal proteins are bad because they boost our blood levels of the cancer promoter IGF-1, what about the few plant proteins that just coincidently happen to have amino acid ratios similar to animal proteins—like soy?\nOne of soy’s selling points is that it has “high quality” protein. But now, we know that from a cancer perspective, higher quality may mean a higher quantity of cancer risk, thanks to IGF-1.\nLet’s go back to this study. Those who ate a lot of animal protein had significantly higher levels of IGF-1. And those who ate a lot of non-soy plant protein had significantly lower levels, presumably because it substituted for some of the animal protein in their diets. The same thing might have happened a little with soy—hey, at least you’re not eating animal protein, but this was not a significant decrease.\nMeaning if all we do is just swap out animal protein and swap in soy protein, we may not see that beautiful drop in IGF-1 enjoyed by those replacing animal protein instead with a variety of different plant proteins.\nIndeed, the more soy milk, for example, that vegan women drank, the higher their IGF levels tended to be. But the trend was only of borderline statistical significance—meaning it could have just been due to chance. To test this once and for all would require the combined might of both the Ornish and Pritikin research teams—a study we’ll cover tomorrow.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Kerry Skinner.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Allen NE, Appleby PN, Davey GK, Kaaks R, Rinaldi S, Key TJ. The Associations of Diet with Serum Insulin-like Growth Factor I and Its Main Binding Proteins in 292 Women Meat-Eaters, Vegetarians, and Vegans. Cancer Epidemiol Biomarkers Prev. 2002 Nov;11(11):1441-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12433724/"
+    },
+    {
+      "Title": "Dewell A, Weidner G, Sumner MD, Barnard RJ, Marlin RO, Daubenmier JJ, Chi C, Carroll PR, Ornish D. Relationship of dietary protein and soy isoflavones to serum IGF-1 and IGF binding proteins in the Prostate Cancer Lifestyle Trial. Nutr Cancer. 2007;58(1):35-42.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17571965"
+    },
+    {
+      "Title": "Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids (Macronutrients). A Report of the Panel on Macronutrients, Subcommittees on Upper Reference Levels of Nutrients and Interpretation and Uses of Dietary Reference Intakes, and the Standing Committee on the Scientific Evaluation of Dietary Reference Intakes. Institute of Medicine. 2005.",
+      "Url": "http://www.nap.edu/catalog.php?record_id=10490"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Inkwina via Wikimedia Commons and jazzijava.",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "soy milk",
+      "Url": "https://nutritionfacts.org/topics/soymilk/"
+    },
+    {
+      "Title": "soybeans",
+      "Url": "https://nutritionfacts.org/topics/soybeans/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetable protein",
+      "Url": "https://nutritionfacts.org/topics/vegetable-protein/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>See <a href=\"https://nutritionfacts.org/video/protein-intake-and-igf-1-production/\" rel=\"nofollow\">Protein Intake &amp; IGF-1 Production</a> and <a href=\"https://nutritionfacts.org/video/higher-quality-may-mean-higher-risk/\" rel=\"nofollow\">Higher Quality May Mean Higher Risk</a> for some immediate background, and <a href=\"https://nutritionfacts.org/video/igf-1-as-one-stop-cancer-shop/\" rel=\"nofollow\">IGF-1 as One-Stop Cancer Shop</a> for why we’d like to see these levels low in adulthood (though not in childhood—see <a href=\"https://nutritionfacts.org/video/cancer-proofing-mutation/\" rel=\"nofollow\">Cancer-Proofing Mutation</a>). Is there a level of soy food consumption at which one might see IGF-1 levels comparable to those induced by animal protein? The title of my next video kind of gives it away: <a href=\"https://nutritionfacts.org/video/too-much-soy-may-neutralize-plant-based-benefits/\" rel=\"nofollow\">Too Much Soy May Neutralize Plant-Based Benefits</a>.</p>\n<p>For further context, be sure to check out my associated blog post: <a href=\"https://nutritionfacts.org/blog/how-much-soy-is-too-much/\"> How Much Soy Is Too Much? </a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

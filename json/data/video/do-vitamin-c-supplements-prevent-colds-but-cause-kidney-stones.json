@@ -1,0 +1,127 @@
+{
+  "Title": "Do Vitamin C Supplements Prevent Colds but Cause Kidney Stones?",
+  "Url": "https://nutritionfacts.org/video/do-vitamin-c-supplements-prevent-colds-but-cause-kidney-stones/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/MSx2-J1WxOw"
+  },
+  "UpdatedAt": "2017-02-27T13:00:37+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 34",
+    "Url": "https://nutritionfacts.org/volumes/volume-34/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the benefits and risks of taking vitamin C supplements?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMainstream medicine has long had a healthy skepticism of dietary supplements, extending to the present day. “Enough is enough.” But, this commentary in the Archives of Internal Medicine argued we may have gone too far, as evidenced by our “uncritical acceptance” of supposed toxicities; the surprisingly “angry, scornful tone” found in medical texts, with words like “careless, useless,…indefensible, wasteful, [and] insidious,” as well as ignoring evidence of possible benefit.\n“To illustrate the uncritical acceptance of bad news” [about supplements], they discuss the well-known concept that “high-dose [vitamin C] can cause kidney stones.” But, just because something is “well known” in medicine doesn’t mean it’s necessarily true. They couldn’t find a single reported case. We’ve known that vitamin C is turned into oxalates in the body, and if the level of oxalates in the urine gets too high, stones can form. But, even at 4,000 mg of vitamin C a day (that’s like a couple gallons of orange juice’s worth), urinary oxalates may not get very high.\nBut, you know, there may be rare individuals that have increased capacity for this conversion into oxalate, and so, a theoretical risk of kidney stones with high-dose vitamin C supplements was raised in a letter printed in a medical journal back in 1973. Okay, but when it’s talked about in the medical literature, they make it sound like it’s an established phenomenon. Here’s a reference to seven citations, supposedly suggesting an association between excessive vitamin C intake and “the formation of oxalate [kidney] stones.” Let’s look at the cited sources. Okay, there’s the letter about the theoretical risk—that’s legit, but this other citation has nothing to do with either vitamin C or kidney stones, and the other five citations are just references to books, which can sometimes be okay, if the books cite primary research themselves. But, instead, there’s like this circular logic, where the books just cite other books, that like cite that theoretical risk letter again. So, it looks like there’s a lot of evidence, but they’re all just expressing this opinion with no new data.\nNow, by that time, there were actually studies that followed populations of people taking vitamin C supplements, and found no increased kidney stone risk among men. Then later, the same thing for women. So, you can understand this author’s frustration that vitamin C supplements appeared to be unfairly villainized.\nThe irony is that now we know that vitamin C supplements do indeed appear to increase kidney stone risk. This population of men was followed further out, and men taking vitamin C supplements did indeed end up with higher risk—confirmed now in a second study, though also of men. We don’t know if women are similarly at risk, though there’s now also been a case reported of a child also running into problems.\nWhat does doubling of risk mean exactly, in this context? That means those taking like 1,000 milligrams a day may have a 1 in 300 chance of getting a kidney stone every year, instead of a 1 in 600 chance, which is not an insignificant risk—1 in 300. Kidney stones can be really painful; so, they conclude that, look, since there’s no benefits, and some risk, better to stay away.\nBut, there are benefits. Taking vitamin C just when you get a cold doesn’t seem to help, and regular supplement users don’t seem to get fewer colds. But, when they do get sick, they don’t get as sick, and get better about 10% faster. And, those under extreme physical stress may cut their cold risk in half. So, it’s really up to each individual to balance the potential common cold benefit with the potential kidney stone risk.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Alhadeff L, Gualtieri CT, Lipton M. Toxic effects of water-soluble vitamins. Nutr Rev. 1984 Feb;42(2):33-40.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/6366633"
+    },
+    {
+      "Title": "Bradley DW, Maynard JE, Emery GE. Serum-cholesterol and whole-blood ascorbic acid in children. Lancet. 1973 Jul;2(7822):201 passim.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4124272"
+    },
+    {
+      "Title": "Briggs MH, Garcia-Webb P, Davis F. Urinary oxalate and vitamin-C supplements. Lancet. 1973 Jul;2(7822):201 passim.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4124273"
+    },
+    {
+      "Title": "Chen X, Shen L, Gu X, Dai X, Zhang L, Xu Y, Zhou P. High-dose supplementation with vitamin C--induced pediatric urolithiasis: the first case report in a child and literature review. Urology. 2014 Oct;84(4):922-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25260453"
+    },
+    {
+      "Title": "Curhan GC, Willett WC, Rimm EB, Stampfer MJ. A prospective study of the intake of vitamins C and B6, and the risk of kidney stones in men. J Urol. 1996 Jun;155(6):1847-51.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8618271"
+    },
+    {
+      "Title": "Curhan GC, Willett WC, Speizer FE, Stampfer MJ. Intake of vitamins B6 and C and the risk of kidney stones in women. J Am Soc Nephrol. 1999 Apr;10(4):840-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10203369"
+    },
+    {
+      "Title": "Fletcher RH1. The risk of taking ascorbic acid. JAMA Intern Med. 2013 Mar 11;173(5):375-94.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23381657"
+    },
+    {
+      "Title": "Goodwin JS, Tangum MR. Battling quackery: attitudes about micronutrient supplements in American academic medicine. Arch Intern Med. 1998 Nov 9;158(20):2187-91.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9818798"
+    },
+    {
+      "Title": "Guallar E, Stranges S, Mulrow C, Appel LJ, Miller ER 3rd. Enough Is Enough: Stop Wasting Money on Vitamin and Mineral Supplements. Ann Intern Med. 2013 Dec 17;159(12):850-1.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24490268"
+    },
+    {
+      "Title": "Hellman L, Burns JJ. Metabolism of L-ascorbic acid-1-C14 in man. J Biol Chem. 1958 Feb;230(2):923-30.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/13525409"
+    },
+    {
+      "Title": "Hemilä H, Chalker E. Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev. 2013 Jan 31;(1):CD000980.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23440782"
+    },
+    {
+      "Title": "Lamden MP, Chrystowski GA. Urinary oxalate excretion by man following ascorbic acid ingestion. Proc Soc Exp Biol Med. 1954 Jan;85(1):190-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/13134331"
+    },
+    {
+      "Title": "Rynearson EH. Americans love hogwash. Nutr Rev. 1974 Jul;32(0):suppl 1:1-14.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4367657"
+    },
+    {
+      "Title": "Taylor EN, Stampfer MJ, Curhan GC. Dietary factors and the risk of incident kidney stones in men: new insights after 14 years of follow-up. J Am Soc Nephrol. 2004 Dec;15(12):3225-32.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15579526"
+    },
+    {
+      "Title": "Thomas LD, Elinder CG, Tiselius HG, Wolk A, Akesson A. Ascorbic acid supplements and kidney stone incidence among men: a prospective study. JAMA Intern Med. 2013 Mar 11;173(5):386-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23381591"
+    }
+  ],
+  "Acknowledgements": "Image credit: Kristina DeMuth. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "common cold",
+      "Url": "https://nutritionfacts.org/topics/common-cold/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "kidney stones",
+      "Url": "https://nutritionfacts.org/topics/kidney-stones/"
+    },
+    {
+      "Title": "men's health",
+      "Url": "https://nutritionfacts.org/topics/mens-health/"
+    },
+    {
+      "Title": "nutrition myths",
+      "Url": "https://nutritionfacts.org/topics/nutrition-myths/"
+    },
+    {
+      "Title": "oxalates",
+      "Url": "https://nutritionfacts.org/topics/oxalates/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What about intravenous vitamin C? I’ve got a whole video series on that, including:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/intravenous-vitamin-c-for-terminal-cancer-patients/\">Intravenous Vitamin C for Terminal Cancer Patients</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vitamin-c-supplements-for-terminal-cancer-patients/\">Vitamin C Supplements for Terminal Cancer Patients</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-vitamin-c-in-the-treatment-of-terminal-cancer/\">The Role of Vitamin C in the Treatment of Terminal Cancer</a></li>\n</ul>\n<p>If you’re not taking vitamin C supplements for pharmacological effects and just want to know how many vitamin C-rich fruits and vegetables to eat every day, check out my video <a href=\"https://nutritionfacts.org/video/what-is-the-optimal-vitamin-c-intake/\">What Is the Optimal Vitamin C Intake?</a>.</p>\n<p>Is there anything we can put into our mouth that really might help prevent colds? These videos will point you in the right direction:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/can-gargling-prevent-the-common-cold/\">Can Gargling Prevent the Common Cold?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/preventing-the-common-cold-with-probiotics/\">Preventing the Common Cold with Probiotics?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/nutritional-yeast-to-prevent-the-common-cold/\">Nutritional Yeast to Prevent the Common Cold</a></li>\n<li><a href=\"https://nutritionfacts.org/video/kiwifruit-for-the-common-cold/\">Kiwifruit for the Common Cold</a></li>\n</ul>\n<p>And, if you’re interested in learning about the most important steps you can take to prevent kidney stones, look no further than my videos <a href=\"https://nutritionfacts.org/video/how-to-prevent-kidney-stones-with-diet/\">How to Prevent Kidney Stones with Diet</a> and <a href=\"https://nutritionfacts.org/video/how-to-treat-kidney-stones-with-diet/\">How to Treat Kidney Stones with Diet</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

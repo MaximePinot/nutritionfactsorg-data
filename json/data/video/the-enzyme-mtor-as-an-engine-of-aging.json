@@ -1,0 +1,99 @@
+{
+  "Title": "The Enzyme mTOR as an Engine of Aging",
+  "Url": "https://nutritionfacts.org/video/the-enzyme-mtor-as-an-engine-of-aging/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/pHhloo634s4"
+  },
+  "UpdatedAt": "2024-11-18T12:50:54+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 67",
+    "Url": "https://nutritionfacts.org/volumes/volume-67/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Inhibiting mTOR, the “master determinant of lifespan,” is considered the best validated aging regulator.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIt sounds like science fiction. Bacteria in a vial of dirt taken from a mysterious island create a compound that prolongs life—and not just in the traditional medical sense. Thanks to advances in modern medicine, we are living longer lives, but we’re doing so by lengthening the morbidity phase. In other words, we are living longer but sicker lives. Traditional medical approaches tend to just increase the number of old people in bad health. Ideally, though, we’d extend lifespan by slowing aging. That way we could delay the onset of deterioration, rather than just extend the period of deterioration. That’s exactly what this new compound appeared to do.\nResearchers called it rapamycin, named after the bacteria’s home––the mystical Easter Island famed for its rock-carved figures, which is known locally as Rapa Nui. Rapamycin inhibits an enzyme that’s come to be known as mTOR, or “mechanistic target of rapamycin,” a key modulator of aging, characterized as a “master determinant of lifespan and ageing.”\nWhat does the enzyme mTOR actually do? It is the major regulator of growth in animals. Activation of mTOR drives increases in both cell size and cell number. What’s wrong with that? The action of mTOR has been described as the engine of a speeding car without brakes.\nIn this analogy, aging is a hurtling car that enters the low-speed zone of adulthood and damages itself, because it does not and cannot slow down. We are over the hill and picking up speed. Why don’t living organisms have brakes? Because they’ve never needed them. In the wild, animals often don’t live long enough to experience aging. Most animals die before they even reach adulthood. The same used to be true for humans. Due to early age mortality, in the 17th century most Londoners didn’t even make it to age 16.\nSo, living beings need to grow as fast as possible to start reproduction before they die from external causes. The best evolutionary strategy may therefore be to run at full speed. However, once we pass the finish line, once we win the race to pass on our genes, we’re still careening forward at an unsustainable pace––all thanks to this enzyme mTOR. In our childhood, mTOR is an engine of growth. But in adulthood, it can be thought of as the engine of aging. Nature simply selects for the brightest flame, which in turn casts the darkest shadow.\nThis is the so-called trade-off theory of aging, a concept technically known as antagonistic pleiotropy, in which a gene can have a positive effect when young, but a negative effect when old. This explains how genes with deleterious effects late in life can persist in a population. For example, the pro-inflammatory “Alzheimer’s gene” appears to protect against childhood infections––a major killer throughout most of human existence.\nWhat’s the downside of unconstrained growth fueled by mTOR? The enzyme plows full steam ahead, revving up construction pathways to churn out cellular building blocks for new growth, which can include cancerous tumors, while canceling any renovation or demolition. To preserve growth at all costs, mTOR actively suppresses autophagy, countermanding cellular cleansing and rejuvenation. In my autophagy chapter in How Not to Age, I explain how this can lead to accelerated aging. Conversely, slowing things down by putting the brakes on mTOR appears to decelerate the aging process, extending life and health. Inhibiting mTOR is considered the best-validated aging regulator.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Blagosklonny MV. Aging is not programmed: genetic pseudo-program is a shadow of developmental growth. Cell Cycle. 2013;12(24):3736-3742.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24240128/"
+    },
+    {
+      "Title": "Blagosklonny MV. TOR-driven aging: speeding car without brakes. Cell Cycle. 2009;8(24):4055-4059.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19923900/"
+    },
+    {
+      "Title": "Blagosklonny MV. Why human lifespan is rapidly increasing: solving “longevity riddle” with “revealed-slow-aging” hypothesis. Aging (Albany NY). 2010;2(4):177-182.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20404395/"
+    },
+    {
+      "Title": "Freitas RS, Roque CR, Matos GA, et al. Immunoinflammatory role of apolipoprotein E4 in malnutrition and enteric infections and the increased risk for chronic diseases under adverse environments. Nutr Rev. 2022;80(5):1001-1012.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34406390/"
+    },
+    {
+      "Title": "Hassani B, Goshtasbi G, Nooraddini S, Firouzabadi N. Pharmacological approaches to decelerate aging: a promising path. Oxid Med Cell Longev. 2022;2022:4201533.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35860429/"
+    },
+    {
+      "Title": "Huebbe P, Schloesser A, Rimbach G. A nutritional perspective on cellular rejuvenation. Oncotarget. 2015;6(16):13846-13847.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26116836/"
+    },
+    {
+      "Title": "Johnson SC, Rabinovitch PS, Kaeberlein M. mTOR is a key modulator of ageing and age-related disease. Nature. 2013;493(7432):338-345.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23325216/"
+    },
+    {
+      "Title": "Liu GY, Sabatini DM. mTOR at the nexus of nutrition, growth, ageing and disease. Nat Rev Mol Cell Biol. 2020;21(4):183-203.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31937935/"
+    },
+    {
+      "Title": "Nam HY, Han MW, Chang HW, et al. Radioresistant cancer cells can be conditioned to enter senescence by mTOR inhibition. Cancer Res. 2013;73(14):4267-4277.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23722550/"
+    },
+    {
+      "Title": "Sabatini DM. Twenty-five years of mTOR: Uncovering the link from nutrients to growth. Proc Natl Acad Sci U S A. 2017;114(45):11818-11825.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29078414/"
+    },
+    {
+      "Title": "Schmeisser K, Parker JA. Pleiotropic effects of mTOR and autophagy during development and aging. Front Cell Dev Biol. 2019;7:192.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31572724/"
+    },
+    {
+      "Title": "Vézina C, Kudelski A, Sehgal SN. Rapamycin (AY-22,989), a new antifungal antibiotic. I. Taxonomy of the producing streptomycete and isolation of the active principle. J Antibiot (Tokyo). 1975;28(10):721-726.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1102508/"
+    },
+    {
+      "Title": "Zoncu R, Efeyan A, Sabatini DM. mTOR: from growth signal integration to cancer, diabetes and ageing. Nat Rev Mol Cell Biol. 2011;12(1):21-35.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21157483/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "How Not to Age",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-age/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">So, how do you slow it down? This is the first video in a three-part series, so stay tuned for </span><a href=\"https://nutritionfacts.org/video/inhibiting-mtor-with-rapamycin-for-extending-lifespan-and-healthspan/\"><span style=\"font-weight: 400\">Inhibiting mTOR with Rapamycin for Extending Lifespan and Healthspan</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/is-rapamycin-a-universal-anti-aging-drug/\"><span style=\"font-weight: 400\">Is Rapamycin a Universal Anti-Aging Drug?</span></a><span style=\"font-weight: 400\">. </span></p>\n<p data-pm-slice=\"1 3 []\">For more on anti-aging, check out my NAD+ series:</p>\n<ul>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/do-nad-levels-decline-with-age/\">Do NAD+ Levels Decline with Age?</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/can-nad-boosters-increase-lifespan-and-healthspan/\">Can NAD+ Boosters Increase Lifespan and Healthspan?</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinic-acid-na-a-nad-booster/\">Risks and Benefits of Nicotinic Acid (NA), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-nam-a-nad-booster/\">Risks and Benefits of Nicotinamide (NAM), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-riboside-nr-a-nad-booster/\">Risks and Benefits of Nicotinamide Riboside (NR), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-mononucleotide-nmn-a-nad-booster/\">Risks and Benefits of Nicotinamide Mononucleotide (NMN), a NAD+ Booster</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/lesser-known-nad-boosting-supplements-tryptophan-nadh-nmnh-and-nrh/\">Lesser-Known NAD+ Boosting Supplements—Tryptophan, NADH, NMNH, and NRH</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/risks-of-nad-boosting-supplements/\">Risks of NAD+ Boosting Supplements</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/which-nad-booster-is-best/\">Which NAD+ Booster Is Best?</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/the-third-way-to-boost-nad/\">The Third Way to Boost NAD+</a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For even more on anti-aging, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/dietary-sources-of-the-longevity-vitamin-ergothioneine/\"><span style=\"font-weight: 400\">Dietary Sources of the “Longevity Vitamin” Ergothioneine</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/greens-green-tea-and-nuts-put-to-the-test-for-telomeres/\"><span style=\"font-weight: 400\">Greens, Green Tea, and Nuts Put to the Test for Telomeres</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/what-to-eat-to-prevent-telomere-shortening/\"><span style=\"font-weight: 400\">What to Eat to Prevent Telomere Shortening</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-best-diet-for-healthy-aging/\"><span style=\"font-weight: 400\">The Best Diet for Healthy Aging</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">And, for more on aging, check out </span><span style=\"font-weight: 400\">my longevity book, </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

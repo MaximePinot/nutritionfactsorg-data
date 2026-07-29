@@ -1,0 +1,163 @@
+{
+  "Title": "Culture Shock – Questioning the Efficacy and Safety of Probiotics",
+  "Url": "https://nutritionfacts.org/video/culture-shock-questioning-the-efficacy-and-safety-of-probiotics/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/zVwHnxL3j-k"
+  },
+  "UpdatedAt": "2017-10-25T11:00:19+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 38",
+    "Url": "https://nutritionfacts.org/volumes/volume-38/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "In certain medical conditions, probiotic supplements may actually make things worse.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhen you make sauerkraut at home, you don’t have to add any kind of starter bacteria to get it to ferment, because the lactic acid-producing bacteria are already present on the cabbage leaves themselves, out in the field. This suggests raw fruits and vegetables may not only be a source of prebiotics—fiber—but also a source of novel probiotics.\nResearchers have since worked on characterizing these bacterial communities, and found two interesting things. First, that “the communities on each produce type were significantly distinct from one another.” So, the tree fruits harbored different bacteria than veggies on the ground, and grapes and mushrooms seemed to be off in their own little world. So, if indeed these bugs turn out to be good for us, that would underscore the importance of eating not just a greater quantity, but greater variety, of fruits and veggies every day. And second, they found that there were “significant differences in [microbial] community composition between conventional and organic…produce.” “This highlights the potential for differences in the [bacteria] between conventionally and organically farmed produce items to impact human health.” But, we don’t know in what direction. They certainly found different bacteria on organic versus conventional, but we don’t know enough about fruit and veggie bugs to make a determination as to which bacterial communities are healthier.\nWhat about probiotic supplements? I’ve talked about the potential benefits, but there appears to be publication bias in the scientific literature about probiotics. This is something you see a lot with drug companies, where the sponsor, the supplement company paying for their own probiotic research, may not report negative results—not publish it, as if the study never happened. And so, then, we doctors just see the positive studies. \nUsing fancy statistical techniques, they estimated that as many as 20 unflattering studies were simply MIA. And, even in the studies that were published, even when the authors were directly sponsored by like some yogurt company, the conflicts of interest were very commonly “not reported.”\nThere’s also been concerns about safety. A review for the government’s Agency for Healthcare Research and Quality concluded that there’s “a lack of assessment and systematic reporting of adverse events in probiotic intervention studies.” So, while “[t]he available evidence in [randomized, controlled trials] does not indicate an increased risk [for the general public],…the current literature is not well equipped to answer questions on the safety of probiotic[s]…with confidence.”\nThis is the study that freaked people out a bit. Acute pancreatitis—sudden inflammation of the pancreas—is on the rise, which can become life threatening in some cases, as bacteria break through our gut barrier, and infect our internal organs. Antibiotics don’t seem to work, so how about probiotics? Seemed to work on rats. If you cause inflammation by cutting them open and mechanically damaging their pancreas, not only do probiotics show “strong evidence for efficacy,” but there were “no indications [of] harmful effects.” So, half the people with pancreatitis got probiotics, half got sugar pills, and, within ten days, the mortality rates shot up in the probiotics group, compared to placebo. More than twice as many people died on the probiotics. Thus, probiotics for acute pancreatitis? Probably not a good idea. But, further, probiotics “can no longer be considered to be [completely] harmless.”\nThe researchers were criticized for not telling patients, not cautioning patients, about the risk before they signed up for the study. (The study subjects were told probiotics had “a long history of [safe] use” with no known side effects). In response to the criticisms, the researchers replied “‘There [were] no side effects,’ until [their] study.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Besselink MG, Timmerman HM, Buskens E, Nieuwenhuijs VB, Akkermans LM, Gooszen HG; Dutch Acute Pancreatitis Study Group. Probiotic prophylaxis in patients with predicted severe acute pancreatitis (PROPATRIA): design and rationale of a double-blind, placebo-controlled randomised multicenter trial [ISRCTN38327949]. BMC Surg. 2004 Sep 29;4:12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15456517"
+    },
+    {
+      "Title": "Besselink MG, van Santvoort HC, Buskens E, Boermeester MA, van Goor H, Timmerman HM, Nieuwenhuijs VB, Bollen TL, van Ramshorst B, Witteman BJ, Rosman C, Ploeg RJ, Brink MA, Schaapherder AF, Dejong CH, Wahab PJ, van Laarhoven CJ, van der Harst E, van Eijck CH, Cuesta MA, Akkermans LM, Gooszen HG; Dutch Acute Pancreatitis Study Group. Probiotic prophylaxis in predicted severe acute pancreatitis: a randomised, double-blind, placebo-controlled trial. Lancet. 2008 Feb 23;371(9613):651-659.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18279948"
+    },
+    {
+      "Title": "Gooszen HG; Dutch Pancreatitis Study Group. The PROPATRIA trial: best practices at the time were followed. Lancet. 2010 Apr 10;375(9722):1249-50.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20362327"
+    },
+    {
+      "Title": "Hooijmans CR, de Vries RB, Rovers MM, Gooszen HG, Ritskes-Hoitinga M. The effects of probiotic supplementation on experimental acute pancreatitis: a systematic review and meta-analysis. PLoS One. 2012;7(11):e48811.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23152810"
+    },
+    {
+      "Title": "Investigators: Hempel S, Newberry S, Ruelaz A, Wang, Z, Miles JNV, Suttorp MJ, Johnsen B, Shanman R, Slusser W, Fu N, Smith A, Roth B, Polak J, Motala A, Perry T, Shekelle PG. Safety of Probiotics to Reduce Risk and Prevent or Treat Disease. Evidence Reports/Technology Assessments, No. 200.",
+      "Url": "https://www.ncbi.nlm.nih.gov/books/NBK56091"
+    },
+    {
+      "Title": "Leff JW, Fierer N. Bacterial communities associated with the surfaces of fresh fruits and vegetables. PLoS One. 2013;8(3):e59310.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23544058"
+    },
+    {
+      "Title": "Million M, Raoult D. Publication biases in probiotics. Eur J Epidemiol. 2012 Nov;27(11):885-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23086285"
+    },
+    {
+      "Title": "Tarasenko VS, Stadnikov AA, Nikitenko VI, Kubyshkin VA, Valyshev AV. Experimental validation of efficiency of probiotics in combined therapy of destructive pancreatitis. Bulletin of Experimental Biology and Medicine February 2000, Volume 129, Issue 2, pp 176–178.",
+      "Url": "https://link.springer.com/article/10.1007/BF02434804"
+    },
+    {
+      "Title": "Viali B, Minervini G, Rizzello CG, Spisni E, Maccaferri S, Brigidi P, Gobbetti M, Di Cagno R. Novel probiotic candidates for humans isolated from raw fruits and vegetables. Novel probiotic candidates for humans isolated from raw fruits and vegetables.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22475949"
+    },
+    {
+      "Title": "[No authors listed] Expression of concern--Probiotic prophylaxis in predicted severe acute pancreatitis: a randomised, double-blind, placebo-controlled trial. Lancet. 2010 Mar 13;375(9718):875-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20226971"
+    }
+  ],
+  "Acknowledgements": "Icons created by Laymik, Tinashe Mugayi, Nikita Kozin, and Tomas Knopp from The Noun Project.\nImage credit: Kristina DeMuth. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "cabbage",
+      "Url": "https://nutritionfacts.org/topics/cabbage/"
+    },
+    {
+      "Title": "fermented foods",
+      "Url": "https://nutritionfacts.org/topics/fermented-foods/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grapes",
+      "Url": "https://nutritionfacts.org/topics/grapes/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "iatrogenic",
+      "Url": "https://nutritionfacts.org/topics/iatrogenic/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "lactic acid",
+      "Url": "https://nutritionfacts.org/topics/lactic-acid/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "mushrooms",
+      "Url": "https://nutritionfacts.org/topics/mushrooms/"
+    },
+    {
+      "Title": "organic foods",
+      "Url": "https://nutritionfacts.org/topics/organic-foods/"
+    },
+    {
+      "Title": "pancreas health",
+      "Url": "https://nutritionfacts.org/topics/pancreas-health/"
+    },
+    {
+      "Title": "pancreatitis",
+      "Url": "https://nutritionfacts.org/topics/pancreatitis/"
+    },
+    {
+      "Title": "prebiotics",
+      "Url": "https://nutritionfacts.org/topics/prebiotics/"
+    },
+    {
+      "Title": "probiotics",
+      "Url": "https://nutritionfacts.org/topics/probiotics/"
+    },
+    {
+      "Title": "reductionism",
+      "Url": "https://nutritionfacts.org/topics/reductionism/"
+    },
+    {
+      "Title": "safety limits",
+      "Url": "https://nutritionfacts.org/topics/safety-limits/"
+    },
+    {
+      "Title": "sauerkraut",
+      "Url": "https://nutritionfacts.org/topics/sauerkraut/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I alluded to my <a href=\"https://nutritionfacts.org/video/preventing-the-common-cold-with-probiotics/\">Preventing the Common Cold with Probiotics?</a> video.</p>\n<p>I also talk about the potential benefits in my videos <a href=\"https://nutritionfacts.org/video/preventing-and-treating-diarrhea-with-probiotics/\">Preventing and Treating Diarrhea with Probiotics</a> and <a href=\"https://nutritionfacts.org/video/gut-feelings-probiotics-and-mental-health/\">Gut Feelings: Probiotics and Mental Health</a>.</p>\n<p data-pm-slice=\"1 1 []\">What are <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/the-benefits-and-side-effects-of-probiotic-supplements/\">The Benefits and Side Effects of Probiotic Supplements</a>? Check out the video.</p>\n<p>Perhaps it would be safer and more effective to focus on fostering the growth of good bacteria by feeding them <em>pre</em>biotics (fiber and resistant starch). Learn more:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/prebiotics-tending-our-inner-garden/\">Prebiotics: Tending Our Inner Garden</a></li>\n<li><a href=\"https://nutritionfacts.org/video/boosting-good-bacteria-in-the-colon-without-probiotics/\">Boosting Good Bacteria in the Colon without Probiotics</a></li>\n<li><a href=\"https://nutritionfacts.org/video/resistant-starch-colon-cancer/\">Resistant Starch and Colon Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/gut-dysbiosis-starving-microbial-self/\">Gut Dysbiosis: Starving Our Microbial Self</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-become-a-fecal-transplant-super-donor/\">How to Become a Fecal Transplant Super Donor</a></li>\n<li><a href=\"https://nutritionfacts.org/video/microbiome-we-are-what-they-eat/\">Microbiome: We Are What They Eat</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

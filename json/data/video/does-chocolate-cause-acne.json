@@ -1,0 +1,195 @@
+{
+  "Title": "Does Chocolate Cause Acne?",
+  "Url": "https://nutritionfacts.org/video/does-chocolate-cause-acne/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/cGj9ZiOC768"
+  },
+  "UpdatedAt": "2018-03-16T11:50:08+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 41",
+    "Url": "https://nutritionfacts.org/volumes/volume-41/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What are the effects of dairy products, sugar, and chocolate on the formation of pimples?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAcne affects nearly one in ten people in the world, “making it [perhaps] the eighth most prevalent disease worldwide.” What’s the role of nutrition? Well, go back a century, and dermatology textbooks were recommending various dietary restrictions. For example, recommending those with acne avoid foods like “pork, sausage, cheese, pickles, pastries,…sweets, cocoa, and chocolate.”\nYeah, but old-timey medicine was full of crackpot theories. Dr. Kellogg, for example, blamed acne on masturbation. Nothing a few corn flakes couldn’t fix, though!\nPopulation studies have found associations between acne and the consumption of foods like dairy, sweets, and chocolate. But, you don’t know if it’s cause and effect until you put it to the test. There have been high quality reports, like the Harvard Nurses study, that looked at nearly 50,000 women, and found a link between adolescent milk-drinking and acne—particularly skim milk, something that’s been found for teenage boys as well.\nThey thought it might be the hormones in milk that were responsible. But, it could also be the milk protein, whey—of which they add extra to skim milk to make it less watery—which may play a direct role in acne formation or as hormonal carriers. That would explain cases like this, where whey-protein powders were implicated in precipitating acne flares in teens who had acne that just didn’t seem to want to go away, until they stopped the whey. It doesn’t appear to just be a protein effect, since soy-protein supplements, for example, did not seem to cause the same problem.\nBut, for dairy, in terms of interventional studies, all we have are these kinds of case series. If you do a systematic review of acne and nutrition, you get results like this for dairy: out of the 20 or so papers on acne and dairy out there, about three-quarters suggest adverse effects, and the remainder report no effect, with no studies suggesting a beneficial effect of dairy on acne. So, you could look at this and conclude a dairy-free diet is worth a try. But, this is based on low-grade evidence, level C and D evidence, where C is like the population studies, and D is like those series of case reports. What we want, ideally, are randomized interventional studies—level A and B evidence, which we don’t have for dairy, but we do have for chocolate.\nWhen it comes to acne, no food is “more universally condemned than chocolate.” So, if you’re the “Chocolate Manufacturers Association,” how are you going to design a study to make your product not look so bad? Well, you can always use the old drug company trick of pitting your product against something even worse. And so, they fed people chocolate bars, versus fake chocolate bars made out of partially hydrogenated vegetable oil: trans fats. So, make it have more sugar, throw in some milk protein, and make it 28% pure trans-fat laden, Crisco-like vegetable shortening. And, surprise, surprise, there were just as many pimples on the fake chocolate bars— allowing them to conclude that eating high amounts of chocolate is A-OK when it comes to acne.\nAnd, the medical community fell for it. “Have we been guilty of taking candy away from babies?” “Too many patients harbor the delusion that their health can somehow be mysteriously harmed by something in their diet.” That original study “finding that chocolate consumption supposedly does not exacerbate acne has continued to remain virtually unchallenged for decades and continues to be cited even in…recent review[s].” For example, this pediatrics journal. Years ago, it was “demonstrated that chocolate consumption had no effect on acne.”\n“…[T]his serves as a cautionary example of how ‘research-based evidence’ should be vigorously scrutinized prior to being incorporated into clinical practice.” Just because something is published in the Journal of the American Medical Association doesn’t necessarily mean it’s a good study— especially when industry interests are involved.\nMaybe we should be telling acne patients to try cutting down on not only the sweets and the dairy, but also the trans fats found in partially hydrogenated vegetable oils. But, we can’t “be unequivocal in [our] advice to acne sufferers” on foods to include or exclude until they’re put to the test in “well-designed randomized controlled clinical trial[s].” But, there simply weren’t any such trials on acne, until, now—which we’ll cover, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Adebamowo CA, Spiegelman D, Danby FW, Frazier AL, Willett WC, Holmes MD. High school dietary dairy intake and teenage acne. J Am Acad Dermatol. 2005;52(2):207-14.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15692464"
+    },
+    {
+      "Title": "Anderson PC. Foods as the cause of acne. Am Fam Physician. 1971;3(3):102-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4251510"
+    },
+    {
+      "Title": "Burris J, Rietkerk W, Woolf K. Acne: the role of medical nutrition therapy. J Acad Nutr Diet. 2013;113(3):416-30.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23438493"
+    },
+    {
+      "Title": "Caperton C, Block S, Viera M, Keri J, Berman B. Double-blind, Placebo-controlled Study Assessing the Effect of Chocolate Consumption in Subjects with a History of Acne Vulgaris. J Clin Aesthet Dermatol. 2014;7(5):19-23.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24847404"
+    },
+    {
+      "Title": "Danby FW. Nutrition and acne. Clin Dermatol. 2010;28(6):598-604.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21034984"
+    },
+    {
+      "Title": "Fiedler F, Stangl GI, Fiedler E, Taube KM. Acne and Nutrition: A Systematic Review. Acta Derm Venereol. 2017;97(1):7-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27136757"
+    },
+    {
+      "Title": "Fulton JE, Plewig G, Kligman AM. Effect of chocolate on acne vulgaris. JAMA. 1969;210(11):2071-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4243053"
+    },
+    {
+      "Title": "Goh W, Kallianpur KJ, Chow D, et al. Chocolate and acne: how valid was the original study?. Clin Dermatol. 2011;29(4):459-60.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21679875"
+    },
+    {
+      "Title": "Grossi E, Cazzaniga S, Crotti S, et al. The constellation of dietary factors in adolescent acne: a semantic connectivity map approach. J Eur Acad Dermatol Venereol. 2016;30(1):96-100.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25438834"
+    },
+    {
+      "Title": "Larosa CL, Quach KA, Koons K, et al. Consumption of dairy in teenagers with and without acne. J Am Acad Dermatol. 2016;75(2):318-22.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27241803"
+    },
+    {
+      "Title": "Maslansky L, Wein G. Effect of chocolate on acne vulgaris. JAMA. 1970;211(11):1856.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4244375"
+    },
+    {
+      "Title": "Melnik BC. Linking diet to acne metabolomics, inflammation, and comedogenesis: an update. Clin Cosmet Investig Dermatol. 2015;8:371-88.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26203267"
+    },
+    {
+      "Title": "Rössner S. John Harvey Kellogg (1852-1943): \"Masturbation results in general debility, unnatural pale eyes and forehead acne\". Obes Rev. 2006;7(2):227-228.",
+      "Url": "https://www.researchgate.net/publication/7150561_John_Harvey_Kellogg_1852-1943_'Masturbation_results_in_general_debility_unnatural_pale_eyes_and_forehead_acne'"
+    },
+    {
+      "Title": "Silverberg NB. Whey protein precipitating moderate to severe acne flares in 5 teenaged athletes. Cutis. 2012;90(2):70-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22988649"
+    },
+    {
+      "Title": "Simonart T. Acne and whey protein supplementation among bodybuilders. Dermatology (Basel). 2012;225(3):256-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23257731"
+    },
+    {
+      "Title": "Sutton RL. Diseases of the Skin. St. Louis, MO: C.V. Mosby Company; 1916.",
+      "Url": "https://books.google.com/books?id=5PBY5xtLCWIC&hl=en"
+    },
+    {
+      "Title": "Tan JK, Bhate K. A global perspective on the epidemiology of acne. Br J Dermatol. 2015;172 Suppl 1:3-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25597339"
+    },
+    {
+      "Title": "Webster GF. Acne: tips and tricks for the pediatrician. Pediatr Ann. 2009;38(2):80-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19263782"
+    }
+  ],
+  "Acknowledgements": "Image credit: congerdesign via Pixabay. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "acne",
+      "Url": "https://nutritionfacts.org/topics/acne/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "cheese",
+      "Url": "https://nutritionfacts.org/topics/cheese/"
+    },
+    {
+      "Title": "chocolate",
+      "Url": "https://nutritionfacts.org/topics/chocolate/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "Dr. John Harvey Kellogg",
+      "Url": "https://nutritionfacts.org/topics/dr-john-harvey-kellogg/"
+    },
+    {
+      "Title": "Harvard Nurses' Health Study",
+      "Url": "https://nutritionfacts.org/topics/harvard-nurses-health-study/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "nutrition myths",
+      "Url": "https://nutritionfacts.org/topics/nutrition-myths/"
+    },
+    {
+      "Title": "oils",
+      "Url": "https://nutritionfacts.org/topics/oils/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "skim milk",
+      "Url": "https://nutritionfacts.org/topics/skim-milk/"
+    },
+    {
+      "Title": "skin health",
+      "Url": "https://nutritionfacts.org/topics/skin-health/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "trans fats",
+      "Url": "https://nutritionfacts.org/topics/trans-fats/"
+    },
+    {
+      "Title": "vegetable oil",
+      "Url": "https://nutritionfacts.org/topics/vegetable-oil/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Even if chocolate contributed to pimple formation, is it the sugar or the milk in chocolate? What about dark chocolate? Cocoa? I discuss that in my next video, <a href=\"https://nutritionfacts.org/video/does-cocoa-powder-cause-acne/\">Does Cocoa Powder Cause Acne?</a>.</p>\n<p>For more on acne, check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-acne-promoting-effects-of-milk/\">The Acne-Promoting Effects of Milk</a></li>\n<li><a href=\"https://nutritionfacts.org/video/saving-lives-by-treating-acne-with-diet/\">Saving Lives by Treating Acne with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-acne-barberries/\">Treating Acne with Barberries</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-do-vegan-women-have-5x-fewer-twins/\">Why Do Vegan Women Have 5x Fewer Twins?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/natural-treatment-for-acne-and-fungal-infections/\">Natural Treatment for Acne and Fungal Infections</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-sunflower-seeds-cause-acne/\">Do Sunflower Seeds Cause Acne?</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

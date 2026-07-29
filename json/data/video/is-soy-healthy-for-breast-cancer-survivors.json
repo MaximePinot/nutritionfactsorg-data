@@ -1,0 +1,159 @@
+{
+  "Title": "Is Soy Healthy for Breast Cancer Survivors?",
+  "Url": "https://nutritionfacts.org/video/is-soy-healthy-for-breast-cancer-survivors/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/6yeZ-rRJz0A"
+  },
+  "UpdatedAt": "2017-02-01T13:00:11+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 34",
+    "Url": "https://nutritionfacts.org/volumes/volume-34/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What role do soy phytoestrogens play in the prevention and treatment of breast cancer?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“[S]oyfoods have become controversial in recent years,…even among health professionals,…exacerbated by misinformation found on the Internet.” Chief among the misconceptions is that soy foods promote breast cancer, because they contain a class of  phytoestrogen compounds called isoflavones. Since estrogens can promote breast cancer growth, it’s natural to assume phytoestrogens might too.\nBut, people don’t realize there are two types of estrogen receptors in the body—alpha and beta. And, unlike actual estrogen, soy phytoestrogens “preferentially bind to and activate [estrogen receptor beta]. This distinction is important, because the 2 [types of receptors] have different tissue distributions…and often function differently, and sometimes in opposite ways.” And, this appears to be the case in the breast, where beta activation has an anti-estrogenic effect, inhibiting the growth-promoting effects of actual estrogen—something we’ve known for more than ten years. There’s no excuse anymore.\nThe effects of estradiol, the primary human estrogen, on breast cells are completely opposite to those of soy phytoestrogens, which have antiproliferative effects on breast cancer cells, even at the low concentrations one gets in one’s bloodstream eating just a few servings of soy—which makes sense, given that after eating a cup of soybeans, the levels in our blood cause significant beta receptor activation.\nSo, where did this outdated notion that soy could increase breast cancer risk come from? The concern was “based largely on research that showed that [the main soy phytoestrogen] genistein stimulates the growth of mammary tumors in [a type of] mouse.” But, it turns out, we’re not actually mice. We metabolize soy isoflavones very differently from rodents. The same soy leads to 20 to 150 times higher levels in the bloodstream of rodents. The breast cancer mouse in question was 58 times higher. So, if you ate 58 cups of soybeans a day, you could get some significant alpha activation, too. But, thankfully, we’re not hairless athymic ovariectomized mice, and we don’t tend to eat 58 cups of soybeans a day.\nAt just a few servings of soy a day, with the excess beta activation, we would assume soy would actively help prevent breast cancer. And, indeed, “[s]oy intake during childhood, adolescence, and adult life were each associated with a decreased risk of breast cancer.” Those women who ate the most soy in their youth appear to grow up to have less than half the risk.\nThis may help explain why breast cancer rates are so much higher here than in Asia—yet, when Asians come over to the U.S. to start eating and living like Americans, their risk shoots right up.  For example, women in Connecticut—way at the top of the breast cancer risk heap—in their fifties have, like, ten times more breast cancer than women in their fifties living in Japan. But, it’s not just genetic, since when they move here, their breast cancer rates go up generation after generation, as they assimilate into our culture.\nAre the anti-estrogenic effects of soy foods enough to actually change the course of the disease? We didn’t know, until the first human study on soy food intake and breast cancer survival was published in 2009 in the Journal of the American Medical Association, suggesting that “[a]mong women with breast cancer, soy food consumption was significantly associated with decreased risk of death and [breast cancer] recurrence.” Followed by another study, and then another, all with similar findings.\nThat was enough for the American Cancer Society, who brought together a wide range of cancer experts to offer nutrition guidelines for cancer survivors, to conclude that, if anything, soy foods should be beneficial. Since then, two additional studies have been published, for a total of five, and they all point in the same direction. Five out of five, tracking more than 10,000 breast cancer patients.\nPooling all the results, soy food intake after breast cancer diagnosis was associated with reduced mortality (meaning a longer lifespan) and reduced recurrence—so, less likely the cancer comes back. Anyone who says otherwise hasn’t cracked a journal open in seven years.\nAnd, this improved survival was for both women with estrogen receptor negative tumors and estrogen receptor positive tumors, and for both younger women, and for older women. Pass the edamame.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Caan BJ, Natarajan L, Parker B, Gold EB, Thomson C, Newman V, Rock CL, Pu M, Al-Delaimy W, Pierce JP. Soy food consumption and breast cancer prognosis. Cancer Epidemiol Biomarkers Prev. 2011 May;20(5):854-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21357380"
+    },
+    {
+      "Title": "Chen FP, Chien MH. Phytoestrogens induce differential effects on both normal and malignant human breast cells in vitro. Climacteric. 2014 Dec;17(6):682-91.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24978400"
+    },
+    {
+      "Title": "Chi F, Wu R, Zeng YC, Xing R, Liu Y, Xu ZG. Post-diagnosis soy food intake and breast cancer survival: a meta-analysis of cohort studies. Asian Pac J Cancer Prev. 2013;14(4):2407-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23725149"
+    },
+    {
+      "Title": "Guha N, Kwan ML, Quesenberry CP Jr, Weltzien EK, Castillo AL, Caan BJ. Soy isoflavones and risk of cancer recurrence in a cohort of breast cancer survivors: the Life After Cancer Epidemiology study. Breast Cancer Res Treat. 2009 Nov;118(2):395-405.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19221874"
+    },
+    {
+      "Title": "Kang X, Zhang Q, Wang S, Huang X, Jin S. Effect of soy isoflavones on breast cancer recurrence and death for patients receiving adjuvant endocrine therapy. CMAJ. 2010 Nov 23;182(17):1857-62.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20956506"
+    },
+    {
+      "Title": "Kelsey JL. A review of the epidemiology of human breast cancer. Epidemiol Rev. 1979;1:74-109.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/398270"
+    },
+    {
+      "Title": "Korde LA, Wu AH, Fears T, Nomura AM, West DW, Kolonel LN, Pike MC, Hoover RN, Ziegler RG. Childhood soy intake and breast cancer risk in Asian American women. Cancer Epidemiol Biomarkers Prev. 2009 Apr;18(4):1050-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19318430"
+    },
+    {
+      "Title": "Messina M, Messina, VL. Exploring the Soyfood Controversy. Nutrition Today: March/April 2013 - Volume 48 - Issue 2 - p 68–75.",
+      "Url": "http://journals.lww.com/nutritiontodayonline/Abstract/2013/03000/Exploring_the_Soyfood_Controversy.5.aspx"
+    },
+    {
+      "Title": "Mueller SO, Simon S, Chae K, Metzler M, Korach KS. Phytoestrogens and their human metabolites show distinct agonistic and antagonistic properties on estrogen receptor alpha (ERalpha) and ERbeta in human cells. Toxicol Sci. 2004;80(1):14-25.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15084758"
+    },
+    {
+      "Title": "Paruthiyil S, Parmar H, Kerekatte V, Cunha GR, Firestone GL, Leitman DC. Estrogen receptor beta inhibits human breast cancer cell proliferation and tumor formation by causing a G2 cell cycle arrest. Cancer Res. 2004 Jan 1;64(1):423-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/14729654"
+    },
+    {
+      "Title": "Rock CL, Doyle C, Demark-Wahnefried W, Meyerhardt J, Courneya KS, Schwartz AL, Bandera EV, Hamilton KK, Grant B, McCullough M, Byers T, Gansler T. Nutrition and physical activity guidelines for cancer survivors.  CA Cancer J Clin. 2012 Jul-Aug;62(4):243-74.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22539238"
+    },
+    {
+      "Title": "Setchell KD, Brown NM, Zhao X, Lindley SL, Heubi JE, King EC, Messina MJ. Soy isoflavone phase II metabolism differs between rodents and humans: implications for the effect on breast cancer risk. Am J Clin Nutr. 2011 Nov;94(5):1284-94.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21955647"
+    },
+    {
+      "Title": "Shu XO, Zheng Y, Cai H, Gu K, Chen Z, Zheng W, Lu W. Soy food intake and breast cancer survival. JAMA. 2009 Dec 9;302(22):2437-43.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19996398"
+    },
+    {
+      "Title": "Zhang YF, Kang HB, Li BL, Zhang RM. Positive effects of soy isoflavone food on survival of breast cancer patients in China. Asian Pac J Cancer Prev. 2012;13(2):479-82.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22524810"
+    },
+    {
+      "Title": "Ziegler RG, Hoover RN, Pike MC, Hildesheim A, Nomura AM, West DW, Wu-Williams AH, Kolonel LN, Horn-Ross PL, Rosenthal JF, Hyer MB. Migration patterns and breast cancer risk in Asian-American women.  J Natl Cancer Inst. 1993 Nov 17;85(22):1819-27.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8230262"
+    }
+  ],
+  "Acknowledgements": "Image credit: Kristina DeMuth. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "American Medical Association",
+      "Url": "https://nutritionfacts.org/topics/american-medical-association/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "edamame",
+      "Url": "https://nutritionfacts.org/topics/edamame/"
+    },
+    {
+      "Title": "estrogen",
+      "Url": "https://nutritionfacts.org/topics/estrogen/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "isoflavones",
+      "Url": "https://nutritionfacts.org/topics/isoflavones/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "phytoestrogens",
+      "Url": "https://nutritionfacts.org/topics/phytoestrogens/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "soybeans",
+      "Url": "https://nutritionfacts.org/topics/soybeans/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Flaxseeds are so protective for likely the same reasons. See my videos <a href=\"https://nutritionfacts.org/video/flaxseeds-breast-cancer-survival-epidemiological-evidence/\">Flaxseeds and Breast Cancer Survival: Epidemiological Evidence</a> and<a href=\"https://nutritionfacts.org/video/flaxseeds-breast-cancer-survival-clinical-evidence/\"> Flaxseeds and Breast Cancer Survival: Clinical Evidence</a>.</p>\n<p>What about women who carry breast cancer genes? I touched on that in <a href=\"https://nutritionfacts.org/video/brca-breast-cancer-genes-and-soy/\">BRCA Breast Cancer Genes and Soy</a> and <a href=\"https://nutritionfacts.org/video/should-women-at-high-risk-for-breast-cancer-avoid-soy/\">Should Women at High Risk for Breast Cancer Avoid Soy?</a>.</p>\n<p>What about genetically modified soy? See <a href=\"https://nutritionfacts.org/video/gmo-soy-and-breast-cancer/\">GMO Soy and Breast Cancer</a>.</p>\n<p><a href=\"https://nutritionfacts.org/video/who-shouldnt-eat-soy/\">Who Shouldn’t Eat Soy? </a>An excellent question I answer in my video.</p>\n<p>For even more information on soy, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/should-women-with-fibroids-avoid-soy/\">Should Women with Fibroids Avoid Soy?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/soy-phytoestrogens-for-menopause-hot-flashes/\">Soy Phytoestrogens for Menopause Hot Flashes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-soy-foods-in-prostate-cancer-prevention-and-treatment/\">The Role of Soy Foods in Prostate Cancer Prevention and Treatment</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fermented-or-unfermented-soy-foods-for-prostate-cancer-prevention/\">Fermented or Unfermented Soy Foods for Prostate Cancer Prevention?</a></li>\n</ul>\n<p>Not all phytoestrogens may be protective, though. See <a href=\"https://nutritionfacts.org/video/the-most-potent-phytoestrogen-is-in-beer/\">The Most Potent Phytoestrogen Is in Beer</a> and<a href=\"https://nutritionfacts.org/video/what-are-the-effects-of-the-hops-phytoestrogen-in-beer/\"> What Are the Effects of the Hops Phytoestrogen in Beer?</a> for more information.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

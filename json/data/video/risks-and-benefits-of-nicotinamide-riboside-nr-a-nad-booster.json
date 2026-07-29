@@ -1,0 +1,199 @@
+{
+  "Title": "Risks and Benefits of Nicotinamide Riboside (NR), a NAD+ Booster",
+  "Url": "https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-riboside-nr-a-nad-booster/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/ozpS3uaQHk0"
+  },
+  "UpdatedAt": "2025-04-02T11:50:39+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 68",
+    "Url": "https://nutritionfacts.org/volumes/volume-68/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The suppression of NAD+ synthesis by NR in humans may explain the disparate rodent results.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nNR and NMN seem to be more promising NAD+ precursors than NA or NAM, since they don’t cause flushing. Nor do they directly inhibit sirtuins. In mice, NR and NMN both raised liver NAD+ levels, but of the two, only NR significantly raised NAD+ in the muscles. Also, NR is so far the only NAD+ booster shown to prolong the lifespan of mice.\nThere have been at least 10 clinical trials of NR, most showing it can boost human blood levels of NAD+ by up to 168 percent. Note, though, that most doses used exceeded 300 mg, which is the daily dose approved as safe by the U.S. Food and Drug Administration and European Food Safety Authority. At the approved dose, blood NAD+ is boosted more on the order of 50 to 60 percent, but no dose was found to affect NAD+ levels in human muscle (compared to placebo).\nThe greater preponderance of human bioavailability and safety data for NR compared to NMN has led some to proclaim NR as the preferred NAD+ precursor. And, by some, I mean employees of a chemical company that produces NR for supplements. The question after all of these human NR trials is: have any of them shown clinical benefit? Sadly, no. Let’s go through the alphabet.\nAfter accounting for multiple testing, randomized, double-blind, placebo-controlled trials of NR in middle-aged or older adults failed to find any significant benefit over placebo for artery stiffness or artery function, BAT activation, blood pressure, blood sugar control, body weight, cardiac energy or ejection fraction, fat burning, fatty liver, exercise capacity, fatigue, insulin sensitivity, metabolic flexibility, metabolic health, metabolic rate, mitochondrial function or biogenesis, muscle blood flow, upper or lower body muscle strength, pancreatic function or the release of metabolic hormones, the treatment of Parkinson’s disease symptoms, or physical performance.\nNR-hawking companies claim NR is anti-inflammatory, but in their own study, only three out of 10 markers of inflammation were affected compared to placebo, and a subsequent independent study using the same dose for twice as long found zero of 12 markers affected.\nRemarkably, the opposite was found for many of these outcomes in rats and mice. In rodents, NR does raise NAD+ levels in muscle, improving insulin sensitivity and mitochondrial biogenesis, and on down much of the list. Why does NR work in rodents but appear to almost entirely flop in people? Some have suggested inadequate dosing. The typical dose used in mouse studies was about twice that used in many human studies. But a double dose has been tried in people, to no avail.\nAnother possibility is sirtuin inhibition by NAM, the main degradation product of NR. In fact, based on mouse studies, NR may metabolize in the gut into NAM or NA before it even makes it in the bloodstream. Either way, unlike in mice, NR can’t seem to elevate NAD+ in human muscle; so, no wonder there’s no alteration of human sirtuin activity. Maybe that explains the disparate results. In fact, the key NAD+ synthesizing enzyme in human muscle biopsies was actually suppressed by NR supplementation. This doesn’t happen in mice, but it does in people. Presumably this downregulation is an adaptive response to the unnaturally large flood of NR coming into the system. So, what happens when you stop taking the supplement? How quickly does your enzyme activity bounce back?\nIn mice, not only may their microbiome affect NR, but the NR may affect their microbiome, too. Some of the benefits of NR can then be transferred between mice via fecal transplants. So, at least in mice, some of the benefits of NR may be due to modulating the mouse microbiome. The distinct differences between the gut flora of humans and rodents may offer another explanation why NR works in them, but not us.\nUnlike NAM, supplementation with NR did not increase homocysteine levels. But one study of a combination of NR plus a resveratrol analogue called pterostilbene raised LDL cholesterol high enough to kill as many as one in 40 long-term users. However, this effect is presumed to be due to the pterostilbene, as NR alone has not been shown to raise LDL, whereas pterostilbene has.\nOne study did find that NR seems to cause a small reduction in hematocrit, hemoglobin, and platelet count in people within a week of starting it. This shift towards a more anemic state was suggested to account for impaired exercise performance seen in rats given NR. However, the 35 percent drop in performance did not reach statistical significance. NR did cause a significant increase in systemic oxidative stress, however, and another rodent study found a worsening of inflammation and deterioration of metabolic health. But if positive effects in rodents don’t translate to people, perhaps we shouldn’t expect that negative ones will either.\nRegulatory authorities from Australian, Canada, Europe, and the United States have all authorized NR as safe, at least up to 300 mg a day (or 230 in pregnant and lactating women). But the lack of demonstrable clinical benefit would seem to preclude NR supplementation.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A modern, nutrient-based defense against inflammation and aging. Tru Niagen.",
+      "Url": "https://pro.truniagen.com/Documents/HCP/EducationAndResources/White%20Paper/NAD-Inflammation-_Whitepaper.pdf"
+    },
+    {
+      "Title": "Airhart SE, Shireman LM, Risler LJ, et al. An open-label, non-randomized study of the pharmacokinetics of the nutritional supplement nicotinamide riboside (NR) and its effects on blood NAD+ levels in healthy volunteers. PLoS One. 2017;12(12):e0186459.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29211728/"
+    },
+    {
+      "Title": "Brakedal B, Dölle C, Riemer F, et al. The NADPARK study: a randomized phase I trial of nicotinamide riboside supplementation in Parkinson’s disease. Cell Metab. 2022;34(3):396-407.e6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35235774/"
+    },
+    {
+      "Title": "Brenner C, Boileau AC. Pterostilbene raises low density lipoprotein cholesterol in people. Clin Nutr. 2019;38(1):480-481.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30482564/"
+    },
+    {
+      "Title": "Campbell MTD, Jones DS, Andrews GP, Li S. Understanding the physicochemical properties and degradation kinetics of nicotinamide riboside, a promising vitamin B3 nutritional supplement. Food Nutr Res. 2019;63:3419",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31807125/"
+    },
+    {
+      "Title": "Cantó C, Houtkooper RH, Pirinen E, et al. The NAD(+) precursor nicotinamide riboside enhances oxidative metabolism and protects against high-fat diet-induced obesity. Cell Metab. 2012;15(6):838-847.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22682224/"
+    },
+    {
+      "Title": "Chi Y, Sauve AA. Nicotinamide riboside, a trace nutrient in foods, is a vitamin B3 with effects on energy metabolism and neuroprotection. Curr Opin Clin Nutr Metab Care. 2013;16(6):657-661.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24071780/"
+    },
+    {
+      "Title": "Conlon N, Ford D. A systems-approach to NAD+ restoration. Biochem Pharmacol. 2022;198:114946.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35134387/"
+    },
+    {
+      "Title": "Conze D, Brenner C, Kruger CL. Safety and metabolism of long-term administration of NIAGEN (nicotinamide riboside chloride) in a randomized, double-blind, placebo-controlled clinical trial of healthy overweight adults. Sci Rep. 2019;9(1):9772.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31278280/"
+    },
+    {
+      "Title": "Dellinger RW, Santos SR, Morris M, et al. Repeat dose NRPT (Nicotinamide riboside and pterostilbene) increases NAD+ levels in humans safely and sustainably: a randomized, double-blind, placebo-controlled study. NPJ Aging Mech Dis. 2017;3:17.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29184669/"
+    },
+    {
+      "Title": "Dollerup OL, Christensen B, Svart M, et al. A randomized placebo-controlled clinical trial of nicotinamide riboside in obese men: safety, insulin-sensitivity, and lipid-mobilizing effects. Am J Clin Nutr. 2018;108(2):343-353.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29992272/"
+    },
+    {
+      "Title": "Dollerup OL, Chubanava S, Agerholm M, et al. Nicotinamide riboside does not alter mitochondrial respiration, content or morphology in skeletal muscle from obese and insulin-resistant men. J Physiol. 2020;598(4):731-754.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31710095/"
+    },
+    {
+      "Title": "Dollerup OL, Trammell SAJ, Hartmann B, et al. Effects of nicotinamide riboside on endocrine pancreatic function and incretin hormones in nondiabetic men with obesity. J Clin Endocrinol Metab. 2019;104(11):5703-5714.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31390002/"
+    },
+    {
+      "Title": "Dolopikou CF, Kourtzidis IA, Margaritelis NV, et al. Acute nicotinamide riboside supplementation improves redox homeostasis and exercise performance in old individuals: a double-blind cross-over study. Eur J Nutr. 2020;59(2):505-515.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30725213/"
+    },
+    {
+      "Title": "EFSA Panel on Nutrition, Novel foods and Food allergens (NDA), Turck D, Castenmiller J, et al. Safety of nicotinamide riboside chloride as a novel food pursuant to Regulation (EU) 2015/2283 and bioavailability of nicotinamide from this source, in the context of Directive 2002/46/EC. EFSA J. 2019;17(8):e05775.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32626405/"
+    },
+    {
+      "Title": "Elhassan YS, Kluckova K, Fletcher RS, et al. Nicotinamide riboside augments the aged human skeletal muscle NAD+ metabolome and induces transcriptomic and anti-inflammatory signatures. Cell Rep. 2019;28(7):1717-1728.e6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31412242/"
+    },
+    {
+      "Title": "Katsyuba E, Romani M, Hofer D, Auwerx J. NAD+ homeostasis in health and disease. Nat Metab. 2020;2(1):9-31.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32694684/"
+    },
+    {
+      "Title": "Kourtzidis IA, Dolopikou CF, Tsiftsis AN, et al. Nicotinamide riboside supplementation dysregulates redox and energy metabolism in rats: Implications for exercise performance. Exp Physiol. 2018;103(10):1357-1366.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30007015/"
+    },
+    {
+      "Title": "Kourtzidis IA, Stoupas AT, Gioris IS, et al. The NAD(+) precursor nicotinamide riboside decreases exercise performance in rats. J Int Soc Sports Nutr. 2016;13:32.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27489522/"
+    },
+    {
+      "Title": "Leduc-Gaudet JP, Dulac M, Reynaud O, Ayoub MB, Gouspillou G. Nicotinamide riboside supplementation to improve skeletal muscle mitochondrial health and whole-body glucose homeostasis: does it actually work in humans? J Physiol. 2020;598(4):619-620.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31879956/"
+    },
+    {
+      "Title": "Martens CR, Denman BA, Mazzo MR, et al. Chronic nicotinamide riboside supplementation is well-tolerated and elevates NAD+ in healthy middle-aged and older adults. Nat Commun. 2018;9(1):1286.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29599478/"
+    },
+    {
+      "Title": "Mehmel M, Jovanović N, Spitz U. Nicotinamide riboside-the current state of research and therapeutic uses. Nutrients. 2020;12(6):1616.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32486488/"
+    },
+    {
+      "Title": "Nascimento EBM, Moonen MPB, Remie CME, et al. Nicotinamide riboside enhances in vitro beta-adrenergic brown adipose tissue activity in humans. J Clin Endocrinol Metab. 2021;106(5):1437-1447.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33524145/"
+    },
+    {
+      "Title": "Palmer RD, Elnashar MM, Vaccarezza M. Precursor comparisons for the upregulation of nicotinamide adenine dinucleotide. Novel approaches for better aging. Aging Med (Milton). 2021;4(3):214-220.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34553119/"
+    },
+    {
+      "Title": "Rajman L, Chwalek K, Sinclair DA. Therapeutic potential of NAD-boosting molecules: the in vivo evidence. Cell Metab. 2018;27(3):529-547.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29514064/"
+    },
+    {
+      "Title": "Remie CME, Roumans KHM, Moonen MPB, et al. Nicotinamide riboside supplementation alters body composition and skeletal muscle acetylcarnitine concentrations in healthy obese humans. Am J Clin Nutr. 2020;112(2):413-426.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32320006/"
+    },
+    {
+      "Title": "Sauve AA. Metabolic disease, NAD metabolism, nicotinamide riboside, and the gut microbiome: connecting the dots from the gut to physiology. mSystems. 2022;7(1):e0122321.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35076274/"
+    },
+    {
+      "Title": "Shats I, Williams JG, Liu J, et al. Bacteria boost mammalian host NAD metabolism by engaging the deamidated biosynthesis pathway. Cell Metab. 2020;31(3):564-579.e7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32130883/"
+    },
+    {
+      "Title": "Shi W, Hegeman MA, Doncheva A, Bekkenkamp-Grovenstein M, de Boer VCJ, Keijer J. High dose of dietary nicotinamide riboside induces glucose intolerance and white adipose tissue dysfunction in mice fed a mildly obesogenic diet. Nutrients. 2019;11(10):2439.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31614949/"
+    },
+    {
+      "Title": "Stocks B, Ashcroft SP, Joanisse S, et al. Nicotinamide riboside supplementation does not alter whole-body or skeletal muscle metabolic responses to a single bout of endurance exercise. J Physiol. 2021;599(5):1513-1531.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33492681/"
+    },
+    {
+      "Title": "Sun P, Qie S, Pan B. Nicotinamide riboside will play an important role in anti-aging therapy in humans, especially in the face skin anti-aging treatment. Aesthetic Plast Surg. 2022;46(Suppl 1):192-194.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33977340/"
+    },
+    {
+      "Title": "Wolf AM. Rodent diet aids and the fallacy of caloric restriction. Mech Ageing Dev. 2021;200:111584.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34673082/"
+    },
+    {
+      "Title": "Zhang H, Ryu D, Wu Y, et al. NAD⁺ repletion improves mitochondrial and stem cell function and enhances life span in mice. Science. 2016;352(6292):1436-1443.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27127236/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "fecal transplants",
+      "Url": "https://nutritionfacts.org/topics/fecal-transplants/"
+    },
+    {
+      "Title": "How Not to Age",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-age/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "liver health",
+      "Url": "https://nutritionfacts.org/topics/liver-health/"
+    },
+    {
+      "Title": "NAD+",
+      "Url": "https://nutritionfacts.org/topics/nad/"
+    },
+    {
+      "Title": "Parkinson's disease",
+      "Url": "https://nutritionfacts.org/topics/parkinsons-disease/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">​​This is the fifth video in my NAD+ series. Missed any of the previous ones? See:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/do-nad-levels-decline-with-age/\"><span style=\"font-weight: 400\">Do NAD+ Levels Decline with Age?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/can-nad-boosters-increase-lifespan-and-healthspan/\"><span style=\"font-weight: 400\">Can NAD+ Boosters Increase Lifespan and Healthspan?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinic-acid-na-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinic Acid (NA), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-nam-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide (NAM), a NAD+ Booster</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">Stay tuned for:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-mononucleotide-nmn-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide Mononucleotide (NMN), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/lesser-known-nad-boosting-supplements-tryptophan-nadh-nmnh-and-nrh/\"><span style=\"font-weight: 400\">Lesser-Known NAD+ Boosting Supplements—Tryptophan, NADH, NMNH, and NRH</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-of-nad-boosting-supplements/\"><span style=\"font-weight: 400\">Risks of NAD+ Boosting Supplements</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/which-nad-booster-is-best/\"><span style=\"font-weight: 400\">Which NAD+ Booster Is Best?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-third-way-to-boost-nad/\"><span style=\"font-weight: 400\">The Third Way to Boost NAD+</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on aging, go to your local public library and check out my longevity book,</span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"> <i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

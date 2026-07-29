@@ -1,0 +1,179 @@
+{
+  "Title": "Does Heme Iron Cause Cancer?",
+  "Url": "https://nutritionfacts.org/video/does-heme-iron-cause-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/5CeCxeJjGQY"
+  },
+  "UpdatedAt": "2021-02-17T12:50:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 52",
+    "Url": "https://nutritionfacts.org/volumes/volume-52/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Laboratory models suggest that extreme doses of heme iron may be detrimental, but what about the effects of nutritional doses in humans? A look at heme’s carcinogenic effects.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn muscle meat, there’s a heme protein that contributes to the meaty taste of meat. Well, there’s a heme protein in the roots of soybean plants too, that can be churned out to provide a similar flavor and aroma in plant-based meat, which is used to make the Impossible Burger possible. The question is: are there any downsides?\nWhen the European Food Safety Authority was considering the safety of adding heme iron to foods, their main concern was a potential increased risk of colon cancer. We know meat causes cancer. Processed meat—bacon, ham, hot dogs, lunch meat, and sausage—is considered a Group 1 carcinogen, meaning we know it causes cancer in people, with the same level of certainty that something like smoking causes cancer. Whereas something like a burger just probably causes cancer in people, kind of like DDT. But what’s the role of heme iron?\nI mean, there are all sorts of potential mechanisms to explain the cancer risk. Meat’s got the pro-inflammatory long-chain omega-6 arachidonic acid, more of the aging- and cancer-associated methionine, trans fat, endogenous hormones like IGF-1, not to mention the ones that are implanted in animals as hormonal growth-promoters. Then there are all the toxic pollutants that build up the food chain, like pesticides—I didn’t even know about the formaldehyde.\nAccording to the prestigious IARC, the International Agency for Research on Cancer, there is strong evidence that heterocyclic aromatic amines contribute to the cancer-causing mechanism. These DNA-damaging compounds are formed when muscle tissue is exposed to high, dry heat like grilling, roasting, baking, and broiling—basically anything above steaming or stewing. There is also strong evidence that the formation of so-called N-nitroso compounds contribute to the cancer-causing mechanism. These are carcinogens that can form inside our gut when we eat the meat. But there is also strong evidence, according to the IARC, that heme iron contributes to the cancer-causing mechanism. Normally I might leave it there, but other authoritative bodies I respect, like the American Institute for Cancer Research and the World Cancer Research Fund, are more tentative. While they agree there is some evidence that the consumption of foods containing heme iron might increase the risk of colorectal cancer, they consider the evidence suggesting such a connection to be limited.\nMuch of the available evidence is based on lab animal data such as this, in which dietary heme was found to disrupt the gut flora, aggravate inflammation, and potentiate the development of intestinal tumors in mice. But it’s critical to note that in all the laboratory animal models that have been used, the rodents ingested meat or heme equivalent to people eating up to 40,000 pounds of meat a day. Even the smallest dose would be like a dozen Impossible Burgers a day.\nIt’s easy to see how casual readers could get confused, though. In this study, ascribing a central role for heme iron in the colon cancer development associated with meat, the authors claimed they were aimed at determining at nutritional doses, which was the main factor involved in cancer promotion. So, doses of heme were chosen to mimic red meat consumption and… boom! A significant increase in tumor load. The researchers conclude that their findings strongly “suggest that at concentrations that are in line with human red meat consumption, heme iron is associated with the promotion of colon [cancer development].” But if you look at the actual diet they were given and do the math, that’s 500 times the level of heme found in people’s diets, in excess of like 70 pounds of meat a day. Of course, even if they really did use the right doses, they’re still going to end up with data on the wrong species, which brings us to clinical studies, which we’ll explore next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bastide NM, Chenni F, Audebert M, et al. A central role for heme iron in colon carcinogenesis associated with red meat intake. Cancer Res. 2015;75(5):870-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25592152"
+    },
+    {
+      "Title": "Constante M, Fragoso G, Calvé A, Samba-Mondonga M, Santos MM. Dietary Heme Induces Gut Dysbiosis, Aggravates Colitis, and Potentiates the Development of Adenomas in Mice. Front Microbiol. 2017;8:1809.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28983289"
+    },
+    {
+      "Title": "Cross AJ, Pollock JR, Bingham SA. Haem, not protein or inorganic iron, is responsible for endogenous intestinal N-nitrosation arising from red meat. Cancer Res. 2003;63(10):2358-60.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12750250"
+    },
+    {
+      "Title": "Demeyer D, Mertens B, De Smet S, Ulens M. Mechanisms Linking Colorectal Cancer to the Consumption of (Processed) Red Meat: A Review. Crit Rev Food Sci Nutr. 2016;56(16):2747-66.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25975275/"
+    },
+    {
+      "Title": "European Food Safety Authority. Scientific Opinion on the safety of heme iron (blood peptonates) for the proposed uses as a source of iron added for nutritional purposes to foods for the general population, including food supplements. EFSA Journal 2010;8(4):1585.",
+      "Url": "https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2010.1585"
+    },
+    {
+      "Title": "Fraser RZ, Shitut M, Agrawal P, Mendes O, Klapholz S. Safety Evaluation of Soy Leghemoglobin Protein Preparation Derived From Pichia pastoris, Intended for Use as a Flavor Catalyst in Plant-Based Meat. Int J Toxicol. 2018;37(3):241-62.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29642729"
+    },
+    {
+      "Title": "IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. Red Meat and Processed Meat. Lyon (FR): International Agency for Research on Cancer; 2018.",
+      "Url": "https://publications.iarc.fr/Book-And-Report-Series/Iarc-Monographs-On-The-Identification-Of-Carcinogenic-Hazards-To-Humans/Red-Meat-And-Processed-Meat-2018"
+    },
+    {
+      "Title": "Kruger C, Zhou Y. Red meat and colon cancer: A review of mechanistic evidence for heme in the context of risk assessment methodology. Food Chem Toxicol. 2018;118:131-53.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29689357/"
+    },
+    {
+      "Title": "Sasso A, Latella G. Role of Heme Iron in the Association Between Red Meat Consumption and Colorectal Cancer. Nutr Cancer. 2018;70(8):1173-83.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30638072"
+    },
+    {
+      "Title": "Turner ND, Lloyd SK. Association between red meat consumption and colon cancer: A systematic review of experimental results. Exp Biol Med (Maywood). 2017;242(8):813-39.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28205448"
+    },
+    {
+      "Title": "World Cancer Research Fund/American Institute for Cancer Research. Continuous Update Project Expert Report 2018. Diet, nutrition, physical activity and colorectal cancer. 2018.",
+      "Url": "https://www.wcrf.org/sites/default/files/Colorectal-cancer-report.pdf"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "bacon",
+      "Url": "https://nutritionfacts.org/topics/bacon/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "fake meat",
+      "Url": "https://nutritionfacts.org/topics/fake-meat/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "ham",
+      "Url": "https://nutritionfacts.org/topics/ham/"
+    },
+    {
+      "Title": "hamburgers",
+      "Url": "https://nutritionfacts.org/topics/hamburgers/"
+    },
+    {
+      "Title": "heme iron",
+      "Url": "https://nutritionfacts.org/topics/heme-iron/"
+    },
+    {
+      "Title": "hot dogs",
+      "Url": "https://nutritionfacts.org/topics/hot-dogs/"
+    },
+    {
+      "Title": "IGF-1",
+      "Url": "https://nutritionfacts.org/topics/igf-1/"
+    },
+    {
+      "Title": "iron",
+      "Url": "https://nutritionfacts.org/topics/iron/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "meat substitutes",
+      "Url": "https://nutritionfacts.org/topics/meat-substitutes/"
+    },
+    {
+      "Title": "methionine",
+      "Url": "https://nutritionfacts.org/topics/methionine/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "pesticides",
+      "Url": "https://nutritionfacts.org/topics/pesticides/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    },
+    {
+      "Title": "sausage",
+      "Url": "https://nutritionfacts.org/topics/sausage/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "trans fats",
+      "Url": "https://nutritionfacts.org/topics/trans-fats/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "veggie burgers",
+      "Url": "https://nutritionfacts.org/topics/veggie-burgers/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is part of a nine-video series on plant-based meats. If you missed any of the other earlier installments, check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-environmental-impacts-of-plant-based-meat-substitutes/\">The Environmental Impacts of Plant-Based Meat Substitutes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-beyond-meat-and-the-impossible-burger-healthy/\">Are Beyond Meat and the Impossible Burger Healthful?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-protein-are-pea-and-soy-protein-isolates-harmful/\">Are Pea and Soy Protein Isolates Harmful?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-meat-substitutes-put-to-the-test/\">Plant-Based Meat Substitutes Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-health-effects-of-mycoprotein-quorn-products-vs-bcaas-in-meat/\">The Health Effects of Mycoprotein (Quorn) Products BCAAs in Meat</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-about-the-heme-in-impossible-burgers/\">What About the Heme in Impossible Burgers?</a></li>\n</ul>\n<p>The final two videos in the series are coming up next. See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/heme-induced-n-nitroso-compounds-and-fat-oxidation/\">Heme-Induced N-Nitroso Compounds and Fat Oxidation</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-heme-iron-the-reason-meat-is-carcinogenic/\">Is Heme the Reason Meat Is Carcinogenic?</a></li>\n</ul>\n<p>If you want all of nine of the videos on this plant-based meat series in one place, you can get them right now in a <a href=\"https://drgreger.org/collections/videos/products/plant-based-and-cultivated-meat-digital\">digital download</a> from my webinar a few months ago.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

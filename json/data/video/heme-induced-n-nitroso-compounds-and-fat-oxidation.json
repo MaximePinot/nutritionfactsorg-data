@@ -1,0 +1,143 @@
+{
+  "Title": "Heme-Induced N-Nitroso Compounds and Fat Oxidation",
+  "Url": "https://nutritionfacts.org/video/heme-induced-n-nitroso-compounds-and-fat-oxidation/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/fHUvppH6Ev4"
+  },
+  "UpdatedAt": "2021-02-22T12:50:49+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 52",
+    "Url": "https://nutritionfacts.org/volumes/volume-52/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What do clinical studies show about the role of heme in the formation of a class of carcinogenic compounds?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn a review attempting to downplay the role of heme in the link between meat and cancer, funded by the National Cattlemen’s Beef Association, they noted that it’s important to remember that all the rat and mouse studies suggesting harm from heme didn’t evaluate exposure conditions that were representative of any kind of realistic human exposures. Instead, the rats were given heme at levels corresponding to up to 360,000 times the level of meat recommended in the dietary guidelines. But hey, at least we know what might happen if you ate 20 tons of meat a day and were a rodent.\nWhat about the human studies? Heme iron can promote the formation of N-nitroso compounds. Why should we care about the diet-induced formation of these compounds in our gut? Because a number of these compounds are known to cause DNA damage. In fact, one of them, methylnitrosourea, is actually used to induce colon cancer. And at higher levels of meat consumption, concentrations of apparent, total nitroso-compounds were found to be on the same order as the concentration of N-nitroso compounds in cigarette smoke.\nOkay, but that was at like two-to-four-burgers-a-day worth of meat. At like half a burger a day, people were pooping out no more of the nitroso compounds than those eating none. Going from a half burger’s worth to four burgers a day gives you a big spike, but cutting out meat completely just brought you down to about half-burger levels. What about just like normal meat consumption, like one burger a day? It’s not just two or four burgers worth that can do it. One quarter-pounder can also do it. That looks to be about where levels start shooting up.\nThat’s one potential way heme iron may play a major role in colorectal cancer promotion—the N-nitroso pathway. The other is fat peroxidation––oxidized fat that may also lead to mutagenic DNA damage. Just a few days eating just like a burger a day significantly increased a biomarker of fat oxidation in people’s stool. How do we know whether it’s the heme itself that’s responsible for both these processes? Well, if you give people a heme supplement alone, you can increase fecal levels, whereas a nonheme iron supplement appeared to have no effect. A bump with heme iron, but back down on nonheme iron, suggesting it’s the N-nitroso compounds from the ingestion of heme that may be accounting for the increased cancer risk. But that so-called heme supplement wasn’t a supplement at all. They just fed people like four ounces of liver pate and blood sausage. So, this should be labelled like this, in which case, no big revelation. And the same thing with fat oxidation. Was it the heme itself, or any number of other things found in a blood sausage diet?\nThe best evidence we have that heme itself is playing a role is that if you remove the heme, you can get a significant drop in N-nitroso compound formation. But note, it was only about a quarter; so, there must be other factors. And indeed, there was a strong correlation with the amount of nitrites in their stool, which can be involved directly in the production, and are found in both processed and, to a lesser extent, unprocessed meat.\nNow, soy appears to have a significant suppressive effect on fecal N-nitroso concentrations. That piqued my interest, since the trigger for my whole deep dive into heme was Impossible Food’s attempt to recreate the taste of meat using a plant-based heme protein in place of the muscle-based heme protein. The company likes to say how “the heme in the Impossible Burger is atom-for-atom identical to the heme found in meat…”; and so, would be expected to have similar effects. But if soy can have a mediating effect, since the Impossible Burger is a soy-based burger, maybe that changes things.\nThey had people eat a high-meat diet with and without soy, and they got about a 40 percent drop in the concentration of those potentially carcinogenic compounds eating the same amount of meat when the soy was added. Now, it turns out they didn’t end up making much less; it’s just that they boosted their fecal output by about 40 percent. About a 40 percent bigger stool size because they were eating about a half a cup of soybeans. But that’s good, because bigger poops mean lower carcinogen concentrations and reduced intestinal transit time––all resulting in less potential carcinogen contact with the bowel wall. But this was because they used whole soybeans, which would give them like six grams of fiber, whereas the Impossible Burger only has about half that, since it’s made from more of a soy protein concentrate. The question of safety then becomes whether or not the N-nitroso compounds formed in our intestines as a result of the heme are DNA-damaging or cancer-causing. When you see the term ATNC, that stands for apparent total N-nitroso compounds, measuring just a nonspecific broad class of compounds, some of which are definitely genotoxic and carcinogenic. But further work is required to establish that for the specific ones that pop up when we eat meat. Further work that we will turn to, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bingham SA, Hughes R, Cross AJ. Effect of white versus red meat on endogenous N-nitrosation in the human colon and further evidence of a dose response. J Nutr. 2002;132(11 Suppl):3522S-5S.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12421881"
+    },
+    {
+      "Title": "Conflicts of Interest. ICMJE.",
+      "Url": "http://www.icmje.org/conflicts-of-interest/"
+    },
+    {
+      "Title": "Cross AJ, Pollock JR, Bingham SA. Haem, not protein or inorganic iron, is responsible for endogenous intestinal N-nitrosation arising from red meat. Cancer Res. 2003;63(10):2358-60.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12750250"
+    },
+    {
+      "Title": "Hughes R, Cross AJ, Pollock JR, Bingham S. Dose-dependent effect of dietary meat on endogenous colonic N-nitrosation. Carcinogenesis. 2001;22(1):199-202.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11159760"
+    },
+    {
+      "Title": "Hughes R, Pollock JR, Bingham S. Effect of vegetables, tea, and soy on endogenous N-nitrosation, fecal ammonia, and fecal water genotoxicity during a high red meat diet in humans. Nutr Cancer. 2002;42(1):70-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12235653/"
+    },
+    {
+      "Title": "Impossible Foods on Facebook. August 10, 2017.",
+      "Url": "https://www.facebook.com/ImpossibleFoods/posts/an-open-letter-from-our-ceoto-our-communitythe-new-york-times-published-an-aug-8/1524134577643350/"
+    },
+    {
+      "Title": "Kruger C, Zhou Y. Red meat and colon cancer: A review of mechanistic evidence for heme in the context of risk assessment methodology. Food Chem Toxicol. 2018;118:131-53.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29689357/"
+    },
+    {
+      "Title": "Kuhnle GG, Story GW, Reda T, et al. Diet-induced endogenous formation of nitroso compounds in the GI tract. Free Radic Biol Med. 2007;43(7):1040-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17761300"
+    },
+    {
+      "Title": "Martin OCB, Naud N, Taché S, et al. Targeting Colon Luminal Lipid Peroxidation Limits Colon Carcinogenesis Associated with Red Meat Consumption. Cancer Prev Res (Phila). 2018;11(9):569-80.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29954759"
+    },
+    {
+      "Title": "Pierre F, Peiro G, Taché S, et al. New marker of colon cancer risk associated with heme intake: 1,4-dihydroxynonane mercapturic acid. Cancer Epidemiol Biomarkers Prev. 2006;15(11):2274-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17119057"
+    },
+    {
+      "Title": "Rowland IR, Granli T, Bøckman OC, Key PE, Massey RC. Endogenous N-nitrosation in man assessed by measurement of apparent total N-nitroso compounds in faeces. Carcinogenesis. 1991;12(8):1395-1401.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/1860160"
+    },
+    {
+      "Title": "Vanden Bussche J, Hemeryck LY, Van Hecke T, et al. O⁶-carboxymethylguanine DNA adduct formation and lipid peroxidation upon in vitro gastrointestinal digestion of haem-rich meat. Mol Nutr Food Res. 2014;58(9):1883-96.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24990219/"
+    },
+    {
+      "Title": "What are the nutrition facts? Impossiblefoods.com.",
+      "Url": "https://faq.impossiblefoods.com/hc/en-us/articles/360018939274"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fake meat",
+      "Url": "https://nutritionfacts.org/topics/fake-meat/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "hamburgers",
+      "Url": "https://nutritionfacts.org/topics/hamburgers/"
+    },
+    {
+      "Title": "heme iron",
+      "Url": "https://nutritionfacts.org/topics/heme-iron/"
+    },
+    {
+      "Title": "iron",
+      "Url": "https://nutritionfacts.org/topics/iron/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "meat substitutes",
+      "Url": "https://nutritionfacts.org/topics/meat-substitutes/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "veggie burgers",
+      "Url": "https://nutritionfacts.org/topics/veggie-burgers/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is part of a nine-video series on plant-based meats. If you missed any of the earlier installments, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-environmental-impacts-of-plant-based-meat-substitutes/\">The Environmental Impacts of Plant-Based Meat Substitutes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-beyond-meat-and-the-impossible-burger-healthy/\">Are Beyond Meat and the Impossible Burger Healthful?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-protein-are-pea-and-soy-protein-isolates-harmful/\">Are Pea and Soy Protein Isolates Harmful?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-meat-substitutes-put-to-the-test/\">Plant-Based Meat Substitutes Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-health-effects-of-mycoprotein-quorn-products-vs-bcaas-in-meat/\">The Health Effects of Mycoprotein (Quorn) Products BCAAs in Meat</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-about-the-heme-in-impossible-burgers/\">What About the Heme in Impossible Burgers?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-heme-iron-cause-cancer/\">Does Heme Iron Cause Cancer?</a></li>\n</ul>\n<p>The final video—<a href=\"https://nutritionfacts.org/video/is-heme-iron-the-reason-meat-is-carcinogenic/\">Is Heme the Reason Meat Is Carcinogenic?</a>—is coming up next.</p>\n<p>If you want all nine of the videos in this plant-based meat series in one place, you can get them right now in a <a href=\"https://drgreger.org/collections/videos/products/plant-based-and-cultivated-meat-digital\">digital download</a> from my webinar a few months ago.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Title": "Is There Really Pus in Milk?",
+  "Url": "https://nutritionfacts.org/video/is-there-really-pus-in-milk/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/EgXMdZXNLO0"
+  },
+  "UpdatedAt": "2025-06-02T11:50:06+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 69",
+    "Url": "https://nutritionfacts.org/volumes/volume-69/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What does the “milk pus test” tell us about the U.S. milk supply?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nDairy cows might normally live for about 20 years, but they are typically slaughtered for hamburger after they’re just a few years old when they produce less milk and their profitability drops. But another leading cause of cow culling is mastitis––udder inflammation and infections––which affects 99.7 percent of all dairy operations in the United States.\nBecause of the mastitis epidemic in the U.S. dairy herd, the dairy industry continues to demand that American milk retain among the highest allowable “somatic cell” concentration, nearly twice as much as the rest of the world—750,000 cells per milliliter.\nThe concentration in milk from healthy udders should be less than 100,000. These somatic cells are mostly white blood cells, so when you get up to around 200,000, which is like a million per teaspoon, the udder is likely to be infected. So, the somatic cell counts in the bulk milk tanks reflect the level of infection. Basically, if the bulk milk tank, which can hold thousands of gallons, averages 200,000 then 15 percent of the contributing cows are likely infected. At a concentration of 400,000, which is more in line with international standards, a third of the cows are likely infected. And staying within the 750,000 U.S. limit for Grade A milk could reflect that about two-thirds of the cows are infected.\nNow somatic cells are not synonymous with pus cells, as has sometimes been misleadingly suggested. Just as normal human blood and breast milk contain low levels of white blood cells, so does milk from healthy cows. That’s something we’ve known about for more than a century. The problem is that many of our cows are not healthy.\nAccording to the latest national government survey, about one in four dairy cows in the United States suffers from clinical mastitis, the second leading cause of death on dairy farms. This is why the average somatic cell concentration of U.S. milk is that of a likely infected udder at 204,000 cells per milliliter. How much actual pus does that translate to?\nAlthough the industry doesn’t like to talk about pus cells, the fact that pus is present in milk from inflamed mammary glands is a given. But what constitutes pus in milk? The quote-unquote “milk pus test” was introduced more than a century ago. It pooled milk from infected cows that was estimated to contain up to 2.5 percent pus by volume. And we’d really like to see no more than like 0.1 percent. So, what does 204,000 cells per milliliter, the national U.S. average, translate to?\nThat’s a million cells per teaspoon of milk. A million cells per spoonful sounds like a lot, but pus is really concentrated. So, how much pus is there in a glass of milk? Not much. If you take the national average and subtract the number of white blood cells you might see in normal milk, you get about 100,000 inflammatory white blood cells per milliliter, or about 25 million per cup. Then it just depends on the cellular concentration of pus. \nAlthough straight pus may have 80,000 cells per microliter or less, to be conservative, the most concentrated I could find for straight pus was about 150,000. Note that’s per microliter, not per milliliter. So, if there are about 25 million cells per cup, and a microliter of pus contains about 150,000 cells, that would come out to be about 150 microliters of pus per glass of milk. There are about 50 microliters in a drop, so there’d only be a few drops of pus per glass on average.\nAnd you can apparently taste the difference. One of the major problems associated with mastitis is the flavor and texture defects. Milk with high somatic cell counts looks the same, but evidently doesn’t smell or taste as good.\nThe large amounts of pus in mastitic milk may be aesthetically objectionable, but it’s important to note this is not a food safety issue, thanks to pasteurization. The dairy industry emphasizes that ingesting large amounts of bovine white blood cells has not been shown to be harmful. No matter how inflamed and infected udders get, the pus gets cooked. But just as parents may not want to feed their children fecal bacteria in meat, even if it’s irradiated fecal bacteria, as the Director of the Food Policy Institute put it: “Irradiated poop won’t make you sick, but it’s still poop.” Parents might not want to have their children sip pasteurized pus.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "AlHodaif H, AlOtaibi S, BinSailh S, Almuntashri M, AlOtaibi N, Khatri IA. A case of fatal acute bacterial meningoencephalitis with extremely high cerebrospinal fluid white blood cell count. Clin Case Rep. 2023;11(4):e7178.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37064733/"
+    },
+    {
+      "Title": "Animal and Plant Health Inspection Service (APHIS), Veterinary Services, Center for Epidemiology and Animal Health. Determining U.S. milk quality using bulk tank somatic cell counts, 2019. APHIS.USDA.gov. June 2021.",
+      "Url": "https://www.aphis.usda.gov/sites/default/files/btscc_2019infosheet.pdf"
+    },
+    {
+      "Title": "Bezerra J da S, Sales DC, Oliveira JPF de, et al. Effect of high somatic cell counts on the sensory acceptance and consumption intent of pasteurized milk and coalho cheese. Food Sci Technol. 2021;41(suppl 2):423-431.",
+      "Url": "https://www.researchgate.net/publication/344477267_Effect_of_high_somatic_cell_counts_on_the_sensory_acceptance_and_consumption_intent_of_pasteurized_milk_and_coalho_cheese"
+    },
+    {
+      "Title": "Capozzi JD, Rhodes R. Paternalism. J Bone Jt Surg. 2000;82(7):1050-1051.",
+      "Url": "https://hub.jbjs.org/reader.php?rsuite_id=763226&source=The_Journal_of_Bone_and_Joint_Surgery/82/7/1050&topics=eh+kn#info"
+    },
+    {
+      "Title": "Center for Epidemiology and Animal Health, National Animal Health Monitoring System. United States Department of Agriculture (USDA), Animal and Plant Health Inspection Service (APHIS), Veterinary Services. Dairy 2014: Health and Management Practices on U.S. Dairy Operations, 2014. United States Department of Agriculture; 2018. Report 3.",
+      "Url": "https://www.aphis.usda.gov/sites/default/files/dairy14_dr_partiii.pdf"
+    },
+    {
+      "Title": "Centers for Epidemiology and Animal Health, Animal and Plant Health Inspection Service (APHIS), Veterinary Services, USDA, National Mastitis Council. U.S. milk quality monitoring using bulk tank somatic cell counts. APHIS.USDA.gov. July 14, 2010.",
+      "Url": "https://www.aphis.usda.gov/sites/default/files/btscc_94infosheet.pdf"
+    },
+    {
+      "Title": "De Vries A, Marcondes MI. Review: Overview of factors affecting productive lifespan of dairy cows. Animal. 2020;14(S1):s155-s164.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32024570/"
+    },
+    {
+      "Title": "Frenzen PD, DeBess EE, Hechemy KE, et al. Consumer acceptance of irradiated meat and poultry in the United States. J Food Prot. 2001;64(12):2020-2026.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11770633/"
+    },
+    {
+      "Title": "Frontline. Carol Tucker Foreman. PBS.org. 2002.",
+      "Url": "https://www.pbs.org/wgbh/frontline/wgbh/pages/frontline/shows/meat/interviews/foreman.html"
+    },
+    {
+      "Title": "Giesecke WH, van den Heever LW. The diagnosis of bovine mastitis with particular reference to subclinical mastitis: a critical review of relevant literature. Onderstepoort J Vet Res. 1974;41(4):169-211.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/4620089/"
+    },
+    {
+      "Title": "Ivanov GY, Bilgucu E, Dimitrova MR, Ivanova IV. Microbiological and sensory quality of Farmers cheese produced from milk with different somatic cells count. IOP Conf Ser: Mater Sci Eng. 2021;1031(1):012104.",
+      "Url": "https://iopscience.iop.org/article/10.1088/1757-899X/1031/1/012104"
+    },
+    {
+      "Title": "Kelly AL, Leitner G, Merin U. Milk quality and udder health: test methods and standards. Reference Module in Food Science. Elsevier; 2018.",
+      "Url": "https://www.sciencedirect.com/science/article/abs/pii/B9780081005965009513"
+    },
+    {
+      "Title": "Miller WW. The significance of leucocytes and streptococci in milk. J Comp Pathol Ther. 1909;22:34-40.",
+      "Url": "https://www.sciencedirect.com/science/article/abs/pii/S0368174209800052"
+    },
+    {
+      "Title": "National Animal Health Monitoring System, United States Department of Agriculture (USDA), Animal and Plant Health Inspection Service (APHIS), Veterinary Services. Dairy 2014: Milk Quality, Milking Procedures, and Mastitis on U.S. Dairies, 2014. United States Department of Agriculture; 2016. Report 2.",
+      "Url": "https://www.aphis.usda.gov/sites/default/files/dairy14_dr_mastitis.pdf"
+    },
+    {
+      "Title": "National Animal Health Monitoring System, United States Department of Agriculture (USDA), Animal and Plant Health Inspection Service (APHIS), Veterinary Services. Death Loss in U.S. Cattle and Calves Due to Predator and Nonpredator Causes, 2015. United States Department of Agriculture; 2017.",
+      "Url": "https://www.aphis.usda.gov/sites/default/files/cattle_calves_deathloss_2015.pdf"
+    },
+    {
+      "Title": "National Mastitis Council. Human health risks associated with high somatic cell count milk: symposium summary. NMConline.org. January 2005.",
+      "Url": "https://www.nmconline.org/wp-content/uploads/2020/09/Human-Health-Risks-Associated-with-High-SCC-Milk-FINAL-May-2020.pdf"
+    },
+    {
+      "Title": "Smith KL, Hillerton JE, Harmon RJ. Guidelines on normal and abnormal raw milk based on somatic cell counts and signs of clinical mastitis. National Mastitis Council. 2001.",
+      "Url": "https://www.nmconline.org/wp-content/uploads/2016/09/Guidelines-on-Normal-and-Abnormal-Raw-Milk.pdf"
+    },
+    {
+      "Title": "Varrier-Jones PC. The cellular content of milk: variations met with under physiological and pathological conditions. Lancet. 1924;204(5272):537-542.",
+      "Url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(01)39794-5/fulltext"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "fecal bacteria",
+      "Url": "https://nutritionfacts.org/topics/fecal-bacteria/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">For more on what’s in milk, see:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-role-milk-may-play-in-triggering-parkinsons-disease/?queryID=977a4f7df9695e1f54c757306b688f7d\"><span style=\"font-weight: 400\">The Role Milk May Play in Triggering Parkinson’s Disease</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/does-paratuberculosis-in-milk-trigger-type-1-diabetes/\"><span style=\"font-weight: 400\">Does Paratuberculosis in Milk Trigger Type 1 Diabetes?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/bovine-leukemia-virus-as-a-cause-of-breast-cancer/\"><span style=\"font-weight: 400\">Bovine Leukemia Virus as a Cause of Breast Cancer</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/why-do-milk-drinkers-live-shorter-lives-on-average/?queryID=977a4f7df9695e1f54c757306b688f7d\"><span style=\"font-weight: 400\">Why Do Milk Drinkers Live Shorter Lives on Average?</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

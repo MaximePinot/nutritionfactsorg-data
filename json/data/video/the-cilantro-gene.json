@@ -1,0 +1,139 @@
+{
+  "Title": "The Cilantro Gene",
+  "Url": "https://nutritionfacts.org/video/the-cilantro-gene/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/tftEbb7T8AA"
+  },
+  "UpdatedAt": "2015-02-13T12:00:10+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 23",
+    "Url": "https://nutritionfacts.org/volumes/volume-23/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Why are there such polarizing opinions about the taste of the fresh herb cilantro (also known as coriander leaves)?",
+  "Transcript": "One sign of changing U.S. demographics is that salsa has replaced ketchup as America’s #1 table condiment, one of the popular ingredients of which is cilantro–one of the most polarizing and divisive food ingredients known. Some people love it; some people hate it. What’s interesting is that the lovers and the haters appear to experience the taste differently. Individuals who like cilantro may describe it as fresh, fragrant or citrusy, whereas those who dislike cilantro report that it tastes like soap, mold, dirt, or bugs. I don’t know how people know what bugs taste like, but rarely are polarizing opinions about flavors so extreme. Maybe it’s genetic.\nDifferent ethnic groups do seem to have different rates of cilantro dislike, with Ashkenazi Jews scoring highest on the cilantro hateometer. Another clue came from twin studies, which show that identical twins tend to share cilantro preferences, whereas regular fraternal twins do not have such a strong correlation. Our genetic code is so big, though–containing about three billion letters–that to find some cilantro gene you’d have to analyze the DNA and cilantro tastes of like 10,000 people, and obviously genetic researchers have better things to do–or maybe not.\nHere we present the results of a genome-wide association study among 14,000 participants who reported whether cilantro tasted soapy, with replication in a distinct set of 11,000 people who declared whether they liked cilantro or not. And lo and behold, they found a spot on chromosome 11 that seemed to match. What’s there? A gene called OR6A2, which enables us to smell certain chemicals like (E)-2-decenal, a primary constituent of cilantro and also the defensive secretions of stink bugs. So maybe cilantro does taste like bugs! But cilantro lovers may be genetic mutants that have an inability to smell the unpleasant compound.\nThat may actually be an advantage, though, since cilantro is healthy stuff. In fact that’s the justification to do these kinds of studies–to see why some people don’t like the taste of healthy foods.\nAre the cilantro haters really missing out on much, though? Mother nature has been described as the oldest and most comprehensive pharmacy of all time, and cilantro, called coriander around most of the world, is one of nature’s oldest herbal prescriptions, credited with anti-microbial, anti-oxidant, anti-diabetic, anti-anxiety, anti-epilepsy, etc., etc., properties. But these are all from preclinical studies, meaning on cells in a test tube or lab rats, studies like the anti-despair activity of cilantro in mice, testing animals placed in a despair apparatus.\nFinally, though, a human study, on the anti-arthritis potential of cilantro. There was a study performed in Germany of a lotion made out of cilantro seeds, showing it could decrease the redness of a sunburn, showing it had some anti-inflammatory effects, though not as much as an over-the-counter steroid cream, hydrocortisone, or a prescription- strength steroid cream. Well, if the cilantro plant is anti-inflammatory, let’s give it to some people with osteoarthritis and see if it helps. They gave them about 20 sprigs of cilantro daily for two months, and reported a significant drop in ESR in the cilantro group, a nonspecific indicator of inflammation. How did the patients do clinically, though? They didn’t say, but did report a rather remarkable decrease in uric acid levels–a 50% drop, suggesting that huge amounts of cilantro may be useful for those suffering from a different arthritis, called gout.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A Knaapila, L D Hwang, A Lysenk, F F Duke, B Fesi, A Khoshnevisan, R S James, C J Wysocki, M Rhyu, M G Tardoff, A A Bachmanov, E Mura, H Nagai, D R Reed. Genetic analysis of chemosensory traits in human twins. Chem Senses. 2012 Nov;37(9):869-81.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22977065"
+    },
+    {
+      "Title": "C U Rajeshward, S Siri, B Andallu. Antioxidant and antiarthritic potential of coriander (Coriandrum sativum L.) leaves. Clinical Nutrition ESPEN December 2012 Volume 7, Issue 6, Pages e223–e228.",
+      "Url": "https://www.sciencedirect.com/science/article/abs/pii/S2212826312000498"
+    },
+    {
+      "Title": "J Reuter, C Huyke, F Casetti, C THeek, U Frank, M Augustin, C Chempp. Anti-inflammatory potential of a lipolotion containing coriander oil in the ultraviolet erythema test. J Dtsch Dermatol Ges. 2008 Oct;6(10):847-51.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18371049"
+    },
+    {
+      "Title": "Kishore, K.; Siddiqui, N.A. Anti-despair activity of green and dried plant extract of Coriandrum sativum in mice. Indian Drugs v. 40(7): p. 419-421, 2003 (Eng; 18 ref).",
+      "Url": "http://cat.inist.fr/?aModele=afficheN&cpsidt=15164789"
+    },
+    {
+      "Title": "L Mauer, A El-Sohemy. Prevalence of cilantro (Coriandrum sativum) disliking among different ethnocultural groups. Flavour 2012, 1:8.",
+      "Url": "http://www.flavourjournal.com/content/1/1/8"
+    },
+    {
+      "Title": "M Borges, J R Aldrich. Instar-specific defensive secretions of stink bugs (Heteroptera: Pentatomidae). Experientia 15 September 1992, Volume 48, Issue 9, pp 893-896.",
+      "Url": "http://link.springer.com/article/10.1007/BF02118429"
+    },
+    {
+      "Title": "N Eriksson, S Wu, C B Do, A K Kiefer, J Y Tung, J L Mountain, D A Hinds, U Francke. A genetic variant near olfactory receptor genes influences cilantro preference. Flavour 2012, 1:22.",
+      "Url": "http://www.flavourjournal.com/content/1/1/22"
+    },
+    {
+      "Title": "N G Sahib, F Anwar, A H Gilani, A A Hamid, N Saari, K M Alkharfy. Coriander (Coriandrum sativum L.): a potential source of high-value components for functional foods and nutraceuticals--a review. Phytother Res. 2013 Oct;27(10):1439-56.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23281145"
+    },
+    {
+      "Title": "T L Marsh, P E Arriola. The Science of Salsa: Antimicrobial Properties of Salsa Components to Learn Scientific Methodology. J Microbiol Biol Educ. 2009; 10(1): 3–8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3577155/"
+    },
+    {
+      "Title": "T L Potter. Essential Oil Composition of Cilantro. J. Agric. Food Chem., 1996, 44 (7), pp 1824–1826.",
+      "Url": "http://pubs.acs.org/doi/abs/10.1021/jf950814c"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Angela Redmon via Flickr and Psylab.",
+  "Topics": [
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "antioxidants",
+      "Url": "https://nutritionfacts.org/topics/antioxidants/"
+    },
+    {
+      "Title": "anxiety",
+      "Url": "https://nutritionfacts.org/topics/anxiety/"
+    },
+    {
+      "Title": "arthritis",
+      "Url": "https://nutritionfacts.org/topics/arthritis/"
+    },
+    {
+      "Title": "cilantro",
+      "Url": "https://nutritionfacts.org/topics/cilantro/"
+    },
+    {
+      "Title": "complementary medicine",
+      "Url": "https://nutritionfacts.org/topics/complementary-medicine/"
+    },
+    {
+      "Title": "gout",
+      "Url": "https://nutritionfacts.org/topics/gout/"
+    },
+    {
+      "Title": "herbal remedies",
+      "Url": "https://nutritionfacts.org/topics/herbal-remedies/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "joint health",
+      "Url": "https://nutritionfacts.org/topics/joint-health/"
+    },
+    {
+      "Title": "mental health",
+      "Url": "https://nutritionfacts.org/topics/mental-health/"
+    },
+    {
+      "Title": "osteoarthritis",
+      "Url": "https://nutritionfacts.org/topics/osteoarthritis/"
+    },
+    {
+      "Title": "salsa",
+      "Url": "https://nutritionfacts.org/topics/salsa/"
+    },
+    {
+      "Title": "spices",
+      "Url": "https://nutritionfacts.org/topics/spices/"
+    },
+    {
+      "Title": "steroids",
+      "Url": "https://nutritionfacts.org/topics/steroids/"
+    },
+    {
+      "Title": "sunburn",
+      "Url": "https://nutritionfacts.org/topics/sunburn/"
+    },
+    {
+      "Title": "uric acid",
+      "Url": "https://nutritionfacts.org/topics/uric-acid/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This reminds me of the video <a href=\"https://nutritionfacts.org/video/pretty-in-pee-nk/\">Pretty in Pee-nk</a> about the phenomenon of “beeturia,” pink urine after beet consumption, seen in some people.</p>\n<p>The flavor compound in tarragon may not be as benign in large doses. See <a href=\"https://nutritionfacts.org/video/the-safety-of-tarragon/\">The Safety of Tarragon</a>.</p>\n<p>For those who don’t mind the taste of bugs, I have some nutritional info: <a href=\"https://nutritionfacts.org/video/good-grub-the-healthiest-meat/\">Good Grub: The Healthiest Meat</a> and <a href=\"https://nutritionfacts.org/video/bug-appetit-barriers-to-entomophagy/\">Bug Appétit: Barriers to Entomophagy</a>.</p>\n<p>As an Ashkenazim myself, I’m excited to have narrowly escaped a cilantro-less existence!</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

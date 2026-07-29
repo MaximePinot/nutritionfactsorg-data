@@ -1,0 +1,163 @@
+{
+  "Title": "Is It Better to Drink a Little Alcohol Than None at All?",
+  "Url": "https://nutritionfacts.org/video/is-it-better-to-drink-little-alcohol-than-none-at-all/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/l3ilpQ-_IME"
+  },
+  "UpdatedAt": "2018-04-04T11:50:28+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 41",
+    "Url": "https://nutritionfacts.org/volumes/volume-41/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Even if alcohol causes cancer and there is no “French paradox,” what about the famous J-shaped curve, where excessive drinking is bad, but light drinkers appear to have lower mortality than abstainers?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Why do we not see the corporate interests of the alcohol industry as clearly as we see those of the tobacco industry?” Well, the alcohol industry has “waged a sophisticated and successful campaign [over the last few decades] undermin[ing] perceptions of the extent of alcohol-related harms to health by [framing the argument as] a balance of benefits and harms.” Yes, alcohol may be an “intoxicating carcinogen,” increasing cancer risk, but what about reducing heart disease risk? “[P]olicymakers hesitate to introduce effective alcohol policies, or even to support the addition of warning labels…, for fear they might undermine or contradict [any] possible health benefits of alcohol use.”\nAfter all, alcohol consumption clearly raises HDL, the supposed “good” cholesterol, But, sadly, as I already explored, HDL is no longer considered protective, based in part on so-called Mendelian randomization studies, where having a high HDL your whole life doesn’t appear to help, whereas a lifelong reduction of bad cholesterol, LDL, just thanks to luck-of-the-draw genetics, does indeed decrease heart disease risk.\nSo, the boost in HDL from alcohol may not matter. And, if you look at subclinical markers of atherosclerosis, like the thickening of the wall of your carotid arteries in your neck, those that abstain from alcohol completely seem to be at the lowest risk. And, the same with coronary calcium scores, where, in general, the lower the alcohol consumption, the lower the risk. And, alcohol bumps our blood pressure up a bit as well, which would be expected to raise, not lower, our cardiac risk. So, where did we get this idea that alcohol was good for us? From the famous J curve.\nCheck it out. If you follow large populations of people over time, in general, the more people drink, the higher their risk of dying prematurely. But the lowest risk—those who tend to live the longest—are not those who drink zero, the abstainers, but those who drink moderately, like one drink a day.\nThat’s why you get some folks recommending that “physicians should counsel lifelong nondrinkers” to take up the habit. Sure, there are statin drugs, but “alcoholic beverages [don’t] require a prescription, are far cheaper, and certainly more enjoyable.”\nIs moderate drinking really protective? Or, is there just something about people who abstain completely from alcohol that puts them in a higher risk category? The reason we suspect something fishy is going on is that abstainers seem to be at higher risk of a whole swath of diseases including, ironically, liver cirrhosis. Compared to lifelong abstainers—those who have never touched the stuff—men and women drinking a little appear to have less liver cirrhosis. Wait—what? How could a little drinking be linked to lower rates of liver cirrhosis? Well, let’s think about it. What makes more sense, that drinking leads to less liver cirrhosis, or liver cirrhosis leads to less drinking? In other words, reverse causation: the so-called “sick quitter effect.”\nIf you look at studies of smokers, sometimes you see higher mortality rates among those who quit smoking, compared to those that continue smoking. Why? Because the reason they quit smoking is because they got sick. So, of course, sick people die more often than less sick people. That’s why when you classify someone as a non-smoker in a study, you have to make sure they’re a “lifelong nonsmoker” and not just a non-smoker…since last Tuesday. Yet, unbelievably, that’s not what they do in most alcohol studies, where instead they misclassify former drinkers as if they were lifelong abstainers. And, look, “individuals with poorer health are more likely to cut down or stop drinking completely,” thereby making current drinkers “‘look good’ [in] comparison” to those who drink zero, because some of the “abstainers” are just abstaining because they got sick and stopped.\nOkay. So, what if you went back to all those studies and corrected the misclassifications, separated out the former drinkers from the lifelong abstainers? We didn’t know… until now.\nThey, indeed, found “drinker misclassification errors” all too common, plaguing three quarters of the studies, and when they controlled for that, the J-shaped curve disappeared. The death versus alcohol relationship became more consistent with a straight line, “linear dose response,” meaning more alcohol, more death: no protection at low levels of consumption.\nSo: “No [apparent] benefit of light to moderate drinking” after all, when you use better comparison groups. “Although these results are not what the majority of drinking adults may desire to believe,” the public deserves to hear and to read in more complete and balanced detail the ever-growing evidence that drinking alcohol is very unlikely to improve their health…”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Brien SE, Ronksley PE, Turner BJ, Mukamal KJ, Ghali WA. Effect of alcohol consumption on biological markers associated with risk of coronary heart disease: systematic review and meta-analysis of interventional studies. BMJ. 2011;342:d636.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21343206"
+    },
+    {
+      "Title": "Britton AR, Grobbee DE, Den Ruijter HM, et al. Alcohol consumption and common carotid intima-media thickness: the USE-IMT Study. Alcohol Alcohol. 2017;52(4):483-486.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28525540"
+    },
+    {
+      "Title": "Casswell S. Vested interests in addiction research and policy. Why do we not see the corporate interests of the alcohol industry as clearly as we see those of the tobacco industry?. Addiction. 2013;108(4):680-685.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23496067"
+    },
+    {
+      "Title": "Doll R, Peto R, Boreham J, Sutherland I. Mortality in relation to smoking: 50 years' observations on male British doctors. BMJ. 2004;328(7455):1519.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15213107"
+    },
+    {
+      "Title": "Fekjaer HO. Alcohol-a universal preventive agent? A critical analysis. Addiction. 2013;108(12):2051-2057.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23297738"
+    },
+    {
+      "Title": "Linsel-Nitschke P, Götz A, Erdmann J, et al. Lifelong reduction of LDL-cholesterol related to a common variant in the LDL-receptor gene decreases the risk of coronary artery disease--a Mendelian Randomisation study. PLoS ONE. 2008;3(8):e2986.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18714375"
+    },
+    {
+      "Title": "Maggs JL, Staff J. No benefit of light to moderate drinking for mortality from coronary heart disease when better comparison groups and controls included: a commentary on Zhao et al. (2017). J Stud Alcohol Drugs. 2017:78(3);387–388.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28499103"
+    },
+    {
+      "Title": "McFadden CB, Brensinger CM, Berlin JA, Townsend RR. Systematic review of the effect of daily alcohol intake on blood pressure. Am J Hypertens. 2005;18(2 Pt 1):276-286.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15752957"
+    },
+    {
+      "Title": "Rehm J, Taylor B, Mohapatra S, et al. Alcohol as a risk factor for liver cirrhosis: a systematic review and meta-analysis. Drug Alcohol Rev. 2010;29(4):437-445.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20636661"
+    },
+    {
+      "Title": "Rubin E. To drink or not to drink: that is the question. Alcohol Clin Exp Res. 2014:38(12);2889-2892.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25581645"
+    },
+    {
+      "Title": "Stockwell T, Zhao J, Naimi T, Chikritzhs T. Stockwell et al. Response: moderate use of an “intoxicating carcinogen” has no net mortality benefit—is this true and why does it matter? J Stud Alcohol Drugs. 2016:77(2);205–207.",
+      "Url": "http://www.jsad.com/doi/10.15288/jsad.2016.77.205"
+    },
+    {
+      "Title": "Stockwell T, Zhao J, Panwar S, Roemer A, Naimi T, Chikritzhs T. Do \"moderate\" drinkers have reduced mortality risk? A systematic review and meta-analysis of alcohol consumption and all-cause mortality. J Stud Alcohol Drugs. 2016;77(2):185-198.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26997174"
+    },
+    {
+      "Title": "Stockwell T, Zhao J. Alcohol's contribution to cancer is underestimated for exactly the same reason that its contribution to cardioprotection is overestimated. Addiction. 2017;112(2):230-232.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27891690"
+    },
+    {
+      "Title": "Voight BF, Peloso GM, Orho-Melander M, et al. Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation study. Lancet. 2012;380(9841):572-580.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22607825"
+    },
+    {
+      "Title": "Xi B, Veeranki SP, Zhao M, Ma C, Yan Y, Mi J. Relationship of alcohol consumption to all-cause, cardiovascular, and cancer-related mortality in U.S. adults. J Am Coll Cardiol. 2017;70(8):913-922.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28818200"
+    }
+  ],
+  "Acknowledgements": "Image credit: Joel Herzog via Unsplash. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "alcohol",
+      "Url": "https://nutritionfacts.org/topics/alcohol/"
+    },
+    {
+      "Title": "beer",
+      "Url": "https://nutritionfacts.org/topics/beer/"
+    },
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "HDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/hdl-cholesterol/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "liver health",
+      "Url": "https://nutritionfacts.org/topics/liver-health/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "red wine",
+      "Url": "https://nutritionfacts.org/topics/red-wine/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "wine",
+      "Url": "https://nutritionfacts.org/topics/wine/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Hold on. HDL isn’t “good” cholesterol anymore? Check out my ashtray and gym shoes analogies in reference to causal risk factors in my <a href=\"https://nutritionfacts.org/video/coconut-oil-and-the-boost-in-hdl-good-cholesterol/\">Coconut Oil and the Boost in HDL “Good” Cholesterol</a> video.</p>\n<p>How much cancer does alcohol really cause, though? You might have missed the first video of this series: <a href=\"https://nutritionfacts.org/video/can-alcohol-cause-cancer/\">Can Alcohol Cause Cancer</a>?.</p>\n<p>What about resveratrol and the French paradox? See <a href=\"https://nutritionfacts.org/video/the-best-source-of-resveratrol/\">The Best Source of Resveratrol</a> and <a href=\"https://nutritionfacts.org/video/what-explains-the-french-paradox/\">What Explains the French Paradox?</a>.</p>\n<p>For the fourth and final video in this series, see <a href=\"https://nutritionfacts.org/video/do-any-benefits-of-alcohol-outweigh-the-risks/\">Do Any Benefits of Alcohol Outweigh the Risks?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

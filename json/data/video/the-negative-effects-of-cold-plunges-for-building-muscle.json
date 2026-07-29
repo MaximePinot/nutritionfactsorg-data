@@ -1,0 +1,115 @@
+{
+  "Title": "The Negative Effects of Cold Plunges for Building Muscle",
+  "Url": "https://nutritionfacts.org/video/the-negative-effects-of-cold-plunges-for-building-muscle/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/MvOh9Nq9pus"
+  },
+  "UpdatedAt": "2026-01-05T12:50:48+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 71",
+    "Url": "https://nutritionfacts.org/volumes/volume-71/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Cold plunges following strength training are discouraged since they substantially attenuate long-term gains in muscle mass.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn my last video, I talked about how the benefits of cold plunges appear to be due to the placebo effect. But cold-water immersion isn’t just futile, but may be a foe when it comes to our muscle mass. A key take-home message is that if the goal of training is to build muscle mass and strength, regular cold plunges after exercise may not be beneficial.\nIt all started with this study in 2006, showing that cold-water immersion of muscles may actually interfere with regenerative processes, and retard rather than support the desired improvement of muscular performance. Since then, independent corroborating evidence has continued to accumulate that post-exercise cooling diminishes muscle adaptations to strength training, leading to punny click-bait titles like “Cryotherapy: Are we freezing the benefits of exercise?”, “Is the ice bath finally melting?”, “The cold truth”, “Cooling down the use of cryotherapy.”\nHere’s a typical study showing that cold plunges substantially attenuate long-term gains in muscle mass and strength. Twelve weeks of strength training with just typical active recovery led to a significant increase in muscle mass in the quads, but the same amount of training with cold plunges barely moved the needle. And this manifested in significantly less strength, whether we’re talking maximum leg press strength, knee extension, isometric torque, or rate of force development.\nNote that smaller muscles don’t necessarily lead to less strength. In this study, the blunted muscle fiber growth didn’t translate to impaired strength development, but post-exercise cold plunges should be avoided if you do actually want bigger muscles. But there are folks, like long-distance runners, who may not want that extra bulk; so, cold plunges may be a way to keep their muscles smaller.\nThis is probably the most rigorous study involving measuring muscle mass using the gold standard––MRI imaging––and actually taking muscle biopsies before and after. And, while both groups gained muscle mass and strength following training, these gains were significantly smaller in the cold-water immersion group compared with the active recovery group. And the cross-sectional area of fast-twitch muscle fibers also increased only in the control group.\nThere have been all sorts of published points and counterpoints about the cold-water dampening effect on hypertrophy gains. Here’s a systematic review with meta‑analysis of all such studies. A harmful effect of cold-water immersion was verified for every single strength parameter measure: one-rep maximum, maximal isometric strength, strength endurance, and ballistic efforts all reduced by cold plunges. So, it appears useless for endurance training and deleterious for strength training. Why are people still doing it? Here’s a 2024 meta-analysis, and the title says it all: Throwing cold water on muscle growth.\nThis may be because cold water immersion puts the chill on muscle protein synthesis, both in the hours immediately following exercise and during weeks of strength training. Another explanation for cold-induced reductions in strength is that cold-water immersion constricts the arteries and causes a reduction in blood flow, which is important for muscle strength and development. A 50 percent drop in femoral blood flow compared to warmer water or control. Reductions in muscle blood flow reduces the oxygen supply, which plays a role in the decreased muscle mass, too. Cold plunges also blunt the testosterone response. So, the impaired testosterone response may be another reason for the attenuated strength and muscle growth.\nSo, cold plunges following resistance exercise sessions should be discouraged, but they are said not to impair aerobic training. That’s not always the case, though, as some studies show a reduction of aerobic fitness as well. This study found that muscle warming was better than cooling, thought due to the slowing of glycogen resynthesis in the cold. Mean power output was better preserved hours after an all-out arm-cycling exercise. The cold did worse than control, and after the muscle heating, there was hardly any decrease in power output at all?\nSo, wait, should we instead be like taking a warm bath or sauna after exercise instead of an ice water bath? Regardless, cryotherapy is apparently not as cool as it seems.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Allan R, Mawhinney C. Is the ice bath finally melting? Cold water immersion is no greater than active recovery upon local and systemic inflammatory cellular stress in humans. J Physiol. 2017;595(6):1857-1858.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27991663/"
+    },
+    {
+      "Title": "Chaillou T, Treigyte V. Cold water immersion puts the chill on muscle protein synthesis after resistance exercise. J Physiol. 2020;598(6):1123-1124.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32012269/"
+    },
+    {
+      "Title": "Cheng AJ, Willis SJ, Zinner C, et al. Post-exercise recovery of contractile function and endurance in humans and mice is accelerated by heating and slowed by cooling skeletal muscle. J Physiol. 2017;595(24):7413-7426.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28980321/"
+    },
+    {
+      "Title": "Cheng AJ. Cooling down the use of cryotherapy for post-exercise skeletal muscle recovery. Temperature (Austin). 2018;5(2):103-105.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30377630/"
+    },
+    {
+      "Title": "Earp JE, Hatfield DL, Sherman A, Lee EC, Kraemer WJ. Cold-water immersion blunts and delays increases in circulating testosterone and cytokines post-resistance exercise. Eur J Appl Physiol. 2019;119(8):1901-1907.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31222379/"
+    },
+    {
+      "Title": "Fuchs CJ, Kouw IWK, Churchward-Venne TA, et al. Postexercise cooling impairs muscle protein synthesis rates in recreational athletes. J Physiol. 2020;598(4):755-772.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31788800/"
+    },
+    {
+      "Title": "Fyfe JJ, Broatch JR, Trewin AJ, et al. Cold water immersion attenuates anabolic signaling and skeletal muscle fiber hypertrophy, but not strength gain, following whole-body resistance training. J Appl Physiol (1985). 2019;127(5):1403-1418.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31513450/"
+    },
+    {
+      "Title": "Ihsan M, Abbiss CR, Allan R. Adaptations to post-exercise cold water immersion: friend, foe, or futile? Front Sports Act Living. 2021;3:714148.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34337408/"
+    },
+    {
+      "Title": "Kwiecien SY, McHugh MP. The cold truth: the role of cryotherapy in the treatment of injury and recovery from exercise. Eur J Appl Physiol. 2021;121(8):2125-2142.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33877402/"
+    },
+    {
+      "Title": "Malta ES, Dutra YM, Broatch JR, Bishop DJ, Zagatto AM. The effects of regular cold-water immersion use on training-induced changes in strength and endurance performance: a systematic review with meta-analysis. Sports Med. 2021;51(1):161-174.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33146851/"
+    },
+    {
+      "Title": "Mawhinney C, Jones H, Low DA, Green DJ, Howatson G, Gregson W. Influence of cold-water immersion on limb blood flow after resistance exercise. Eur J Sport Sci. 2017;17(5):519-529.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28100130/"
+    },
+    {
+      "Title": "Nadarajah S, Ariyagunarajah R, Jong ED. Cryotherapy: not as cool as it seems. J Physiol. 2018;596(4):561-562.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29315568/"
+    },
+    {
+      "Title": "Peake JM. Cryotherapy: Are we freezing the benefits of exercise? Temperature (Austin). 2017;4(3):211-213.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28944266/"
+    },
+    {
+      "Title": "Peake JM. Independent, corroborating evidence continues to accumulate that post-exercise cooling diminishes muscle adaptations to strength training. J Physiol. 2020;598(4):625-626.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31875321/"
+    },
+    {
+      "Title": "Piñero A, Burke R, Augustin F, et al. Throwing cold water on muscle growth: A systematic review with meta‐analysis of the effects of postexercise cold water immersion on resistance training‐induced hypertrophy. Eur J Sport Sci. 2024;24(2):177-189.",
+      "Url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsc.12074"
+    },
+    {
+      "Title": "Roberts LA, Raastad T, Markworth JF, et al. Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training. J Physiol. 2015;593(18):4285-4301.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26174323/"
+    },
+    {
+      "Title": "Tipton MJ, Collier N, Massey H, Corbett J, Harper M. Cold water immersion: kill or cure? Exp Physiol. 2017;102(11):1335-1355.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28833689/"
+    },
+    {
+      "Title": "Yamane M, Teruya H, Nakano M, Ogai R, Ohnishi N, Kosaka M. Post-exercise leg and forearm flexor muscle cooling in humans attenuates endurance and resistance training effects on muscle performance and on circulatory adaptation. Eur J Appl Physiol. 2006;96(5):572-580.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16372177/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "athletes",
+      "Url": "https://nutritionfacts.org/topics/athletes/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "muscle health",
+      "Url": "https://nutritionfacts.org/topics/muscle-health/"
+    },
+    {
+      "Title": "muscle strength",
+      "Url": "https://nutritionfacts.org/topics/muscle-strength/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">When I read something like this in the literature, it absolutely astounds me that people can get away with continuing to promote something that may have the </span><i><span style=\"font-weight: 400\">opposite</span></i><span style=\"font-weight: 400\"> of its intended effect. What a topsy-turvy world we live in. I didn’t think it would come out to be so clear-cut. But this research definitely makes me much more skeptical about proclamations coming out of the sports medicine world. And I thought the nutrition corld be bad!</span></p>\n<p><span style=\"font-weight: 400\">Now, cold plunges don’t only benefit from their reputation as a recovery aid, albeit an undeserved one. Even if they impair muscle growth, what about the possibility that this that-which-dosen’t-kill-us-makes-us-stonger cold stress can have other potential benefits, like helping our immune function? I cover that later in this series, coming out in a couple months. </span></p>\n<p><span style=\"font-weight: 400\"> If you missed the previous videos, check out </span><a href=\"https://nutritionfacts.org/video/best-temperature-timing-and-duration-for-cold-plunges-for-athletic-performance-recovery/\"><span style=\"font-weight: 400\">Best Temperature, Timing, and Duration for Cold Plunges for Athletic Performance Recovery</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/are-the-benefits-of-cold-plunges-and-cryotherapy-just-a-placebo-effect/\"><span style=\"font-weight: 400\">Are the Benefits of Cold Plunges and Cryotherapy Just a Placebo Effect?</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

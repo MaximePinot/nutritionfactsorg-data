@@ -1,0 +1,83 @@
+{
+  "Title": "Is Autism Really on the Rise?",
+  "Url": "https://nutritionfacts.org/video/is-autism-really-on-the-rise/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/e7le1hyaOXY"
+  },
+  "UpdatedAt": "2018-01-26T12:50:03+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 40",
+    "Url": "https://nutritionfacts.org/volumes/volume-40/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Before speculating about the reason for the “explosive” increase in autism, one has to make sure the explosion is real.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn 1943, a famous paper was published in which a child psychiatrist at Hopkins described a series of children with so-called “fascinating peculiarities.” He thought these characteristics formed “a unique ‘syndrome’” he called autism, which seemed rare at the time. But, who knew how many were out there undiagnosed?\nWhat causes it? Autism is currently “considered…a multi-factorial disorder resulting from [both] genetic and non-genetic risk factors…” Yes, it can run in families, but “genetic factors [may] account for only 10 to 20% of…[autism] cases.” This is based in part on the fact that you can have identical twins, with identical DNA—the same genes, and one identical twin may have autism, and the other not. So: “While genetic susceptibility may be a key contributor to [these autism spectrum disorders], it may…just ‘load the gun’ so to speak, with prenatal, perinatal, and…postnatal environmental exposures [some kinds of exposures during, around, or after pregnancy] being the events that ‘pull the trigger’ and may [actually] give rise to [the disease].”\nThis is good news. I mean, the larger the role these non-genetic factors play in causing autism, the more “modifiable [the] risk factors” may be, potentially “open[ing] up avenues for the primary prevention of…autism” in the first place.\nSince autism as a medical condition was first described, the prevalence of autism has apparently exploded from like “1 in 5000 individuals to 1 in 68…” now—more than 1% of the population. That would be like a 7,000% increase. And, indeed, you’ll see graphs like this: showing an exponential increase in the prevalence of autism, from like no diagnosed cases in the early 1900s, to the prevalence shooting through the roof in the 80s and 90s.\nAnd so, that immediately gets you thinking: what happened around that time that could account for the explosion? But, wait a second. Of course, there were no diagnosed cases in the early 1900s; it didn’t even have a name until 1943. As Kanner said in the original paper, there’s probably more cases out there, but they just hadn’t been looking. So, this isn’t a graph of the prevalence of autism; it’s a graph of the prevalence of autism diagnoses, and that depends on what diagnostic criteria you’re using, and whether you’re out there looking for it or not.\n“Put another way, historical prevalence estimates for autism…[and its rarity] might well have been underestimates of the true prevalence” back then; may have just been missing lots of cases. The “[i]ncreased recognition among doctors” and society at large, the “broadening of the diagnostic concept over time” and different studies using different criteria may account for [much] of the apparent increase in prevalence, although this [can’t] be quantified.” So, before we start speculating about the reason for the explosive increase, maybe we should first make sure the explosion is real. The bottom line is that, while we may never really know what the prevalence was a half century ago, we do have decent data over the last few decades that really does point to a considerable increase in the true prevalence.\nSo yeah, maybe there wasn’t actually a “22…-fold increase” in autism in the 80s and 90s; maybe there was actually only an “8…-fold increase.” So yeah, we may quibble whether the increase was 800%, or closer to 2,000%, but the bottom line seems to be autism rates are really increasing. And so, the question legitimately then turns to why—which we’ll explore, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Barbaresi WJ, Colligan RC, Weaver AL, Katusic SK. The incidence of clinically diagnosed versus research-identified autism in Olmsted County, Minnesota, 1976-1997: results from a retrospective, population-based study. J Autism Dev Disord. 2009;39(3):464-70.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18791815"
+    },
+    {
+      "Title": "Berding K, Donovan SM. Microbiome and nutrition in autism spectrum disorder: current knowledge and research needs. Nutr Rev. 2016;74(12):723-736.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27864534"
+    },
+    {
+      "Title": "Buie T. Potential Etiologic Factors of Microbiome Disruption in Autism. Clin Ther. 2015;37(5):976-83.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26046240"
+    },
+    {
+      "Title": "Charman T. The prevalence of autism spectrum disorders. Recent evidence and future challenges. Eur Child Adolesc Psychiatry. 2002;11(6):249-56.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12541002"
+    },
+    {
+      "Title": "Desoto MC, Hitlan RT. Sorting out the spinning of autism: heavy metals and the question of incidence. Acta Neurobiol Exp (Wars). 2010;70(2):165-76.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20628440"
+    },
+    {
+      "Title": "Kalkbrenner AE, Schmidt RJ, Penlesky AC. Environmental chemical exposures and autism spectrum disorders: a review of the epidemiological evidence. Curr Probl Pediatr Adolesc Health Care. 2014;44(10):277-318.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25199954"
+    },
+    {
+      "Title": "Kanner L. Autistic disturbances of affective contact. Acta Paedopsychiatr. 1968;35(4):100-36.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4880460"
+    },
+    {
+      "Title": "Park HR, Lee JM, Moon HE, et al. A Short Review on the Current Understanding of Autism Spectrum Disorders. Exp Neurobiol. 2016;25(1):1-13.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26924928"
+    },
+    {
+      "Title": "Slattery J, Macfabe DF, Kahler SG, Frye RE. Enteric Ecosystem Disruption in Autism Spectrum Disorder: Can the Microbiota and Macrobiota be Restored?. Curr Pharm Des. 2016;22(40):6107-6121.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27592717"
+    },
+    {
+      "Title": "Van elst K, Bruining H, Birtoli B, Terreaux C, Buitelaar JK, Kas MJ. Food for thought: dietary changes in essential fatty acid ratios and the increase in autism spectrum disorders. Neurosci Biobehav Rev. 2014;45:369-78.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25025657"
+    }
+  ],
+  "Acknowledgements": "Image credit: Michał Parzuchowski via Unsplash. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "autism",
+      "Url": "https://nutritionfacts.org/topics/autism/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is an important concept. When we talk about the prevalence or incidence of disease, we are talking about the prevalence or incidence of diagnosis. So, if criteria change or if we just look harder, artefactual changes can be created in disease rates.</p>\n<p>Stay tuned for my video <a href=\"https://nutritionfacts.org/video/the-role-of-pesticides-and-pollution-in-autism/\">The Role of Pesticides and Pollution in Autism</a>. And, if you missed any of my older videos on preventing and treating ASD with diet—and are interested in preventing and treating autism, that is, and I completely respect that not everyone is!—see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/fever-benefits-for-autism-in-a-food/\">Fever Benefits for Autism in a Food</a></li>\n<li><a href=\"https://nutritionfacts.org/video/fighting-autism-brain-inflammation-with-food/\">Fighting Autism Brain Inflammation with Food</a></li>\n<li><a href=\"https://nutritionfacts.org/video/best-foods-for-autism/\">Best Foods for Autism</a></li>\n<li><a href=\"https://nutritionfacts.org/video/autism-and-casein-from-cows-milk/\">Autism and Casein from Cow’s Milk</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-a2-milk-carry-less-autism-risk/\">Does A2 Milk Carry Less Autism Risk?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/gluten-free-casein-free-diets-for-autism-put-to-the-test/\">Gluten-Free, Casein-Free Diets for Autism Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-autism-diet-benefits-just-a-placebo-effect/\">Are Autism Diet Benefits Just a Placebo Effect?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/double-blind-clinical-trial-of-diet-for-autism/\">Double-Blind Clinical Trial of Diet for Autism</a></li>\n<li><a href=\"https://nutritionfacts.org/video/pros-and-cons-of-gluten-free-casein-free-diets-for-autism/\">Pros and Cons of Gluten-Free, Casein-Free Diets for Autism</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-the-gut-microbiome-in-autism/\">The Role of the Gut Microbiome in Autism</a></li>\n</ul>\n<p>I have videos on autism coming out pretty regularly. Find all of the latest <a href=\"https://nutritionfacts.org/topics/autism/\">here</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

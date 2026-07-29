@@ -1,0 +1,139 @@
+{
+  "Title": "When Nitrites Go Bad",
+  "Url": "https://nutritionfacts.org/video/when-nitrites-go-bad/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/_3081X9q0VE"
+  },
+  "UpdatedAt": "2012-02-24T13:00:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 7",
+    "Url": "https://nutritionfacts.org/volumes/volume-7/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Nitrites in processed meat form nitrosamines, a class of potent carcinogens found in cigarette smoke, which may explain why hot dog consumption has been associated with the two leading pediatric cancers, brain tumors and childhood leukemia.",
+  "Transcript": "Our story begins on a Norwegian fur farm in 1957. Mink were dropping dead left and right from a malignant new liver disease. The clue came when livestock starting dying from liver cancer as well. What tied all the cases together was the use of fish meal in their diets—fish meal that the country had just started preserving with sodium nitrite.\nSubsequent research discovered nitrite, under certain circumstances, can form nitrosamines, which directly attack DNA, and are universally condemned as one of the key carcinogens in cigarette smoke. The occurrence in food was raised as a matter of gravest concern nearly a half century ago. Now, we know the nitrites added to processed meats can form these carcinogenic nitrosamines—now recognized as among the most potent chemical carcinogens.\nFor example, pregnant women who eat hot dogs risk having children with brain tumors—the #2 pediatric cancers. Then, children, who eat lots of hot dogs, have nearly ten times the odds of developing childhood leukemia—the #1 pediatric cancer.\nLast year, in Meat Science, an article about the role of ham in a healthy diet breathed a sigh of relief: “[A]spects relating to health and wellbeing are increasingly important factors in consumer decisions, although the great palatability of ham largely outweighs such considerations.”\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by MaryAnn Allison.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Huncharek M, Kupelnick B. A meta-analysis of maternal cured meat consumption during pregnancy and the risk of childhood brain tumors. Neuroepidemiology. 2004 Jan-Apr;23(1-2):78-84.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/14739572"
+    },
+    {
+      "Title": "Jiménez-Colmenero F, Ventanas J, Toldrá F.  Nutritional composition of dry-cured ham and its role in a healthy diet. Meat Sci. 2010 Apr;84(4):585-93. Epub 2009 Nov 1.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20374828"
+    },
+    {
+      "Title": "Koppang N. A survey of feeding N-nitrosodimethylamine (NDMA) to domestic animals over an 18 year period. IARC Sci Publ. 1980;(31):779-85.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/7228298"
+    },
+    {
+      "Title": "Nitrites, nitrosamines, and cancer. Lancet. 1968 May 18;1(7551):1071-2.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/4171749"
+    },
+    {
+      "Title": "Pegg RB; Shahidi F. Nitrite curing of meat : the N-nitrosamine problem and nitrite alternatives. Trumbull, Conn. : Food & Nutrition Press, 2000.",
+      "Url": "http://www.worldcat.org/title/nitrite-curing-of-meat-the-n-nitrosamine-problem-and-nitrite-alternatives/oclc/45567004"
+    },
+    {
+      "Title": "Sakshaug J, Sögnen E, Hansen MA, Koppang N. Dimethylnitrosamine; its hepatotoxic effect in sheep and its occurrence in toxic batches of herring meal. Nature. 1965 Jun 19;206(990):1261-2.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/5893847"
+    },
+    {
+      "Title": "Vogtmann H, Biedermann R. The nitrate story--no end in sight. Nutr Health. 1985;3(4):217-39.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/3906453"
+    },
+    {
+      "Title": "de la Monte SM, Neusner A, Chu J, Lawton M. Epidemilogical trends strongly suggest exposures as etiologic agents in the pathogenesis of sporadic Alzheimer's disease, diabetes mellitus, and non-alcoholic steatohepatitis. J Alzheimers Dis. 2009;17(3):519-29.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19363256"
+    }
+  ],
+  "Acknowledgements": "Images thanks to the CancerProject.org and Ben Grey via Flickr",
+  "Topics": [
+    {
+      "Title": "brain tumors",
+      "Url": "https://nutritionfacts.org/topics/brain-tumors/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "food additives",
+      "Url": "https://nutritionfacts.org/topics/food-additives/"
+    },
+    {
+      "Title": "ham",
+      "Url": "https://nutritionfacts.org/topics/ham/"
+    },
+    {
+      "Title": "hot dogs",
+      "Url": "https://nutritionfacts.org/topics/hot-dogs/"
+    },
+    {
+      "Title": "infants",
+      "Url": "https://nutritionfacts.org/topics/infants/"
+    },
+    {
+      "Title": "leukemia",
+      "Url": "https://nutritionfacts.org/topics/leukemia/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "nitrite",
+      "Url": "https://nutritionfacts.org/topics/nitrite/"
+    },
+    {
+      "Title": "nitrosamines",
+      "Url": "https://nutritionfacts.org/topics/nitrosamines/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "preservatives",
+      "Url": "https://nutritionfacts.org/topics/preservatives/"
+    },
+    {
+      "Title": "processed meat",
+      "Url": "https://nutritionfacts.org/topics/processed-meat/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>So might not the nitrites produced in our mouths, when we eat vegetables, form carcinogens too? (See <a href=\"https://nutritionfacts.org/video/priming-the-proton-pump/\" rel=\"nofollow\">Priming the Proton Pump</a> for an overview of the nitrate-to-nitrite process.) Don’t worry, we’re getting to that. In the meantime, what is really in hot dogs anyway? Glad you asked—see my video <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=438\" rel=\"nofollow\">What Is Really In Hot Dogs?</a>. For more on preventing brain tumors in children, see <a href=\"https://nutritionfacts.org/video/veggies-vs-cancer/\" rel=\"nofollow\">Veggies vs. Cancer</a>.</p>\n<p>For further context, check out my associated blog posts: <a href=\"//nutritionfacts.org/blog/2012/03/22/using-greens-to-improve-athletic-performance/\" rel=\"nofollow\"> Using Greens to Improve Athletic Performance</a>; <a href=\"https://nutritionfacts.org/blog/treating-copd-with-diet/\" rel=\"nofollow\">Treating COPD With Diet</a>; <a href=\"https://nutritionfacts.org/blog/eating-green-to-prevent-cancer/\">Eating Green to Prevent Cancer</a>; <a href=\"https://nutritionfacts.org/2013/03/14/how-chemically-contaminated-are-we/\">How Chemically Contaminated Are We?</a>; <a href=\"https://nutritionfacts.org/2013/05/14/how-tumors-use-meat-to-grow/\">How Tumors Use Meat to Grow</a>; <a href=\"https://nutritionfacts.org/2013/07/04/avoiding-cooked-meat-carcinogens/\">Avoiding Cooked Meat Carcinogens</a>; and  <a href=\"https://nutritionfacts.org/2013/08/13/is-titanium-dioxide-in-food-harmful/\">Should We Avoid Titanium Dioxide?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

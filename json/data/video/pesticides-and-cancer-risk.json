@@ -1,0 +1,163 @@
+{
+  "Title": "Pesticides and Cancer Risk",
+  "Url": "https://nutritionfacts.org/video/pesticides-and-cancer-risk/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/f2kcwVaFbsg"
+  },
+  "UpdatedAt": "2022-01-12T12:50:35+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 56",
+    "Url": "https://nutritionfacts.org/volumes/volume-56/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Does choosing organic over conventional foods protect against cancer? The effects of pesticides on cancer risk.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn a review updating the evidence on human exposure and toxicity of pesticides, the body of evidence linking pesticide exposure and cancer is said to be so huge that the role of pesticides in cancer development can no longer be doubted. But most of the evidence that shows DNA damage from pesticides is from occupational exposure among farmers and workers in the fields, the pesticides industry itself, or those living in high-spray areas. There is evidence linking non-occupational exposure to pesticides to DNA damage—in this case single- and double-stranded DNA fragmentation in sperm of men with higher levels of pesticides flowing through their bodies. But that was in China, where the average pesticide concentrations are as much as four times higher than in some other parts of the world.\nAnother way pesticides could potentially facilitate tumor growth is through adverse eﬀects on anticancer immunity. NK cells––natural killer cells––are our body’s first line of white blood cell defense against cancer cells and virus-infected cells. And pesticides have been shown to induce harmful eﬀects on these defender cells, reducing their ability to kill off tumor cells. For example, if you put a bunch of natural killer cells in a petri dish along with human leukemia cells without any pesticide, your natural killer cells can clean house, and wipe out more than half of the cancer. But if you drip a tiny bit of pesticide on them, your NK cells are so disabled that the cancer wins the day. Okay, but how much pesticide are we talking? The researchers used the maximum level found in those actively spraying pesticides. Most of us, however, are privileged enough not to be forced into such a job. So, what about looking at just the residual pesticides left on conventional produce? Is choosing organic for cancer prevention worth the investment?\n“In the United States, more than 90 percent of the population has detectable pesticides in their urine and blood,” regardless of where they work or live. And we know it’s from the food we eat, because crossover trials where people are switched between consuming conventionally grown and organic foods show you can turn on and off urinary concentrations of pesticide metabolites like a light switch. But that doesn’t necessarily mean the pesticides are harming you. The health consequences of consuming pesticide residues from conventionally-grown foods remain unknown. But a recent study did find that those who self-reported the highest frequency of organic food consumption had about a 25 percent lower risk of getting cancer.\nAnd here it is: the first of its kind to evaluate the association between frequency of organic food consumption and cancer risk, controlling for a wide array of other factors. Doesn’t it matter that organic consumers are younger? The researchers controlled for that, and still found significantly lower cancer risk. Okay, but maybe organic consumers get less cancer because they’re more affluent, or more highly educated, or are skinnier, or exercise more, or eat less meat, or smoke less. Nope, they controlled for all that, and still found significantly lower cancer risk in organic consumers. Maybe their diets were different in other ways, though—more fruits and vegetables overall, or less junk food. Nope, they still found significantly lower cancer risk. They concluded: “Our results indicate that higher organic food consumption is [indeed] associated with a reduction in the risk of overall cancer.”\nThis is the most sophisticated study of its type to date, but there was an earlier study that was even bigger. And little evidence was found for a decrease in the incidence of all cancers except for perhaps one kind of blood cancer—non-Hodgkin lymphoma. Here are the data. No difference in cancer overall between those who never choose organic and those who usually or always do, with the only significant findings were a lower risk of non-Hodgkin lymphoma and an increased risk of breast cancer. Is it possible that women who choose organic food are more conscientious about getting screened for breast cancer, and that explains the higher diagnosis rate? We really don’t know.\nOf course, what we care about the most is not just cancer, but so-called all-cause mortality, the risk of dying prematurely, period. And higher blood levels of a pesticide known as beta-hexachlorocyclohexane are associated with living a significantly shorter life.\nHow do we cut down on our levels? Well, there was a study done way back when that found that the breast milk of a vegetarian mother was found to have less beta-hexachlorocyclohexane than the milk of her sister, who was also breastfeeding at the time, but included meat in her diet. The vegetarian sister apparently had levels of that pesticide that were lower by about a third, compared with her omnivorous sibling. No surprise, since this class of chlorinated pesticides are fat-soluble, and so they’re found most frequently in foods of animal origin.\nA more recent study failed to look at beta-hexachlorocyclohexane, but they did find that chlorinated PCBs were associated with increased mortality risk. And again, the toxins were found in the same kinds of foods: dairy products, eggs, and animal fats. So, no surprise, the blood of those eating vegan was found to be signiﬁcantly less polluted than omnivores, regarding a whole series of PCBs––including those found in the study to be associated with increased mortality. But the vegans did not have lower levels of β-hexachlorocyclohexane.\nThe bottom line is that if you’re worried about the adverse health effects of pesticides and pesticide-type compounds, you may want to lower your intake of animal products. But when it comes to fruits and vegetables, the benefits of consuming conventionally grown produce are likely to outweigh any possible risks from pesticide exposure. And so, concerns over pesticide risks should not discourage us from stuffing our faces with as many fruits and vegetables as possible. That would give us a huge health benefit, whereas the potential lifelong damage of any pesticides on those same fruits and veggies has been estimated to only cut a few minutes off a person’s life, on average, which is nothing compared to the nutritional beneﬁts of eating more fruits and vegetables.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Arguin H, Sánchez M, Bray GA, et al. Impact of adopting a vegan diet or an olestra supplementation on plasma organochlorine concentrations: results from two pilot studies. Br J Nutr. 2010;103(10):1433-41.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20030906/"
+    },
+    {
+      "Title": "Baudry J, Assmann KE, Touvier M, et al. Association of frequency of organic food consumption with cancer risk: findings from the nutrinet-santé prospective cohort study. JAMA Intern Med. 2018;178(12):1597-606.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30422212/"
+    },
+    {
+      "Title": "Bradbury KE, Balkwill A, Spencer EA, et al. Organic food consumption and the incidence of cancer in a large prospective study of women in the United Kingdom. Br J Cancer. 2014;110(9):2321-6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24675385/"
+    },
+    {
+      "Title": "Fry K, Power MC. Persistent organic pollutants and mortality in the United States, NHANES 1999-2011. Environ Health. 2017;16(1):105.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29017533/"
+    },
+    {
+      "Title": "Hemler EC, Chavarro JE, Hu FB. Organic foods for cancer prevention-worth the investment? JAMA Intern Med. 2018;178(12):1606-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30422205/"
+    },
+    {
+      "Title": "Ji G, Xia Y, Gu A, et al. Effects of non-occupational environmental exposure to pyrethroids on semen quality and sperm DNA integrity in Chinese men. Reprod Toxicol. 2011;31(2):171-6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20955780/"
+    },
+    {
+      "Title": "Juraske R, Mutel CL, Stoessel F, Hellweg S. Life cycle human toxicity assessment of pesticides: comparing fruit and vegetable diets in Switzerland and the United States. Chemosphere. 2009;77(7):939-45.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19729188/"
+    },
+    {
+      "Title": "Kapeleka JA, Sauli E, Ndakidemi PA. Pesticide exposure and genotoxic effects as measured by DNA damage and human monitoring biomarkers. Int J Environ Health Res. Published online November 18, 2019:1-18.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31736325/"
+    },
+    {
+      "Title": "Lee G-H, Choi K-C. Adverse effects of pesticides on the functions of immune system. Comp Biochem Physiol C Toxicol Pharmacol. 2020;235:108789.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32376494"
+    },
+    {
+      "Title": "Lind PM, Salihovic S, Stubleski J, Kärrman A, Lind L. Association of exposure to persistent organic pollutants with mortality risk: an analysis of data from the prospective investigation of vasculature in uppsala seniors (Pivus) study. JAMA Netw Open. 2019;2(4):e193070.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31026035/"
+    },
+    {
+      "Title": "Mostafalou S, Abdollahi M. Pesticides: an update of human exposure and toxicity. Arch Toxicol. 2017;91(2):549-99.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27722929/"
+    },
+    {
+      "Title": "Norén K. Levels of organochlorine contaminants in human milk in relation to the dietary habits of the mothers. Acta Paediatr Scand. 1983;72(6):811-6.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/6424401/"
+    },
+    {
+      "Title": "Rowe AM, Brundage KM, Barnett JB. In vitro atrazine-exposure inhibits human natural killer cell lytic granule release. Toxicol Appl Pharmacol. 2007;221(2):179-88.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17475299/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "China",
+      "Url": "https://nutritionfacts.org/topics/china/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "lymphoma",
+      "Url": "https://nutritionfacts.org/topics/lymphoma/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "non-Hodgkin lymphoma",
+      "Url": "https://nutritionfacts.org/topics/non-hodgkin-lymphoma/"
+    },
+    {
+      "Title": "organic foods",
+      "Url": "https://nutritionfacts.org/topics/organic-foods/"
+    },
+    {
+      "Title": "PCBs",
+      "Url": "https://nutritionfacts.org/topics/pcbs/"
+    },
+    {
+      "Title": "pesticides",
+      "Url": "https://nutritionfacts.org/topics/pesticides/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more on organic foods, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/are-organic-foods-more-nutritious/\">Are Organic Foods More Nutritious?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-organic-foods-safer/\">Are Organic Foods Safer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-organic-foods-healthier/\">Are Organic Foods Healthier?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-the-benefits-of-organic-food-underrated-or-overrated/\">Are the Benefits of Organic Food Underrated or Overrated?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-monsantos-roundup-pesticide-glyphosate-safe/\">Is the Pesticide Glyphosate in Monsanto’s Roundup Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-organic-meat-less-carcinogenic/\">Is Organic Meat Less Carcinogenic?</a></li>\n</ul>\n<p data-pm-slice=\"1 1 []\">What about <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/pesticide-exposure-and-hypospadias-birth-defects-in-vegetarians/\">Pesticide Exposure and Hypospadias Birth Defects in Vegetarians</a>? Check out the video.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

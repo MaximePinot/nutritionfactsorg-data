@@ -1,0 +1,107 @@
+{
+  "Title": "The True Benefits vs. Side Effects of Statins",
+  "Url": "https://nutritionfacts.org/video/the-true-benefits-vs-side-effects-of-statins/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Ujl3p1wOQ-U"
+  },
+  "UpdatedAt": "2021-08-25T11:50:31+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 54",
+    "Url": "https://nutritionfacts.org/volumes/volume-54/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A Mayo Clinic visualization tool can help you decide if cholesterol-lowering statin drugs are right for you.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“Physicians have a duty to inform their patients about the risks and benefits of [whatever they prescribe]. However, physicians rarely communicate [the absolute risk numbers], such as numbers needed to treat”—in other words, how many people are actually helped by the drug; “numbers needed to harm”—in other words. how many people are actually hurt by the drug; “or prolongation of life”—how much longer will it enable to you to live—“despite patients wanting all this information.”\nIf doctors inform patients only about the relative risk reduction, for example telling patients a pill with cut their risk of heart attacks by 34 percent, 9 out of 10 agree to take it. Give them the same information framed as absolute risk reduction, though, “1.4 percent fewer patients had heart attacks,” and those agreeing to take the drug drops to only 4 out of 10. And use the number needed to treat, and only 3 in 10 patients would agree to take it. So, if you’re a doctor, and you really want the patient to take the drug, which statistic are you going to use?\nThe use of relative risk stats to inflate the benefits and absolute risk stats to downplay any side effects has been referred to as “statistical deception.” To see how one might spin a study to accomplish this, let’s look at an example. Here’s the incidence of heart attack over five years in those randomized to a placebo, compared to those getting the drug—a significantly lower risk. If you wanted statins to sound good, you’d use the relative risk reduction: 24 percent lower risk. If you wanted statins to sound bad, you’d use the absolute risk reduction, and just say 3 percent fewer heart attacks.\nThen you could flip it around for the side effects. For example, they found that 0.3 percent, 1 out of the 290 women in the placebo group, got breast cancer over those five years, compared to 4.1 percent, 12 out of 286, in the statin group. So, a pro-statin spin on this study would be like a 24 percent drop in heart attack risk, and only 3.8 percent more breast cancers, whereas an anti-statin spin could be like only 3 percent fewer heart attacks compared to a 1,267 percent higher risk of breast cancer. Both portrayals are technically true, but you can see how easily you could manipulate people if you picked and chose how you were presenting the risks and benefits. So ideally, you’d use both: the relative risk reduction and absolute risk reduction stats.\nIn terms of benefits, when you compile a bunch of statin trials together, it looks like the relative risk reduction is 25 percent. So, if your 10-year risk of a heart attack or stroke is 5 percent, then taking a statin could take that down from 5 percent to 3.75 percent, for an absolute risk reduction of 1.25 percent, or a number needed to treat of 80, meaning there’s like a 1 in 80 chance that you’d avoid a heart attack or stroke taking the drug over the next 10 years. As you can see, as your baseline risk gets higher and higher, even though you have that same 25 percent risk reduction, your absolute risk reduction gets bigger and bigger. And by 20 percent baseline risk, you have a 1 in 20 chance of avoiding a heart attack or stroke over the subsequent decade if you take the drug.\nSo those are the benefits. In terms of risk, that breast cancer finding appeared to be a fluke. Put all the studies together, and there was no association between use of statins and risk of cancer. In terms of muscle problems, estimates range from just 1 in 1,000 to closer to 1 in 50.\nIf all those numbers are just blurring together, the Mayo Clinic developed a great visualization tool. For those at average risk, considering a statin over the next 10 years, of 100 people doing nothing, 10 may have a heart attack. If all 100 took a statin every day for those 10 years though, eight would still have a heart attack, but two will have been spared, so there’s like a 1 in 50 chance taking the drug would help you avert a heart attack over the next decade.\nWhat are the downsides? The cost and inconvenience of taking a pill every day, which can cause some gastrointestinal side effects, muscle aching and stiffness in maybe 5 percent, reversible liver inflammation in 2 percent, and more serious damage in perhaps 1 in 20,000 patients.\nNow note these two happy faces represent heart attacks averted, not lives saved. The chance a few years of statins will actually save your life if you have no known heart disease is about 1 in 250.\nIf you want a more personalized approach, the Mayo Clinic has an interactive tool that also lets you calculate your 10-year risk. You can get there directly by going to bit.ly/statindecision.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Barrett B, Ricco J, Wallace M, Kiefer D, Rakel D. Communicating statin evidence to support shared decision-making. BMC Fam Pract. 2016;17:41.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27048421/"
+    },
+    {
+      "Title": "Chou R, Dana T, Blazina I, Daeges M, Jeanne TL. Statins for Prevention of Cardiovascular Disease in Adults: Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2016;316(19):2008-24.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27838722/"
+    },
+    {
+      "Title": "Diamond DM, Ravnskov U. Additional commentary on deception in statin research. Expert Rev Clin Pharmacol. 2017;10(12):1411-2.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26496064/"
+    },
+    {
+      "Title": "Diamond DM, Ravnskov U. How statistical deception created the appearance that statins are safe and effective in primary and secondary prevention of cardiovascular disease. Expert Rev Clin Pharmacol. 2015;8(2):201-10.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25672965/"
+    },
+    {
+      "Title": "Diprose W, Verster F. The Preventive-Pill Paradox: How Shared Decision Making Could Increase Cardiovascular Morbidity and Mortality. Circulation. 2016;134(21):1599-600.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27881503/"
+    },
+    {
+      "Title": "Hux JE, Naylor CD. Communicating the benefits of chronic preventive therapy: does the format of efficacy data determine patients' acceptance of treatment? Med Decis Making. 1995;15(2):152-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7783576/"
+    },
+    {
+      "Title": "Kim MK, Myung SK, Tran BT, Park B. Statins and risk of cancer: A meta-analysis of randomized, double-blind, placebo-controlled trials. Indian J Cancer. 2017;54(2):470-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29469081/"
+    },
+    {
+      "Title": "Sacks FM, Pfeffer MA, Moye LA, et al. The effect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels. Cholesterol and Recurrent Events Trial investigators. N Engl J Med. 1996;335(14):1001-9.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8801446/"
+    },
+    {
+      "Title": "Should I take statins? A decision making tool. Mayo Foundation for Education and Research. 2010.",
+      "Url": "https://statindecisionaid.mayoclinic.org/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "statins",
+      "Url": "https://nutritionfacts.org/topics/statins/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the third video in a four-part series on statins. Missed the first two installments? See <a href=\"https://nutritionfacts.org/video/who-should-take-statins/\">Who Should Take Statins?</a> and <a href=\"https://nutritionfacts.org/video/are-doctors-misleading-patients-about-statin-risks-and-benefits/\">Are Doctors Misleading Patients About Statin Risks and Benefits?</a>.</p>\n<p><a href=\"https://nutritionfacts.org/video/how-much-longer-do-you-live-on-statins/\">How Much Longer Do You Live on Statins?</a> That’s coming up next and rounding out the series.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "Title": "COVID-19 Symptoms vs. the Flu, a Cold, or Allergies",
+  "Url": "https://nutritionfacts.org/video/covid-19-symptoms-vs-the-flu-a-cold-or-allergies/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/nE16SMsoXSE"
+  },
+  "UpdatedAt": "2020-06-22T11:50:59+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 50Cov",
+    "Url": "https://nutritionfacts.org/volumes/volume-50cov/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What does the clinical course of COVID-19 look like for both those who survive and those who don’t?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhat does the clinical course of COVID-19 look like? It tends to start with fever and cough, but before then, the average incubation period—the time between the moment you get sufficiently exposed to the virus and the moment you start showing symptoms—seems to be about five days. So, almost a week goes by when you’re infected—and potentially infectious—before you even know it. About 98 percent of those who are going to start showing symptoms do so by day 12, which explains why people are typically asked to self-quarantine for two weeks after a potential exposure. After infection, apparent viral shedding may continue for more than a month (with an average of 20 days), though it’s not clear how contagious survivors are—if at all—during that extended time period.\nThe most common symptoms are fever and cough, experienced by about 90 percent and 70 percent of patients, respectively, based on an analysis of more than fifty thousand COVID-19 patients. In terms of less common symptoms, only about four in ten experience fatigue; three in ten cough up phlegm; and two in ten experience muscle aches. Only about one in ten suffer from gastrointestinal symptoms, such as nausea, vomiting, or diarrhea, or common cold-type symptoms, like a runny or stuffy nose, headache, or a sore throat. This is consistent with the regional concentration of ACE2—the receptors the virus latches onto—in the lungs, rather than the nose or throat (though in pangolins, ACE2 is found on their flicking anteater tongues).\nHere’s a chart that can help you differentiate between COVID-19, the common cold, the flu, or seasonal allergies. The only COVID-19 symptom found predictive of a more severe course was difficulty breathing, which resulted in more than six times the odds of eventually having to be admitted into the ICU. That’s why that’s such an important symptom to catch early, and a red flag to immediately seek medical attention. If it’s going to strike, shortness of breath usually hits a week after symptoms begin.\nThe notion that the course of about 80 percent of cases are “mild” was derived from an analysis by the Chinese CDC that was based on nearly 45,000 confirmed cases. While there are certainly mild and even asymptomatic cases, it’s important to understand what “mild” means to the Chinese CDC. Its definition of mild included those with so-called “walking pneumonia,” meaning pneumonia not dire enough to require supplemental oxygen or hospitalization, but pneumonia nonetheless—certainly not the “common cold”-type courses people might think of when they hear the word mild—though the cases were at least mild enough that people should be able to treat themselves at home.\nThe remaining 20 or so percent of confirmed cases were classified as severe (about 15 percent), which involved difficulty getting enough oxygen, or critical (5 percent), encompassing respiratory failure, septic shock, and multisystem organ failure. About half of those critical cases died. So, about 80 percent mild, 15 percent severe, and 5 percent critical––though that doesn’t include all the asymptomatic cases that escaped detection completely, and never became confirmed cases at all.\nBecause as many as four-fifths of cases are asymptomatic, the risk of dying after being infected may end up ranging from 1 in 1,000 to about 1 in 300, though if you do show symptoms, the risk of death may be more like 1 in 150.\nOn autopsy, the respiratory surface of the lung under a microscope appears obliterated by scar tissue. Pulmonary fibrosis (lung scarring) is expected to become one of the long-term complications among survivors of serious COVID-19 infection. A six-month follow-up of SARS survivors found about one in three showed evidence of scarring on chest x-ray, and up to one in six suffered a significant impairment in lung function.\nDeath from COVID-19 comes from progressive “consolidation” of the lung, meaning your lungs start filling up with something other than air. In the case of regular pneumonia, that’s largely pus. In COVID-19 pneumonia, postmortems show you drown in lungs that are “filled with clear liquid jelly.”\nBut the good news is that there are modifiable risk factors for death and disability from COVID-19, meaning things you have control over that can reduce your risk, which we’ll explore next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Carbone M, Green JB, Bucci EM, Lednicky JA. Coronaviruses: Facts, Myths, and Hypotheses. J Thorac Oncol. 2020;15(5):675-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32151778"
+    },
+    {
+      "Title": "Coronavirus (COVID-19): What People With Asthma Need to Know. Asthma and Allergy Foundation of America. April 29, 2020.",
+      "Url": "https://aafa.org/covid19"
+    },
+    {
+      "Title": "Day M. Covid-19: four fifths of cases are asymptomatic, China figures indicate. BMJ. 2020;369:m1375.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32241884"
+    },
+    {
+      "Title": "Fang Z, Yi F, Wu K, Lai K, Sun X, Zhong N, Liu Z. Clinical characteristics of coronavirus pneumonia 2019 (COVID-19): an updated systematic review. medRxiv.org. March 12, 2020.",
+      "Url": "https://www.medrxiv.org/content/10.1101/2020.03.07.20032573v2"
+    },
+    {
+      "Title": "Hui DS, Joynt GM, Wong KT, et al. Impact of severe acute respiratory syndrome (SARS) on pulmonary function, functional capacity and quality of life in a cohort of survivors. Thorax. 2005;60(5):401-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15860716"
+    },
+    {
+      "Title": "Jain V, Yuan J-M. Systematic review and meta-analysis of predictive symptoms and comorbidities for severe COVID-19 infection. medRxiv.org. March 16, 2020.",
+      "Url": "https://www.medrxiv.org/content/10.1101/2020.03.15.20035360v1.full.pdf"
+    },
+    {
+      "Title": "Lauer SA, Grantz KH, Bi Q, et al. The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Ann Intern Med. 2020;172(9):577-82",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32150748"
+    },
+    {
+      "Title": "Marty AM, Jones MK. The novel Coronavirus (SARS-CoV-2) is a one health issue. One Health. 2020;9:100123.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32140538"
+    },
+    {
+      "Title": "Oke J, Heneghan C. Global Covid-19 Case Fatality Rates. The Centre for Evidence-Based Medicine. March 17, 2020.",
+      "Url": "https://www.cebm.net/covid-19/global-covid-19-case-fatality-rates/"
+    },
+    {
+      "Title": "Public Health Recommendations for Community-Related Exposure. Centers for Disease Control and Prevention.",
+      "Url": "https://web.archive.org/web/20200622093249/https://www.cdc.gov/coronavirus/2019-ncov/php/public-health-recommendations.html"
+    },
+    {
+      "Title": "Shi Y, Wang Y, Shao C, Huang J, Gan J, Huang X, Bucci E, Piacentini M, Ippolito G, Melino G. COVID-19 infection: the perspectives on immune responses. Cell Death Differ. 2020;27(5):1451-4.",
+      "Url": "https://www.nature.com/articles/s41418-020-0530-3"
+    },
+    {
+      "Title": "Sivakorn C, Luvira V, Muangnoicharoen S, et al. Case Report: Walking Pneumonia in Novel Coronavirus Disease (COVID-19): Mild Symptoms with Marked Abnormalities on Chest Imaging. Am J Trop Med Hyg. 2020;102(5):940-2.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32238223"
+    },
+    {
+      "Title": "Sun K, Gu L, Ma L, Duan Y. Atlas of ACE2 gene expression in mammals reveals novel insights in transmisson of SARS-Cov-2. bioRxiv.org. March 31, 2020.",
+      "Url": "https://www.biorxiv.org/content/10.1101/2020.03.30.015644v1"
+    },
+    {
+      "Title": "Sun P, Qie S, Liu Z, Ren J, Li K, Xi J. Clinical characteristics of hospitalized patients with SARS-CoV-2 infection: A single arm meta-analysis. J Med Virol. 2020;92:612-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32108351"
+    },
+    {
+      "Title": "Symptoms of Coronavirus. Centers for Disease Control and Prevention.",
+      "Url": "https://cdc.gov/covid19-symptoms"
+    },
+    {
+      "Title": "Tan L, Kang X, Zhang B, Zheng S, Liu B, Yu T, Yang F, Wang Q, Miao H. A special case of COVID-19 with long duration of viral shedding for 49 days. medRxiv.org. March 27, 2020.",
+      "Url": "https://www.medrxiv.org/content/10.1101/2020.03.22.20040071v1"
+    },
+    {
+      "Title": "The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. China CDC Weekly. 2020;2(8):113-22.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32064853"
+    },
+    {
+      "Title": "Xu K, Chen Y, Yuan J, et al. Factors associated with prolonged viral RNA shedding in patients with COVID-19. Clin Infect Dis. 2020.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32271376"
+    },
+    {
+      "Title": "Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020;395(10229):1054-62",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32171076"
+    },
+    {
+      "Title": "Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020;395(10229):1054-62.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32171076"
+    },
+    {
+      "Title": "Zou X, Chen K, Zou J, Han P, Hao J, Han Z. Single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to 2019-nCoV infection. Front Med. 2020:1-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32170560"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by AvoMedia\nImage credit: annaj via pixabay. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "China",
+      "Url": "https://nutritionfacts.org/topics/china/"
+    },
+    {
+      "Title": "common cold",
+      "Url": "https://nutritionfacts.org/topics/common-cold/"
+    },
+    {
+      "Title": "coronavirus",
+      "Url": "https://nutritionfacts.org/topics/coronavirus/"
+    },
+    {
+      "Title": "cough",
+      "Url": "https://nutritionfacts.org/topics/cough/"
+    },
+    {
+      "Title": "COVID-19",
+      "Url": "https://nutritionfacts.org/topics/covid-19/"
+    },
+    {
+      "Title": "diarrhea",
+      "Url": "https://nutritionfacts.org/topics/diarrhea/"
+    },
+    {
+      "Title": "fatigue",
+      "Url": "https://nutritionfacts.org/topics/fatigue/"
+    },
+    {
+      "Title": "fever",
+      "Url": "https://nutritionfacts.org/topics/fever/"
+    },
+    {
+      "Title": "headaches",
+      "Url": "https://nutritionfacts.org/topics/headaches/"
+    },
+    {
+      "Title": "lung health",
+      "Url": "https://nutritionfacts.org/topics/lung-health/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "nausea",
+      "Url": "https://nutritionfacts.org/topics/nausea/"
+    },
+    {
+      "Title": "pandemics",
+      "Url": "https://nutritionfacts.org/topics/pandemics/"
+    },
+    {
+      "Title": "pneumonia",
+      "Url": "https://nutritionfacts.org/topics/pneumonia/"
+    },
+    {
+      "Title": "respiratory infections",
+      "Url": "https://nutritionfacts.org/topics/respiratory-infections/"
+    },
+    {
+      "Title": "viral infections",
+      "Url": "https://nutritionfacts.org/topics/viral-infections/"
+    },
+    {
+      "Title": "zoonotic disease",
+      "Url": "https://nutritionfacts.org/topics/zoonotic-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the 7<sup>th</sup> in a 17-video series on pandemics and COVID-19. If you’ve already seen these videos as part of my two webinars, or already watched the <a href=\"https://drgreger.org/collections/downloads/products/how-to-survive-a-pandemic-digital\">digital download</a>, keep your eyes out on Fridays as we continue our Flashback Friday series, and explore the many topics we have here on <a href=\"https://nutritionfacts.org/topics/\">NutritionFacts.org</a>.</p>\n<p>Here are the first six:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/where-do-deadly-coronaviruses-like-mers-cov-come-from/\">Where Do Deadly Coronaviruses Like MERS-CoV Come From?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-sars-coronavirus-and-wet-markets/\">The SARS Coronavirus and Wet Markets</a></li>\n<li><a href=\"https://nutritionfacts.org/video/where-did-the-covid-19-coronavirus-come-from/\">Where Did the COVID-19 Coronavirus Come From?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-last-coronavirus-pandemic-may-have-been-caused-by-livestock/\">The Last Coronavirus Pandemic May Have Been Caused by Livestock</a></li>\n<li><a href=\"https://nutritionfacts.org/video/r0-and-incubation-periods-how-other-coronavirus-outbreaks-were-stopped/\">R0 and Incubation Periods: How Other Coronavirus Outbreaks Were Stopped</a></li>\n<li><a href=\"https://nutritionfacts.org/video/social-distancing-lockdowns-testing-how-to-slow-the-covid-19-pandemic/\">Social Distancing, Lockdowns &amp; Testing: How to Slow the COVID-19 Pandemic</a></li>\n</ul>\n<p>Stay tuned for:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/modifiable-risk-factors-and-comorbidities-for-severe-covid-19-infection/\">Modifiable Risk Factors and Comorbidities for Severe COVID-19 Infection</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-immune-system-and-covid-19-treatment/\">The Immune System and COVID-19 Treatment</a></li>\n<li><a href=\"https://nutritionfacts.org/video/would-zinc-lozenges-help-with-covid-19/\">Would Zinc Lozenges Help with COVID-19?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-avoid-covid-19/\">How to Avoid COVID-19</a></li>\n<li><a href=\"https://nutritionfacts.org/video/hand-washing-sanitizing-to-inactivate-covid-19-coronavirus/\">Hand Washing &amp; Sanitizing to Inactivate COVID-19 Coronavirus</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-to-do-if-you-come-down-with-covid-19/\">What to Do if You Come Down with COVID-19</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-mask-or-diy-face-covering-for-covid-19/\">The Best Mask or DIY Face Covering for COVID-19</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-covid-19-ends-vaccination-mutations-and-herd-immunity/\">How COVID-19 Ends: Vaccination, Mutations, and Herd Immunity</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-covid-19-pandemic-may-just-be-a-dress-rehearsal/\">The COVID-19 Pandemic May Just Be a Dress Rehearsal</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-prevent-the-next-pandemic/\">How to Prevent the Next Pandemic</a></li>\n</ul>\n<p>You can download the whole series (for free) right now <a href=\"https://drgreger.org/collections/downloads/products/how-to-survive-a-pandemic-digital\">here</a>, and take an even deeper dive in my new book, <a href=\"https://nutritionfacts.org/how-to-survive-a-pandemic/\">How to Survive a Pandemic</a> (note: all my proceeds from this book are donated to pandemic prevention charities).</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

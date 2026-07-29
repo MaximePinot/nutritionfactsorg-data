@@ -1,0 +1,147 @@
+{
+  "Title": "3-MCPD in Refined Cooking Oils",
+  "Url": "https://nutritionfacts.org/video/3-mcpd-in-refined-cooking-oils/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/V2SNUWfZuCA"
+  },
+  "UpdatedAt": "2021-10-04T11:50:44+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 55",
+    "Url": "https://nutritionfacts.org/volumes/volume-55/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "There is another reason to avoid palm oil and question the authenticity of extra-virgin olive oil.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nPalm oil is the most commonly used vegetable oil in the world today. Pick up any package of processed junk in a box, bag, bottle, or jar, and the odds are it will have palm oil. Not only does it contain the primary cholesterol-raising saturated fat found mostly in meat and dairy, concerns have been raised about the safety of palm oil, given the finding that it may contain a potentially toxic chemical contaminant known as 3-monochloropropane-1,2-diol, otherwise known as 3-MCPD, which is formed during the heat treatment involved in the refining of vegetable oils. So, these contaminants end up being widespread in reﬁned vegetable oils and fats, and any products that contain them, including infant formulas.\nIt’s been found in all refined vegetable oils, but some are worse than others. The lowest levels of the toxic contaminants were found in canola oil, and the highest levels were found in palm oil. Based on the available data, this may result in a signiﬁcant amount of human exposure, especially when used to deep-fry salty foods like French fries. In fact, just five fries could blow through the tolerable daily intake. Now, if you just do this once in a while, it shouldn’t be a problem, but if you’re eating fries every day or so, this could definitely be a health concern.\nBecause the daily upper limit is based on body weight, particularly high exposure values were calculated for infants who were on formula rather than breast milk, since formula is made from refined oils, which—according to the European Food Safety Authority—may present a health risk. Estimated U.S. infant exposures may be three to four times worse.\nIf infants don’t get breast milk, there is basically no alternative to industrially-produced infant formula. Given that fact, the vegetable oil industry needs to find a way to reduce the levels of these contaminants, and in the meanwhile, this is yet another reason that breast is always best.\nWhat can adults do to avoid exposure? Well, if these chemicals are created in the refining process of oils, what about sticking to unrefined oils? Refined oils have up to 32 times the 3-MCPD compared to their unrefined counterparts, with the exception of toasted sesame oil. Sesame oil is unrefined (they just squeeze the seeds), but because they are squeezing toasted sesame, the 3-MCPD may have come pre-formed.\nVirgin oils are by definition unrefined. They haven’t been deodorized, the process by which most of the 3-MCPD is formed. In fact, that’s how you can discriminate between the various processing grades of olive oil. If your so-called extra virgin olive oil contains MCPD, then it must have been diluted with some refined olive oil. The ease of adulterating extra virgin olive oil, the diﬃculty of detection, the economic drivers, and the lack of control measures contribute to the susceptibility of extra virgin olive oil to fraud. How widespread a problem is it?\nOf the 88 bottles off store shelves tested that were labeled extra virgin olive oil, only 33 were found to be authentic. Okay, but what if you stick to the top-selling imported brands of extra virgin olive oil? In that case, 73 percent of those samples failed. Only about one in four appeared to be genuine, and not a single brand had even half their samples pass the test.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Andres S, Appel KE, Lampen A. Toxicology, occurrence and risk characterisation of the chloropropanols in food: 2-monochloro-1,3-propanediol, 1,3-dichloro-2-propanol and 2,3-dichloro-1-propanol. Food Chem Toxicol. 2013;58:467-78.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23712097/"
+    },
+    {
+      "Title": "Bakhiya N, Abraham K, Gürtler R, Appel KE, Lampen A. Toxicological assessment of 3-chloropropane-1,2-diol and glycidol fatty acid esters in food. Mol Nutr Food Res. 2011;55(4):509-21.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21351250/"
+    },
+    {
+      "Title": "BfR, Bundesinstitut für Risikobewertung. Frequently asked questions regarding the contamination of foods with 3-MCPD, 2-MCPD and glycidyl fatty acid esters. BfR, Bundesinstitut für Risikobewertung website. July 7, 2016.",
+      "Url": "https://www.bfr.bund.de/en/frequently_asked_questions_regarding_the_contamination_of_foods_with_3_mcpd__2_mcpd_and_glycidyl_fatty_acid_esters-60844.html"
+    },
+    {
+      "Title": "Frankel EN, Mailer RJ, Wang SC, et al. Evaluation of Extra-Virgin Olive Oil Sold in California. Davis, CA: UC Davis Olive Center at the Robert Mondavi Institute; 2011.",
+      "Url": "https://1.oliveoiltimes.com/library/uc-davis-report.pdf"
+    },
+    {
+      "Title": "Gao B, Li Y, Huang G, Yu L. Fatty Acid Esters of 3-Monochloropropanediol: A Review. Annu Rev Food Sci Technol. 2019;10:259-84.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30908955/"
+    },
+    {
+      "Title": "Gesteiro E, Guijarro L, Sánchez-Muniz FJ, et al. Palm Oil on the Edge. Nutrients. 2019;11(9):2008.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31454938/"
+    },
+    {
+      "Title": "Larsen JC. 3-MCPD esters in food products. Brussels: ILSI Europe; 2009.",
+      "Url": "https://ilsi.eu/publication/3-mcpd-esters-in-food-products-summary-report/"
+    },
+    {
+      "Title": "MacMahon S, Begley TH, Diachenko GW. Occurrence of 3-MCPD and glycidyl esters in edible oils in the United States. Food Addit Contam Part A Chem Anal Control Expo Risk Assess. 2013;30(12):2081-92.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24138540/"
+    },
+    {
+      "Title": "Mancini A, Imperlini E, Nigro E, et al. Biological and Nutritional Properties of Palm Oil and Palmitic Acid: Effects on Health. Molecules. 2015;20(9):17339-61.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26393565/"
+    },
+    {
+      "Title": "Mossoba MM, Azizian H, Fardin-Kia AR, Karunathilaka SR, Kramer JKG. First Application of Newly Developed FT-NIR Spectroscopic Methodology to Predict Authenticity of Extra Virgin Olive Oil Retail Products in the USA. Lipids. 2017;52(5):443-55.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28401382/"
+    },
+    {
+      "Title": "Spungen JH, MacMahon S, Leigh J, et al. Estimated US infant exposures to 3-MCPD esters and glycidyl esters from consumption of infant formula. Food Addit Contam Part A Chem Anal Control Expo Risk Assess. 2018;35(6):1085-92.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29620437/"
+    },
+    {
+      "Title": "Svejkovska B, Novotny O, Divinova V, Réblová Z, Doležal M, Velisek J. Esters of 3-chloropropane-1,2-diol in foodstuffs. Czech J Food Sci. 2004;22:190-6.",
+      "Url": "https://www.researchgate.net/publication/284193508_Esters_of_3-chloropropane-12-diol_in_foodstuffs"
+    },
+    {
+      "Title": "Tiong SH, Saparin N, Teh HF, et al. Natural Organochlorines as Precursors of 3-Monochloropropanediol Esters in Vegetable Oils. J Agric Food Chem. 2018;66(4):999-1007.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29260544/"
+    },
+    {
+      "Title": "Yan J, Oey SB, van Leeuwen SPJ, van Ruth SM. Discrimination of processing grades of olive oil and other vegetable oils by monochloropropanediol esters and glycidyl esters. Food Chem. 2018;248:93-100.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29329876/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "breast milk",
+      "Url": "https://nutritionfacts.org/topics/breast-milk/"
+    },
+    {
+      "Title": "breastfeeding",
+      "Url": "https://nutritionfacts.org/topics/breastfeeding/"
+    },
+    {
+      "Title": "canola",
+      "Url": "https://nutritionfacts.org/topics/canola/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "french fries",
+      "Url": "https://nutritionfacts.org/topics/french-fries/"
+    },
+    {
+      "Title": "frying",
+      "Url": "https://nutritionfacts.org/topics/frying/"
+    },
+    {
+      "Title": "infant formula",
+      "Url": "https://nutritionfacts.org/topics/infant-formula/"
+    },
+    {
+      "Title": "oils",
+      "Url": "https://nutritionfacts.org/topics/oils/"
+    },
+    {
+      "Title": "olive oil",
+      "Url": "https://nutritionfacts.org/topics/olive-oil/"
+    },
+    {
+      "Title": "palm oil",
+      "Url": "https://nutritionfacts.org/topics/palm-oil/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    },
+    {
+      "Title": "saturated fat",
+      "Url": "https://nutritionfacts.org/topics/saturated-fat/"
+    },
+    {
+      "Title": "sesame oil",
+      "Url": "https://nutritionfacts.org/topics/sesame-oil/"
+    },
+    {
+      "Title": "vegetable oil",
+      "Url": "https://nutritionfacts.org/topics/vegetable-oil/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you missed the previous video where I introduce 3-MCPD, see <a href=\"https://nutritionfacts.org/video/the-side-effects-of-3-mcpd-in-braggs-liquid-aminos/\">The Side Effects of 3-MCPD in Bragg’s Liquid Aminos</a>.</p>\n<p>There is no substitute for human breast milk. We understand this may not be possible for adoptive families or those who use surrogates, though. In those cases, look for a nearby <a href=\"https://www.hmbana.org/find-a-milk-bank/overview.html\">milk bank</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

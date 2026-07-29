@@ -1,0 +1,207 @@
+{
+  "Title": "How Circadian Rhythms Affect Blood Sugar Levels",
+  "Url": "https://nutritionfacts.org/video/how-circadian-rhythms-affect-blood-sugar-levels/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/YtsIpX7x48k"
+  },
+  "UpdatedAt": "2020-02-05T12:50:59+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 49",
+    "Url": "https://nutritionfacts.org/volumes/volume-49/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The same meal eaten at the wrong time of day can double blood sugars.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWe’ve known for more than a half century now that our “glucose tolerance” declines as the day goes on––meaning the ability of your body to keep blood sugars under control. If you hook yourself up to an IV, and just drip sugar water into your vein at a steady pace throughout the day, at about 8pm your blood sugars start to go up, even though you haven’t eaten anything and the infusion rate didn’t change. The same amount of sugar is going into your system every minute, but your ability to handle it deteriorates in the evening, but bounces right back in the morning. A meal eaten at 8pm can cause twice the blood sugar response as an identical meal eaten at 8am. It’s as if you ate twice as much!\nYour body just isn’t expecting you to be eating when it’s dark outside. Our species may have only discovered how to use fire about a quarter million years ago. We just weren’t built for 24-hour diners.\nOne of the tests for diabetes is called the glucose tolerance test, to see how fast your body can clear sugar from your bloodstream. You swig down a cup of water with about four and a half tablespoons of regular corn syrup mixed in, and then have your blood sugar measured two hours later. By that point, your blood sugar should be under 140 (mg/dL). Between 140 and 199 is considered prediabetes, and 200 and up is a sign of full-blown diabetes.\nThe circadian rhythm of glucose tolerance is so powerful that a person can test normal in the morning, but as a prediabetic later in the day. Prediabetics who average 163 at 7am test out as frank diabetics by 7pm, at over 200.\nChoosing lower-glycemic foods may help promote weight loss, but timing is critical. Due to this circadian pattern in glucose tolerance, a low-glycemic food at night can cause a higher blood sugar spike than a high-glycemic food eaten in the morning. We’re so metabolically crippled at night: researchers found that eating a bowl of All Bran at 8pm caused as high a blood sugar spike as eating Rice Krispies at 8am. High-glycemic foods at night would seem to represent the worst of both worlds. So, if you’re going to eat refined grains and sugary junk, it might be less detrimental in the morning.\nThe drop in glucose tolerance over the day could therefore help explain the weight-loss benefits of front-loading calories towards the beginning of the day. Even just an earlier versus later lunch may make a difference. People randomized to eat a large lunch at 4:30pm suffered a 46 percent greater blood sugar response compared to an identical meal eaten just a few hours earlier at 1pm. And a meal at 7am can cause 37 percent lower blood sugars than an identical meal at 1pm. Now there doesn’t seem to be any difference between a meal at 8pm and the same meal at midnight—they both seem to be too late. But eating that late, at midnight, or even 11pm can so disrupt your circadian rhythm that it can mess up your metabolism the next morning––resulting in significantly higher blood sugars after breakfast, compared to eating the same supper at 6pm the evening before.\nSo, these revelations of chronobiology bring the breakfast debate full circle. Breakfast-skipping not only generally fails to cause weight loss, but worsens overall daily blood sugar control in both diabetic  and non-diabetic individuals. See how the breakfast-skippers have higher blood sugars even while they’re sleeping 20 hours later? This may help explain why those who skip breakfast appear to be at higher risk of developing type 2 diabetes in the first place.\nBreakfast skippers also tend to have higher rates of heart disease and atherosclerosis in general. Is this just because breakfast-skipping tends to cluster with other unhealthy choices, such as smoking and sicklier eating habits overall? The link between breakfast skipping and heart disease—even premature death in general—seems to survive attempts to control for these confounding factors. But you don’t really know, until you put it to the test.\nDoes skipping breakfast lead to higher cholesterol, for example? Yes, a significant rise in LDL (bad) cholesterol in those randomized to skip breakfast––about 10 points higher within just two weeks. The Israeli 700/500/200 study found that the triglycerides of the king-prince-pauper group got significantly better—a 60-point drop—while those of the pauper-prince-king group got significantly worse (a 26-point rise). So, consuming more calories in the morning relative to the evening may actually have a triple benefit: more weight loss, better blood sugar control, and lower heart disease risk. So, if you’re going to skip any meal, whether practicing intermittent fasting or time-restricted feeding (where you try to fit all your food into a certain daily time window), it would be safer and more effective perhaps to skip dinner rather than breakfast.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bandín C, Scheer FA, Luque AJ, et al. Meal timing affects glucose tolerance, substrate oxidation and circadian-related variables: a randomized, crossover trial. Int J Obes (Lond). 2015;39(5):828-33.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25311083"
+    },
+    {
+      "Title": "Bi H, Gan Y, Yang C, Chen Y, Tong X, Lu Z. Breakfast skipping and the risk of type 2 diabetes: a meta-analysis of observational studies. Public Health Nutr. 2015;18(16):3013-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25686619"
+    },
+    {
+      "Title": "Bowen AJ, Reeves RL. Diurnal Variation in Glucose Tolerance. Arch Intern Med. 1967;119(3):261-264.",
+      "Url": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/573436"
+    },
+    {
+      "Title": "Cahill LE, Chiuve SE, Mekary RA, et al. Prospective study of breakfast eating and incident coronary heart disease in a cohort of male US health professionals. Circulation. 2013;128(4):337-43.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23877060"
+    },
+    {
+      "Title": "Farshchi HR, Taylor MA, MacDonald IA. Deleterious effects of omitting breakfast on insulin sensitivity and fasting lipid profiles in healthy lean women. Am J Clin Nutr. 2005;81(2):388-96.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15699226"
+    },
+    {
+      "Title": "Gangwisch JE. Invited commentary: nighttime light exposure as a risk factor for obesity through disruption of circadian and circannual rhythms. Am J Epidemiol. 2014;180(3):251-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24875372"
+    },
+    {
+      "Title": "Garaulet M, Ordovás JM, Madrid JA. The chronobiology, etiology and pathophysiology of obesity. Int J Obes (Lond). 2010;34(12):1667-83.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20567242"
+    },
+    {
+      "Title": "Gibbs M, Harrington D, Starkey S, Williams P, Hampton S. Diurnal postprandial responses to low and high glycaemic index mixed meals. Clin Nutr. 2014;33(5):889-94.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24135087"
+    },
+    {
+      "Title": "Jakubowicz D, Barnea M, Wainstein J, Froy O. High caloric intake at breakfast vs. dinner differentially influences weight loss of overweight and obese women. Obesity (Silver Spring). 2013;21(12):2504-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23512957"
+    },
+    {
+      "Title": "Jakubowicz D, Wainstein J, Ahren B, Landau Z, Bar-Dayan Y, Froy O. Fasting until noon triggers increased postprandial hyperglycemia and impaired insulin response after lunch and dinner in individuals with type 2 diabetes: a randomized clinical trial. Diabetes Care. 2015;38(10):1820-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26220945"
+    },
+    {
+      "Title": "Kobayashi F, Ogata H, Omi N, et al. Effect of breakfast skipping on diurnal variation of energy metabolism and blood glucose. Obes Res Clin Pract. 2014;8(3):e201-98.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24847666"
+    },
+    {
+      "Title": "Leung GKW, Huggins CE, Bonham MP. Effect of meal timing on postprandial glucose responses to a low glycemic index meal: a crossover trial in healthy volunteers. Clin Nutr. 2019;38(1):465-71.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29248250"
+    },
+    {
+      "Title": "Morgan LM, Shi JW, Hampton SM, Frost G. Effect of meal timing and glycaemic index on glucose control and insulin secretion in healthy volunteers. Br J Nutr. 2012;108(7):1286-91.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22176632"
+    },
+    {
+      "Title": "Morris CJ, Yang JN, Garcia JI, et al. Endogenous circadian system and circadian misalignment impact glucose tolerance via separate mechanisms in humans. Proc Natl Acad Sci USA. 2015;112(17):E2225-34.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25870289"
+    },
+    {
+      "Title": "Poggiogalle E, Jamshed H, Peterson CM. Circadian regulation of glucose, lipid, and energy metabolism in humans. Metab Clin Exp. 2018;84:11-27.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29195759"
+    },
+    {
+      "Title": "Reis AH. Breakfast skipping, atherosclerosis disease, and free fatty acids. J Am Coll Cardiol. 2018;71(6):707.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29420973/"
+    },
+    {
+      "Title": "Saad A, Dalla Man C, Nandy DK, et al. Diurnal pattern to insulin secretion and insulin action in healthy individuals. Diabetes. 2012;61(11):2691-700.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22751690"
+    },
+    {
+      "Title": "Sonnier T, Rood J, Gimble JM, Peterson CM. Glycemic control is impaired in the evening in prediabetes through multiple diurnal rhythms. J Diabetes Complicat. 2014;28(6):836-43.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24835190"
+    },
+    {
+      "Title": "Thomas D, Elliott EJ, Baur L. Low glycaemic index or low glycaemic load diets for overweight and obesity. Cochrane Database Syst Rev. 2007;2007(3):CD005105.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9022192/"
+    },
+    {
+      "Title": "Tsuchida Y, Hata S, Sone Y. Effects of a late supper on digestion and the absorption of dietary carbohydrates in the following morning. J Physiol Anthropol. 2013;32(1):9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23705984"
+    },
+    {
+      "Title": "Uzhova I, Fuster V, Fernández-Ortiz A, et al. The importance of breakfast in atherosclerosis disease: insights from the PESA study. J Am Coll Cardiol. 2017;70(15):1833-42.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28982495"
+    },
+    {
+      "Title": "Uzhova I, Peñalvo JL. Reply: skipping breakfast is a marker of unhealthy lifestyle. J Am Coll Cardiol. 2018;71(6):708-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29420974"
+    },
+    {
+      "Title": "Van Cauter E, Polonsky KS, Scheen AJ. Roles of circadian rhythmicity and sleep in human glucose regulation. Endocr Rev. 1997;18(5):716-38.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9331550"
+    },
+    {
+      "Title": "Van Cauter E. Diurnal and ultradian rhythms in human endocrine function: a minireview. Horm Res. 1990;34(2):45-53.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/1965834"
+    },
+    {
+      "Title": "Yokoyama Y, Onishi K, Hosoda T, et al. Skipping breakfast and risk of mortality from cancer, circulatory diseases and all causes: findings from the Japan collaborative cohort study. Yonago Acta Med. 2016;59(1):55-60.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27046951"
+    }
+  ],
+  "Acknowledgements": "Image credit: Paul Hunt via pixabay. Image has been modified.\nVideo production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "blood sugar",
+      "Url": "https://nutritionfacts.org/topics/blood-sugar/"
+    },
+    {
+      "Title": "breakfast",
+      "Url": "https://nutritionfacts.org/topics/breakfast/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "chronobiology",
+      "Url": "https://nutritionfacts.org/topics/chronobiology/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "fasting",
+      "Url": "https://nutritionfacts.org/topics/fasting/"
+    },
+    {
+      "Title": "glucose",
+      "Url": "https://nutritionfacts.org/topics/glucose/"
+    },
+    {
+      "Title": "glycemic index",
+      "Url": "https://nutritionfacts.org/topics/glycemic-index/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "metabolism",
+      "Url": "https://nutritionfacts.org/topics/metabolism/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "weight gain",
+      "Url": "https://nutritionfacts.org/topics/weight-gain/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Back with the next installment of the chronobiology series! We previously explored eating breakfast for weight loss (<a href=\"https://nutritionfacts.org/video/is-breakfast-the-most-important-meal-for-weight-loss/\">Is Breakfast the Most Important Meal for Weight Loss?</a> and <a href=\"https://nutritionfacts.org/video/is-skipping-breakfast-better-for-weight-loss/\">Is Skipping Breakfast Better for Weight Loss?</a>), introduced chronobiology (<a href=\"https://nutritionfacts.org/video/chronobiology-how-circadian-rhythms-can-control-your-health-and-weight/\">Chronobiology – How Circadian Rhythms Can Control Your Health and Weight</a>), and looked at the science on eating more in the mornings than the evenings (<a href=\"https://nutritionfacts.org/video/eat-more-calories-in-the-morning-to-lose-weight/\">Eat More Calories in the Morning to Lose Weight</a>; <a href=\"https://nutritionfacts.org/video/breakfast-like-a-king-lunch-like-a-prince-dinner-like-a-pauper/\">Breakfast Like a King, Lunch Like a Prince, Dinner Like a Pauper</a>; <a href=\"https://nutritionfacts.org/video/eat-more-calories-in-the-morning-than-the-evening/\">Eat More Calories in the Morning Than the Evening</a>).</p>\n<p>Next up, you’ll see <a href=\"https://nutritionfacts.org/video/how-to-sync-your-central-circadian-clock-to-your-peripheral-clocks/\">How to Sync Your Central Circadian Clock to Your Peripheral Clocks</a>.</p>\n<p>And the series will wrap up in the next couple weeks with:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-metabolic-harms-of-night-shifts-and-irregular-meals/\">The Metabolic Harms of Night Shifts and Irregular Meals</a></li>\n<li><a href=\"https://nutritionfacts.org/video/shedding-light-on-shedding-weight/\">Shedding Light on Shedding Weight</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-people-gain-weight-in-the-fall/\">Why People Gain Weight in the Fall</a></li>\n</ul>\n<p>Note: The Israeli 700/500/200 study that I mentioned is in the <a href=\"https://nutritionfacts.org/video/breakfast-like-a-king-lunch-like-a-prince-dinner-like-a-pauper/\" target=\"_blank\" rel=\"noopener\">Breakfast Like a King, Lunch Like a Prince, Dinner Like a Pauper</a> video in more detail. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

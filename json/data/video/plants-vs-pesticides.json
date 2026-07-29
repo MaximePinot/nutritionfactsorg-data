@@ -1,0 +1,63 @@
+{
+  "Title": "Plants vs. Pesticides",
+  "Url": "https://nutritionfacts.org/video/plants-vs-pesticides/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/wadd7OY6dIc"
+  },
+  "UpdatedAt": "2012-11-02T11:29:29+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 11",
+    "Url": "https://nutritionfacts.org/volumes/volume-11/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Phytonutrients found in certain foods may protect against the toxic effects of industrial pollutants such as dioxin and DDT, suggesting a dual role for plant-based diets to reduce both exposure and subsequent damage.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nNot only do plant foods tend to have significantly lower levels of industrial pollutants because they’re at the bottom of the food chain, there may be phytonutrients that combat the effects of some of these toxins. A group of scientists recently published a paper describing what happened when they ordered some dioxin from Dow Chemical, grabbed some DDT while they were at it, and dripped the chemicals on some human white blood cells, with and without a variety of phytonutrients, to see if they could have a protective effect.\nThey identified two as the most effective agents in protecting human blood cells from developing these cell toxic effects of dioxin and DDT. Here’s a bit of their data—this is measuring inflammation triggered by dioxin. All four of these phytonutrients seemed to mitigate the toxic effect, but zerumbone (found in ginger) and auraptene (found in citrus) appeared best at suppressing the inflammation.\nNow, this is obviously very preliminary. It was in a test tube, and they tested only a tiny fraction of the tens of thousands of known phytonutrients. But, it does open up the possibility that plant-based diets may play a dual role in protecting us against industrial pollutants, reducing exposure—and, potentially, reducing some of the damage from any chemicals we’re still exposed to, just given how polluted our world has become.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Sciullo EM, Vogel CF, Wu D, Murakami A, Ohigashi H, Matsumura F. Effects of selected food phytochemicals in reducing the toxic actions of TCDD and p,p'-DDT in U937 macrophages. Arch Toxicol. 2010 Dec;84(12):957-66.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991151/pdf/204_2010_Article_592.pdf"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Ekko and Linuxerist via Wikimedia; Marion County, Oregon;  and CIAT International Center for Tropical Agriculture and notafish via flickr",
+  "Topics": [
+    {
+      "Title": "citrus",
+      "Url": "https://nutritionfacts.org/topics/citrus/"
+    },
+    {
+      "Title": "dioxins",
+      "Url": "https://nutritionfacts.org/topics/dioxins/"
+    },
+    {
+      "Title": "ginger",
+      "Url": "https://nutritionfacts.org/topics/ginger/"
+    },
+    {
+      "Title": "industrial pollutants",
+      "Url": "https://nutritionfacts.org/topics/industrial-pollutants/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "persistent organic pollutants",
+      "Url": "https://nutritionfacts.org/topics/persistent-organic-pollutants/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Where is DDT found in our diet? See <a href=\"https://nutritionfacts.org/video/food-sources-of-perfluorochemicals/\" rel=\"nofollow\">Food Sources of Perfluorochemicals</a>. How many different chemicals are in the most vulnerable amongst us? See <a href=\"https://nutritionfacts.org/video/%ef%bb%bfcdc-report-on-environmental-chemical-exposure/\" rel=\"nofollow\">CDC Report on Environmental Chemical Exposure</a> for pollutants in pregnant women, and <a href=\"https://nutritionfacts.org/video/how-fast-can-children-detoxify-from-pcbs/\" rel=\"nofollow\">How Fast Can Children Detoxify from PCBs?</a> for children’s exposure. More on ginger in <a href=\"https://nutritionfacts.org/video/amyloid-and-apple-juice/\" rel=\"nofollow\">Amyloid and Apple Juice</a>, and in <a href=\"https://nutritionfacts.org/video/dangerous-advice-from-health-food-store-employees/\" rel=\"nofollow\">Dangerous Advice From Health Food Store Employees</a>. I’ve also got many <a href=\"https://nutritionfacts.org/topics/citrus/\" rel=\"nofollow\">other videos on citrus.</a></p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/blog/how-to-counter-dietary-pollutants-pesticides/\"> Countering Dietary Pollutants &amp; Pesticides</a>; <a href=\"https://nutritionfacts.org/2013/05/28/dr-gregers-natural-nausea-remedy-recipe/\">Dr. Greger’s Natural Nausea Remedy Recipe</a>; and <a href=\"https://nutritionfacts.org/2013/06/25/apple-peels-turn-on-anticancer-genes/\">Apple Peels Turn On Anticancer Genes</a>.</p>\n<p data-pm-slice=\"1 1 []\">What about <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/pesticide-exposure-and-hypospadias-birth-defects-in-vegetarians/\">Pesticide Exposure and Hypospadias Birth Defects in Vegetarians</a>? Check out the video.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

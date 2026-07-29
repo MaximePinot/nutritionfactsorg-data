@@ -1,0 +1,175 @@
+{
+  "Title": "Benefits and Side Effects of the Flu Vaccine",
+  "Url": "https://nutritionfacts.org/video/benefits-and-side-effects-of-the-flu-vaccine/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/oa6UtySJKFE"
+  },
+  "UpdatedAt": "2024-04-08T11:50:14+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 65",
+    "Url": "https://nutritionfacts.org/volumes/volume-65/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Randomized placebo-controlled trials show that flu shots can be extraordinary lifesavers.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: In this three-video series, I show the science behind the pros and cons of the flu vaccine, pneumonia vaccine, and shingles vaccine. \nEvery year, influenza typically kills between 4,000 and 20,000 Americans––though the death toll for the 2017 to 2018 season was estimated at 80,000, making it one of the deadliest in the last half century. Most hospitalizations and 90 percent of flu-related mortality occur in those age 65 and older (and most over the age of 75). Mortality rates for the flu at ages 75 and older are 50 times higher than those below age 65. Nonetheless, the CDC recommends everyone over the age of six months get a routine annual flu shot every year––if for no other reason than to help prevent transmission to the more vulnerable. The cruel irony is that older adults—the ones who need protection the most—acquire less robust protection from flu shots, due to waning immunity with age.\nDepending on the season, vaccination typically reduces the risk of getting the flu by about 40 to 50 percent. So, in healthy adults, we can say with moderate certainty we can decrease the risk of getting it from like 2 percent each year down to just under 1 percent. Among older adults, even if you get a similar relative risk reduction—from 6 percent down to 2.4 percent—since the risk is higher and the consequences greater, the absolute benefits are greater too.\nIn the Northern Hemisphere, the flu season can start as early as September, and go as late as March. The problem with getting vaccinated too early in the season is that immunity might wane before the season is over, especially in older adults. So, it might be good to wait until October. But getting it at any time throughout the season is preferable to not getting vaccinated at all.\nYes, the influenza vaccine can cause Guillain-Barré syndrome, an autoimmune attack on your nerves that can leave you paralyzed for weeks—but so too can getting the flu. There are may be one to two additional cases of Guillain-Barré per million vaccinations, versus about 17 extra cases per million contacts with the flu virus. So, you’re much more likely to be temporarily paralyzed by the flu than the flu shot. But since it takes vaccinating about 30 older people to prevent one case of the flu, getting vaccinated would still, in expectation, raise your overall Guillain-Barré risk. But the reason flu shots are recommended is not to lower risk of some obscure autoimmune syndrome, but to reduce the common, and potentially devastating, impacts of the flu that extend well beyond just the respiratory infection.\nIn the week following a confirmed flu infection, the risk of having a heart attack shoots up six-fold. The inflammation of infection can destabilize atherosclerotic plaques, constrict arteries, and make the blood more liable to clot. So, might flu vaccinations save lives in more ways than one? That’s why indirectly, the flu may kill up to three times more.\nThose who get their flu shots are indeed less likely to die from cardiovascular disease in a given year, as well as all causes put together. In other words, those who get regular flu shots live, on average, longer lives. But, who disproportionally gets flu shots? White, married, nonsmokers of a higher social class, with higher education, higher incomes, and health insurance. You can’t tell if it’s truly cause-and-effect until you put it to the test.\nThere have been four randomized controlled trials—flu shots versus placebo shots—in those with pre-existing heart disease, and overall, those who got the real shots had a 56 percent lower chance of dying from cardiovascular disease, and a 47 percent lower chance of dying from all causes put together. So, flu shots really can be an extraordinary life-saver. Whether the observational data showing fewer deaths across the board—even including those without pre-existing heart disease—similarly pans out is, as of yet, unknown. But, if you notice, for secondary prevention the randomized controlled trials showed even more protection than the observational studies hinted at.\nGiven the benefits, overcoming vaccine hesitancy should be as simple as correcting misinformation. But sadly, debunking vaccine myths can actually backfire. Busting the myth that inactivated flu shots (the type given to older adults) can give you the flu surprisingly makes people even less likely to get it. Similarly, correcting the falsehood that MMR vaccines cause autism, or that pertussis vaccination causes as many side effects as people think, paradoxically makes people less inclined to vaccinate. The researchers conclude “correcting vaccine myths may not be an effective approach to promoting vaccination.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Cheng Y, Cao X, Cao Z, et al. Effects of influenza vaccination on the risk of cardiovascular and respiratory diseases and all-cause mortality. Ageing Res Rev. 2020;62:101124.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32683040/"
+    },
+    {
+      "Title": "Clar C, Oseni Z, Flowers N, Keshtkar-Jahromi M, Rees K. Influenza vaccines for preventing cardiovascular disease. Cochrane Database Syst Rev. 2015;2015(5):CD005050.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25940444/"
+    },
+    {
+      "Title": "Coll PP, Costello VW, Kuchel GA, Bartley J, McElhaney JE. The prevention of infections in older adults: vaccination. J Am Geriatr Soc. 2020;68(1):207-214.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31613000/"
+    },
+    {
+      "Title": "Corrales-Medina VF, Madjid M, Musher DM. Role of acute infection in triggering acute coronary syndromes. Lancet Infect Dis. 2010;10(2):83-92.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20113977/"
+    },
+    {
+      "Title": "Demicheli V, Jefferson T, Di Pietrantonj C, et al. Vaccines for preventing influenza in the elderly. Cochrane Database Syst Rev. 2018;2(2):CD004876.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29388197/"
+    },
+    {
+      "Title": "Demicheli V, Jefferson T, Ferroni E, Rivetti A, Di Pietrantonj C. Vaccines for preventing influenza in healthy adults. Cochrane Database Syst Rev. 2018;2(2):CD001269.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29388196/"
+    },
+    {
+      "Title": "Dudley MZ, Halsey NA, Omer SB, et al. The state of vaccine safety science: systematic reviews of the evidence. Lancet Infect Dis. 2020;20(5):e80-e89.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32278359/"
+    },
+    {
+      "Title": "Goodwin K, Viboud C, Simonsen L. Antibody response to influenza vaccination in the elderly: a quantitative review. Vaccine. 2006;24(8):1159-1169.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16213065/"
+    },
+    {
+      "Title": "Grohskopf LA, Alyanak E, Broder KR, Walter EB, Fry AM, Jernigan DB. Prevention and control of seasonal influenza with vaccines: recommendations of the Advisory Committee on Immunization Practices - United States, 2019-20 influenza season. MMWR Recomm Rep. 2019;68(3):1-21.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31441906/"
+    },
+    {
+      "Title": "Hunter P, Fryhofer SA, Szilagyi PG. Vaccination of adults in general medical practice. Mayo Clin Proc. 2020;95(1):169-183.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31902413/"
+    },
+    {
+      "Title": "Influenza Vaccine for 2019-2020. Med Lett Drugs Ther. Oct 2019.",
+      "Url": "https://secure.medicalletter.org/TML-article-1583a"
+    },
+    {
+      "Title": "Kwong JC, Schwartz KL, Campitelli MA, et al. Acute myocardial infarction after laboratory-confirmed influenza infection. N Engl J Med. 2018;378(4):345-353.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29365305/"
+    },
+    {
+      "Title": "Meszaros JR, Asch DA, Baron J, Hershey JC, Kunreuther H, Schwartz-Buzaglo J. Cognitive processes and the decisions of some parents to forego pertussis vaccination for their children. J Clin Epidemiol. 1996;49(6):697-703.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8656233/"
+    },
+    {
+      "Title": "Nyhan B, Reifler J, Richey S, Freed GL. Effective messages in vaccine promotion: a randomized trial. Pediatrics. 2014;133(4):e835-842.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24590751/"
+    },
+    {
+      "Title": "Nyhan B, Reifler J. Does correcting myths about the flu vaccine work? An experimental evaluation of the effects of corrective information. Vaccine. 2015;33(3):459-464.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25499651/"
+    },
+    {
+      "Title": "Okoli GN, Lam OLT, Racovitan F, et al. Seasonal influenza vaccination in older people: A systematic review and meta-analysis of the determining factors. PLoS One. 2020;15(6):e0234702.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32555628/"
+    },
+    {
+      "Title": "Resnick B, Gravenstein S, Schaffner W, Sobczyk E, Douglas RG. Beyond prevention of influenza: the value of flu vaccines. J Gerontol A Biol Sci Med Sci. 2018;73(12):1635-1637.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30418526/"
+    },
+    {
+      "Title": "Rolfes MA, Foppa IM, Garg S, et al. Annual estimates of the burden of seasonal influenza in the United States: A tool for strengthening influenza surveillance and preparedness. Influenza Other Respir Viruses. 2018;12(1):132-137.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29446233/"
+    },
+    {
+      "Title": "Vaccine Effectiveness Studies. CDC. Dec 2022.",
+      "Url": "https://www.cdc.gov/flu/vaccines-work/effectiveness-studies.htm"
+    },
+    {
+      "Title": "Yedlapati SH, Khan SU, Talluri S, et al. Effects of influenza vaccine on mortality and cardiovascular outcomes in patients with cardiovascular disease: a systematic review and meta-analysis. J Am Heart Assoc. 2021;10(6):e019636.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33719496/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "artery function",
+      "Url": "https://nutritionfacts.org/topics/artery-function/"
+    },
+    {
+      "Title": "atherosclerosis",
+      "Url": "https://nutritionfacts.org/topics/atherosclerosis/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cardiovascular health",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-health/"
+    },
+    {
+      "Title": "CDC",
+      "Url": "https://nutritionfacts.org/topics/cdc/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "elderly",
+      "Url": "https://nutritionfacts.org/topics/elderly/"
+    },
+    {
+      "Title": "flu shots",
+      "Url": "https://nutritionfacts.org/topics/flu-shots/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "influenza",
+      "Url": "https://nutritionfacts.org/topics/influenza/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "vaccines",
+      "Url": "https://nutritionfacts.org/topics/vaccines/"
+    },
+    {
+      "Title": "viral infections",
+      "Url": "https://nutritionfacts.org/topics/viral-infections/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Stay tuned for the next two videos, which examine the benefits and side effects of the </span><a href=\"https://nutritionfacts.org/video/benefits-and-side-effects-of-the-pneumonia-vaccine/\"><span style=\"font-weight: 400\">pneumonia</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/benefits-and-side-effects-of-the-shingles-vaccine/\"><span style=\"font-weight: 400\">shingles</span></a><span style=\"font-weight: 400\"> vaccines. </span></p>\n<p><span style=\"font-weight: 400\">Can you prevent the flu with foods and supplements, like elderberry and echinacea? See </span><a href=\"https://nutritionfacts.org/video/elderberry-benefits-and-side-effects-does-it-help-with-colds-and-the-flu/\"><span style=\"font-weight: 400\">Elderberry Benefits and Side Effects: Does It Help with Colds and the Flu?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">I don’t have many other videos on the flu, but here are a few on preventing and treating colds:</span></p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/can-gargling-prevent-the-common-cold/\">Can Gargling Prevent the Common Cold?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/preventing-the-common-cold-with-probiotics/\">Preventing the Common Cold with Probiotics?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/kiwifruit-for-the-common-cold/\">Kiwifruit for the Common Cold</a></li>\n<li><a href=\"https://nutritionfacts.org/video/benefits-of-garlic-for-fighting-cancer-and-the-common-cold/\">Benefits of Garlic for Fighting Cancer and the Common Cold</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

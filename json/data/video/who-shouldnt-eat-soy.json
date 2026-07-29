@@ -1,0 +1,231 @@
+{
+  "Title": "Who Shouldn’t Eat Soy?",
+  "Url": "https://nutritionfacts.org/video/who-shouldnt-eat-soy/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/vltbg3NUSQs"
+  },
+  "UpdatedAt": "2016-11-25T13:00:42+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 33",
+    "Url": "https://nutritionfacts.org/volumes/volume-33/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How can soy foods have it both ways with pro-estrogenic effects in some organs that can protect bones and reduce hot flash symptoms, yet also anti-estrogenic effects in others that protect against breast and endometrial cancer?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhen the Women’s Health Initiative study found that menopausal women taking hormone replacement therapy suffered “higher rates of breast cancer, cardiovascular disease, and overall harm,” a call was made for safer alternatives. Yes, estrogen has positive effects, the Women’s Health Initiative found—such as reducing menopausal symptoms and improving bone health, reducing hip fracture risk; but also negative effects—increasing risk of blood clots in the heart, brain, and lungs, as well as breast cancer.\nSo, ideally, to get the best of both worlds, we’d need what’s called a selective estrogen receptor modulator, something that has pro-estrogenic effects in some tissues (like bone), but anti-estrogenic effects in other tissues (like the breast). Drug companies are trying to make them, but phytoestrogens—natural compounds in plants, like genistein in soybeans, that are structurally similar to estrogen—appear to function as natural selective estrogen receptor modulators. How could something that looks like estrogen act as an anti-estrogen?\nThe original theory for how soy phytoestrogens control breast cancer growth is that they compete with our own estrogens for binding to the estrogen receptor. As you drip more and more soy compounds on breast cancer cells in a petri dish, less and less actual estrogen is able to bind to them. So, the estrogen-blocking ability of phytoestrogens can help explain their anti-estrogenic effects. But, how do we then explain their pro-estrogenic effects on other tissues, like bone? How can soy have it both ways?\nThe mystery was solved when we discovered there are two types of estrogen receptors in the body. And, so, how a target cell responds depends on which type of estrogen receptors they have. This may be “the key to understanding the health-protective potential of soy phytoestrogens”—the existence of this newly discovered estrogen receptor, named estrogen receptor beta, to distinguish it from the classic estrogen receptor alpha. And, unlike our body’s own estrogen, soy phytoestrogens preferentially bind to the beta receptors.\nIf you have people eat about a cup of cooked whole soybeans, within about eight hours, genistein levels in the blood reach about 20 to 50 nanomoles—that’s how much is circulating throughout our body, bathing our cells. About half is bound up to proteins in the blood; so, the effective concentration is about half that. So, let’s see what that means for estrogen receptor activation.\nThis is the graph that explains the mysterious health benefits of soy foods. Down around the effective levels you’d get eating a cup of soybeans, there’s very little alpha activation—but, lots of beta activation. So, now let’s look at where each of these receptors are located in the human body.\nThe way estrogen pills increase the risk of fatal blood clots is by causing the liver to dump out all these extra clotting factors. But, guess what? The human liver only contains alpha estrogen receptors, not beta receptors. And so, maybe, if we ate like 30 cups of soybeans a day, that could be a problem. But, at the kinds of concentrations one would get with just normal soy consumption, no wonder this is a problem with drug estrogens—but not soy phytoestrogens.\nThe effects on the uterus appear also to be mediated solely by alpha receptors—which is, presumably, why no negative impact has been seen with soy. So, while estrogen-containing drugs may increase the risk of endometrial cancer up to ten-fold, phytoestrogen-containing foods are associated with significantly less endometrial cancer—in fact, protective effects for these types of gynecological cancers, in general. Women who ate the most soy had 30% less endometrial cancer, and appeared to cut their ovarian cancer risk nearly in half. \nSoy phytoestrogens don’t appear to have any effect on the lining of the uterus, but still can dramatically improve menopausal symptoms. The Kupperman index is like a compilation of all 11 of the most common menopausal symptoms.\nIn terms of bone health, human bone cells carry beta estrogen receptors. So, we might expect soy phytoestrogens to be protective. And, indeed, they do seem to significantly increase bone mineral density—consistent with population data suggesting “High consumption of soy products is associated with increased bone mass.” But, can they prevent bone loss over time?\nSoy milk was compared to a transdermal progesterone cream. The control group lost significant bone mineral density in their spine over the two-year study period. But, the progesterone group lost significantly less, and the two glasses of soy milk a day group ended up actually better than when they started. This is probably the most robust study to date, comparing the soy phytoestrogen genistein to a more traditional hormone replacement drug regimen. In the spine, over a year, the placebo group lost bone density, but gained in the phytoestrogen and estrogen groups, and the same with the hip bones.\nThe study clearly shows that the soy phytoestrogen prevents bone loss, and enhances new bone formation, in turn producing a net gain of bone mass. But, the only reason we care about bone mass is that we want to prevent fractures. Is soy food consumption associated with lower fracture risk? Yes. A significantly lower risk of bone fracture associated with just a single serving of soy a day—the equivalent of 5 to 7 grams of soy protein, or 20 to 30 milligrams of phytoestrogens. So, that’s just like one cup of soy milk—or, even better, a serving of a whole soy food, like tempeh or edamame, or the beans themselves. \nWe don’t have fracture data on soy supplements, though. So, if we seek the types of health benefits we presume Asian populations get from eating whole and traditional soy foods, maybe we should look to eating those, rather than taking unproven protein powders or pills.\nIs there anyone who should avoid soy? Well, some people have soy allergies. A national survey found that only about 1 in 2,000 people report a soy allergy. That’s 40 times less than the most common allergen—dairy milk—and about ten times less than all the other common allergens—like fish, eggs, shellfish, nuts, wheat, or peanuts.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Fioravanti L, Cappelletti V, Miodini P, Ronchi E, Brivio M, Di Fronzo G. Genistein in the control of breast cancer cell growth: insights into the mechanism of action in vitro. Cancer Lett. 1998 Aug 14;130(1-2):143-52.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9751267"
+    },
+    {
+      "Title": "Fugh-Berman A, Pearson C. The overselling of hormone replacement therapy. Pharmacotherapy. 2002 Sep;22(9):1205-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12222561"
+    },
+    {
+      "Title": "Grady D, Gebretsadik T, Kerlikowske K, Ernster V, Petitti D. Hormone replacement therapy and endometrial cancer risk: a meta-analysis. Obstet Gynecol. 1995 Feb;85(2):304-13.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/7824251"
+    },
+    {
+      "Title": "Kuiper GG, Gustafsson JA. The novel estrogen receptor-beta subtype: potential role in the cell- and promoter-specific actions of estrogens and anti-estrogens. FEBS Lett. 1997 Jun 23;410(1):87-90.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9247129"
+    },
+    {
+      "Title": "Labrie F. All sex steroids are made intracellularly in peripheral tissues by the mechanisms of intracrinology after menopause. J Steroid Biochem Mol Biol. 2015 Jan;145:133-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24923731"
+    },
+    {
+      "Title": "Lapcík O, Hampl R, Hill M, Wähälä K, Maharik NA, Adlercreutz H. Radioimmunoassay of free genistein in human serum. J Steroid Biochem Mol Biol. 1998 Mar;64(5-6):261-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9618027"
+    },
+    {
+      "Title": "Lydeking-Olsen E, Beck-Jensen JE, Setchell KD, Holm-Jensen T. Soymilk or progesterone for prevention of bone loss--a 2 year randomized, placebo-controlled trial. Eur J Nutr. 2004 Aug;43(4):246-57.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15309425"
+    },
+    {
+      "Title": "McCarty MF. Isoflavones made simple - genistein's agonist activity for the beta-type estrogen receptor mediates their health benefits. Med Hypotheses. 2006;66(6):1093-114.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16513288"
+    },
+    {
+      "Title": "Morabito N, Crisafulli A, Vergara C, Gaudio A, Lasco A, Frisina N, D'Anna R, Corrado F, Pizzoleo MA, Cincotta M, Altavilla D, Ientile R, Squadrito F. Effects of genistein and hormone-replacement therapy on bone loss in early postmenopausal women: a randomized double-blind placebo-controlled study. J Bone Miner Res. 2002 Oct;17(10):1904-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12369794"
+    },
+    {
+      "Title": "Mueller SO, Simon S, Chae K, Metzler M, Korach KS. Phytoestrogens and their human metabolites show distinct agonistic and antagonistic properties on estrogen receptor alpha (ERalpha) and ERbeta in human cells. Toxicol Sci. 2004 Jul;80(1):14-25.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15084758"
+    },
+    {
+      "Title": "Myung SK, Ju W, Choi HJ, Kim SC; Korean Meta-Analysis (KORMA) Study Group. Soy intake and risk of endocrine-related gynaecological cancer: a meta-analysis. BJOG. 2009 Dec;116(13):1697-705.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19775307"
+    },
+    {
+      "Title": "Nagel SC, vom Saal FS, Welshons WV. The effective free fraction of estradiol and xenoestrogens in human serum measured by whole cell uptake assays: physiology of delivery modifies estrogenic activity. Proc Soc Exp Biol Med. 1998 Mar;217(3):300-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9492339"
+    },
+    {
+      "Title": "Ollberding NJ, Lim U, Wilkens LR, Setiawan VW, Shvetsov YB, Henderson BE, Kolonel LN, Goodman MT. Legume, soy, tofu, and isoflavone intake and endometrial cancer risk in postmenopausal women in the multiethnic cohort study. J Natl Cancer Inst. 2012 Jan 4;104(1):67-76.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22158125"
+    },
+    {
+      "Title": "Oseni T, Patel R, Pyle J, Jordan VC. Selective estrogen receptor modulators and phytoestrogens. Planta Med. 2008 Oct;74(13):1656-65.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18843590"
+    },
+    {
+      "Title": "Reinwald S, Weaver CM. Soy components vs. whole soy: are we betting our bones on a long shot? J Nutr. 2010 Dec;140(12):2312S-2317S.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20980647"
+    },
+    {
+      "Title": "Rossouw JE, Anderson GL, Prentice RL, LaCroix AZ, Kooperberg C, Stefanick ML, Jackson RD, Beresford SA, Howard BV, Johnson KC, Kotchen JM, Ockene J; Writing Group for the Women's Health Initiative Investigators. Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial. JAMA. 2002 Jul 17;288(3):321-33.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12117397"
+    },
+    {
+      "Title": "Sammartino A, Di Carlo C, Mandato VD, Bifulco G, Di Stefano M, Nappi C. Effects of genistein on the endometrium: ultrasonographic evaluation. Gynecol Endocrinol. 2003 Feb;17(1):45-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12724018"
+    },
+    {
+      "Title": "So FV, Guthrie N, Chambers AF, Carroll KK. Inhibition of proliferation of estrogen receptor-positive MCF-7 human breast cancer cells by flavonoids in the presence and absence of excess estrogen. Cancer Lett. 1997 Jan 30;112(2):127-33.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/9066718"
+    },
+    {
+      "Title": "Somekawa Y, Chiguchi M, Ishibashi T, Aso T. Soy intake related to menopausal symptoms, serum lipids, and bone mineral density in postmenopausal Japanese women. Obstet Gynecol. 2001 Jan;97(1):109-15.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11152918"
+    },
+    {
+      "Title": "Taylor AH, Al-Azzawi F. Immunolocalisation of oestrogen receptor beta in human tissues. J Mol Endocrinol. 2000 Feb;24(1):145-55.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10657006"
+    },
+    {
+      "Title": "Vidal O, Kindblom LG, Ohlsson C. Expression and localization of estrogen receptor-beta in murine and human bone. J Bone Miner Res. 1999 Jun;14(6):923-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10352100"
+    },
+    {
+      "Title": "Vierk KA, Koehler KM, Fein SB, Street DA. Prevalence of self-reported food allergy in American adults and use of food labels. J Allergy Clin Immunol. 2007 Jun;119(6):1504-10.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/17451802"
+    },
+    {
+      "Title": "Wei P, Liu M, Chen Y, Chen DC. Systematic review of soy isoflavone supplements on osteoporosis in women. Asian Pac J Trop Med. 2012 Mar;5(3):243-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22305793"
+    },
+    {
+      "Title": "Zhang X, Shu XO, Li H, Yang G, Li Q, Gao YT, Zheng W. Prospective cohort study of soy food consumption and risk of bone fracture among postmenopausal women. Arch Intern Med. 2005 Sep 12;165(16):1890-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16157834"
+    }
+  ],
+  "Acknowledgements": "Image credit: PublicDomainPictures via Pixabay. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "allergies",
+      "Url": "https://nutritionfacts.org/topics/allergies/"
+    },
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "blood clots",
+      "Url": "https://nutritionfacts.org/topics/blood-clots/"
+    },
+    {
+      "Title": "bone fractures",
+      "Url": "https://nutritionfacts.org/topics/bone-fractures/"
+    },
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "bone mineral density",
+      "Url": "https://nutritionfacts.org/topics/bone-mineral-density/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "edamame",
+      "Url": "https://nutritionfacts.org/topics/edamame/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "endometrial cancer",
+      "Url": "https://nutritionfacts.org/topics/endometrial-cancer/"
+    },
+    {
+      "Title": "estrogen",
+      "Url": "https://nutritionfacts.org/topics/estrogen/"
+    },
+    {
+      "Title": "menopause",
+      "Url": "https://nutritionfacts.org/topics/menopause/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "ovarian cancer",
+      "Url": "https://nutritionfacts.org/topics/ovarian-cancer/"
+    },
+    {
+      "Title": "peanuts",
+      "Url": "https://nutritionfacts.org/topics/peanuts/"
+    },
+    {
+      "Title": "phytoestrogens",
+      "Url": "https://nutritionfacts.org/topics/phytoestrogens/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "soy milk",
+      "Url": "https://nutritionfacts.org/topics/soymilk/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "tempeh",
+      "Url": "https://nutritionfacts.org/topics/tempeh/"
+    },
+    {
+      "Title": "wheat",
+      "Url": "https://nutritionfacts.org/topics/wheat/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What if you’re at high risk for breast cancer? See <a href=\"https://nutritionfacts.org/video/brca-breast-cancer-genes-and-soy/\">BRCA Breast Cancer Genes and Soy</a>.</p>\n<p>What if you already have breast cancer? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-soy/\">Breast Cancer Survival and Soy</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-soy-healthy-for-breast-cancer-survivors/\">Is Soy Healthy for Breast Cancer Survivors?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-block-breast-cancers-estrogen-producing-enzymes/\">How to Block Breast Cancer’s Estrogen-Producing Enzymes</a></li>\n</ul>\n<p>What if you have fibroids? See <a href=\"https://nutritionfacts.org/video/should-women-with-fibroids-avoid-soy/\">Should Women with Fibroids Avoid Soy?</a>.</p>\n<p>What about hot flashes? See <a href=\"https://nutritionfacts.org/video/soy-phytoestrogens-for-menopause-hot-flashes/\">Soy Phytoestrogens for Menopause Hot Flashes</a>.</p>\n<p>What about genetically modified soy? See <a href=\"https://nutritionfacts.org/video/gmo-soy-and-breast-cancer/\">GMO Soy and Breast Cancer.</a></p>\n<p>Not all phytoestrogens are beneficial, though. See <a href=\"https://nutritionfacts.org/video/what-are-the-effects-of-the-hops-phytoestrogen-in-beer/\">What Are the Effects of the Hops Phytoestrogen in Beer?</a> and <a href=\"https://nutritionfacts.org/video/the-most-potent-phytoestrogen-is-in-beer/\">The Most Potent Phytoestrogen Is in Beer</a>.</p>\n<p>How deleterious is hormone replacement therapy? See <a href=\"https://nutritionfacts.org/video/how-did-doctors-not-know-about-the-risks-of-hormone-therapy/\">How Did Doctors Not Know About the Risks of Hormone Therapy?</a>.</p>\n<p>Synthetic estrogens used in animal agriculture are also a concern. For more on this, see <a href=\"https://nutritionfacts.org/video/zeranol-use-in-meat-and-breast-cancer/\">Zeranol Use in Meat and Breast Cancer</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

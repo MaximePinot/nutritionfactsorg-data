@@ -1,0 +1,179 @@
+{
+  "Title": "Infectobesity: Adenovirus 36 & Childhood Obesity",
+  "Url": "https://nutritionfacts.org/video/infectobesity-adenovirus-36-and-childhood-obesity/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/vrJPvfuVX2Q"
+  },
+  "UpdatedAt": "2014-10-27T10:50:05+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 21",
+    "Url": "https://nutritionfacts.org/volumes/volume-21/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Studies on more than a thousand children suggest that a viral infection may play a role in childhood obesity by increasing both the number and size of fat cells.",
+  "Transcript": "This study, correlating chicken consumption with weight gain, was performed in just one country on about 4000 people. This study included 4 other countries, and included 89,000 people. Animal protein intake was associated with long term weight gain, and again poultry was the worst, associated with 40% more weight gain than red meat or processed meat. Why poultry? Yes they’re so fatty these days because of the way we’ve genetically manipulated them: up to 10 times more fat and calories than they used to have, but one bizarre theory was that it might be due to an obesity-causing chicken virus, to which 1 in 5 obese humans tested positive, and those with exposure to the chicken virus averaged 33 pounds heavier than those testing negative.\nThis chicken virus was the first to be associated with human obesity, but not the last. It’s similar to chicken embryo lethal orphan virus, which is common among poultry in the US. The original obesity-causing chicken virus was able to effectively transmit obesity from one chicken to another when caged together, similar to adenovirus #36, a human obesity-associated virus first reported to cause obesity in chickens and mice, spreading quickly from one chicken to another via nasal, oral and fecal excretion and contamination. This of course raises serious concerns about transmissibility in people.\nThe easiest way to test this is to just experimentally infect humans with the virus and see how fat they get. Alas, ethical reasons preclude experimental infection of humans, and so the evidence will have to remain indirect. In the absence of direct experimental data, we have to rely on population studies like how they nailed smoking and lung cancer. Can’t force people to smoke a pack a day, but there are people that smoke on their own and we can see if they get more lung cancer. Similarly, about 15% of Americans are already infected with this virus, so let’s just follow them out and see what happens. 1,400 Hispanic men and women were followed for a decade, and not only were those exposed to the virus fatter than those who were not, but over ten years those with a history of infection had a greater percentage of body fat over time.\nMost studies done to date on adults have found a connection between exposure to this virus and obesity, and all of the studies done so far on childhood obesity show an increase in prevalence of infection in obese compared to non-obese children. Now we’re up to more than a thousand children studied with similar findings. Obese children who tested positive for the virus weighed 35 pounds more than children who tested negative.\nThe virus appears to increase the number of fat cells by mobilizing fat cell precursor stem cells, and then may increase the accumulation of fat within the cells. If you take liposuction samples of fat from people, the fat cell precursors turn into fat cells at about 5 time the rate in people who came to the liposuction clinic already infected. And fat taken from noninfected people exposed to the virus start sucking up fat at a faster rate, so may induce obesity without increasing food intake.\nJust like adenovirus 36 infection can be transmitted horizontally from one infected chicken to another in the same cage, and then they subsequently became obese. This same virus is also easily transmitted among humans, this raises the question as to whether at least some cases of childhood obesity can be considered an infectious disease. They speculate that this animal adenovirus may have mutated to become a human adenovirus capable of infecting humans and causing obesity.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Gilsing AM, Weijenberg MP, Hughes LA, Ambergen T, Dagnelie PC, Goldbohm RA, Brandt PA, Schouten LJ. Longitudinal changes in BMI in older adults are associated with meat consumption differentially, by type of meat consumed. J Nutr. 2012 Feb;142(2):340-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22223576"
+    },
+    {
+      "Title": "J Halkjær, A Olsen, K Overvad, M U Jakobsen, H Boeing, B Buijsse, D Palli, G Tognon, H Du, D L van der A, N G Forouhi, N J Wareham, E J Feskens, T I Sørensen, A Tjønneland. Intake of total, animal and plant protein and subsequent changes in weight or waist circumference in European men and women: the Diogenes project. Int J Obes (Lond). 2011 Aug;35(8):1104-13.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21139559"
+    },
+    {
+      "Title": "M Almgren, R Atkinson, J He, A Hilding, E Hagman, A Wolk, A Thorell, C Marcus, E Näslund, C G Östenson, M Schalling, C Lavebratt. Adenovirus-36 is associated with obesity in children and adults in Sweden as determined by rapid ELISA. PLoS One. 2012;7(7):e41652.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22848557"
+    },
+    {
+      "Title": "M Pasarica, N Mashtalir, E J McAllister, G E Kilroy, J Koska, P Permana, B de Courten, M Yu, E Ravussin, J M Gimble, N V Dhurandhar. Adipogenic human adenovirus Ad-36 induces commitment, differentiation, and lipid accumulation in human adipose-derived stem cells. Stem Cells. 2008 Apr;26(4):969-78.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18203674"
+    },
+    {
+      "Title": "N V Dhurandhar, B A Israel, J M Kolesar, G Mayhew, M E Cook, R L Atkinson. Transmissibility of adenovirus-induced adiposity in a chicken model. Int J Obes Relat Metab Disord. 2001 Jul;25(7):990-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/11443497"
+    },
+    {
+      "Title": "N V Dhurandhar, P Kulkarni, S M Ajinkya, A Sherikar. Effect of adenovirus infection on adiposity in chicken. Vet Microbiol. 1992 Jun 1;31(2-3):101-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/1320784"
+    },
+    {
+      "Title": "N V Dhurandhar, P R Kulkarni, S M Ajinkya, A A Sherikar, R L Atkinson. Association of adenovirus infection with human obesity. Obes Res. 1997 Sep;5(5):464-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9385623"
+    },
+    {
+      "Title": "N V Dhurandhar. A framework for identification of infections that contribute to human obesity. Lancet Infect Dis. 2011 Dec;11(12):963-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22115071"
+    },
+    {
+      "Title": "N V Dhurandhar. Is obesity caused by an adenovirus? Expert Rev Anti Infect Ther. 2012 May;10(5):521-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22702313"
+    },
+    {
+      "Title": "R L Atkinson, I Lee, H J Shin, J He. Human adenovirus-36 antibody status is associated with obesity in children. Int J Pediatr Obes. 2010 Apr;5(2):157-60.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19593728"
+    },
+    {
+      "Title": "R L Atkinson. Human adenovirus-36 and childhood obesity. Int J Pediatr Obes. 2011 Sep;6 Suppl 1:2-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21905809"
+    },
+    {
+      "Title": "S Esposito, V Preti, S Consolo, E Nazzari, N Principi. Adenovirus 36 infection and obesity. J Clin Virol. 2012 Oct;55(2):95-100.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22771001"
+    },
+    {
+      "Title": "T Twito, D Madeleine, R Perl-Treves, J Hillel, U Lavi. Comparative genome analysis with the human genome reveals chicken genes associated with fatness and body weight. Anim Genet. 2011 Dec;42(6):642-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22035006"
+    },
+    {
+      "Title": "T Yamada, K Hara, T Kadowaki. Association of adenovirus 36 infection with obesity and metabolic markers in humans: a meta-analysis of observational studies. PLoS One. 2012;7(7):e42031.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22848697"
+    },
+    {
+      "Title": "W Y Lin, O Dubuisson, R Rubicz, N Liu, D B Allison, J E Curran, A G Comuzzie, J Blangero, C T Leach, H Göring, N V Dhurandhar. Long-term changes in adiposity and glycemic control are associated with past adenovirus infection. Diabetes Care. 2013 Mar;36(3):701-7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23160725"
+    },
+    {
+      "Title": "Y Wang, C Lehane, K Ghebremeskel, MA Crawford. Modern organic and broiler chickens sold for human consumption provide more energy from fat than protein. Public Health Nutr. 2010 Mar;13(3):400-8.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19728900"
+    }
+  ],
+  "Acknowledgements": "Images thanks to GrahamColm via Wikimedia Commons.",
+  "Topics": [
+    {
+      "Title": "animal fat",
+      "Url": "https://nutritionfacts.org/topics/animal-fat/"
+    },
+    {
+      "Title": "animal protein",
+      "Url": "https://nutritionfacts.org/topics/animal-protein/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "body fat",
+      "Url": "https://nutritionfacts.org/topics/body-fat/"
+    },
+    {
+      "Title": "calories",
+      "Url": "https://nutritionfacts.org/topics/calories/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "fat",
+      "Url": "https://nutritionfacts.org/topics/fat/"
+    },
+    {
+      "Title": "fecal contamination",
+      "Url": "https://nutritionfacts.org/topics/fecal-contamination/"
+    },
+    {
+      "Title": "liposuction",
+      "Url": "https://nutritionfacts.org/topics/liposuction/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "obesity",
+      "Url": "https://nutritionfacts.org/topics/obesity/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "processed meat",
+      "Url": "https://nutritionfacts.org/topics/processed-meat/"
+    },
+    {
+      "Title": "red meat",
+      "Url": "https://nutritionfacts.org/topics/red-meat/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "turkey",
+      "Url": "https://nutritionfacts.org/topics/turkey/"
+    },
+    {
+      "Title": "viral infections",
+      "Url": "https://nutritionfacts.org/topics/viral-infections/"
+    },
+    {
+      "Title": "weight gain",
+      "Url": "https://nutritionfacts.org/topics/weight-gain/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I’ve addressed the association between poultry and obesity before in <a href=\"https://nutritionfacts.org/video/meat-and-weight-gain-in-the-panacea-study/\">Meat and Weight Gain in the PANACEA Study.</a></p>\n<p>More on poultry viruses:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/poultry-exposure-tied-to-liver-and-pancreatic-cancer/\">Poultry Exposure Tied to Liver and Pancreatic Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/carcinogenic-retrovirus-found-in-eggs/\">Carcinogenic Retrovirus Found in Eggs</a></li>\n<li><a href=\"https://nutritionfacts.org/video/chicken-dioxins-viruses-or-antibiotics/\">Chicken Dioxins, Viruses, or Antibiotics?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/poultry-and-penis-cancer/\">Poultry and Penis Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/poultry-exposure-and-neurological-disease/\">Poultry Exposure and Neurological Disease</a></li>\n</ul>\n<p>And more on keeping our children healthy:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/heart-disease-starts-in-childhood/\">Heart Disease Starts in Childhood</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-prevent-prediabetes-in-children/\">How to Prevent Prediabetes in Children</a></li>\n<li><a href=\"https://nutritionfacts.org/video/childhood-constipation-and-cows-milk/\">Childhood Constipation and Cow’s Milk</a></li>\n<li><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/perceptions-of-childhood-obesity-and-diet-quality/\">Perceptions of Childhood Obesity and Diet Quality</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

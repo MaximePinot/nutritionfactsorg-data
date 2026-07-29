@@ -1,0 +1,107 @@
+{
+  "Title": "Apples and Oranges: Dietary Diversity",
+  "Url": "https://nutritionfacts.org/video/apples-and-oranges-dietary-diversity/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/wIAdVL_cT6I"
+  },
+  "UpdatedAt": "2012-05-15T12:00:42+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 8",
+    "Url": "https://nutritionfacts.org/volumes/volume-8/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "In addition to quantity and quality, the variety of fruits and vegetables consumed matters, as many phytonutrients are not evenly distributed among the various families and parts of plants.",
+  "Transcript": "When it comes to fruits and vegetables, it’s not only quality and quantity, but also variety.\nWe know, for example, spinach is healthier than lettuce, and a big salad is better than small. But is it better to get the spring greens mesclun mix than even the straight spinach? Is it healthier to eat one apple and one orange than it is to eat three apples? Or three oranges?\nAn interesting pair of studies was recently released that looked at disease risk and the variety of fruit and vegetable consumption.\nI think we’re used to some of the more generic plant compounds, like vitamin C, which is sprinkled throughout the plant kingdom, whereas there are specific phytonutrients, produced by specific plants to perform specific functions—both in their organs and ours—and we miss out on them if we’re stuck in a fruit and vegetable rut, even if every day we’re eating a lot.\nThere are tens of thousands of phytonutrients, but they’re not evenly distributed throughout the plant kingdom. Those wonderful glucosinolates I’ve talked about are found almost exclusively in the cabbage family. You don’t get lemonoids like lemonin and limonol or tangeretin in apples, for example. Comparing apples and oranges is like, comparing apples and oranges.\nIn a sense, though, all fruits are just fruits, whereas vegetables can be any other part of the plant. Roots harbor different nutrients than shoots. Carrots are roots; celery and rhubarb are stems; dark green leafies are leaves; peas are pods; and cauliflower is true to its name—a collection of flower buds. But all fruits are just fruits, so it may be even more important to get in a variety of vegetables so you can benefit from all parts of the plant—and that’s indeed what they found.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bhupathiraju SN, Tucker KL. Greater variety in fruit and vegetable intake is associated with lower inflammation in Puerto Rican adults. Am J Clin Nutr. 2011 Jan;93(1):37-46.",
+      "Url": "http://www.ajcn.org/content/93/1/37.full.pdf+html"
+    },
+    {
+      "Title": "Büchner FL, Bueno-de-Mesquita HB, Ros MM, Overvad K, Dahm CC, Hansen L, Tjønneland A, Clavel-Chapelon F, Boutron-Ruault MC, Touillaud M, Kaaks R, Rohrmann S, Boeing H, Nöthlings U, Trichopoulou A, Zylis D, Dilis V, Palli D, Sieri S, Vineis P, Tumino R, Panico S, Peeters PH, van Gils CH, Lund E, Gram IT, Braaten T, Sánchez MJ, Agudo A, Larrañaga N, Ardanaz E, Navarro C, Argüelles MV, Manjer J, Wirfält E, Hallmans G, Rasmuson T, Key TJ, Khaw KT, Wareham N, Slimani N, Vergnaud AC, Xun WW, Kiemeney LA, Riboli E. Variety in fruit and vegetable consumption and the risk of lung cancer in the European prospective investigation into cancer and nutrition. Cancer Epidemiol Biomarkers Prev. 2010 Sep;19(9):2278-86.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20807832/"
+    },
+    {
+      "Title": "Haque N, Salma U, Nurunnabi TR, Haque AK, Mukti IJ, Pervin S, Nahar R. Lifestyle related causes of cancer and chemoprevention through phytonutrients. Pak J Biol Sci. 2010 Oct 1;13(19):916-26.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21313914"
+    },
+    {
+      "Title": "Manners GD. Citrus limonoids: analysis, bioactivity, and biomedical prospects. J Agric Food Chem. 2007 Oct 17;55(21):8285-94.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17892257"
+    },
+    {
+      "Title": "Murphy MM, Barraj LM, Herman D, Bi X, Cheatham R, Randolph RK. Phytonutrient Intake by Adults in the United States in Relation to Fruit and Vegetable Consumption. J Am Diet Assoc. 2011 Nov 9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22741166"
+    }
+  ],
+  "Acknowledgements": "Images thanks to Neutrality, PD Photos.org , Bill Ebbesen and Fir0002 via Wikimedia Commons, and http://www.picture-newsletter.com/.",
+  "Topics": [
+    {
+      "Title": "apples",
+      "Url": "https://nutritionfacts.org/topics/apples/"
+    },
+    {
+      "Title": "cabbage",
+      "Url": "https://nutritionfacts.org/topics/cabbage/"
+    },
+    {
+      "Title": "carrots",
+      "Url": "https://nutritionfacts.org/topics/carrots/"
+    },
+    {
+      "Title": "cauliflower",
+      "Url": "https://nutritionfacts.org/topics/cauliflower/"
+    },
+    {
+      "Title": "celery",
+      "Url": "https://nutritionfacts.org/topics/celery/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "greens",
+      "Url": "https://nutritionfacts.org/topics/greens/"
+    },
+    {
+      "Title": "lettuce",
+      "Url": "https://nutritionfacts.org/topics/lettuce/"
+    },
+    {
+      "Title": "oranges",
+      "Url": "https://nutritionfacts.org/topics/oranges/"
+    },
+    {
+      "Title": "peas",
+      "Url": "https://nutritionfacts.org/topics/peas/"
+    },
+    {
+      "Title": "phytonutrients",
+      "Url": "https://nutritionfacts.org/topics/phytonutrients/"
+    },
+    {
+      "Title": "salads",
+      "Url": "https://nutritionfacts.org/topics/salads/"
+    },
+    {
+      "Title": "spinach",
+      "Url": "https://nutritionfacts.org/topics/spinach/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>The pair of studies I refer to in the video is covered in <a href=\"https://nutritionfacts.org/video/garden-variety-anti-inflammation/\">Garden Variety Anti-Inflammation</a>. This was more of a backgrounder to set them up. The Puerto Rican study is available open access, so you can download it by clicking on its link in the Sources Cited section above.  In terms of fruit and vegetable quality, berries are the healthiest fruits (see <a href=\"https://nutritionfacts.org/video/best-berries/\" rel=\"nofollow\">Best Berries</a>) and greens are the healthiest vegetables. Be sure to check out my <a href=\"https://nutritionfacts.org/topics/fruit/\" rel=\"nofollow\">other videos on fruit</a> as well as my <a href=\"https://nutritionfacts.org/topics/vegetables/\" rel=\"nofollow\">other videos on vegetables.</a></p>\n<p>Please also check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/06/28/fighting-inflammation-with-food-synergy/\" rel=\"nofollow\">Fighting Inflammation With Food Synergy</a>; <a href=\"https://nutritionfacts.org/2012/10/18/kiwi-fruit-for-irritable-bowel-syndrome/\" rel=\"nofollow\">Kiwi Fruit for Irritable Bowel Syndrome</a>; and <a href=\"https://nutritionfacts.org/2013/12/12/anti-cancer-nutrient-synergy-in-cranberries/\">Anti-Cancer Nutrient Synergy in Cranberries</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

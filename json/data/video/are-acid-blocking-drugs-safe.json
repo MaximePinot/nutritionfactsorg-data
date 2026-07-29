@@ -1,0 +1,199 @@
+{
+  "Title": "Are Acid-Blocking Drugs Safe?",
+  "Url": "https://nutritionfacts.org/video/are-acid-blocking-drugs-safe/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/HrbHRDoyzGQ"
+  },
+  "UpdatedAt": "2018-10-29T11:50:25+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 44",
+    "Url": "https://nutritionfacts.org/volumes/volume-44/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Do the benefits outweigh the risks for acid-blocker drugs (proton pump inhibitors like Nexium/Prilosec/Prevacid)? What about baking soda?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nDyspepsia is the medical term for upset stomach. After eating, your stomach may hurt, or you feel bloated, nauseous, overly full, belching. “Despite the high prevalence of the disorder, there are no approved treatments for” it in the Western world. This leads people to seek out alternatives like baking soda, which the manufacturer promotes for use for “upset stomach.”\nThe problem is that “[i]t contains sodium bicarbonate and [therefore] has the potential for significant toxicity when ingested in excessive amounts,” potentially resulting “in serious electrolyte and acid/base imbalances.”\nThe labels were modified in 1990 to include the warning, “Do not administer to children under age 5,” because of reports of “seizure and respiratory depression.” Even just “a pinch” may be too much for an infant, and even just a few large spoonfuls could be fatal in a child.\nAnother new addition is the “stomach warning,” stressing the importance of not taking the product “when overly full with food or drink.” Why not? Well, if you’re familiar with scholastic science fair volcanoes, they’re baking soda and vinegar, right? Baking soda and acid, like what’s in your stomach. “This warning was added at the request of the [FDA] because of multiple case reports of spontaneous gastric rupture,” where people’s stomachs burst.\nBut, exploding stomachs aside, even just sticking to the suggested dose may still cause adverse effects. So, baking soda cannot be recommended, especially in “young children, pregnant women, alcoholics, and those who are on diuretics”—common blood pressure medications sometimes referred to as water pills.\nWhat about acid-blocking drugs like Nexium or Prilosec? They work better than sugar pills, but not by much—helping 31% of dyspepsia sufferers, compared to 26% helped by placebo. In other words, 5% better than nothing. These so-called proton pump inhibitors “have…been extremely lucrative for the pharmaceutical industry,” raking in billions a year, but now that we have these massive computerized databases of patients, we can start to evaluate some of their “possible long term adverse effects.” For example: possible increased pneumonia, bone fractures, intestinal infections, heart disease, kidney failure, “and even all-cause mortality.” “The latest concern [to surface] has been the association between [the use of these drugs] and [the] risk of dementia.”\nThe problem with all these studies just showing associations, though, is that you can’t prove cause and effect. Maybe taking the drugs didn’t make people sick. Maybe being sick made people take the drugs. So, maybe it’s not that these drugs are the cause of these infections, fractures, death, and dementia; it’s just that they may instead be a marker for being sicker. But, there are potential mechanisms by which these drugs could have some of these effects. For example, here’s the death data. The longer people are exposed to these drugs, the higher their apparent risk of dying prematurely. But, like how could suppressing acid production in the stomach increase mortality, which is mostly like heart disease? Well, suppressing acid isn’t the only thing these drugs do. They may also cause a reduction in nitric oxide synthase, the enzyme that makes the open-sesame molecule that helps keep our arteries healthy.\nIn terms of dementia, a key event in the development of Alzheimer’s disease is the accumulation of these plaques of a sticky protein called amyloid beta. And if you just stick Alzheimer’s-like cells in a petri dish, and drip on increasing levels of the drug Prevacid, the cells start churning out more amyloid. And the same thing with Prilosec or Losec, Protonix, and Nexium.\nNow, just because something happens in a petri dish or mouse model doesn’t mean it happens in a person. But, most studies to date have found this link between dementia risk with the use of these drugs—including the largest such study to date, involving tens of thousands of patients, that concluded that avoiding the chronic use of these drugs “may [help] prevent the development of dementia.” Though an alternative explanation of the link is aluminum exposure, which itself may play a role in dementia. So, maybe those using acid-blocking drugs have heartburn or something, and so are also using more aluminum-containing antacids, and that’s actually the real culprit? We still don’t know.\nWhat we do know is that there’s “an almost cultish faith in [stomach] acid suppression” as some kind of medical panacea, which “has led to progressive escalation of…dosage and potency” of these drugs, all the while “mounting evidence” suggests these drugs may cause a variety of “adverse effects” and are “overprescribed.”\nHow overprescribed? “[T]he rate of inappropriate use of these drugs” is about half. Half the people on the drugs shouldn’t even be on them. “These rates are…worrying, because they mean that [these drugs] are prescribed for” things they shouldn’t even be prescribed for, meaning there aren’t even proven benefits to outweigh the risks.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Al-abri SA, Kearney T. Baking soda misuse as a home remedy: case experience of the California Poison Control System. J Clin Pharm Ther. 2014;39(1):73-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24313600"
+    },
+    {
+      "Title": "Atri A, Gerson LB. Continued Questions About Whether Avoidance of Proton Pump Inhibitors Can Reduce Risk of Dementia. Gastroenterology. 2016;151(3):555-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27479443"
+    },
+    {
+      "Title": "Badiola N, Alcalde V, Pujol A, et al. The proton-pump inhibitor lansoprazole enhances amyloid beta production. PLoS ONE. 2013;8(3):e58837.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23520537"
+    },
+    {
+      "Title": "Batchelor R, Gilmartin JF, Kemp W, Hopper I, Liew D. Dementia, cognitive impairment and proton pump inhibitor therapy: A systematic review. J Gastroenterol Hepatol. 2017;32(8):1426-1435.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28128476"
+    },
+    {
+      "Title": "Gomm W, Von holt K, Thomé F, et al. Association of Proton Pump Inhibitors With Risk of Dementia: A Pharmacoepidemiological Claims Data Analysis. JAMA Neurol. 2016;73(4):410-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26882076"
+    },
+    {
+      "Title": "Keller DL. Proton Pump Inhibitors and Dementia Incidence. JAMA Neurol. 2016;73(8):1025.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27323287"
+    },
+    {
+      "Title": "Moayyedi P, Lewis MA. Proton Pump Inhibitors and Dementia: Deciphering the Data. Am J Gastroenterol. 2017;112(12):1809-1811.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29215629"
+    },
+    {
+      "Title": "Pinto-sanchez MI, Yuan Y, Hassan A, Bercik P, Moayyedi P. Proton pump inhibitors for functional dyspepsia. Cochrane Database Syst Rev. 2017;11:CD011194.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29161458"
+    },
+    {
+      "Title": "Savarino V, Dulbecco P, De bortoli N, Ottonello A, Savarino E. The appropriate use of proton pump inhibitors (PPIs): Need for a reappraisal. Eur J Intern Med. 2017;37:19-24.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27784575"
+    },
+    {
+      "Title": "Schoenfeld AJ, Grady D. Adverse Effects Associated With Proton Pump Inhibitors. JAMA Intern Med. 2016;176(2):172-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26751904"
+    },
+    {
+      "Title": "Vakil NB, Howden CW, Moayyedi P, Tack J. White Paper AGA: Functional Dyspepsia. Clin Gastroenterol Hepatol. 2017;15(8):1191-1194.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28529164"
+    },
+    {
+      "Title": "Xie Y, Bowe B, Li T, Xian H, Yan Y, Al-aly Z. Risk of death among users of Proton Pump Inhibitors: a longitudinal observational cohort study of United States veterans. BMJ Open. 2017;7(6):e015735.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28676480"
+    },
+    {
+      "Title": "Yadlapati R, Kahrilas PJ. When is proton pump inhibitor use appropriate?. BMC Med. 2017;15(1):36.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28219434"
+    }
+  ],
+  "Acknowledgements": "Image credit: Mike Mozart via flickr. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "acid/base balance",
+      "Url": "https://nutritionfacts.org/topics/acidbase-balance/"
+    },
+    {
+      "Title": "aluminum",
+      "Url": "https://nutritionfacts.org/topics/aluminum/"
+    },
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "antacids",
+      "Url": "https://nutritionfacts.org/topics/antacids/"
+    },
+    {
+      "Title": "baking soda",
+      "Url": "https://nutritionfacts.org/topics/baking-soda/"
+    },
+    {
+      "Title": "bloating",
+      "Url": "https://nutritionfacts.org/topics/bloating/"
+    },
+    {
+      "Title": "bone fractures",
+      "Url": "https://nutritionfacts.org/topics/bone-fractures/"
+    },
+    {
+      "Title": "bone health",
+      "Url": "https://nutritionfacts.org/topics/bone-health/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "dyspepsia",
+      "Url": "https://nutritionfacts.org/topics/dyspepsia/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "iatrogenic",
+      "Url": "https://nutritionfacts.org/topics/iatrogenic/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "infants",
+      "Url": "https://nutritionfacts.org/topics/infants/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "memory",
+      "Url": "https://nutritionfacts.org/topics/memory/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "nausea",
+      "Url": "https://nutritionfacts.org/topics/nausea/"
+    },
+    {
+      "Title": "pneumonia",
+      "Url": "https://nutritionfacts.org/topics/pneumonia/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "seizures",
+      "Url": "https://nutritionfacts.org/topics/seizures/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "stomach health",
+      "Url": "https://nutritionfacts.org/topics/stomach-health/"
+    },
+    {
+      "Title": "stomach inflammation",
+      "Url": "https://nutritionfacts.org/topics/stomach-inflammation/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Stay tuned for my next video, <a href=\"https://nutritionfacts.org/video/the-best-diet-for-upset-stomach/\">The Best Diet for Upset Stomach</a> (you had a sneaking suspicion that’s where I was going, didn’t you? :).</p>\n<p>Surprised you haven’t heard about the potential downsides of popular medications. Here are some red pills to see how deep the rabbit hole goes:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/do-antidepressant-drugs-really-work/\">Do Antidepressant Drugs Really Work?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-prevention-is-worth-a-ton-of-cure/\">Why Prevention Is Worth a Ton of Cure</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-did-doctors-not-know-about-the-risks-of-hormone-therapy/\">How Did Doctors Not Know About the Risks of Hormone Therapy?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-doctors-responded-to-being-named-a-leading-killer/\">How Doctors Responded to Being Named a Leading Killer</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "Title": "Human Neurotransmitters in Plants",
+  "Url": "https://nutritionfacts.org/video/human-neurotransmitters-in-plants/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/pbHleHVT2xo"
+  },
+  "UpdatedAt": "2012-08-01T11:05:49+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 10",
+    "Url": "https://nutritionfacts.org/volumes/volume-10/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The consumption of certain fruits is suggested as a potential treatment for depression, given the presence of psychoactive neurotransmitters such as serotonin, dopamine, and melatonin in many plant foods.",
+  "Transcript": "A strange letter was recently published in the Journal of Neuropsychiatry and Clinical Neuroscience, suggesting fruit as a treatment for depression. It starts out talking about how bad the disease is, how abnormally low levels of neurotransmitters like serotonin in the brain may be responsible, how we now have several classes of drugs, such as SSRIs (like Prozac) that may work by boosting serotonin levels—but then, of course, notes how these medications bring with them some serious problems, side effects, etc. And, so, a new therapeutic approach is needed.\nHow about using high-content sources of serotonin to provide our body with these substances? You know, like plantains, pineapples, bananas, kiwis, plums, and tomatoes. What? Since when do plants have human neurotransmitters? Since forever, I was surprised to learn.\n“Animal neurotransmitter substances in plants.” They’ve got all the stuff we do. There’s adrenaline in plants; there’s dopamine, serotonin, melatonin. In fact, there was a recent study trying to figure out which varieties of tomatoes and strawberries had the most. And, there’s actually enough in a serving to enhance levels in our bloodstream.\nHumans use serotonin as a neurotransmitter. Plants use serotonin in a protective role—adaptation, flowering, establishing its shape. In fact, the same drugs that we use to affect our psychology can affect a plant’s biology. This is your plant—St. John’s Wort. This is your plant on Prozac, Ritalin, amphetamines.\nOkay; so, fine. Bioactive human neurotransmitters in plants—but what’s in it for us? Can fruit really be used to treat depression?\nWe’ll find out in tomorrow’s video-of-the-day.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Kerry Skinner.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Gharibzadeh S, Hosseini M, Shoar S, Hoseini SS. Depression and fruit treatment. J Neuropsychiatry Clin Neurosci. 2010 Fall;22(4):451-m.e25-451.e25.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21037145"
+    },
+    {
+      "Title": "Kulma A, Szopa J. Catecholamines are active compounds in plants. Plant Science. 2007 March;172(3):433-440.",
+      "Url": "http://www.sciencedirect.com/science/article/pii/S0168945206003025"
+    },
+    {
+      "Title": "Murch SJ, Campbell SSB, and Saxena PK. The Role of Serotonin and Melatonin in Plant Morphogenesis: Regulation of Auxin-Induced Root Organogenesis in In vitro-Cultured Explants of St. John's Wort (Hypericum perforatum L.) Plant. In Vitro Cellular & Developmental Biology. 2001 Nov-Dec;37(6):786-793.",
+      "Url": "http://www.jstor.org/discover/10.2307/4293548?uid=3739256&uid=2129&uid=2&uid=70&uid=4&sid=21100816103711"
+    },
+    {
+      "Title": "Odjakova M, Hadjiivanova C. Animal neurotransmitter substances in plants. Bulg J Plant Physiol. 1997;23:94–102.",
+      "Url": "http://www.bio21.bas.bg/ipp/gapbfiles/v-23/97_1-2_94-102.pdf"
+    },
+    {
+      "Title": "Stürtz M, Cerezo AB, Cantos-Villar E, Garcia-Parrilla MC. Determination of the melatonin content of different varieties of tomatoes ( Lycopersicon esculentum ) and strawberries ( Fragaria ananassa ). Food Chemistry. 2011;127(3):1329-1334.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25214134/"
+    }
+  ],
+  "Acknowledgements": "Image thanks to GerryShaw via Wikimedia",
+  "Topics": [
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "antidepressants",
+      "Url": "https://nutritionfacts.org/topics/antidepressants/"
+    },
+    {
+      "Title": "bananas",
+      "Url": "https://nutritionfacts.org/topics/bananas/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "complementary medicine",
+      "Url": "https://nutritionfacts.org/topics/complementary-medicine/"
+    },
+    {
+      "Title": "depression",
+      "Url": "https://nutritionfacts.org/topics/depression/"
+    },
+    {
+      "Title": "dopamine",
+      "Url": "https://nutritionfacts.org/topics/dopamine/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "kiwifruit",
+      "Url": "https://nutritionfacts.org/topics/kiwifruit/"
+    },
+    {
+      "Title": "medications",
+      "Url": "https://nutritionfacts.org/topics/medications/"
+    },
+    {
+      "Title": "melatonin",
+      "Url": "https://nutritionfacts.org/topics/melatonin/"
+    },
+    {
+      "Title": "mental health",
+      "Url": "https://nutritionfacts.org/topics/mental-health/"
+    },
+    {
+      "Title": "mood",
+      "Url": "https://nutritionfacts.org/topics/mood/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "plums",
+      "Url": "https://nutritionfacts.org/topics/plums/"
+    },
+    {
+      "Title": "Prozac",
+      "Url": "https://nutritionfacts.org/topics/prozac/"
+    },
+    {
+      "Title": "serotonin",
+      "Url": "https://nutritionfacts.org/topics/serotonin/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "St. John's Wort",
+      "Url": "https://nutritionfacts.org/topics/st-johns-wort/"
+    },
+    {
+      "Title": "strawberries",
+      "Url": "https://nutritionfacts.org/topics/strawberries/"
+    },
+    {
+      "Title": "tomatoes",
+      "Url": "https://nutritionfacts.org/topics/tomatoes/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the first video of a four-part series on boosting the serotonin levels in the brain—the so-called “happiness hormone.” That’s what drugs like Prozac do. But, are there more natural ways without so many side effects? In <a href=\"https://nutritionfacts.org/video/the-wrong-way-to-boost-serotonin/\" rel=\"nofollow\">The Wrong Way to Boost Serotonin</a>, I talk about tryptophan supplements. Then, in <a href=\"https://nutritionfacts.org/video/a-better-way-to-boost-serotonin/\" rel=\"nofollow\">A Better Way to Boost Serotonin</a>, I dispel the common myth about tryptophan and turkey. And, finally, <a href=\"https://nutritionfacts.org/video/the-best-way-to-boost-serotonin/\" rel=\"nofollow\">The Best Way to Boost Serotonin</a> discusses a strategy to maximize the transport of the serotonin precursor across the blood-brain barrier. This whole saga reminds me of <a href=\"https://nutritionfacts.org/video/power-plants/\" rel=\"nofollow\">Power Plants</a>. Be sure to check out <a href=\"https://nutritionfacts.org/video/improving-mood-through-diet/\" rel=\"nofollow\">Improving Mood Through Diet</a>, as well as my full-length <a href=\"https://nutritionfacts.org/video/uprooting-the-leading-causes-of-death/\" rel=\"nofollow\">Uprooting the Leading Causes of Death</a> presentation (in which this video content is mentioned in the suicide section). I also have many <a href=\"https://nutritionfacts.org/?fwp_search=mood+diet&amp;fwp_content_type=video/\">other videos on mood and diet</a>.</p>\n<p>For more context, check out my associated blog posts: <a href=\"https://nutritionfacts.org/2012/11/15/boost-serotonin-naturally/\" rel=\"nofollow\">How To Boost Serotonin Naturally</a>, <a href=\"https://nutritionfacts.org/2013/03/12/saffron-vs-prozac-for-depression/\">Saffron vs. Prozac for Depression</a>, and <a href=\"https://nutritionfacts.org/2014/01/07/how-probiotics-affect-mental-health/\">How Probiotics Affect Mental Health</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

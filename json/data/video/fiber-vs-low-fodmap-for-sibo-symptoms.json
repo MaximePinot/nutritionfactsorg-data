@@ -1,0 +1,147 @@
+{
+  "Title": "Fiber vs. Low FODMAP for SIBO Symptoms",
+  "Url": "https://nutritionfacts.org/video/fiber-vs-low-fodmap-for-sibo-symptoms/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/eqCY2TOyKYo"
+  },
+  "UpdatedAt": "2021-08-11T11:50:51+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 54",
+    "Url": "https://nutritionfacts.org/volumes/volume-54/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "It may not be the number of bacteria growing in your small intestine, but the type of bacteria, which can be corrected with diet.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIf you test more than a thousand patients suffering from irritable bowel-type symptoms such as excess gas, bloating, diarrhea, and abdominal pain for longer than six months who don’t appear to have anything more serious going on, such as inflammatory bowel disease, a significant percentage were found to be suffering from lactose intolerance—intolerance to the milk sugar lactose. In infancy we have an enzyme in our small intestine that digests milk sugar, but most of us understandably lose it after weaning. “Although a genetic mutation has led to the persistence of [the enzyme] in [a minority of] adults, about 75 percent of the world’s population malabsorb lactose [and have lactose intolerance] after age 30.” A third, though, were diagnosed with SIBO, small intestinal bacterial overgrowth.\nThe evidence for SIBO and IBS symptoms is shrouded in controversy, predominantly because of the fact that the breath tests used in clinical practice to diagnose SIBO are not valid, as I explored in the last video. And it’s not even clear what the implications are of having more versus less bacteria growing in your small intestine, since the number don’t seem to correlate with symptoms. It turns out it’s not the number but the type. It’s the kind of bugs you have growing in your small intestine. So, it’s “small intestinal microbial dysbiosis”––not overgrowth in general, but the wrong kind of growth, that appears to underlie symptoms associated with functional gastrointestinal disorders like irritable bowel syndrome.\nHow can you prevent this from happening? Well, the symptoms appeared be correlated to a significant drop in the number of Prevotella species. Remember them? Prevotella are healthy fiber feeders, suggestive of a higher ﬁber intake in healthy individuals, while the bugs found more in symptomatic patients ate sugar, which may reﬂect a higher dietary intake of sugars. Yes, but correlation doesn’t mean causation. To prove cause-and-effect, you have to put it to the test, which is exactly what they did.\n“Switching a group of healthy individuals who habitually ate a higher­ fiber diet… to a [more typical standard American] low-­fiber diet [with lots of sugar]… produced striking results” within just seven days. “First, 80 percent developed [new] gastrointestinal symptoms [out of the blue], such as bloating and abdominal pain that resolved on resumption of their [more healthful,] habitual high[er]-fiber diet. [And the] diet­-related changes in the small intestinal microbiome were predictive of symptoms… and linked to an alteration in [intestinal] permeability;” in other words, they developed a leaky gut within seven days. And while some went from SIBO positive to SIBO negative, or SIBO negative to SIBO positive, it didn’t matter, since the number of bacteria growing didn’t correlate with symptoms. It was the type of bacteria growing.\nAnd no wonder their guts got leaky. Short-chain fatty acid levels plummeted. Those are the magical by-products that our good gut bugs make from fiber, which “play an important role in [intestinal] barrier integrity,” meaning keeping our gut from getting leaky.\nSo, while we don’t have sound data that something like a low-FODMAP diet has any benefit for SIBO-symptom patients, there have been more than a dozen randomized controlled trials putting fiber to the test and, overall, there was a signiﬁcant improvement in symptoms among those randomized to increase their ﬁber intake. That may actually help explain why high-fiber, plant-based diets may prevent so many common diseases—the effect such diets have on the composition and metabolic activity of our microbiome. Our good gut bugs take the plant residues like fiber, and produce “health-promoting and cancer-suppressing metabolites,” like those short-chain fatty acids “which have profound anti-inflammatory” properties. “All the evidence points to a physiological need for about 50 g [of] fiber per day, which is the amount contained in the traditional African diet and associated with the prevention of westernized diseases.” That’s approximately twice what’s typically recommended, and three times more than what most people are getting day to day. Perhaps it should be no surprise we need so much. Even though we split from chimpanzees millions of years ago, “there is still broad congruency” in the composition of our respective microbiomes to this day. While they’re still eating their 98-99 percent plant-based diets to feed their friendly flora with fiber, we’ve largely removed fiber-rich foods from our food supply.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Amieva-Balmori M, Coss-Adame E, Rao NS, Dávalos-Pantoja BM, Rao SSC. Diagnostic utility of carbohydrate breath tests for sibo, fructose, and lactose intolerance. Dig Dis Sci. 2020;65(5):1405-13.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31617133/"
+    },
+    {
+      "Title": "Aziz I, Törnblom H, Simrén M. Small intestinal bacterial overgrowth as a cause for irritable bowel syndrome: guilty or not guilty? Curr Opin Gastroenterol. 2017;33(3):196-202.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28257307/"
+    },
+    {
+      "Title": "Moayyedi P, Quigley EMM, Lacy BE, et al. The effect of fiber supplementation on irritable bowel syndrome: a systematic review and meta-analysis. Am J Gastroenterol. 2014;109(9):1367-74.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25070054/"
+    },
+    {
+      "Title": "Nishida AH, Ochman H. A great-ape view of the gut microbiome. Nat Rev Genet. 2019;20(4):195-206.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30622302/"
+    },
+    {
+      "Title": "Quigley EMM. Symptoms and the small intestinal microbiome - the unknown explored. Nat Rev Gastroenterol Hepatol. 2019;16(8):457-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31213706/"
+    },
+    {
+      "Title": "Rao SSC, Bhagatwala J. Small intestinal bacterial overgrowth: clinical features and therapeutic management. Clin Transl Gastroenterol. 2019;10(10):e00078.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31584459/"
+    },
+    {
+      "Title": "Saffouri GB, Shields-Cutler RR, Chen J, et al. Small intestinal microbial dysbiosis underlies symptoms associated with functional gastrointestinal disorders. Nat Commun. 2019;10(1):2012.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31043597/"
+    },
+    {
+      "Title": "\"Nagarajan N, Morden A, Bischof D, et al. The role of fiber supplementation in the treatment of irritable bowel syndrome: a systematic review and meta-analysis. Eur J Gastroenterol Hepatol. 2015;27(9):1002-10. \"",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26148247/"
+    },
+    {
+      "Title": "\"O’Keefe SJD. Plant-based foods and the microbiome in the preservation of health and prevention of disease. Am J Clin Nutr. 2019;110(2):265-6. \"",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31268135/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "abdominal pain",
+      "Url": "https://nutritionfacts.org/topics/abdominal-pain/"
+    },
+    {
+      "Title": "anti-inflammatory",
+      "Url": "https://nutritionfacts.org/topics/anti-inflammatory/"
+    },
+    {
+      "Title": "bloating",
+      "Url": "https://nutritionfacts.org/topics/bloating/"
+    },
+    {
+      "Title": "butyrate",
+      "Url": "https://nutritionfacts.org/topics/butyrate/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diarrhea",
+      "Url": "https://nutritionfacts.org/topics/diarrhea/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "flatulence",
+      "Url": "https://nutritionfacts.org/topics/flatulence/"
+    },
+    {
+      "Title": "FODMAPs",
+      "Url": "https://nutritionfacts.org/topics/fodmaps/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "irritable bowel syndrome",
+      "Url": "https://nutritionfacts.org/topics/irritable-bowel-syndrome/"
+    },
+    {
+      "Title": "lactose",
+      "Url": "https://nutritionfacts.org/topics/lactose/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "Prevotella",
+      "Url": "https://nutritionfacts.org/topics/prevotella/"
+    },
+    {
+      "Title": "short-chain fatty acids",
+      "Url": "https://nutritionfacts.org/topics/short-chain-fatty-acids/"
+    },
+    {
+      "Title": "SIBO",
+      "Url": "https://nutritionfacts.org/topics/sibo/"
+    },
+    {
+      "Title": "standard American diet",
+      "Url": "https://nutritionfacts.org/topics/standard-american-diet/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you missed the previous video, see <a href=\"https://nutritionfacts.org/video/are-small-intestinal-bacterial-overgrowth-sibo-tests-valid/\">Are Small Intestinal Bacterial Overgrowth (SIBO) Tests Valid?</a>.</p>\n<p>For more on IBS and IBS-type symptoms, check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/kiwifruit-for-irritable-bowel-syndrome/\">Kiwifruit for Irritable Bowel Syndrome</a></li>\n<li><a href=\"https://nutritionfacts.org/video/cayenne-pepper-for-irritable-bowel-syndrome-and-chronic-indigestion/\">Cayenne Pepper for Irritable Bowel Syndrome and Chronic Indigestion</a></li>\n<li><a href=\"https://nutritionfacts.org/video/peppermint-oil-for-irritable-bowel-syndrome/\">Peppermint Oil for Irritable Bowel Syndrome</a></li>\n<li><a href=\"https://nutritionfacts.org/video/ginger-nausea-menstrual-cramps-irritable-bowel-syndrome/\">Ginger for Nausea, Menstrual Cramps, and Irritable Bowel Syndrome</a></li>\n</ul>\n<p>If you’re interested in more on leaky gut, check out <a href=\"https://nutritionfacts.org/video/avoid-these-foods-to-prevent-a-leaky-gut/\">Avoid These Foods to Prevent a Leaky Gut</a> and <a href=\"https://nutritionfacts.org/video/how-to-heal-a-leaky-gut-with-diet/\">How to Heal a Leaky Gut with Diet</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

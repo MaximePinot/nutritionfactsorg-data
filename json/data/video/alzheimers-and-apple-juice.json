@@ -1,0 +1,83 @@
+{
+  "Title": "Alzheimer’s & Apple Juice",
+  "Url": "https://nutritionfacts.org/video/alzheimers-and-apple-juice/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/yVycioSje0o"
+  },
+  "UpdatedAt": "2011-11-30T13:00:37+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 6",
+    "Url": "https://nutritionfacts.org/volumes/6/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Pilot study published on whether apple juice could affect the cognitive performance, day-to-day functioning, mood, or behavior of Alzheimer’s patients.",
+  "Transcript": "What if you or a loved one already has Alzheimer’s? The Processed Apples Institute funded a study suggesting apple juice may help prevent Alzheimer’s. But now they’re back. After changing their name to the Apple Products Research and Education Council, they funded a new study, in which, instead of dripping apple juice on nerve cells in a petri dish, they had 21 Alzheimer’s patients drink a cup of apple juice every day for a month to see what would happen. Works in the lab—but does it work in the nursing home?\nAfter a month of apple juice, no change in cognitive performance or day-to-day functioning, but they did report improvements in mood and behavior. Less apathy, agitation, anxiety, depression, and delusion. Did seem to hallucinate a bit more, though.\nBut this was a tiny study, with no placebo control. But hey, there are worse things doctors give them than apple juice. Though if I were going to repeat the study, I’d choose pomegranate or purple grape. Though then, one would miss out on funds from Big Apple.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Ortiz D, Shea TB. Apple juice prevents oxidative stress induced by amyloid-beta in culture. J Alzheimers Dis. 2004 Feb;6(1):27-30.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15004325"
+    },
+    {
+      "Title": "Remington R, Chan A, Lepore A, Kotlya E, Shea TB. Apple juice improved behavioral but not cognitive symptoms in moderate-to-late stage Alzheimer's disease in an open-label pilot study. Am J Alzheimers Dis Other Demen. 2010 Jun;25(4):367-71.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20338990"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Amy Loves Yah / Flickr",
+  "Topics": [
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "anxiety",
+      "Url": "https://nutritionfacts.org/topics/anxiety/"
+    },
+    {
+      "Title": "apple juice",
+      "Url": "https://nutritionfacts.org/topics/apple-juice/"
+    },
+    {
+      "Title": "brain health",
+      "Url": "https://nutritionfacts.org/topics/brain-health/"
+    },
+    {
+      "Title": "dementia",
+      "Url": "https://nutritionfacts.org/topics/dementia/"
+    },
+    {
+      "Title": "depression",
+      "Url": "https://nutritionfacts.org/topics/depression/"
+    },
+    {
+      "Title": "grape juice",
+      "Url": "https://nutritionfacts.org/topics/grape-juice/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "mood",
+      "Url": "https://nutritionfacts.org/topics/mood/"
+    },
+    {
+      "Title": "pomegranate juice",
+      "Url": "https://nutritionfacts.org/topics/pomegranate-juice/"
+    },
+    {
+      "Title": "pomegranates",
+      "Url": "https://nutritionfacts.org/topics/pomegranates/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Be sure to check out my <a href=\"https://nutritionfacts.org/topics/cognition/\" rel=\"nofollow\">other videos on cognition</a>, including <a href=\"https://nutritionfacts.org/video/constructing-a-cognitive-portfolio/\" rel=\"nofollow\">Constructing a cognitive portfolio</a>.</p>\n<p>For more context, also check out my associated blog post: <a href=\"https://nutritionfacts.org/2011/11/29/alzheimers-disease-up-to-half-of-cases-potentially-preventable-with-lifestyle-changes/\" rel=\"nofollow\">Alzheimer’s Disease: Up to half of cases potentially preventable</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

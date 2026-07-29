@@ -1,0 +1,55 @@
+{
+  "Title": "The Risks and Benefits of Neti Pot Nasal Irrigation",
+  "Url": "https://nutritionfacts.org/video/the-risks-and-benefits-of-neti-pot-nasal-irrigation/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/jPN4js84zGs"
+  },
+  "UpdatedAt": "2011-12-16T13:00:02+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 6",
+    "Url": "https://nutritionfacts.org/volumes/6/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Though nasal irrigation with salt water has been found to an effective and inexpensive treatment option for sinusitis symptom relief, neti pot use may increase the risk of recurrence. A new study reveals why, and what we can do about it.",
+  "Transcript": "As described in a 2011 review in American Family Physician, nasal irrigation with salt water using something like a neti pot has been shown to be beneficial for those suffering from sinus infections. “…a safe and inexpensive treatment option for patients seeking symptom relief,” an opinion shared by none other than The Cochrane Collaboration, probably the most prestigious source of evidence-based medicine. So, what’s the downside?\nWell, as with any alternative or complementary medicine modality, there’s always a concern that it could potentially delay treatment of serious disease. But for non-severe symptoms in immunocompetent individuals—just mild pain and fever, symptoms lasting less than a week—nasal irrigation can work wonders.\nBut the reason I bring it up is that an abstract presented at a medical conference in 2009 suggested chronic nasal irrigation may result in more frequent, recurrent attacks of sinusitis, and a new study appears to have figured out why.\nPeople were reinfecting themselves with contaminated neti pots (called here irrigation bottles). They cultured bacteria out of 97% of the bottles collected from people who used them for recurring sinusitis. Under a microscope, they demonstrated biofilm formation—bacteria stuck to the inner surface so you can’t just rinse them out. The same bugs that caused your sinus infection in the first place may just be sitting there waiting to reinfect you later on.\nThe good news is they found simple cleaning methods—washing them out with boiling water or microwaving them for 2 minutes—did a good job of sterilizing them, so they are ready and clean for their next use.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by veganmontreal. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Aring AM, Chan MM. Acute rhinosinusitis in adults. Am Fam Physician. 2011 May 1;83(9):1057-63.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21534518"
+    },
+    {
+      "Title": "Harvey R, Hannan SA, Badia L, Scadding G. Nasal saline irrigations for the symptoms of chronic rhinosinusitis. Cochrane Database Syst Rev. 2007 Jul 18;(3):CD006394.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/17636843"
+    },
+    {
+      "Title": "Keen M, Foreman A, Wormald PJ. The clinical significance of nasal irrigation bottle contamination. Laryngoscope. 2010 Oct;120(10):2110-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20824637"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "complementary medicine",
+      "Url": "https://nutritionfacts.org/topics/complementary-medicine/"
+    },
+    {
+      "Title": "nasal irrigation",
+      "Url": "https://nutritionfacts.org/topics/nasal-irrigation/"
+    },
+    {
+      "Title": "neti pot",
+      "Url": "https://nutritionfacts.org/topics/neti-pot/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Be sure to check out all my <a href=\"https://nutritionfacts.org/topics/alternative-medicine/\" rel=\"nofollow\">videos on alternative medicine</a>, and for more on sinus health, see <a href=\"https://nutritionfacts.org/video/is-milk-and-mucus-a-myth/\" rel=\"nofollow\">Is Milk and Mucus a Myth?</a></p>\n<p>Also, check out my associated blog posts for more context: <a href=\"https://nutritionfacts.org/2013/12/31/probiotics-during-cold-season/\">Probiotics During Cold Season?</a> and <a href=\"https://nutritionfacts.org/blog/the-best-way-to-prevent-the-common-cold/\">The Best Way to Prevent the Common Cold?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

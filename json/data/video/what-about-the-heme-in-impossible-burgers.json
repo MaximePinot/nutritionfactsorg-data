@@ -1,0 +1,199 @@
+{
+  "Title": "What About the Heme in Impossible Burgers?",
+  "Url": "https://nutritionfacts.org/video/what-about-the-heme-in-impossible-burgers/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/MMGV_dBTE-k"
+  },
+  "UpdatedAt": "2021-02-15T12:50:01+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 52",
+    "Url": "https://nutritionfacts.org/volumes/volume-52/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Is heme just an innocent bystander in the link between meat intake and breast cancer, diabetes, heart disease, stroke, and high blood pressure?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn an editorial in the Journal of the American Medical Association, the chair of nutrition at Harvard pointed out that many plant-based meat alternatives, such as Beyond Meat and the Impossible Burger, can be high in sodium. But an issue specific to the Impossible Burger was the heme they add, derived from soybean plants to enhance the product’s meaty flavor and appearance. Safety analyses have failed to find any toxicity risk specific to the soy heme they have yeast churn out. The FDA has agreed, both for use as a flavor and color enhancer: safe. In other words, just as safe as the heme found in blood and muscle in meat. But how much is that really saying?\nThe concern raised in the op-ed, for example, was that higher intake of heme has been associated with an elevated risk of developing type 2 diabetes. But not just diabetes, killer #7 in the United States. Higher dietary intake of heme iron is associated with an increased risk of cardiovascular disease as well: killers #1, #4, and #13 (heart disease, stroke, and high blood pressure). But, since heme is found mostly in meat, heme intake may just be a marker for meat intake. It’s like with diabetes: three meta-analyses published to date, and they all reported the same link. But there’s lots of reasons why meat may increase diabetes risk, like advanced glycation end products, produced when animal products are baked, broiled, grilled, fried, or barbequed. So, how do we know that heme isn’t just some innocent bystander?\nThe same issue arises with the link between heme intake and increased breast cancer risk. Since heme iron is coming from animal foods, it could be any of the other meat components––like animal fat or meat mutagens––compounds in meat that can cause DNA mutations. And hey, what about all the hormonal steroids implanted into cattle that may play a role in the development of breast cancer? A study in Japan found that beef imported from the United States contained up to 600 times the levels of estrogens, like estradiol. Here’s the comparison of U.S. beef to Japanese beef. And, “higher consumption of estrogen-rich beef due to hormone [implantation] might facilitate estrogen accumulation in the [human] body and thus affect women’s risk for breast cancer.” So yeah, heme iron intake was associated with breast cancer risk, but maybe that’s just because the heme and the hormones are traveling together in the same package: meat.\nThis is about as good as any observational study can do. The NIH-AARP study is the largest prospective study on diet and health ever, following more than a half million men and women for over a decade now. With such a huge dataset, they could take advantage of the fact that different meats have different amounts of heme; so, they could try to tease out the heme components by, in effect, comparing people eating different amounts of heme, but the same amount of meat, to see if heme is independently associated with disease. And indeed, that’s what they showed: an independent association not only from nitrites in processed meat, but heme and mortality from almost all causes: death from diabetes, heart disease, stroke, respiratory disease, kidney disease, liver disease, cancer, and all causes put together. They calculated that about one-fifth of the association between, like, eating burgers and the shortening of your lifespan could be statistically accounted for by just the heme itself. But that’s assuming cause and effect. Even an “independent association” is still an association. You can’t prove cause and effect until you put it to the test in interventional studies.\nNormally, we don’t necessarily care about the mechanism. When the World Health Organization designated bacon, ham, hot dogs, lunch meat, and sausage to be Group 1 carcinogens, meaning we know these products cause cancer in human beings, who cares if it’s the heme iron, or the heterocyclic aromatic amines, or the polycyclic aromatic hydrocarbons, or the N-nitrosamines. They’re all wrapped up in the same place—processed meat—which we know causes cancer. So, we should just try to stay away from it, regardless of the mechanism. But with the advent of the Impossible Burger, we really do have to know, because for the first time we have lots of heme without any actual meat. So, we need to know if the heme itself is harmful. For that, we’ll have to turn to interventional studies, which we’ll cover next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Chang VC, Cotterchio M, Khoo E. Iron intake, body iron status, and risk of breast cancer: a systematic review and meta-analysis. BMC Cancer. 2019;19(1):543.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31170936"
+    },
+    {
+      "Title": "Etemadi A, Sinha R, Ward MH, et al. Mortality from different causes associated with meat, heme iron, nitrates, and nitrites in the NIH-AARP Diet and Health Study: population based cohort study. BMJ. 2017;357:j1957.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28487287/"
+    },
+    {
+      "Title": "Fang X, An P, Wang H, et al. Dietary intake of heme iron and risk of cardiovascular disease: a dose-response meta-analysis of prospective cohort studies. Nutr Metab Cardiovasc Dis. 2015;25(1):24-35.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25439662"
+    },
+    {
+      "Title": "Handa Y, Fujita H, Honma S, Minakami H, Kishi R. Estrogen concentrations in beef and human hormone-dependent cancers. Ann Oncol. 2009;20(9):1610-1.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19628569"
+    },
+    {
+      "Title": "Hu FB, Otis BO, McCarthy G. Can Plant-Based Meat Alternatives Be Part of a Healthy and Sustainable Diet? JAMA. 2019;1-3.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31449288/"
+    },
+    {
+      "Title": "IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. Red Meat and Processed Meat. Lyon (FR): International Agency for Research on Cancer; 2018.",
+      "Url": "https://publications.iarc.fr/Book-And-Report-Series/Iarc-Monographs-On-The-Identification-Of-Carcinogenic-Hazards-To-Humans/Red-Meat-And-Processed-Meat-2018"
+    },
+    {
+      "Title": "Inoue-Choi M, Sinha R, Gierach GL, Ward MH. Red and processed meat, nitrite, and heme iron intakes and postmenopausal breast cancer risk in the NIH-AARP Diet and Health Study. Int J Cancer. 2016;138(7):1609-18.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26505173"
+    },
+    {
+      "Title": "Jin Y, He X, Andoh-Kumi K, Fraser RZ, Lu M, Goodman RE. Evaluating Potential Risks of Food Allergy and Toxicity of Soy Leghemoglobin Expressed in Pichia pastoris. Mol Nutr Food Res. 2018;62(1):1700297.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28921896"
+    },
+    {
+      "Title": "Keefe MD. Re: GRAS Notice No. GRN 000737. U.S. Food and Drug Administration. July 23, 2018.",
+      "Url": "https://www.fda.gov/media/116243/download"
+    },
+    {
+      "Title": "Misra R, Balagopal P, Raj S, Patel TG. Red Meat Consumption (Heme Iron Intake) and Risk for Diabetes and Comorbidities?. Curr Diab Rep. 2018;18(11):100.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30229313"
+    },
+    {
+      "Title": "U.S. Food and Drug Administration. Listing of Color Additives Exempt From Certification; Soy Leghemoglobin. Federal Register. 2019;84(148):37573-6.",
+      "Url": "https://www.govinfo.gov/content/pkg/FR-2019-08-01/pdf/2019-16374.pdf"
+    },
+    {
+      "Title": "White DL, Collinson A. Red meat, dietary heme iron, and risk of type 2 diabetes: the involvement of advanced lipoxidation endproducts. Adv Nutr. 2013;4(4):403-11.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23858089"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "advanced glycation end-products (AGEs)",
+      "Url": "https://nutritionfacts.org/topics/advanced-glycation-end-products/"
+    },
+    {
+      "Title": "bacon",
+      "Url": "https://nutritionfacts.org/topics/bacon/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "fake meat",
+      "Url": "https://nutritionfacts.org/topics/fake-meat/"
+    },
+    {
+      "Title": "ham",
+      "Url": "https://nutritionfacts.org/topics/ham/"
+    },
+    {
+      "Title": "hamburgers",
+      "Url": "https://nutritionfacts.org/topics/hamburgers/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "heme iron",
+      "Url": "https://nutritionfacts.org/topics/heme-iron/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hot dogs",
+      "Url": "https://nutritionfacts.org/topics/hot-dogs/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "iron",
+      "Url": "https://nutritionfacts.org/topics/iron/"
+    },
+    {
+      "Title": "meat substitutes",
+      "Url": "https://nutritionfacts.org/topics/meat-substitutes/"
+    },
+    {
+      "Title": "nitrite",
+      "Url": "https://nutritionfacts.org/topics/nitrite/"
+    },
+    {
+      "Title": "plant protein",
+      "Url": "https://nutritionfacts.org/topics/plant-protein/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    },
+    {
+      "Title": "salt",
+      "Url": "https://nutritionfacts.org/topics/salt/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "veggie burgers",
+      "Url": "https://nutritionfacts.org/topics/veggie-burgers/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    },
+    {
+      "Title": "World Health Organization",
+      "Url": "https://nutritionfacts.org/topics/world-health-organization/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the sixth in a nine-video series on plant-based meats. If you missed any of the previous installments, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-environmental-impacts-of-plant-based-meat-substitutes/\">The Environmental Impacts of Plant-Based Meat Substitutes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-beyond-meat-and-the-impossible-burger-healthy/\">Are Beyond Meat and the Impossible Burger Healthful?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-protein-are-pea-and-soy-protein-isolates-harmful/\">Are Pea and Soy Protein Isolates Harmful?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-meat-substitutes-put-to-the-test/\">Plant-Based Meat Substitutes Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-health-effects-of-mycoprotein-quorn-products-vs-bcaas-in-meat/\">The Health Effects of Mycoprotein (Quorn) Products BCAAs in Meat</a></li>\n</ul>\n<p>Up next:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/does-heme-iron-cause-cancer/\">Does Heme Iron Cause Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/heme-induced-n-nitroso-compounds-and-fat-oxidation/\">Heme-Induced N-Nitroso Compounds and Fat Oxidation</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-heme-iron-the-reason-meat-is-carcinogenic/\">Is Heme the Reason Meat Is Carcinogenic?</a></li>\n</ul>\n<p>If you want all nine of the videos in this plant-based meat series in one place, you can get them right now in a <a href=\"https://drgreger.org/collections/videos/products/plant-based-and-cultivated-meat-digital\">digital download</a> from my webinar a few months ago.</p>\n<p>And <a href=\"https://nutritionfacts.org/video/does-coffee-inhibit-iron-absorption-what-are-the-effects-of-having-too-much-iron/\">Does Coffee Inhibit Iron Absorption? What Are the Effects of Having Too Much Iron?</a> Watch the video to find out.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

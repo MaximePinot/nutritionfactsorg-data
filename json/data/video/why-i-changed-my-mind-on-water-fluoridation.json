@@ -1,0 +1,119 @@
+{
+  "Title": "Why I Changed My Mind on Water Fluoridation",
+  "Url": "https://nutritionfacts.org/video/why-i-changed-my-mind-on-water-fluoridation/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/LUuv-Er0y1Q"
+  },
+  "UpdatedAt": "2024-05-06T11:50:23+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 65",
+    "Url": "https://nutritionfacts.org/volumes/volume-65/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Based on new research, the U.S. Department of Health and Human Services’ National Toxicology Program reached a draft conclusion that fluoride should be “presumed to be a cognitive neurodevelopmental hazard to humans.”",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nCommunity water fluoridation recently hit its 75th anniversary, touted as a significant advancement in public health, but new research suggests the potential for adverse health impacts. There is little question that supplemental ﬂuoride strengthens teeth and reduces decay. But at what cost? Most of the older studies were snapshot-in-time studies, looking only at group-level data, or were based on higher-than-normal exposure. That has since changed with the publication of prospective studies following individual exposure levels from mother-child pairs over time.\nThe first few were from Mexico, and correlated higher fluoride levels in the urine of pregnant women with future developmental delay in their infants. They found worse cognitive performance at age four, and lower IQ from ages six through 12. But the fluoride was from fluoridated salt, or water sources where fluoride was present naturally. Then, this study came out of Canada, the first prospective study using individual exposure data dealing directly with community water fluoridation receiving quote-unquote “optimally fluoridated” water. None of the municipal water fluoride levels exceeded 1.5 parts per million, and the vast majority—over 90 percent—was under the U.S. target of point seven.\nDespite drinking “optimally fluoridated water,” the study of more than 500 mother-child pairs found that higher fluoride exposure during pregnancy, once again, appeared to translate into lower child intelligence, measured at ages three to four. The American College of Obstetricians and Gynecologists recommends pregnant women drink at least eight cups of water a day. Based on the Canadian study, following this advice with water at U.S. target fluoridation levels might result in as much as a 5-point loss in IQ.\nThe Canadian study was published in the American Medical Association’s pediatrics journal, the longest running pediatrics journal in the country. The editor-in-chief defended its decision to publish the study “as testament to the fact that JAMA Pediatrics is committed to disseminating the best science…regardless, of how contentious the results may be.”\nThe Canadian Agency for Drugs and Technologies in Health issued a rapid response report, concluding that there is insufficient evidence to conclusively conclude that fluoride exposure at optimum levels affects neurological development. But that’s not what the Canadian study was saying. The researchers just suggested the “possible need” to reduce fluoride intake during pregnancy. As the accompanying editorial concluded, based on the new data, “a dispassionate and tempered discussion of fluoride’s potential neurotoxicity is warranted.”\nWhat was the response from U.S. regulators? Within a month of the Canadian study’s release, the National Toxicology Program, which is part of the U.S. Department of Health and Human Services that evaluates substances for potentially harmful human health effects, released a draft evaluation of fluoride exposure and neurodevelopmental and cognitive health effects, and concluded that “Based on a systematic review of the evidence, the NTP concludes that fluoride is presumed to be a cognitive neurodevelopmental hazard to humans”.\nSo, we’ve gone from dismissing people who questioned the safety of water ﬂuoridation as zealots or anti-science fanatics, to the official U.S. National Toxicology Program saying we should presume it’s hazardous. Now, this was just a draft report. To ensure the integrity of its report, the NTP asked the National Academies, probably our most prestigious scientific institution, to review it. The review raised a bunch of concerns, which was portrayed in the dental literature as “discrediting” the IQ research. But that’s not what the National Academies said. They explicitly said that their misgivings don’t mean that the NTP conclusion that fluoride should be presumed to be neurotoxic is incorrect; they just wanted some further analysis. So, in 2020, they redrafted their draft, and once again came to the same conclusion, presuming it’s a cognitive neurodevelopmental hazard based on the extent, consistency, and robustness of the IQ data. The National Academies then re-reviewed their redrafted draft, concluding it’s much improved, but urged the NTP to further improve the clarity of the document. And we await the final NTP report.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Amiri A. Water fluoridation: When current research contradicts public practices. Public Health Nurs. 2020;37(4):475-477.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32666538/"
+    },
+    {
+      "Title": "Bashash M, Thomas D, Hu H, et al. Prenatal fluoride exposure and cognitive outcomes in children at 4 and 6-12 years of age in Mexico. Environ Health Perspect. 2017;125(9):097017.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28937959/"
+    },
+    {
+      "Title": "Bellinger DC. Is fluoride potentially neurotoxic? JAMA Pediatr. 2019;173(10):915-917.",
+      "Url": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2748626"
+    },
+    {
+      "Title": "Community Water Fluoridation Exposure: A Review of Neurological and Cognitive Effects – A 2020 Update. CADTH; 2020.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33600099/"
+    },
+    {
+      "Title": "Grandjean P. Developmental fluoride neurotoxicity: an updated review. Environ Health. 2019;18(1):110.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31856837/"
+    },
+    {
+      "Title": "Gravitz L. The fluoride wars rage on. Nature. Oct 2021.",
+      "Url": "https://www.nature.com/articles/d41586-021-02924-6"
+    },
+    {
+      "Title": "Green R, Lanphear B, Hornung R, et al. Association between maternal fluoride exposure during pregnancy and IQ scores in offspring in Canada. JAMA Pediatr. 2019;173(10):940-948.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31424532/"
+    },
+    {
+      "Title": "How much water should I drink during pregnancy? ACOG. Oct 2020.",
+      "Url": "https://www.acog.org/womens-health/experts-and-stories/ask-acog/how-much-water-should-i-drink-during-pregnancy#:~:text=During%20pregnancy%20you%20should%20drink,helps%20waste%20leave%20the%20body."
+    },
+    {
+      "Title": "Lennon MA. IQ research discredited. Br Dent J. 2020;229(2):75.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32710035/"
+    },
+    {
+      "Title": "National Academies of Sciences, Engineering, and Medicine. Review of the Revised NTP Monograph on the Systematic Review of Fluoride Exposure and Neurodevelopmental and Cognitive Health Effects: A Letter Report. Washington, DC: National Academies Press; 2021.",
+      "Url": "https://nap.nationalacademies.org/catalog/26030/review-of-the-revised-ntp-monograph-on-the-systematic-review-of-fluoride-exposure-and-neurodevelopmental-and-cognitive-health-effects"
+    },
+    {
+      "Title": "National Academies of Sciences, Engineering, and Medicine; Division on Earth and Life Studies; Board on Environmental Studies and Toxicology; Exposure and Neurodevelopmental and Cognitive Health Effects; Committee to Review the NTP Monograph on the Systematic Review of Fluoride. Review of the Draft NTP Monograph: Systematic Review of Fluoride Exposure and Neurodevelopmental and Cognitive Health Effects. Washington (DC): National Academies Press (US); 2020.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32200598/"
+    },
+    {
+      "Title": "Office of Health Assessment and Translation, Division of the National Toxicology Program, National Institute of Environmental Health Sciences, National Institutes of Health, U.S. Department of Health and Human Services. Draft NTP monograph on the systematic review of fluoride exposure and neurodevelopmental and cognitive health effects*. Sept 2020.",
+      "Url": "https://fluoridealert.org/wp-content/uploads/ntp.revised-monograph.9-16-2020.pdf"
+    },
+    {
+      "Title": "Office of Health Assessment and Translation, Division of the National Toxicology Program, National Institute of Environmental Health Sciences, National Institutes of Health, U.S. Department of Health and Human Services. Draft NTP monograph on the systematic review of fluoride exposure and neurodevelopmental and cognitive health effects. ASDWA. Sept 2019.",
+      "Url": "https://www.asdwa.org/wp-content/uploads/2019/10/draft_fluoride_monograph_20190906_5081.pdf"
+    },
+    {
+      "Title": "Till C, Green R. Controversy: The evolving science of fluoride: when new evidence doesn’t conform with existing beliefs. Pediatr Res. 2021;90(5):1093-1095.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32443137/"
+    },
+    {
+      "Title": "Valdez Jiménez L, López Guzmán OD, Cervantes Flores M, et al. In utero exposure to fluoride and cognitive development delay in infants. Neurotoxicology. 2017;59:65-70.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28077305/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cavities",
+      "Url": "https://nutritionfacts.org/topics/cavities/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "cognition",
+      "Url": "https://nutritionfacts.org/topics/cognition/"
+    },
+    {
+      "Title": "dental health",
+      "Url": "https://nutritionfacts.org/topics/dental-health/"
+    },
+    {
+      "Title": "fluoride",
+      "Url": "https://nutritionfacts.org/topics/fluoride/"
+    },
+    {
+      "Title": "neurotoxins",
+      "Url": "https://nutritionfacts.org/topics/neurotoxins/"
+    },
+    {
+      "Title": "toothpaste",
+      "Url": "https://nutritionfacts.org/topics/toothpaste/"
+    },
+    {
+      "Title": "water",
+      "Url": "https://nutritionfacts.org/topics/water/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the fourth video in a five-part series on water fluoridation. If you missed any of the previous ones, see: </span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/why-is-there-fluoride-in-water-is-it-effective/\"><span style=\"font-weight: 400\">Why Is There Fluoride in Water? Is It Effective?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/side-effects-of-water-fluoridation-dental-fluorosis/\"><span style=\"font-weight: 400\">Side Effects of Water Fluoridation: Dental Fluorosis</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/is-water-fluoridation-safe/\"><span style=\"font-weight: 400\">Is Water Fluoridation Safe?</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">The final video, </span><a href=\"https://nutritionfacts.org/video/medicines-response-to-the-changing-science-on-fluoride-safety/\"><span style=\"font-weight: 400\">Medicine’s Response to the Changing Science on Fluoride Safety</span></a><span style=\"font-weight: 400\">, is coming up next. </span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

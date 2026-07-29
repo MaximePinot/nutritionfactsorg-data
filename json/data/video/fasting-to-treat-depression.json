@@ -1,0 +1,131 @@
+{
+  "Title": "Fasting to Treat Depression",
+  "Url": "https://nutritionfacts.org/video/fasting-to-treat-depression/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/fEfMmaq66q0"
+  },
+  "UpdatedAt": "2021-06-21T11:50:25+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 54",
+    "Url": "https://nutritionfacts.org/volumes/volume-54/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Caloric restriction can boost levels of brain-derived neurotrophic factor (BDNF), considered to play a critical role in mood disorders.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nFor over a century, fasting has been espoused as a treatment of supposed “great utility in the preservation of health,” especially rejuvenating the body, but above all the mind. But fast people even just 18 hours, and they get all hungry and irritable. After one or two days, positive mood goes down, negative mood goes up, and by 72 hours people can feel sad, self-blaming, and suffer a loss in libido. But then, something strange starts to happen. After a few days, people experience a “fasting-induced mood enhancement…decreased anxiety, depression, fatigue, and improved vigor.” And that’s what studies tend to show across the board. Once you get over the hump, fasters frequently experience “an increased level of vigilance and…mood improvement, a subjective feeling of well-being, and sometimes [even] euphoria.” And no wonder, as by then your endorphin levels may shoot up nearly 50 percent.\nThis enhancement of mood, alertness, and calm makes a certain amount of evolutionary sense. Yeah, your body wants you to feel crappy initially so you continue eating day to day when food is available, but if you go a couple days without food, your body realizes it can’t have you moping back in the cave—you’ve got to get motivated to get out there and find some calories.\nSo, can fasting be used for mood disorders like depression? Yeah, it’s great that you can get people to feel better after a few days of fasting, but the critical question revolves around “the persistence of mood improvement over time” once you start eating again. You don’t know until you put it to the test.\nInterestingly, the little published evidence we have comes out of Japan and the former Soviet Union, and some of it is just ridiculous. Like this study, which included women with a variety of symptoms, which the researchers blame mostly on marital conflict. Oh, husband not treating you right? How about a little electroshock therapy? That didn’t seem to help much, though, so what about hunger therapy? Of course, starving those women made them hungry, but that’s what Thorazine is for. If you keep injecting them with an antipsychotic to calm them down, they can sail right through.\nSo, what happened? Who cares what happened? What would we even do with those results? But this other study skipped the Thorazine. Ten days of fasting, but they also kept them in bed all day completely isolated, with no contact with the outside world. So, if people got better or worse, it would be impossible to tease out the effects of just the fasting component. But they did apparently get better, with efficacy supposedly demonstrated in 31 out of 36 patients suffering from depression. They conclude that fasting therapy may provide an alternative to the use of antidepressant drugs, considering it “a kind of shock therapy.” People are so relieved to just be eating again, to get out of solitary confinement, to even just get out of bed, they report feeling better. Yeah, but that was at the time of discharge. How did they feel the next day, the next week, the next month? Fasting is by definition unsustainable, so ideally what we want to see are some kind of longer-lasting effects.\nSo, what the researchers did was follow-up with a few hundred patients, not just a few months later, but a few years later. Of the 69 who were evidently suffering from depression, 90 percent reported feeling good or excellent results at the end of the 10-day fast, and remarkably, years later, 87 percent of the 62 that replied claimed that they were still doing good. Now there was no control group, so we don’t know if they would have done just as well or better without the fast, and it was just self-reports, so maybe there was response bias where you try to please the researchers, or maybe they were afraid otherwise they’d get sent back to the hole. We have no idea, but we do have good evidence for the short-term mood benefits. The question is why.\nIn addition to the endorphins when you fast and the surge in serotonin––the so-called happiness hormone––there is a bump in BDNF, brain-derived neurotrophic factor, considered to play a crucial role in mood disorders. And it’s not just because you perk up rodents with it. Humans with major depression have lower levels circulating in their bloodstream. Autopsy studies of suicide victims show only about half the BDNF in certain key brain regions compared to controls, suggesting it may play an important role in suicidal behavior.\nYou can boost BDNF with antidepressant drugs and electroshock, or with caloric restriction—a 70 percent boost in levels after three months cutting 25 percent of calories out of their daily diet.\nBut is there anything we can add to our diets to boost BDNF levels so we can get the benefits without the hunger? We’ll find out next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Appleton KM, Baker S. Distraction, not hunger, is associated with lower mood and lower perceived work performance on fast compared to non-fast days during intermittent fasting. J Health Psychol. 2015;20(6):702-11.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26032787"
+    },
+    {
+      "Title": "Araya AV, Orellana X, Espinoza J. Evaluation of the effect of caloric restriction on serum BDNF in overweight and obese subjects: preliminary evidences. Endocrine. 2008;33(3):300-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19012000"
+    },
+    {
+      "Title": "Ding X-Q, Maudsley AA, Schweiger U, et al. Effects of a 72 hours fasting on brain metabolism in healthy women studied in vivo with magnetic resonance spectroscopic imaging. J Cereb Blood Flow Metab. 2018;38(3):469-78.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28273723"
+    },
+    {
+      "Title": "Dwivedi Y, Rizavi HS, Conley RR, Roberts RC, Tamminga CA, Pandey GN. Altered gene expression of brain-derived neurotrophic factor and receptor tyrosine kinase B in postmortem brain of suicide subjects. Arch Gen Psychiatry. 2003;60(8):804-15.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12912764"
+    },
+    {
+      "Title": "Fond G, Macgregor A, Leboyer M, Michalsen A. Fasting in mood disorders: neurobiology and effectiveness. A review of the literature. Psychiatry Research. 2013;209(3):253-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23332541"
+    },
+    {
+      "Title": "Guelpa G. Starvation and Purgation in the relief of disease. BMJ. 1910;2.",
+      "Url": "https://www.jstor.org/stable/25292424?seq=1#metadata_info_tab_contents"
+    },
+    {
+      "Title": "Hashimoto K, Shimizu E, Iyo M. Critical role of brain-derived neurotrophic factor in mood disorders. Brain Res Brain Res Rev. 2004;45(2):104-14.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15145621"
+    },
+    {
+      "Title": "Kishi T, Yoshimura R, Ikuta T, Iwata N. Brain-Derived Neurotrophic Factor and Major Depressive Disorder: Evidence from Meta-Analyses. Front Psychiatry. 2017;8:308.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/29387021"
+    },
+    {
+      "Title": "Komaki G, Tamai H, Sumioki H, et al. Plasma beta-endorphin during fasting in man. Horm Res. 1990;33(6):239-43.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/2289782"
+    },
+    {
+      "Title": "Kushima K, Kamio K, Hasegawa N. Psychosomatic diseases in woman. Tohoku J Exp Med. 1961;74:130-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/14460891"
+    },
+    {
+      "Title": "Li C, Ostermann T, Hardt M, et al. Metabolic and psychological response to 7-day fasting in obese patients with and without metabolic syndrome. Forsch Komplementmed. 2013;20(6):413-20.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24434755"
+    },
+    {
+      "Title": "Michalsen A, Li C. Fasting therapy for treating and preventing disease - current state of evidence. Forsch Komplementarmed. 2013;20(6):444-53.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24434759"
+    },
+    {
+      "Title": "Rippe JM, Sievenpiper JL, Lê K-A, White JS, Clemens R, Angelopoulos TJ. What is the appropriate upper limit for added sugars consumption? Nutr Rev. 2017;75(1):18-36.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27974597"
+    },
+    {
+      "Title": "Suzuki J, Yamauchi Y, Horikawa M, Yamagata S. Fasting therapy for psychosomatic diseases with special reference to its indication and therapeutic mechanism. Tohoku J Exp Med. 1976;118 Suppl:245-59.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/964029"
+    },
+    {
+      "Title": "Suzuki J, Yamauchi Y, Yamamoto H, Komuro U. Fasting therapy for psychosomatic disorders in Japan. Psychother Psychosom. 1979;31(1-4):307-14.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/482552"
+    },
+    {
+      "Title": "Watkins E, Serpell L. The Psychological Effects of Short-Term Fasting in Healthy Women. Frontiers in Nutrition. 2016;3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27597946"
+    },
+    {
+      "Title": "Wilhelmi De Toledo F, Buchinger A, Burggrabe H, et al. Fasting therapy - An expert panel update of the 2002 consensus guidelines. Forsch Komplementarmed. 2013;20(6):434-43.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24434758"
+    },
+    {
+      "Title": "Yamamoto H, Suzuki J, Yamauchi Y. Psychophysiological Study on Fasting Therapy. Psychotherapy and Psychosomatics. 1979;32(1-4):229-240.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/550177"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "anxiety",
+      "Url": "https://nutritionfacts.org/topics/anxiety/"
+    },
+    {
+      "Title": "complementary medicine",
+      "Url": "https://nutritionfacts.org/topics/complementary-medicine/"
+    },
+    {
+      "Title": "depression",
+      "Url": "https://nutritionfacts.org/topics/depression/"
+    },
+    {
+      "Title": "fasting",
+      "Url": "https://nutritionfacts.org/topics/fasting/"
+    },
+    {
+      "Title": "fatigue",
+      "Url": "https://nutritionfacts.org/topics/fatigue/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "mental health",
+      "Url": "https://nutritionfacts.org/topics/mental-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Stay tuned for the follow-up video <a href=\"https://nutritionfacts.org/video/how-to-boost-brain-bdnf-levels-for-depression-treatment/\">How to Boost Brain BDNF Levels for Depression Treatment</a>.</p>\n<p>I did a webinar series on fasting last year, and you can find the whole bundle <a href=\"https://drgreger.org/collections/videos/products/fasting-bundle-digital\">here in a digital download</a>.</p>\n<p>Many of the videos are already online, including:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-3500-calorie-per-pound-rule-is-wrong/\">The 3,500-Calorie-per-Pound Rule Is Wrong</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-reason-weight-loss-plateaus-when-you-diet/\">The Reason Weight Loss Plateaus When You Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-new-calories-per-pound-of-weight-loss-rule/\">The New Calories per Pound of Weight Loss Rule?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-benefits-of-calorie-restriction-for-longevity/\">The Benefits of Calorie Restriction for Longevity</a></li>\n<li><a href=\"https://nutritionfacts.org/video/potential-pitfalls-of-calorie-restriction/\">Potential Pitfalls of Calorie Restriction</a></li>\n<li><a href=\"https://nutritionfacts.org/video/benefits-of-fasting-for-weight-loss-put-to-the-test/\">Benefits of Fasting for Weight Loss Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-fasting-beneficial-for-weight-loss/\">Is Fasting Beneficial for Weight Loss?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-fasting-for-weight-loss-safe/\">Is Fasting for Weight Loss Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/alternate-day-intermittent-fasting-put-to-the-test/\">Alternate-Day Intermittent Fasting Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-alternate-day-intermittent-fasting-safe/\">Is Alternate-Day Intermittent Fasting Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-intermittent-fasting-increase-human-life-expectancy/\">Does Intermittent Fasting Increase Human Life Expectancy?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-5-2-diet-and-the-fasting-mimicking-diet-put-to-the-test/\">The 5:2 Diet and the Fasting-Mimicking Diet Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/time-restricted-eating-put-to-the-test/\">Time-Restricted Eating Put to the Test</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-benefits-of-early-time-restricted-eating/\">The Benefits of Early Time-Restricted Eating</a></li>\n</ul>\n<p>For all of my videos on fasting, see the <a href=\"https://nutritionfacts.org/topics/fasting/\">topic page</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

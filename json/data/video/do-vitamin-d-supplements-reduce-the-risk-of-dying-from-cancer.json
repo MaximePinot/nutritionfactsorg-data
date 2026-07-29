@@ -1,0 +1,187 @@
+{
+  "Title": "Do Vitamin D Supplements Reduce the Risk of Dying from Cancer?",
+  "Url": "https://nutritionfacts.org/video/do-vitamin-d-supplements-reduce-the-risk-of-dying-from-cancer/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/bS8Sy59DQcc"
+  },
+  "UpdatedAt": "2016-10-19T12:00:21+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 32",
+    "Url": "https://nutritionfacts.org/volumes/volume-32/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Sun exposure is associated with lower rates of 15 different cancers and improved cancer survival. What happened when vitamin D supplements were put to the test?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIt all started with this famous study, published in 1980. Johns Hopkins researchers were trying to figure out why states like New Mexico and Arizona have only about half the colon cancer rates of states like New York, New Hampshire, and Vermont. Maybe it’s because they got so much sun. And so, they proposed that maybe the sunshine vitamin—vitamin D—is a protective factor against colon cancer. Since then, sun exposure has been associated with lower rates of 14 other types of cancer, too.\nVitamin D may also affect cancer survival. Higher blood levels of vitamin D were associated with lower mortality of patients with colorectal cancer. How much lower? Like nearly half the mortality. And, the higher the D levels, the lower the death rate appeared to fall. This may explain why the survival rate from colon cancer may depend, on part, on the season of diagnosis—the reason the risk of a rapid death is lowest if you’re diagnosed in the fall, after you’ve spent the summer building up your vitamin D stores.\nBut look; there are other risk factors that could be seasonal, too. Maybe people are taking advantage of the fall harvest, and eating healthier. Maybe that’s why the lower risk in the fall season. Or, maybe there’s more drinking in the winter. And, in the summer, running around outside, not only are you getting more sun; you’re running around outside, getting more exercise—which may itself be protective.\nSo, these kinds of studies just provide circumstantial evidence. Establishing a cause-and-effect relationship between colon cancer and vitamin D deficiency using observational studies is challenging, because of confounding factors like the exercise—so-called “lurking variables.” For example, there may be a tight correlation between ice cream sales and drowning deaths, but that doesn’t mean ice cream causes drowning. A more likely explanation is that there is a lurking third variable—like hot weather, summertime—that explains why drowning deaths are highest when ice cream consumption is highest.\nThat’s kind of a trivial example. But, this actually happened with hormone replacement therapy. Women taking drugs like Premarin appeared to have 50% less risk of heart disease. And so, doctors prescribed it to women by the millions. But, if you dig a little deeper into the data, yes, women taking estrogen had 50% lower risk of dying from heart disease. But, they also had a 50% lower risk of dying from accidents and homicide. So, it probably wasn’t the drug. See, the only way to know for sure is to put it to the test, in a randomized clinical trial, where you give half the women the drug, and see what happens.\nAnd, a decade later, they did. And, instead of having a 50% drop in risk, within a year of being given the hormone pills, heart attack and death rates shot up 50%. In retrospect, the lurking variable was likely socioeconomic class. Poor women are less likely to be prescribed hormone replacement therapy, and more likely to be murdered, and die of heart disease. Because of the lurking variable, a drug we now know to be dangerous had appeared protective.\nBesides lurking variables, there’s also the possibility of reverse causation. Maybe low vitamin D levels didn’t worsen the cancer. Maybe the cancer worsened the vitamin D levels. This may be unlikely, since tumors don’t appear to directly affect vitamin D levels. But cancer treatment might. Even simple knee surgery can dramatically drop vitamin D levels within hours, thought to be because of just the inflammatory insult of cutting into somebody. So, maybe that could help explain the link between lower D, and lower survival. And hey, if you’ve got cancer, maybe you’re spending less time running around at the beach.\nSo, yes, higher vitamin D levels are associated with improved survival in colorectal cancer, and in breast cancer. In fact, about double the risk of breast cancer recurrence and death in women with the lowest vitamin D levels. And, vitamin D levels also associated with longer survival with ovarian cancer, and other cancers, like lymphoma. But, bottom-line, as we learned with hormone replacement, is that you have to put it to the test. But, there weren’t a lot of randomized controlled trials on vitamin D supplements and cancer—until now.\nWe now have a few randomized controlled trials, and vitamin D supplements do indeed appear to reduce the risk of dying from cancer. What dose? The researchers suggest maybe getting blood levels up to at least around 75 nanomoles per liter; levels not reached by as many as three-quarters of women with breast cancer, or a striking 97% of colon cancer patients.\nGetting up to these kinds of levels, 75, or perhaps even better, 100, might require about 2,000 to 4,000 international units of vitamin D a day—levels of intake for which there appear to be no credible evidence of harm. Regardless of what the exact level is, the findings of these kinds of studies may have a profound influence on future cancer treatment.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "A A N Rose, C Elser, M Ennis, P J Goodwin. Blood levels of vitamin D and early stage breast cancer prognosis: a systematic review and meta-analysis. Breast Cancer Res Treat. 2013 Oct;141(3):331-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24104883"
+    },
+    {
+      "Title": "B Wang, Z Jing, C Li, S Xu, Y Wang. Blood 25-hydroxyvitamin D levels and overall mortality in patients with colorectal cancer: a dose-response meta-analysis. Eur J Cancer. 2014 Aug;50(12):2173-5.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24878065"
+    },
+    {
+      "Title": "C F Garland, F C Garland. Do sunlight and vitamin D reduce the likelihood of colon cancer? Int J Epidemiol. 2006 Apr;35(2):217-20.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16303809"
+    },
+    {
+      "Title": "D Q Jiang, M X Li, Q Z Chen, Y Wang. Comment on: 'vitamin D supplements and cancer incidence and mortality: a meta-analysis'. Br J Cancer. 2015 Jun 9;112(12):1979.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25867260"
+    },
+    {
+      "Title": "F J Conway, D C McMillan. Plasma vitamin D concentration and survival in colorectal cancer: potential confounding by the systemic inflammatory response. J Clin Oncol. 2015 Jan 10;33(2):224.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25488961"
+    },
+    {
+      "Title": "H A Bischoff-Ferrari, A Shao, B Dawson-Hughes, J Hathcock, E Giovannucci, W C Willett. Benefit-risk assessment of vitamin D supplementation. Osteoporos Int. 2010 Jul;21(7):1121-32.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19957164"
+    },
+    {
+      "Title": "H Maalmi, J M Ordóñez-Mena, B Schöttker, H Brenner. Serum 25-hydroxyvitamin D levels and survival in colorectal and breast cancer patients: systematic review and meta-analysis of prospective cohort studies. Eur J Cancer. 2014 May;50(8):1510-21.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24582912"
+    },
+    {
+      "Title": "H Mezawa, T Sugiura, M Watanabe, C Norizoe, D Takahashi, A Shimojima, S Tamez, Y Tsutsumi, K Yanaga, M Urashima. Serum vitamin D levels and survival of patients with colorectal cancer: post-hoc analysis of a prospective cohort study. BMC Cancer. 2010 Jul 2;10:347.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20594355"
+    },
+    {
+      "Title": "Hulley S, Grady D, Bush T, Furberg C, Herrington D, Riggs B, Vittinghoff E. Randomized trial of estrogen plus progestin for secondary prevention of coronary heart disease in postmenopausal women. Heart and Estrogen/progestin Replacement Study (HERS) Research Group. JAMA. 1998 Aug 19;280(7):605-13.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9718051"
+    },
+    {
+      "Title": "J Moan, A C Porojnicu, T E Robsahm, A Dahlback, A Juzeniene, S Tretli, W Grant. Solar radiation, vitamin D and survival rate of colon cancer in Norway. J Photochem Photobiol B. 2005 Mar 1;78(3):189-93.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15708515"
+    },
+    {
+      "Title": "Joiner B L. Lurking Variables: Some Answers. The American Statistician  Vol.35, No. 4. (Nov., 1981), pp. 227-233.",
+      "Url": "http://www1.cmc.edu/pages/faculty/MONeill/Math152/Handouts/Joiner.pdf"
+    },
+    {
+      "Title": "L Zgaga, E Theodoratou, S M Farrington, F V Din, L Y Ooi, D Glodzik, S Johnston, A Tenesa, H Campbell, M G Dunlop. Plasma vitamin D concentration influences survival outcome after a diagnosis of colorectal cancer.  J Clin Oncol. 2014 Aug 10;32(23):2430-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25002714"
+    },
+    {
+      "Title": "Lawlor DA, Smith GD, Ebrahim S. Socioeconomic position and hormone replacement therapy use: explaining the discrepancy in evidence from observational and randomized controlled trials. Am J Public Health. 2004 Dec;94(12):2149-54.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/15569967"
+    },
+    {
+      "Title": "M L Neuhouser, B Sorensen, B W Hollis, A Ambs, C M Ulrich, A McTiernan, L Bernstein, S Wayne, F Gilliland, K Baumgartner, R Baumgartner, R Ballard-Barbash. Vitamin D insufficiency in a multiethnic cohort of breast cancer survivors. Am J Clin Nutr. 2008 Jul;88(1):133-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18614733"
+    },
+    {
+      "Title": "M Li, P Chen, J Li, R Chu, D Xie, H Wang. Review: the impacts of circulating 25-hydroxyvitamin D levels on cancer patient outcomes: a systematic review and meta-analysis. J Clin Endocrinol Metab. 2014 Jul;99(7):2327-36.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24780061"
+    },
+    {
+      "Title": "N Keum, E Giovannucci. Vitamin D supplements and cancer incidence and mortality: a meta-analysis. Br J Cancer. 2014 Aug 26;111(5):976-80.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24918818"
+    },
+    {
+      "Title": "P M Webb, A de Fazio, M M Protani, T I Ibiebele, C M Nagle, A H Brand, P I Blomfield, P Grant, L C Perrin, R E Neale, Australian Ovarian Cancer Study Group. Circulating 25-hydroxyvitamin D and survival in women with ovarian cancer. Am J Clin Nutr. 2015 Jul;102(1):109-14.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25971716"
+    },
+    {
+      "Title": "Postmenopausal Estrogen Use and Heart Disease. N Engl J Med 1986; 315:131-136.",
+      "Url": "https://www.nejm.org/doi/full/10.1056/NEJM198607103150213"
+    },
+    {
+      "Title": "Reid D, Toole BJ, Knox S, Talwar D, Harten J, O'Reilly DS, Blackwell S, Kinsella J, McMillan DC, Wallace AM. The relation between acute changes in the systemic inflammatory response and plasma 25-hydroxyvitamin D concentrations after elective knee arthroplasty. Am J Clin Nutr. 2011 May;93(5):1006-11.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21411617"
+    },
+    {
+      "Title": "S B Mohr, E D Gorham, J Kim, H Hofflich, R E Cuomo, C F Garland. Could vitamin D sufficiency improve the survival of colorectal cancer patients? J Steroid Biochem Mol Biol. 2015 Apr;148:239-44.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25533386"
+    },
+    {
+      "Title": "Stampfer M J, Colditz GA. Estrogen replacement therapy and coronary heart disease: a quantitative assessment of the epidemiologic evidence. Prev Med. 1991 Jan;20(1):47-63.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/1826173"
+    },
+    {
+      "Title": "W B Grant, C F Garland. The association of solar ultraviolet B (UVB) with reducing risk of cancer: multifactorial ecologic analysis of geographic variation in age-adjusted cancer mortality rates. Anticancer Res. 2006 Jul-Aug;26(4A):2687-99.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/16886679"
+    }
+  ],
+  "Acknowledgements": "Images thanks to mahnoorraja via flickr and ClkerFreeVectorImages and ClkerFreeVectorImages via pixabay.",
+  "Topics": [
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "estrogen",
+      "Url": "https://nutritionfacts.org/topics/estrogen/"
+    },
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "hormones",
+      "Url": "https://nutritionfacts.org/topics/hormones/"
+    },
+    {
+      "Title": "lymphoma",
+      "Url": "https://nutritionfacts.org/topics/lymphoma/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "ovarian cancer",
+      "Url": "https://nutritionfacts.org/topics/ovarian-cancer/"
+    },
+    {
+      "Title": "Premarin",
+      "Url": "https://nutritionfacts.org/topics/premarin/"
+    },
+    {
+      "Title": "sunlight",
+      "Url": "https://nutritionfacts.org/topics/sunlight/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "surgery",
+      "Url": "https://nutritionfacts.org/topics/surgery/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What about just getting sun instead? Be sure to check out my six-part video series:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/will-you-live-longer-if-you-take-vitamin-d-supplements/\">Will You Live Longer If You Take Vitamin D Supplements?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-vit-d-supplements-help-diabetes-weight-loss-blood-pressure/\">Do Vitamin D Supplements Help with Diabetes, Weight Loss, and Blood Pressure?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-vitamin-d-should-you-take/\">How Much Vitamin D Should You Take?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-optimal-dose-of-vitamin-d-based-on-natural-levels/\">The Optimal Dose of Vitamin D Based on Natural Levels</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-way-to-get-vitamin-d-sun-supplements-or-salons/\">The Best Way to Get Vitamin D: Sun, Supplements, or Salons?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-risks-and-benefits-of-sensible-sun-exposure/\">The Risks and Benefits of Sensible Sun Exposure</a></li>\n</ul>\n<p>Update: I have a couple of newer vitamin D videos, as well. See <a href=\"https://nutritionfacts.org/video/vitamin-d-supplements-tested-for-copd-heart-disease-depression-obesity-and-cancer-survival/\">Vitamin D Supplements Tested for COPD, Heart Disease, Depression, Obesity, and Cancer Survival</a> and <a href=\"https://nutritionfacts.org/video/do-vitamin-d-supplements-help-prevent-diabetes-cancer-mortality-and-overall-mortality/\">Do Vitamin D Supplements Help Prevent Diabetes, Cancer Mortality, and Overall Mortality?</a>.</p>\n<p>It’s better, of course, to prevent colon cancer in the first place. See, for example:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/stool-ph-and-colon-cancer/\">Stool pH and Colon Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/solving-a-colon-cancer-mystery/\">Solving a Colon Cancer Mystery</a></li>\n<li><a href=\"https://nutritionfacts.org/video/resistant-starch-colon-cancer/\">Resistant Starch and Colon Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/resistant-starch-colon-cancer/\">Turmeric Curcumin and Colon Cancer</a></li>\n</ul>\n<p>For more on that extraordinary story about Premarin and hormone replacement therapy, see <a href=\"https://nutritionfacts.org/video/how-did-doctors-not-know-about-the-risks-of-hormone-therapy/\">How Did Doctors Not Know About the Risks of Hormone Therapy?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

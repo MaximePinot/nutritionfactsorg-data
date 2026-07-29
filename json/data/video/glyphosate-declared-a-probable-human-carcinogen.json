@@ -1,0 +1,103 @@
+{
+  "Title": "Glyphosate Declared a Probable Human Carcinogen",
+  "Url": "https://nutritionfacts.org/video/glyphosate-declared-a-probable-human-carcinogen/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/SC-sY917-gw"
+  },
+  "UpdatedAt": "2026-07-13T11:50:26+00:00",
+  "Author": "Kristine Dennis PhD, MPH",
+  "Volume": {
+    "Title": "Volume 73",
+    "Url": "https://nutritionfacts.org/volumes/volume-73/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What does the glyphosate controversy show us about conflicts of interest in science?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe discourse about genetically modified organisms is not only controversial, but it continues to be filled with drama. Drama that goes beyond a simple scientific exercise. Although the state of the GMO debate may be shifting to a slightly less polarized conversation, at least what is presented by the media, Monsanto and its association with pesticides, notably glyphosate, drives negative perceptions toward GMOs. Why has Monsanto become the archetypal target of environmentalist anti-GMO groups in Europe and beyond?\nIn the 1970s, Monsanto started its commercialization of broad-spectrum herbicides. The first glyphosate-based herbicide, Roundup, and others that followed are mixtures of glyphosate and additional compounds that help get the herbicide into the plant, enhancing its activity, allowing it to indiscriminately kill nearly all other non-GMO plant species. Once in the environment, glyphosate is metabolized by microorganisms into AMPA, known as its most active metabolite, and MPA. Glyphosate and AMPA can be found in soil, water, plants, food, and animals.\nThese “Roundup- Ready” crops were first introduced in the mid-1990s and now account for more than 90% of the corn and soybeans planted in the United States. So, Monsanto can both sell the seeds of the glyphosate-resistant crops and the herbicides used on those crops, which means they are highly motivated to keep their products on the market.\n In 2014, Dr. Greger covered some of the safety concerns of glyphosate, particularly in Roundup, with some evidence of adverse effects on human placental tissue as well as potential health effects among pesticide applicators and their children based on information from population studies. But Dr. Greger concluded that “the bottom line is that there is no direct human data suggesting harm from eating GMOs”.\nBut that was before the International Agency for Research on Cancer classified glyphosate as “probably carcinogenic to humans.” Its conclusions were based on sufficient evidence in animals, limited evidence in humans, and strong evidence for two carcinogenic mechanisms.\nThe release of the IARC report led to a firestorm of critics and controversy, in particular, because IARCs conclusions have potentially powerful implications for regulations. Those not happy about what the report says, start to question IARCs process, creating doubt, a strategy that can be traced back to the tobacco industry’s playbook.\nWhile each side of the debate claims that the other has significant conflicts of interest, there was some particularly shady activity by Monsanto that muddied the scientific waters. Shortly after the release of IARCs report, multiple lawsuits were brought against Monsanto on behalf of people who blamed their cancer on Roundup. This led to the public release of internal e-mails revealing Monsanto had secretly flooded the scientific literature with ghostwritten material. The uncovered internal documents made clear that while the company was not willing to conduct the proposed long-term product safety studies, it spent millions of dollars on secretive PR campaigns – including $17 million in the year after the IARC evaluation had been published – to finance “ghost-written” studies and editorials aimed at discrediting independent scientists whose work had found dangers with Monsanto’s pesticides. Other activities went beyond just ghostwriting, including controlling what content was released in scientific journals.\nHere’s one example of Monsanto’s influence, from an email in 1999. A Monsanto scientist discusses the need to replace a consulting academic who is unconvinced that glyphosate is not genotoxic with someone who is comfortable with the genotoxicity profile of glyphosate and Roundup so they can influence regulators whenever anyone raises a concern about genotoxicity. So, certainly some sketchy activity, but being sketchy doesn’t necessarily mean glyphosate is giving people cancer. What did all the regulatory agencies conclude after considering IARC’s report? We’ll find out, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Evanega S, Conrow J, Adams J, Lynas M. The state of the 'GMO' debate - toward an increasingly favorable and less polarized media conversation on ag-biotech?. GM Crops Food. 2022;13(1):38-49.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35318886/"
+    },
+    {
+      "Title": "Hielscher S, Pies I, Valentinov V, Chatalova L. Rationalizing the GMO Debate: The Ordonomic Approach to Addressing Agricultural Myths. Int J Environ Res Public Health. 2016;13(5):476.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27171102/"
+    },
+    {
+      "Title": "IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. Some Organophosphate Insecticides and Herbicides. Lyon (FR): International Agency for Research on Cancer; 2017. (IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, No. 112.)",
+      "Url": "https://www.ncbi.nlm.nih.gov/books/NBK436774/"
+    },
+    {
+      "Title": "Landrigan PJ, Belpoggi F. The need for independent research on the health effects of glyphosate-based herbicides. Environ Health. 2018;17(1):51.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29843729/"
+    },
+    {
+      "Title": "Louie F, Jacobs NFB, Yang LGL, Park C, Monnot AD, Bandara SB. A comparative evaluation of dietary exposure to glyphosate resulting from recommended U.S. diets. Food Chem Toxicol. 2021;158:112670.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34774925/"
+    },
+    {
+      "Title": "Matheson A. The \"Monsanto papers\" and the nature of ghostwriting and related practices in contemporary peer review scientific literature. Account Res. 2024;31(8):1152-1181.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37424374/"
+    },
+    {
+      "Title": "Peillex C, Pelletier M. The impact and toxicity of glyphosate and glyphosate-based herbicides on health and immunity. J Immunotoxicol. 2020;17(1):163-174.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32897110/"
+    },
+    {
+      "Title": "Racovita M, Spök A. Strategic science translation in emerging science: genetically modified crops and Bisphenol A in two cases of contested animal toxicity studies. GM Crops Food. 2022;13(1):142-155.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35942901/"
+    },
+    {
+      "Title": "Samet JM. The IARC monographs: critics and controversy. Carcinogenesis. 2015;36(7):707-709.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25943987/"
+    },
+    {
+      "Title": "Séralini GE, Mesnage R, Defarge N, Spiroux de Vendômois J. Conflicts of interests, confidentiality and censorship in health risk assessment: the example of an herbicide and a GMO. Environ Sci Eur. 2014;26(1):13.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27752411/"
+    },
+    {
+      "Title": "Tarone RE. Conflicts of interest, bias, and the IARC Monographs Program. Regul Toxicol Pharmacol. 2018;98:A1-A4.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30194952/"
+    },
+    {
+      "Title": "Vainio H. Public health and evidence-informed policy-making: The case of a commonly used herbicide. Scand J Work Environ Health. 2020;46(1):105-109.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31486846/"
+    },
+    {
+      "Title": "Weisenburger DD. A review and update with perspective of evidence that the herbicide glyphosate (Roundup) is a cause of non-hodgkin lymphoma. Clin Lymphoma Myeloma Leuk. 2021;21(9):621-630.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34052177/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "glyphosate",
+      "Url": "https://nutritionfacts.org/topics/glyphosate/"
+    },
+    {
+      "Title": "GMO",
+      "Url": "https://nutritionfacts.org/topics/gmo/"
+    },
+    {
+      "Title": "Monsanto",
+      "Url": "https://nutritionfacts.org/topics/monsanto/"
+    },
+    {
+      "Title": "Roundup",
+      "Url": "https://nutritionfacts.org/topics/roundup/"
+    },
+    {
+      "Title": "water",
+      "Url": "https://nutritionfacts.org/topics/water/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the first video in a four-part series. Stay tuned for:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/what-explains-the-different-glyphosate-safety-conclusions/\"><span style=\"font-weight: 400\">What Explains the Different Glyphosate Safety Conclusions?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/are-consumers-of-gmo-crops-exposed-to-enough-glyphosate-to-increase-cancer-risk/\"><span style=\"font-weight: 400\">Are Consumers of GMO Crops Exposed to Enough Glyphosate to Increase Cancer Risk?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/the-effects-of-glyphosate-on-children-and-how-to-reduce-exposure/\"><span style=\"font-weight: 400\">The Effects of Glyphosate on Children and How to Reduce Exposure</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">This is the video from 2014 that I mentioned: </span><a href=\"https://nutritionfacts.org/video/are-gmos-safe-the-case-of-roundup-ready-soy/\"><span style=\"font-weight: 400\">Are GMOs Safe? The Case of Roundup Ready Soy</span></a><span style=\"font-weight: 400\">. </span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Title": "Ginkgo and Nicotinamide for Glaucoma Treatment",
+  "Url": "https://nutritionfacts.org/video/ginkgo-and-nicotinamide-for-glaucoma-treatment/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/b8VghFUdRaI"
+  },
+  "UpdatedAt": "2024-04-01T11:47:37+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 65",
+    "Url": "https://nutritionfacts.org/volumes/volume-65/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How do two common supplements stack up against glaucoma, the leading cause of irreversible vision loss in the world?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nGlaucoma is now the leading cause of irreversible vision loss in the world. It’s caused by the deterioration of the optic nerve that connects the eye to the brain. Most commonly, this is due to excessive pressure inside the eyeball. Ginkgo biloba is one of the most common supplements taken by glaucoma sufferers. It doesn’t seem to lower intraocular pressure, but MRI studies suggest ginkgo supplements may increase cerebral blood flow in the brain. \nWhat about blood flow to the eyes? Ginkgo increases ocular blood flow in both normal and glaucomatous subjects; so, it was put to the test. Compared to sugar pills, 40mg of a ginkgo extract twice a day, on top of their regular anti-glaucoma medications, appeared to significantly slow the progression of visual defects in open angle glaucoma patients, the most common type––though it’s not clear in this study if the participants were properly randomized.\nAside from a single published case report of visual improvements after ginkgo supplementation, there don’t appear to be other studies on open angle glaucoma. But there have been two interventional trials on the less common normal tension type. They were both randomized, double-blind, placebo-controlled crossover trials using the same dose and duration. One found a significant benefit—an improvement in pre-existing visual field damage. But the other found no benefit at all. If you want to try it despite the underwhelming results, make sure to first discuss with your healthcare professional due to a possible increase in bleeding risk from the herb.\nAny other supplement possibilities? In 2017, extraordinary results were reported in a leading scientific journal. Nicotinamide, a form of vitamin B3, was able to prevent the development of glaucoma in aged mice prone to the disease, with more than 90 percent effectiveness. Moderate or severe nerve damage was found in about two-thirds of the control mice, but 93 percent of the mice given nicotinamide had none. The researchers concluded, “The degree of protection afforded by administering this single molecule is unprecedented and unanticipated.” A commentary on the study published in the New England Journal of Medicine entitled, “Nicking Glaucoma with Nicotinamide?” suggested clinicals trials should be initiated.\nThe researchers thought to give it a try based on the fact that glaucomatous mice had a comparable deficiency in NAD+ (for which nicotinamide is a precursor). Is that even the case in people? Apparently so. Those with glaucoma have about a third lower nicotinamide levels in their blood, compared to age-matched peers. And greater intake of niacin, which is another form of B3, is associated with less glaucoma. It was time to put it to the test, and the title gives it away.\nIn 2020, an international team of researchers published a study in which glaucoma patients were randomized to nicotinamide or placebo for 12 weeks, and then switched for another 12 weeks. And significantly fewer patients suffered further visual field deterioration while on the nicotinamide (4 percent, versus 12 percent while on placebo). A 2022 study found significant improvement in visual function compared to placebo within two months, but is not directly comparable, since they also added pyruvate (which is another important component of energy metabolism). For a discussion of cost, labeling confusion, and potential side effects of taking nicotinamide, check out the NAD chapter in my book How Not to Age, in which I go through the pros and cons of all nine NAD-boosting supplements—it’s like a tongue twister: NA, NAM, NMN, NR, NAD, NADH, NMNH, NRH, and tryptophan. Or you just stay tuned here on NutritionFacts.org for an upcoming series of videos on the subject.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Bent S, Goldberg H, Padula A, Avins AL. Spontaneous bleeding associated with ginkgo biloba: a case report and systematic review of the literature: a case report and systematic review of the literature. J Gen Intern Med. 2005;20(7):657-661.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16050865/"
+    },
+    {
+      "Title": "Chung HS, Harris A, Kristinsson JK, Ciulla TA, Kagemann C, Ritch R. Ginkgo biloba extract increases ocular blood flow velocity. J Ocul Pharmacol Ther. 1999;15(3):233-240.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10385132/"
+    },
+    {
+      "Title": "De Moraes CG, John SWM, Williams PA, Blumberg DM, Cioffi GA, Liebmann JM. Nicotinamide and pyruvate for neuroenhancement in open-angle glaucoma: a phase 2 randomized clinical trial. JAMA Ophthalmol. 2022;140(1):11-18.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34792559/"
+    },
+    {
+      "Title": "Dorairaj S, Ritch R, Liebmann JM. Visual improvement in a patient taking ginkgo biloba extract: a case study. Explore (NY). 2007;3(4):391-395.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17681260/"
+    },
+    {
+      "Title": "Guo X, Kong X, Huang R, et al. Effect of Ginkgo biloba on visual field and contrast sensitivity in Chinese patients with normal tension glaucoma: a randomized, crossover clinical trial. Invest Ophthalmol Vis Sci. 2014;55(1):110-116.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24282229/"
+    },
+    {
+      "Title": "Hui F, Tang J, Williams PA, et al. Improvement in inner retinal function in glaucoma with nicotinamide (Vitamin b3) supplementation: A crossover randomized clinical trial. Clin Exp Ophthalmol. 2020;48(7):903-914.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32721104/"
+    },
+    {
+      "Title": "Kouassi Nzoughet J, Chao de la Barca JM, Guehlouz K, et al. Nicotinamide deficiency in primary open-angle glaucoma. Invest Ophthalmol Vis Sci. 2019;60(7):2509-2514.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31185090/"
+    },
+    {
+      "Title": "Liebmann JM, Cioffi GA. Nicking glaucoma with nicotinamide? N Engl J Med. 2017;376(21):2079-2081.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28538117/"
+    },
+    {
+      "Title": "Mashayekh A, Pham DL, Yousem DM, Dizon M, Barker PB, Lin DDM. Effects of Ginkgo biloba on cerebral blood flow assessed by quantitative MR perfusion imaging: a pilot study. Neuroradiology. 2011;53(3):185-191.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21061003/"
+    },
+    {
+      "Title": "Park JW, Kwon HJ, Chung WS, Kim CY, Seong GJ. Short-term effects of Ginkgo biloba extract on peripapillary retinal blood flow in normal tension glaucoma. Korean J Ophthalmol. 2011;25(5):323-328.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21976939/"
+    },
+    {
+      "Title": "Quaranta L, Bettelli S, Uva MG, Semeraro F, Turano R, Gandolfo E. Effect of Ginkgo biloba extract on preexisting visual field damage in normal tension glaucoma. Ophthalmology. 2003;110(2):359-362.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12578781/"
+    },
+    {
+      "Title": "Rhee DJ, Spaeth GL, Myers JS, et al. Prevalence of the use of complementary and alternative medicine for glaucoma. Ophthalmology. 2002;109(3):438-443.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11874744/"
+    },
+    {
+      "Title": "Sari MD, Sihotang AD, Lelo A. Ginkgo biloba extract effect on oxidative stress marker malonildialdehyde, redox enzyme gluthation peroxidase, visual field damage, and retinal nerve fiber layer thickness in primary open angle glaucoma. Int J Pharm Tech Res. 2016;9:158-166.",
+      "Url": "https://sphinxsai.com/2016/ph_vol9_no3/1/(158-166)V9N3PT.pdf"
+    },
+    {
+      "Title": "Taechameekietichai T, Chansangpetch S, Peerawaranun P, Lin SC. Association between daily niacin intake and glaucoma: national health and nutrition examination survey. Nutrients. 2021;13(12):4263.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34959814/"
+    },
+    {
+      "Title": "Tham YC, Li X, Wong TY, Quigley HA, Aung T, Cheng CY. Global prevalence of glaucoma and projections of glaucoma burden through 2040: a systematic review and meta-analysis. Ophthalmology. 2014;121(11):2081-2090.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24974815/"
+    },
+    {
+      "Title": "Williams PA, Harder JM, Foxworth NE, et al. Vitamin B3 modulates mitochondrial vulnerability and prevents glaucoma in aged mice. Science. 2017;355(6326):756-760.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28209901/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "eye health",
+      "Url": "https://nutritionfacts.org/topics/eye-health/"
+    },
+    {
+      "Title": "glaucoma",
+      "Url": "https://nutritionfacts.org/topics/glaucoma/"
+    },
+    {
+      "Title": "How Not to Age",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-age/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vision",
+      "Url": "https://nutritionfacts.org/topics/vision/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">I previously covered ginkgo for cognitive function in </span><a href=\"https://nutritionfacts.org/video/ginkgo-biloba-as-a-brain-health-supplement-for-dementia/\"><span style=\"font-weight: 400\">Ginkgo Biloba as a Brain Health Supplement for Dementia</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">I’ve got some older videos on glaucoma: </span><a href=\"https://nutritionfacts.org/video/greens-vs-glaucoma/\"><span style=\"font-weight: 400\">Greens vs. Glaucoma</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/dietary-treatment-of-glaucoma/\"><span style=\"font-weight: 400\">Dietary Treatment of Glaucoma</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">You may be interested in these videos on other eye conditions:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/dietary-prevention-of-age-related-macular-degeneration/\"><span style=\"font-weight: 400\">Dietary Prevention of Age-Related Macular Degeneration</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/dietary-treatments-for-computer-eye-strain/\"><span style=\"font-weight: 400\">Dietary Treatments for Computer Eye Strain</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/can-diabetic-retinopathy-be-reversed/\"><span style=\"font-weight: 400\">Can Diabetic Retinopathy Be Reversed?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/treating-dry-eye-disease-with-diet-just-add-water/\"><span style=\"font-weight: 400\">Treating Dry Eye Disease with Diet: Just Add Water?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/benefits-of-turmeric-curcumin-for-inflammatory-orbital-pseudotumor/\"><span style=\"font-weight: 400\">Benefits of Turmeric Curcumin for Inflammatory Orbital Pseudotumor</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

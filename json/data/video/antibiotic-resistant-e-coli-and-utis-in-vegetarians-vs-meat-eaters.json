@@ -1,0 +1,151 @@
+{
+  "Title": "Antibiotic-Resistant E. coli and UTIs in Vegetarians vs. Meat-Eaters",
+  "Url": "https://nutritionfacts.org/video/antibiotic-resistant-e-coli-and-utis-in-vegetarians-vs-meat-eaters/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Of90UfOHGIo"
+  },
+  "UpdatedAt": "2022-11-28T12:50:09+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 60",
+    "Url": "https://nutritionfacts.org/volumes/volume-60/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Tainted chicken may result in more than a million urinary tract infections in American women every year.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn my video Antibiotic Resistance Genes in the Guts of Vegetarians vs. Meat-Eaters, I explored how more were found in the guts of those who eat meat, dairy, and eggs than those who eat completely plant-based. But does the transfer of bacteria from animal foods in the human gut result in differences in actual clinical outcomes, other than food poisoning, of course? Foodborne bacteria sicken about 350 million people every year, and most of that can be traced to meat, dairy products, and eggs. Besides food poisoning, though, what about “extraintestinal” infections, infections outside the digestive tract? For example, due to pathogenic and antibiotic-resistant E. coli from retail chicken breasts? Infections where, though? The urinary tract.\nThere’s a type of E. coli called ST131, which is a foodborne uropathogen, meaning it causes urinary tract infections (UTIs)––most of which are just bladder infections, which typically amount to little more than a painful annoyance, but can become invasive and spread up into the kidneys and invade the bloodstream, and end your life. E. coli ST131 emerged explosively in the last 20 years or so “to become the most important multidrug-resistant uropathogen in circulation today.”\nUrinary tract infections are caused principally by ascending E. coli infection via an intestine-stool-urethra route, meaning these E. coli that cause UTIs, called extra-intestinal pathogenic E. coli or ExPEC bacteria, start out in the colon, make it to the anus, then make their way up into the urethra, and then into your bladder. How do they get into your intestines in the first place? That’s where the chicken comes in.\nThe role of poultry-meat, can be to introduce the ExPEC bacteria, allowing it to colonize the rectums of consumers, lying in wait until an opportunity to cause infection presents itself, for example, thrusting from sexual intercourse can introduce the bacteria into the urethra. The time lag between human ExPEC acquisition (in the intestine) and the bladder infection has been the fundamental challenge linking the two. But, we now have strong evidence that a substantial portion of the ST131 strains infecting humans originate from poultry. But they couldn’t tell whether any single infection arose from direct exposure to contaminated poultry, or indirectly from chicken meat from human-to-human transmission––from say a partner who ate some contaminated poultry.\nWhat percentage of human UTIs arise from poultry? Researchers analyzed E. coli isolates from urine samples from patients with suspected UTIs and compared them to the bacteria on retail meat samples in the same region using DNA fingerprinting techniques. They found that about a fifth (21 percent) of E. coli isolates from suspected cases of UTIs belonged to types found in local retail poultry. Now 21 percent might not sound like a lot, but E. coli UTIs are one of the most common infectious diseases in the United States, affecting approximately seven million women. So, contaminated chicken may result in more than a million UTIs in American women every year. \nThis may explain why women infected with multidrug-resistant E. coli reported more frequent chicken consumption––putting them at nearly four times the odds, though frequent consumption of pork was also a risk factor. Wait, is it found in pigs too? Human ExPEC, those extraintestinal E. coli that cause UTIs, have also been identiﬁed on pig farms, in pigs, and in retail pork meat––albeit at considerably lower levels than in poultry or chicken meat. So, chicken is riskiest; pork less so, and beef could be considered the safest from a UTI standpoint––since cattle don’t appear to be a reservoir of these particular types of E. coli.\nOkay, if meat, including poultry and pork, is the major reservoir for these UTI bacteria, then vegetarians, who avoid meat, should theoretically suffer less exposure. However, no study thus far has examined whether vegetarian diets reduce the risk of UTIs…until now: A prospective study on the risk of urinary tract infection in vegetarians versus non-vegetarians. If around 20 percent are tied to retail chicken meat, it’s no surprise that eating vegetarian is associated with around 20 percent lower risk of UTIs, particularly in women. And this association was independent of diseases and predisposing risk factors like hypertension, diabetes, and high cholesterol––meaning it’s not just due to the fact that vegetarians had less diabetes or something.\nWhat about buying organic chicken? Bacteria swabbed from chicken labeled “organic” harbored less antibiotic-resistant bacteria; but no. Chicken labeled “organic” were no less likely to be contaminated with ExPEC UTI bacteria. These ﬁndings suggest that retail chicken products in the United States, even if they are labeled “organic,” pose a potential health threat to consumers because they are contaminated with extensively antibiotic-resistant E. coli, including the ones that cause UTIs.\nTo date, only the Jack in the Box E. coli like O157:H7 are considered food adulterants, meaning it’s not legal to knowingly sell contaminated meat. Why don’t they do the same with the ExPEC bugs, now that there’s such strong evidence they’re infecting so many women? In a survey of retail chicken breasts collected widely across the United States, 14.3 percent of the E. coli they found appeared to be ExPEC. Given that E. coli can be found in about 90 percent of retail turkey and chicken products, that would mean the industry would have to dump literally billions of pounds of chicken breasts every year.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Abebe E, Gugsa G, Ahmed M. Review on major food-borne zoonotic bacterial pathogens. J Trop Med. 2020;2020:4674235.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32684938/"
+    },
+    {
+      "Title": "Chen YC, Chang CC, Chiu THT, Lin MN, Lin CL. The risk of urinary tract infection in vegetarians and non-vegetarians: a prospective study. Sci Rep. 2020;10(1):906.",
+      "Url": "https://www.nature.com/articles/s41598-020-58006-6"
+    },
+    {
+      "Title": "Davis GS, Waits K, Nordstrom L, et al. Antibiotic-resistant Escherichia coli from retail poultry meat with different antibiotic use claims. BMC Microbiol. 2018;18(1):174.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30390618/"
+    },
+    {
+      "Title": "Johnson JR, Porter SB, Johnston B, et al. Extraintestinal pathogenic and antimicrobial-resistant escherichia coli, including sequence type 131 (St131), from retail chicken breasts in the united states in 2013. Appl Environ Microbiol. 2017;83(6):e02956-16.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28062464/"
+    },
+    {
+      "Title": "Liu CM, Stegger M, Aziz M, et al. Escherichia coli ST131- H 22 as a Foodborne Uropathogen. Mobley HLT, Ravel J, eds. mBio. 2018;9(4):e00470-18.",
+      "Url": "https://journals.asm.org/doi/10.1128/mBio.00470-18"
+    },
+    {
+      "Title": "Losasso C, Di Cesare A, Mastrorilli E, et al. Assessing antimicrobial resistance gene load in vegan, vegetarian and omnivore human gut microbiota. Int J Antimicrob Agents. 2018;52(5):702-705.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30081136/"
+    },
+    {
+      "Title": "Manges AR, Smith SP, Lau BJ, et al. Retail meat consumption and the acquisition of antimicrobial resistant Escherichia coli causing urinary tract infections: a case-control study. Foodborne Pathog Dis. 2007;4(4):419-431.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18041952/"
+    },
+    {
+      "Title": "Manges AR. Escherichia coli and urinary tract infections: the role of poultry-meat. Clin Microbiol Infect. 2016;22(2):122-129.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26679924/"
+    },
+    {
+      "Title": "Mellata M, Johnson JR, Curtiss R. Escherichia coli isolates from commercial chicken meat and eggs cause sepsis, meningitis and urinary tract infection in rodent models of human infections. Zoonoses Public Health. 2018;65(1):103-113.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28703468/"
+    },
+    {
+      "Title": "World Health Organization, ed. WHO Estimates of the Global Burden of Foodborne Diseases: Foodborne Disease Burden Epidemiology Reference Group 2007-2015. World Health Organization. 2015.",
+      "Url": "https://apps.who.int/iris/handle/10665/199350"
+    },
+    {
+      "Title": "Yamaji R, Friedman CR, Rubin J, et al. A population-based surveillance study of shared genotypes of escherichia coli isolates from retail meat and suspected cases of urinary tract infections. mSphere. 2018;3(4):e00179-18.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30111626/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "beef",
+      "Url": "https://nutritionfacts.org/topics/beef/"
+    },
+    {
+      "Title": "chicken",
+      "Url": "https://nutritionfacts.org/topics/chicken/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "E. coli",
+      "Url": "https://nutritionfacts.org/topics/e-coli/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "high cholesterol",
+      "Url": "https://nutritionfacts.org/topics/high-cholesterol/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pork",
+      "Url": "https://nutritionfacts.org/topics/pork/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "urinary tract infections",
+      "Url": "https://nutritionfacts.org/topics/urinary-tract-infections/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">The previous video I mentioned is </span><a href=\"https://nutritionfacts.org/video/antibiotic-resistance-genes-in-the-guts-of-vegetarians-vs-meat-eaters/\"><span style=\"font-weight: 400\">Antibiotic Resistance Genes in the Guts of Vegetarians vs. Meat-Eaters</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><a href=\"https://nutritionfacts.org/video/past-the-age-of-miracles-facing-a-post-antibiotic-age/\"><span style=\"font-weight: 400\">Past the Age of Miracles: Facing a Post-Antibiotic Age</span></a><span style=\"font-weight: 400\"> is my video that explains the concern over antibiotic-resistant bacteria.</span></p>\n<p><span style=\"font-weight: 400\">This issue is one of the reasons I support the development of cultivated meat. To learn more, see </span><a href=\"https://nutritionfacts.org/video/the-human-health-effects-of-cultivated-meat-antibiotic-resistance/?queryID=414467dd32a9cb86d3d5d130269f78f6/\"><span style=\"font-weight: 400\">The Human Health Effects of Cultivated Meat: Antibiotic Resistance</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">If you are going to eat chicken, here are some tips: </span><a href=\"https://nutritionfacts.org/video/how-to-shop-for-handle-and-store-chicken/\"><span style=\"font-weight: 400\">How to Shop for, Handle, and Store Chicken</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

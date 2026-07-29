@@ -1,0 +1,123 @@
+{
+  "Title": "The Pros and Cons of Mammograms",
+  "Url": "https://nutritionfacts.org/video/the-pros-and-cons-of-mammograms/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/sEfJLc0NT9E"
+  },
+  "UpdatedAt": "2018-03-12T11:50:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 40",
+    "Url": "https://nutritionfacts.org/volumes/volume-40/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Fact boxes can quantify benefits and harms in a clear and accessible format.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhen it comes to cancer screening, doctors have too often ignored the fact that women may place different weights on various pros and cons, and just “focused on persuading rather than educating” to let people make up their own mind. To do that, though, “they need some quantification of its benefits and harms” in a clear and accessible format. Enter: fact boxes.\nFor example, “[i]n 2014, German physicians recommended transvaginal [ultrasounds]” to millions of women to screen for ovarian cancer, in which a probe like this is inserted to look around. Okay, but what does the science say? Based on a study of hundreds of thousands of women, if you randomize a thousand women to get vaginal ultrasounds, and a thousand women to skip them, and then follow them out for a decade or so, three of the women who skipped the screening will die from ovarian cancer, but the same number died with the screening. So, there was no benefit at all. Instead, 32 of them went into surgery to have their ovaries removed, because something looked suspicious on the ultrasound. But, it turned out to be totally unnecessary, and one of those women suffered surgical complications—all for naught. Just harms, no benefits, yet millions of women were subjected to the probing, “probably resulting in more than 10 000 women having healthy ovaries removed in just one year.” A boon for the hospitals and the surgeons and their local BMW dealers, but just pain and suffering for the women.\nWhat would a fact box for mammograms look like? Each of these gray circles represents one woman. A thousand randomized to skip mammograms, and a thousand randomized to get mammograms. After a decade, in the no-screening group, about five out of the thousand women will die from breast cancer. So, even without screening, the chances of dying from breast cancer in one’s 50s is less than one percent. But, by getting regular mammograms, instead of five out of a thousand women dying from breast cancer, only four in a thousand will die from breast cancer—though the number of women dying overall appears to be the same, either way. So, no lives are necessarily saved overall. But maybe the studies just haven’t had the statistical power to pick up on an overall survival benefit.\nIn terms of harms, 100 of the women getting mammograms will be called back in for false alarms, and maybe even biopsied, and five will have unnecessary lumpectomies or mastectomies. “A third potential harm, getting radiation-induced breast cancer from the [mammograms themselves], is not included because only rough indirect estimates exist”—and it may only be like one in 10,000 women.\nHere’s a graphical representation. This is over a 20-year period, so women following the current USPSTF recommendations to get screened every other year starting at age 50. One would expect 200 false alarms over those two decades, but only about 30 would end up being biopsied. It would miss a few cancers, but in 15 cases, find too many: women diagnosed with and treated for breast cancer unnecessarily. But, on the other hand, two breast cancer deaths would be averted thanks to mammograms—though no overall lives would apparently have been saved.\nNot everyone agrees with these numbers, though. Here’s the most optimistic numbers I could find, per thousand women screened. Up to 10 times the benefit, getting mammograms every year for 25 years starting at age 40, at the cost of an average of three false alarms each, a one in three chance of getting a biopsy, and about a 1% chance of being diagnosed and treated for breast cancer unnecessarily.\nNow, this is assuming asymptomatic women at average risk. Women at higher risk, like those who’ve already had breast cancer or have BRCA gene mutations, would be expected to benefit much more. But, for the average woman, “there is simply no ‘right’ answer to whether a woman should undergo mammographic screening.” It should be left up to each woman to make up their own mind.\nWe hope that the data presented will help with that decision. “Some may choose to pursue screening, valuing any potential for benefit as warranting the accompanying harms. Others may choose not to…,” feeling the potential harms may be just “too great to justify…the…benefit.”\nRegardless, how about trying to not get breast cancer in the first place? “[I]ndividuals [may] rather be told to get a quick test every few years than be told to eat well and exercise to prevent cancer” before it starts. “Screening has become an easy way for both doctor and patient to think they are doing something good for their health.” But getting screened for cancer doesn’t change their risk of getting cancer in the first place.\nAnd, not just cancer. The same diet and lifestyle that can protect against cancer can also protect against the leading killer of women. Here’s the number of women dying from breast cancer versus the number of women dying from heart disease. And, while mammograms may not save lives, we know that lifestyle modifications to prevent heart disease can. So, maybe some of those billions spent every year on mammogram programs could be better spent saving the lives of women.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Gigerenzer G, Kolpatzik K. How new fact boxes are explaining medical risk to millions. BMJ. 2017;357:j2460.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28539314"
+    },
+    {
+      "Title": "Gigerenzer G. Women's perception of the benefit of breast cancer screening. Maturitas. 2010;67(1):5-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20609537"
+    },
+    {
+      "Title": "Gøtzsche PC, Jørgensen KJ, Zahl PH, Mæhlen J. Why mammography screening has not lived up to expectations from the randomised trials. Cancer Causes Control. 2012;23(1):15-21.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22072221"
+    },
+    {
+      "Title": "Gøtzsche PC, Jørgensen KJ. Screening for breast cancer with mammography. Cochrane Database Syst Rev. 2013;(6):CD001877.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23737396"
+    },
+    {
+      "Title": "Løberg M, Lousdal ML, Bretthauer M, Kalager M. Benefits and harms of mammography screening. Breast Cancer Res. 2015;17:63.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25928287"
+    },
+    {
+      "Title": "Mandelblatt JS, Stout NK, Schechter CB, et al. Collaborative Modeling of the Benefits and Harms Associated With Different U.S. Breast Cancer Screening Strategies. Ann Intern Med. 2016;164(4):215-25.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26756606"
+    },
+    {
+      "Title": "Prasad V. How the USPSTF's Mammographic Screening Guidelines Should Be Interpreted. Am J Med. 2017;130(7):769-770.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28344145"
+    },
+    {
+      "Title": "Rosenbaum L. \"Misfearing\"--culture, identity, and our perceptions of health risks. N Engl J Med. 2014;370(7):595-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24521105"
+    },
+    {
+      "Title": "Scudellari M. The science myths that will not die. Nature. 2015;528(7582):322-5.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26672537"
+    },
+    {
+      "Title": "Siu AL. Screening for Breast Cancer: U.S. Preventive Services Task Force Recommendation Statement. Ann Intern Med. 2016;164(4):279-96.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26757170"
+    },
+    {
+      "Title": "Stefanek ME. Uninformed compliance or informed choice? A needed shift in our approach to cancer screening. J Natl Cancer Inst. 2011;103(24):1821-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22106094"
+    },
+    {
+      "Title": "Welch HG, Passow HJ. Quantifying the benefits and harms of screening mammography. JAMA Intern Med. 2014;174(3):448-54.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24380095"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "BRCA genes",
+      "Url": "https://nutritionfacts.org/topics/brca-genes/"
+    },
+    {
+      "Title": "breast cancer",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer/"
+    },
+    {
+      "Title": "breast cancer survival",
+      "Url": "https://nutritionfacts.org/topics/breast-cancer-survival/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "iatrogenic",
+      "Url": "https://nutritionfacts.org/topics/iatrogenic/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "mammograms",
+      "Url": "https://nutritionfacts.org/topics/mammograms/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "ovarian cancer",
+      "Url": "https://nutritionfacts.org/topics/ovarian-cancer/"
+    },
+    {
+      "Title": "radiation",
+      "Url": "https://nutritionfacts.org/topics/radiation/"
+    },
+    {
+      "Title": "surgery",
+      "Url": "https://nutritionfacts.org/topics/surgery/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This video wraps up my 14-part series on mammograms. Now, it’s up to you. How important are false-positives or overdiagnosis to <em>you</em>? That’s something you have to answer for yourself.</p>\n<p>If you missed any of my in-depth mammogram series, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/9-out-of-10-women-misinformed-about-mammograms/\">Nine out of Ten Women Misinformed About Mammograms</a></li>\n<li><a href=\"https://nutritionfacts.org/video/mammogram-recommendations-why-the-conflicting-guidelines/\">Mammogram Recommendations: Why the Conflicting Guidelines?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/should-women-get-mammograms-starting-at-age-40/\">Should Women Get Mammograms Starting at Age 40?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-mammograms-save-lives/\">Do Mammograms Save Lives?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/consequences-of-false-positive-mammogram-results/\">Consequences of False-Positive Mammogram Results</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-mammograms-hurt/\">Do Mammograms Hurt?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-mammogram-radiation-cause-breast-cancer/\">Can Mammogram Radiation Cause Breast Cancer?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/understanding-the-mammogram-paradox/\">Understanding the Mammogram Paradox</a></li>\n<li><a href=\"https://nutritionfacts.org/video/overtreatment-of-stage-0-breast-cancer-dcis/\">Overtreatment of Stage 0 Breast Cancer DCIS</a></li>\n<li><a href=\"https://nutritionfacts.org/video/women-deserve-to-know-the-truth-about-mammograms/\">Women Deserve to Know the Truth About Mammograms</a></li>\n<li><a href=\"https://nutritionfacts.org/video/breast-cancer-and-the-5-year-survival-rate-myth/\">Breast Cancer and the Five-Year Survival Rate Myth</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-mammograms-dont-appear-to-save-lives/\">Why Mammograms Don’t Appear to Save Lives</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-patients-arent-informed-about-mammograms/\">Why Patients Aren’t Informed About Mammograms</a></li>\n</ul>\n<p>I’ve produced so many videos on diet and lifestyle approaches to preventing and treating breast cancer. Just search for them on the site, and all will be revealed.</p>\n<p>Want this whole 14-part series in one place? You can <a href=\"https://drgreger.org/collections/downloads\"><strong>stream</strong></a> it for a donation to NutritionFacts.org by <a href=\"https://drgreger.org/\"><strong>going here</strong></a>.</p>\n<p>For more on breast cancer, see my videos <a href=\"https://nutritionfacts.org/video/oxidized-cholesterol-27hc-may-explain-3-breast-cancer-mysteries/\">Oxidized Cholesterol 27HC May Explain Three Breast Cancer Mysteries </a>and <a href=\"https://nutritionfacts.org/video/eggs-and-breast-cancer/\">Eggs and Breast Cancer</a>.</p>\n<p>I was able to cover colon cancer screening in just one video. If you missed it, check out <a href=\"https://nutritionfacts.org/video/should-we-all-get-colonoscopies-starting-at-age-50/\">Should We All Get Colonoscopies Starting at Age 50?</a>.</p>\n<p>Also on the topic of medical screenings, see <a href=\"https://nutritionfacts.org/video/is-it-worth-getting-annual-health-check-ups/\">Is It Worth Getting Annual Health Check-Ups?</a> and <a href=\"https://nutritionfacts.org/video/is-it-worth-getting-an-annual-physical-exam/\">Is It Worth Getting an Annual Physical Exam?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

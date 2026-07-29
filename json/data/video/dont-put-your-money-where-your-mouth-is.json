@@ -1,0 +1,59 @@
+{
+  "Title": "Don’t Put Your Money Where Your Mouth Is",
+  "Url": "https://nutritionfacts.org/video/dont-put-your-money-where-your-mouth-is/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/6Mpr_VmgWsI"
+  },
+  "UpdatedAt": "2012-06-12T12:00:16+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 9",
+    "Url": "https://nutritionfacts.org/volumes/volume-9/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "A profile of the study “Dirty Money: An Investigation into the Hygiene Status of Some of the World’s Currencies as Obtained from Food Outlets.” The level of fecal bacteria contamination on banknotes is compared between Australia, Burkina Faso (Africa), China, Ireland, the Netherlands, New Zealand, Nigeria, Mexico, the United Kingdom, and the United States.",
+  "Transcript": "The reason food service workers are supposed to wear gloves is that they could potentially pick up an infection touching a public surface, like a doorknob or faucet, and then transfer it to our food. Well, if touching common surfaces could contaminate your hands, what about money?\n“Dirty Money: An Investigation into the Hygiene Status of Some of the World’s Currencies as Obtained from Food Outlets.”\n“A total of 1280 banknotes were obtained from food outlets in 10 different countries…and their bacterial content was enumerated.” Who had the most contaminated money? They looked at Australia, Burkina Faso [in Africa], China, Ireland, the Netherlands, New Zealand, Nigeria, Mexico, the United Kingdom, and the United States.”\nHere’s the graph. Note this is a log scale, so this is like hundred-fold difference in bacterial contamination. Let’s do the cleanest one first. Which country has the most hygienic dollar? \nThat’s a hint, as only three of the countries use “dollars.” The United States, and our winner, Australia, along with runner-up New Zealand.\nThe most contaminated belongs to China, though not all bacteria are the same. If you’re just looking at E. coli, for example, as an indicator of fecal contamination, then looking at the white bar, we’re number one, leading the world at 55% of our bills contaminated with E coli., with Berkina Faso, the third least developed country in the world, a close second.\nThey recommend that “the handling of food and money should be physically separated by employing separate individuals to carry out one task each or handling food only with a gloved hand and money with the other hand. Or, if neither of these precautions can be effectively implemented, it is highly recommended that food service personnel practice proper hand washing procedures after handling money and before handling food.”\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Serena.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Vriesekoop F, Russell C, Alvarez-Mayorga B, Aidoo K, Yuan Q, Scannell A, Beumer RR, Jiang X, Barro N, Otokunefor K, Smith-Arnold C, Heap A, Chen J, Iturriage MH, Hazeleger W, DeSlandes J, Kinley B, Wilson K, Menz G. Dirty money: an investigation into the hygiene status of some of the world's currencies as obtained from food outlets. Foodborne Pathog Dis. 2010 Dec; 7(12):1497-502.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20704502"
+    }
+  ],
+  "Acknowledgements": "Image thanks to Anthony Albright / flickr",
+  "Topics": [
+    {
+      "Title": "Africa",
+      "Url": "https://nutritionfacts.org/topics/africa/"
+    },
+    {
+      "Title": "E. coli",
+      "Url": "https://nutritionfacts.org/topics/e-coli/"
+    },
+    {
+      "Title": "fecal bacteria",
+      "Url": "https://nutritionfacts.org/topics/fecal-bacteria/"
+    },
+    {
+      "Title": "fecal contamination",
+      "Url": "https://nutritionfacts.org/topics/fecal-contamination/"
+    },
+    {
+      "Title": "food poisoning",
+      "Url": "https://nutritionfacts.org/topics/food-poisoning/"
+    },
+    {
+      "Title": "foodborne illness",
+      "Url": "https://nutritionfacts.org/topics/foodborne-illness/"
+    },
+    {
+      "Title": "hand washing",
+      "Url": "https://nutritionfacts.org/topics/hand-washing/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Since so few restaurant and deli workers wash their hands (see <a href=\"https://nutritionfacts.org/video/handwashing-compliance-of-retail-deli-workers/\" rel=\"nofollow\">Hand Washing Compliance of Retail Deli Workers</a>), it should come as no surprise that anything they handle can become contaminated. Most meat is contaminated with fecal bacteria (see <a href=\"https://nutritionfacts.org/?post_type=video&amp;p=863\" rel=\"nofollow\">Fecal Bacteria Survey</a>)—in fact, so much so that children can pick up infections by just touching the outside of meat packaging. See <a href=\"https://nutritionfacts.org/video/meat-borne-infection-risk-from-shopping-carts/\" rel=\"nofollow\">Meat-Borne Infection Risk from Shopping Carts</a>, and check out my <a href=\"https://nutritionfacts.org/topics/food-poisoning/\" rel=\"nofollow\">other videos on food poisoning</a>.</p>\n<p>For more context, check out my associated blog post: <a href=\"https://nutritionfacts.org/2013/12/26/probiotics-and-diarrhea/\">Probiotics and Diarrhea</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

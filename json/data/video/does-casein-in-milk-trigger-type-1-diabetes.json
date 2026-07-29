@@ -1,0 +1,155 @@
+{
+  "Title": "Does Casein in Milk Trigger Type 1 Diabetes?",
+  "Url": "https://nutritionfacts.org/video/does-casein-in-milk-trigger-type-1-diabetes/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/bDZHBaiSHWo"
+  },
+  "UpdatedAt": "2016-11-28T13:00:55+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 33",
+    "Url": "https://nutritionfacts.org/volumes/volume-33/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Why might exposure to bovine proteins increase the risk of childhood-onset autoimmune type 1 diabetes?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nType 1 diabetes is an autoimmune disease that typically strikes children and young adults, in which your own immune system attacks and destroys the insulin-producing cells of your pancreas. If untreated, it’s deadly. But, “even with well-managed insulin replacement,” it could cut a decade off your life. “Families are devastated when a child receives a diagnosis of type 1 diabetes.” Thus, one of modern medicine’s “holy grails” is to understand what causes the body to attack itself, in hopes that we can prevent and cure it.\nGenetic susceptibility plays an important role, but the concordance for type 1 diabetes is only about 50% among identical twins—meaning even if someone with the same DNA as you gets the disease, there’s only about a 50% chance you’ll get it too, meaning there must be external factors, as well.\nSome countries have low rates; some have high rates. Japan, for example, has type 1 diabetes rates 18 times lower than the United States. And, that’s not just genetics, since when children migrate, they tend to acquire the risk of their new home—suggesting it’s got to have something to do with the environment, diet, or lifestyle.\nIn fact, the incidence rates vary more than 350-fold around the world. Some countries have hundreds of times higher rates than others, and it’s on the rise. Researchers looked at 37 populations from around the world, and the incidence is going up about 3% a year. In fact, they couldn’t find a single population going the other direction. 3% higher every year; our genes don’t change that fast. Something is going on, starting right around World War 2. “The best evidence available suggests that [type 1] diabetes showed a stable and relatively low incidence over the first half of the 20th century, followed by a clear increase [around] the middle of the century.”\nAnd, the question is, why? A number of factors have been postulated for tipping children over into diabetes, including vitamin D deficiency, certain infections, or exposure to cow’s milk.\nDecades ago, cross-country comparisons like this were published, showing a tight correlation between milk consumption and the incidence of type 1 diabetes—insulin-dependent, childhood-onset diabetes—showing as much as “94% of the geographic variation in incidence might be explained by differences in milk consumption [alone].” This country, with the highest rates at the top—Finland—led much of the research into this area.\nIt all started with studies like this, showing the less babies are breastfed, the higher the rate of type 1 diabetes—leading to the obvious conclusion: breast milk protects newborn infants.  On the other hand, if they’re not getting breast milk, they’re getting formula, which contains cow’s milk proteins. In the first few months of life, the gut is especially leaky to proteins. And, so, maybe, as our immune system attacks the foreign cow proteins, our pancreas gets caught in the crossfire. But, this was based on animal experiments. In susceptible mice, “a diet containing [the cow’s milk protein] casein produced diabetes.” But, it doesn’t cause diabetes in rats. So, are we more like mice, or rats?\nSo, researchers drew blood from children with type 1 diabetes to see if they had elevated levels of antibodies that attack bovine proteins, compared to controls. And, every single one of the affected kids had elevated anti-bovine protein antibodies circulating in their blood, compared to much lower levels in the control subjects.\nOkay, that seems pretty convincing, but what about Iceland? They drink more milk than Finland, yet have less than half the type 1 diabetes. We’ll cover the Icelandic paradox, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Akerblom HK, Savilahti E, Saukkonen TT, Paganus A, Virtanen SM, Teramo K, Knip M, Ilonen J, Reijonen H, Karjalainen J, et al. The case for elimination of cow's milk in early infancy in the prevention of type 1 diabetes: the Finnish experience. Diabetes Metab Rev. 1993 Dec;9(4):269-78.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/7924824"
+    },
+    {
+      "Title": "Beyan H, Wen L, Leslie RD. Guts, germs, and meals: the origin of type 1 diabetes. Curr Diab Rep. 2012 Oct;12(5):456-62.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22753003"
+    },
+    {
+      "Title": "Borch-Johnsen K, Joner G, Mandrup-Poulsen T, Christy M, Zachau-Christiansen B, Kastrup K, Nerup J. Relation between breast-feeding and incidence rates of insulin-dependent diabetes mellitus. A hypothesis. Lancet. 1984 Nov 10;2(8411):1083-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/6150150"
+    },
+    {
+      "Title": "Dahl-Jørgensen K, Joner G, Hanssen KF. Relationship between cows' milk consumption and incidence of IDDM in childhood. Diabetes Care. 1991 Nov;14(11):1081-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/1797491"
+    },
+    {
+      "Title": "Egro FM. Why is type 1 diabetes increasing? J Mol Endocrinol. 2013 Jul 12;51(1):R1-13.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23733895"
+    },
+    {
+      "Title": "Gale EA. The rise of childhood type 1 diabetes in the 20th century. Diabetes. 2002 Dec;51(12):3353-61.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12453886"
+    },
+    {
+      "Title": "Harlan DM, Lee MM. Infant formula, autoimmune triggers, and type 1 diabetes. N Engl J Med. 2010 Nov 11;363(20):1961-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21067389"
+    },
+    {
+      "Title": "Karjalainen J, Martin JM, Knip M, Ilonen J, Robinson BH, Savilahti E, Akerblom HK, Dosch HM. A bovine albumin peptide as a possible trigger of insulin-dependent diabetes mellitus. N Engl J Med. 1992 Jul 30;327(5):302-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/1377788"
+    },
+    {
+      "Title": "Karvonen M, Viik-Kajander M, Moltchanova E, Libman I, LaPorte R, Tuomilehto J. Incidence of childhood type 1 diabetes worldwide. Diabetes Mondiale (DiaMond) Project Group. Diabetes Care. 2000 Oct;23(10):1516-26.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/11023146"
+    },
+    {
+      "Title": "Nielsen DS, Krych Ł, Buschard K, Hansen CH, Hansen AK. Beyond genetics. Influence of dietary factors and gut microbiota on type 1 diabetes. FEBS Lett. 2014 Nov 17;588(22):4234-43.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24746688"
+    },
+    {
+      "Title": "Onkamo P, Väänänen S, Karvonen M, Tuomilehto J. Worldwide increase in incidence of Type I diabetes--the analysis of the data on published incidence trends. Diabetologia. 1999 Dec;42(12):1395-403.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/10651256"
+    }
+  ],
+  "Acknowledgements": "Image credit: Ishai Parasol via flickr. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "A2 milk",
+      "Url": "https://nutritionfacts.org/topics/a2-milk/"
+    },
+    {
+      "Title": "animal studies",
+      "Url": "https://nutritionfacts.org/topics/animal-studies/"
+    },
+    {
+      "Title": "autoimmune diseases",
+      "Url": "https://nutritionfacts.org/topics/autoimmune-diseases/"
+    },
+    {
+      "Title": "breast milk",
+      "Url": "https://nutritionfacts.org/topics/breast-milk/"
+    },
+    {
+      "Title": "breastfeeding",
+      "Url": "https://nutritionfacts.org/topics/breastfeeding/"
+    },
+    {
+      "Title": "casein",
+      "Url": "https://nutritionfacts.org/topics/casein/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "environment",
+      "Url": "https://nutritionfacts.org/topics/environment/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "insulin",
+      "Url": "https://nutritionfacts.org/topics/insulin/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "milk",
+      "Url": "https://nutritionfacts.org/topics/milk/"
+    },
+    {
+      "Title": "pancreas health",
+      "Url": "https://nutritionfacts.org/topics/pancreas-health/"
+    },
+    {
+      "Title": "prediabetes",
+      "Url": "https://nutritionfacts.org/topics/prediabetes/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "type 1 diabetes",
+      "Url": "https://nutritionfacts.org/topics/type-1-diabetes/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>The vast majority of diabetes cases are type 2, so that’s been my concentration:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/plant-based-diets-and-diabetes/\">Plant-Based Diets and Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/can-diabetic-retinopathy-be-reversed/\">Can Diabetic Retinopathy Be Reversed?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-causes-diabetes/\">What Causes Diabetes?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/reversing-diabetes-with-food/\">Reversing Diabetes with Food</a></li>\n<li><a href=\"https://nutritionfacts.org/video/diabetes-reversal-is-it-the-calories-or-the-food/\">Diabetes Reversal: Is It the Calories or the Food?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-not-to-die-from-diabetes/\">How Not to Die from Diabetes</a></li>\n</ul>\n<p>I’m pleased to have been able to address type 1 diabetes with this video. For even more on this disease, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/does-bovine-insulin-in-milk-trigger-type-1-diabetes/\">Does Bovine Insulin Exposure Trigger Type 1 Diabetes?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/does-paratuberculosis-in-meat-trigger-type-1-diabetes/\">Does Paratuberculosis in Meat Trigger Type 1 Diabetes?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/meat-consumption-and-the-development-of-type-1-diabetes/\">Meat Consumption and the Development of Type 1 Diabetes</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-causes-insulin-resistance/\">What Causes Insulin Resistance?</a></li>\n</ul>\n<p>And, as always, don’t hesitate to let me know what other topics you’d like me to cover.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

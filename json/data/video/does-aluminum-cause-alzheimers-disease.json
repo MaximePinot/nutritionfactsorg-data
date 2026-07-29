@@ -1,0 +1,119 @@
+{
+  "Title": "Does Aluminum Cause Alzheimer’s Disease?",
+  "Url": "https://nutritionfacts.org/video/does-aluminum-cause-alzheimers-disease/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/SMM_Jvca-wE"
+  },
+  "UpdatedAt": "2024-08-05T11:50:42+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 66",
+    "Url": "https://nutritionfacts.org/volumes/volume-66/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Although aluminum isn’t necessarily benign, what convinced me that it does not play a role in Alzheimer’s disease?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe so-called “aluminum hypothesis” for the cause of Alzheimer’s disease dates back to 1965, when the inadvertent injection of aluminum into the brains of rabbits caused neurological symptoms along with what initially looked like Alzheimer’s disease tangles in the brain. Then, in the 1970s, it was first reported that the aluminum content of Alzheimer’s brains was higher than that of control brains on autopsy. Following that, there was a rash of fatal dementia cases attributed to dialysis fluids contaminated with aluminum. This trio of findings led researchers to suggest that aluminum, the third most abundant element on Earth (after oxygen and silicon), may play a role in the development of Alzheimer’s disease.\nThe first crack in the theory was the realization that, upon closer inspection, the tangle-like changes in rabbit brains were not much like those found in human Alzheimer’s disease after all. The changes in aluminum-induced dialysis encephalopathy were also dissimilar. Aluminum could certainly be toxic to the brain, but not necessarily in a way that had anything to do with Alzheimer’s disease. And, subsequent autopsy studies of Alzheimer’s victims did not consistently find higher aluminum levels. And even if they did, elevations in brain aluminum could be a consequence rather than cause (reflecting Alzheimer’s disease damage to the blood brain barrier).\nThe aluminum hypothesis came under heavy fire in the scientific community. Only later did we learn that the most vocal critics were secretly-paid aluminum industry hacks. In hindsight, that was probably unnecessary, as the tide of evidence eventually turned against the role of aluminum. What convinced me was a meta-analysis that failed to find a connection between regular antacid use and Alzheimer’s. Processed foods contain a variety of aluminum-containing additives, such as anti-caking agents in pancake mix, melting agents in American cheese, meat binders, gravy thickeners, rising agents in some baking powders, and dye binders in candy. However, over-the-counter antacids are probably the most important source for human aluminum exposure, in terms of dose.\nIn terms of the safety of dietary aluminum, the tolerable weekly intake is 1 mg per kilogram of body weight. So, if you weigh about 150 pounds (67.5 kg), you shouldn’t get more than like 10 mg a day. One day of Maalox can give you 38 hundred mg, nearly 400 times the daily safety limit, and nowhere on the label does it say to not take it with acidic beverages, such as fruit juice. Washing an antacid down with orange juice can increase aluminum absorption eight-fold. The total aluminum intake in drinking water and processed foods in most countries may only be a few milligrams a day. But, some antacids can increase daily aluminum consumption by up to several grams––a thousand-fold higher. And so, if antacid use isn’t related to Alzheimer’s risk, then ingested aluminum is unlikely to be a cause.\nNow, as I explored in my video on cooking with it, just because aluminum doesn’t cause Alzheimer’s doesn’t mean aluminum intake is necessarily benign. Those who cook with aluminum and store acidic foods, like yogurt and tomato, in aluminum cookware suffer significantly more DNA damage, leading some regulators to recommend consumers avoid the use of aluminum pots or dishes for acidic or salted foodstuffs.\nIn my video on antiperspirants and breast cancer, I note how the FDA and European safety authorities specifically advise against using aluminum antiperspirants on damaged skin, which may even include avoiding them after shaving. As a “metalloestrogen,” aluminum absorption may explain why breast cancer may occur as much as twenty years earlier in women using antiperspirant and shaving their armpits more than three times a week.\nYou can also avoid high dietary sources by choosing non-aluminum baking powder for baking, and avoiding processed cheese. Aluminum salts can give cheese “desirable slicing properties,” but that means a single grilled cheese sandwich can end up exceeding the World Health Organization’s provisional tolerable daily intake of aluminum by as much as 400 percent.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Al-Ashmawy MAM. Prevalence and public health significance of aluminum residues in milk and some dairy products. J Food Sci. 2011;76(3):T73-76.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21535864/"
+    },
+    {
+      "Title": "Alfrey AC, LeGendre GR, Kaehny WD. The dialysis encephalopathy syndrome. Possible aluminum intoxication. N Engl J Med. 1976;294(4):184-188.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1244532/"
+    },
+    {
+      "Title": "Celik H, Celik N, Kocyigit A, Dikilitas M. The relationship between plasma aluminum content, lymphocyte DNA damage, and oxidative status in persons using aluminum containers and utensils daily. Clin Biochem. 2012;45(18):1629-1633.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22981396/"
+    },
+    {
+      "Title": "Crapper DR, Krishnan SS, Dalton AJ. Brain aluminum distribution in Alzheimer’s disease and experimental neurofibrillary degeneration. Science. 1973;180(4085):511-513.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/4735595/"
+    },
+    {
+      "Title": "Darbre PD, Mannello F, Exley C. Aluminium and breast cancer: Sources of exposure, tissue measurements and mechanisms of toxicological actions on breast biology. J Inorg Biochem. 2013;128:257-261.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23899626/"
+    },
+    {
+      "Title": "Darbre PD. Metalloestrogens: an emerging class of inorganic xenoestrogens with potential to add to the oestrogenic burden of the human breast. J Appl Toxicol. 2006;26(3):191-197.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16489580/"
+    },
+    {
+      "Title": "European Food Safety Authority (EFSA). Safety of aluminium from dietary intake - scientific opinion of the panel on food additives, flavourings, processing aids and food contact materials(Afc). EFSA J. 2008;6(7):754.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37213837/"
+    },
+    {
+      "Title": "Klatzo I, Wisniewski H, Streicher E. Experimental production of neurofibrillary degeneration. I. Light microscopic observations. J Neuropathol Exp Neurol. 1965;24:187-199.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14280496/"
+    },
+    {
+      "Title": "Lidsky TI. Is the aluminum hypothesis dead? J Occup Environ Med. 2014;56(5 Suppl):S73-79.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24806729/"
+    },
+    {
+      "Title": "McGrath KG. An earlier age of breast cancer diagnosis related to more frequent use of antiperspirants/deodorants and underarm shaving. Eur J Cancer Prev. 2003;12(6):479-485.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14639125/"
+    },
+    {
+      "Title": "Perl DP, Moalem S. Aluminum and Alzheimer’s disease, a personal perspective after 25 years. J Alzheimers Dis. 2006;9(3 Suppl):291-300.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17004365/"
+    },
+    {
+      "Title": "Reinke CM, Breitkreutz J, Leuenberger H. Aluminium in over-the-counter drugs: risks outweigh benefits? Drug Saf. 2003;26(14):1011-1025.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14583063"
+    },
+    {
+      "Title": "Stahl T, Falk S, Rohrbeck A, et al. Migration of aluminum from food contact materials to food-a health risk for consumers? Part II of III: migration of aluminum from drinking bottles and moka pots made of aluminum to beverages. Environ Sci Eur. 2017;29(1):18.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28458988/"
+    },
+    {
+      "Title": "Virk SA, Eslick GD. Brief report: meta-analysis of antacid use and Alzheimer’s disease: implications for the aluminum hypothesis. Epidemiology. 2015;26(5):769-773.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26098935/"
+    },
+    {
+      "Title": "Walton JR. Aluminum involvement in the progression of Alzheimer’s disease. J Alzheimers Dis. 2013;35(1):7-43.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23380995/"
+    },
+    {
+      "Title": "Weberg R, Berstad A. Gastrointestinal absorption of aluminium from single doses of aluminium containing antacids in man. Eur J Clin Invest. 1986;16(5):428-432.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/3100311/"
+    },
+    {
+      "Title": "Wisniewski HM, Wen GY. Aluminium and Alzheimer’s disease. Ciba Found Symp. 1992;169:142-154.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1490420/"
+    },
+    {
+      "Title": "Yokel RA, Hicks CL, Florence RL. Aluminum bioavailability from basic sodium aluminum phosphate, an approved food additive emulsifying agent, incorporated in cheese. Food Chem Toxicol. 2008;46(6):2261-2266.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18436363/"
+    },
+    {
+      "Title": "Zatta P, Giordano R, Corain B, Bombi GG. Alzheimer dementia and the aluminum hypothesis. Med Hypotheses. 1988;26(2):139-142.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/3412205/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aluminum",
+      "Url": "https://nutritionfacts.org/topics/aluminum/"
+    },
+    {
+      "Title": "Alzheimer’s disease",
+      "Url": "https://nutritionfacts.org/topics/alzheimers-disease/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "processed foods",
+      "Url": "https://nutritionfacts.org/topics/processed-foods/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">The videos I mentioned are </span><a href=\"https://nutritionfacts.org/video/are-aluminum-pots-bottles-and-foil-safe/\"><span style=\"font-weight: 400\">Are Aluminum Pots, Bottles, and Foil Safe?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/antiperspirants-and-breast-cancer/\"><span style=\"font-weight: 400\">Antiperspirants and Breast Cancer</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">For more on Alzheimer’s disease, check out:</span></p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-endotoxins-in-alzheimers-and-dementia/\"><span style=\"font-weight: 400\">The Role of Endotoxins in Alzheimer’s and Dementia</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/pesticides-ddt-and-alzheimers-disease/\"><span style=\"font-weight: 400\">Pesticides (DDT) and Alzheimer’s Disease</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/reducing-glycotoxin-intake-to-prevent-alzheimers/\"><span style=\"font-weight: 400\">Reducing Glycotoxin Intake to Prevent Alzheimer’s</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">I have several videos on the benefits of food for the aging brain. See:</span></p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/treating-alzheimers-with-turmeric/\"><span style=\"font-weight: 400\">Treating Alzheimer’s with Turmeric</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/preventing-alzheimers-disease-with-plants/\"><span style=\"font-weight: 400\">Preventing Alzheimer’s Disease with Plants</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-prevent-alzheimers-with-diet/\"><span style=\"font-weight: 400\">How to Prevent Alzheimer’s with Diet</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/brain-healthy-foods-to-fight-aging/\"><span style=\"font-weight: 400\">Brain Healthy Foods to Fight Aging</span></a></li>\n<li><a href=\"https://nutritionfacts.org/video/benefits-of-grapes-for-brain-health/\"><span style=\"font-weight: 400\">Benefits of Grapes for Brain Health</span></a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Title": "Is It Best to Drink Tap, Filtered, or Bottled Water?",
+  "Url": "https://nutritionfacts.org/video/is-it-best-to-drink-tap-filtered-or-bottled-water/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/ddHUNK3CBBs"
+  },
+  "UpdatedAt": "2019-08-12T11:50:54+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 47",
+    "Url": "https://nutritionfacts.org/volumes/volume-47/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Given the disinfection byproducts in tap water, Brita, PUR, ZeroWater, and refrigerator water filters are put to the test.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThough many distrust the safety of tap water, a study of 35 brands of bottled water did not find them to necessarily be safer, cleaner, or of a higher quality than water straight out of the faucet. How much is that saying, though? Two studies published back in the 1970s forever changed our perception that drinking water safety was only about waterborne diseases. In fact, it was our fight against microbial contaminants that led to a new kind of contamination in the form of “disinfection by-products.”\nThe two landmark papers in ‘74 solved the mystery of the source of chloroform in drinking water: we met the enemy and he is us. The chlorination of drinking water—”crucial for maintaining… microbiological safety”—was interacting with natural organic matter from the water’s source, and creating chlorinated compounds that can not only result in off-flavors and smells, but pose a potential public health risk. More than 600 disinfection byproducts have so far been identified.\nAfter decades of research into the matter, it appears that the lifelong ingestion of chlorinated drinking water results in “clear excess risk” for bladder cancer. There is also some evidence of increased risk of certain types of birth defects, but most of the concern has focused on the bladder cancer link. Forty years of exposure may increase your odds of bladder cancer by 27 percent. The Environmental Protection Agency estimated that between 2 to 17 percent of bladder cancer cases in the United States are due to these disinfection byproducts in drinking water. However, this is assuming the link is cause-and-effect, which has yet to be firmly established.\nThe best way to reduce risk is to treat the cause. Countries could prevent the formation of disinfection byproducts in the first place through the better initial removal of source water’s “natural organic matter” (or what my grandmother would have called “schmutz”). Some countries in Europe, such as Switzerland, have newer, well-maintained drinking water systems that can distribute tap water free from residual disinfectants. But the cost to upgrade the infrastructure of even a small city here in the U.S. could run in the tens of millions. As the Flint tragedy revealed, we seem to have trouble keeping even frank toxins out of the tap.\nNearly 40 percent of Americans use some sort of water purification device. Two of the most common approaches—pour-through pitchers and refrigerator filters—were put to the test, head-to-head against Tucson tap water. Both of the fridge filters (GE and Whirlpool) did similarly well, removing more than 96 percent of trace organic contaminants, edging out the three pitcher filters. ZeroWater brand caught 93 percent, PUR pitchers got 84 percent, but by the time the filters needed to be replaced, Brita was only catching 50 percent. A similar discrepancy was found between PUR and Brita brand filters tested specifically against disinfection byproducts. They both started out about the same at the beginning, but by the end of the filter’s life PUR appeared to do better. Reverse osmosis systems can work even better, but the cost, water waste, and loss of trace minerals doesn’t seem worth it.\nThe annual cost for purifying your water with the pitcher or fridge filters was calculated out to be about the same, at only around a penny per cup—with the exception of the ZeroWater brand, which is up to four times more expensive.\nI always figured the “change by” dates on the filters were just company scams to get you to buy more, but I was wrong. Since I drink filtered water mostly just for taste, I used to just wait until the water started tasting funky. Bad idea. Not only do the filters eventually lose some of their removal capacity, bacterial growth can build up inside them, resulting in your so-called “filtered” water having higher bacterial counts than the water straight out of the tap. You’d be actually making your water dirtier rather than cleaner; so, it is important to replace them regularly.\nAs an aside, I used to think the same thing about the advice to change your toothbrush every three months. Like, which Big Brush executive thought that one up? But no, wrong again. Toothbrushes can build up biofilms of tooth decay bacteria or become breeding grounds for bacteria flumed into the air with each toilet flush before going back into our mouths. Fun Fact: A single flush can spew up “millions of bacteria” that can settle on your nice moist brush. The good news is that rather than buying new ones, you can just disinfect the head of your toothbrush with as little as a 10-minute soak in white vinegar, or even more frugally—vinegar diluted in half with water.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Anumol T, Clarke BO, Merel S, Snyder SA. Point‐of‐Use Devices for Attenuation of Trace Organic Compounds in Water. J Amer Water Works Assoc. 2015;107(9):E474-E485.",
+      "Url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.5942/jawwa.2015.107.0129"
+    },
+    {
+      "Title": "Basman A, Peker I, Akca G, Alkurt MT, Sarikir C, Celik I. Evaluation of toothbrush disinfection via different methods. Braz Oral Res. 2016;30.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26676193"
+    },
+    {
+      "Title": "Bellar TA, Lichtenberg JJ, Kroner RC. The Occurrence of Organohalides in Chlorinated Drinking Waters. J Amer Water Works Assoc. 1974;66(12)703-706.",
+      "Url": "https://www.jstor.org/stable/41267646"
+    },
+    {
+      "Title": "Bellinger DC. Lead Contamination in Flint--An Abject Failure to Protect Public Health. N Engl J Med. 2016;374(12):1101-3.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26863114"
+    },
+    {
+      "Title": "Grellier J, Rushton L, Briggs DJ, Nieuwenhuijsen MJ. Assessing the human health impacts of exposure to disinfection by-products--a critical review of concepts and methods. Environ Int. 2015;78:61-81.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25765762"
+    },
+    {
+      "Title": "Hrudey SE. Chlorination disinfection by-products, public health risk tradeoffs and me. Water Res. 2009;43(8):2057-92.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19304309"
+    },
+    {
+      "Title": "Hwang BF, Jaakkola JJ. Water chlorination and birth defects: a systematic review and meta-analysis. Arch Environ Health. 2003;58(2):83-91.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12899208"
+    },
+    {
+      "Title": "Odom R, Regli S, Messner M, Cromwell J, Javdan M. Benefit–cost analysis of the Stage 1 D/DBP Rule. J Amer Water Works Assoc. 1999;91(4):137-147.",
+      "Url": "https://awwa.onlinelibrary.wiley.com/doi/full/10.1002/j.1551-8833.1999.tb08620.x"
+    },
+    {
+      "Title": "Onufrak SJ, Park S, Sharkey JR, Sherry B. The relationship of perceptions of tap water safety with intake of sugar-sweetened beverages and plain water among US adults. Public Health Nutr. 2014;17(1):179-85.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23098620"
+    },
+    {
+      "Title": "Peker I, Akca G, Sarikir C, Alkurt MT, Celik I. Effectiveness of alternative methods for toothbrush disinfection: an in vitro study. ScientificWorldJournal. 2014;2014:726190.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24971388"
+    },
+    {
+      "Title": "Saleh MA, Abdel-Rahman FH, Woodard BB, et al. Chemical, microbial and physical evaluation of commercial bottled waters in greater Houston area of Texas. J Environ Sci Health A Tox Hazard Subst Environ Eng. 2008;43(4):335-47.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18273738"
+    },
+    {
+      "Title": "Stalter D, O'Malley E, von Guntenbc U, Escher BI. Point-of-use water filters can effectively remove disinfection by-products and toxicity from chlorinated and chloraminated tap water. Environ. Sci.: Water Res. Technol. 2016;2:875-883 .",
+      "Url": "https://pubs.rsc.org/en/Content/ArticleLanding/2016/EW/C6EW00068A#!divAbstract"
+    },
+    {
+      "Title": "Tak S, Vellanki BP. Natural organic matter as precursor to disinfection byproducts and its removal using conventional and advanced processes: state of the art review. J Water Health. 2018;16(5):681-703.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/30285951"
+    },
+    {
+      "Title": "Villanueva CM, Fernández F, Malats N, Grimalt JO, Kogevinas M. Meta-analysis of studies on individual consumption of chlorinated drinking water and bladder cancer. J Epidemiol Community Health. 2003;57(3):166-73.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12594192"
+    },
+    {
+      "Title": "Weinberg HS, Pereira VR, Singer PC, Savitz DA. Considerations for improving the accuracy of exposure to disinfection by-products by ingestion in epidemiologic studies. Sci Total Environ. 2006;354(1):35-42.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/16376695"
+    }
+  ],
+  "Acknowledgements": "Image credit: tonl.co via tonl.co. Image has been modified.\nMotion graphics by Avocado Video",
+  "Topics": [
+    {
+      "Title": "beverages",
+      "Url": "https://nutritionfacts.org/topics/beverages/"
+    },
+    {
+      "Title": "bladder cancer",
+      "Url": "https://nutritionfacts.org/topics/bladder-cancer/"
+    },
+    {
+      "Title": "bladder health",
+      "Url": "https://nutritionfacts.org/topics/bladder-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "dental health",
+      "Url": "https://nutritionfacts.org/topics/dental-health/"
+    },
+    {
+      "Title": "Europe",
+      "Url": "https://nutritionfacts.org/topics/europe/"
+    },
+    {
+      "Title": "water",
+      "Url": "https://nutritionfacts.org/topics/water/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Hydration is important (see for example <a href=\"https://nutritionfacts.org/video/does-a-drink-of-water-make-children-smarter/\">Does a Drink of Water Make Children Smarter?</a>). But so is avoiding waterborne pollutants, if possible (for instance, <a href=\"https://nutritionfacts.org/video/lead-in-drinking-water/\">Lead in Drinking Water</a> and <a href=\"https://nutritionfacts.org/video/benefits-of-turmeric-for-arsenic-exposure/\">Benefits of Turmeric for Arsenic Exposure</a>).</p>\n<p><a href=\"https://nutritionfacts.org/video/how-many-glasses-of-water-should-we-drink-a-day/\">How Many Glasses of Water Should We Drink a Day?</a> Watch the video!</p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/does-drinking-more-water-help-you-lose-weight/\">Does Drinking More Water Help You Lose Weight?</a> and <a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/how-much-water-should-you-drink-every-day-to-lose-weight/\">How Much Water Should You Drink Every Day to Lose Weight?</a> Check out the videos.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "Title": "Does Eating Garlic Reduce Mosquito Bites?",
+  "Url": "https://nutritionfacts.org/video/does-eating-garlic-reduce-mosquito-bites/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/MtOvUcBXkm4"
+  },
+  "UpdatedAt": "2023-07-10T11:50:53+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 62",
+    "Url": "https://nutritionfacts.org/volumes/volume-62/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Garlic is put to the test as a repellent for mosquitoes and ticks.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nA few weeks ago, I released videos on DEET vs. natural repellents that we apply to our clothes or skin. But can the things we eat also have a repellent quality? No word yet on vampires, but we do have evidence on garlic and other blood suckers. Check it out.\nAre some people just more attractive to mosquitos than others? Apparently so, as identical twins are most likely to be similarly tasty, compared to fraternal twins who only share 50 percent of their DNA––demonstrating an underlying genetic component that can be sniffed out by mosquitoes, although it’s not clear if it’s because some people smell better, or other people just smell worse.\nWe know pregnant women are twice as attractive to malaria mosquitoes, and also that mosquitoes are attracted to sweat. Human sweat contains components that are attractive to anthropophilic—meaning human-loving—mosquitoes. The unique composition of human sweat appears to explain its tantalizing effect, though sweat from some body parts is evidently more tantalizing than others. Skin emanations collected from armpits were less attractive compared to hands or feet. Here’s the graph. They think the difference may be caused by deodorant residues, since in a subsequent experiment, volunteers were asked to avoid using skincare products for five days, and after that, no differences were detected.\nThe creepiest bit of research I found was this. The parasites that cause the mosquito-borne disease malaria, which kills hundreds of thousands of people a year, makes you more attractive to, you guessed it, the mosquitoes that transmit malaria. What better way for the parasites to hitch from person to person. Instead of leaving it up to chance, some parasites manipulate their hosts in elaborate ways. I’ve talked about how the toxoplasma brain parasite draws mice to the smell of cat urine to get into cats’ brains. Or, how about the rabies virus concentrates in the saliva while tapping into the Cujo rage circuits> There’s even a parasite that needs to get from an ant to a bird; so, it turns the ant’s belly bright red to look like a ripe berry, and makes the ant stick it up into the air to confuse fruit-eating bird. Here’s the ants before and after infection. Just like malaria parasites making us particularly tasty to mosquitos.\nAny way we can make ourselves less tasty? I’ve talked about the various mosquito repellents you can spray on your skin––both synthetic and natural mosquito repellents. But is there anything you can eat or drink to make you less of a target?\nWhen you search the scientific literature for diet and mosquitoes, a lot of articles like this pop up, on diets for mosquitoes, like SkitoSnack for that artificial blood meal replacement. Feeding mice different diets makes a difference. But what about people?\nOne of the most common anecdotes is that vitamin B complex supplements protect against biting insects. Other anecdotal remedies include the taking of garlic, marmite, Vegemite, brewer’s yeast tablets, and alcohol. But you don’t know, until you put it to the test.\nHow about a randomized, double-blind, placebo-controlled trial of garlic as a mosquito repellant? A belief in the ability of garlic to repel insects seems to be widespread; so, researchers in Connecticut decided to see if it were true. They looked at the numbers of mosquitoes that did not feed on the subjects; the number of mosquito bites, the weights of the mosquitoes after feeding, and the amounts of blood ingested were all determined on people on and off garlic. And, the data did not provide evidence of significant mosquito repellence.\nNo surprise, given that even if you slather garlic oil on your skin, within 30 minutes mosquitoes don’t seem to care. Eating garlic may, however, help against ticks. Because military personnel can sometimes be at particularly high risk for tick bites and tick-borne diseases, the Swedish military conducted a randomized controlled double-blind trial of garlic to prevent tick bites among marines. Fifty swallowed the equivalent of about a clove a day of garlic, and fifty took placebo pills. Then, they all switched. And, there was a significant reduction in tick bites when consuming garlic compared with placebo–cutting the risk of tick bites by about 20 percent.\nTwenty percent is better than nothing, but treating your clothing with something like permethrin has been shown to be 100 percent effective against deer ticks, the vector of Lyme disease. And so, that may be better than counting on garlic bread to save you.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Fernández-Grandon GM, Gezan SA, Armour JAL, Pickett JA, Logan JG. Heritability of attractiveness to mosquitoes. PLoS One. 2015;10(4):e0122716.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25901606/"
+    },
+    {
+      "Title": "Kandel Y, Mitra S, Jimenez X, et al. Long-Term Mosquito culture with SkitoSnack, an artificial blood meal replacement. PLoS Negl Trop Dis. 2020;14(9):e0008591.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32941432/"
+    },
+    {
+      "Title": "Khan AA, Maibach HI, Strauss WG, Fisher JL. Increased attractiveness of man to mosquitoes with induced eccrine sweating. Nature. 1969;223(5208):859-860.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/5799038/"
+    },
+    {
+      "Title": "Lefèvre T, Gouagna LC, Dabiré KR, et al. Beer consumption increases human attractiveness to malaria mosquitoes. PLoS One. 2010;5(3):e9546.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20209056/"
+    },
+    {
+      "Title": "McHugh CP. Garlic as a tick repellent. JAMA. 2001;285(1):41.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11150100/"
+    },
+    {
+      "Title": "Metz HC, McBride CS. Malaria parasites alter human odor to attract mosquito vectors. Trends Parasitol. 2018;34(7):547-549.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29866445/"
+    },
+    {
+      "Title": "Mitra S, Rodriguez SD, Vulcan J, et al. Efficacy of active ingredients from the epa 25(B) list in reducing attraction of aedes aegypti (Diptera: culicidae) to humans. J Med Entomol. 2020;57(2):477-484.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31612914/"
+    },
+    {
+      "Title": "Moore SJ, Mordue Luntz AJ, Logan JG. Insect bite prevention. Infect Dis Clin North Am. 2012;26(3):655-673.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22963776/"
+    },
+    {
+      "Title": "Rajan TV, Hein M, Porte P, Wikel S. A double-blinded, placebo-controlled trial of garlic as a mosquito repellant: a preliminary study. Med Vet Entomol. 2005;19(1):84-89.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15752181/"
+    },
+    {
+      "Title": "Smallegange RC, Verhulst NO, Takken W. Sweaty skin: an invitation to bite? Trends Parasitol. 2011;27(4):143-148.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21256083/"
+    },
+    {
+      "Title": "Stjernberg L, Berglund J. Garlic as an insect repellent. JAMA. 2000;284(7):831.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10938169/"
+    },
+    {
+      "Title": "Verhulst NO, Weldegergis BT, Menger D, Takken W. Attractiveness of volatiles from different body parts to the malaria mosquito Anopheles coluzzii is affected by deodorant compounds. Sci Rep. 2016;6:27141.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27251017/"
+    },
+    {
+      "Title": "Weger-Lucarelli J, Carrau L, Levi LI, et al. Host nutritional status affects alphavirus virulence, transmission, and evolution. PLoS Pathog. 2019;15(11):e1008089.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31710653/"
+    },
+    {
+      "Title": "Yanoviak SP, Kaspari M, Dudley R, Poinar G. Parasite-induced fruit mimicry in a tropical canopy ant. Am Nat. 2008;171(4):536-544.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18279076/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "garlic",
+      "Url": "https://nutritionfacts.org/topics/garlic/"
+    },
+    {
+      "Title": "insects",
+      "Url": "https://nutritionfacts.org/topics/insects/"
+    },
+    {
+      "Title": "Lyme disease",
+      "Url": "https://nutritionfacts.org/topics/lyme-disease/"
+    },
+    {
+      "Title": "mosquito repellent",
+      "Url": "https://nutritionfacts.org/topics/mosquito-repellent/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">I previously covered repellents in my videos </span><a href=\"https://nutritionfacts.org/video/is-deet-the-best-mosquito-repellent/\"><span style=\"font-weight: 400\">Is DEET the Best Mosquito Repellent?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/natural-alternatives-to-deet-mosquito-repellent/\"><span style=\"font-weight: 400\">Natural Alternatives to DEET Mosquito Repellent</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">What about other natural repellents? The next video covers </span><a href=\"https://nutritionfacts.org/video/are-beer-bananas-and-b-vitamins-mosquito-repellents/\"><span style=\"font-weight: 400\">beer, bananas, and B vitamins</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">The video I mentioned on toxoplasma is </span><a href=\"https://nutritionfacts.org/video/toxoplasmosis-a-manipulative-foodborne-brain-parasite/\"><span style=\"font-weight: 400\">Toxoplasmosis: A Manipulative Foodborne Brain Parasite</span></a><span style=\"font-weight: 400\">.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

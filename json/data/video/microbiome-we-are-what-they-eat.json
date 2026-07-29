@@ -1,0 +1,215 @@
+{
+  "Title": "Microbiome: We Are What They Eat",
+  "Url": "https://nutritionfacts.org/video/microbiome-we-are-what-they-eat/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/oNm5sE9GAFc"
+  },
+  "UpdatedAt": "2017-06-12T11:50:20+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 36",
+    "Url": "https://nutritionfacts.org/volumes/volume-36/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What happens to our gut flora when we switch from a more animal-based diet to a more plant-based diet?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nGood bacteria—those that live in symbiosis with us—are nourished by fruit and veggies, grains, and beans, whereas dysbiosis—bad bacteria that may contribute to disease—are fed by meat, junk food and fast food, seafood, dairy, and eggs. Typical Western diets can “decimate” our good gut flora.\nWe live with trillions of symbionts—good bacteria that live in symbiosis with us. We help them; they help us. And, a month on a plant-based diet results in an increase of the good guys, and a decrease in the bad—the so-called pathobionts, the disease-causing bugs. “Given the disappearance of pathobionts from the intestine, one would expect to observe a reduction in intestinal inflammation…”\nSo, they measured stool concentrations of “lipocalin-2…, which is a sensitive biomarker of intestinal inflammation.” And, within a month of eating healthy, it had declined significantly, suggesting that “promotion of microbial homeostasis”—or balance—”by [a strict vegetarian diet] resulted in reduced intestinal inflammation.” And, this rebalancing may have played a role in the “improved metabolic and [immune system] parameters.”\nOn an “animal-based diet,” you get growth of disease-associated species, like “Bilophila wadsworthia [associated with inflammatory bowel disease and] A. putredinis [found in abscesses and appendicitis],” and a decrease in fiber-eating bacteria. Eat fiber, and the fiber-munching bacteria multiply, and we get more anti-inflammatory, anticancer short-chain fatty acids. Eat less fiber, and our fiber-eating bacteria starve away.\nThey are what we eat. Eat a lot of phytates, and your gut flora get really good at breaking down phytates. We assumed this was just because we were naturally selecting for those populations of bacteria that could do that. But, it turns out our diet can teach old bugs new tricks.\nThere’s one type of fiber in nori seaweed that our gut bacteria can’t normally break down, but the bacteria out in the ocean that eat seaweed have an enzyme to do so. When it was discovered that the enzyme was present in the guts of Japanese people, it presented a mystery. Sure, sushi is eaten raw; and so, some seaweed bacteria may have made it into their colons. But, how could some marine bacteria thrive in the human gut? They didn’t need to; they transferred the nori-eating enzyme to our own gut bacteria.\n“Consequently, the consumption of food with associated environmental bacteria is the most likely mechanism that promoted [the enzyme] update into our [own] gut microbe[s]”—almost like a software update. We have the same hardware—the same gut bacteria—but, they just updated their software to chew on something new.\nHardware can change too, though. The reason this is called “The way to a man’s heart is through his gut microbiota” is because they were talking about TMAO. Certain gut flora can take carnitine from the red meat we eat, or the choline concentrated in dairy, and seafood, and eggs, and convert it into a toxic compound, which may lead to an increase in our risk of heart attack, stroke, and death.\nThis explains why those eating more plant-based diets have lower blood concentrations of the stuff. But, they also produce less of the toxin—even if you feed them a steak. You don’t see the same conversion, “suggesting an adoptive response of the gut microbiota in omnivores.” They are what we feed them.\nIt’s like if you give people cyclamate, a synthetic artificial sweetener. Most of our bacteria don’t know what to do with it. But, you feed it to people for ten days, and select for the few bacteria that were hip to the new synthetic chemical. Eventually, three-quarters of the cyclamate you eat is metabolized by the bacteria into another new compound called cyclohexylamine. But, stop eating it, and those bacteria die back. Unfortunately, cyclohexylamine may be toxic, and so, was banned by the FDA in 1969. Whereas regular Kool-Aid, evidently, is “completely safe.”\nBut, if you just ate cyclamate once in a while, it wouldn’t turn into cyclohexylamine, because you wouldn’t have fed and fostered the gut flora specialized to do so. And, the same with TMAO. Those that just eat red meat, eggs, or seafood once in a while would presumably make very little of the toxin, because they hadn’t been cultivating the bacteria that produces it.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Drasar BS, Renwick AG, Williams RT. The role of the gut flora in the metabolism of cyclamate. Biochem J. 1972 Oct;129(4):881-90.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4655823"
+    },
+    {
+      "Title": "Hehemann JH1, Kelly AG, Pudlo NA, Martens EC, Boraston AB. Bacteria of the human gut microbiome catabolize red seaweed glycans with carbohydrate-active enzyme updates from extrinsic microbes. Proc Natl Acad Sci U S A. 2012 Nov 27;109(48):19786-91.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23150581"
+    },
+    {
+      "Title": "Kim MS, Hwang SS, Park EJ, Bae JW. Strict vegetarian diet improves the risk factors associated with metabolic diseases by modulating gut microbiota and reducing intestinal inflammation. Environ Microbiol Rep. 2013 Oct;5(5):765-75.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24115628"
+    },
+    {
+      "Title": "Markiewicz LH, Honke J, Haros M, Świątecka D, Wróblewska B. Diet shapes the ability of human intestinal microbiota to degrade phytate--in vitro studies. J Appl Microbiol. 2013 Jul;115(1):247-59.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23551617"
+    },
+    {
+      "Title": "Tilg H, Moschen AR. Microbiota and diabetes: an evolving relationship. Gut. 2014 Sep;63(9):1513-21.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24833634"
+    },
+    {
+      "Title": "Tuohy KM, Fava F, Viola R. 'The way to a man's heart is through his gut microbiota'--dietary pro- and prebiotics for the management of cardiovascular risk. Proc Nutr Soc. 2014 May;73(2):172-85.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24495527"
+    },
+    {
+      "Title": "Wong JM. Gut microbiota and cardiometabolic outcomes: influence of dietary patterns and their associated components. Am J Clin Nutr. 2014 Jul;100 Suppl 1:369S-77S.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24898225"
+    },
+    {
+      "Title": "[no authors listed] Kool-Aid Ad. It has no cyclamates.",
+      "Url": "http://www.atticpaper.com/proddetail.php?prod=1969-kool-aid-ad-no-cyclamates"
+    }
+  ],
+  "Acknowledgements": "Image courtesy of monicore via Pixabay.\nIcons created by Graham Jefferson, Alexander Skowalsky, Gorkem Oner, Maxim Kulikov, and Artem Kovyazin from the Noun Project.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "appendicitis",
+      "Url": "https://nutritionfacts.org/topics/appendicitis/"
+    },
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "butyrate",
+      "Url": "https://nutritionfacts.org/topics/butyrate/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "carnitine",
+      "Url": "https://nutritionfacts.org/topics/carnitine/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fast food",
+      "Url": "https://nutritionfacts.org/topics/fast-food/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "inflammatory bowel disease",
+      "Url": "https://nutritionfacts.org/topics/inflammatory-bowel-disease/"
+    },
+    {
+      "Title": "Japan",
+      "Url": "https://nutritionfacts.org/topics/japan/"
+    },
+    {
+      "Title": "junk food",
+      "Url": "https://nutritionfacts.org/topics/junk-food/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "nori",
+      "Url": "https://nutritionfacts.org/topics/nori-2/"
+    },
+    {
+      "Title": "phytates",
+      "Url": "https://nutritionfacts.org/topics/phytates/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "sea vegetables",
+      "Url": "https://nutritionfacts.org/topics/sea-vegetables/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "seaweed",
+      "Url": "https://nutritionfacts.org/topics/seaweed/"
+    },
+    {
+      "Title": "short-chain fatty acids",
+      "Url": "https://nutritionfacts.org/topics/short-chain-fatty-acids/"
+    },
+    {
+      "Title": "standard American diet",
+      "Url": "https://nutritionfacts.org/topics/standard-american-diet/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    },
+    {
+      "Title": "sushi",
+      "Url": "https://nutritionfacts.org/topics/sushi/"
+    },
+    {
+      "Title": "sweeteners",
+      "Url": "https://nutritionfacts.org/topics/sweeteners/"
+    },
+    {
+      "Title": "TMAO",
+      "Url": "https://nutritionfacts.org/topics/tmao/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Here’s the link to the TMAO video I showed: <a href=\"https://nutritionfacts.org/video/carnitine-choline-cancer-and-cholesterol-the-tmao-connection/\">Carnitine, Choline, Cancer, and Cholesterol: The TMAO Connection</a>. For an update on TMAO, see <a href=\"https://nutritionfacts.org/video/how-our-gut-bacteria-can-use-eggs-to-accelerate-cancer/\">How Our Gut Bacteria Can Use Eggs to Accelerate Cancer</a>, <a href=\"https://nutritionfacts.org/video/egg-industry-response-to-choline-and-tmao/\">Egg Industry Response to Choline and TMAO</a>, and <a href=\"https://nutritionfacts.org/video/how-to-reduce-your-tmao-levels/\">How to Reduce Your TMAO Levels</a>.</p>\n<p>Interested in more on keeping our gut bugs happy? See:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/microbiome-the-inside-story/\">Microbiome: The Inside Story</a></li>\n<li><a href=\"https://nutritionfacts.org/video/prebiotics-tending-our-inner-garden/\">Prebiotics: Tending Our Inner Garden</a></li>\n<li><a href=\"https://nutritionfacts.org/video/whats-your-gut-microbiome-enterotype/\">What’s Your Gut Microbiome Enterotype?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-change-your-enterotype/\">How to Change Your Enterotype</a></li>\n<li><a href=\"https://nutritionfacts.org/video/paleopoo-what-we-can-learn-from-fossilized-feces/\">Paleopoo: What We Can Learn from Fossilized Feces</a></li>\n<li><a href=\"https://nutritionfacts.org/video/gut-dysbiosis-starving-microbial-self/\">Gut Dysbiosis: Starving Our Microbial Self</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-develop-a-healthy-gut-ecosystem/\">How to Develop a Healthy Gut Ecosystem</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-become-a-fecal-transplant-super-donor/\">How to Become a Fecal Transplant Super Donor</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-the-gut-microbiome-in-autism/\">The Role of the Gut Microbiome in Autism</a></li>\n<li><a href=\"https://nutritionfacts.org/video/are-ancient-grains-healthier/\">Are Ancient Grains Healthier?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/is-sorghum-a-healthy-grain/\">Is Sorghum a Healthy Grain?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-health-benefits-of-sorghum/\">The Health Benefits of Sorghum</a></li>\n<li>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/fecal-transplant-experiments-show-the-microbiomes-role-in-aging/\">Fecal Transplant Experiments Show the Microbiome’s Role in Aging</a></p>\n</li>\n<li>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/microbiome-manipulation-with-oligomannate-for-treating-dementia/\">Microbiome Manipulation with Oligomannate for Treating Dementia</a></p>\n</li>\n</ul>\n<p>For all of my most recent microbiome videos, check out the <a href=\"https://nutritionfacts.org/topics/microbiome/\">topic page</a>. </p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "Title": "Stool Size Matters",
+  "Url": "https://nutritionfacts.org/video/stool-size-matters/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/aSTzFbSanbQ"
+  },
+  "UpdatedAt": "2011-09-26T12:00:38+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 5",
+    "Url": "https://nutritionfacts.org/volumes/5/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Larger bowel movements are associated with lower risk of appendicitis, colon cancer, constipation, and diverticulitis.",
+  "Transcript": "The bigger our bowel movements, the healthier we may be. The risk of low stool weight includes bowel cancer, diverticular disease, appendicitis, various anal diseases—even, perhaps, the healthfulness of breast tissue.\nFrom a study of 23 populations across a dozen countries, a graph of average daily stool weight versus colon cancer incidence. As you can see, once you get down around half a pound (200 grams or so), colon cancer rates really seem to skyrocket. And once people start dropping quarter-pounders, colon cancer incidence quadruples.\nThe link between stool size and colon cancer may be related to transit time; the number of hours it takes for food to go from mouth to anus. The larger our stool, the quicker the transit time, the easier it is for our intestines to move things along.\nPeople don’t realize you can have daily bowel movements, and still be effectively constipated. You can be regular, but five days late.\nWhat you’re flushing today you may have eaten last week. If you want to test it for yourself, all you need to do is eat a big bowl of beets and see when things turns pretty in pink. And ideally, it should be down in the 24- to 36-hour range to reach that half-pound target.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Dianne Moore. \nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Balasegaram M, Burkitt DP. Letter: Stool characteistics and western diseases. Lancet. 1976 Jan 17;1(7951):152.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/54670"
+    },
+    {
+      "Title": "Burkitt DP, Graham-Stewart CW. Haemorrhoids--postulated pathogenesis and proposed prevention. Postgrad Med J. 1975 Sep;51(599):631-6.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1105503/"
+    },
+    {
+      "Title": "Burkitt DP, Moolgaokar AS, Tovey FI. Aetiology of appendicitis. Br Med J. 1979 Mar 3;1(6163):620.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/427491/"
+    },
+    {
+      "Title": "Burkitt DP, Walker AR, Painter NS. Effect of dietary fibre on stools and the transit-times, and its role in the causation of disease. Lancet. 1972 Dec 30;2(7792):1408-12.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed?term=4118696%5Buid%5D"
+    },
+    {
+      "Title": "Cummings JH, Antoine JM, Azpiroz F, Bourdet-Sicard R, Brandtzaeg P, Calder PC, Gibson GR, Guarner F, Isolauri E, Pannemans D, Shortt C, Tuijtelaars S, Watzl B. PASSCLAIM--gut health and immunity. Eur J Nutr. 2004 Jun;43 Suppl 2:II118-II173.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed?term=15221356%5Buid%5D"
+    },
+    {
+      "Title": "Cummings JH, Bingham SA, Heaton KW, Eastwood MA. Fecal weight, colon cancer risk, and dietary intake of nonstarch polysaccharides (dietary fiber). Gastroenterology. 1992 Dec;103(6):1783-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed?term=1333426%5Buid%5D"
+    },
+    {
+      "Title": "Petrakis NL, King EB. Cytological abnormalities in nipple aspirates of breast fluid from women with severe constipation. Lancet. 1981 Nov 28;2(8257):1203-4.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed?term=6118633"
+    },
+    {
+      "Title": "Simons CC, Schouten LJ, Weijenberg MP, Goldbohm RA, van den Brandt PA. Bowel movement and constipation frequencies and the risk of colorectal cancer among men in the Netherlands Cohort Study on Diet and Cancer. Am J Epidemiol. 2010 Dec 15;172(12):1404-14. Epub 2010 Oct 27.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed?term=20980354%5Buid%5D"
+    },
+    {
+      "Title": "Watts GT. Bowel transit, stool weight, and diverticular disease. Lancet. 1977 Sep 10;2(8037):564.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/95774"
+    }
+  ],
+  "Acknowledgements": "",
+  "Topics": [
+    {
+      "Title": "anal health",
+      "Url": "https://nutritionfacts.org/topics/anal-health/"
+    },
+    {
+      "Title": "appendicitis",
+      "Url": "https://nutritionfacts.org/topics/appendicitis/"
+    },
+    {
+      "Title": "beets",
+      "Url": "https://nutritionfacts.org/topics/beets/"
+    },
+    {
+      "Title": "bowel movements",
+      "Url": "https://nutritionfacts.org/topics/bowel-movements/"
+    },
+    {
+      "Title": "breast health",
+      "Url": "https://nutritionfacts.org/topics/breast-health/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "colon cancer",
+      "Url": "https://nutritionfacts.org/topics/colon-cancer/"
+    },
+    {
+      "Title": "colon health",
+      "Url": "https://nutritionfacts.org/topics/colon-health/"
+    },
+    {
+      "Title": "constipation",
+      "Url": "https://nutritionfacts.org/topics/constipation/"
+    },
+    {
+      "Title": "diverticulitis",
+      "Url": "https://nutritionfacts.org/topics/diverticulitis/"
+    },
+    {
+      "Title": "fiber",
+      "Url": "https://nutritionfacts.org/topics/fiber/"
+    },
+    {
+      "Title": "hemorrhoids",
+      "Url": "https://nutritionfacts.org/topics/hemorrhoids/"
+    },
+    {
+      "Title": "nutrition myths",
+      "Url": "https://nutritionfacts.org/topics/nutrition-myths/"
+    },
+    {
+      "Title": "stool size",
+      "Url": "https://nutritionfacts.org/topics/stool-size/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more info on fiber intake and colon health, check out these videos:<br/>\n<a href=\"https://nutritionfacts.org/video/breast-cancer-and-constipation/\">Breast Cancer and Constipation</a><br/>\n<a href=\"https://nutritionfacts.org/video/can-flax-seeds-help-prevent-breast-cancer/\">Can Flax Seeds Help Prevent Breast Cancer?</a><br/>\n<a href=\"https://nutritionfacts.org/video/fiber-vs-breast-cancer/\">Fiber vs. Breast Cancer</a><br/>\n<a href=\"https://nutritionfacts.org/video/breast-cancer-survival-and-lignan-intake/\">Breast Cancer Survival and Lignan Intake</a></p>\n<p>And be sure to check out my <a href=\"https://nutritionfacts.org/topics/bowel-movements/\">other videos on bowel movements</a>. </p>\n<p>Also check out my associated blog posts: <a title=\"Stool Size and Breast Cancer Risk\" href=\"https://nutritionfacts.org/blog/2012/05/03/stool-size-and-breast-cancer-risk/\" rel=\"nofollow\"> Stool Size and Breast Cancer Risk</a>; <a href=\"https://nutritionfacts.org/blog/2011/09/29/bowel-movements-the-scoop-on-poop/\" rel=\"nofollow\">Bowel Movements: the scoop on poop</a>; <a href=\"https://nutritionfacts.org/2012/12/20/best-phytosterol-dose-and-source/\" rel=\"nofollow\">Optimal Phytosterol Dose and Source</a>; and <a href=\"https://nutritionfacts.org/2013/09/17/prunes-metamucil-or-a-plant-based-diet/\">Best Treatment for Constipation</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "Title": "Evidence-Based Nutrition",
+  "Url": "https://nutritionfacts.org/video/evidence-based-nutrition/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/8W_LMpPoJxs"
+  },
+  "UpdatedAt": "2015-12-21T12:00:17+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 28",
+    "Url": "https://nutritionfacts.org/volumes/volume-28/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "It took more than 7,000 studies and the deaths of countless smokers before the Surgeon General’s report on tobacco was released in the 1960s. How many people are suffering needlessly from preventable dietary diseases today?",
+  "Transcript": "Randomized controlled trials are considered the gold standard of scientific evidence. Half get the active treatment, half get a sugar pill—works great for evaluating new drugs, but a concern is that evidence-based medicine has made a leap from considering randomized controlled trials to be a high standard to being the only standard. Consider this review of dietary interventions for multiple sclerosis by the esteemed Cochrane Collaboration. They basically concluded that there’s not much diet can do. But what about Dr. Swank’s success in treating MS with a low saturated fat diet, the most effective treatment ever reported, published in some of the world’s most prestigious journals? Of course, they knew about his work, but the study design didn’t fit the inclusion criteria considered for the review, because it was not a controlled trial.\nDemanding randomized trials makes sense for drugs, which are expensive and risky, killing off a hundred thousand Americans every year, but a healthy diet has no downsides, just good side-effects; so, we shouldn’t have to wait on randomized controlled trials to start saving people’s lives.\nConsider smoking. It took more than 7,000 studies and the death of countless habitual smokers before a consensus was reached in the medical community regarding the causal link between smoking and lung cancer, and still without a single randomized controlled trial. One has to wonder, how many people are currently suffering needlessly while they wait for a randomized controlled trial to confirm the results found by other kinds of strong studies?\nIn fact, a famous statistician, R.A. Fisher, railed against what he called propaganda to convince the public that cigarette smoking was dangerous. Since they cannot produce evidence from randomized controlled trials: a thousand kids banned from smoking, another thousand forced to smoke at least a pack and a half a day. If that type of experiment could be done, then, there would be no difficulty. Maybe instead of smoking causing lung cancer, lung cancer causes smoking. In its earliest stages, lung cancer may cause inflammation. So, anyone suffering from chronic inflammation is going to want to smoke a cigarette to make themselves feel better, and it’s that kind of comfort that might be a real solace to anyone in the 15 years of approaching lung cancer. And, to take the poor chap’s cigarettes away from him will be rather like taking away a white stick from a blind man. It would make an already unhappy person a little more unhappy than he need be.\nFisher made invaluable contributions to the field of statistics, but his analysis of lung cancer and smoking was flawed by an unwillingness to examine the entire body of data available. His smokescreen may have been because he was a paid  consultant to the tobacco industry, but also because he was himself a smoker. Part of his resistance to seeing the association may have been rooted in his own fondness for smoking, which makes me wonder about some of the foods many nutrition researchers may be fond of as well.\nA famous paper in the British Medical Journal lampooned this insistence on randomized controlled trials as the only legitimate evidence.  “Parachute use to prevent death and major trauma related to gravitational challenge: a systematic review of randomized controlled trials.” They didn’t find any. Parachutes appear to reduce the risk of injury after “gravitational challenge.” We can observe that people who fall out of planes without them tend to die a bit more than those with parachutes, but their effectiveness has not been proved with randomized controlled trials. Advocates of evidence-based medicine have criticized the adoption of interventions evaluated by using only observational data. We think that everyone might benefit if the most radical protagonists of evidence-based medicine organized and participated in a double blind, randomized, placebo controlled, trial of the parachute. In other words, individuals who insist that all interventions need to be validated by a randomized controlled trial need to come down to earth with a bump.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "B J Kaplan, G Giesbrecht, S Shannon, K McLeod. Evaluating treatments in health care: The instability of a one-legged stool. BMC Medical Research Methodology 2011, 11:65.",
+      "Url": "http://www.biomedcentral.com/1471-2288/11/65"
+    },
+    {
+      "Title": "G C S Smith, J P Pell. Parachute use to prevent death and major trauma related to gravitational challenge: systematic review of randomised controlled trials. BMJ. 2003 Dec 20; 327(7429): 1459–1461.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC300808/"
+    },
+    {
+      "Title": "J Blumberg, R P Heaney, M Huncharek, T scholl, M Stampfer, R Vieth, C M Weaver, S H Zeisel. Evidence-based criteria in the nutritional context. Nutr Rev. 2010 Aug;68(8):478-84.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20646225"
+    },
+    {
+      "Title": "M Farinotti, L Vacchi, S Simi, C Di Pietrantonj, L Brait, G Fillppini. Dietary interventions for multiple sclerosis. Cochrane Database Syst Rev. 2012 Dec 12;12:CD004192.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23235605"
+    },
+    {
+      "Title": "P C Gugiu, M R Gugiu. A critical appraisal of standard guidelines for grading levels of evidence. Eval Health Prof. 2010 Sep;33(3):233-55.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20801972"
+    },
+    {
+      "Title": "P C Gugiu, M R Gugiu. Levels of Evidence: A Reply to Berger and Knoll. Evaluation & the Health Professions 000(00) 1-4.",
+      "Url": "http://ehp.sagepub.com/content/early/2010/12/12/0163278710391467.full.pdf"
+    },
+    {
+      "Title": "P D Stolley. When Genius Errs: R. A. Fisher and the Lung Cancer Controversy. Am. J. Epidemiol. (1991) 133 (5): 416-425.",
+      "Url": "http://aje.oxfordjournals.org/content/133/5/416"
+    },
+    {
+      "Title": "R A Fisher. Cancer and Smoking. Nature 182, 596 (30 August 1958).",
+      "Url": "http://www.nature.com/nature/journal/v182/n4635/abs/182596a0.html"
+    },
+    {
+      "Title": "R Fisher. CIGARETTES, CANCER, AND STATISTICS. The Centennial Review of Arts & Science Vol. 2 (1958), pp. 151-166.",
+      "Url": "http://www.jstor.org/stable/23737529?seq=1#page_scan_tab_contents"
+    }
+  ],
+  "Acknowledgements": "Images thanks to U.S. Department of Agriculture via Flickr.",
+  "Topics": [
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "Dr. Roy Swank",
+      "Url": "https://nutritionfacts.org/topics/dr-roy-swank/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "lung cancer",
+      "Url": "https://nutritionfacts.org/topics/lung-cancer/"
+    },
+    {
+      "Title": "medications",
+      "Url": "https://nutritionfacts.org/topics/medications/"
+    },
+    {
+      "Title": "multiple sclerosis",
+      "Url": "https://nutritionfacts.org/topics/multiple-sclerosis/"
+    },
+    {
+      "Title": "smoking",
+      "Url": "https://nutritionfacts.org/topics/smoking/"
+    },
+    {
+      "Title": "tobacco",
+      "Url": "https://nutritionfacts.org/topics/tobacco/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Not that there aren’t randomized controlled studies showing the extraordinary power of plant-based diets to prevent, treat, and even reverse disease, not the least of which is Dr. Ornish’s landmark Lifestyle Heart Trial, which is what did it for me 25 years ago.  That’s the one I started my annual talk last year with: <a href=\"https://nutritionfacts.org/video/from-table-to-able/\">From Table to Able: Combating Disabling Diseases with Food</a>.</p>\n<p>If you liked this video, you’ll really like this one: <a href=\"https://nutritionfacts.org/video/evidence-based-medicine-or-evidence-biased/\">Evidence-Based Medicine or Evidence-Biased?</a></p>\n<p>Here’s the video in which I review the evidence surrounding treating multiple sclerosis with nutrition: <a href=\"https://nutritionfacts.org/video/treating-multiple-sclerosis-with-the-swank-ms-diet/\">Treating Multiple Sclerosis with the Swank MS Diet</a>.</p>\n<p>There are more parallels one can draw between the Big Tobacco and Big Food. See <a href=\"https://nutritionfacts.org/video/big-food-using-the-tobacco-industry-playbook/\">Big Food Using the Tobacco Industry Playbook</a> and at least the final 20 minutes of <a href=\"https://nutritionfacts.org/video/food-as-medicine/\">Food as Medicine</a>.</p>\n<p>You also might enjoy:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/collaboration-with-the-new-vectors-of-disease/\">Collaboration with the New Vectors of Disease</a></li>\n<li><a href=\"https://nutritionfacts.org/video/food-industry-funded-research-bias/\">Food Industry Funded Research Bias</a></li>\n<li><a href=\"https://nutritionfacts.org/video/sprinkling-doubt:-taking-sodium-skeptics-with-a-pinch-of-salt/\">Sprinkling Doubt: Taking Sodium Skeptics with a Pinch of Salt</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

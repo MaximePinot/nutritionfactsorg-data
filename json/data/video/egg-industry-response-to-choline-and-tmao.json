@@ -1,0 +1,175 @@
+{
+  "Title": "Egg Industry Response to Choline and TMAO",
+  "Url": "https://nutritionfacts.org/video/egg-industry-response-to-choline-and-tmao/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/-IlA5gi8CH0"
+  },
+  "UpdatedAt": "2016-12-14T13:00:40+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 33",
+    "Url": "https://nutritionfacts.org/volumes/volume-33/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How the egg industry funded a study designed to cover up the toxic trimethylamine oxide reaction to egg consumption.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMetabolomics is a term used to describe the measurement of multiple…metabolites in biological specimens, [like] bodily fluids,” with the goal of “identifying the molecular signatures.”\nFor example, if we compare the metabolic profile of those with severe heart disease to those with clean arteries, maybe we could come up with a cheap, simple, noninvasive way to screen people. If heart patients happen to have something in their blood that healthy people didn’t, we could test for that. And, maybe, it would even help us understand the mechanisms of disease. “To refer to metabolomics as a new field,” though, is to do “injustice to ancient doctors who used ants to diagnose…[people with] diabetes”—because the ants could detect the sugar in their urine.\nThe first modern foray discovered hundreds of substances in a single breath: for example, thanks to the development of computer technology that made it possible to handle large amounts of information. And, that was in 1971, a time when computers looked like this. “[N]ew…technologies have allowed researchers to measure hundreds, or even thousands, of metabolites at a time”—which is good, since more than 25,000 compounds may be entering our body through our diet alone.\nThe data come out looking like this, which computers can turn into maps that allow researchers to try to piece together connections. Metabolomics is where the story of TMAO started.\n“Every[one] knows that a bad diet can lead to heart disease. But which dietary components are the most harmful?” So, researchers at the Cleveland Clinic screened blood from patients who had experienced a heart attack or stroke, and compared the results with those from blood of people who had not.\nUsing all sorts of fancy technology, they identified a compound called TMAO, which stands for trimethylamine oxide. The more of this TMAO stuff people had in their blood, the greater the odds they had heart disease, and the worse their heart disease was.\nWhere does this TMAO stuff come from? Our liver turns TMA into TMAO. Okay, where does TMA come from? Certain bacteria in our gut turn something in our diet called choline into TMA. Where is the highest concentration of choline found? Eggs, milk, and meats, including poultry and fish. So, when we eat these foods, our gut bacteria may make TMA, which is absorbed into our system, and oxidized by our liver into TMAO, which may then increase our risk of heart attack, stroke, and death.\nBut, just because at a snapshot in time, people with heart disease tend to have higher TMAO levels doesn’t mean having high TMAO necessarily leads to bad outcomes. We’d really want to follow people over time—which is what they did next. 4,000 people followed for three years, and those with the highest TMAO levels went on to have significantly more heart attacks, strokes, or death.\nWait a second, though. If high TMAO levels come from eating lots of meat, dairy, and eggs, then maybe the only reason people with high TMAO levels have lots of heart attacks is they’re eating lots of meat, dairy, and eggs. Maybe having high TMAO levels is just a marker of a diet high in “red meat, eggs, milk, and chicken,” that’s killing people by raising cholesterol levels, or something, and has nothing to do with TMAO at all. “Conversely, [the reason] a low TMAO level” seems so protective may just be because it’s “indicative of a [more] plant-based diet.”\nOne of the reasons we think TMAO is directly responsible is that “TMAO levels predict the risk of [heart attacks, strokes, and death] independently of traditional cardiovascular risk factors”—meaning whether or not you have high cholesterol or low cholesterol, high blood pressure or low blood pressure, having high TMAO levels appeared to be bad news. This has since been replicated in other studies: up to nine times the odds of heart disease at high TMAO blood levels, even after controlling “for meat, fish, and cholesterol intake—[which is a] surrogate for egg intake.”\nBut, what about the rest of this sequence? How can we be certain that our gut bacteria can take the choline we eat, and turn it into trimethylamine in the first place?  Easily—they’d just have to administer a simple dietary choline challenge. How do you do that? Just give ’em some eggs.\nHave people eat two hard-boiled eggs, and you get a bump of TMAO in their blood within about an hour of consumption. Ah, but what if you then gave them antibiotics, to wipe out their gut flora? Then, you can give ’em eggs, and nothing happens. In fact, their TMAO levels are down at zero, showing gut bacteria plays a critical role. But if you wait a month, give their gut some time to recover from the antibiotics, TMAO levels come creeping back up.\nThese findings did not thrill the egg industry. Imagine you work for the American Egg Board, tasked with designing a study to show no effect of eating nearly an egg a day. How could you rig it to show no difference? Well, if you look at the effect of an egg meal, you get a bump in TMAO levels. But, your kidneys are so good at getting rid of this nasty stuff, by hours 4, 6, 8, you’re back to baseline.\nSo, all you have to do is just make sure they hadn’t eaten those eggs in the last 12 hours, and you can show no effect and get your study published in the Journal of the Academy of Nutrition and Dietetics, and collect your paycheck.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Brindle JT, Antti H, Holmes E, Tranter G, Nicholson JK, Bethell HW, Clarke S, Schofield PM, McKilligin E, Mosedale DE, Grainger DJ. Rapid and noninvasive diagnosis of the presence and severity of coronary heart disease using 1H-NMR-based metabonomics. Nat Med. 2002 Dec;8(12):1439-44.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/12447357"
+    },
+    {
+      "Title": "Elliott P, Posma JM, Chan Q, Garcia-Perez I, Wijeyesekera A, Bictash M, Ebbels TM, Ueshima H, Zhao L, van Horn L, Daviglus M, Stamler J, Holmes E, Nicholson JK. Urinary metabolic signatures of human adiposity. Sci Transl Med. 2015 Apr 29;7(285):285ra62.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25925681"
+    },
+    {
+      "Title": "McCarty MF. L-carnitine consumption, its metabolism by intestinal microbiota, and cardiovascular health. Mayo Clin Proc. 2013 Aug;88(8):786-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23910406"
+    },
+    {
+      "Title": "Mente A, Chalcraft K, Ak H, Davis AD, Lonn E, Miller R, Potter MA, Yusuf S, Anand SS, McQueen MJ. The Relationship Between Trimethylamine-N-Oxide and Prevalent Cardiovascular Disease in a Multiethnic Population Living in Canada. Can J Cardiol. 2015 Sep;31(9):1189-94.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26239008"
+    },
+    {
+      "Title": "Pauling L, Robinson AB, Teranishi R, Cary P. Quantitative analysis of urine vapor and breath by gas-liquid partition chromatography. Proc Natl Acad Sci U S A. 1971 Oct;68(10):2374-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/5289873"
+    },
+    {
+      "Title": "Rak K, Rader DJ. Cardiovascular disease: the diet-microbe morbid union. Nature. 2011 Apr 7;472(7341):40-1.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21475185"
+    },
+    {
+      "Title": "Scalbert A, Brennan L, Manach C, Andres-Lacueva C, Dragsted LO, Draper J, Rappaport SM, van der Hooft JJ, Wishart DS. The food metabolome: a window over dietary exposure. Am J Clin Nutr. 2014 Jun;99(6):1286-308.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24760973"
+    },
+    {
+      "Title": "Shah NJ, Sureshkumar S, Shewade DG. Metabolomics: A Tool Ahead for Understanding Molecular Mechanisms of Drugs and Diseases. Indian J Clin Biochem. 2015 Jul;30(3):247-54.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26089608"
+    },
+    {
+      "Title": "Shah SH, Kraus WE, Newgard CB. Metabolomic profiling for the identification of novel biomarkers and mechanisms related to common cardiovascular diseases: form and function. Circulation. 2012 Aug 28;126(9):1110-20.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22927473"
+    },
+    {
+      "Title": "Tang WH, Wang Z, Levison BS, Koeth RA, Britt EB, Fu X, Wu Y, Hazen SL. Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk. N Engl J Med. 2013 Apr 25;368(17):1575-84.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23614584"
+    },
+    {
+      "Title": "Wang Z, Klipfell E, Bennett BJ, Koeth R, Levison BS, Dugar B, Feldstein AE, Britt EB, Fu X, Chung YM, Wu Y, Schauer P, Smith JD, Allayee H, Tang WH, DiDonato JA, Lusis AJ, Hazen SL. Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease. Nature. 2011 Apr 7;472(7341):57-63.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21475195"
+    },
+    {
+      "Title": "Wang Z, Tang WH, Buffa JA, Fu X, Britt EB, Koeth RA, Levison BS, Fan Y, Wu Y, Hazen SL. Prognostic value of choline and betaine depends on intestinal microbiota-generated metabolite trimethylamine-N-oxide. Eur Heart J. 2014 Apr;35(14):904-10.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24497336"
+    },
+    {
+      "Title": "West AA, Shih Y, Wang W, Oda K, Jaceldo-Siegl K, Sabaté J, Haddad E, Rajaram S, Caudill MA, Burns-Whitmore B. Egg n-3 fatty acid composition modulates biomarkers of choline metabolism in free-living lacto-ovo-vegetarian women of reproductive age. J Acad Nutr Diet. 2014 Oct;114(10):1594-600.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24726349"
+    }
+  ],
+  "Acknowledgements": "Image credits:  monicore via Pixabay. Images have been modified.",
+  "Topics": [
+    {
+      "Title": "Academy of Nutrition and Dietetics",
+      "Url": "https://nutritionfacts.org/topics/academy-of-nutrition-and-dietetics/"
+    },
+    {
+      "Title": "American Egg Board",
+      "Url": "https://nutritionfacts.org/topics/american-egg-board/"
+    },
+    {
+      "Title": "animal products",
+      "Url": "https://nutritionfacts.org/topics/animal-products/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "choline",
+      "Url": "https://nutritionfacts.org/topics/choline/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "poultry",
+      "Url": "https://nutritionfacts.org/topics/poultry/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    },
+    {
+      "Title": "TMAO",
+      "Url": "https://nutritionfacts.org/topics/tmao/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Unfortunately, this appears to be par for the course for the egg industry. For more of their shenanigans, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/eggs-and-cholesterol-patently-false-and-misleading-claims/\">Eggs &amp; Cholesterol: Patently False &amp; Misleading Claims</a></li>\n<li><a href=\"https://nutritionfacts.org/video/who-says-eggs-arent-healthy-or-safe/\">Who Says Eggs Aren’t Healthy or Safe?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/debunking-egg-industry-myths/\">Debunking Egg Industry Myths</a></li>\n<li><a href=\"https://nutritionfacts.org/video/eggs-and-arterial-function/\">Eggs &amp; Arterial Function</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-the-egg-board-designs-misleading-studies/\">How the Egg Board Designs Misleading Studies</a></li>\n</ul>\n<p>For background on the evolving TMAO story, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/eggs-choline-and-cancer/\">Eggs, Choline, &amp; Cancer</a></li>\n<li><a href=\"https://nutritionfacts.org/video/carnitine-choline-cancer-and-cholesterol-the-tmao-connection/\">Carnitine, Choline, Cancer, &amp; Cholesterol: The TMAO Connection</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-develop-a-healthy-gut-ecosystem/\">How to Develop a Healthy Gut Ecosystem</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-treat-heart-failure-and-kidney-failure-with-diet/\">How to Treat Heart Failure &amp; Kidney Failure with Diet</a> </li>\n<li><span data-sheets-value=\"{&#34;1&#34;:2,&#34;2&#34;:&#34;How Our Gut Bacteria Can Use Eggs to Accelerate Cancer&#34;}\" data-sheets-userformat=\"{&#34;2&#34;:6977,&#34;3&#34;:{&#34;1&#34;:0},&#34;9&#34;:0,&#34;11&#34;:4,&#34;12&#34;:0,&#34;14&#34;:{&#34;1&#34;:2,&#34;2&#34;:6381921},&#34;15&#34;:&#34;proxima-nova, Helvetica, Arial, sans-serif&#34;}\" data-sheets-hyperlink=\"https://nutritionfacts.org/video/how-our-gut-bacteria-can-use-eggs-to-accelerate-cancer/\"><a class=\"in-cell-link\" href=\"https://nutritionfacts.org/video/how-our-gut-bacteria-can-use-eggs-to-accelerate-cancer/\" target=\"_blank\" rel=\"noopener\">How Our Gut Bacteria Can Use Eggs to Accelerate Cancer</a></span></li>\n</ul>\n<p>And then find out <a href=\"https://nutritionfacts.org/video/how-to-reduce-your-tmao-levels/\">How to Reduce Your TMAO Levels</a>. In 2021, I also put out a new video: <a href=\"https://nutritionfacts.org/video/can-vegan-fecal-transplants-lower-tmao-levels/\">Can Vegan Fecal Transplants Lower TMAO Levels?</a> </p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/is-one-egg-a-day-too-much/\">Is One Egg a Day Too Much?</a> Check out the video</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

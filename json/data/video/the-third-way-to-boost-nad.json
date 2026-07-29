@@ -1,0 +1,235 @@
+{
+  "Title": "The Third Way to Boost NAD+",
+  "Url": "https://nutritionfacts.org/video/the-third-way-to-boost-nad/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/NU_93JcC-oo"
+  },
+  "UpdatedAt": "2025-04-21T11:50:44+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 68",
+    "Url": "https://nutritionfacts.org/volumes/volume-68/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How can we conserve NAD+ by preventing overactivation of the enzymes PARP-1 and CD38, which guzzle NAD+?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThere are three NAD-boosting strategies. Increasing the supply of NAD+ precursors is just one way. The other two are having the body make more, by activating NAD+ synthesizing enzymes, or have the body use less, by, for example, conserving it by using less. Besides sirtuins, the major consumers of NAD+ are PARP-1 and CD38. PARP-1 is an enzyme that uses NAD+ to repair DNA. The more oxidative DNA damage, the more single- and double-stranded DNA breaks, the more enzymes like PARP-1 need to be activated to come to the rescue. This uses up a lot of NAD. As DNA damage accumulates with age, the rising need for repair enzymes like PARP-1 causes a major drain on NAD+ levels.\nExposing cells in vitro to DNA-damaging agents, such as gamma radiation or genotoxic chemicals, can cause an 80 to 90 percent drop in NAD+ levels within a matter of minutes. This has led to the search for PARP-1 blockers to preserve NAD+ levels. But rather than blocking DNA repair, why not work to prevent so much damage in the first place? For example, the severe oxidative stress of a high-fat diet can lead to PARP-1 activation and NAD+ depletion in mice, but NAD+ levels can be “dramatically restored” by feeding them “purple sweet potato color,” the natural anthocyanin pigments found in purple sweet potatoes. Or, of course, you can just not feed them a high-fat diet.\nDNA repair is a good thing. PARP-1 may be one of the reasons NAD+ boosting interventions can improve healthspans and lifespans in laboratory animals. Greater PARP activity strongly correlates with longer lifespan across about a dozen mammalian species, and the PARP activity of human centenarians averages 60 percent higher than younger controls. However, persistent activation can lead to NAD+ depletion, and overactivation can even lead to cell death. So, we should try to keep oxidative stress to a minimum.\nCD38 is another major guzzler of NAD+. It’s an enzyme that uses NAD+ found concentrated on the surfaces of immune cells, and is robustly induced in the context of inflammation. The rise of CD38 activity with age has been blamed on persistent “inflammaging” activation––the rise in systemic low-grade inflammation in our bodies when we get older, which may be a major culprit for falling NAD+ levels. For example, blocking CD38 has been found to raise NAD+ levels in old mice comparable to that of younger mice.\nSo, oxidation and inflammation can lead to a drop in NAD+ levels due to the excess activation of the NAD+ consuming enzymes. This may explain why protective sirtuin activity is reduced in obesity, a condition characterized by oxidative stress and inflammation. A study of identical twin pairs in which one, on average, was obese and the other not, found significantly less sirtuin expression in the obese twin, despite having the same genetics. And, randomize people to a six-month trial of 25 percent caloric restriction, and you can show a boost in sirtuin expression along with a decrease in DNA damage. Protein restriction may have a similar effect, since men and women with higher protein intake tend to have lower levels of NAD+ in their blood, thought to be due to the oxidative stress induced by protein breakdown byproducts.\nIf oxidation and inflammation are responsible for a drop in NAD+ levels, then what about the antioxidant and anti-inflammatory phytonutrients in healthy plant foods? After screening more than 14,000 compounds, almost all flavonoids were found to be effective in a test for CD38 inhibition. The two most effective were cyanidin, found in red cabbage and blackberries, and quercetagetin, found in marigold flower tea. Another study found the three most potent compounds were luteolin, kuromanin, and luteolinidin. Luteolin is found concentrated in oregano, radicchio, and chrysanthemum tea. Kuromanin is found in black berries, purple corn, and hibiscus tea. Corn tortillas are surprisingly easy to make; so, why not choose blue or purple masa to make them even healthier? Luteolinidin, found to increase NAD+ in the hearts of rats, can be found in red sorghum, one of the components of my prebiotic BROL mix, when I can find it.\nThe flavonoid apigenin is a well-established CD38 inhibitor. When given to mice, apigenin boosts NAD+ levels by about 50 percent, which is what people would get taking the maximum tolerable daily dose of NR. The best sources are parsley and chamomile tea. A wide range of flavonoids found in green tea, turmeric, and fruits and vegetables have also been found to prevent NAD+ depletion in human cells in vitro at levels found in the blood after consumption. How much do you have to eat, though?\nProanthocyanidins have been found to lower PARP-1 and CD38 expression in rats. NAD+ and sirtuin activity was significantly boosted at the human equivalent dose of about 280 mg a day. How much is that? That’s the amount of proanthocyanidins found in a single apple. You could also reach that dose eating two plums, a half cup (75 g) of wild blueberries, a little over a teaspoon of cinnamon, or a little over a tablespoon, like four teaspoons, of cocoa powder.\nQuercetin is another suppressor of PARP-1 and CD38 shown to increase sirtuin activity in mice. The concentration necessary to lower PARP-1 in vitro can be achieved by taking a quercetin supplement, but typical supplement manufacturers’ recommended doses are up to 100 times the average daily dietary intake. Thankfully, food works, too. Researchers fried up one and a half yellow onions and raised quercetin blood levels to about 75 percent there. And so, two onions might do it. There are no long-term safety data on high-dose flavonoid supplementation; so, public health researchers suggest “caution should be exercised in ingesting them at levels above that which would be obtained from a typical vegetarian diet.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Amici SA, Young NA, Narvaez-Miranda J, et al. Cd38 is robustly induced in human macrophages and monocytes in inflammatory conditions. Front Immunol. 2018;9:1593.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30042766/"
+    },
+    {
+      "Title": "Aragonès G, Suárez M, Ardid-Ruiz A, et al. Dietary proanthocyanidins boost hepatic NAD(+) metabolism and SIRT1 expression and activity in a dose-dependent manner in healthy rats. Sci Rep. 2016;6:24977.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27102823/"
+    },
+    {
+      "Title": "Bhagwat S, Haytowitz DB. USDA Database for the Proanthocyanidin Content of Selected Foods, Release 2 (2015). Nutrient Data Laboratory, Beltsville Human Nutrition Research Center, ARS, USDA. 2015.",
+      "Url": "https://data.nal.usda.gov/dataset/usda-database-proanthocyanidin-content-selected-foods-release-2-2015"
+    },
+    {
+      "Title": "Blueberries, wild, frozen. FoodData Central. USDA. 2019.",
+      "Url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173949/nutrients"
+    },
+    {
+      "Title": "Boslett J, Hemann C, Zhao YJ, Lee HC, Zweier JL. Luteolinidin protects the postischemic heart through cd38 inhibition with preservation of NAD(P)(H). J Pharmacol Exp Ther. 2017;361(1):99-108.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28108596/"
+    },
+    {
+      "Title": "Civitarese AE, Carling S, Heilbronn LK, et al. Calorie restriction increases muscle mitochondrial biogenesis in healthy humans. PLoS Med. 2007;4(3):e76.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17341128/"
+    },
+    {
+      "Title": "Conlon N, Ford D. A systems-approach to NAD+ restoration. Biochem Pharmacol. 2022;198:114946.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35134387/"
+    },
+    {
+      "Title": "Conquer JA, Maiani G, Azzini E, Raguzzini A, Holub BJ. Supplementation with quercetin markedly increases plasma quercetin concentration without effect on selected risk factors for heart disease in healthy subjects. J Nutr. 1998;128(3):593-597.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9482769/"
+    },
+    {
+      "Title": "Conze D, Brenner C, Kruger CL. Safety and metabolism of long-term administration of NIAGEN (nicotinamide riboside chloride) in a randomized, double-blind, placebo-controlled clinical trial of healthy overweight adults. Sci Rep. 2019;9(1):9772.",
+      "Url": "https://www.nature.com/articles/s41598-019-46120-z"
+    },
+    {
+      "Title": "David KK, Andrabi SA, Dawson TM, Dawson VL. Parthanatos, a messenger of death. Front Biosci (Landmark Ed). 2009;14(3):1116-1128.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19273119/"
+    },
+    {
+      "Title": "Davis JM, Murphy EA, Carmichael MD, Davis B. Quercetin increases brain and muscle mitochondrial biogenesis and exercise tolerance. Am J Physiol Regul Integr Comp Physiol. 2009;296(4):R1071-1077.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/19211721/"
+    },
+    {
+      "Title": "Egert S, Wolffram S, Bosy-Westphal A, et al. Daily quercetin supplementation dose-dependently increases plasma quercetin concentrations in healthy humans. J Nutr. 2008;138(9):1615-1621.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18716159/"
+    },
+    {
+      "Title": "Escande C, Nin V, Price NL, et al. Flavonoid apigenin is an inhibitor of the NAD+ ase CD38: implications for cellular NAD+ metabolism, protein acetylation, and treatment of metabolic syndrome. Diabetes. 2013;62(4):1084-1093.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23172919/"
+    },
+    {
+      "Title": "Geraets L, Moonen HJJ, Brauers K, Wouters EFM, Bast A, Hageman GJ. Dietary flavones and flavonoles are inhibitors of poly(ADP-ribose)polymerase-1 in pulmonary epithelial cells. J Nutr. 2007;137(10):2190-2195.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17884996/"
+    },
+    {
+      "Title": "Grube K, Bürkle A. Poly(ADP-ribose) polymerase activity in mononuclear leukocytes of 13 mammalian species correlates with species-specific life span. Proc Natl Acad Sci U S A. 1992;89(24):11759-11763.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/1465394/"
+    },
+    {
+      "Title": "Gu L, Kelm MA, Hammerstone JF, et al. Concentrations of proanthocyanidins in common foods and estimations of normal consumption. J Nutr. 2004;134(3):613-617.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/14988456/"
+    },
+    {
+      "Title": "Gupta C, Prakash D. Phytonutrients as therapeutic agents. J Complement Integr Med. 2014;11(3):151-169.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25051278/"
+    },
+    {
+      "Title": "Hollman PC, van Trijp JM, Buysman MN, et al. Relative bioavailability of the antioxidant flavonoid quercetin from various foods in man. FEBS Lett. 1997;418(1-2):152-156.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9414116/"
+    },
+    {
+      "Title": "Hosseini L, Vafaee MS, Mahmoudi J, Badalzadeh R. Nicotinamide adenine dinucleotide emerges as a therapeutic target in aging and ischemic conditions. Biogerontology. 2019;20(4):381-395.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30838484/"
+    },
+    {
+      "Title": "Jukarainen S, Heinonen S, Rämö JT, et al. Obesity is associated with low NAD+/SIRT pathway expression in adipose tissue of BMI-discordant monozygotic twins. J Clin Endocrinol Metab. 2016;101(1):275-283.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26574954/"
+    },
+    {
+      "Title": "Kellenberger E, Kuhn I, Schuber F, Muller-Steffner H. Flavonoids as inhibitors of human CD38. Bioorg Med Chem Lett. 2011;21(13):3939-3942.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21641214/"
+    },
+    {
+      "Title": "Kuhn I, Kellenberger E, Said-Hassane F, et al. Identification by high-throughput screening of inhibitors of Schistosoma mansoni NAD(+) catabolizing enzyme. Bioorg Med Chem. 2010;18(22):7900-7910.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20951593/"
+    },
+    {
+      "Title": "Montllor-Albalate C, Song Z, Chen D. The therapeutic promises of NAD+ boosters. Cell Metab. 2021;33(7):1274-1275.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34233170/"
+    },
+    {
+      "Title": "Muiras ML, Müller M, Schächter F, Bürkle A. Increased poly(ADP-ribose) polymerase activity in lymphoblastoid cell lines from centenarians. J Mol Med (Berl). 1998;76(5):346-354.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9587069/"
+    },
+    {
+      "Title": "Palmer RD, Vaccarezza M. Nicotinamide adenine dinucleotide and the sirtuins caution: Pro-cancer functions. Aging Med (Milton). 2021;4(4):337-344.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34964015/"
+    },
+    {
+      "Title": "Polzonetti V, Carpi FM, Micozzi D, Pucciarelli S, Vincenzetti S, Napolioni V. Population variability in CD38 activity: correlation with age and significant effect of TNF-α -308G>A and CD38 184C>G SNPs. Mol Genet Metab. 2012;105(3):502-507.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22236458/"
+    },
+    {
+      "Title": "Reiten OK, Wilvang MA, Mitchell SJ, Hu Z, Fang EF. Preclinical and clinical evidence of NAD+ precursors in health, disease, and ageing. Mech Ageing Dev. 2021;199:111567.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34517020/"
+    },
+    {
+      "Title": "Ruan Q, Ruan J, Zhang W, Qian F, Yu Z. Targeting NAD+ degradation: The therapeutic potential of flavonoids for Alzheimer’s disease and cognitive frailty. Pharmacol Res. 2018;128:345-358.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28847709/"
+    },
+    {
+      "Title": "Seyedsadjadi N, Berg J, Bilgin AA, Braidy N, Salonikas C, Grant R. High protein intake is associated with low plasma NAD+ levels in a healthy human cohort. PLoS One. 2018;13(8):e0201968.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30114226/"
+    },
+    {
+      "Title": "Skibola CF, Smith MT. Potential health impacts of excessive flavonoid intake. Free Radic Biol Med. 2000;29(3-4):375-383.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11035267/"
+    },
+    {
+      "Title": "Skidmore CJ, Davies MI, Goodwin PM, et al. The involvement of poly(ADP-ribose) polymerase in the degradation of NAD caused by gamma-radiation and N-methyl-N-nitrosourea. Eur J Biochem. 1979;101(1):135-142.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/228934/"
+    },
+    {
+      "Title": "Soma M, Lalam SK. The role of nicotinamide mononucleotide (NMN) in anti-aging, longevity, and its potential for treating chronic conditions. Mol Biol Rep. 2022;49(10):9737-9748.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35441939/"
+    },
+    {
+      "Title": "Spices, cinnamon, ground. FoodData Central. USDA. 2019.",
+      "Url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171320/nutrients"
+    },
+    {
+      "Title": "Strømland Ø, Diab J, Ferrario E, Sverkeli LJ, Ziegler M. The balance between NAD+ biosynthesis and consumption in ageing. Mech Ageing Dev. 2021;199:111569.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34509469/"
+    },
+    {
+      "Title": "Tentori L, Portarena I, Graziani G. Potential clinical applications of poly(ADP-ribose) polymerase (Parp) inhibitors. Pharmacol Res. 2002;45(2):73-85.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11846617/"
+    },
+    {
+      "Title": "Wang X, Zhang ZF, Zheng GH, et al. The inhibitory effects of purple sweet potato color on hepatic inflammation is associated with restoration of NAD⁺ levels and attenuation of nlrp3 inflammasome activation in high-fat-diet-treated mice. Molecules. 2017;22(8):1315.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28786950/"
+    },
+    {
+      "Title": "Wu S, Zhang R. CD38-expressing macrophages drive age-related NAD+ decline. Nat Metab. 2020;2(11):1186-1187.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33199923/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "aging",
+      "Url": "https://nutritionfacts.org/topics/aging/"
+    },
+    {
+      "Title": "anti-aging",
+      "Url": "https://nutritionfacts.org/topics/anti-aging/"
+    },
+    {
+      "Title": "chamomile tea",
+      "Url": "https://nutritionfacts.org/topics/chamomile-tea/"
+    },
+    {
+      "Title": "DNA damage",
+      "Url": "https://nutritionfacts.org/topics/dna-damage/"
+    },
+    {
+      "Title": "hibiscus tea",
+      "Url": "https://nutritionfacts.org/topics/hibiscus-tea/"
+    },
+    {
+      "Title": "How Not to Age",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-age/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "NAD+",
+      "Url": "https://nutritionfacts.org/topics/nad/"
+    },
+    {
+      "Title": "oregano",
+      "Url": "https://nutritionfacts.org/topics/oregano/"
+    },
+    {
+      "Title": "oxidative stress",
+      "Url": "https://nutritionfacts.org/topics/oxidative-stress/"
+    },
+    {
+      "Title": "parsley",
+      "Url": "https://nutritionfacts.org/topics/parsley/"
+    },
+    {
+      "Title": "protein",
+      "Url": "https://nutritionfacts.org/topics/protein/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "sweet potatoes",
+      "Url": "https://nutritionfacts.org/topics/sweet-potatoes/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">​​This is the final video in my NAD+ series. If you missed any of the previous ones, check out:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/do-nad-levels-decline-with-age/\"><span style=\"font-weight: 400\">Do NAD+ Levels Decline with Age?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/can-nad-boosters-increase-lifespan-and-healthspan/\"><span style=\"font-weight: 400\">Can NAD+ Boosters Increase Lifespan and Healthspan?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinic-acid-na-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinic Acid (NA), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-nam-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide (NAM), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-riboside-nr-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide Riboside (NR), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-and-benefits-of-nicotinamide-mononucleotide-nmn-a-nad-booster/\"><span style=\"font-weight: 400\">Risks and Benefits of Nicotinamide Mononucleotide (NMN), a NAD+ Booster</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/lesser-known-nad-boosting-supplements-tryptophan-nadh-nmnh-and-nrh/\"><span style=\"font-weight: 400\">Lesser-Known NAD+ Boosting Supplements—Tryptophan, NADH, NMNH, and NRH</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/risks-of-nad-boosting-supplements/\"><span style=\"font-weight: 400\">Risks of NAD+ Boosting Supplements</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/which-nad-booster-is-best/\"><span style=\"font-weight: 400\">Which NAD+ Booster Is Best?</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">For more on aging, go to your local public library and check out </span><span style=\"font-weight: 400\">my longevity book, </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

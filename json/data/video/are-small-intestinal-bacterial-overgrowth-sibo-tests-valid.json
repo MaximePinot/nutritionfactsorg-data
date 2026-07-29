@@ -1,0 +1,131 @@
+{
+  "Title": "Are Small Intestinal Bacterial Overgrowth (SIBO) Tests Valid?",
+  "Url": "https://nutritionfacts.org/video/are-small-intestinal-bacterial-overgrowth-sibo-tests-valid/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/Nt8O_PuM7qc"
+  },
+  "UpdatedAt": "2021-08-09T11:50:44+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 54",
+    "Url": "https://nutritionfacts.org/volumes/volume-54/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Even if we could accurately diagnose SIBO, if there is no difference in symptoms between those testing positive and those testing negative, then what’s the point?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: SIBO is one of the topics I’m asked about the most and I’m glad I’ve now had the chance to dig into the research for this two-part series. I’ll be answering the following questions: Is SIBO real? How reliable are the diagnostic tests? Does a low FODMAP diet help? And if you have SIBO or IBS symptoms, what should you do about it? Let’s go find out.\nGastrointestinal symptoms like abdominal pain and bloating account for millions of doctor visits every year. One of the conditions that may be considered for such a nonspecific presentation of symptoms is SIBO, small intestinal bacterial overgrowth, a concept that “has gained popularity on the internet in addition to certain clinical and research circles.” “SIBO is broadly defined as [the] excessive [growth of] bacteria in the small intestine,” and it’s typically treated with antibiotics. But “dispensing antibiotics to patients with [such] nonspeciﬁc, common symptoms…is not without risks”—you could be fostering antibiotic resistance, there could be side effects, and wiping out your good bacteria could set you up for an invasion of bad bugs like C. diff, all for a condition that may not even be real.\nEven alternative medicine journals admit that SIBO is being overdiagnosed, creating confusion and fear. SIBO testing is overused and overly relied upon. Diagnoses are often handed out quickly and without adequate substantiation. Patients can be indoctrinated into thinking SIBO is a chronic condition that cannot be cleared, and will require lifelong management. This is simply not true for most, and is an example of the damage done by overzealousness. “The ‘monster‘ that we now perceive SIBO to be may be no more than a phantom.”\nThe traditional method for a diagnosis was a small bowel aspiration, an invasive test where a long tube is snaked down your throat to take a sample and count the bugs down there. But this method has been almost entirely replaced with breath testing. See, normally, a sugar called glucose is almost entirely absorbed in the small intestine, so it never makes it down to the colon. And so, if there is bacterial fermentation of that sugar, that suggests you have bacteria up in your small intestine and can detect that fermentation, because the bacteria produce specific gases that get absorbed in your blood stream and then are breathed out from your lungs, which can then be detected with a breathalyzer-type machine.\nPreviously, a sugar called lactulose was used, but “lactulose breath tests [weren’t found to] reliably detect the overgrowth of bacteria,” so researchers switched to glucose. But when glucose was finally put to the test, it didn’t work either. The bacterial load in the small intestine was similar for those testing positive or negative, so that’s not a useful test either. It turns out glucose can make it down to your colon after all. They labeled the glucose dose with a tracer and found that almost half of the positive results from glucose breath tests were false positives, because they were just fermenting it down in their colon where your bacteria are supposed to be. So, “patients…incorrectly labeled with SIBO may [undergo] multiple courses of antibiotics…” for a problem they don’t even have.\nWhy do experts keep recommending breath testing then? Oh, you mean the experts at the conference supported by a breath-testing company, most of whom had personally received funds from SIBO testing or antibiotic companies? And even if we could properly diagnose it, does it even matter? In those with digestive symptoms, there is a range of positivity for SIBO from approximately 4 percent to 84 percent—all over the map—and “there [may] be no difference in… =symptom scores between those testing positive [versus] those testing negative,” so testing positive could mean anything. Who cares if some people have bacteria growing in their small intestines, if that doesn’t necessarily correlate with symptoms?\nNow, antibiotics can make people with irritable bowel-type symptoms diagnosed with SIBO feel better, so doesn’t that prove SIBO was the cause? No, because it can make just as many people feel better who are negative for SIBO. Currently rifaximin is most often used for SIBO, but it’s “not…FDA-approved for SIBO… [so the] cost can be prohibitive.” In fact, no drug has been approved for SIBO, so even if you have good insurance, you may be shelling out-of-pocket as much as $50 a day, and you typically take it for two weeks.\nAnd while antibiotics may help in the short-term, they may make things worse in the long-term. Those “who are given a course of antibiotics are more than three times as likely to report more bowel symptoms four months later than controls.” So, what can we do for these kinds of symptoms? That’s exactly what I’m going to turn to next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Adike A, DiBaise JK. Small Intestinal Bacterial Overgrowth: Nutritional Implications, Diagnosis, and Management. Gastroenterol Clin North Am. 2018;47(1):193-208.",
+      "Url": "https://doi.org/10.1016/j.gtc.2017.09.008"
+    },
+    {
+      "Title": "Aziz I, Törnblom H, Simrén M. Small intestinal bacterial overgrowth as a cause for irritable bowel syndrome: guilty or not guilty?. Curr Opin Gastroenterol. 2017;33(3):196-202.",
+      "Url": "https://doi.org/10.1097/MOG.0000000000000348"
+    },
+    {
+      "Title": "Di Stefano M, Quigley EMM. The diagnosis of small intestinal bacterial overgrowth: Two steps forward, one step backwards? Neurogastroenterol Motil. 2018;30(11):e13494.",
+      "Url": "https://doi.org/10.1111/nmo.13494"
+    },
+    {
+      "Title": "Krajicek EJ, Hansel SL. Small Intestinal Bacterial Overgrowth: A Primary Care Review. Mayo Clin Proc. 2016;91(12):1828-33.",
+      "Url": "https://doi.org/10.1016/j.mayocp.2016.07.025"
+    },
+    {
+      "Title": "Lin EC, Massey BT. Scintigraphy Demonstrates High Rate of False-positive Results From Glucose Breath Tests for Small Bowel Bacterial Overgrowth. Clin Gastroenterol Hepatol. 2016;14(2):203-8.",
+      "Url": "https://doi.org/10.1016/j.cgh.2015.07.032"
+    },
+    {
+      "Title": "Long SK, Di Palma JA. Does Carbohydrate Challenge Testing Predict Clinical Response in Small Intestinal Bacterial Overgrowth?. South Med J. 2016;109(5):296-9.",
+      "Url": "https://doi.org/10.14423/SMJ.0000000000000454"
+    },
+    {
+      "Title": "Maltz C. Conflicts of Interest in the North American Consensus on Breath Testing. Am J Gastroenterol. 2017; 112(12):1892.",
+      "Url": "https://doi.org/10.1038/ajg.2017.198"
+    },
+    {
+      "Title": "Maxwell PR, Rink E, Kumar D, Mendall MA. Antibiotics increase functional abdominal symptoms. Am J Gastroenterol. 2002;97(1):104-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11808932/"
+    },
+    {
+      "Title": "Quigley EMM. The Spectrum of Small Intestinal Bacterial Overgrowth (SIBO). Curr Gastroenterol Rep. 2019;21(1):3.",
+      "Url": "https://doi.org/10.1007/s11894-019-0671-z"
+    },
+    {
+      "Title": "Rao SSC, Bhagatwala J. Small Intestinal Bacterial Overgrowth: Clinical Features and Therapeutic Management. Clin Transl Gastroenterol. 2019;10(10):e00078.",
+      "Url": "https://doi.org/10.14309/ctg.0000000000000078"
+    },
+    {
+      "Title": "Rezaie A, Buresi M, Lembo A, et al. Hydrogen and Methane-Based Breath Testing in Gastrointestinal Disorders: The North American Consensus. Am J Gastroenterol. 2017;112(5):775-84.",
+      "Url": "https://doi.org/10.1038/ajg.2017.46"
+    },
+    {
+      "Title": "Ruscio M. Is SIBO A Real Condition? Altern Ther Health Med. 2019;25(5):30-8.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31550680/"
+    },
+    {
+      "Title": "Sundin OH, Mendoza-Ladd A, Morales E, et al. Does a glucose-based hydrogen and methane breath test detect bacterial overgrowth in the jejunum? Neurogastroenterol Motil. 2018;30(11):e13350.",
+      "Url": "https://doi.org/10.1111/nmo.13350"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "abdominal pain",
+      "Url": "https://nutritionfacts.org/topics/abdominal-pain/"
+    },
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "antibiotics",
+      "Url": "https://nutritionfacts.org/topics/antibiotics/"
+    },
+    {
+      "Title": "bloating",
+      "Url": "https://nutritionfacts.org/topics/bloating/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    },
+    {
+      "Title": "flatulence",
+      "Url": "https://nutritionfacts.org/topics/flatulence/"
+    },
+    {
+      "Title": "glucose",
+      "Url": "https://nutritionfacts.org/topics/glucose/"
+    },
+    {
+      "Title": "gut flora",
+      "Url": "https://nutritionfacts.org/topics/gut-flora/"
+    },
+    {
+      "Title": "irritable bowel syndrome",
+      "Url": "https://nutritionfacts.org/topics/irritable-bowel-syndrome/"
+    },
+    {
+      "Title": "microbiome",
+      "Url": "https://nutritionfacts.org/topics/microbiome/"
+    },
+    {
+      "Title": "SIBO",
+      "Url": "https://nutritionfacts.org/topics/sibo/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "sugar",
+      "Url": "https://nutritionfacts.org/topics/sugar/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>Stay tuned for part two: <a href=\"https://nutritionfacts.org/video/fiber-vs-low-fodmap-for-sibo-symptoms/\">Fiber vs. Low FODMAP for SIBO Symptoms</a>.</p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/adrenal-fatigue-what-it-is-and-how-to-treat-it/\">Adrenal Fatigue: What It Is and How to Treat It</a>, check out the video.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

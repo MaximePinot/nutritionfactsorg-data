@@ -1,0 +1,83 @@
+{
+  "Title": "Is Sodium Lauryl Sulfate Safe?",
+  "Url": "https://nutritionfacts.org/video/is-sodium-lauryl-sulfate-safe/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/mZS5nyKZyh4"
+  },
+  "UpdatedAt": "2017-09-29T11:40:32+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 38",
+    "Url": "https://nutritionfacts.org/volumes/volume-38/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Just because the sodium lauryl sulfate in toothpaste doesn’t cause cancer doesn’t mean it can’t cause problems.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nSodium lauryl sulfate is a common detergent used in toothpaste. It was featured in a famous internet hoax nearly twenty years ago. Colgate toothpaste has it, supposedly proven to cause cancer. At least, by buying Colgate rather than Crest, you wouldn’t be supporting Satan—or, so claimed another famous hoax.\nThe hoax that sodium lauryl sulfate in toothpaste and hair care products was linked to cancer became so widespread, the American Cancer Society was forced to publish a response to shampoo-poo the link. “Radical…e-mails have been flying through cyberspace stating Sodium Lauryl Sulfate…cause[s] cancer,…[and it’s simply] not true.”\nSo, I just ignored it all these years, until I was doing research on canker sores—you know, those painful shallow gray ulcerations you get inside your lip or cheek, also known as aphthous ulcers. They can often be set off by trauma, like if you accidentally stab yourself with a toothbrush or something. And so, they recommend to try to avoid biting your lip, and also to avoid sodium lauryl sulfate-containing toothpaste—not because of cancer, but apparently for irritation, which at least makes a little more sense. I mean, why would a detergent—a soap chemical—be carcinogenic? Though you could imagine how it might, theoretically at least, dissolve off some protective layer from the inside of your mouth, or something. So, I decided to look into it.\nAlthough SLS “has been used as a foaming agent” in toothpastes since the 1930s, our story begins 25 years ago, with an abstract presented at a conference on the possible effects of sodium lauryl sulfate on recurring canker sores. They took ten men and women getting more than one sore a week—nearly 18 on average, over a three-month period, using a regular SLS-containing toothpaste. And then, they switched them to using an SLS-free toothpaste for another three months. And, they went from 18 canker sores down to around five; that’s like a 70% decrease. And indeed, what they thought was happening is that the sodium lauryl sulfate was adversely affecting the protective mucous layer that lines our mouth. You always have to be cautious about published abstracts, though. You always want to make sure that they actually go on to publish their findings in a peer-reviewed medical journal. And indeed, in this case, they did; so, you can confirm that, yes indeed, it was a double-blind study. Yes, indeed, they used the exact same toothpaste; just one with the regular concentration of SLS, and the other SLS-free.\nBut still, just ten patients? It was considered “a preliminary study,” but with apparently such a dramatic effect, a series of experiments were performed to see what might be going on—as simple as just applying some SLS, at the concentration found in toothpaste, onto someone’s gums with a Q-tip for 90 seconds, and measuring the spike in blood flow to the area, which is a sign of inflammation, presumably because the detergent was penetrating and irritating the gums. Yeah, but does it actually damage the tissue?\nResearchers smeared some toothpastes on the gums of some dental hygienists, two minutes twice a day for four days, and, while the SLS-free toothpaste didn’t cause any problems, the ones with the typical amount of sodium lauryl sulfate caused “desquamation” among most of them—in other words, a sloughing off or peeling of the topmost layers of the inside lining of their mouths. No wonder it might make canker sores worse.\nIt’s funny; if you go back to the original American Cancer Society debunking, their response was sodium lauryl sulfate is “not [a] known carcinogen.” It’s just a “known irritant.”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Cui RZ, Bruce AJ, Rogers RS 3rd. Recurrent aphthous stomatitis. Clin Dermatol. 2016 Jul-Aug;34(4):475-81.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27343962"
+    },
+    {
+      "Title": "Daly KC. Internet Hoaxes: Public Regulation and Private Remedies.  (2000 Third Year Paper)",
+      "Url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:8965617"
+    },
+    {
+      "Title": "Herlofson BB, Barkvoll P. Desquamative effect of sodium lauryl sulfate on oral mucosa. A preliminary study. Acta Odontol Scand. 1993 Feb;51(1):39-43.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8451922"
+    },
+    {
+      "Title": "Herlofson BB, Barkvoll P. Sodium lauryl sulfate and recurrent aphthous ulcers. A preliminary study. Acta Odontol Scand. 1994 Oct;52(5):257-9.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/7825393"
+    },
+    {
+      "Title": "Herlofson BB, Brodin P, Aars H. Increased human gingival blood flow induced by sodium lauryl sulfate. J Clin Periodontol. 1996 Nov;23(11):1004-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8951628"
+    }
+  ],
+  "Acknowledgements": "Image credit: Kristina DeMuth. Image has been modified.\nMotion graphics by Avocado Video.",
+  "Topics": [
+    {
+      "Title": "aphthous ulcers",
+      "Url": "https://nutritionfacts.org/topics/aphthous-ulcers/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "canker sores",
+      "Url": "https://nutritionfacts.org/topics/canker-sores/"
+    },
+    {
+      "Title": "carcinogens",
+      "Url": "https://nutritionfacts.org/topics/carcinogens/"
+    },
+    {
+      "Title": "dental health",
+      "Url": "https://nutritionfacts.org/topics/dental-health/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "oral cancer",
+      "Url": "https://nutritionfacts.org/topics/oral-cancer/"
+    },
+    {
+      "Title": "sodium lauryl sulfate",
+      "Url": "https://nutritionfacts.org/topics/sodium-lauryl-sulfate/"
+    },
+    {
+      "Title": "toothpaste",
+      "Url": "https://nutritionfacts.org/topics/toothpaste/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>What about the non-SLS foaming agents? Stay tuned for my next video: <a href=\"https://nutritionfacts.org/video/is-capb-in-sls-free-toothpaste-any-better/\">Is CAPB in SLS-Free Toothpaste Any Better?</a>.</p>\n<p>I’ve taken a deep dive into canker sores. See, for example:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/best-supplement-for-canker-sores/\">Best Supplement for Canker Sores</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-role-of-dairy-and-gluten-in-canker-sores/\">The Role of Dairy and Gluten in Canker Sores</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

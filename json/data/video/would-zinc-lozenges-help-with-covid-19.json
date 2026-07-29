@@ -1,0 +1,167 @@
+{
+  "Title": "Would Zinc Lozenges Help with COVID-19?",
+  "Url": "https://nutritionfacts.org/video/would-zinc-lozenges-help-with-covid-19/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/JCdAMiLglDg"
+  },
+  "UpdatedAt": "2020-07-01T11:50:50+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 50Cov",
+    "Url": "https://nutritionfacts.org/volumes/volume-50cov/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Zinc may help slow the replication of other coronaviruses, but what about SARS-CoV-2?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nGiven the current pandemic, “the search for potential [preventive] and therapeutic antiviral strategies is of particular and urgent interest.” So, what about zinc, which is known in some cases to have antiviral and anti-inflammatory benefits? I looked into it as a potential treatment after the fact-checking site Snopes validated that a noted virologist did indeed make a recommendation back in February to “Stock up now with zinc lozenges.” He based his supposition on the efficacy of zinc for common colds, up to 29 percent of which are caused by coronaviruses.\nThere’s actually a sweet backstory to that: a three-year-old girl undergoing chemotherapy for leukemia (a disease marked by low zinc levels) refused to swallow a zinc supplement. Immunosuppressed, she had just started getting a cold. Instead of swallowing the supplement, she just let it dissolve in her mouth and the cold seemed to disappear within hours. Okay, cute little anecdote, but this observation led her father—her own father—to conduct the ﬁrst randomized double-blind placebo-controlled trial on zinc lozenges for the common cold.\nThat’s how it all started/ But there have since been more than a dozen randomized controlled trials published, and, overall, researchers have found that zinc is indeed beneficial in reducing both duration and severity of the common cold when taken within the first twenty-four hours of symptom onset. Zinc lozenges…appear to shorten colds, by about three days…with significant reductions…in nasal discharge and congestion and hoarseness, and cough.\nThe common cold results for zinc are often described as “mixed,” but that appears to be because some studies used zinc lozenges containing added ingredients like citric acid that strongly sequester zinc; so, little or no free zinc is actually released. They taste better, but what’s the point if you don’t actually get the zinc?\nSo, what’s the best way to take zinc for the common cold? Lozenges containing around 10 to 15 milligrams of zinc taken every two waking hours for a few days, starting immediately upon symptom onset, as either zinc acetate or zinc gluconate without zinc binders such as citric acid, tartaric acid, glycine, sorbitol, or mannitol may work best. Best…for the common cold, but what about for COVID-19?\nThere are a number of purported mechanisms for the potential protection afforded by zinc. The first is that it interferes with the attachment of rhinoviruses, the most common cause of the common cold, to our cells. This presumably wouldn’t help us in the case of COVID-19, since our new coronavirus utilizes a different docking receptor.\nZinc also appears to slow rhinovirus replication, at least in a petri dish. What about coronaviruses? Zinc inhibits the coronavirus that causes SARS, by interfering with the virus’s ability to replicate its genetic code, but that was in conjunction with a chemical that ferried zinc inside the cells. There are natural dietary compounds that may play a similar function, but even if viral replication were able to be slowed in your throat where the lozenge is, what we care about most is stopping replication of the COVID-19 virus in the lungs.\nBut a third mechanism by which zinc may help seems more promising: boosting our antiviral immunity. For example, giving zinc pills to children with severe regular pneumonia has been shown to be effective in reducing mortality as much as three-fold over placebo. Three times higher death rates in the sugar pill group. But these studies were done in countries like Uganda, India…, and Ecuador, where there may have been pre-existing zinc deficiencies. So yeah, taking zinc if you’re zinc deficient; no wonder that helps, but it’s unclear if similar benefits could be had in higher-income countries with better population-wide micronutrient status.\nSome have suggested that despite the lack of clinical data—no one has yet put zinc to the test for COVID-19—maybe it could help. I’m skeptical it would be helpful in well-nourished individuals, but, if taken as directed, it shouldn’t hurt, though zinc supplements and lozenges can cause nausea, especially when taken on an empty stomach, and some other gastrointestinal symptoms. And one should never put zinc in their nose. In the drug store you’ll find all sorts of intranasal zinc gels, sprays, and swabs that have been linked to the potentially permanent loss of one’s sense of smell.\n(Oh, and happy ending: That three-year-old girl beat the cancer, never relapsed, and grew up to become a scientist herself.)\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Dabbagh-bazarbachi H, Clergeaud G, Quesada IM, Ortiz M, O'sullivan CK, Fernández-larrea JB. Zinc ionophore activity of quercetin and epigallocatechin-gallate: from Hepa 1-6 cells to a liposome model. J Agric Food Chem. 2014;62(32):8085-93.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25050823"
+    },
+    {
+      "Title": "Davidson TM, Smith WM. The Bradford Hill criteria and zinc-induced anosmia: a causality analysis. Arch Otolaryngol Head Neck Surg. 2010;136(7):673-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20644061"
+    },
+    {
+      "Title": "Eby GA, Davis DR, Halcomb WW. Reduction in duration of common colds by zinc gluconate lozenges in a double-blind study. Antimicrob Agents Chemother. 1984;25(1):20-4.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/6367635"
+    },
+    {
+      "Title": "Eby GA. Treatment of acute lymphocytic leukemia using zinc adjuvant with chemotherapy and radiation--a case history and hypothesis. Med Hypotheses. 2005;64(6):1124-6.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/15823699"
+    },
+    {
+      "Title": "Hemilä H, Chalker E. The effectiveness of high dose zinc acetate lozenges on various common cold symptoms: a meta-analysis. BMC Fam Pract. 2015;16:24.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25888289"
+    },
+    {
+      "Title": "Hemilä H, Petrus EJ, Fitzgerald JT, Prasad A. Zinc acetate lozenges for treating the common cold: an individual patient data meta-analysis. Br J Clin Pharmacol. 2016;82(5):1393-8.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/27378206"
+    },
+    {
+      "Title": "Hemilä H. Zinc lozenges and the common cold: a meta-analysis comparing zinc acetate and zinc gluconate, and the role of zinc dosage. JRSM Open. 2017;8(5):2054270417694291.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28515951"
+    },
+    {
+      "Title": "Kasprak A. Did a Noted Pathologist Write This Viral Coronavirus Advice Letter? Snopes.com. March 2, 2020.",
+      "Url": "https://www.snopes.com/fact-check/zinc-lozenges-coronavirus/"
+    },
+    {
+      "Title": "Korant BD, Kauer JC, Butterworth BE. Zinc ions inhibit replication of rhinoviruses. Nature. 1974;248(449):588-90.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/4363085"
+    },
+    {
+      "Title": "Moriyama M, Hugentobler WJ, Iwasaki A. Seasonality of Respiratory Viral Infections. Annu Rev Virol. 2020.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32196426"
+    },
+    {
+      "Title": "Novick SG, Godfrey JC, Godfrey NJ, Wilder HR. How does zinc modify the common cold? Clinical observations and implications regarding mechanisms of action. Med Hypotheses. 1996;46(3):295-302.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/8676770"
+    },
+    {
+      "Title": "Read SA, Obeid S, Ahlenstiel C, Ahlenstiel G. The Role of Zinc in Antiviral Immunity. Adv Nutr. 2019;10(4):696-710.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/31305906"
+    },
+    {
+      "Title": "Sempértegui F, Estrella B, Rodríguez O, et al. Zinc as an adjunct to the treatment of severe pneumonia in Ecuadorian children: a randomized controlled trial. Am J Clin Nutr. 2014;99(3):497-505.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/24429536"
+    },
+    {
+      "Title": "Singh M, Das RR. Zinc for the common cold. Cochrane Database Syst Rev. 2013;(6):CD001364.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23775705"
+    },
+    {
+      "Title": "Skalny AV, Rink L, Ajsuvakova OP, et al. Zinc and respiratory tract infections: Perspectives for COVID‑19 (Review). Int J Mol Med. 2020.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32319538"
+    },
+    {
+      "Title": "Srinivasan MG, Ndeezi G, Mboijana CK, et al. Zinc adjunct therapy reduces case fatality in severe childhood pneumonia: a randomized double blind placebo-controlled trial. BMC Med. 2012;10:14.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22316073"
+    },
+    {
+      "Title": "Te velthuis AJ, Van den worm SH, Sims AC, Baric RS, Snijder EJ, Van hemert MJ. Zn(2+) inhibits coronavirus and arterivirus RNA polymerase activity in vitro and zinc ionophores block the replication of these viruses in cell culture. PLoS Pathog. 2010;6(11):e1001176.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/21079686"
+    },
+    {
+      "Title": "Wadhwa N, Chandran A, Aneja S, et al. Efficacy of zinc given as an adjunct in the treatment of severe and very severe pneumonia in hospitalized children 2-24 mo of age: a randomized, double-blind, placebo-controlled trial. Am J Clin Nutr. 2013;97(6):1387-94.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23636236"
+    },
+    {
+      "Title": "Wang L, Song Y. Efficacy of zinc given as an adjunct to the treatment of severe pneumonia: A meta-analysis of randomized, double-blind and placebo-controlled trials. Clin Respir J. 2018;12(3):857-64.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/28488366"
+    },
+    {
+      "Title": "Zou X, Chen K, Zou J, Han P, Hao J, Han Z. Single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to 2019-nCoV infection. Front Med. 2020.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/32170560"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by AvoMedia\nImage credit: danleap via istockphoto. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "Asia",
+      "Url": "https://nutritionfacts.org/topics/asia/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "China",
+      "Url": "https://nutritionfacts.org/topics/china/"
+    },
+    {
+      "Title": "coronavirus",
+      "Url": "https://nutritionfacts.org/topics/coronavirus/"
+    },
+    {
+      "Title": "COVID-19",
+      "Url": "https://nutritionfacts.org/topics/covid-19/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "lung health",
+      "Url": "https://nutritionfacts.org/topics/lung-health/"
+    },
+    {
+      "Title": "nausea",
+      "Url": "https://nutritionfacts.org/topics/nausea/"
+    },
+    {
+      "Title": "pandemics",
+      "Url": "https://nutritionfacts.org/topics/pandemics/"
+    },
+    {
+      "Title": "respiratory infections",
+      "Url": "https://nutritionfacts.org/topics/respiratory-infections/"
+    },
+    {
+      "Title": "vaccines",
+      "Url": "https://nutritionfacts.org/topics/vaccines/"
+    },
+    {
+      "Title": "viral infections",
+      "Url": "https://nutritionfacts.org/topics/viral-infections/"
+    },
+    {
+      "Title": "zinc",
+      "Url": "https://nutritionfacts.org/topics/zinc/"
+    },
+    {
+      "Title": "zoonotic disease",
+      "Url": "https://nutritionfacts.org/topics/zoonotic-disease/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>This is the 10<sup>th</sup> in a 17-part series. Here are the first nine:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/where-do-deadly-coronaviruses-like-mers-cov-come-from/\">Where Do Deadly Coronaviruses Like MERS-CoV Come From?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-sars-coronavirus-and-wet-markets/\">The SARS Coronavirus and Wet Markets</a></li>\n<li><a href=\"https://nutritionfacts.org/video/where-did-the-covid-19-coronavirus-come-from/\">Where Did the COVID-19 Coronavirus Come From?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-last-coronavirus-pandemic-may-have-been-caused-by-livestock/\">The Last Coronavirus Pandemic May Have Been Caused by Livestock</a></li>\n<li><a href=\"https://nutritionfacts.org/video/r0-and-incubation-periods-how-other-coronavirus-outbreaks-were-stopped/\">R0 and Incubation Periods: How Other Coronavirus Outbreaks Were Stopped</a></li>\n<li><a href=\"https://nutritionfacts.org/video/social-distancing-lockdowns-testing-how-to-slow-the-covid-19-pandemic/\">Social Distancing, Lockdowns &amp; Testing: How to Slow the COVID-19 Pandemic</a></li>\n<li><a href=\"https://nutritionfacts.org/video/covid-19-symptoms-vs-the-flu-a-cold-or-allergies/\">COVID-19 Symptoms vs. the Flu, a Cold or Allergies</a></li>\n<li><a href=\"https://nutritionfacts.org/video/modifiable-risk-factors-and-comorbidities-for-severe-covid-19-infection/\">Modifiable Risk Factors and Comorbidities for Severe COVID-19 Infection</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-immune-system-and-covid-19-treatment/\">The Immune System and COVID-19 Treatment</a></li>\n</ul>\n<p>Stay tuned for:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/how-to-avoid-covid-19/\">How to Avoid COVID-19</a></li>\n<li><a href=\"https://nutritionfacts.org/video/hand-washing-sanitizing-to-inactivate-covid-19-coronavirus/\">Hand Washing &amp; Sanitizing to Inactivate COVID-19 Coronavirus</a></li>\n<li><a href=\"https://nutritionfacts.org/video/what-to-do-if-you-come-down-with-covid-19/\">What to Do if You Come Down with COVID-19</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-mask-or-diy-face-covering-for-covid-19/\">The Best Mask or DIY Face Covering for COVID-19</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-covid-19-ends-vaccination-mutations-and-herd-immunity/\">How COVID-19 Ends: Vaccination, Mutations, and Herd Immunity</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-covid-19-pandemic-may-just-be-a-dress-rehearsal/\">The COVID-19 Pandemic May Just Be a Dress Rehearsal</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-to-prevent-the-next-pandemic/\">How to Prevent the Next Pandemic</a></li>\n</ul>\n<p>You can download the whole series (for free) right now on <a href=\"https://drgreger.org/collections/downloads/products/how-to-survive-a-pandemic-digital\">DrGreger.org</a> and take an even deeper dive in my new book <a href=\"https://nutritionfacts.org/how-to-survive-a-pandemic/\">How to Survive a Pandemic</a> (note: all my proceeds from this book are donated to pandemic prevention charities).</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "Title": "Should We Take a Multivitamin?",
+  "Url": "https://nutritionfacts.org/video/should-we-take-a-multivitamin/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/5fgVDT0qw88"
+  },
+  "UpdatedAt": "2014-01-31T12:15:20+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 17",
+    "Url": "https://nutritionfacts.org/volumes/volume-17/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What does the best available science say about the role multivitamins may play in heart disease, cancer, and longevity?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAbout one in three Americans takes a multivitamin. Is that helpful, harmful, or just harmless—a waste of money? In 2011, the Iowa Women’s Health Study reported that multivitamin use was “associated with a higher risk of total mortality”—meaning, in effect, women who took a multivitamin appeared to be paying to live shorter lives. But this was an observational study, meaning they didn’t split them up into two groups, and put half on multivitamins to see who lived longer. They just followed a large population of women over time, and found those that happened to be taking multivitamins were more likely to die. But, maybe, they were taking multivitamins because they were sick? The researchers didn’t find any evidence of that. But, ideally, we’d have a randomized, double-blind, placebo-controlled trial—thousands of people followed for over a decade; half given a multivitamin, and half a placebo, and see what happens. And, that’s what we got the following year, in 2012. The Harvard Physicians’ [Health] Study II. And, after a decade, no effect on heart attack, stroke, or mortality.\nThe accompanying editorial concluded that multivitamins are a “distraction from effective [cardiovascular disease] prevention. The message needs to remain simple and focused:” heart disease can be largely prevented by healthy lifestyle changes.\nThey did, however, find that for men with a history of cancer, the multivitamin appeared to be protective against getting cancer again—though there was no significant difference in cancer mortality, or cancer protection, in those who’ve never had cancer before. Still, though, that’s pretty exciting. It is just one study, though. Ideally, we’d have, like, twenty of these placebo-controlled trials, and then compile all the results together.\nAnd, that’s what we got in 2013—”a meta-analysis of randomized controlled trials.” Twenty-one of them, covering more than 90,000 individuals, and—”no influence…on…mortality” either way. Some found more cancer mortality; some found less cancer mortality; but all and all, it was a wash.\nAnd, that was heralded as good news. I mean, after the Iowa Women’s Health Study came out, we were worried multivitamins could be harming millions of people. But, instead, they don’t appear to have much effect either way. The accompanying editorial asked, “Should meta-analyses trump observational studies?” I mean, Iowa Women’s Health Study followed tens of thousands of women for nearly twenty years. Well, what if we put all the studies together—the big observational studies, along with the experimental trials? And, that’s what we got in December 2013—concluding that multivitamins appear to offer “no consistent evidence” of benefit for heart disease, cancer, or living longer.\nWhy, though? Aren’t vitamins and minerals good for us? Well, “[o]ne explanation for this result could be that [our bodies] are so complex that the effects of supplementing [a few] components is generally ineffective or actually does harm.” Maybe, we should get our nutrients in the way nature intended.\nThe accompanying editorial concluded “Enough is Enough; [we should] Stop Wasting [our] Money on Vitamin and Mineral Supplements.” Americans spend billions on such supplements. “A better investment in health would be eating more fruits and vegetables.” Imagine if we instead spent those billions on healthy food?\nThis is not the aisle we should be getting our nutrients from. With the money we save on pills, we can buy more of the best multivitamins on earth.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "E. Guallar, S. Stranges, C. Mulrow, L. J. Appel, E. R. Miller. Enough is enough: Stop wasting money on vitamin and mineral supplements. Ann Intern Med. 2013 159(12):850 - 851.",
+      "Url": "http://annals.org/article.aspx?doi=10.7326/0003-4819-159-12-201312170-00011&an_fo_ed"
+    },
+    {
+      "Title": "E. M. Lonn. Multivitamins in prevention of cardiovascular disease. JAMA. 2012 308(17):1802-1803.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23117781"
+    },
+    {
+      "Title": "F. Greenway, K. Fujioka, Y. Yu. Vomiting from multivitamins: A potential drug interaction. Am J Ther. 2011 18(6):453 - 457.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/20458212"
+    },
+    {
+      "Title": "H. D. Sesso, W. G. Christen, V. Bubes, J. P. Smith, J. MacFadyen, M. Schvartz, J. E. Manson, R. J. Glynn, J. E. Buring, J. M. Gaziano. Multivitamins in the prevention of cardiovascular disease in men: the Physicians' Health Study II randomized controlled trial. JAMA. 2012 308(17):1751 - 1760.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23117775"
+    },
+    {
+      "Title": "H. Macpherson, A. Pipingas, M. P. Pase. Multivitamin-multimineral supplementation and mortality: A meta-analysis of randomized controlled trials. Am. J. Clin. Nutr. 2013 97(2):437 - 444",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23255568"
+    },
+    {
+      "Title": "J. M. Gaziano, H. D. Sesso, W. G. Christen, V. Bubes, J. P. Smith, J. MacFadyen, M. Schvartz, J. E. Manson, R. J. Glynn, J. E. Buring. Multivitamins in the prevention of cancer in men: the Physicians' Health Study II randomized controlled trial. JAMA. 2012 308(18):1871 - 1880.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23162860"
+    },
+    {
+      "Title": "J. Mursu, K. Robien, L. J. Harnack, K. Park, D. R. Jacobs Jr. Dietary supplements and mortality rate in older women: The Iowa Women's Health Study. Arch. Intern. Med. 2011 171(18):1625 - 1633.",
+      "Url": "http://archinte.jamanetwork.com/article.aspx?articleid=1105975"
+    },
+    {
+      "Title": "L. Anekwe. Daily multivitamins do not protect against cardiovascular events, finds study. BMJ. 2012 345:e7599.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23144213"
+    },
+    {
+      "Title": "M. Cully. Prevention. Multivitamins do not reduce the risk of cardiovascular disease. Nat Rev Cardiol. 2013 10(1):7.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23165066"
+    },
+    {
+      "Title": "R. F. Redberg. Vitamin supplements: More cost than value. Arch. Intern. Med. 2011 171(18):1634 - 1635.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/21987194"
+    },
+    {
+      "Title": "R. Vogt. The importance of translating research skillfully to benefit the public. Arch. Intern. Med. 2012 172(5):449; author reply 449-450.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/22412121"
+    },
+    {
+      "Title": "S. M. Chang. Should meta-analyses trump observational studies? Am. J. Clin. Nutr. 2013 97(2):237 - 238.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23255570"
+    },
+    {
+      "Title": "S. P. Fortmann, B. U. Burda, C. A. Senger, J. S. Lin, E. P. Whitlock. Vitamin and Mineral Supplements in the Primary Prevention of Cardiovascular Disease and Cancer: An Updated Systematic Evidence Review for the U.S. Preventive Services Task Force. Ann. Intern. Med. 2013 159(12):824-838.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24217421"
+    },
+    {
+      "Title": "S. Rautiainen, L. Wang, J. M. Gaziano, H. D. Sesso. Who uses multivitamins? A cross-sectional study in the Physicians' Health Study. Eur J Nutr. 2013 [Epub ahead of print].",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24170064"
+    }
+  ],
+  "Acknowledgements": "Images thanks to stevendepolo, Clean Wal-Mart, theseanster93, and Carsten Schertzer via flickr",
+  "Topics": [
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cost savings",
+      "Url": "https://nutritionfacts.org/topics/cost-savings/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "lifespan",
+      "Url": "https://nutritionfacts.org/topics/lifespan/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "multivitamins",
+      "Url": "https://nutritionfacts.org/topics/multivitamins/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>I’ve previously addressed multivitamins in <a href=\"https://nutritionfacts.org/video/multivitamin-supplements-and-breast-cancer/\">Multivitamin Supplements &amp; Breast Cancer</a> (with a follow-up in my Q&amp;A post, <a href=\"https://nutritionfacts.org/questions/is-multivitamin-use-associated-to-a-risk-of-breast-cancer/\">Is multivitamin use really associated with an increased risk of breast cancer?</a>). </p>\n<p>With the exception of vitamins D and B12, we should strive to get our nutrients from produce, not pills (see <a href=\"https://nutritionfacts.org/video/produce-not-pills-to-increase-physical-attractiveness/\">Produce, not Pills, to Increase Physical Attractiveness</a>).</p>\n<p>Next, I cover all the new science on fish oil supplements in <a href=\"https://nutritionfacts.org/video/is-fish-oil-just-snake-oil/\">Is Fish Oil Just Snake Oil?</a></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

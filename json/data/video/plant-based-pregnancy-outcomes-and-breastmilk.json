@@ -1,0 +1,227 @@
+{
+  "Title": "Plant-Based Pregnancy Outcomes and Breast Milk",
+  "Url": "https://nutritionfacts.org/video/plant-based-pregnancy-outcomes-and-breastmilk/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/V07KBDcGlXM"
+  },
+  "UpdatedAt": "2023-05-15T11:50:41+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 61",
+    "Url": "https://nutritionfacts.org/volumes/volume-61/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The composition of breast milk is compared between vegetarian and nonvegetarian women.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nA completely plant-based diet is suitable during pregnancy, lactation, infancy, and childhood––a position echoed by the oldest and largest association of nutrition professionals in the world. Ask a couple hundred health professionals though, and as few as one in three appear to know it. Like any diet during pregnancy, it should be well-planned, which means consuming large amounts and a wide variety of plant foods from all the plant food groups––including whole grains, legumes (like soybeans, regular beans, split peas, chickpeas, and lentils), vegetables, fruits, and nuts and seeds. Make sure to get enough calcium from healthy plant-based sources, and sufficient vitamin D from sun or supplements. And critically important, make sure you get a regular, reliable source of vitamin B12. I have a video about B12 in pregnancy and for kids. The two books I recommend for raising plant-based families, published by two of my favorite evidence-based dieticians, are Your Complete Vegan Pregnancy by Reed Mangels, and Nourish, co-authored by Brenda Davis.\nWhat data do we have on the impact of a vegan diet on pregnancy outcomes? The vegans had a significantly lower gestational weight gain, by about six pounds, and lower birthweights––but just by a few hundred grams. Both about seven pounds each, within the normal range, with no differences in the rate of preterm birth, nor any significant differences in the umbilical cord blood B12, folate, or iron marker levels between the study groups. This is not surprising, since the vast majority of both groups were taking prenatal vitamins, as they should.\nWhat about the composition of breastmilk from those eating vegan or vegetarian diets? The systematic review has shown that all non-vegetarian, vegetarian, and vegan mothers produce breast milk of comparable nutritional value. Even omega-3s? There was no difference in milk DHA composition by diet group, but that’s not saying much, since over 80 percent of study participants had milk concentrations of the long chain omega-3 DHA below target. I talk about the best way to get pollutant-free sources in a previous video, which we’ll link down in the Doctor’s Note on NutritionFacts.org, or in the description on YouTube.\nThe meat and egg industries like to scaremonger about choline. But wait, this paper was written by someone with no conflicts of interest. Liar. Here’s a corrected version. The “Competing interests” section has been updated. And surprise, surprise! The author is a member of a meat industry-funded advisory panel. The truth is that there just as much choline in the breastmilk of vegans as those who eat eggs or meat.\nThere is something egg-free, meat-free mothers may not be passing on as much, though: industrial pollutants, like the banned pesticide DDT and cancer-causing PCBs. The highest levels were found in the milk of fish-eaters, and the lowest levels found in the vegetarians. Even just cutting out meat may cut DDT stores in half. For example, here are the levels of pesticides and carcinogenic PCBs found in the breastmilk from two sisters with different dietary habits. The levels of DDT, DDE (a breakdown product of DDT), dieldrin, and beta-hexachlorocyclohexane (two other banned pesticides), as well as PCBs, were much lower in the milk fat from the lacto-vegetarian mother than in that from the non-vegetarian sister. That’s because these chemicals build up the food chain in animal fat––our fat––as well as any animal fat we eat.\nWhat about mothers who eat strictly plant-based? Their milk is even less polluted. For almost every contaminant, there was no overlap in the range of scores, meaning the highest (worst) vegetarian value was lower than the best (lowest) value obtained in the United States sample. And by vegetarian here, they mean women who eliminate all animal products from their diets, including eggs and dairy. The one vegetarian mom who had more than trace amounts in her breastmilk had only been vegetarian for less than a year. But for some of these other toxic pollutants, the average vegetarian levels were only 1 to 2 percent as high as the average levels in the United States. Breast is still best, regardless of the dietary pattern of the mother, but nursing infants of vegetarian women whose diets are low on the food chain––in other words plant-based––have the advantage of being exposed to less chemical pollution.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Avnon T, Anbar R, Lavie I, et al. Does vegan diet influence umbilical cord vitamin B12, folate, and ferritin levels?. Arch Gynecol Obstet. 2020;301(6):1417-1422.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32347355/"
+    },
+    {
+      "Title": "Avnon T, Paz Dubinsky E, Lavie I, Ben-Mayor Bashi T, Anbar R, Yogev Y. The impact of a vegan diet on pregnancy outcomes. J Perinatol. 2021;41(5):1129-1133.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32873905/"
+    },
+    {
+      "Title": "Baroni L, Goggi S, Battaglino R, et al. Vegan Nutrition for Mothers and Children: Practical Tools for Healthcare Providers. Nutrients. 2018;11(1):5.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30577451/"
+    },
+    {
+      "Title": "Bettinelli ME, Bezze E, Morasca L, et al. Knowledge of Health Professionals Regarding Vegetarian Diets from Pregnancy to Adolescence: An Observational Study. Nutrients. 2019;11(5):1149.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31126037/"
+    },
+    {
+      "Title": "Derbyshire E. Could we be overlooking a potential choline crisis in the United Kingdom?. BMJ Nutr Prev Health. 2019;2(2):86-89.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33235962/"
+    },
+    {
+      "Title": "Hergenrather J, Hlady G, Wallace B, Savage E. Pollutants in breast milk of vegetarians. N Engl J Med. 1981;304(13):792.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7464895/"
+    },
+    {
+      "Title": "Karcz K, Królak-Olejnik B. Vegan or vegetarian diet and breast milk composition - a systematic review. Crit Rev Food Sci Nutr. 2021;61(7):1081-1098.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32319307/"
+    },
+    {
+      "Title": "Mangels R. Your complete vegan pregnancy: your all-in-one guide to a healthy, holistic, plant-based pregnancy. Adams Media, New York. 2019.",
+      "Url": "https://www.worldcat.org/title/1076371169"
+    },
+    {
+      "Title": "Melina V, Craig W, Levin S. Position of the Academy of Nutrition and Dietetics: Vegetarian Diets. J Acad Nutr Diet. 2016;116(12):1970-1980.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27886704/"
+    },
+    {
+      "Title": "Norén K. Levels of organochlorine contaminants in human milk in relation to the dietary habits of the mothers. Acta Paediatr Scand. 1983;72(6):811-816.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/6424401/"
+    },
+    {
+      "Title": "Perrin MT, Pawlak R, Allen LH, Hampel D. Total Water-Soluble Choline Concentration Does Not Differ in Milk from Vegan, Vegetarian, and Nonvegetarian Lactating Women. J Nutr. 2020;150(3):512-517.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32133524/"
+    },
+    {
+      "Title": "Perrin MT, Pawlak R, Dean LL, Christis A, Friend L. A cross-sectional study of fatty acids and brain-derived neurotrophic factor (BDNF) in human milk from lactating women following vegan, vegetarian, and omnivore diets. Eur J Nutr. 2019;58(6):2401-2410.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30051170/"
+    },
+    {
+      "Title": "Shah R, Davis B, Katz DL. Nourish: the definitive plant-based nutrition guide for families. Health Communications, Inc., Boca Raton, Florida. 2020.",
+      "Url": "https://www.worldcat.org/title/1221005803"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "beans",
+      "Url": "https://nutritionfacts.org/topics/beans/"
+    },
+    {
+      "Title": "breast milk",
+      "Url": "https://nutritionfacts.org/topics/breast-milk/"
+    },
+    {
+      "Title": "breastfeeding",
+      "Url": "https://nutritionfacts.org/topics/breastfeeding/"
+    },
+    {
+      "Title": "calcium",
+      "Url": "https://nutritionfacts.org/topics/calcium/"
+    },
+    {
+      "Title": "children",
+      "Url": "https://nutritionfacts.org/topics/children/"
+    },
+    {
+      "Title": "choline",
+      "Url": "https://nutritionfacts.org/topics/choline/"
+    },
+    {
+      "Title": "dairy",
+      "Url": "https://nutritionfacts.org/topics/dairy/"
+    },
+    {
+      "Title": "DHA",
+      "Url": "https://nutritionfacts.org/topics/dha/"
+    },
+    {
+      "Title": "eggs",
+      "Url": "https://nutritionfacts.org/topics/eggs/"
+    },
+    {
+      "Title": "fish",
+      "Url": "https://nutritionfacts.org/topics/fish/"
+    },
+    {
+      "Title": "folate",
+      "Url": "https://nutritionfacts.org/topics/folate/"
+    },
+    {
+      "Title": "fruit",
+      "Url": "https://nutritionfacts.org/topics/fruit/"
+    },
+    {
+      "Title": "grains",
+      "Url": "https://nutritionfacts.org/topics/grains/"
+    },
+    {
+      "Title": "industrial pollutants",
+      "Url": "https://nutritionfacts.org/topics/industrial-pollutants/"
+    },
+    {
+      "Title": "industry influence",
+      "Url": "https://nutritionfacts.org/topics/industry-influence/"
+    },
+    {
+      "Title": "infants",
+      "Url": "https://nutritionfacts.org/topics/infants/"
+    },
+    {
+      "Title": "iron",
+      "Url": "https://nutritionfacts.org/topics/iron/"
+    },
+    {
+      "Title": "legumes",
+      "Url": "https://nutritionfacts.org/topics/legumes/"
+    },
+    {
+      "Title": "lentils",
+      "Url": "https://nutritionfacts.org/topics/lentils/"
+    },
+    {
+      "Title": "meat",
+      "Url": "https://nutritionfacts.org/topics/meat/"
+    },
+    {
+      "Title": "nuts",
+      "Url": "https://nutritionfacts.org/topics/nuts/"
+    },
+    {
+      "Title": "omega-3 fatty acids",
+      "Url": "https://nutritionfacts.org/topics/omega-3-fatty-acids/"
+    },
+    {
+      "Title": "PCBs",
+      "Url": "https://nutritionfacts.org/topics/pcbs/"
+    },
+    {
+      "Title": "pesticides",
+      "Url": "https://nutritionfacts.org/topics/pesticides/"
+    },
+    {
+      "Title": "Plant-Based Diets",
+      "Url": "https://nutritionfacts.org/topics/plant-based-diets/"
+    },
+    {
+      "Title": "pregnancy",
+      "Url": "https://nutritionfacts.org/topics/pregnancy/"
+    },
+    {
+      "Title": "seafood",
+      "Url": "https://nutritionfacts.org/topics/seafood/"
+    },
+    {
+      "Title": "seeds",
+      "Url": "https://nutritionfacts.org/topics/seeds/"
+    },
+    {
+      "Title": "soy",
+      "Url": "https://nutritionfacts.org/topics/soy/"
+    },
+    {
+      "Title": "soybeans",
+      "Url": "https://nutritionfacts.org/topics/soybeans/"
+    },
+    {
+      "Title": "split peas",
+      "Url": "https://nutritionfacts.org/topics/split-peas/"
+    },
+    {
+      "Title": "vegans",
+      "Url": "https://nutritionfacts.org/topics/vegans/"
+    },
+    {
+      "Title": "vegetables",
+      "Url": "https://nutritionfacts.org/topics/vegetables/"
+    },
+    {
+      "Title": "vegetarians",
+      "Url": "https://nutritionfacts.org/topics/vegetarians/"
+    },
+    {
+      "Title": "vitamin B12",
+      "Url": "https://nutritionfacts.org/topics/vitamin-b12/"
+    },
+    {
+      "Title": "vitamin D",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d/"
+    },
+    {
+      "Title": "women's health",
+      "Url": "https://nutritionfacts.org/topics/womens-health/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">The vitamin B12 video I mentioned is </span><a href=\"https://nutritionfacts.org/video/the-optimal-vitamin-b12-dosage-for-kids-pregnancy-and-seniors/\"><span style=\"font-weight: 400\">The Optimal B12 Dosage for Kids, Pregnancy, and Seniors</span></a><span style=\"font-weight: 400\">, and the DHA video is </span><a href=\"https://nutritionfacts.org/video/should-vegan-women-supplement-with-dha-during-pregnancy/\"><span style=\"font-weight: 400\">Should Vegan Women Supplement with DHA During Pregnancy?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p data-pm-slice=\"1 1 []\"><a class=\"ProsemirrorEditor-link\" href=\"https://nutritionfacts.org/video/how-much-caffeine-is-safe-during-pregnancy/\">How Much Caffeine Is Safe During Pregnancy?</a> Check out the video.</p>\n<p><span style=\"font-weight: 400\">Here are links to the two books I suggested: </span><a href=\"https://www.amazon.com/Your-Complete-Vegan-Pregnancy-All/dp/1507210191\"><i><span style=\"font-weight: 400\">Your Complete Vegan Pregnancy</span></i><span style=\"font-weight: 400\"> by Reed Mangels</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://www.amazon.com/Nourish-Definitive-Plant-Based-Families-Connection/dp/0757323626\"><i><span style=\"font-weight: 400\">Nourish</span></i><span style=\"font-weight: 400\">, co-authored by Brenda Davis.</span></a></p>\n<p><span style=\"font-weight: 400\">Formula is not an adequate substitute for human breast milk. Adoptive families or those who use surrogates may want to look for a nearby milk bank. </span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

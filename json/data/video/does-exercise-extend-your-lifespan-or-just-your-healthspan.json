@@ -1,0 +1,143 @@
+{
+  "Title": "Does Exercise Extend Your Lifespan or Just Your Healthspan?",
+  "Url": "https://nutritionfacts.org/video/does-exercise-extend-your-lifespan-or-just-your-healthspan/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/kn2Cts0qtNQ"
+  },
+  "UpdatedAt": "2024-11-06T12:50:45+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 67",
+    "Url": "https://nutritionfacts.org/volumes/volume-67/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "I was surprised by how much controversy is in the medical literature over whether the apparent longevity benefits of exercise are even real.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhether 6 percent of premature mortality is related to physical inactivity, 9 percent, or even 15 percent, these estimates are all predicated on the presumption that the associations found linking inactivity to death rates in observational studies constitute cause and effect. I was surprised by how much controversy there is in the medical literature over whether or not the apparent longevity benefits of exercise are even real.\nA classic study from the 1950s entitled “Coronary Heart-Disease and Physical Activity of Work” illustrates how difficult it can be to tease out causality between physical activity and longevity. London bus drivers appeared to have twice the risk of dying from heart disease compared to bus conductors, who were presumed to be protected by their climbing up and down 500 to 700 steps a day in the famous double deckers. However, it was later revealed, in a follow-up paper “Physique of London Busmen,” that based on the measurements of their starting uniforms, the bus drivers started out significantly heavier.\nSimilar issues surrounding reverse causality continue to haunt observational exercise studies to this day. Is exercising enabling good health, or is good health enabling exercise in the first place? Is inactivity leading to chronic disease, or is chronic disease leading to inactivity?\nThen there are the confounding factors––the archetypical one being less smoking among active individuals. With the exception of elite male power athletes, who may die at nearly five times the normal rate (perhaps due to use of anabolic steroids), athletes tend to live longer than their sedentary counterparts, as much as four to eight years longer. But think of all the complicating elements, especially among professionals. Major league baseball players, Tour de France cyclists, and champion skiers all live longer than the general population. But that doesn’t mean that necessarily has anything to do with home runs, bicyclettes, or the slopes. Maybe it’s partly the superior genetic constitution that allow for such physical feats in the first place, or the socioeconomic status bestowed upon the winner. Yes, Olympic medalists live longer than the general population, but so do grandmasters of chess, as revealed by a study subtitled “Mind versus muscle,” suggesting it’s the afforded status rather than muscular exertion. Winners of a Nobel Prize and Oscar award similarly have superior life expectancy.\nTo try to tease out these factors, researchers have compared the effects of leisure time physical activity to occupational physical activity. If the link between exercise and longevity were truly causal, then the context within which you get the same exertion shouldn’t matter. As you can probably guess, though, manual labor can sometimes be associated with a shorter, not longer, life, again suggesting the primacy of confounders like socioeconomic factors. Is it possible that a genetic predisposition to physical fitness is what accounts for the exercise/longevity link, rather than the physical activity itself? In other words, is it just genetic selection bias? We know exercise and longevity are associated with one another, but instead of exercise causing the longevity, maybe the same genetic predisposition to exercise also leads to longevity, whether or not you actually exercise at all.\nThis question was raised by a pair of mind-blowing studies. The first involved a comparison of two strains of rats, one bred to have a high intrinsic running capacity, and the other bred to have a low running capacity. Then they were randomized to either get a running wheel or not. Even without exercising, the high-fitness ability rats lived longer than those with the low fitness ability, but unexpectedly the provision of running wheels so they could all exercise voluntarily cut the lives of both strains short. Running reduced their life expectancy.\nUsing twin studies, we can show that there are also genetic predispositions to exercise in humans too. When identical twins leave home to start their separate lives, their exercise habits are much more likely to be “concordant” than fraternal twins. This means if one twin vigorously exercises, then the other twin is more likely to do the same if they share 100 percent of their DNA, instead of just 50 percent like regular brothers and sisters. How could we tell if it’s this genetic predisposition to exercise, rather than the actual exercise, that accounts for athletic longevity? Well, what about the rare cases of identical twins whose exercise habits diverge? With the same DNA, would intense physical activity make a difference? Apparently not. The same mortality rates were found in identical twins whether they exercised vigorously or not.\nA critical analysis on whether physical activity is a cause of longevity concluded “the undisputed health-related benefits of exercise have yet to translate into any proven causal relationship with longevity.” This was based on the fact that the randomized controlled trials in clinical populations, suffering mostly from neurological conditions, have shown a drop in premature death rates. Exercise interventions have failed to show exercise extends life among apparently healthy individuals. However, these are difficult studies to run.\nTake the largest such study, where more than 1,500 older men and women (average age 73) were randomized to one of three groups for five years: a recommendation to just follow the national guidelines of 30 minutes a day, five days a week, or to replace two of those weekly sessions with 50-minute sessions, or to replace two of those weekly sessions with four four-minute bursts of high intensity interval training at 90 percent of peak heart rate. And there ended up being no difference in mortality rates between the two extra exercise groups and the control group. This may be because the control group ended up exercising so much. The control group advised to exercise for just 30 minutes ended up exercising more than the group told to boost weekly sessions up to 50 minutes. All participants had the potential to be randomized to the high-intensity group, so the enrollees had to be pretty fit at baseline. And with expectations of health checks at years one, three, and five, the control group stepped it up so much it blurred the distinctions between the three groups.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "García-Hermoso A, Ramirez-Vélez R, Sáez de Asteasu ML, et al. Safety and effectiveness of long-term exercise interventions in older adults: a systematic review and meta-analysis of randomized controlled trials. Sports Med. 2020;50(6):1095-1106.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32020543/"
+    },
+    {
+      "Title": "Global Health Risks: Mortality and Burden of Disease Attributable to Selected Major Risks. World Health Organization. 2009.",
+      "Url": "https://www.who.int/publications/i/item/9789241563871"
+    },
+    {
+      "Title": "Han X, Small DS, Foster DP, Patel V. The effect of winning an Oscar Award on survival: Correcting for healthy performer survivor bias with a rank preserving structural accelerated failure time model. Ann Appl Stat. 2011;5(2A):746-772.",
+      "Url": "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-5/issue-2A/The-effect-of-winning-an-Oscar-Award-onsurvival--Correcting/10.1214/10-AOAS424.full"
+    },
+    {
+      "Title": "Heady JA, Morris JN, Raffle PA. Physique of London busmen; epidemiology of uniforms. Lancet. 1956;271(6942):569-570.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/13368467/"
+    },
+    {
+      "Title": "Karvinen S, Waller K, Silvennoinen M, et al. Physical activity in adulthood: genes and mortality. Sci Rep. 2015;5:18259.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26666586/"
+    },
+    {
+      "Title": "Karvonen MJ, Klemola H, Virkajärvi J, Kekkonen A. Longevity of endurance skiers. Med Sci Sports. 1974;6(1):49-51.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/4826692/"
+    },
+    {
+      "Title": "Kujala UM. Is physical activity a cause of longevity? It is not as straightforward as some would believe. A critical analysis. Br J Sports Med. 2018;52(14):914-918.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29545237/"
+    },
+    {
+      "Title": "Kujala UM. Physical activity, genes, and lifetime predisposition to chronic disease. Eur Rev Aging Phys Act. 2011;8(1):31-36.",
+      "Url": "https://link.springer.com/article/10.1007/s11556-010-0077-2"
+    },
+    {
+      "Title": "Lee IM, Shiroma EJ, Lobelo F, et al. Effect of physical inactivity on major non-communicable diseases worldwide: an analysis of burden of disease and life expectancy. Lancet. 2012;380(9838):219-229.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22818936/"
+    },
+    {
+      "Title": "Lindqvist AS, Moberg T, Ehrnborg C, Eriksson BO, Fahlke C, Rosén T. Increased mortality rate and suicide in Swedish former elite male athletes in power sports. Scand J Med Sci Sports. 2014;24(6):1000-1005.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24033718/"
+    },
+    {
+      "Title": "Merghani A, Malhotra A, Sharma S. The U-shaped relationship between exercise and cardiac morbidity. Trends Cardiovasc Med. 2016;26(3):232-240.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26187713/"
+    },
+    {
+      "Title": "Morris JN, Heady JA, Raffle PA, Roberts CG, Parks JW. Coronary heart-disease and physical activity of work. Lancet. 1953;262(6795):1053-1057.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/13110049/"
+    },
+    {
+      "Title": "Nguyen VT, Zafonte RD, Kponee-Shovein KZ, Paganoni S, Weisskopf MG. All-cause and cause-specific mortality among Major League Baseball players. JAMA Intern Med. 2019;179(9):1298-1301.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31329214/"
+    },
+    {
+      "Title": "O’Keefe JH, Franklin B, Lavie CJ. Exercising for health and longevity vs peak performance: different regimens for different goals. Mayo Clin Proc. 2014;89(9):1171-1175.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25128073/"
+    },
+    {
+      "Title": "Pärssinen M, Kujala U, Vartiainen E, Sarna S, Seppälä T. Increased premature mortality of competitive powerlifters suspected to have used anabolic agents. Int J Sports Med. 2000;21(3):225-227.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/10834358/"
+    },
+    {
+      "Title": "Rablen MD, Oswald AJ. Mortality and immortality: the Nobel Prize as an experiment into the effect of status upon longevity. J Health Econ. 2008;27(6):1462-1471.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18649962/"
+    },
+    {
+      "Title": "Rezende LFM, Lee DH, Ferrari G, Giovannucci E. Confounding due to pre-existing diseases in epidemiologic studies on sedentary behavior and all-cause mortality: a meta-epidemiologic study. Ann Epidemiol. 2020;52:7-14.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32950658/"
+    },
+    {
+      "Title": "Richard A, Martin B, Wanner M, Eichholzer M, Rohrmann S. Effects of leisure-time and occupational physical activity on total mortality risk in NHANES III according to sex, ethnicity, central obesity, and age. J Phys Act Health. 2015;12(2):184-192.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24770336/"
+    },
+    {
+      "Title": "Runacres A, Mackintosh KA, McNarry MA. Health consequences of an elite sporting career: long-term detriment or long-term gain? A meta-analysis of 165,000 former athletes. Sports Med. 2021;51(2):289-301.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33368029/"
+    },
+    {
+      "Title": "Sanchis-Gomar F, Olaso-Gonzalez G, Corella D, Gomez-Cabrera MC, Vina J. Increased average longevity among the “Tour de France” cyclists. Int J Sports Med. 2011;32(8):644-647.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21618162/"
+    },
+    {
+      "Title": "Stensvold D, Viken H, Steinshamn SL, et al. Effect of exercise training for five years on all cause mortality in older adults-the Generation 100 study: randomised controlled trial. BMJ. 2020;371:m3485.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33028588/"
+    },
+    {
+      "Title": "Strain T, Brage S, Sharp SJ, et al. Use of the prevented fraction for the population to determine deaths averted by existing prevalence of physical activity: a descriptive study. Lancet Glob Health. 2020;8(7):e920-e930.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32562648/"
+    },
+    {
+      "Title": "Stubbe JH, Boomsma DI, Vink JM, et al. Genetic influences on exercise participation in 37,051 twin pairs from seven countries. PLoS One. 2006;1(1):e22.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/17183649/"
+    },
+    {
+      "Title": "Tran-Duy A, Smerdon DC, Clarke PM. Longevity of outstanding sporting achievers: Mind versus muscle. PLoS One. 2018;13(5):e0196938.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29723296/"
+    },
+    {
+      "Title": "Viña J, Rodriguez-Mañas L, Salvador-Pascual A, Tarazona-Santabalbina FJ, Gomez-Cabrera MC. Exercise: the lifelong supplement for healthy ageing and slowing down the onset of frailty. J Physiol. 2016;594(8):1989-1999.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26872560/"
+    },
+    {
+      "Title": "Wade KH, Richmond RC, Davey Smith G. Physical activity and longevity: how to move closer to causal inference. Br J Sports Med. 2018;52(14):890-891.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29545236/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "longevity",
+      "Url": "https://nutritionfacts.org/topics/longevity/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Isn’t that mind-blowing? </span></p>\n<p><span style=\"font-weight: 400\">This is the third video in a four-part series. If you missed the first two, see </span><a href=\"https://nutritionfacts.org/video/how-many-steps-should-we-get-every-day/\"><span style=\"font-weight: 400\">How Many Steps Should We Get Every Day?</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/does-exercise-extend-your-lifespan-or-just-your-healthspan/\"><span style=\"font-weight: 400\">Does Exercise Extend Your Lifespan or Just Your Healthspan?</span></a><span style=\"font-weight: 400\">. Stay tuned for </span><a href=\"https://nutritionfacts.org/video/how-much-exercise-is-too-much/\"><span style=\"font-weight: 400\">How Much Exercise Is Too Much?</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">For more on aging, check out </span><span style=\"font-weight: 400\">my longevity book, </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i></a><span style=\"font-weight: 400\">, from your local public library. It’s available in print, e-book, and audio. (All proceeds I receive from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

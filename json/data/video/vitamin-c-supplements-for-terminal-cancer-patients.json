@@ -1,0 +1,135 @@
+{
+  "Title": "Vitamin C Supplements for Terminal Cancer Patients",
+  "Url": "https://nutritionfacts.org/video/vitamin-c-supplements-for-terminal-cancer-patients/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/uyKWDuhWzf8"
+  },
+  "UpdatedAt": "2016-01-08T12:00:57+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 28",
+    "Url": "https://nutritionfacts.org/volumes/volume-28/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "If studies from the 1970s showed cancer patients treated with vitamin C lived 4 times longer and sometimes even 20 times longer, why isn’t it standard practice today?",
+  "Transcript": "Vitamin C is no stranger to controversy, as evidenced by the fact that it took 40 years between when citrus fruits were shown to cure scurvy in the 1700’s and the widespread implementation of this practice to save lives. Is it possible we’re in the midst of a similar 40 year lag with research in the mid-70’s purporting to show that terminal cancer patients treated with vitamin C lived four times longer and sometimes 20 times longer? Researchers at the venerable Mayo Clinic decided to put it to the test, and they failed to show any benefit. The survival curves for both groups of patients were essentially identical. In fact, the one success story, a guy with end-stage pancreatic cancer who had shown no response to any previous attempts at chemo, but started improving and was still alive five years later, was one of the patients who got the sugar pill placebos. It was official: vitamin C didn’t work. “The apparently positive results reported previously,” read the accompanying National Cancer Institute editorial, almost certainly resulted from systematic bias in terms of which historic controls were chosen to compare with the treatment group.”\nLinus Pauling disagreed, arguing that the prior chemotherapy in nearly all the Mayo Clinic study patients may have negated the effect of the vitamin C. If the vitamin C works by boosting your immune system and your immune system is first destroyed by chemo, the thinking goes, no wonder it didn’t work. In the original vitamin C study, only 4 out of the 100 patients had ever received chemo. The Mayo Clinic researchers were skeptical, but Pauling had a legendary reputation in science for being right about all sorts of things; so, one might do worse perhaps than rely at least partly on Pauling’s awesome intuition. And so, a second, randomized, double-blind, placebo-controlled study was performed on patients with advanced cancer, but this time who had no prior chemotherapy and again, it was a spectacular failure. No measureable response, the cancer in the vitamin C group progressed just as rapidly, and the patients on the placebo sugar pills lived just as long. In fact, if anything, the sugar pill group lived longer. At two years, everyone in the vitamin C group was dead, but there were still a few survivors in the placebo group that made it out to at least past three. And so, they concluded: high dose vitamin C therapy is not effective against advanced cancer regardless of whether or not the patient has had prior chemotherapy.\nBecause the Mayo studies were taken as definitive, the medical community concluded that vitamin C was useless. However, in the Mayo Clinic studies, they gave the vitamin C orally in supplements, not intravenously. In retrospect, the route of administration may have been key.\nIn the original study, they started out infusing ten grams of vitamin C a day intravenously, whereas in both of the Mayo studies designed to replicate the protocol, they just gave people vitamin C supplements to take orally—just sent them home to swallow 20 capsules a day—same dose, but ten grams given orally is not the same thing as ten grams given IV, something that wasn’t discovered until decades later.\nIt turns out vitamin C concentration in our bloodstream is tightly controlled, such that if you try to swallow more than you’d get eating five servings of fruits and vegetables, your body cuts down on the absorption in the intestine. For example, if you go from eating 200mg to eating ten times more—2,500 mg, the level in your bloodstream only goes up three mg per liter or quart of blood. In contrast, because intravenous injection bypasses the intestinal absorption system, it can result in super high blood concentrations, as in one or two hundred times the level you can achieve taking vitamin C orally. So, maybe that explains why the original studies seemed so promising but the follow-up studies were so disappointing. This raises the controversial question of the re-evaluation of vitamin C in cancer treatment. Researchers responded to the challenge and took up the mantle, and we’ll see what they found, next.\nTo see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video. This is just an approximation of the audio contributed by Katie Schloer.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "C G Moertel, T R Fleming, E T Creagan, J Rubin, M J O'Connell, M M Ames. High-dose vitamin C versus placebo in the treatment of patients with advanced cancer who have had no prior chemotherapy. A randomized double-blind comparison. N Engl J Med. 1985 Jan 17;312(3):137-41.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/3880867"
+    },
+    {
+      "Title": "E Cameron, L Pauling. Supplemental ascorbate in the supportive treatment of cancer: Prolongation of survival times in terminal human cancer. Proc Natl Acad Sci U S A. 1976 Oct;73(10):3685-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/1068480"
+    },
+    {
+      "Title": "E T Creagan, C G Moertel, J R O'Fallon, A J Schutt, M J O'Connell, J Rubin, S Frytak. Failure of high-dose vitamin C (ascorbic acid) therapy to benefit patients with advanced cancer. A controlled trial. N Engl J Med. 1979 Sep 27;301(13):687-90.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/384241"
+    },
+    {
+      "Title": "E T Creagan, C Moertel. Vitamin C therapy of advanced cancer. N Engl J Med. 1979 Dec 20;301(25):1399.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/503177"
+    },
+    {
+      "Title": "J Blanchard, T N Tozer, M Rowland. Pharmacokinetic perspectives on megadoses of ascorbic acid. Am J Clin Nutr. 1997 Nov;66(5):1165-71.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/9356534"
+    },
+    {
+      "Title": "J Verrax, P B Calderon. The controversial place of vitamin C in cancer treatment. Biochem Pharmacol. 2008 Dec 15;76(12):1644-52.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/18938145"
+    },
+    {
+      "Title": "L J Hoffer, L Robitaille, R Zakarian, D Melnychuk, P Kavan, J Agulnik, V Cohen, D Small, W H Miller Jr. High-dose intravenous vitamin C combined with cytotoxic chemotherapy in patients with advanced cancer: a phase I-II clinical trial. PLoS One. 2015 Apr 7;10(4):e0120228.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/25848948"
+    },
+    {
+      "Title": "M K Wilson, B C Baguley, C Wall, M B Jameson, M P Findlay. Review of high-dose intravenous vitamin C as an anticancer agent. Asia Pac J Clin Oncol. 2014 Mar;10(1):22-37.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/24571058"
+    },
+    {
+      "Title": "M Levine, M G Espey, Q Chen. Losing and finding a way at C: new promise for pharmacologic ascorbate in cancer treatment. Free Radic Biol Med. 2009 Jul 1;47(1):27-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19361554"
+    },
+    {
+      "Title": "N L Parrow, J A Leshin, M Levine. Parenteral ascorbate as a cancer therapeutic: a reassessment based on pharmacokinetics. Antioxid Redox Signal. 2013 Dec 10;19(17):2141-56.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/23621620"
+    },
+    {
+      "Title": "R E Wittes. Vitamin C and cancer. N Engl J Med. 1985 Jan 17;312(3):178-9.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/3965937"
+    },
+    {
+      "Title": "S J Padayatty, M Levine. Reevaluation of ascorbate in cancer treatment: emerging evidence, open minds and serendipity. J Am Coll Nutr. 2000 Aug;19(4):423-5.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/10963459"
+    },
+    {
+      "Title": "S Ohno, Y Ohno, N Suzuki, G Soma, M Inoue. High-dose vitamin C (ascorbic acid) therapy in the treatment of patients with advanced cancer.  Anticancer Res. 2009 Mar;29(3):809-15.",
+      "Url": "http://www.ncbi.nlm.nih.gov/pubmed/19414313"
+    }
+  ],
+  "Acknowledgements": "Images thanks to PDPics via Pixabay.",
+  "Topics": [
+    {
+      "Title": "alternative medicine",
+      "Url": "https://nutritionfacts.org/topics/alternative-medicine/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "cancer survival",
+      "Url": "https://nutritionfacts.org/topics/cancer-survival/"
+    },
+    {
+      "Title": "chemotherapy",
+      "Url": "https://nutritionfacts.org/topics/chemotherapy/"
+    },
+    {
+      "Title": "complementary medicine",
+      "Url": "https://nutritionfacts.org/topics/complementary-medicine/"
+    },
+    {
+      "Title": "Dr. Linus Pauling",
+      "Url": "https://nutritionfacts.org/topics/dr-linus-pauling/"
+    },
+    {
+      "Title": "immune function",
+      "Url": "https://nutritionfacts.org/topics/immune-function/"
+    },
+    {
+      "Title": "mortality",
+      "Url": "https://nutritionfacts.org/topics/mortality/"
+    },
+    {
+      "Title": "National Cancer Institute",
+      "Url": "https://nutritionfacts.org/topics/national-cancer-institute/"
+    },
+    {
+      "Title": "pancreatic cancer",
+      "Url": "https://nutritionfacts.org/topics/pancreatic-cancer/"
+    },
+    {
+      "Title": "scurvy",
+      "Url": "https://nutritionfacts.org/topics/scurvy/"
+    },
+    {
+      "Title": "supplements",
+      "Url": "https://nutritionfacts.org/topics/supplements/"
+    },
+    {
+      "Title": "vitamin C",
+      "Url": "https://nutritionfacts.org/topics/vitamin-c/"
+    },
+    {
+      "Title": "weight loss",
+      "Url": "https://nutritionfacts.org/topics/weight-loss/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>If you thought the last video, <a href=\"https://nutritionfacts.org/video/intravenous-vitamin-c-for-terminal-cancer-patients/\">Intravenous Vitamin C for Terminal Cancer Patients</a>, was a cliffhanger? This one’s even cliffier! Be sure to see the follow-up, <a href=\"https://nutritionfacts.org/video/the-role-of-vitamin-c-in-the-treatment-of-terminal-cancer/\">The Role of Vitamin C in the Treatment of Terminal Cancer</a>.</p>\n<p>If you want the videos early, you can purchase access to NutritionFacts.org videos two months ahead of schedule by <a href=\"http://www.drgreger.org/dvds\">getting the DVDs</a> and watching the conclusion now (if you buy the <a href=\"http://www.drgreger.org/downloads\">digital download</a>). Note: 100% of the proceeds from the sales of the DVDs go to the 501c3 nonprofit charity that runs NutritionFacts.org (from which I receive no financial compensation), and all videos from the DVDs will eventually end up completely free here on the site. The DVDs just allow people to watch the videos straight through all in a row, nine weeks ahead of time, and allow them to be shared as gifts. </p>\n<p>Did you know that if you become a regular supporter of NutritionFacts.org, you get all the DVDs for free, too? Yes! See our <a href=\"https://nutritionfacts.org/rewards/\">donor rewards and recognition page</a> for more information.</p>\n<p>To learn more about vitamin C, see <a href=\"https://nutritionfacts.org/video/do-vitamin-c-supplements-prevent-colds-but-cause-kidney-stones/\">Do Vitamin C Supplements Prevent Colds But Cause Kidney Stones?</a> and <a href=\"https://nutritionfacts.org/video/what-is-the-optimal-vitamin-c-intake/\">What Is the Optimal Vitamin C Intake?</a>.</p>\n<p>Can eating citrus protect against cancer? Find out in <a href=\"https://nutritionfacts.org/video/citrus-peels-cancer-zest-life/\">Citrus Peels &amp; Cancer: Zest for Life?</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

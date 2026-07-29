@@ -1,0 +1,107 @@
+{
+  "Title": "Vitamin D for Inflammatory Bowel Disease",
+  "Url": "https://nutritionfacts.org/video/vitamin-D-for-inflammatory-bowel-disease/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/iUI5nm8_sx4"
+  },
+  "UpdatedAt": "2017-01-02T13:00:01+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 33",
+    "Url": "https://nutritionfacts.org/volumes/volume-33/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Vitamin D supplements were put to the test for Crohn’s disease.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\n“IBD is a chronic inflammatory condition of the intestine…that includes…Crohn’s disease and ulcerative colitis.” If you compare identical twins—even though they have the same genes—most of the time, if one twin has it, the other does not. So, there must be some important nongenetic “trigger factors.” What might they be?\nWell, studies like these offered a clue. Why do those living in the southern United States have lower IBD rates than those living in the north?  Maybe it’s because those living in the south get more sun, which means more vitamin D, which may mean less inflammation.\nSo, do those with Crohn’s and ulcerative colitis with low vitamin D levels have worse disease? Apparently so; “increased risk of surgery and hospitalization,” and those that normalized their vitamin D levels appeared to reduce their risk of relapse. But, instead of better vitamin D leading to better Crohn’s, maybe the better Crohn’s led to better D; they felt so good, they went outside more. You can’t tell if it’s cause and effect, unless you put it to the test.\nThe first pilot study tried 1,000 units of vitamin D a day, and saw no change in the Crohn’s disease activity index—though at six weeks, there may have been a slight increase in the inflammatory bowel disease quality of life scores. But, even that disappeared by year’s end. Pretty disappointing results. Maybe they didn’t use enough.\nHow about 1,200 a day? The relapse rate appeared to be cut in half, though there were too few people in the study to reach statistical significance. How about 2,000 international units of vitamin D a day? Gut leakiness—so-called intestinal permeability—continued to worsen in the placebo group, but appeared to stabilize in the vitamin D group, though only those who reached blood levels over 75 nanomoles per liter appeared to have a significant drop in inflammation.\nAnd indeed, if you start Crohn’s patients on 1,000, and then ramp it up until they reach a target blood level, you can get a significant boost in quality of life, accompanying a significant drop in disease activity. Disease scores under 150 are considered remission. So, “the majority of patients achieved remission,” with improvements in disease activity, in “all but one patient.”\nThis suggests that Crohn’s patients may want to take 5,000 international units of vitamin D a day. But, that’s nearly ten times the RDA. Why so much? Because that’s what it may take to get normal vitamin D levels—as in normal-for-our-species levels, the kind of levels one might get running around half-naked in Africa, as we did for millions of years.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Ananthakrishnan AN, Cagan A, Gainer VS, Cai T, Cheng SC, Savova G, Chen P, Szolovits P, Xia Z, De Jager PL, Shaw SY, Churchill S, Karlson EW, Kohane I, Plenge RM, Murphy SN, Liao KP. Normalization of plasma 25-hydroxy vitamin D is associated with reduced risk of surgery in Crohn's disease. Inflamm Bowel Dis. 2013 Aug;19(9):1921-7.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23751398"
+    },
+    {
+      "Title": "Jørgensen SP, Agnholt J, Glerup H, et al. Clinical trial: vitamin D3 treatment in Crohn's disease - a randomized double-blind placebo-controlled study. Aliment Pharmacol Ther. 2010;32(3):377-83.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/20491740"
+    },
+    {
+      "Title": "Khalili H, Huang ES, Ananthakrishnan AN, Higuchi L, Richter JM, Fuchs CS, Chan AT. Geographical variation and incidence of inflammatory bowel disease among US women. Gut. 2012 Dec;61(12):1686-92.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22241842"
+    },
+    {
+      "Title": "Luxwolda MF, Kuipers RS, Kema IP, Dijck-Brouwer DA, Muskiet FA. Traditionally living populations in East Africa have a mean serum 25-hydroxyvitamin D concentration of 115 nmol/l. Br J Nutr. 2012 Nov 14;108(9):1557-61.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/22264449"
+    },
+    {
+      "Title": "Miheller P, Muzes G, Hritz I, Lakatos G, Pregun I, Lakatos PL, Herszényi L, Tulassay Z. Comparison of the effects of 1,25 dihydroxyvitamin D and 25 hydroxyvitamin D on bone pathology and disease activity in Crohn's disease patients. Inflamm Bowel Dis. 2009 Nov;15(11):1656-62.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/19408329"
+    },
+    {
+      "Title": "O'Sullivan M. Vitamin D as a novel therapy in inflammatory bowel disease: new hope or false dawn? Proc Nutr Soc. 2015 Feb;74(1):5-12.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25490986"
+    },
+    {
+      "Title": "Raftery T, Martineau AR, Greiller CL, Ghosh S, McNamara D, Bennett K, Meddings J, O'Sullivan M. Effects of vitamin D supplementation on intestinal permeability, cathelicidin and disease markers in Crohn's disease: Results from a randomised double-blind placebo-controlled study. United European Gastroenterol J. 2015 Jun;3(3):294-302.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/26137304"
+    },
+    {
+      "Title": "Raftery T, O'Sullivan M. Optimal vitamin D levels in Crohn's disease: a review. Proc Nutr Soc. 2015 Feb;74(1):56-66.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/25497215"
+    },
+    {
+      "Title": "Spehlmann ME, Begun AZ, Burghardt J, Lepage P, Raedler A, Schreiber S. Epidemiology of inflammatory bowel disease in a German twin cohort: results of a nationwide study. Inflamm Bowel Dis. 2008 Jul;14(7):968-76.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/18253950"
+    },
+    {
+      "Title": "Yang L, Weaver V, Smith JP, Bingaman S, Hartman TJ, Cantorna MT. Therapeutic effect of vitamin d supplementation in a pilot study of Crohn's patients. Clin Transl Gastroenterol. 2013 Apr 18;4:e33.",
+      "Url": "https://www.ncbi.nlm.nih.gov/pubmed/23594800"
+    }
+  ],
+  "Acknowledgements": "Image credit: Meditations via pixabay. Image has been modified.",
+  "Topics": [
+    {
+      "Title": "Africa",
+      "Url": "https://nutritionfacts.org/topics/africa/"
+    },
+    {
+      "Title": "asthma",
+      "Url": "https://nutritionfacts.org/topics/asthma/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "Crohn's disease",
+      "Url": "https://nutritionfacts.org/topics/crohns-disease/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "inflammatory bowel disease",
+      "Url": "https://nutritionfacts.org/topics/inflammatory-bowel-disease/"
+    },
+    {
+      "Title": "leaky gut",
+      "Url": "https://nutritionfacts.org/topics/leaky-gut/"
+    },
+    {
+      "Title": "placebo effect",
+      "Url": "https://nutritionfacts.org/topics/placebo-effect/"
+    },
+    {
+      "Title": "ulcerative colitis",
+      "Url": "https://nutritionfacts.org/topics/ulcerative-colitis/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>For more on the role diet can play in preventing and treating inflammatory bowel diseases, see:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/titanium-dioxide-inflammatory-bowel-disease/\">Titanium Dioxide and Inflammatory Bowel Disease</a></li>\n<li><a href=\"https://nutritionfacts.org/video/preventing-crohns-disease-with-diet/\">Preventing Crohn’s Disease with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/preventing-ulcerative-colitis-with-diet/\">Preventing Ulcerative Colitis with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/bowel-wars-hydrogen-sulfide-vs-butyrate/\">Bowel Wars: Hydrogen Sulfide vs. Butyrate</a></li>\n<li><a href=\"https://nutritionfacts.org/video/treating-ulcerative-colitis-with-diet/\">Treating Ulcerative Colitis with Diet</a></li>\n<li><a href=\"https://nutritionfacts.org/video/striking-root-turmeric-curcumin-ulcerative-colitis/\">Striking with the Root: Turmeric Curcumin and Ulcerative Colitis</a></li>\n<li><a href=\"https://nutritionfacts.org/video/achieving-remission-of-crohns-disease/\">Dietary Treatment of Crohn’s Disease</a></li>\n</ul>\n<p>Interested in learning what else healthy vitamin D levels can do for you and your family? Check out:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/will-you-live-longer-if-you-take-vitamin-d-supplements/\">Will You Live Longer If You Take Vitamin D Supplements?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-vit-d-supplements-help-diabetes-weight-loss-blood-pressure/\">Do Vitamin D Supplements Help with Diabetes, Weight Loss, and Blood Pressure?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/vitamin-d-for-asthma/\">Vitamin D for Asthma</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-vitamin-d-should-you-take/\">How Much Vitamin D Should You Take?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-optimal-dose-of-vitamin-d-based-on-natural-levels/\">The Optimal Dose of Vitamin D Based on Natural Levels</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-best-way-to-get-vitamin-d-sun-supplements-or-salons/\">The Best Way to Get Vitamin D: Sun, Supplements, or Salons?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-risks-and-benefits-of-sensible-sun-exposure/\">The Risks and Benefits of Sensible Sun Exposure</a></li>\n</ul>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "Title": "Who Should Take Statins?",
+  "Url": "https://nutritionfacts.org/video/who-should-take-statins/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/4WkDJdt3NTg"
+  },
+  "UpdatedAt": "2021-08-18T11:50:06+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 54",
+    "Url": "https://nutritionfacts.org/volumes/volume-54/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How can you calculate your own personal heart disease risk and use it to determine if you should start on a cholesterol-lowering statin drug?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIntro: This is the first in a four-part series on statins, which I originally showed in a webinar a few months ago. In these videos, I look into the effectiveness of statins, who should take them, and what the risks and benefits are. This is an exploration of the true risks and benefits of taking statins so people can make a fully informed choice. Check it out.\nThe muscle-related side effects from cholesterol-lowering statin drugs “are often severe enough [to make] patients stop taking [them]. Of course, these side effects could be coincidental or psychosomatic and nothing to do with the drug,” given that many clinical trials show such side effects are rare. Of course, “[it’s] also possible that [those] clinical trials, [funded by the drug companies themselves,] under-[reported] the side effects.” The bottom line is that there’s an urgent need to establish the true incidence of statin side effects.\n“What proportion of symptomatic side effects in patients taking statins are genuinely caused by the drug?” Even in Big Pharma-funded trials that found “only a small minority of symptoms” to be attributable to statins, researchers found that those taking statins were significantly more likely to develop type 2 diabetes than those randomized to placebo sugar pills. Why? We’re still not exactly sure, but statins may have the double-whammy effect of impairing insulin secretion from the pancreas, as well as diminishing insulin’s effectiveness by increasing insulin resistance.\nEven short-term statin use may approximately “double the odds of developing diabetes and diabetic complications.” Here are the graphs: Those developing diabetes and diabetic complications off of statins over a period of about five years, and the development of diabetes on statins. And if that’s not bad enough, “this increased risk persist[s] for [years even] after [the] statin[s were] stopped.”\nNow, “in view of the overwhelming beneﬁt of statins in the reduction of cardiovascular events,” the #1 killer of men and women, any increase in risk of diabetes, only our 7th leading cause of death, would be “outweighed by the cardiovascular beneﬁts,” right? That’s a false dichotomy. We don’t have to choose between heart disease and diabetes. We can treat the cause of both with the same diet and lifestyle changes. The diet that can not only stop but reverse heart disease is the same one that can also reverse type 2 diabetes. But what if, for whatever reason, you refuse to change your diet and lifestyle? In that case, what are the risks and benefits of starting statins? Don’t expect to get the full scoop from your doctor, as most seemed clueless about the causal link with diabetes, so only a small fraction even bring it up with their patients.\n “Overall, in patients for whom statin treatment is recommended by current guidelines, the benefits [are said to] greatly outweigh the risks.” But that’s for you to decide. Before we quantify exactly what the risks and benefits are, what exactly are the current guideline recommendations?\nHow should you decide if a statin is right for you? “If you have a history of heart disease or stroke, taking a statin medication is recommended”––period, full stop, no discussion needed. “If you do not yet have any known cardiovascular disease,” then the decision should be based on calculating your own personal risk, which you can easily do online if you know your cholesterol and blood pressure numbers with the American College of Cardiology risk estimator (tools.acc.org/ASCVD-Risk-Estimator), the Framingham risk profiler (reference.medscape.com/calculator/framingham-cardiovascular-disease-risk), or the Reynolds Risk Score (www.scymed.com/en/smnxph/phqgg440.htm). Those are the direct links, but you can also use these shortened links:\n\nAmerican College of Cardiology risk estimator: bit.ly/ACCrisk\nFramingham risk profiler: bit.ly/FRArisk\nReynolds Risk Score: bit.ly/REYrisk\n\nMy favorite is the ACC one since it not only gives your current 10-year risk but also your lifetime risk. So, for this person, for example, even though their risk of having a heart attack or stroke within the next decade is less than 10 percent, if they don’t clean up their act with those numbers it’s going to be nearly a flip of the coin; whereas if you improved your cholesterol and blood pressure you could drop that risk by more than tenfold. But the statin decision is based on your 10-year risk, so what do you do with that number? Well, under the current guidelines, if your 10-year risk is under 5 percent, then unless there are extenuating circumstances, you should just stick to diet, exercise, and smoking cessation to bring down your numbers. In contrast, if your 10-year risk hits 20 percent, then the recommendation is for you to add a statin drug on top of making lifestyle modifications. Under 7.5 percent, unless there are risk-enhancing factors, the tendency is to just stick with lifestyle changes, and over 7.5 percent to move towards adding drugs. Here’s a list of risk-enhancing factors that your doctor should take into account when helping you make the decision: A bad family history, really high LDL, metabolic syndrome, chronic kidney or inflammatory conditions, persistently high triglycerides, or C-reactive protein, or LP(a).\nIf you’re still not sure, these guidelines suggest you consider getting a coronary artery calcium score, but even though the radiation exposure from that test is relatively low these days, the U.S. Preventive Services Task Force has explicitly concluded that the current evidence is insufficient to conclude that the benefits outweigh the harms.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "American College of Cardiology. ASCVD Risk Estimator Plus.",
+      "Url": "https://tools.acc.org/ASCVD-Risk-Estimator-Plus/"
+    },
+    {
+      "Title": "Climent E, Benaiges D, Pedro-Botet J. Statin treatment and increased diabetes risk. Possible mechanisms. Clin Investig Arterioscler. 2019;31(5):228-32.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30737072/"
+    },
+    {
+      "Title": "Clough JD, Martin SS, Navar AM, et al. Association of Primary Care Providers' Beliefs of Statins for Primary Prevention and Statin Prescription. J Am Heart Assoc. 2019;8(3):e010241.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30681391/"
+    },
+    {
+      "Title": "Finegold JA, Manisty CH, Goldacre B, Barron AJ, Francis DP. What proportion of symptomatic side effects in patients taking statins are genuinely caused by the drug? Systematic review of randomized placebo-controlled trials to aid individual patient choice. Eur J Prev Cardiol. 2014;21(4):464-74.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24623264/"
+    },
+    {
+      "Title": "Framingham Risk Score (2008). Medscape.com.",
+      "Url": "https://reference.medscape.com/calculator/framingham-cardiovascular-disease-risk"
+    },
+    {
+      "Title": "Jukema JW, Cannon CP, de Craen AJ, Westendorp RG, Trompet S. The controversies of statin therapy: weighing the evidence. J Am Coll Cardiol. 2012;60(10):875-81.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/22902202/"
+    },
+    {
+      "Title": "Lloyd-Jones DM, Braun LT, Ndumele CE, et al. Use of Risk Assessment Tools to Guide Decision-Making in the Primary Prevention of Atherosclerotic Cardiovascular Disease: A Special Report From the American Heart Association and American College of Cardiology. Circulation. 2019;139(25):e1162-77.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30586766/"
+    },
+    {
+      "Title": "Majeed A, Molokhia M. Urgent need to establish the true incidence of the side effects of statins. BMJ. 2014;348:g3650.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/24920685/"
+    },
+    {
+      "Title": "Mansi IA, English J, Zhang S, Mortensen EM, Halm EA. Long-Term Outcomes of Short-Term Statin Use in Healthy Adults: A Retrospective Cohort Study. Drug Saf. 2016;39(6):543-59.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26979831/"
+    },
+    {
+      "Title": "Newman CB, Preiss D, Tobert JA, et al. Statin Safety and Associated Adverse Events: A Scientific Statement From the American Heart Association. Arterioscler Thromb Vasc Biol. 2019;39(2):e38-81.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30580575/"
+    },
+    {
+      "Title": "Redberg RF, Katz MH. Statins for Primary Prevention: The Debate Is Intense, but the Data Are Weak. JAMA. 2016;316(19):1979-81.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27838702/"
+    },
+    {
+      "Title": "Reynolds Risk Score.",
+      "Url": "https://www.scymed.com/en/smnxph/phqgg440.htm"
+    },
+    {
+      "Title": "US Preventive Services Task Force, Curry SJ, Krist AH, et al. Risk Assessment for Cardiovascular Disease With Nontraditional Risk Factors: US Preventive Services Task Force Recommendation Statement. JAMA. 2018;320(3):272-80.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29998297/"
+    },
+    {
+      "Title": "Ziaeian B, Fonarow GC. Statins and the Prevention of Heart Disease. JAMA Cardiol. 2017;2(4):464.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28122083/"
+    }
+  ],
+  "Acknowledgements": "Video production by Glass Entertainment\nMotion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "blood pressure",
+      "Url": "https://nutritionfacts.org/topics/blood-pressure/"
+    },
+    {
+      "Title": "cardiovascular disease",
+      "Url": "https://nutritionfacts.org/topics/cardiovascular-disease/"
+    },
+    {
+      "Title": "cholesterol",
+      "Url": "https://nutritionfacts.org/topics/cholesterol/"
+    },
+    {
+      "Title": "chronic diseases",
+      "Url": "https://nutritionfacts.org/topics/chronic-diseases/"
+    },
+    {
+      "Title": "diabetes",
+      "Url": "https://nutritionfacts.org/topics/diabetes/"
+    },
+    {
+      "Title": "heart disease",
+      "Url": "https://nutritionfacts.org/topics/heart-disease/"
+    },
+    {
+      "Title": "heart health",
+      "Url": "https://nutritionfacts.org/topics/heart-health/"
+    },
+    {
+      "Title": "high blood pressure",
+      "Url": "https://nutritionfacts.org/topics/high-blood-pressure/"
+    },
+    {
+      "Title": "hypertension",
+      "Url": "https://nutritionfacts.org/topics/hypertension/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "insulin",
+      "Url": "https://nutritionfacts.org/topics/insulin/"
+    },
+    {
+      "Title": "insulin resistance",
+      "Url": "https://nutritionfacts.org/topics/insulin-resistance/"
+    },
+    {
+      "Title": "kidney disease",
+      "Url": "https://nutritionfacts.org/topics/kidney-disease/"
+    },
+    {
+      "Title": "LDL cholesterol",
+      "Url": "https://nutritionfacts.org/topics/ldl-cholesterol/"
+    },
+    {
+      "Title": "lifestyle medicine",
+      "Url": "https://nutritionfacts.org/topics/lifestyle-medicine/"
+    },
+    {
+      "Title": "side effects",
+      "Url": "https://nutritionfacts.org/topics/side-effects/"
+    },
+    {
+      "Title": "statins",
+      "Url": "https://nutritionfacts.org/topics/statins/"
+    },
+    {
+      "Title": "stroke",
+      "Url": "https://nutritionfacts.org/topics/stroke/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p>There are three more videos in this series on statins. Stay tuned for:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/are-doctors-misleading-patients-about-statin-risks-and-benefits/\">Are Doctors Misleading Patients About Statin Risks and Benefits?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-true-benefits-vs-side-effects-of-statins/\">The True Benefits vs. Side Effects of Statins</a></li>\n<li><a href=\"https://nutritionfacts.org/video/how-much-longer-do-you-live-on-statins/\">How Much Longer Do You Live on Statins?</a></li>\n</ul>\n<p>I previously produced a related series on stents, including:</p>\n<ul>\n<li><a href=\"https://nutritionfacts.org/video/do-angioplasty-heart-stent-procedures-work/\">Do Angioplasty Heart Stent Procedures Work?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-angioplasty-heart-stents-dont-work-better/\">Why Angioplasty Heart Stents Don’t Work Better</a></li>\n<li><a href=\"https://nutritionfacts.org/video/the-risks-of-heart-stents/\">The Risks of Heart Stents</a></li>\n<li><a href=\"https://nutritionfacts.org/video/angioplasty-heart-stent-risks-vs-benefits/\">Angioplasty Heart Stent Risks vs. Benefits</a></li>\n<li><a href=\"https://nutritionfacts.org/video/do-heart-stent-procedures-work-for-angina-chest-pain/\">Do Heart Stent Procedures Work for Angina Chest Pain?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/why-are-stents-still-used-if-they-dont-work/\">Why Are Stents Still Used If They Don’t Work?</a></li>\n<li><a href=\"https://nutritionfacts.org/video/heart-stents-and-upcoding-how-cardiologists-game-the-system/\">Heart Stents and Upcoding: How Cardiologists Game the System</a></li>\n</ul>\n<p>All of these videos are available in a digital download of a webinar I did last year, which also includes the stent series. You can <a href=\"https://drgreger.org/collections/videos/products/how-effective-are-statins-and-stents-digital\">find it here</a>.</p>\n<p>The other videos I showed were <a href=\"https://nutritionfacts.org/video/how-not-to-die-from-diabetes/\">How Not to Die from Diabetes</a> and <a href=\"https://nutritionfacts.org/video/how-not-to-die-from-heart-disease/\">How Not to Die from Heart Disease</a>.</p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}

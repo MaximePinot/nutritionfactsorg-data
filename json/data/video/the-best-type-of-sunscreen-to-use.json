@@ -1,0 +1,143 @@
+{
+  "Title": "The Best Type of Sunscreen to Use",
+  "Url": "https://nutritionfacts.org/video/the-best-type-of-sunscreen-to-use/",
+  "YouTubeVideo": {
+    "Url": "https://youtube.com/v/cO2zdo8YJeI"
+  },
+  "UpdatedAt": "2024-05-29T11:50:35+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": {
+    "Title": "Volume 65",
+    "Url": "https://nutritionfacts.org/volumes/volume-65/"
+  },
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "The FDA has concluded that only two sunscreen ingredients can be considered safe: zinc oxide and titanium dioxide.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nWhat kind of sunscreen should you use? Cream-based is preferable to spray-on, since the completeness of application is more readily visualized. To help with adequate coverage, spray-on sunscreens should be rubbed on immediately after spraying. Aerosolized sunscreens are flammable and can combust on the skin upon exposure to an open flame, even after the sunscreen has dried. What’s more, the safety of breathing in aerosolized sunscreen chemicals has not been adequately studied, though frankly the same thing could be said about rubbing them on your skin.\nThe concerns surrounding sunscreen safety are three-fold: increased intentional sun exposure, vitamin D deficiency, and untoward effects from systemic absorption of sunscreen chemicals.\nIn the 1800s, we first learned that UV-B caused sunburns, and formulated sunscreens to block it. Nearly a century later, we learned about the contribution of UV-A. Now, a full century later, we are realizing that infra-red and visible light may also be contributing to cancer and premature skin aging. Sunlight comes to us in three major bands: visible light, ultraviolet, and infra-red. Visible light includes the colors of the rainbow—red, orange, yellow, green, blue, indigo, and violet, or ROYGBIV. Ultraviolet—UV—is to the right of violet in ROYGBIV, and infra-red to the left of red. Sunscreen can protect us against the free radical damage of UV, but half of the free radical formation in our skin from the sun may be from the visible or infrared spectrums, which sunscreens may not adequately cover. So, that’s where sun avoidance strategies come in. But you can imagine how shade-seeking could be undermined by the solacement of a sunscreen security blanket.\nWhat about vitamin D? The theoretical concern about sunscreen affecting vitamin D status does not seem to manifest in the real world, likely because the UV dose necessary for vitamin D production is so low––well before skin turns a pinker shade.\nHowever, concerns about the systemic absorption of sunscreen chemicals were underscored by the recent FDA bombshell that not a single one of sunscreen chemicals in current use can be considered generally recognized as safe. Only two active ingredients got the green light: the two non-chemical “mineral” sunscreens: titanium dioxide and zinc oxide. The revelation was based on a growing body of evidence that transdermal (meaning through-the-skin) absorption of sunscreen chemicals was greater than we previously thought, raising unevaluated safety concerns. Unevaluated, because we previously didn’t think so much got into our bloodstreams.\nIn 2019, a study published in the Journal of the American Medical Association found that under maximum usage conditions over a period of days, the blood levels of all of the sunscreen chemicals they tested exceeded the FDA threshold that could potentially waive further safety testing. Then, in 2020, they found that just a single application of all of the chemical sunscreens they tested surpassed the threshold. Now just because they’re absorbed into our system, doesn’t necessarily mean they’re unsafe. It just means they need to be tested for safety, which, the FDA determined, the multibillion-dollar sunscreen industry has so far failed to do.\nThe FDA concluded that two ingredients can be considered safe— zinc oxide and titanium dioxide, and two can be considered unsafe— PABA and trolamine salicylate. And the other 12 ingredients that are currently marketed have yet to be sufficiently safety tested. According to a review of more than 700 sunscreen brands, it appears PABA and trolamine are no longer being marketed in sunscreens sold in the United States. But they still may be available in other countries. Until the data are in on the rest of the chemical sunscreens, I would recommend sticking to the two mineral sunscreens. Historically, they’ve tended to be thicker and whiter, which could lead to even more severe underdosing. But newer micronized formulations with smaller mineral particle sizes tend to be less noticeable.\nThis is particularly an issue for those with darker skin. The average built-in SPF of black skin (also known in the medical literature as “ethnic skin” or “SOC,” skin of color) is around 13 naturally, compared with only about three for white skin. Though there haven’t been any interventional studies on sunscreen effectiveness for skin cancer prevention in people with dark skin, SPF 13 is not considered sufficient sun protection. So, the American Academy of Dermatology recommends regular sunscreen use with an SPF of 30 or higher for people of all skin types.\nUnfortunately, only about 12 percent of non-Hispanic Blacks, and 31 percent of Hispanics report regularly using sunscreen, compared to around 44 percent of non-Hispanic whites. Despite this, the incidence of melanoma, the deadliest skin cancer, is five times lower in Hispanics compared to whites, and more than 25 times lower among Blacks. However, the mortality rate if you do get it is higher among African-Americans, presumed to be from delayed diagnosis.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Barr J. Spray-on sunscreens need a good rub. J Am Acad Dermatol. 2005;52(1):180-181.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15627116/"
+    },
+    {
+      "Title": "Diffey BL, Grice J. The influence of sunscreen type on photoprotection. Br J Dermatol. 1997;137(1):103-105.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/9274634/"
+    },
+    {
+      "Title": "FDA advances new proposed regulation to make sure that sunscreens are safe and effective. US FDA. Feb 2019.",
+      "Url": "https://www.fda.gov/news-events/press-announcements/fda-advances-new-proposed-regulation-make-sure-sunscreens-are-safe-and-effective"
+    },
+    {
+      "Title": "FDA proposed order: sunscreen drug products for over-the-counter-human use. US FDA.",
+      "Url": "https://www.fda.gov/media/153964/download"
+    },
+    {
+      "Title": "FDA, HHS. Sunscreen Drug Products for Over-the-Counter Human Use. Federal Register. Feb 2019. 84(38);6204-6275.",
+      "Url": "https://www.federalregister.gov/documents/2019/02/26/2019-03019/sunscreen-drug-products-for-over-the-counter-human-use"
+    },
+    {
+      "Title": "Kumakiri M, Hashimoto K, Willis I. Biologic changes due to long-wave ultraviolet irradiation on human skin: ultrastructural study. J Invest Dermatol. 1977;69(4):392-400.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/903668/"
+    },
+    {
+      "Title": "Li H, Colantonio S, Dawson A, Lin X, Beecker J. Sunscreen application, safety, and sun protection: the evidence. J Cutan Med Surg. 2019;23(4):357-369.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31219707/"
+    },
+    {
+      "Title": "Matta MK, Florian J, Zusterzeel R, et al. Effect of sunscreen application on plasma concentration of sunscreen active ingredients: a randomized clinical trial. JAMA. 2020;323(3):256-267.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31961417/"
+    },
+    {
+      "Title": "Matta MK, Zusterzeel R, Pilli NR, et al. Effect of sunscreen application under maximal use conditions on plasma concentration of sunscreen active ingredients: a randomized clinical trial. JAMA. 2019;321(21):2082-2091.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31058986/"
+    },
+    {
+      "Title": "Michalski B, Olasz E. What you didn’t know about the sun: infrared radiation and its role in photoaging. Plast Surg Nurs. 2016;36(4):170-172.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27922560/"
+    },
+    {
+      "Title": "National Cancer Institute. Cancer Trends Progress Report. Bethesda, MD. Oct 2022.",
+      "Url": "https://progressreport.cancer.gov/"
+    },
+    {
+      "Title": "Passeron T, Bouillon R, Callender V, et al. Sunscreen photoprotection and vitamin D status. Br J Dermatol. 2019;181(5):916-931.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31069788/"
+    },
+    {
+      "Title": "Pearce K, Goldsmith WT, Greenwald R, Yang C, Mainelis G, Wright C. Characterization of an aerosol generation system to assess inhalation risks of aerosolized nano-enabled consumer products. Inhal Toxicol. 2019;31(9-10):357-367.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31779509/"
+    },
+    {
+      "Title": "Sander M, Sander M, Burbidge T, Beecker J. The efficacy and safety of sunscreen use for the prevention of skin cancer. CMAJ. 2020;192(50):E1802-E1808.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33318091/"
+    },
+    {
+      "Title": "Strauss DG, Michele TM. Skin cancer prevention and sunscreen safety: commentary on american society of clinical oncology policy statement on skin cancer prevention. JCO Oncol Pract. 2020;16(8):436-438.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32603257/"
+    },
+    {
+      "Title": "Tsai J, Chien AL. Photoprotection for skin of color. Am J Clin Dermatol. 2022;23(2):195-205.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35044638/"
+    },
+    {
+      "Title": "Urbach F. The historical aspects of sunscreens. J Photochem Photobiol B. 2001;64(2-3):99-104.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11744395/"
+    },
+    {
+      "Title": "Waldman RA, Grant-Kels JM. The role of sunscreen in the prevention of cutaneous melanoma and nonmelanoma skin cancer. J Am Acad Dermatol. 2019;80(2):574-576.e1.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30012373/"
+    },
+    {
+      "Title": "Zastrow L, Meinke MC, Albrecht S, Patzelt A, Lademann J. From uv protection to protection in the whole spectral range of the solar radiation: new aspects of sunscreen development. Adv Exp Med Biol. 2017;996:311-318.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29124711/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "African Americans",
+      "Url": "https://nutritionfacts.org/topics/african-americans/"
+    },
+    {
+      "Title": "Black Americans",
+      "Url": "https://nutritionfacts.org/topics/black-americans/"
+    },
+    {
+      "Title": "cancer",
+      "Url": "https://nutritionfacts.org/topics/cancer/"
+    },
+    {
+      "Title": "FDA",
+      "Url": "https://nutritionfacts.org/topics/fda/"
+    },
+    {
+      "Title": "skin cancer",
+      "Url": "https://nutritionfacts.org/topics/skin-cancer/"
+    },
+    {
+      "Title": "skin health",
+      "Url": "https://nutritionfacts.org/topics/skin-health/"
+    },
+    {
+      "Title": "sunscreen",
+      "Url": "https://nutritionfacts.org/topics/sunscreen/"
+    },
+    {
+      "Title": "titanium dioxide",
+      "Url": "https://nutritionfacts.org/topics/titanium-dioxide/"
+    },
+    {
+      "Title": "vitamin D supplements",
+      "Url": "https://nutritionfacts.org/topics/vitamin-d-supplements/"
+    },
+    {
+      "Title": "wrinkles",
+      "Url": "https://nutritionfacts.org/topics/wrinkles/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">This is the final video in my three-part series on sunscreen. If you missed either of the first two, see </span><a href=\"https://nutritionfacts.org/video/the-single-most-important-thing-for-anti-aging-skin-care/\"><span style=\"font-weight: 400\">The Single Most Important Thing for Anti-Aging Skin Care</span></a><span style=\"font-weight: 400\"> and </span><a href=\"https://nutritionfacts.org/video/does-sunscreen-cause-or-prevent-skin-cancer/\"><span style=\"font-weight: 400\">Does Sunscreen Cause or Prevent Skin Cancer?</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">If you’re concerned about getting enough vitamin D, make sure to </span><a href=\"https://nutritionfacts.org/blog/vitamin-d-recommendations-infographic/\"><span style=\"font-weight: 400\">read my recommendations</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">You can also <a href=\"https://nutritionfacts.org/webinar/choosing-the-safest-and-most-effective-sunscreen/\">watch the recording of the webinar</a> I did on this subject, which includes a great Q&amp;A.</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}
