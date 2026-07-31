@@ -1,0 +1,86 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://nutritionfacts.ouvaton.org/schemas/blog.schema.json",
+    "title": "Blog",
+    "description": "A Blog article from nutritionfacts.org",
+    "type": "object",
+    "properties": {
+        "Title": {
+            "type": "string",
+            "minLength": 1
+        },
+        "Url": {
+            "type": "string",
+            "minLength": 33,
+            "format": "uri",
+            "pattern": "^https:\\/\\/nutritionfacts\\.org\\/blog\\/"
+        },
+        "UpdatedAt": {
+            "type": "string",
+            "minLength": 25,
+            "maxLength": 25,
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\+\\d{2}:\\d{2}$"
+        },
+        "Author": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "minLength": 1,
+                    "enum": [
+                        "Michael Greger M.D. FACLM",
+                        "Brenda Davis and Vesanto Melina",
+                        "Joseph Gonzales, R.D.",
+                        "Vesanto Melina"
+                    ]
+                }
+            ]
+        },
+        "CoverImage": {
+            "type": "object",
+            "properties": {
+                "Urls": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "minLength": 1,
+                        "format": "uri",
+                        "pattern": "^https:\\/\\/assets\\.nutritionfacts\\.org\\/"
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                },
+                "Attribution": {
+                    "type": "string",
+                    "minLength": 0
+                }
+            },
+            "required": [
+                "Urls",
+                "Attribution"
+            ],
+            "additionalProperties": false
+        },
+        "Content": {
+            "type": "object",
+            "properties": {
+                "Html": {
+                    "type": "string",
+                    "minLength": 1
+                }
+            },
+            "required": [
+                "Html"
+            ],
+            "additionalProperties": false
+        }
+    },
+    "required": [
+        "Title",
+        "Url",
+        "UpdatedAt",
+        "Author",
+        "CoverImage",
+        "Content"
+    ],
+    "additionalProperties": false
+}
