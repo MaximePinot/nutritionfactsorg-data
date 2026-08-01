@@ -1,0 +1,131 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://nutritionfacts.ouvaton.org/schemas/audio.schema.json",
+    "title": "Audio",
+    "description": "A Audio article from nutritionfacts.org",
+    "type": "object",
+    "properties": {
+       "Title": {
+            "type": "string",
+            "minLength": 1
+        },
+        "Url": {
+            "type": "string",
+            "minLength": 33,
+            "format": "uri",
+            "pattern": "^https:\\/\\/nutritionfacts\\.org\\/audio\\/"
+        },
+        "UpdatedAt": {
+            "type": "string",
+            "minLength": 25,
+            "maxLength": 25,
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\+\\d{2}:\\d{2}$"
+        },
+       "Description": {
+            "type": "object",
+            "properties": {
+                "Html": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "Text": {
+                    "type": "string",
+                    "minLength": 1
+                }
+            },
+            "required": [
+                "Html",
+                "Text"
+            ],
+            "additionalProperties": false
+        },
+        "CoverImage": {
+            "type": "object",
+            "properties": {
+                "Urls": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "minLength": 1,
+                        "format": "uri",
+                        "pattern": "^https:\\/\\/assets\\.nutritionfacts\\.org\\/"
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                }
+            },
+            "required": [
+                "Urls"
+            ],
+            "additionalProperties": false
+        },
+        "Duration": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "string",
+                    "minLength": 3,
+                    "pattern": "\\d+:\\d"
+                }
+            ]
+        },
+        "Download": {
+            "type": "object",
+            "properties": {
+                "Url": {
+                    "type": "string",
+                    "minLength": 79,
+                    "pattern": "^https:\\/\\/media.blubrry\\.com\\/nutritionfactswithdrgreger\\/.*\\.(mp3|m4a)"
+                },
+                "Size": {
+                    "type": "object",
+                    "properties": {
+                        "Value": {
+                            "type": "string",
+                            "minLength": 1,
+                            "pattern": "\\d\\.\\d"
+                        },
+                        "Unit": {
+                            "type": "string",
+                            "enum": ["MB"]
+                        }
+                    },
+                    "required": [
+                        "Value",
+                        "Unit"
+                    ],
+                    "additionalProperties": false
+                }
+            },
+            "required": [
+                "Url",
+                "Size"
+            ],
+            "additionalProperties": false
+        },
+        "Transcript": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "string",
+                    "minLength": 1
+                }
+            ]
+        }
+    },
+    "required": [
+        "Title",
+        "Url",
+        "UpdatedAt",
+        "Description",
+        "CoverImage",
+        "Duration",
+        "Download",
+        "Transcript"
+    ],
+    "additionalProperties": false
+}
