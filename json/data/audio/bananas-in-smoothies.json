@@ -1,0 +1,29 @@
+{
+  "Title": "Bananas in Smoothies?",
+  "Url": "https://nutritionfacts.org/audio/bananas-in-smoothies/",
+  "UpdatedAt": "2024-03-07T08:00:44+00:00",
+  "Description": {
+    "Html": "<p>Enzymes in bananas can partially destroy a class of nutrients found in berries.</p>",
+    "Text": "Enzymes in bananas can partially destroy a class of nutrients found in berries."
+  },
+  "CoverImage": {
+    "Urls": [
+      "https://assets.nutritionfacts.org/2024/01/378-960x960.jpeg",
+      "https://assets.nutritionfacts.org/2024/01/378-1024x1024.jpeg",
+      "https://assets.nutritionfacts.org/2024/01/378-768x768.jpeg",
+      "https://assets.nutritionfacts.org/2024/01/378-500x500.jpeg",
+      "https://assets.nutritionfacts.org/2024/01/378-720x720.jpeg",
+      "https://assets.nutritionfacts.org/2024/01/378-540x540.jpeg",
+      "https://assets.nutritionfacts.org/2024/01/378.jpeg"
+    ]
+  },
+  "Duration": "14:38",
+  "Download": {
+    "Url": "https://media.blubrry.com/nutritionfactswithdrgreger/assets.nutritionfacts.org/2024/01/NF-EP-378-Bananas-in-Smoothies.mp3",
+    "Size": {
+      "Value": "33.5",
+      "Unit": "MB"
+    }
+  },
+  "Transcript": null
+}
