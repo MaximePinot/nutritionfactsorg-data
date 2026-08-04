@@ -37,15 +37,11 @@
             "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\+\\d{2}:\\d{2}$"
         },
         "Author": {
-            "oneOf": [
-                {
-                    "type": "string",
-                    "minLength": 1,
-                    "enum": [
-                        "Michael Greger M.D. FACLM",
-                        "Kristine Dennis PhD, MPH"
-                    ]
-                }
+            "type": "string",
+            "minLength": 1,
+            "enum": [
+                "Michael Greger M.D. FACLM",
+                "Kristine Dennis PhD, MPH"
             ]
         },
         "Volume": {
