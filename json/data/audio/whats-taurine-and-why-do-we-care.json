@@ -8,13 +8,13 @@
   },
   "CoverImage": {
     "Urls": [
-      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-500x500.png",
-      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-720x720.png",
-      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-540x540.png",
-      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484.png",
-      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-960x960.png",
       "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-1024x1024.png",
-      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-768x768.png"
+      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-500x500.png",
+      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-540x540.png",
+      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-720x720.png",
+      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-768x768.png",
+      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484-960x960.png",
+      "https://assets.nutritionfacts.org/2026/01/batch-47-podcast-484.png"
     ]
   },
   "Duration": "10:38",
