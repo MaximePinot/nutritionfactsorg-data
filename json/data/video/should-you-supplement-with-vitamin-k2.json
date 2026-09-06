@@ -15,6 +15,14 @@
   "Transcript": "Vitamin K. Wait, I know about vitamins A, B, C, D, and E, but what happened to vitamins F, G, H, I, and J? It’s not alphabetical. Vitamin K stands for coagulation––or at least it does in German. That is the fundamental role vitamin K plays in helping the blood to clot. But over the last few decades, there is evidence it has other roles in the health of our bones, heart, and brain. It kind of reminds me of vitamin D. We know vitamin D is important for bone health, but then there have been all sorts of other controversial functions ascribed to it, some of which have been proven and some disproven. What about vitamin K? For bone health, for example, is the link between vitamin K and osteoporosis myth or reality?\nIt turns out the findings on vitamin K and bone are conflicting and unclear. It doesn’t help that some of the major trials were found to be problematic to say the least, as in “likely fraudulent,” containing “impossible data,” with investigators admitting to complete fabrication. And so, if you do a systematic review eliminating any fraud, we find that there is no evidence that vitamin K supplementation affects bone mineral density or vertebral fractures.\nWhat about the heart? Researchers studied vitamin K supplementation for the prevention of cardiovascular disease. There is a vitamin K-activated protein in your blood that binds up excess calcium, and helps prevent calcium from being deposited into the walls of your arteries and stiffening them. So, if you give people extra vitamin K, will that protect people’s arteries from calcification? It sounds good in theory, but no; vitamin K does not appear to consistently prevent progression of calcification, atherosclerosis, or arterial stiffness.\nFor example, artery calcification is particularly common in patients with chronic kidney disease, which can lead to increased artery stiffness, which is an important risk factor for heart attacks and strokes. An earlier trial didn’t find any benefit on coronary artery calcification between the vitamin K and placebo groups, but they were using kind of a small dose. So, these trials used a whopping dose daily for a year and…nada. Vitamin K supplementation did not improve vascular stiffness or other measures of artery health. In fact, one study on the effect of vitamin K supplementation on artery calcification in patients with diabetes found that calcification tended to increase after supplementation with a type of vitamin K found in a slimy fermented soy food called natto.\nNow, those with higher levels of vitamin K circulating in their bloodstreams do tend to have lower levels of inflammation, but it’s no wonder. Where is vitamin K found? The predominant dietary form of vitamin K in the human diet comes from dark green leafy vegetables and cruciferous vegetables. So, how did people get high levels in their blood? Eating broccoli. Those with higher levels of vitamin K in their blood were eating more vegetables and less meat. No wonder they had lower levels of inflammation.\nThe recommended adequate daily intake for vitamin K is set at 70 micrograms a day in Europe, and between 90 and 120 micrograms a day here in the United States. Just two leaves of kale has over 70 micrograms. And a quarter cup of cooked kale will get anyone all the Vitamin K they need for the day.\nNow, there is vitamin K found in meat, dairy, eggs, averaging about 5 to 10 micrograms per serving. In other words, they are even beaten out by iceberg lettuce, which is mostly water, but still contains about two to three times more vitamin K. Ah, but that’s vitamin K1, and what is found in animal products is mostly vitamin K2. Do you need vitamin K2? Apparently not. Once you get enough plant-based vitamin K1, there’s no established requirement for vitamin K2, because it hasn’t been proven that vitamin K2 has effects that are different from vitamin K1. They both act the same way in the body; thus, there’s not even enough data to take vitamin K2 into account at all. So, when the recommended adequate daily intakes are set, they’re only talking about getting enough vitamin K1 from plants––mostly green vegetables.\nIn fact, most of the bone trials that flopped used the Vitamin K2 found in animal products, and most of the failed heart studies used vitamin K2 as well. Okay, but even though there is presently a lack of randomized trial evidence to support a beneficial role for vitamin K in preventing the worsening of cardiovascular disease, or bone health, what if that were to change? What if all the sudden vitamin K2 was shown to have some unique benefits? Well, guess what? The bacteria in your gut make vitamin K2. That’s why fermented foods have vitamin K2. Bacteria make it. And the bacteria in your gut not only make it, but it gets absorbed from your colon up into your system, contributing a significant amount of the human vitamin K requirement just in case you miss a couple days of greens.\nVitamin K1 is made by plants, and is the primary dietary form. Then there are a dozen or so types of vitamin K2, which are synthesized by bacteria, including several types in the human gut. The exception, though, is a type of Vitamin K2 called menaquinone 4––MK4––which is endogenously synthesized in mammals, and therefore is found in animal products. Now, I don’t know if any of you noticed, but we’re mammals too. It has consistently been shown that vitamin K1 from greens is endogenously converted inside your body to the vitamin K2 in animal products. You’re made out of meat too, though it took until 2010 before we discovered the human biosynthetic enzyme that does it. So, there’s no reason at all to take any sort of vitamin K supplement. Eat your greens. In fact, when vitamin K2 supplements were looked at, researchers found significant problems in terms of contaminants and mislabeling. Eat your greens.\nNow, vitamin K2 appears in higher concentrations in certain tissues, including the brain. Again, we make vitamin K2 from the vitamin K1 we eat in greens, but maybe extra vitamin K2 might help? If you measure vitamin K levels in the blood and brains of centenarians (those who live to at least 100), concentrations of circulating vitamin K1 from vegetables, but not cerebral vitamin K2—not the vitamin K2 in the brain—was positively correlated with a wide range of cognitive measures. Why? Likely because they were eating green vegetables, and green vegetables don’t just have vitamin K. Green leafy vegetables are the most concentrated source of lutein, the eye health nutrient that’s taken up into the brain, and is associated with cognitive performance across the lifespan. And so, in these centenarians, circulating vitamin K1 and lutein concentrations were highly correlated. So, it’s hard to tease out exactly what in greens was so beneficial. It’s like when you see data showing lower circulating vitamin K1 levels in the blood stream are associated with increased risk of all-cause mortality. This means lower vitamin K1 levels were correlated with a shorter lifespan. Well duh; vitamin K1 is found in greens, and of all the dietary components correlating with all-cause mortality, the best evidence appears to support the intake of green leafy vegetables and salads to reduce all-cause mortality. In other words, eat your greens.",
   "Sources": [
     {
+      "Title": "Palermo A, Tuccinardi D, D'Onofrio L, et al. Vitamin K and osteoporosis: Myth or reality?. Metabolism. 2017;70:57-71.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28403946/"
+    },
+    {
+      "Title": "Grey A, Avenell A, Bolland M. Revised Meta-analysis of Vitamin K and Fractures. JAMA Intern Med. 2018;178(8):1135.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30083732/"
+    },
+    {
       "Title": "Alpert JS. Concerns About the Integrity of Ishida Y, Kawai S. Am J Med. 2004;117:549-555: The Reply. Am J Med. 2020;133(6):e315.",
       "Url": "https://pubmed.ncbi.nlm.nih.gov/32532373/"
     },
@@ -23,68 +31,12 @@
       "Url": "https://pubmed.ncbi.nlm.nih.gov/32532372/"
     },
     {
-      "Title": "Braam L, McKeown N, Jacques P, et al. Dietary phylloquinone intake as a potential marker for a heart-healthy dietary pattern in the Framingham Offspring cohort. J Am Diet Assoc. 2004;104(9):1410-4.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/15354158/"
-    },
-    {
-      "Title": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA), Turck D, Bresson JL, et al. Dietary reference values for vitamin K. EFSA J. 2017;15(5):e04780.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/32625486/"
-    },
-    {
-      "Title": "Elder SJ, Haytowitz DB, Howe J, Peterson JW, Booth SL. Vitamin k contents of meat, dairy, and fast food in the U.S. Diet. J Agric Food Chem. 2006;54(2):463-7.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/16417305/"
-    },
-    {
-      "Title": "Grey A, Avenell A, Bolland M. Revised Meta-analysis of Vitamin K and Fractures. JAMA Intern Med. 2018;178(8):1135.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/30083732/"
-    },
-    {
-      "Title": "Institute of Medicine (US) Panel on Micronutrients. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. Washington (DC): National Academies Press (US); 2001.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/25057538/"
-    },
-    {
-      "Title": "Karl JP, Fu X, Wang X, et al. Fecal menaquinone profiles of overweight adults are associated with gut microbiota composition during a gut microbiota-targeted dietary intervention. Am J Clin Nutr. 2015;102(1):84-93.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/26016865/"
-    },
-    {
-      "Title": "Kwok CS, Gulati M, Michos ED, et al. Dietary components and risk of cardiovascular disease and all-cause mortality: a review of evidence from meta-analyses. Eur J Prev Cardiol. 2019;26(13):1415-29.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/30971126/"
-    },
-    {
-      "Title": "McCann A, Jeffery IB, Ouliass B, et al. Exploratory analysis of covariation of microbiota-derived vitamin K and cognition in older adults. Am J Clin Nutr. 2019;110(6):1404-15.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/31518386/"
-    },
-    {
-      "Title": "Mott A, Bradley T, Wright K, et al. Effect of vitamin K on bone mineral density and fractures in adults: an updated systematic review and meta-analysis of randomised controlled trials [published correction appears in Osteoporos Int. 2020 Nov;31(11):2269-2270]. Osteoporos Int. 2019;30(8):1543-59.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/31076817/"
-    },
-    {
-      "Title": "Nakagawa K, Hirota Y, Sawada N, et al. Identification of UBIAD1 as a novel human menaquinone-4 biosynthetic enzyme. Nature. 2010;468(7320):117-21.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/20953171/"
-    },
-    {
-      "Title": "Palermo A, Tuccinardi D, D'Onofrio L, et al. Vitamin K and osteoporosis: Myth or reality?. Metabolism. 2017;70:57-71.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/28403946/"
-    },
-    {
       "Title": "Sato Y, Honda Y, Iwamoto J. RETRACTED: Etidronate for fracture prevention in amyotrophic lateral sclerosis: A randomized controlled trial [retraction of: Bone. 2006 Nov;39(5):1080-1086]. Bone. 2018;106:214.",
       "Url": "https://pubmed.ncbi.nlm.nih.gov/29150014/"
     },
     {
-      "Title": "Shea MK, Barger K, Booth SL, et al. Vitamin K status, cardiovascular disease, and all-cause mortality: a participant-level meta-analysis of 3 US cohorts. Am J Clin Nutr. 2020;111(6):1170-7.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/32359159/"
-    },
-    {
-      "Title": "Shea MK, Booth SL, Massaro JM, et al. Vitamin K and vitamin D status: associations with inflammatory markers in the Framingham Offspring Study. Am J Epidemiol. 2008;167(3):313-20.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/18006902/"
-    },
-    {
-      "Title": "Szterk A, Bus K, Zmysłowski A, Ofiara K. Analysis of Menaquinone-7 Content and Impurities in Oil and Non-Oil Dietary Supplements. Molecules. 2018;23(5):1056.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/29724016/"
-    },
-    {
-      "Title": "Tanprasertsuk J, Ferland G, Johnson MA, et al. Concentrations of Circulating Phylloquinone, but Not Cerebral Menaquinone-4, Are Positively Correlated with a Wide Range of Cognitive Measures: Exploratory Findings in Centenarians. J Nutr. 2020;150(1):82-90.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/31504672/"
+      "Title": "Mott A, Bradley T, Wright K, et al. Effect of vitamin K on bone mineral density and fractures in adults: an updated systematic review and meta-analysis of randomised controlled trials [published correction appears in Osteoporos Int. 2020 Nov;31(11):2269-2270]. Osteoporos Int. 2019;30(8):1543-59.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31076817/"
     },
     {
       "Title": "Vlasschaert C, Goss CJ, Pilkey NG, McKeown S, Holden RM. Vitamin K Supplementation for the Prevention of Cardiovascular Disease: Where Is the Evidence? A Systematic Review of Controlled Trials. Nutrients. 2020;12(10):2909.",
@@ -97,6 +49,54 @@
     {
       "Title": "Zwakenberg SR, de Jong PA, Bartstra JW, et al. The effect of menaquinone-7 supplementation on vascular calcification in patients with diabetes: a randomized, double-blind, placebo-controlled trial. Am J Clin Nutr. 2019;110(4):883-90.",
       "Url": "https://pubmed.ncbi.nlm.nih.gov/31387121/"
+    },
+    {
+      "Title": "Shea MK, Booth SL, Massaro JM, et al. Vitamin K and vitamin D status: associations with inflammatory markers in the Framingham Offspring Study. Am J Epidemiol. 2008;167(3):313-20.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18006902/"
+    },
+    {
+      "Title": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA), Turck D, Bresson JL, et al. Dietary reference values for vitamin K. EFSA J. 2017;15(5):e04780.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32625486/"
+    },
+    {
+      "Title": "Braam L, McKeown N, Jacques P, et al. Dietary phylloquinone intake as a potential marker for a heart-healthy dietary pattern in the Framingham Offspring cohort. J Am Diet Assoc. 2004;104(9):1410-4.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/15354158/"
+    },
+    {
+      "Title": "Institute of Medicine (US) Panel on Micronutrients. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. Washington (DC): National Academies Press (US); 2001.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25057538/"
+    },
+    {
+      "Title": "Elder SJ, Haytowitz DB, Howe J, Peterson JW, Booth SL. Vitamin k contents of meat, dairy, and fast food in the U.S. Diet. J Agric Food Chem. 2006;54(2):463-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16417305/"
+    },
+    {
+      "Title": "Karl JP, Fu X, Wang X, et al. Fecal menaquinone profiles of overweight adults are associated with gut microbiota composition during a gut microbiota-targeted dietary intervention. Am J Clin Nutr. 2015;102(1):84-93.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26016865/"
+    },
+    {
+      "Title": "Nakagawa K, Hirota Y, Sawada N, et al. Identification of UBIAD1 as a novel human menaquinone-4 biosynthetic enzyme. Nature. 2010;468(7320):117-21.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20953171/"
+    },
+    {
+      "Title": "Szterk A, Bus K, Zmysłowski A, Ofiara K. Analysis of Menaquinone-7 Content and Impurities in Oil and Non-Oil Dietary Supplements. Molecules. 2018;23(5):1056.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29724016/"
+    },
+    {
+      "Title": "McCann A, Jeffery IB, Ouliass B, et al. Exploratory analysis of covariation of microbiota-derived vitamin K and cognition in older adults. Am J Clin Nutr. 2019;110(6):1404-15.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31518386/"
+    },
+    {
+      "Title": "Tanprasertsuk J, Ferland G, Johnson MA, et al. Concentrations of Circulating Phylloquinone, but Not Cerebral Menaquinone-4, Are Positively Correlated with a Wide Range of Cognitive Measures: Exploratory Findings in Centenarians. J Nutr. 2020;150(1):82-90.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/31504672/"
+    },
+    {
+      "Title": "Shea MK, Barger K, Booth SL, et al. Vitamin K status, cardiovascular disease, and all-cause mortality: a participant-level meta-analysis of 3 US cohorts. Am J Clin Nutr. 2020;111(6):1170-7.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32359159/"
+    },
+    {
+      "Title": "Kwok CS, Gulati M, Michos ED, et al. Dietary components and risk of cardiovascular disease and all-cause mortality: a review of evidence from meta-analyses. Eur J Prev Cardiol. 2019;26(13):1415-29.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30971126/"
     }
   ],
   "Acknowledgements": "Motion graphics by Avo Media",

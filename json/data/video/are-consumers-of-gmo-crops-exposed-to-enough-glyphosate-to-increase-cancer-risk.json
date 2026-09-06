@@ -18,44 +18,44 @@
   "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nGlyphosate exposure can occur from a range of sources, including occupational users, those who actually apply the herbicide. If you live with someone who uses it at work, you could experience “take-home” exposures, when glyphosate goes home with them on their clothes and skin. and, of course, you can be exposed if you live near farmland where glyphosate is used or walk through a recently sprayed area.\nFor most people, though, the main route of exposure is likely food. And it’s not just from RoundUp Ready-corn and soy any more. Glyphosate is now commonly used as a harvest aid on wheat, barley, edible beans, and a few other crops in northern U.S. states, as well as in much of northern Europe. Because glyphosate is applied within days of harvest, this results in much higher residues on those foods.\nBut even with these newer applications of glyphosate on food crops, according to a review by four independent expert panels, exposures of the general public are three or more orders of magnitude less than the U.S. Environmental Protection Agency’s limit of 1.75 mg/kg/day, as well as stricter limits like those in Europe of 0.5 mg/kg/day. Hmmmm. But wait. Turns out these so-called “independent expert panels” didn’t fully disclose their conflict of interests and were employed by Monsanto, the company that sells both the seeds of the glyphosate-resistant crops, and the herbicides used on those crops. The editor-in-chief of the journal recommended readers take this context into account.\nOkay. Let’s look at a source from the “other side,” which included an author who had worked for a law firm that brought some of the lawsuits against Monsanto. He at least disclosed his affiliation.\nTheir take: current glyphosate EPA limits should be reduced 10-fold to 0.175 mg/kg/day, bringing the value beneath the stricter level used by the European Union and closer to that recommended by multiple research groups. But they acknowledge that the vast majority of human urine samples collected from herbicide workers, so some of the most highly exposed people, still fall well below this level. They argue this would provide a 10-fold safety margin given there aren’t reliable data showing no risk to children. So, both Monsanto and anti-Monsanto scientists agree that current exposures levels are within safety limits, even if they disagree on exactly what the number should be.\nBut wait. All of those estimates are based on the assumption that human dietary absorption is the same as rat absorption, which is all we had to go off of, until now. Here’s one of the key papers: “Urine glyphosate level as a quantitative biomarker of oral exposure.” Twelve human participants consumed a test meal of homemade falafel with a known amount of glyphosate. The falafel’s ingredients met all the legal requirements, and the authors clearly note – the food was not spiked with glyphosate. Over the next two days, they measured the participants urine and found it contained 0.5 to 1.5% of the glyphosate they consumed. That is much lower than the 20% assumed to be excreted based on animal studies, meaning all those studies using urine measures of glyphosate to estimate intake could be wrong. So, human glyphosate intake levels may be 20 times higher than previously thought, though if they’re 20 times less likely to absorb it, does it matter?\nUsing the human data for humans instead of rat data and the European limit of 0.5mg/kg bw/day, in non-occupationally exposed populations, the max exposure levels are still only about 1 to 6% of the purported acceptable intake level. Two studies were way above that, but one was a study investigating aerial spraying in Columbia, and the other was of people living in an agricultural district in Sri Lanka.\nThe studies finding higher rates of non-Hodgkin’s lymphoma developing 15 or 20 years after exposure were those exposed to the highest reported levels, not necessarily among consumers exposed to it mainly through food. Cancer isn’t the only concern though. Could low-level exposures create other health risks? I’ll cover that next.\nPlease consider volunteering to help out on the site.",
   "Sources": [
     {
-      "Title": "Benbrook CM. Trends in glyphosate herbicide use in the United States and globally. Environ Sci Eur. 2016;28(1):3.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/27752438/"
-    },
-    {
-      "Title": "Connolly A, Coggins MA, Koch HM. Human Biomonitoring of Glyphosate Exposures: State-of-the-Art and Future Research Challenges. Toxics. 2020;8(3):60.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/32824707/"
-    },
-    {
       "Title": "Connolly A, Koch HM. Invited Perspective: The Continuing Debate-Is Glyphosate a Problem, and Can an Organic Diet Protect Us from Exposures?. Environ Health Perspect. 2023;131(7):71304.",
       "Url": "https://pubmed.ncbi.nlm.nih.gov/37493358/"
-    },
-    {
-      "Title": "Davoren MJ, Schiestl RH. Glyphosate-based herbicides and cancer risk: a post-IARC decision review of potential mechanisms, policy and avenues of research. Carcinogenesis. 2018;39(10):1207-1215.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/30060078/"
-    },
-    {
-      "Title": "Expression of Concern - 26 September 2018. Crit Rev Toxicol. 2018;48(10):891-891.",
-      "Url": "https://www.tandfonline.com/doi/full/10.1080/10408444.2018.1522786"
-    },
-    {
-      "Title": "Expression of Concern-- 30 November 2018. Crit Rev Toxicol. 2018;48(10):903-903.",
-      "Url": "https://www.tandfonline.com/doi/full/10.1080/10408444.2018.1539570"
-    },
-    {
-      "Title": "Kabat GC, Price WJ, Tarone RE. On recent meta-analyses of exposure to glyphosate and risk of non-Hodgkin's lymphoma in humans. Cancer Causes Control. 2021;32(4):409-414.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/33447891/"
     },
     {
       "Title": "Muñoz JP, Silva-Pavez E, Carrillo-Beltrán D, Calaf GM. Occurrence and exposure assessment of glyphosate in the environment and its impact on human beings. Environ Res. 2023;231(Pt 3):116201.",
       "Url": "https://pubmed.ncbi.nlm.nih.gov/37209985/"
     },
     {
+      "Title": "Benbrook CM. Trends in glyphosate herbicide use in the United States and globally. Environ Sci Eur. 2016;28(1):3.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27752438/"
+    },
+    {
       "Title": "Williams GM, Aardema M, Acquavella J, et al. A review of the carcinogenic potential of glyphosate by four independent expert panels and comparison to the IARC assessment. Crit Rev Toxicol. 2016;46(sup1):3-20.",
       "Url": "https://pubmed.ncbi.nlm.nih.gov/27677666/"
     },
     {
+      "Title": "Expression of Concern-- 30 November 2018. Crit Rev Toxicol. 2018;48(10):903-903.",
+      "Url": "https://www.tandfonline.com/doi/full/10.1080/10408444.2018.1539570"
+    },
+    {
+      "Title": "Expression of Concern - 26 September 2018. Crit Rev Toxicol. 2018;48(10):891-891.",
+      "Url": "https://www.tandfonline.com/doi/full/10.1080/10408444.2018.1522786"
+    },
+    {
+      "Title": "Davoren MJ, Schiestl RH. Glyphosate-based herbicides and cancer risk: a post-IARC decision review of potential mechanisms, policy and avenues of research. Carcinogenesis. 2018;39(10):1207-1215.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30060078/"
+    },
+    {
       "Title": "Zoller O, Rhyn P, Zarn JA, Dudler V. Urine glyphosate level as a quantitative biomarker of oral exposure. Int J Hyg Environ Health. 2020;228:113526.",
       "Url": "https://pubmed.ncbi.nlm.nih.gov/32305862/"
+    },
+    {
+      "Title": "Connolly A, Coggins MA, Koch HM. Human Biomonitoring of Glyphosate Exposures: State-of-the-Art and Future Research Challenges. Toxics. 2020;8(3):60.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32824707/"
+    },
+    {
+      "Title": "Kabat GC, Price WJ, Tarone RE. On recent meta-analyses of exposure to glyphosate and risk of non-Hodgkin's lymphoma in humans. Cancer Causes Control. 2021;32(4):409-414.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/33447891/"
     }
   ],
   "Acknowledgements": "Motion graphics by Avo Media",

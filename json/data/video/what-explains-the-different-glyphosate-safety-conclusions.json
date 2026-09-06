@@ -18,60 +18,60 @@
   "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe International Agency for Research on Cancer, also known as IARC, is the official World Health Organization body that identifies what is and is not carcinogenic. When its 2015 report concluded glyphosate was “probably carcinogenic to humans,” what implications did that have for glyphosate regulation?\nFirst, we have to consider a couple differences between what IARC concludes and what ultimately occurs with regulation. IARC is focused on whether glyphosate is a hazard – whether it has the capability of causing cancer – not necessarily what risk there is from the hazard. You can think of it this way: we know smoking can cause cancer, but if you don’t smoke and are not exposed to secondhand smoke, you don’t have any risk from smoking. The extent and intensity of exposure are what contributes the level of risk.\nIARC assessments do not include recommendations for regulatory or legislative decisions. On the other hand, the European Food Safety Authority issues advice on food risks which informs European policies.\nHow did IARC’s evaluation of glyphosate differ from the European Food Safety Authority’s? Some scientists contend that the IARC’s was, in fact, a more rigorous evaluation as it relied solely on publicly available, peer-reviewed data to make the assessment, while European regulators factored in proprietary information from industry that’s not available to the wider scientific community. Scientific divergences may result from different sets of evidence, different approaches and methods, or different interpretations when weighing ambiguous results. And that seems to be a big part of what is at play here.\nBut there are also issues that corrupt the regulatory process like “revolving doors” between a regulatory authority and the very industry it is meant to regulate; reliance for safety data from unpublished industry documents, while largely ignoring publications by independent scientists; and covert influence by the industry. While EFSA has tried to address this with a new policy on independence, the same month that its policy came out, it was found that nearly half the experts at the EFSA had conflicts of interest.\nWith that in mind, let’s get back to the science. IARC considered the association between exposure to glyphosate and non-Hodgkin lymphoma as “limited evidence in humans,” while in EFSA’s assessment, most experts considered the evidence as “very limited” and insufficient for triggering the classification. Despite the limited human evidence, IARC considered the animal data along with strong evidence for two mechanisms, genotoxicity—the ability to damage DNA–and oxidative stress, to be enough to support the plausibility of the weak association in humans.\nGlyphosate was up for re-registration in the European Union in 2018. The decision had to consider both hazard-based (like IARC) and risk-based analysis (like EFSA). While IARC’s assessment may not be suitable to calculate practical significances, a risk-based analysis can be challenged if exposure estimates are uncertain.\nUltimately, the U.S. Environmental Protection Agency, EFSA, and others concluded that glyphosate is unlikely to cause cancer and suggested increasing its Acceptable Daily Intake value from 0.3 to 0.5 mg/kg b.w. within the E.U. despite IARCs conclusions. The Acceptable Daily Intake in the U.S. is about triple that, at 1.75mg/kg bw. In 2023, the European Commission reapproved glyphosate use for another 10 years.\nLet’s circle back to the exposure question. Glyphosate-based herbicides are the most commonly-used herbicide class worldwide, accounting for more than half of agricultural herbicide use in the U.S. alone. Nearly 93% of the U.S. soy crop and 85% of the U.S. corn crop are treated with glyphosate-based herbicides. To give a sense of that scale, that means more than 250 million pounds (113,400 metric tons) of glyphosate are applied each year to cropland in the United States alone. And it goes beyond soy and corn, including things like wheat, cotton, and fruits and vegetables.\nIn Europe, glyphosate is used on up to 50% of crops, including olives, grapes, apples, and citrus. As glyphosate is used more, this leads to more weeds that develop resistance to glyphosate, fueling more spraying and ultimately creating a vicious cycle of more spraying, resulting in more resistance, resulting in more spraying. Farmers are now using greater amounts of glyphosates than before, at more time points during year, and in new roles, such as preharvest desiccation, where they spray glyphosate on a crop like wheat, killing the plants and allowing the wheat to be harvested sooner. The long-term effects of this increased use are unclear.\nMore glyphosate is being used worldwide than ever, but how much is actually getting into our bodies? We’ll find out, next.\nPlease consider volunteering to help out on the site.",
   "Sources": [
     {
-      "Title": "Abrams SA, Albin JL, Landrigan PJ, COMMITTEE ON NUTRITION, COUNCIL ON ENVIRONMENTAL HEALTH AND CLIMATE CHANGE. Use of Genetically Modified Organism (GMO)-Containing Food Products in Children. Pediatrics. 2024;153(1):e2023064774.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/38073334/"
-    },
-    {
-      "Title": "Casassus B. EU allows use of controversial weedkiller glyphosate for 10 more years. Nature. 2023.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/37978275/"
-    },
-    {
-      "Title": "Davoren MJ, Schiestl RH. Glyphosate-based herbicides and cancer risk: a post-IARC decision review of potential mechanisms, policy and avenues of research. Carcinogenesis. 2018;39(10):1207-1215.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/30060078/"
-    },
-    {
-      "Title": "Estimated Annual Agricultural Pesticide Use. U.S. Geological Survey. March 4, 2019.",
-      "Url": "https://www.usgs.gov/tools/estimated-annual-agricultural-pesticide-use"
-    },
-    {
-      "Title": "European Food Safety Authority — EFSA. European Union.",
-      "Url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies/european-food-safety-authority-efsa_en"
-    },
-    {
-      "Title": "Finger R, Möhring N, Kudsk P. Glyphosate ban will have economic impacts on European agriculture but effects are heterogenous and uncertain. Commun Earth Environ. 2023;4(1):286.",
-      "Url": "https://www.nature.com/articles/s43247-023-00951-x"
-    },
-    {
       "Title": "IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. Some Organophosphate Insecticides and Herbicides. Lyon (FR): International Agency for Research on Cancer; 2017. (IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, No. 112.)",
       "Url": "https://www.ncbi.nlm.nih.gov/books/NBK436774/"
     },
     {
-      "Title": "Lacroix R, Kurrasch DM. Glyphosate Toxicity: In Vivo, In Vitro, and Epidemiological Evidence. Toxicol Sci. 2023.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/36857578/"
-    },
-    {
-      "Title": "Landrigan PJ, Belpoggi F. The need for independent research on the health effects of glyphosate-based herbicides. Environ Health. 2018;17(1):51.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/29843729/"
-    },
-    {
-      "Title": "Novotny E. Glyphosate, Roundup and the Failures of Regulatory Assessment. Toxics. 2022;10(6):321.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/35736929/"
-    },
-    {
-      "Title": "Portier CJ, Armstrong BK, Baguley BC, et al. Differences in the carcinogenic evaluation of glyphosate between the International Agency for Research on Cancer (IARC) and the European Food Safety Authority (EFSA). J Epidemiol Community Health. 2016;70(8):741-745.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/26941213/"
-    },
-    {
-      "Title": "Székács A, Darvas B. Re-registration challenges of glyphosate in the european union. Front Environ Sci. 2018;6:78.",
-      "Url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2018.00078/full"
+      "Title": "Tarone RE. On the International Agency for Research on Cancer classification of glyphosate as a probable human carcinogen. Eur J Cancer Prev. 2018;27(1):82-87.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27552246/"
     },
     {
       "Title": "Tarazona JV, Court-Marques D, Tiramani M, et al. Glyphosate toxicity and carcinogenicity: a review of the scientific basis of the European Union assessment and its differences with IARC. Arch Toxicol. 2017;91(8):2723-2743.",
       "Url": "https://pubmed.ncbi.nlm.nih.gov/28374158/"
     },
     {
-      "Title": "Tarone RE. On the International Agency for Research on Cancer classification of glyphosate as a probable human carcinogen. Eur J Cancer Prev. 2018;27(1):82-87.",
-      "Url": "https://pubmed.ncbi.nlm.nih.gov/27552246/"
+      "Title": "European Food Safety Authority — EFSA. European Union.",
+      "Url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies/european-food-safety-authority-efsa_en"
+    },
+    {
+      "Title": "Portier CJ, Armstrong BK, Baguley BC, et al. Differences in the carcinogenic evaluation of glyphosate between the International Agency for Research on Cancer (IARC) and the European Food Safety Authority (EFSA). J Epidemiol Community Health. 2016;70(8):741-745.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26941213/"
+    },
+    {
+      "Title": "Davoren MJ, Schiestl RH. Glyphosate-based herbicides and cancer risk: a post-IARC decision review of potential mechanisms, policy and avenues of research. Carcinogenesis. 2018;39(10):1207-1215.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30060078/"
+    },
+    {
+      "Title": "Novotny E. Glyphosate, Roundup and the Failures of Regulatory Assessment. Toxics. 2022;10(6):321.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35736929/"
+    },
+    {
+      "Title": "Székács A, Darvas B. Re-registration challenges of glyphosate in the european union. Front Environ Sci. 2018;6:78.",
+      "Url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2018.00078/full"
+    },
+    {
+      "Title": "Landrigan PJ, Belpoggi F. The need for independent research on the health effects of glyphosate-based herbicides. Environ Health. 2018;17(1):51.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29843729/"
+    },
+    {
+      "Title": "Casassus B. EU allows use of controversial weedkiller glyphosate for 10 more years. Nature. 2023.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/37978275/"
+    },
+    {
+      "Title": "Estimated Annual Agricultural Pesticide Use. U.S. Geological Survey. March 4, 2019.",
+      "Url": "https://www.usgs.gov/tools/estimated-annual-agricultural-pesticide-use"
+    },
+    {
+      "Title": "Finger R, Möhring N, Kudsk P. Glyphosate ban will have economic impacts on European agriculture but effects are heterogenous and uncertain. Commun Earth Environ. 2023;4(1):286.",
+      "Url": "https://www.nature.com/articles/s43247-023-00951-x"
+    },
+    {
+      "Title": "Lacroix R, Kurrasch DM. Glyphosate Toxicity: In Vivo, In Vitro, and Epidemiological Evidence. Toxicol Sci. 2023.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36857578/"
+    },
+    {
+      "Title": "Abrams SA, Albin JL, Landrigan PJ, COMMITTEE ON NUTRITION, COUNCIL ON ENVIRONMENTAL HEALTH AND CLIMATE CHANGE. Use of Genetically Modified Organism (GMO)-Containing Food Products in Children. Pediatrics. 2024;153(1):e2023064774.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38073334/"
     }
   ],
   "Acknowledgements": "Motion graphics by Avo Media",
