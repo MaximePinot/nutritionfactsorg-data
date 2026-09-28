@@ -1,0 +1,108 @@
+{
+  "Title": "Common Meds Like Ibuprofen (NSAIDs) May Turn Temporary Pain into Chronic Pain",
+  "Url": "https://nutritionfacts.org/video/common-meds-like-ibuprofen-nsaids-may-turn-temporary-pain-into-chronic-pain/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/nzjO-C7I26g"
+  },
+  "UpdatedAt": "2026-09-28T11:50:58+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": null,
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "Inflammation can actually protect against the development of chronic pain.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nMost recent clinical practice guidelines recommend NSAIDs, like ibuprofen, for the management of both acute and chronic low back pain, even though their effect is less than half what would be considered clinically relevant pain relief. Compared to placebo, NSAIDs reduce pain in acute and chronic back pain by only about seven points, on a scale from 0 to 100, which is “unlikely to be of real-world benefit.” The minimum change to be considered clinically relevant for chronic low back pain is 20 points, far from 7. Given the risk of gastrointestinal, liver, heart, and kidney toxicity from NSAIDs, it hardly seems worth it, especially since they may make you more likely to end up a chronic pain patient. Let me explain these new findings.\nJust like the irony that treating depression with antidepressants may actually make people more likely to be depressed in the future (compared to being treated with placebo), treating acute pain with NSAIDS may make it more likely that the pain becomes chronic. The dampening of the inflammatory healing process appears to increase the risk of transitory back pain turning into a prolonged pain problem. In other words, as a commentary in a prestigious medical journal was entitled, “Anti-inflammatory drugs could cause chronic pain.”\nIn 1794, a Scottish surgeon wrote that “inflammation in itself is not to be considered as a disease, but as a salutary operation….” Two centuries later, we started to tease out the mechanism. In reaction to tissue damage, acute inflammation is characterized by the rapid influx of white blood cells. These are our first responders. They kill germs, clean up the damage, and then initiate the inflammation termination sequence. They themselves cause the release of anti-inflammatory and reparative substances with names like resolvins and protectins. When we disrupt this finely-tuned system by preventing the recruitment and activation of these white blood cells with anti-inflammatory drugs like NSAIDs or steroids, we may prevent the proper resolution of the inflammatory process.\nThis has been demonstrated in mice. Treatment of acute pain with anti-inflammatories provides relief in the short-term, but hinders recovery in the longer term. This is consistent with the available human clinical data. If you compare patients with low back pain and who do, versus do not, go on to develop chronic pain, a critical factor appears to be whether or not the inflammation in the acute phase was suppressed. Back pain patients treated with NSAIDs appear to have a 76 percent increased risk of developing chronic back pain. No such effect was noted for painkillers like Tylenol that do not have an anti-inflammatory mechanism.\nThe routine use of anti-inflammatory medications like ibuprofen may be yet another example of well-meaning medical interventions with unintended consequences. For instance, at least half a million patients undergoing non-cardiac surgery suffer cardiovascular complications from the surgery, presumed to be due to all the stress hormones released from being cut open. So, high-risk patients were routinely given beta-blocker drugs to block adrenaline-type hormones— that is, until this practice was actually put to the test, and they were found to result in more deaths than placebo.\nAnother surgical complication is chronic postsurgical pain. Persistent pain after surgery causing substantial, chronic, functional impairment occurs after about 10 percent of all surgeries. And a study of knee replacement surgery patients found that those sent home with an NSAID prescription were significantly more likely to be on opioids months later, perhaps because the suppression of inflammation by NSAIDs led to chronic pain. So here we are giving people NSAIDS instead of opioids after surgery because we don’t want them to become addicted––yet they ultimately end up more likely to be on opioids, because the NSAIDS may be causing the acute pain to become chronic.\nWe prescribe anti-inflammatory drugs on the very premise that if we allow pain to persist, it could become chronic. But as a renowned Harvard neuroscientist noted, this new research “suggests the complete unexpected opposite, which is that the inflammation is actually helping.” In a postsurgical setting, NSAIDs are described as a “double-edged sword,” helping in the near term but counterproductively ending up resulting in more chronic pain in the long-run. But for acute back pain, the NSAID sword seems single-sided––providing no appreciable relief now, and leaving only the potential increased risk for prolonged pain. So risks without benefit––and these, if you remember, are the recommended drugs!\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Zhou T, Salman D, McGregor AH. Recent clinical practice guidelines for the management of low back pain: a global comparison. BMC Musculoskelet Disord. 2024;25(1):344.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38693474/"
+    },
+    {
+      "Title": "John Hunter, A Treatise on the Blood, Inflammation, and Gun-Shot Wounds. To Which is Prefixed, a Short Account of the Author’s Life (George Nicol, 1794), 249.",
+      "Url": "https://archive.org/details/b2144111x/mode/2up"
+    },
+    {
+      "Title": "Serhan CN, Savill J. Resolution of inflammation: the beginning programs the end. Nat Immunol. 2005;6(12):1191-1197.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16369558/"
+    },
+    {
+      "Title": "Sisignano M, Geisslinger G. Rethinking the use of NSAIDs in early acute pain. Trends Pharmacol Sci. 2023;44(4):193-195.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36707386/"
+    },
+    {
+      "Title": "Parisien M, Lima LV, Dagostino C, et al. Acute inflammatory response via neutrophil activation protects against the development of chronic pain. Sci Transl Med. 2022;14(644):eabj9954.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35544595/"
+    },
+    {
+      "Title": "Poeran J, Memtsoudis SG. Non‐steroidal anti‐inflammatory drugs in multimodal strategies: a potential double‐edged sword but still more research needed. Anaesthesia. 2024;79(7):680-684.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38502825/"
+    },
+    {
+      "Title": "Devereaux PJ, Goldman L, Cook DJ, Gilbert K, Leslie K, Guyatt GH. Perioperative cardiac events in patients undergoing noncardiac surgery: a review of the magnitude of the problem, the pathophysiology of the events and methods to estimate and communicate risk. CMAJ. 2005;173(6):627-634.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/16157727/"
+    },
+    {
+      "Title": "POISE Study Group, Devereaux PJ, Yang H, et al. Effects of extended-release metoprolol succinate in patients undergoing non-cardiac surgery (POISE trial): a randomised controlled trial. Lancet. 2008;371(9627):1839-1847.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/18479744/"
+    },
+    {
+      "Title": "Glare P, Overton S, Aubrey K. Transition from Acute to Chronic Pain: Where Cells, Systems and Society Meet. Pain Manag. 2020;10(6):421-436.",
+      "Url": "https://doi.org/10.2217/pmt-2019-0039"
+    },
+    {
+      "Title": "Hussain N, Brull R, Gilron I, et al. Association of peri‐operative prescription of non‐steroidal anti‐inflammatory drugs with continued prescription of opioids after total knee arthroplasty: a retrospective claims‐based cohort study. Anaesthesia. 2024;79(7):725-734.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38385772/"
+    },
+    {
+      "Title": "Rizzo RR, Cashin AG, Wand BM, et al. Non-pharmacological and non-surgical treatments for low back pain in adults: an overview of Cochrane reviews. Cochrane Database Syst Rev. 2025;2025(3):CD014691",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/40139265/"
+    },
+    {
+      "Title": "Lucy Odling-Smee, “Chronic Pain: The Long Road to Recovery,” Nature 615 (March 2023): 782–6.",
+      "Url": "https://www.nature.com/immersive/d41586-023-00869-6/index.html"
+    },
+    {
+      "Title": "van der Gaag WH, Roelofs PD, Enthoven WT, van Tulder MW, Koes BW. Non-steroidal anti-inflammatory drugs for acute low back pain. Cochrane Database Syst Rev. 2020;;4(4):CD013581.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32297973/"
+    },
+    {
+      "Title": "Manchikanti L, Kaye AM, Knezevic NN, et al. Responsible, Safe, and Effective Prescription of Opioids for Chronic Non-Cancer Pain: American Society of Interventional Pain Physicians (ASIPP) Guidelines. Pain Physician. 2017;20(2S):S3-S92.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28226332/"
+    },
+    {
+      "Title": "Foster NE, Anema JR, Cherkin D, et al. Prevention and treatment of low back pain: evidence, challenges, and promising directions. Lancet. 2018;391(10137):2368-2383.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29573872/"
+    },
+    {
+      "Title": "Kirsch I. Antidepressants and the Placebo Effect. Z Psychol. 2014;222(3):128-134.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25279271/"
+    },
+    {
+      "Title": "Heather Wood, “Anti-Inflammatory Drugs Could Cause Chronic Pain,” Nature Reviews. Neurology 18, no. 7 (July 2022): 382.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35610352/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "back pain",
+      "Url": "https://nutritionfacts.org/topics/back-pain/"
+    },
+    {
+      "Title": "Ibuprofen",
+      "Url": "https://nutritionfacts.org/topics/ibuprofen/"
+    },
+    {
+      "Title": "inflammation",
+      "Url": "https://nutritionfacts.org/topics/inflammation/"
+    },
+    {
+      "Title": "pain",
+      "Url": "https://nutritionfacts.org/topics/pain/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Isn’t that mind-blowing? For more, check out my new book </span><a href=\"https://nutritionfacts.org/book/how-not-to-hurt/\"><i><span style=\"font-weight: 400\">How Not to Hurt</span></i></a><span style=\"font-weight: 400\">, available now for preorders. (All proceeds received from book sales are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}
