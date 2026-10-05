@@ -1,0 +1,84 @@
+{
+  "Title": "Chiropractic Manipulation, Physical Therapy, and Exercise Therapy for Shoulder Pain Relief",
+  "Url": "https://nutritionfacts.org/video/chiropractic-manipulation-physical-therapy-and-exercise-therapy-for-shoulder-pain-relief/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/YFpGoZzonf4"
+  },
+  "UpdatedAt": "2026-10-05T11:50:25+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": null,
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How do chiropractic adjustments and physical therapy fare compared to placebo or sham interventions?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nIn my last video, I talked about the downsides of steroid injections for shoulder pain. Instead of going to a doctor who may inject you with something that can make things worse, how about going to a chiropractor? Spinal “high-velocity low-amplitude thrust” manipulation is a common chiropractic technique used for people with painful shoulders. Quick, controlled bursts of force are applied to vertebrae, often accompanied by an audible popping sound. Unfortunately, a systematic review and meta-analysis found that this offered no benefit for improving pain or function compared to sham or fake spinal manipulation.\nWhat about going to a physical therapist? The GRASP trial, which stands for Getting It Right: Addressing Shoulder Pain, is the largest, randomized, controlled trial assessing the effects of physical therapy interventions. Hundreds of patients with new-onset rotator cuff disorders were randomized to either a single in-person appointment with a physical therapist to learn a set of self-guided exercises, or a much more comprehensive physical therapy intervention of up to six face-to-face sessions. In the end, there was no difference in clinical outcomes, similar to the results found in other studies comparing supervised and unsupervised exercise for shoulder pain or other musculoskeletal disorders for that matter… suggesting more of a “one and done” approach to physical therapy sessions may be preferred.\nGiven that the “dose” of physical therapy didn’t seem to matter makes one suspicious that special exercises play any role at all in relieving shoulder pain. Indeed, when patients experiencing shoulder pain were randomized to typical physical therapy measures versus sham physical therapy, there were no significant differences in any of the measured outcomes, including pain, disability, or range of motion. That’s also what a meta-analysis of all such studies showed: no significant evidence to support the use of specific exercises over general exercises in shoulder pain rehabilitation programs. This implies that progressive physiotherapist-directed exercise programs may offer no value over simple instructions for at-home exercises.\nWithout a third do-nothing control group to compare specific shoulder pain exercises versus general exercises versus no exercises at all, we can’t even be sure there’s any benefit to exercising. Indeed, there are reasons to be skeptical. There doesn’t appear to be a dose-response effect, meaning the amount of prescribed exercise doesn’t appear to matter, nor does the type of exercise…. Any combination of exercises seems to produce, on average, the same modest results. When exercise was finally properly put to the test, the results were disappointing.\nMore than a hundred patients with rotator cuff-related shoulder pain were randomized to one of three interventions: patient education sessions involving basic information on shoulder anatomy and pain management, the same education sessions with a progressive shoulder-strengthening resistance exercise program, or the same education sessions with motor control exercises––a popular physical therapy method that involves retraining shoulder movement and coordination. And, all three groups got better at about the same rate. There appeared to be no significant benefit to adding motor control or strengthening exercises. A systematic review and meta-analysis of similar studies reached a similar conclusion. Twelve weeks of exercise therapy did not appear to offer benefits for either pain or function over a sham ultrasound placebo.\nSo, why do clinical practice guidelines consistently recommend exercise therapy as the first-line treatment for most shoulder pain? Exercise is defended as being low-cost, accessible, and “often valued” by patients who typically “want and expect exercise from their physical therapists.” More importantly, exercise is considered safer when compared to injections or surgery, which, in the long run, may work no better and also have adverse effects. It seems strange to recommend a treatment just because it’s not going to hurt you as much, even if it won’t necessarily help, but I guess no one wants to go to a doctor just to be told their ailment will get better on its own. We want to be prescribed something.\nWhat has the reaction been in the physical therapy community to the evidence that its best attempts at treating most shoulder pain may be for naught? The history of physical therapy is punctuated with failed attempts at managing musculoskeletal pain. A 2025 editorial in the physical therapy journal Physiotherapy entitled “Redefining the Role of Physiotherapy in Modern Healthcare: a Shift from Pain Relief to Functional Empowerment” concluded that rather than simplistic “symptom relief approaches,” physical therapists should focus on “promoting resilience and optimism….”\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Malliaras P, Johnston R, Street G, et al. The Efficacy of Higher Versus Lower Dose Exercise in Rotator Cuff Tendinopathy: A Systematic Review of Randomized Controlled Trials. Arch Phys Med Rehabil. 2020;101(10):1822-1834.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32682937/"
+    },
+    {
+      "Title": "Hopewell S, Keene DJ, Marian IR, et al. Progressive exercise compared with best practice advice, with or without corticosteroid injection, for the treatment of patients with rotator cuff disorders (GRASP): a multicentre, pragmatic, 2 × 2 factorial, randomised controlled trial. Lancet. 2021;398(10298):416-428.",
+      "Url": "https://doi.org/10.1016/s0140-6736(21)00846-1"
+    },
+    {
+      "Title": "Bennell K, Wee E, Coburn S, et al. Efficacy of standardised manual therapy and home exercise programme for chronic rotator cuff disease: randomised placebo controlled trial. BMJ. 2010;340(jun08 2):c2756.",
+      "Url": "https://doi.org/10.1136/bmj.c2756"
+    },
+    {
+      "Title": "Dubé M-O, Dillon S, Gallagher K, Ryan J, McCreesh K. One and Done? The Effectiveness of a Single Session of Physiotherapy Compared With Multiple Sessions to Reduce Pain and Improve Function and Quality of Life in Patients With a Musculoskeletal Disorder: A Systematic Review With Meta-analyses. Arch Phys Med Rehabil. 2024;105(6):1171-1180.",
+      "Url": "https://doi.org/10.1016/j.apmr.2023.09.017"
+    },
+    {
+      "Title": "Brindisino F, Garzonio F, Giovannico G, et al. Spinal manipulation does not improve short-term pain and function in persons with painful shoulder: a systematic review with meta-analysis. Disabil. Rehabil. 2024;46(25):6051-6068.",
+      "Url": "https://doi.org/10.1080/09638288.2024.2322025"
+    },
+    {
+      "Title": "Dubé M-O, Desmeules F, Lewis JS, Roy J-S. Does the addition of motor control or strengthening exercises to education result in better outcomes for rotator cuff-related shoulder pain? A multiarm randomised controlled trial. Br. J. Sports Med. 2023;57(8):457-463.",
+      "Url": "https://doi.org/10.1136/bjsports-2021-105027"
+    },
+    {
+      "Title": "Naranjo-Cinto F, Cerón-Cordero A-I, Figueroa-Padilla C, et al. Real versus Sham Manual Therapy in Addition to Therapeutic Exercise in the Treatment of Non-Specific Shoulder Pain: A Randomized Controlled Trial. J Clin Med. 2022;11(15):4395.",
+      "Url": "https://doi.org/10.3390/jcm11154395"
+    },
+    {
+      "Title": "Purcell K, Langridge N. Redefining the Role of Physiotherapy in Modern Healthcare: a Shift from Pain Relief to Functional Empowerment. Physiotherapy. 2025;128:101783.",
+      "Url": "https://doi.org/10.1016/j.physio.2025.101783"
+    },
+    {
+      "Title": "Buchbinder R, Haas R. Optimising treatment for patients with rotator cuff disorders. The Lancet. 2021;398(10298):369-370.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34265254/"
+    },
+    {
+      "Title": "Shire AR, Stæhr TAB, Overby JB, Bastholm Dahl M, Sandell Jacobsen J, Høyrup Christiansen D. Specific or general exercise strategy for subacromial impingement syndrome–does it matter? A systematic literature review and meta analysis. BMC Musculoskelet. Disord. 2017;18(1):158.",
+      "Url": "https://doi.org/10.1186/s12891-017-1518-0"
+    },
+    {
+      "Title": "Cavaggion C, Luque-Suarez A, Voogt L, et al. Exercise into Pain in Chronic Rotator Cuff-Related Shoulder Pain: A Randomized Controlled Trial with 6-Month Follow-Up. Open Access J Sports Med. 2024;15:181-196.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/39635498/"
+    },
+    {
+      "Title": "Powell JK, Lewis J, Schram B, Hing W. Is exercise therapy therighttreatment for rotator cuff‐related shoulder pain? Uncertainties, theory, and practice. Musculoskeletal Care. 2024;22(2):e1879.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38563603/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "How Not to Hurt",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-hurt/"
+    },
+    {
+      "Title": "pain",
+      "Url": "https://nutritionfacts.org/topics/pain/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">So much for chiropractors and physical therapists! When it comes to shoulder pain, a systematic review and meta-analysis found that common chiropractic adjustments offered </span><i><span style=\"font-weight: 400\">no benefit </span></i><span style=\"font-weight: 400\">for improving pain or function compared to sham or fake spinal manipulation, but at least a visit to the chiropractor didn’t make the underlying issue worse.</span></p>\n<p><span style=\"font-weight: 400\">Similarly, physical therapy can’t beat out fake physical therapy or even a fake ultrasound placebo. Specific shoulder pain exercises don’t appear any different than general exercises, and more exercise doesn’t seem to be superior to less. When physical therapy was pitted against a progressive shoulder-strengthening resistance exercise program, neither beat out the do-nothing control group that just got educational sessions. But, at least a visit to the physical therapist didn’t make the underlying issue worse.</span></p>\n<p><span style=\"font-weight: 400\">Unbelievably, that’s why exercise therapy is recommended in clinical practice guidelines—not because it works, but because it’s “often valued” by patients. We want to get our money’s worth and feel like our provider is giving us something. How about they give us the truth?</span></p>\n<p><span style=\"font-weight: 400\">If you’re starting to get disillusioned with the whole system, hold onto your britches, because you haven’t seen anything yet.</span><span style=\"font-weight: 400\"> </span></p>\n<p><span style=\"font-weight: 400\">This is the second in a six-part video series. If you missed the first one, check out </span><a href=\"https://nutritionfacts.org/video/steroid-injections-for-shoulder-pain-relief-may-do-more-harm-than-good/\"><span style=\"font-weight: 400\">Steroid Injections for Shoulder Pain Relief May Do More Harm Than Good</span></a><span style=\"font-weight: 400\">. Stay tuned for:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=121065\"><span style=\"font-weight: 400\">Rotator Cuff Surgery May Cause More Shoulder Pain Than Relief</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=121075\"><span style=\"font-weight: 400\">Why Do Surgeons Continue to Perform Worthless Operations?</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=121087\"><span style=\"font-weight: 400\">Preventing Rotator Cuff Shoulder Pain with Diet</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=121105\"><span style=\"font-weight: 400\">Frozen Shoulder (Adhesive Capsulitis): What It Is and How to Prevent and Treat It</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">Check out my new book</span> <a href=\"https://nutritionfacts.org/book/how-not-to-hurt/\"><i><span style=\"font-weight: 400\">How Not to Hurt</span></i></a><span style=\"font-weight: 400\">, available now for preorders. (All proceeds received from my book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}
