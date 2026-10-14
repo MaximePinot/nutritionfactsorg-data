@@ -1,0 +1,100 @@
+{
+  "Title": "Preventing Rotator Cuff Shoulder Pain with Diet",
+  "Url": "https://nutritionfacts.org/video/preventing-rotator-cuff-shoulder-pain-with-diet/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/R79of10HoGg"
+  },
+  "UpdatedAt": "2026-10-14T11:50:09+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": null,
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "What is the role of cholesterol and advanced glycation end products in shoulder health?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nAs I’ve discussed in my last few videos, it seems that current therapies for the most common forms of shoulder pain—from the simplest and most conservative to the most invasive and expensive—show no consistent differences in clinical outcomes, even when tested against placebos or simply doing nothing. In light of this lack of good treatment options, it’s worth focusing more attention on prevention.\nModifiable risk factors for rotator cuff disease include type 2 diabetes, high blood pressure, and high cholesterol. Comparing the tendons of mice, rats, and monkeys with low versus high cholesterol, researchers found decreased elasticity and increased stiffness in the tendons from animals with high cholesterol, and a similar relationship is apparent in people. Those with even mildly elevated cholesterol have been found to have significantly stiffer tendons. What does that mean in terms of clinical outcomes?\nThe increase in the likelihood of tendon tears seen in animals with high cholesterol is corroborated in people with high cholesterol, who have a sixfold higher odds of retear after surgical repair. This may be due to the role high cholesterol plays in delaying the healing process; indeed, those presenting with pain from the most commonly injured rotator cuff tendon appear to heal significantly slower if they have hyperlipidemia, meaning, for example, high LDL cholesterol or high triglycerides.\nJust as oxidized LDL can get lodged in our artery walls and trigger inflammation, it can also get trapped in our tendons and disrupt the integrity of the connective tissue. The fact that those with high cholesterol taking cholesterol statin drugs may only have as little as half the risk of developing rotator cuff disease, compared to those with high cholesterol not taking statins, bolsters the case that those with high cholesterol should try to lower it to prevent shoulder disorders.\nThe same dietary approach to lowering cholesterol would also lower exposure to another tendentious tendon culprit: advanced glycation end-products (AGEs). Appropriately acronymed, AGEs are considered “gerontotoxins,” meaning aging agents (from the Greek geros for “old age,” as in geriatric) and they are implicated in a wide spectrum of age-related diseases. AGEs have been found to adversely affect virtually all tissues and organs, but mainly accumulate in collagen, which is the main component of the rotator cuff. About 95 percent of the dry weight of tendons is straight collagen.\nBased on studies on human and animal rotator cuff tendons removed from surgery, AGEs were found to cause age-related degenerative rotator cuff changes, including a significant drop in tensile strength of tendons upon mechanical testing. The good news is that although some AGEs are produced endogenously, our greatest exposure to them is through our diet and therefore is under our control.\nThe same foods that can raise our blood cholesterol tend to be the same foods most concentrated in AGEs: cooked animal products. So whole food, plant-based diets can therefore lower both LDL cholesterol and AGE intake. Plant foods may average thirty times fewer AGEs, and the AGEs they do have appear to be less toxic than AGEs from animal foods.\nNow the way animal products are cooked can also make a difference. Moist-heat methods, like boiling or steaming, produce fewer AGEs, explaining why a single meal of broiled chicken can cause a “profound impairment” of artery function within hours compared to eating the same amount of boiled chicken. Boiled chicken still impairs arterial function within 2 hours of consumption, but significantly less than when the chicken is broiled. An “AGE Less” diet would emphasize lower AGE foods, such as fruits and vegetables, while avoiding the worst of the worst, such as bacon and hot dogs.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Green AS. mTOR, glycotoxins and the parallel universe. Aging (Albany NY). 2018;10(12):3654-3656.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30540565/"
+    },
+    {
+      "Title": "Semba RD, Nicklett EJ, Ferrucci L. Does Accumulation of Advanced Glycation End Products Contribute to the Aging Phenotype? J Gerontol A Biol Sci Med Sci. 2010;65A(9):963-975.",
+      "Url": "https://doi.org/10.1093/gerona/glq074"
+    },
+    {
+      "Title": "Uribarri J, Woodruff S, Goodman S, et al. Advanced Glycation End Products in Foods and a Practical Guide to Their Reduction in the Diet. J Am Diet Assoc. 2010;110(6):911-916.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20497781/"
+    },
+    {
+      "Title": "Beason DP, Abboud JA, Kuntz AF, Bassora R, Soslowsky LJ. Cumulative effects of hypercholesterolemia on tendon biomechanics in a mouse model. J Orthop Res. 2010;29(3):380-383.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/20939036/"
+    },
+    {
+      "Title": "Coombes BK, Hanna M, Thompson KA, et al. Mild untreated hypercholesterolaemia affects mechanical properties of the Achilles tendon but not gastrocnemius muscle. J Biomech. 2024;166:112048.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38493577/"
+    },
+    {
+      "Title": "Giri A, O’Hanlon D, Jain NB. Risk factors for rotator cuff disease: A systematic review and meta-analysis of diabetes, hypertension, and hyperlipidemia. Ann Phys Rehabil Med. 2023;66(1):101631.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35257948/"
+    },
+    {
+      "Title": "Fang WH, Bonavida V, Agrawal DK, Thankam FG. Hyperlipidemia in tendon injury: chronicles of low-density lipoproteins. Cell Tissue Res. 2023;392(2):431-442.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36738312/"
+    },
+    {
+      "Title": "Mifune Y, Inui A, Muto T, et al. Influence of advanced glycation end products on rotator cuff. J Shoulder Elbow Surg. 2019;28(8):1490-1496.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30981546/"
+    },
+    {
+      "Title": "Garcia GH, Liu JN, Wong A, et al. Hyperlipidemia increases the risk of retear after arthroscopic rotator cuff repair. J Shoulder Elbow Surg. 2017;26(12):2086-2090.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28735844/"
+    },
+    {
+      "Title": "Lin TT-L, Lin C-H, Chang C-L, Chi C-H, Chang S-T, Sheu WH-H. The Effect of Diabetes, Hyperlipidemia, and Statins on the Development of Rotator Cuff Disease. Am J Sports Med. 2015;43(9):2126-2132.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26085191/"
+    },
+    {
+      "Title": "Kim J-M, Kim M-W, Do H-J. Influence of Hyperlipidemia on the Treatment of Supraspinatus Tendinopathy With or Without Tear. Ann. Rehabil. Med. 2016;40(3):463.",
+      "Url": "https://doi.org/10.5535/arm.2016.40.3.463"
+    },
+    {
+      "Title": "Lee K-S, Park S-J, Kim D-H, et al. Hyperlipidemia and Rotator Cuff Tears: Exploring Mechanisms and Effective Treatment. Clin Orthop Surg. 2025;17(2):187.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/40170770/"
+    },
+    {
+      "Title": "Littlewood C, Moffatt M, Maher N, Irving G. Current and future advances in practice: tendinopathies of the shoulder. Rheumatol Adv Pract. 2023;7(3):rkad086.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38091385/"
+    },
+    {
+      "Title": "Rahmadi A, Steiner N, Münch G. Advanced glycation endproducts as gerontotoxins and biomarkers for carbonyl-based degenerative processes in Alzheimer’s disease. Clin Chem Lab Med. 2011;49(3):385-391.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/21275816/"
+    },
+    {
+      "Title": "Gill V, Kumar V, Singh K, Kumar A, Kim J-J. Advanced Glycation End Products (AGEs) May Be a Striking Link Between Modern Diet and Health. Biomolecules. 2019;9(12):888.",
+      "Url": "https://doi.org/10.3390/biom9120888"
+    },
+    {
+      "Title": "Pandey M, AlQassab O, Kanthajan T, et al. Effectiveness of High-Fiber, Plant-Based Diets in Reducing Cardiovascular Risk Factors Among Middle-Aged and Older Adults: A Systematic Review. Cureus. 2024;16(8):e67660.",
+      "Url": "https://doi.org/10.7759/cureus.67660"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "exercise",
+      "Url": "https://nutritionfacts.org/topics/exercise/"
+    },
+    {
+      "Title": "How Not to Hurt",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-hurt/"
+    },
+    {
+      "Title": "pain",
+      "Url": "https://nutritionfacts.org/topics/pain/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Finally! Something we can actually do! Cholesterol loves tendons. In fact, that’s why we can diagnose familial hypercholesterolemia (extremely high cholesterol levels) by simply measuring the width of the Achilles’ tendon to see how much it’s swelled up with cholesterol. Isn’t that wild? The cholesterol isn’t benign either; it delays healing and increases the risk of tearing and re-tearing. So, we aren’t talking only about the importance of preventing rotator cuff degeneration in the first place, but preventing worse outcomes for those who </span><i><span style=\"font-weight: 400\">already</span></i><span style=\"font-weight: 400\"> suffer from it.</span></p>\n<p><span style=\"font-weight: 400\">If fear of dying from heart disease, the leading cause of death for men and women, isn’t sufficient motivation to lower your LDL cholesterol as much as possible, maybe your shoulder health will be. How do you lower your LDL as much as possible? First, you go to your local library and borrow my book </span><a href=\"https://nutritionfacts.org/book/portfolio/\"><b><i>Lower LDL Cholesterol Naturally with Food</i></b></a><span style=\"font-weight: 400\">,</span> <span style=\"font-weight: 400\">available as an e-book, soft cover, and audiobook. (As always, all proceeds from any of my books are donated directly to charity.)</span></p>\n<p><span style=\"font-weight: 400\">Second, you decrease your consumption of advanced glycation end-products (AGEs). How do you do that? You go to your local library and borrow my book </span><a href=\"https://nutritionfacts.org/book/how-not-to-age/\"><i><span style=\"font-weight: 400\">How Not to Age</span></i><span style=\"font-weight: 400\">,</span></a><span style=\"font-weight: 400\"> since glycation is one of the aging pathways. (That title is available as an e-book, hard cover, and audiobook, and, again, all proceeds go right to charity.)</span></p>\n<p><span style=\"font-weight: 400\">This is the fifth video in a six-part series. If you missed the previous ones, check out:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/steroid-injections-for-shoulder-pain-relief-may-do-more-harm-than-good/\"><span style=\"font-weight: 400\">Steroid Injections for Shoulder Pain Relief May Do More Harm Than Good</span></a><span style=\"font-weight: 400\"> </span></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/chiropractic-manipulation-physical-therapy-and-exercise-therapy-for-shoulder-pain-relief/\"><span style=\"font-weight: 400\">Chiropractic Manipulation, Physical Therapy, and Exercise Therapy for Shoulder Pain Relief</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/rotator-cuff-surgery-may-cause-more-shoulder-pain-than-relief/\"><span style=\"font-weight: 400\">Rotator Cuff Surgery May Cause More Shoulder Pain Than Relief</span></a></li>\n<li style=\"font-weight: 400\"><a href=\"https://nutritionfacts.org/video/why-do-surgeons-continue-to-perform-worthless-operations/\"><span style=\"font-weight: 400\">Why Do Surgeons Continue to Perform Worthless Operations?</span></a></li>\n</ul>\n<p><span style=\"font-weight: 400\">Stay tuned for the final video, </span><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=121105\"><span style=\"font-weight: 400\">Frozen Shoulder (Adhesive Capsulitis): What It Is and How to Prevent and Treat It</span></a><b>.</b></p>\n<p><span style=\"font-weight: 400\">Check out my new book</span> <a href=\"https://nutritionfacts.org/book/how-not-to-hurt/\"><i><span style=\"font-weight: 400\">How Not to Hurt</span></i></a><span style=\"font-weight: 400\">, available now for preorders. (All proceeds received from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}
