@@ -1,0 +1,84 @@
+{
+  "Title": "What Is Plantar Fasciitis (and Other Causes of Heel Pain)?",
+  "Url": "https://nutritionfacts.org/video/what-is-plantar-fasciitis-and-other-causes-of-heel-pain/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/2fKRVpJioNo"
+  },
+  "UpdatedAt": "2026-10-26T11:50:37+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": null,
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "How to differentiate between plantar fasciitis and other causes of heel pain, such as heel fat pad atrophy.",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nPlantar fasciitis is the most common cause of plantar heel pain. Plantar comes from the Latin planta meaning “sole,” so plantar heel pain means pain in the heel of the foot. The plantar fascia is a band of connective tissue that runs along the bottom of the foot, connecting our toes to our heel bone. It supports the arch of the foot by working like a “shock-absorbing bowstring.” Plantar fasciitis affects about 1 percent of adults every year, accounting for more than a million doctor visits annually in the United States. It is especially prevalent in athletes, particularly runners.\nThough the primary cause of plantar fasciitis is unknown, it is commonly considered to be the result of an overuse injury at the insertion point at the heel, that can lead to a knife-like pain with every step. Excessive repetitive stress may exceed the body’s capacity to recover. Like tennis elbow, despite its -itis name, plantar fasciitis is considered a degenerative condition rather than a primarily inflammatory one. As such, it’s now often referred to as plantar fasciosis or fasciopathy.\nIn plantar fasciitis, the pain is felt more towards the front of the heel and can be reproduced by palpating the bony prominence in the front midline of the heel bone and along the plantar fascia. Even just pulling the toes up towards the shin may elicit sharp, stabbing pain. Pain upon squeezing the sides of the heel bone (called a positive calcaneal squeeze test) suggests a stress fracture (which often doesn’t show up on a regular x-ray). Heel pain accompanied by burning, tingling, or numbness is more consistent with a nerve issue. Pain in the back of the heel is more consistent with Achilles’ tendinopathy, which can also plague runners, while a deep, bruise-like pain at the middle of the heel is more characteristic of the second most common cause of plantar heel pain: heel fat pad atrophy.\nHeel fat pad atrophy is the loss of the fat pad that normally absorbs shock in the heel due to damage or irritation from acute trauma, like a single, high-impact landing or chronic overuse, such as excessive jumping or walking on hard surfaces. The pain can be elicited with firm palpation of the middle of the heel and, compared to plantar fasciitis, is more likely to be bilateral, hurt at night, and be worse when standing barefoot on a hard surface. Plantar fasciitis is also worse with the first steps after a period of rest.\nTreatment for heel fat pad atrophy commonly involves the insertion of viscoelastic silicone gel cups in shoes to cushion the heel. There are case reports suggesting this may help… though “alarmingly,” there are no randomized controlled trials of any sort of treatment strategies for this condition. This is surprising, given that it may affect as many as one in 25 older adults.\nBack to our #1 cause of heel pain, plantar fasciitis has been considered a self-limiting condition in that, in the vast majority of cases, it resolves within a year of onset, regardless of chosen treatment. As such, the treatment emphasis might be to offer reassurance along with any measures that may make the patient more comfortable. However, some studies suggest that as many as 18 to 49 percent of plantar fasciitis sufferers remain symptomatic even after long-term follow-up over one and a half to five years. One survey of patients found that 44 percent still had pain 15 years later, though the average time to symptom resolution may stretch from around six months to five years.\nThe desperation for relief experienced by patients is illustrated by the extremity of treatments tried, from injecting powdered human placenta to blasting the foot with 60,000 chest x-rays’ worth of radiation (defended by the researchers as “much lower” than that used in radiation cancer treatments). What can we do to prevent plantar fasciitis in the first place? I’ll explore just that question, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Cooper MT. Common Painful Foot and Ankle Conditions. JAMA. 2023;330(23):2285.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/38112812/"
+    },
+    {
+      "Title": "Wrobel JS, Fleischer AE, Matzkin‐Bridger J, et al. Physical Examination Variables Predict Response to Conservative Treatment of Nonchronic Plantar Fasciitis: Secondary Analysis of a Randomized, Placebo‐Controlled Footwear Study. PM R. 2015;8(5):436-444.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/26409199/"
+    },
+    {
+      "Title": "Wolgin M, Cook C, Graham C, Mauldin D. Conservative Treatment of Plantar Heel Pain: Long-Term Follow-Up. Foot Ankle Int. 1994;15(3):97-102.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/7951946/"
+    },
+    {
+      "Title": "Rhim HC, Kwon J, Park J, Borg-Stein J, Tenforde AS. A Systematic Review of Systematic Reviews on the Epidemiology, Evaluation, and Treatment of Plantar Fasciitis. Life (Basel). 2021;11(12):1287.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34947818/"
+    },
+    {
+      "Title": "Hansen L, Krogh TP, Ellingsen T, Bolvig L, Fredberg U. Long-Term Prognosis of Plantar Fasciitis: A 5- to 15-Year Follow-up Study of 174 Patients With Ultrasound Examination. Orthop J Sports Med. 2018;6(3):2325967118757983.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29536022/"
+    },
+    {
+      "Title": "Canyilmaz E, Canyilmaz F, Aynaci O, et al. Prospective Randomized Comparison of the Effectiveness of Radiation Therapy and Local Steroid Injection for the Treatment of Plantar Fasciitis. Int J Radiat Oncol Biol Phys. 2015;92(3):659-666.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25936814/"
+    },
+    {
+      "Title": "Zelen CM, Poka A, Andrews J. Prospective, Randomized, Blinded, Comparative Study of Injectable Micronized Dehydrated Amniotic/Chorionic Membrane Allograft for Plantar Fasciitis—A Feasibility Study. Foot Ankle Int. 2013;34(10):1332-1339.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/23945520/"
+    },
+    {
+      "Title": "Çatal B, Genç E, Çaçan MA, Güleryüz Y, Erdil ME. Is there a relation between plantar fasciitis and total cholesterol levels? Foot Ankle Surg. 2022;28(3):390-393.",
+      "Url": "https://doi.org/10.1016/j.fas.2021.05.005"
+    },
+    {
+      "Title": "Murphy K, Curry EJ, Matzkin EG. Barefoot Running: Does It Prevent Injuries? Sports Med. 2013;43(11):1131-1138.",
+      "Url": "https://doi.org/10.1007/s40279-013-0093-2"
+    },
+    {
+      "Title": "Choo YJ, Park CH, Chang MC. Rearfoot disorders and conservative treatment: a narrative review. Ann Palliat Med. 2020;9(5):3546-3552.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32787369/"
+    },
+    {
+      "Title": "Lin CY, Wu CH, Özçakar L. Restoration of Heel Pad Elasticity in Heel Pad Syndrome Evaluated by Shear Wave Elastography. Am J Phys Med Rehabil. 2017;96(5):e96.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/27820733/"
+    },
+    {
+      "Title": "Tu P. Heel Pain: Diagnosis and Management. Am Fam Physician. 2018;97(2):86-93.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/29365222/"
+    },
+    {
+      "Title": "Chang AH, Rasmussen SZ, Jensen AE, Sørensen T, Rathleff MS. What do we actually know about a common cause of plantar heel pain? A scoping review of heel fat pad syndrome. J Foot Ankle Res. 2022;15(1):60.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/35974398/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "How Not to Hurt",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-hurt/"
+    },
+    {
+      "Title": "pain",
+      "Url": "https://nutritionfacts.org/topics/pain/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">I discussed how the insertion of heel-cushioning silicon gel cups into our shoes may help heel pad atrophy, but what can we do for </span><i><span style=\"font-weight: 400\">plantar fasciitis</span></i><span style=\"font-weight: 400\">? Before we get to treatment, let’s start with prevention, which I cover in my next video, </span><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=121138\"><span style=\"font-weight: 400\">How to Prevent Plantar Fasciitis</span></a><span style=\"font-weight: 400\">.</span></p>\n<p><span style=\"font-weight: 400\">This is all taken from my latest book,</span> <a href=\"https://nutritionfacts.org/book/how-not-to-hurt/\"><i><span style=\"font-weight: 400\">How Not to Hurt</span></i></a><span style=\"font-weight: 400\">, available now for preorders. (All proceeds received from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}
