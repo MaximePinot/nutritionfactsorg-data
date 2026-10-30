@@ -1,0 +1,84 @@
+{
+  "Title": "How to Prevent Plantar Fasciitis",
+  "Url": "https://nutritionfacts.org/video/how-to-prevent-plantar-fasciitis/",
+  "YouTubeVideo": {
+    "Url": "https://www.youtube.com/embed/G79n8x94xrY"
+  },
+  "UpdatedAt": "2026-10-28T11:50:41+00:00",
+  "Author": "Michael Greger M.D. FACLM",
+  "Volume": null,
+  "License": {
+    "Name": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "Url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "Description": "If plantar fasciitis is an overuse injury where damage outpaces repair, how can we reduce microtrauma and also facilitate healing?",
+  "Transcript": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\nThe most accepted theory for the cause of plantar fasciitis presents it as an overuse injury in which the rate of damage from repetitive microtrauma exceeds the body’s healing capacity. Stress on the plantar fascia can be reduced by avoiding excess body weight, prolonged standing, and excessive running. Those who are obese have five to six times the odds of plantar fasciitis compared to those who are not. Individuals with occupations requiring them to stand have three to four times the odds, and up to one in six runners is affected.\nThose with plantar fasciitis are recommended to avoid flat, unsupportive shoes, such as flip-flops. In the past, running barefoot was recommended as a treatment for plantar fasciitis, but subsequent evidence suggests that being barefoot may do more harm than good, possibly even increasing the risk of developing the condition in the first place.\nPlantar fasciitis is one of the reasons runners are urged to regularly replace their running shoes. Is that just overpriced shoe company propaganda? Those with a rearfoot strike pattern (by far the most common) have about a 15 to 30 percent reduction in the amount of heel cushioning after running about 300 miles, though even experienced recreational runners don’t perceive these changes even after running 400 miles. It’s unclear if this difference is enough to make an actual difference. A study of runners found, paradoxically, that running in new shoes was associated with both decreased and increased rates of injury. Perhaps the apparent protection from the new shoes came from greater cushioning and support, whereas the apparent risk of injury was reverse causation. (Rather than the new running shoes preventing injury, injured runners were trying to solve their issues with frequent shoe changes.) Special “double air-cushioned” shoes were put to the test for plantar fasciitis and failed to significantly improve symptoms.\nDecreasing microtrauma injury is just half of the equation. What can we do to boost healing? One thing that may negatively affect tendon healing is having a high cholesterol level. Just as excess cholesterol in our system can infiltrate our artery walls and trigger inflammation, deposition of cholesterol in our tendons leads to a persistent inflammatory state that can result in chronic tendon degeneration. This may help explain why high cholesterol is also associated with Achilles’ tendon disorders, tennis elbow, and rotator cuff tears.\nPatients with Achilles’ tendon rupture are about three times as likely to have high cholesterol compared to matched controls with intact tendons. In fact, that’s one of the ways familial hypercholesterolemia is diagnosed— an ultrasound measurement of the thickness of the Achilles’ tendon. Familial hypercholesterolemia is an inherited condition that leads to extremely high cholesterol, so much so that the tendon swells with cholesterol accumulation. Having high LDL cholesterol may triple the odds of plantar fasciitis.\nAnimal studies prove cause-and-effect. In rats, even mildly elevated cholesterol impaired tendon-healing abilities. and when mice were fed a diet high in saturated fat, researchers found a marked increase in cholesterol deposition in their tendons, which significantly adversely affected their tendon function in terms of failure stress and the load the tendon is able to bear. Though there hasn’t been a trial of cholesterol-lowering drugs for plantar fasciitis, cholesterol-lowering therapy may be able to improve the musculoskeletal manifestations (mainly tendonitis) in the majority of those with familial hypercholesterolemia.\nIf you do develop plantar fasciitis, what’s the best treatment? Certain stretching exercises are so helpful in treating it they might also be helpful in preventing it in the first place. I’ll cover plantar fasciitis treatment, next.\nPlease consider volunteering to help out on the site.",
+  "Sources": [
+    {
+      "Title": "Sayyed-Hosseinian SH, Bagheri F, Sistanian F, et al. Comparison of Lipid and Glucose Levels in Individuals with and Without Plantar Fasciitis: A Cross-Sectional Observational Study. J Am Podiatr Med Assoc. 2025;115(1):1-5.",
+      "Url": "https://doi.org/10.7547/22-084"
+    },
+    {
+      "Title": "Scott A, Zahradnik TM, Squier K, Beck C, Brunham LR. Diagnostic accuracy of ultrasound and MRI for Achilles tendon xanthoma in people with familial hypercholesterolemia: A systematic review. J Clin Lipidol. 2019;13(1):40-48.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/30503304/"
+    },
+    {
+      "Title": "Grewal N, Thornton GM, Behzad H, et al. Accumulation of Oxidized LDL in the Tendon Tissues of C57BL/6 or Apolipoprotein E Knock-Out Mice That Consume a High Fat Diet: Potential Impact on Tendon Health. PLoS One. 2014;9(12):e114214.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/25502628/"
+    },
+    {
+      "Title": "Rhim HC, Kwon J, Park J, Borg-Stein J, Tenforde AS. A Systematic Review of Systematic Reviews on the Epidemiology, Evaluation, and Treatment of Plantar Fasciitis. Life (Basel). 2021;11(12):1287.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/34947818/"
+    },
+    {
+      "Title": "Ozgurtas T, Yildiz C, Serdar M, Atesalp S, Kutluay T. Is high concentration of serum lipids a risk factor for Achilles tendon rupture? Clin Chim Acta. 2003;331(1-2):25-28.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12691860/"
+    },
+    {
+      "Title": "Çatal B, Genç E, Çaçan MA, Güleryüz Y, Erdil ME. Is there a relation between plantar fasciitis and total cholesterol levels? Foot Ankle Surg. 2022;28(3):390-393.",
+      "Url": "https://doi.org/10.1016/j.fas.2021.05.005"
+    },
+    {
+      "Title": "Klemp P, Halland AM, Majoos FL, Steyn K. Musculoskeletal manifestations in hyperlipidaemia: a controlled study. Ann Rheum Dis. 1993;52(1):44-48.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/8427513/"
+    },
+    {
+      "Title": "Waugh CM, Mousavizadeh R, Lee J, Screen HRC, Scott A. The impact of mild hypercholesterolemia on injury repair in the rat patellar tendon. J Orthop Res. 2023;41(9):1871-1881.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/36866829/"
+    },
+    {
+      "Title": "Cornwall MW, McPoil TG. CAN RUNNERS PERCEIVE CHANGES IN HEEL CUSHIONING AS THE SHOE AGES WITH INCREASED MILEAGE?. Int J Sports Phys Ther. 2017;12(4):616-624.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/28900568/"
+    },
+    {
+      "Title": "Murphy K, Curry EJ, Matzkin EG. Barefoot Running: Does It Prevent Injuries? Sports Med. 2013;43(11):1131-1138.",
+      "Url": "https://doi.org/10.1007/s40279-013-0093-2"
+    },
+    {
+      "Title": "Taunton JE, Ryan MB, Clement DB, McKenzie DC, Lloyd-Smith DR, Zumbo BD. A prospective study of running injuries: the Vancouver Sun Run In Training clinics. Br J Sports Med. 2003;37(3):239-244.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/12782549/"
+    },
+    {
+      "Title": "Eun SS, Chachan S, Lee SH. Effectiveness of a Double Air-Cushioned Shoe Compared with Physiotherapy in the Treatment of Plantar Fasciitis. Biomed Res Int. 2020;2020:9468302.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/32337285/"
+    },
+    {
+      "Title": "Descamps OS, Leysen X, Van Leuven F, Heller FR. The use of Achilles tendon ultrasonography for the diagnosis of familial hypercholesterolemia. Atherosclerosis. 2001;157(2):514-518.",
+      "Url": "https://pubmed.ncbi.nlm.nih.gov/11472754/"
+    }
+  ],
+  "Acknowledgements": "Motion graphics by Avo Media",
+  "Topics": [
+    {
+      "Title": "How Not to Hurt",
+      "Url": "https://nutritionfacts.org/topics/how-not-to-hurt/"
+    },
+    {
+      "Title": "pain",
+      "Url": "https://nutritionfacts.org/topics/pain/"
+    }
+  ],
+  "DoctorsNote": {
+    "Html": "<p><span style=\"font-weight: 400\">Since plantar fasciitis is thought to be caused by an overuse injury in which the rate of damage from repetitive microtrauma exceeds the body’s healing capacity, there’s a two-fold way to prevent it: (1) Decrease microtrauma injury by avoiding excess body weight, prolonged standing, and excessive running, and, at the same time, (2) boost healing, which may involve lowering LDL cholesterol levels. I wrote a whole book on that! It includes the recommendations encapsulated here, such as minimizing the intake of foods that raise cholesterol, while also maximizing the intake of foods that actively </span><i><span style=\"font-weight: 400\">lower</span></i><span style=\"font-weight: 400\"> cholesterol.</span></p>\n<p><span style=\"font-weight: 400\">I’ve tried to answer all your questions and make it easy. You may want to check out my </span><a href=\"https://nutritionfacts.org/video/how-to-lower-cholesterol-with-dr-gregers-portfolio-plus-powder-recipes/\"><span style=\"font-weight: 400\">doctor-Greger-in-the-kitchen style video</span></a><span style=\"font-weight: 400\"> where I mix up a batch of my Portfolio Plus Powder and dive into my book </span><a href=\"https://nutritionfacts.org/book/portfolio/\">Lower LDL Cholesterol Naturally with Food</a><span style=\"font-weight: 400\">. (It’s available as softcover, e-book, and audiobook, and, as always, all proceeds are donated directly to charity.)</span></p>\n<p><span style=\"font-weight: 400\">Let’s move on to treatment with my next video, </span><a href=\"https://nutritionfacts.org/?post_type=video&amp;p=121507\"><span style=\"font-weight: 400\">Do Medical, Surgical, and Physical Therapy Treatments Work for Plantar Fasciitis?</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">If you missed the previous video, check out </span><a href=\"https://nutritionfacts.org/video/what-is-plantar-fasciitis-and-other-causes-of-heel-pain/\"><span style=\"font-weight: 400\">What Is Plantar Fasciitis (and Other Causes of Heel Pain)?</span></a><span style=\"font-weight: 400\">. </span></p>\n<p><span style=\"font-weight: 400\">You may also be interested in my forthcoming book,</span> <a href=\"https://nutritionfacts.org/book/how-not-to-hurt/\"><i><span style=\"font-weight: 400\">How Not to Hurt</span></i></a><span style=\"font-weight: 400\">, available now for preorders. (All proceeds received from the book are donated directly to charity.)</span></p>\n     <p>If you haven&#39;t yet, you can <a href=\"https://nutritionfacts.org/subscribe/\" title=\"Subscribe\">subscribe to our free newsletter</a>. With your subscription, you&#39;ll also get notifications for just-released blogs and videos. Check out our <a href=\"https://nutritionfacts.org/translations-info/\" target=\"_blank\" title=\"Translated Resources\">information page</a> about our translated resources.</p>"
+  }
+}
